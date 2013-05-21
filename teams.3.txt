@@ -1,0 +1,26 @@
+#############################
+#
+#  3. Bundesliga 2012/13
+#
+#  20 Teams
+
+osnabrueck, Osnabrück|VfL Osnabrück
+karlsruhe, Karlsruhe|Karlsruher SC
+bielefeld, Bielefeld|Arminia Bielefeld
+muenster, Münster|Preußen Münster
+heidenheim, Heidenheim|1. FC Heidenheim
+uhaching, U'haching|SpVgg Unterhaching
+chemnitz, Chemnitz|Chemnitzer FC
+burghausen, Burghausen|Wacker Burghausen
+wiesbaden, Wiesbaden|SV Wehen Wiesbaden
+stuttgartii, Stuttgart II|VfB Stuttgart II
+halle, Halle|Hallescher FC
+offenbach, Offenbach|Kickers Offenbach
+rostock, Rostock|Hansa Rostock
+stuttkick, Stutt. Kick.|Stuttgarter Kickers
+aachen, Aachen|Alemannia Aachen
+saarbruecken, Saarbrücken|1. FC Saarbrücken
+rwerfurt, RW Erfurt|Rot-Weiß Erfurt
+babelsberg, Babelsberg|SV Babelsberg 03
+darmstadt, Darmstadt|SV Darmstadt 98
+dortmundii, Dortmund II|Bor. Dortmund II

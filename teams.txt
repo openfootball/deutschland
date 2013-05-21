@@ -1,0 +1,25 @@
+##############################
+# 1. Bundesliga 2012/13
+#
+#  18 teams
+
+## nb: three letter codes (tags) taken from official bundesliga.de site
+
+bayern,      FC Bayern München|Bayern München,    FCB, city:muenchen
+schalke,     Schalke 04|FC Schalke 04,                       S04, city:gelsenkirchen
+dortmund,    Borussia Dortmund|Bor. Dortmund,     BVB, city:dortmund
+frankfurt,   Eintracht Frankfurt|E. Frankfurt,    FFM, city:frankfurt
+hannover,    Hannover 96,                         H96, city:hannover
+leverkusen,  Bayer 04 Leverkusen|Bayer Leverkusen|Bay. Leverkusen, B04, city:leverkusen
+duesseldorf, Fortuna Düsseldorf|F. Düsseldorf,    F95, city:duesseldorf
+hsv,         Hamburger SV,                        HSV, city:hamburg
+mainz,       1. FSV Mainz 05|FSV Mainz 05,        M05, city:mainz
+mgladbach,   Borussia M'gladbach|Bor. M'gladbach|Bor. Mönchengladbach|Borussia Mönchengladbach, BMG, city:mgladbach
+freiburg,    SC Freiburg,                         SCF, city:freiburg
+bremen,      Werder Bremen,                       BRE, city:bremen
+hoffenheim,  1899 Hoffenheim|TSG 1899 Hoffenheim, HOF, city:hoffenheim
+nuernberg,   1. FC Nürnberg,                      FCN, city:nuernberg
+stuttgart,   Stuttgart|VfB Stuttgart,             VFB, city:stuttgart
+augsburg,    FC Augsburg,                         FCA, city:augsburg
+wolfsburg,   VfL Wolfsburg,                       WOB, city:wolfsburg
+fuerth,      Greuther Fürth|SpVgg Greuther Fürth, SGF, city:fuerth

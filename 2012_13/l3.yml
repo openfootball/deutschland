@@ -1,0 +1,34 @@
+######################################
+# Deutsche 3. Liga 2012/13
+
+league: de.3
+season: 2012/13
+start_at: 2012-07-21    # todo: check start date
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+####################
+# 20 Teams
+
+teams:
+- osnabrueck
+- karlsruhe
+- bielefeld
+- muenster
+- heidenheim
+- uhaching
+- chemnitz
+- burghausen
+- wiesbaden
+- stuttgartii
+- halle
+- offenbach
+- rostock
+- stuttkick
+- aachen
+- saarbruecken
+- rwerfurt
+- babelsberg
+- darmstadt
+- dortmundii

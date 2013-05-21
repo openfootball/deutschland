@@ -1,0 +1,32 @@
+######################################
+# Deutsche 2. Bundesliga 2012/13
+
+league: de.2
+season: 2012/13
+start_at: 2012-07-21    # todo: check start date
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+####################
+# 18 Teams
+
+teams:
+- braunschweig
+- herthabsc
+- klautern
+- fsvfrankfurt
+- koeln
+- unionberlin
+- cottbus
+- tsvmuenchen
+- aalen
+- ingolstadt
+- paderborn
+- bochum
+- aue
+- stpauli
+- duisburg
+- dresden
+- sandhausen
+- regensburg

@@ -1,0 +1,5 @@
+
+de,     Deutsche 1. Bundesliga
+de.2,   Deutsche 2. Bundesliga
+de.3,   Deutsche 3. Liga
+de.cup, DFB Pokal

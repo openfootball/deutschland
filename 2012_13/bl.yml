@@ -1,0 +1,32 @@
+######################################
+# Deutsche Bundesliga 2012/13
+
+league: de
+season: 2012/13
+start_at: 2012-07-21
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+####################
+# 18 Teams
+
+teams:
+- bayern
+- frankfurt
+- schalke
+- dortmund
+- hannover
+- leverkusen
+- duesseldorf
+- hsv
+- mainz
+- mgladbach
+- freiburg
+- bremen
+- hoffenheim
+- nuernberg
+- stuttgart
+- augsburg
+- wolfsburg
+- fuerth

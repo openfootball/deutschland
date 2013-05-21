@@ -1,0 +1,30 @@
+#############################
+#
+#  2. Bundesliga 2012/13
+#    see -> de.wikipedia.org/wiki/2._Fußball-Bundesliga_2012/13
+#  18 Teams
+#
+#  official -> www.bundesliga.de/de/liga2
+
+
+#
+# three letter codes from bundesliga.de/de/liga2
+
+braunschweig, Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig,   EBS , city:braunschweig
+herthabsc,    Hertha BSC,     BSC, city:berlin          ### check: use only hertha as key or bsc - why? why not?
+klautern,     1. FC Kaiserlautern|K'lautern,      FCK, city:kaiserslautern
+fsvfrankfurt, FSV Frankfurt|FSV Frankfurt 1899,  FSV, city:frankfurt
+koeln,        1. FC Köln|Köln,           KOE, city:koeln
+unionberlin,  Union Berlin|1. FC Union Berlin,   FCU, city:berlin
+cottbus,      Energie Cottbus|Cottbus|FC Energie Cottbus,        FCE, city:cottbus
+tsvmuenchen,  1860 München|TSV München 1860,   M60, city:muenchen    ### check: allow use of number in key eg muenchen1860?
+aalen,        VfR Aalen|Aalen,          AAL,  city:aalen
+ingolstadt,   FC Ingolstadt 04|Ingolstadt,     FCI, city:ingolstadt
+paderborn,    SC Paderborn 07|Paderborn,      SCP, city:paderborn
+bochum,       VfL Bochum|Bochum|VfL Bochum 1848,         BOC, city:bochum
+aue,          Erzgebirge Aue|Aue|FC Erzgebirge Aue,       AUE, city:aue
+stpauli,      FC St. Pauli|St. Pauli,      STP,  city:hamburg
+duisburg,     MSV Duisburg|Duisburg,       MSV, city:duisburg      
+dresden,      Dynamo Dresden|Dresden|SG Dynamo Dresden,        SGD,  city:dresden
+sandhausen,   SV Sandhausen|Sandhausen|SV Sandhausen 1916,     SAN, city:sandhausen
+regensburg,   Jahn Regensburg|Regensburg|SSV Jahn Regensburg,     REG, city:regensburg 

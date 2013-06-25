@@ -1,5 +1,5 @@
-##############################
-# 1. Bundesliga 2012/13
+###################################
+# Deutsche 1. Bundesliga 2013/14
 #
 #  18 teams
 
@@ -11,7 +11,6 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,     BVB, city:dortmund
 frankfurt,   Eintracht Frankfurt|E. Frankfurt,    FFM, city:frankfurt
 hannover,    Hannover 96,                         H96, city:hannover
 leverkusen,  Bayer 04 Leverkusen|Bayer Leverkusen|Bay. Leverkusen, B04, city:leverkusen
-duesseldorf, Fortuna Düsseldorf|F. Düsseldorf,    F95, city:duesseldorf
 hsv,         Hamburger SV,                        HSV, city:hamburg
 mainz,       1. FSV Mainz 05|FSV Mainz 05,        M05, city:mainz
 mgladbach,   Borussia M'gladbach|Bor. M'gladbach|Bor. Mönchengladbach|Borussia Mönchengladbach, BMG, city:mgladbach
@@ -22,4 +21,7 @@ nuernberg,   1. FC Nürnberg,                      FCN, city:nuernberg
 stuttgart,   Stuttgart|VfB Stuttgart,             VFB, city:stuttgart
 augsburg,    FC Augsburg,                         FCA, city:augsburg
 wolfsburg,   VfL Wolfsburg,                       WOB, city:wolfsburg
-fuerth,      Greuther Fürth|SpVgg Greuther Fürth, SGF, city:fuerth
+
+braunschweig, Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig,   EBS , city:braunschweig
+herthabsc,    Hertha BSC,     BSC, city:berlin          ### check: use only hertha as key or bsc - why? why not?
+

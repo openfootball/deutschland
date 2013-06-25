@@ -1,0 +1,37 @@
+######################################
+# Deutsche Bundesliga 2013/14
+
+league: de
+season: 2013/14
+start_at: 2013-08-09
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+fixtures:
+- bl
+- bl_ii
+
+
+####################
+# 18 Teams
+
+teams:
+- bayern
+- frankfurt
+- schalke
+- dortmund
+- hannover
+- leverkusen
+- hsv
+- mainz
+- mgladbach
+- freiburg
+- bremen
+- hoffenheim
+- nuernberg
+- stuttgart
+- augsburg
+- wolfsburg
+- herthabsc
+- braunschweig

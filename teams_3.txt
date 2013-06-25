@@ -1,26 +1,28 @@
 #############################
 #
-#  3. Bundesliga 2012/13
+#  3. Bundesliga 2013/14
 #
 #  20 Teams
 
+duisburg,     MSV Duisburg|Duisburg,       MSV, city:duisburg      
+regensburg,   Jahn Regensburg|Regensburg|SSV Jahn Regensburg,     REG, city:regensburg 
+
 osnabrueck, Osnabrück|VfL Osnabrück
-karlsruhe, Karlsruhe|Karlsruher SC
-bielefeld, Bielefeld|Arminia Bielefeld
 muenster, Münster|Preußen Münster
 heidenheim, Heidenheim|1. FC Heidenheim
-uhaching, U'haching|SpVgg Unterhaching
 chemnitz, Chemnitz|Chemnitzer FC
 burghausen, Burghausen|Wacker Burghausen
 wiesbaden, Wiesbaden|SV Wehen Wiesbaden
-stuttgartii, Stuttgart II|VfB Stuttgart II
+uhaching, U'haching|SpVgg Unterhaching
 halle, Halle|Hallescher FC
-offenbach, Offenbach|Kickers Offenbach
-rostock, Rostock|Hansa Rostock
-stuttkick, Stutt. Kick.|Stuttgarter Kickers
-aachen, Aachen|Alemannia Aachen
 saarbruecken, Saarbrücken|1. FC Saarbrücken
+rostock, Rostock|Hansa Rostock
 rwerfurt, RW Erfurt|Rot-Weiß Erfurt
-babelsberg, Babelsberg|SV Babelsberg 03
-darmstadt, Darmstadt|SV Darmstadt 98
+stuttgartii, Stuttgart II|VfB Stuttgart II
 dortmundii, Dortmund II|Bor. Dortmund II
+stuttkick, Stutt. Kick.|Stuttgarter Kickers
+darmstadt, Darmstadt|SV Darmstadt 98
+
+kiel,       Holstein Kiel
+leipzip,    RB Leipzig
+elversberg, SV Elversberg

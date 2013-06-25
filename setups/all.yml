@@ -15,6 +15,7 @@ teams:
 - de-deutschland!/teams
 - de-deutschland!/teams_2
 - de-deutschland!/teams_3
+- de-deutschland!/teams_x
 
 
 ############
@@ -25,3 +26,6 @@ teams:
 - de-deutschland!/2012_13/bl2
 - de-deutschland!/2012_13/l3
 - de-deutschland!/2012_13/cup
+
+2013_14:
+- de-deutschland!/2013_14/bl

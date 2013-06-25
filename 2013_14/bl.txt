@@ -2,4 +2,110 @@
 # Deutsche Bundesliga 2013/14
 #
 
+1. Spieltag // Fr.+Sa. 9.+10. Aug
 
+09.08.2013 20.30 (Fr)  Bayern München  Bor. Mönchengladbach  
+10.08.2013 (Sa)  FC Schalke 04           Hamburger SV  
+10.08.2013 (Sa)  Bayer Leverkusen        SC Freiburg  
+10.08.2013 (Sa)  Hannover 96             VfL Wolfsburg  
+10.08.2013 (Sa)  1899 Hoffenheim         1. FC Nürnberg  
+10.08.2013 (Sa)  1. FSV Mainz 05         VfB Stuttgart  
+10.08.2013 (Sa)  FC Augsburg             Borussia Dortmund  
+10.08.2013 (Sa)  Eintracht Braunschweig  Werder Bremen  
+10.08.2013 (Sa)  Hertha BSC              Eintracht Frankfurt  
+
+2. Spieltag
+
+17.08.2013 (Sa)  Borussia Dortmund     Eintracht Braunschweig  
+17.08.2013 (Sa)  Bor. Mönchengladbach  Hannover 96  
+17.08.2013 (Sa)  VfB Stuttgart         Bayer Leverkusen  
+17.08.2013 (Sa)  VfL Wolfsburg         FC Schalke 04
+17.08.2013 (Sa)  Werder Bremen         FC Augsburg  
+17.08.2013 (Sa)  1. FC Nürnberg        Hertha BSC  
+17.08.2013 (Sa)  SC Freiburg           1. FSV Mainz 05  
+17.08.2013 (Sa)  Hamburger SV          1899 Hoffenheim  
+17.08.2013 (Sa)  Eintracht Frankfurt   Bayern München  
+
+3. Spieltag
+
+24.08.2013 (Sa)  Borussia Dortmund       Werder Bremen  
+24.08.2013 (Sa)  Bayern München          1. FC Nürnberg  
+24.08.2013 (Sa)  Bayer Leverkusen        Bor. Mönchengladbach  
+24.08.2013 (Sa)  Hannover 96             FC Schalke 04  
+24.08.2013 (Sa)  1899 Hoffenheim         SC Freiburg  
+24.08.2013 (Sa)  1. FSV Mainz 05         VfL Wolfsburg  
+24.08.2013 (Sa)  FC Augsburg             VfB Stuttgart  
+24.08.2013 (Sa)  Eintracht Braunschweig  Eintracht Frankfurt  
+24.08.2013 (Sa)  Hertha BSC              Hamburger SV  
+
+4. Spieltag
+
+27.08.2013 (Di)  SC Freiburg           Bayern München  
+31.08.2013 (Sa)  FC Schalke 04         Bayer Leverkusen  
+31.08.2013 (Sa)  Bor. Mönchengladbach  Werder Bremen  
+31.08.2013 (Sa)  VfB Stuttgart         1899 Hoffenheim  
+31.08.2013 (Sa)  Hannover 96           1. FSV Mainz 05  
+31.08.2013 (Sa)  VfL Wolfsburg         Hertha BSC  
+31.08.2013 (Sa)  1. FC Nürnberg        FC Augsburg  
+31.08.2013 (Sa)  Hamburger SV          Eintracht Braunschweig  
+31.08.2013 (Sa)  Eintracht Frankfurt   Borussia Dortmund  
+
+5. Spieltag
+
+14.09.2013 (Sa)  Borussia Dortmund       Hamburger SV  
+14.09.2013 (Sa)  Bayern München          Hannover 96  
+14.09.2013 (Sa)  Bayer Leverkusen        VfL Wolfsburg  
+14.09.2013 (Sa)  Werder Bremen           Eintracht Frankfurt  
+14.09.2013 (Sa)  1899 Hoffenheim         Bor. Mönchengladbach  
+14.09.2013 (Sa)  1. FSV Mainz 05         FC Schalke 04  
+14.09.2013 (Sa)  FC Augsburg             SC Freiburg  
+14.09.2013 (Sa)  Eintracht Braunschweig  1. FC Nürnberg  
+14.09.2013 (Sa)  Hertha BSC              VfB Stuttgart  
+
+6. Spieltag
+
+21.09.2013 (Sa)  FC Schalke 04         Bayern München  
+21.09.2013 (Sa)  Bor. Mönchengladbach  Eintracht Braunschweig  
+21.09.2013 (Sa)  VfB Stuttgart         Eintracht Frankfurt  
+21.09.2013 (Sa)  Hannover 96           FC Augsburg  
+21.09.2013 (Sa)  VfL Wolfsburg         1899 Hoffenheim  
+21.09.2013 (Sa)  1. FC Nürnberg        Borussia Dortmund  
+21.09.2013 (Sa)  SC Freiburg           Hertha BSC  
+21.09.2013 (Sa)  1. FSV Mainz 05       Bayer Leverkusen  
+21.09.2013 (Sa)  Hamburger SV          Werder Bremen  
+
+7. Spieltag
+
+28.09.2013 (Sa)  Borussia Dortmund       SC Freiburg  
+28.09.2013 (Sa)  Bayern München          VfL Wolfsburg  
+28.09.2013 (Sa)  Bayer Leverkusen        Hannover 96  
+28.09.2013 (Sa)  Werder Bremen           1. FC Nürnberg  
+28.09.2013 (Sa)  1899 Hoffenheim         FC Schalke 04  
+28.09.2013 (Sa)  FC Augsburg             Bor. Mönchengladbach  
+28.09.2013 (Sa)  Eintracht Braunschweig  VfB Stuttgart  
+28.09.2013 (Sa)  Eintracht Frankfurt     Hamburger SV  
+28.09.2013 (Sa)  Hertha BSC              1. FSV Mainz 05  
+
+8. Spieltag
+
+05.10.2013 (Sa)  FC Schalke 04         FC Augsburg  
+05.10.2013 (Sa)  Bor. Mönchengladbach  Borussia Dortmund  
+05.10.2013 (Sa)  Bayer Leverkusen      Bayern München  
+05.10.2013 (Sa)  VfB Stuttgart         Werder Bremen  
+05.10.2013 (Sa)  Hannover 96           Hertha BSC  
+05.10.2013 (Sa)  VfL Wolfsburg         Eintracht Braunschweig  
+05.10.2013 (Sa)  1. FC Nürnberg        Hamburger SV  
+05.10.2013 (Sa)  SC Freiburg           Eintracht Frankfurt  
+05.10.2013 (Sa)  1. FSV Mainz 05       1899 Hoffenheim  
+
+9. Spieltag
+
+19.10.2013 (Sa)  Borussia Dortmund       Hannover 96  
+19.10.2013 (Sa)  Bayern München          1. FSV Mainz 05  
+19.10.2013 (Sa)  Werder Bremen           SC Freiburg  
+19.10.2013 (Sa)  1899 Hoffenheim         Bayer Leverkusen  
+19.10.2013 (Sa)  FC Augsburg             VfL Wolfsburg  
+19.10.2013 (Sa)  Hamburger SV            VfB Stuttgart  
+19.10.2013 (Sa)  Eintracht Braunschweig  FC Schalke 04  
+19.10.2013 (Sa)  Eintracht Frankfurt     1. FC Nürnberg  
+19.10.2013 (Sa)  Hertha BSC              Bor. Mönchengladbach  

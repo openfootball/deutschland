@@ -1,0 +1,27 @@
+####
+# all
+
+seasons:
+- de-deutschland!/setups/data/seasons
+
+
+leagues:
+- de-deutschland!/leagues
+
+#########
+# teams
+
+teams:
+- de-deutschland!/teams
+- de-deutschland!/teams_2
+- de-deutschland!/teams_3
+
+
+############
+# fixtures
+
+2012_13:
+- de-deutschland!/2012_13/bl
+- de-deutschland!/2012_13/bl2
+- de-deutschland!/2012_13/l3
+- de-deutschland!/2012_13/cup

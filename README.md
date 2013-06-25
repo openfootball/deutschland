@@ -11,9 +11,10 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 Free open public domain football data for Deutschland (Germany) / Europe. Events include:
 
-- 1. Bundesliga
-- 2. Bundesliga
-- DFB Cup
+- Deutsche 1. Bundesliga
+- Deutsche 2. Bundesliga
+- Deutsche 3. Liga
+- DFB Pokal (Cup)
 
 Example:
 

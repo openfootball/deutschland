@@ -8,6 +8,11 @@ start_at: 2012-07-21
 
 # note: timezone for games (play_at) is *always* CET (central european time)
 
+fixtures:
+- bl
+- bl_ii
+
+
 ####################
 # 18 Teams
 

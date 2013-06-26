@@ -85,7 +85,7 @@ Official Site - [`bundesliga.de` (de)](http://bundesliga.de)
 
 ### Deutsche 2. Bundesliga
 
-Official Site - [`www.bundesliga.de/de/liga2`](http://www.bundesliga.de/de/liga2)
+Official Site - [`www.bundesliga.de/de/liga2` (de)](http://www.bundesliga.de/de/liga2)
 
 
 
@@ -109,8 +109,8 @@ Official Site - [`www.bundesliga.de/de/liga2`](http://www.bundesliga.de/de/liga2
 
 #### Wikipedia
 
-- [DFB-Pokal_2012/13](http://de.wikipedia.org/wiki/DFB-Pokal_2012/13)
-- [DFB-Pokal_2013/14](http://de.wikipedia.org/wiki/DFB-Pokal_2013/14)
+- [DFB-Pokal_2012/13 (de)](http://de.wikipedia.org/wiki/DFB-Pokal_2012/13)
+- [DFB-Pokal_2013/14 (de)](http://de.wikipedia.org/wiki/DFB-Pokal_2013/14)
 
 
 

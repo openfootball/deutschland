@@ -108,4 +108,104 @@
 19.10.2013 (Sa)  Hamburger SV            VfB Stuttgart  
 19.10.2013 (Sa)  Eintracht Braunschweig  FC Schalke 04  
 19.10.2013 (Sa)  Eintracht Frankfurt     1. FC Nürnberg  
-19.10.2013 (Sa)  Hertha BSC              Bor. Mönchengladbach  
+19.10.2013 (Sa)  Hertha BSC              Bor. Mönchengladbach
+
+
+10. Spieltag
+ 
+26.10.2013 (Sa)  Bayern München  Hertha BSC
+26.10.2013 (Sa)  FC Schalke 04  Borussia Dortmund
+26.10.2013 (Sa)  Bor. Mönchengladbach  Eintracht Frankfurt
+26.10.2013 (Sa)  Bayer Leverkusen  FC Augsburg
+26.10.2013 (Sa)  VfB Stuttgart  1. FC Nürnberg
+26.10.2013 (Sa)  Hannover 96  1899 Hoffenheim
+26.10.2013 (Sa)  VfL Wolfsburg  Werder Bremen
+26.10.2013 (Sa)  SC Freiburg  Hamburger SV
+26.10.2013 (Sa)  1. FSV Mainz 05  Eintracht Braunschweig
+
+
+11. Spieltag
+ 
+02.11.2013 (Sa)  Borussia Dortmund  VfB Stuttgart
+02.11.2013 (Sa)  Werder Bremen  Hannover 96
+02.11.2013 (Sa)  1. FC Nürnberg  SC Freiburg
+02.11.2013 (Sa)  1899 Hoffenheim  Bayern München
+02.11.2013 (Sa)  FC Augsburg  1. FSV Mainz 05
+02.11.2013 (Sa)  Hamburger SV  Bor. Mönchengladbach
+02.11.2013 (Sa)  Eintracht Braunschweig  Bayer Leverkusen
+02.11.2013 (Sa)  Eintracht Frankfurt  VfL Wolfsburg
+02.11.2013 (Sa)  Hertha BSC  FC Schalke 04
+
+12. Spieltag
+ 
+09.11.2013 (Sa)  Bayern München  FC Augsburg
+09.11.2013 (Sa)  FC Schalke 04  Werder Bremen
+09.11.2013 (Sa)  Bor. Mönchengladbach  1. FC Nürnberg
+09.11.2013 (Sa)  Bayer Leverkusen  Hamburger SV
+09.11.2013 (Sa)  Hannover 96  Eintracht Braunschweig
+09.11.2013 (Sa)  VfL Wolfsburg  Borussia Dortmund
+09.11.2013 (Sa)  1899 Hoffenheim  Hertha BSC
+09.11.2013 (Sa)  SC Freiburg  VfB Stuttgart
+09.11.2013 (Sa)  1. FSV Mainz 05  Eintracht Frankfurt
+
+13. Spieltag
+ 
+23.11.2013 (Sa)  Borussia Dortmund  Bayern München
+23.11.2013 (Sa)  VfB Stuttgart  Bor. Mönchengladbach
+23.11.2013 (Sa)  Werder Bremen  1. FSV Mainz 05
+23.11.2013 (Sa)  1. FC Nürnberg  VfL Wolfsburg
+23.11.2013 (Sa)  FC Augsburg  1899 Hoffenheim
+23.11.2013 (Sa)  Hamburger SV  Hannover 96
+23.11.2013 (Sa)  Eintracht Braunschweig  SC Freiburg
+23.11.2013 (Sa)  Eintracht Frankfurt  FC Schalke 04
+23.11.2013 (Sa)  Hertha BSC  Bayer Leverkusen
+
+14. Spieltag
+ 
+30.11.2013 (Sa)  Bayern München  Eintracht Braunschweig
+30.11.2013 (Sa)  FC Schalke 04  VfB Stuttgart
+30.11.2013 (Sa)  Bor. Mönchengladbach  SC Freiburg
+30.11.2013 (Sa)  Bayer Leverkusen  1. FC Nürnberg
+30.11.2013 (Sa)  Hannover 96  Eintracht Frankfurt
+30.11.2013 (Sa)  VfL Wolfsburg  Hamburger SV
+30.11.2013 (Sa)  1899 Hoffenheim  Werder Bremen
+30.11.2013 (Sa)  1. FSV Mainz 05  Borussia Dortmund
+30.11.2013 (Sa)  Hertha BSC  FC Augsburg
+
+15. Spieltag
+ 
+07.12.2013 (Sa)  Borussia Dortmund  Bayer Leverkusen
+07.12.2013 (Sa)  Bor. Mönchengladbach  FC Schalke 04
+07.12.2013 (Sa)  VfB Stuttgart  Hannover 96
+07.12.2013 (Sa)  Werder Bremen  Bayern München
+07.12.2013 (Sa)  1. FC Nürnberg  1. FSV Mainz 05
+07.12.2013 (Sa)  SC Freiburg  VfL Wolfsburg
+07.12.2013 (Sa)  Hamburger SV  FC Augsburg
+07.12.2013 (Sa)  Eintracht Braunschweig  Hertha BSC
+07.12.2013 (Sa)  Eintracht Frankfurt  1899 Hoffenheim
+
+16. Spieltag
+ 
+14.12.2013 (Sa)  Bayern München  Hamburger SV
+14.12.2013 (Sa)  FC Schalke 04  SC Freiburg
+14.12.2013 (Sa)  Bayer Leverkusen  Eintracht Frankfurt
+14.12.2013 (Sa)  Hannover 96  1. FC Nürnberg
+14.12.2013 (Sa)  VfL Wolfsburg  VfB Stuttgart
+14.12.2013 (Sa)  1899 Hoffenheim  Borussia Dortmund
+14.12.2013 (Sa)  1. FSV Mainz 05  Bor. Mönchengladbach
+14.12.2013 (Sa)  FC Augsburg  Eintracht Braunschweig
+14.12.2013 (Sa)  Hertha BSC  Werder Bremen
+
+17. Spieltag
+ 
+21.12.2013 (Sa)  Borussia Dortmund  Hertha BSC
+21.12.2013 (Sa)  Bor. Mönchengladbach  VfL Wolfsburg
+21.12.2013 (Sa)  Werder Bremen  Bayer Leverkusen
+21.12.2013 (Sa)  1. FC Nürnberg  FC Schalke 04
+21.12.2013 (Sa)  SC Freiburg  Hannover 96
+21.12.2013 (Sa)  Hamburger SV  1. FSV Mainz 05
+21.12.2013 (Sa)  Eintracht Braunschweig  1899 Hoffenheim
+21.12.2013 (Sa)  Eintracht Frankfurt  FC Augsburg
+28.01.2014 (Di)  VfB Stuttgart  Bayern München
+
+

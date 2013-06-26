@@ -1,13 +1,10 @@
-#############################
+###################################
+# Deutsche 2. Bundesliga 2013/14
 #
-#  Deutsche 2. Bundesliga 2013/14
-#    see -> de.wikipedia.org/wiki/2._Fußball-Bundesliga_2012/13
 #  18 Teams
-#
-#  official -> www.bundesliga.de/de/liga2
 
 
-#
+
 # three letter codes from bundesliga.de/de/liga2
 
 duesseldorf, Fortuna Düsseldorf|F. Düsseldorf,    F95, city:duesseldorf

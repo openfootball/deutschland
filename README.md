@@ -11,15 +11,19 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 Free open public domain football data for Deutschland (Germany) / Europe. Events include:
 
-- Deutsche 1. Bundesliga
-- Deutsche 2. Bundesliga
-- Deutsche 3. Liga
-- DFB Pokal (Cup)
+| Level |                                |            |
+| ----- | ------------------------------ | ---------- |
+| I     |  Deutsche Bundesliga           |  18 Clubs  |
+| II    |  Deutsche 2. Bundesliga        |  18 Clubs  |
+| III   |  Deutsche 3. Liga              |  20 Clubs  |
+|       |
+| Cup   |  DFB Pokal (Cup) |
+
 
 Example:
 
 ~~~
-### Bundesliga Teams
+### Deutsche Bundesliga Teams
 
 bayern,      FC Bayern München|Bayern München,    FCB, city:muenchen
 dortmund,    Borussia Dortmund|Bor. Dortmund,     BVB, city:dortmund
@@ -27,7 +31,7 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,     BVB, city:dortmund
 ~~~
 
 ~~~
-### Bundesliga 2013/14
+### Deutsche Bundesliga 2013/14
 
 1. Spieltag
 
@@ -46,7 +50,7 @@ Step 1:  Get a copy of the `world.db` fixtures
 
     $ git clone git://github.com/geraldb/world.db.git
 
-Step 2:  Get a copy the `at-austria` fixtures
+Step 2:  Get a copy the `de-deutschland` fixtures
 
     $ git clone git://github.com/openfootball/de-deutschland.git
 
@@ -66,7 +70,7 @@ see the [`sportdb` command line tool project](https://github.com/geraldb/sport.d
 Try the `football.db` Web Admin app running on Heroku
 [`footballdb.herokuapp.com/de`](http://footballdb.herokuapp.com/de).
 
-### Deutsche 1. Bundesliga
+### Deutsche Bundesliga
 
 Official Site - [`bundesliga.de` (de)](http://bundesliga.de)
 
@@ -74,6 +78,45 @@ Official Site - [`bundesliga.de` (de)](http://bundesliga.de)
 - 306 + 2 Relegationsspiele
 
 #### Wikipedia
+
+- [Fußball-Bundesliga_2012/13 (de)](http://de.wikipedia.org/wiki/Fußball-Bundesliga_2012/13)
+- [Fußball-Bundesliga_2013/14 (de)](http://de.wikipedia.org/wiki/Fußball-Bundesliga_2013/14)
+
+
+### Deutsche 2. Bundesliga
+
+Official Site - [`www.bundesliga.de/de/liga2`](http://www.bundesliga.de/de/liga2)
+
+
+
+#### Wikipedia
+
+- [2._Fußball-Bundesliga_2012/13 (de)](http://de.wikipedia.org/wiki/2._Fußball-Bundesliga_2012/13)
+- [2._Fußball-Bundesliga_2013/14 (de)](http://de.wikipedia.org/wiki/2._Fußball-Bundesliga_2013/14)
+
+
+### Deutsche 3. Liga
+
+#### Wikipedia
+
+- [3._Fußball-Liga_2013/14 (de)](http://de.wikipedia.org/wiki/3._Fußball-Liga_2013/14)
+
+
+### DFB Pokal (Cup)
+
+- 64 Teams
+- 63 Spiele
+
+#### Wikipedia
+
+- [DFB-Pokal_2012/13](http://de.wikipedia.org/wiki/DFB-Pokal_2012/13)
+- [DFB-Pokal_2013/14](http://de.wikipedia.org/wiki/DFB-Pokal_2013/14)
+
+
+
+### Wikipedia
+
+- [German_football_league_system](http://en.wikipedia.org/wiki/German_football_league_system)
 
 
 ### Sports Newspapers

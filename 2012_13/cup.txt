@@ -1,7 +1,5 @@
-#################################
+#####################
 # DFB Pokal 2012/13
-#
-#  see de.wikipedia.org/wiki/DFB-Pokal_2012/13
 
 
 (1) Achtelfinale  // 18+19.12.2012 (Di+Mi)
@@ -26,10 +24,10 @@
 
 (3) Halbfinale // 16+17.04.2013 (Di+Mi)
 
-16.04.2013 00:00 (Di)  Bayern München   VfL Wolfsburg
-16.04.2013 00:00 (Di)  VfB Stuttgart   SC Freiburg
+16.04.2013 20:30 (Di)  Bayern München   VfL Wolfsburg  6:1
+17.04.2013 20:30 (Mi)  VfB Stuttgart   SC Freiburg     2:1
 
 
 (4) Finale // 01.06.2013 (Sa)
 
-###### to be done
+01.06.2013 20.00 (Sa)  Bayern München   VfB Stuttgart  3:2

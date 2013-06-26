@@ -1,16 +1,5 @@
-#############################################
-# Deutsche Bundesliga 2012/13 Fixtures
-#
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_2012/13
-#        (no fixtures)
-#
-#   see es.wikipedia.org/wiki/1._Bundesliga_2012/13
-#     (includes fixtures)
-#
-#  official -> bundesliga.de
-#
-#  18 Teams
-#  306 + 2 Relegationsspiele
+##############################
+# Deutsche Bundesliga 2012/13 
 
 
 1. Spieltag

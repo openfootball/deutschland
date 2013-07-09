@@ -1,0 +1,21 @@
+####
+# bundesliga 2013/14
+
+seasons:
+- de-deutschland!/setups/data/seasons
+
+
+leagues:
+- de-deutschland!/leagues
+
+#########
+# teams
+
+teams:
+- de-deutschland!/teams
+
+############
+# fixtures
+
+2013_14:
+- de-deutschland!/2013_14/bl

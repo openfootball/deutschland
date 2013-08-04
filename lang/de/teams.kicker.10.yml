@@ -1,0 +1,28 @@
+##
+## bundesliga
+#   18 team names max. 10 chars
+#
+## team names as used in the kicker sports newspaper (germany)
+##  see kicker.de
+
+############################
+#            1234567890
+
+bayern:      FC Bayern
+schalke:     Schalke
+dortmund:    Dortmund
+frankfurt:   Frankfurt
+hannover:    Hannover
+leverkusen:  Leverkusen
+duesseldorf: Düsseldorf
+hsv:         Hamburg
+mainz:       Mainz
+mgladbach:   Gladbach
+freiburg:    Freiburg
+bremen:      Bremen
+hoffenheim:  Hoffenheim
+nuernberg:   Nürnberg
+stuttgart:   Stuttgart
+augsburg:    Augsburg
+wolfsburg:   Wolfsburg
+fuerth:      Fürth

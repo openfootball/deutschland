@@ -1,9 +1,5 @@
-####
-# all
-
-seasons:
-- de-deutschland!/setups/data/seasons
-
+###################
+# all fixtures
 
 leagues:
 - de-deutschland!/leagues

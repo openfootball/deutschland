@@ -7,22 +7,23 @@
 
 # three letter codes from bundesliga.de/de/liga2
 
-duesseldorf, Fortuna Düsseldorf|F. Düsseldorf,    F95, city:duesseldorf
-fuerth,      Greuther Fürth|SpVgg Greuther Fürth, SGF, city:fuerth
+duesseldorf, Fortuna Düsseldorf|F. Düsseldorf,    F95, 1895, www.f95.de,  Arena Straße 1// 40474 Düsseldorf,  city:duesseldorf
+fuerth,      Greuther Fürth|SpVgg Greuther Fürth, SGF, 1903, www.greuther-fuerth.de,  Laubenweg 60 // 90765 Fürth,  city:fuerth
 
-klautern,     1. FC Kaiserlautern|K'lautern,      FCK, city:kaiserslautern
-fsvfrankfurt, FSV Frankfurt|FSV Frankfurt 1899,  FSV, city:frankfurt
-koeln,        1. FC Köln|Köln,           KOE, city:koeln
-tsvmuenchen,  1860 München|TSV München 1860,   M60, city:muenchen    ### check: allow use of number in key eg muenchen1860?
-unionberlin,  Union Berlin|1. FC Union Berlin,   FCU, city:berlin
-cottbus,      Energie Cottbus|Cottbus|FC Energie Cottbus,        FCE, city:cottbus
-aalen,        VfR Aalen|Aalen,          AAL,  city:aalen
-stpauli,      FC St. Pauli|St. Pauli,      STP,  city:hamburg
-paderborn,    SC Paderborn 07|Paderborn,      SCP, city:paderborn
-ingolstadt,   FC Ingolstadt 04|Ingolstadt,     FCI, city:ingolstadt
-bochum,       VfL Bochum|Bochum|VfL Bochum 1848,         BOC, city:bochum
-aue,          Erzgebirge Aue|Aue|FC Erzgebirge Aue,       AUE, city:aue
-dresden,      Dynamo Dresden|Dresden|SG Dynamo Dresden,        SGD,  city:dresden
-sandhausen,   SV Sandhausen|Sandhausen|SV Sandhausen 1916,     SAN, city:sandhausen
-karlsruhe, Karlsruhe|Karlsruher SC
-bielefeld, Bielefeld|Arminia Bielefeld
+klautern,     1. FC Kaiserlautern|K'lautern,      FCK, 1900, www.fck.de,  Fritz-Walter-Str. 1 // 67663 Kaiserslautern,  city:kaiserslautern
+fsvfrankfurt, FSV Frankfurt|FSV Frankfurt 1899,   FSV, 1899, www.fsv-frankfurt.de,  Richard-Herrmann-Platz 1 // 60386 Frankfurt/Main,  city:frankfurt
+koeln,        1. FC Köln|Köln,                    KOE, 1948, www.fc-koeln.de,     Franz-Kremer-Allee 1 // 50937 Köln, city:koeln
+tsvmuenchen,  1860 München|TSV München 1860,      M60, 1860, www.tsv1860.de,    Grünwalder Straße 114 // 81547 München, city:muenchen    ### check: allow use of number in key eg muenchen1860?
+unionberlin,  Union Berlin|1. FC Union Berlin,    FCU, 1966, www.fc-union-berlin.de,  An der Wuhlheide 263 // 12555 Berlin,  city:berlin
+cottbus,      Energie Cottbus|Cottbus|FC Energie Cottbus, FCE,  1966, www.fcenergie.de,  Am Eliaspark 1 // 03042 Cottbus,  city:cottbus
+aalen,        VfR Aalen|Aalen,                    AAL, 1921, www.vfr-aalen.de,   Stadionweg 5/1 // 73430 Aalen,  city:aalen
+stpauli,      FC St. Pauli|St. Pauli,      STP,  1910, www.fcstpauli.com,  Heiligengeistfeld 1 // 20359 Hamburg,  city:hamburg
+paderborn,    SC Paderborn 07|Paderborn,      SCP,  1907, www.scpaderborn07.de,  Paderborner Str. 89 // 33104 Paderborn,  city:paderborn
+ingolstadt,   FC Ingolstadt 04|Ingolstadt,     FCI, 2004, www.fcingolstadt.de,  Am Sportpark 1 // 85053 Ingolstadt,  city:ingolstadt
+bochum,       VfL Bochum|Bochum|VfL Bochum 1848,    BOC, 1938, www.vfl-bochum.de,  Castroper Straße 145 // 44791 Bochum,  city:bochum
+aue,          Erzgebirge Aue|Aue|FC Erzgebirge Aue,       AUE,  1949, www.fc-erzgebirge.de, Lößnitzer Straße 95 // 08280 Aue,  city:aue
+dresden,      Dynamo Dresden|Dresden|SG Dynamo Dresden,        SGD, 1953, www.dynamo-dresden.de,  Lennéstraße 12 // 01069 Dresden,  city:dresden
+sandhausen,   SV Sandhausen|Sandhausen|SV Sandhausen 1916,     SAN, 1916, www.svs1916.de,  Jahnstraße 1 // 69207 Sandhausen, city:sandhausen
+karlsruhe, Karlsruhe|Karlsruher SC,   KSC,  1894, www.ksc.de,  Adenauerring 17 // 76131 Karlsruhe
+bielefeld, Bielefeld|Arminia Bielefeld|DSC Arminia Bielefeld, DSC,  1905,  www.arminia-bielefeld.de, Melanchthonstraße 31a // 33615 Bielefeld
+

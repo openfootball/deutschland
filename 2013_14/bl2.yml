@@ -1,0 +1,36 @@
+##################################
+# Deutsche 2. Bundesliga 2013/14
+
+league: de.2
+season: 2013/14
+start_at: 2013-07-19      # todo: check start date
+
+fixtures:
+- bl2
+- bl2_ii
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+###############
+# 18 Teams
+
+teams:
+- duesseldorf
+- fuerth
+- klautern
+- fsvfrankfurt
+- koeln
+- tsvmuenchen
+- unionberlin
+- cottbus
+- aalen
+- stpauli
+- paderborn
+- ingolstadt
+- bochum
+- aue
+- dresden
+- sandhausen
+- karlsruhe
+- bielefeld

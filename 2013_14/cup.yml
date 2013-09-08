@@ -1,0 +1,15 @@
+#######################
+# DFB Pokal 2013/14
+
+
+league: de.cup
+season: 2013/14
+start_at: 2013-08-02
+team3: false       # no game for 3rd/4th place
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+#############
+# Teams
+
+# to be done

@@ -59,8 +59,8 @@ Official site - [`bundesliga.de` (de)](http://bundesliga.de)
 
 #### Wikipedia
 
-- [Fußball-Bundesliga_2012/13 (de)](http://de.wikipedia.org/wiki/Fußball-Bundesliga_2012/13)
 - [Fußball-Bundesliga_2013/14 (de)](http://de.wikipedia.org/wiki/Fußball-Bundesliga_2013/14)
+- [Fußball-Bundesliga_2012/13 (de)](http://de.wikipedia.org/wiki/Fußball-Bundesliga_2012/13)
 
 
 ### Deutsche 2. Bundesliga
@@ -71,8 +71,8 @@ Official site - [`www.bundesliga.de/de/liga2` (de)](http://www.bundesliga.de/de/
 
 #### Wikipedia
 
-- [2._Fußball-Bundesliga_2012/13 (de)](http://de.wikipedia.org/wiki/2._Fußball-Bundesliga_2012/13)
 - [2._Fußball-Bundesliga_2013/14 (de)](http://de.wikipedia.org/wiki/2._Fußball-Bundesliga_2013/14)
+- [2._Fußball-Bundesliga_2012/13 (de)](http://de.wikipedia.org/wiki/2._Fußball-Bundesliga_2012/13)
 
 
 ### Deutsche 3. Liga
@@ -89,8 +89,8 @@ Official site - [`www.bundesliga.de/de/liga2` (de)](http://www.bundesliga.de/de/
 
 #### Wikipedia
 
-- [DFB-Pokal_2012/13 (de)](http://de.wikipedia.org/wiki/DFB-Pokal_2012/13)
 - [DFB-Pokal_2013/14 (de)](http://de.wikipedia.org/wiki/DFB-Pokal_2013/14)
+- [DFB-Pokal_2012/13 (de)](http://de.wikipedia.org/wiki/DFB-Pokal_2012/13)
 
 
 

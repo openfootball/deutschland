@@ -10,9 +10,14 @@ leagues:
 
 teams:
 - de-deutschland!/teams
+- de-deutschland!/teams_2
+- de-deutschland!/teams_3
 
 ############
 # fixtures
 
 2013_14:
 - de-deutschland!/2013_14/bl
+- de-deutschland!/2013_14/bl2
+- de-deutschland!/2013_14/l3
+- de-deutschland!/2013_14/cup

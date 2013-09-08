@@ -1,0 +1,37 @@
+############################
+# Deutsche 3. Liga 2013/14
+
+league: de.3
+season: 2013/14
+start_at: 2013-07-19    # todo: check start date
+
+fixtures:
+- l3
+- l3_ii
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+####################
+# 20 Teams
+
+teams:
+- duisburg
+- regensburg
+- osnabrueck
+- muenster
+- heidenheim
+- chemnitz
+- burghausen
+- wiesbaden
+- uhaching
+- halle
+- saarbruecken
+- rostock
+- rwerfurt
+- stuttgartii
+- dortmundii
+- stuttkick
+- darmstadt
+- kiel
+- leipzip
+- elversberg

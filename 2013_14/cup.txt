@@ -1,0 +1,15 @@
+#######################
+# DFB Pokal 2013/14
+
+
+(1) Achtelfinale   //  3./4. Dez 2013
+
+(2) Viertelfinale  //  11./12. Feb 2014
+
+(3) Halbfinale     //  15./16. Apr 2014
+
+(4) Finale         //  17. Mai 2014 (in Berlin)
+
+
+############
+#  todo: add Endspiel to final key in lang (use Endspiel)

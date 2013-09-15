@@ -85,8 +85,8 @@
 (Fr) 13.09. 18:30  VfR Aalen             0:0  TSV 1860 München
 (Fr) 13.09. 18:30  SC Paderborn          1:0  Karlsruher SC
 (Fr) 13.09. 18:30  Erzgebirge Aue        0:2  Arminia Bielefeld
-(Sa) 14.09. 13:00  FC St. Pauli          :  FSV Frankfurt
-(Sa) 14.09. 13:00  SV Sandhausen         :  1. FC Kaiserslautern
+(Sa) 14.09. 13:00  FC St. Pauli          2:1  FSV Frankfurt
+(Sa) 14.09. 13:00  SV Sandhausen         1:0  1. FC Kaiserslautern
 (So) 15.09. 13:30  Fortuna Düsseldorf    :  Dynamo Dresden
 (So) 15.09. 13:30  SpVgg Greuther Fürth  :  VfL Bochum
 (So) 15.09. 13:30  FC Ingolstadt         :  1. FC Union Berlin

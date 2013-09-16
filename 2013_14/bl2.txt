@@ -87,9 +87,9 @@
 (Fr) 13.09. 18:30  Erzgebirge Aue        0:2  Arminia Bielefeld
 (Sa) 14.09. 13:00  FC St. Pauli          2:1  FSV Frankfurt
 (Sa) 14.09. 13:00  SV Sandhausen         1:0  1. FC Kaiserslautern
-(So) 15.09. 13:30  Fortuna Düsseldorf    :  Dynamo Dresden
-(So) 15.09. 13:30  SpVgg Greuther Fürth  :  VfL Bochum
-(So) 15.09. 13:30  FC Ingolstadt         :  1. FC Union Berlin
+(So) 15.09. 13:30  Fortuna Düsseldorf    1:1  Dynamo Dresden
+(So) 15.09. 13:30  SpVgg Greuther Fürth  0:2  VfL Bochum
+(So) 15.09. 13:30  FC Ingolstadt         0:1  1. FC Union Berlin
 (Mo) 16.09. 20:15  Energie Cottbus       :  1. FC Köln
 
 

@@ -10,7 +10,7 @@
 duesseldorf, Fortuna Düsseldorf|F. Düsseldorf,    F95, 1895, www.f95.de,  Arena Straße 1// 40474 Düsseldorf,  city:duesseldorf
 fuerth,      Greuther Fürth|SpVgg Greuther Fürth, SGF, 1903, www.greuther-fuerth.de,  Laubenweg 60 // 90765 Fürth,  city:fuerth
 
-klautern,     1. FC Kaiserlautern|K'lautern,      FCK, 1900, www.fck.de,  Fritz-Walter-Str. 1 // 67663 Kaiserslautern,  city:kaiserslautern
+klautern,     1. FC Kaiserslautern|1. FC K'lautern|K'lautern,   FCK, 1900, www.fck.de,  Fritz-Walter-Str. 1 // 67663 Kaiserslautern,  city:kaiserslautern
 fsvfrankfurt, FSV Frankfurt|FSV Frankfurt 1899,   FSV, 1899, www.fsv-frankfurt.de,  Richard-Herrmann-Platz 1 // 60386 Frankfurt/Main,  city:frankfurt
 koeln,        1. FC Köln|Köln,                    KOE, 1948, www.fc-koeln.de,     Franz-Kremer-Allee 1 // 50937 Köln, city:koeln
 tsvmuenchen,  1860 München|TSV München 1860,      M60, 1860, www.tsv1860.de,    Grünwalder Straße 114 // 81547 München, city:muenchen    ### check: allow use of number in key eg muenchen1860?

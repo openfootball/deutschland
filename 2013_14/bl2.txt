@@ -95,9 +95,9 @@
 
 8. Spieltag  //  20.09. - 23.09.
 
-(Fr) 20.09. 18:30  1. FC Köln          :  1. FC Kaiserslautern
-(Fr) 20.09. 18:30  1. FC Union Berlin  :  SpVgg Greuther Fürth
-(Fr) 20.09. 18:30  Karlsruher SC       :  Energie Cottbus
+(Fr) 20.09. 18:30  1. FC Köln          0:0  1. FC Kaiserslautern
+(Fr) 20.09. 18:30  1. FC Union Berlin  2:4  SpVgg Greuther Fürth
+(Fr) 20.09. 18:30  Karlsruher SC       2:0  Energie Cottbus
 (Sa) 21.09. 13:00  TSV 1860 München    :  Erzgebirge Aue
 (Sa) 21.09. 13:00  VfL Bochum          :  VfR Aalen
 (Sa) 21.09. 13:00  Arminia Bielefeld   :  SV Sandhausen

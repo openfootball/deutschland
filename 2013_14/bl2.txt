@@ -101,8 +101,8 @@
 (Sa) 21.09. 13:00  TSV 1860 München    3:1  Erzgebirge Aue
 (Sa) 21.09. 13:00  VfL Bochum          1:2  VfR Aalen
 (Sa) 21.09. 13:00  Arminia Bielefeld   2:1  SV Sandhausen
-(So) 22.09. 13:30  FSV Frankfurt       :  FC Ingolstadt
-(So) 22.09. 13:30  Dynamo Dresden      :  SC Paderborn
+(So) 22.09. 13:30  FSV Frankfurt       4:1  FC Ingolstadt
+(So) 22.09. 13:30  Dynamo Dresden      2:2  SC Paderborn
 (Mo) 23.09. 20:15  FC St. Pauli        :  Fortuna Düsseldorf
 
 

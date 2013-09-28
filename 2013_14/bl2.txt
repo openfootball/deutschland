@@ -108,9 +108,9 @@
 
 9. Spieltag  // 27.09. - 30.09.
 
-27.09.  18:30  Energie Cottbus       :  Arminia Bielefeld
-27.09.  18:30  VfR Aalen             :  1. FC Köln
-27.09.  18:30  Erzgebirge Aue        :  Karlsruher SC
+27.09.  18:30  Energie Cottbus       4:2  Arminia Bielefeld
+27.09.  18:30  VfR Aalen             0:1  1. FC Köln
+27.09.  18:30  Erzgebirge Aue        3:0  Karlsruher SC
 28.09.  13:00  Fortuna Düsseldorf    :  FSV Frankfurt
 28.09.  13:00  SC Paderborn          :  1. FC Union Berlin
 29.09.  13:30  1. FC Kaiserslautern  :  TSV 1860 München

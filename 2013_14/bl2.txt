@@ -121,9 +121,9 @@
 
 10. Spieltag  // 04.10. - 07.10.
 
-04.10.  18:30  1. FC Union Berlin  :  SV Sandhausen
-04.10.  18:30  FC St. Pauli        :  SC Paderborn
-04.10.  18:30  Arminia Bielefeld   :  1. FC Kaiserslautern
+04.10.  18:30  1. FC Union Berlin  3:0  SV Sandhausen
+04.10.  18:30  FC St. Pauli        1:2  SC Paderborn
+04.10.  18:30  Arminia Bielefeld   0:3  1. FC Kaiserslautern
 05.10.  13:00  Dynamo Dresden      :  VfR Aalen
 05.10.  13:00  Karlsruher SC       :  1. FC Köln
 06.10.  13:30  FSV Frankfurt       :  Erzgebirge Aue

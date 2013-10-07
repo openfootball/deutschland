@@ -126,9 +126,9 @@
 04.10.  18:30  Arminia Bielefeld   0:3  1. FC Kaiserslautern
 05.10.  13:00  Dynamo Dresden      2:0  VfR Aalen
 05.10.  13:00  Karlsruher SC       1:2  1. FC Köln
-06.10.  13:30  FSV Frankfurt       :  Erzgebirge Aue
-06.10.  13:30  TSV 1860 München    :  Energie Cottbus
-06.10.  13:30  VfL Bochum          :  FC Ingolstadt
+06.10.  13:30  FSV Frankfurt       3:1  Erzgebirge Aue
+06.10.  13:30  TSV 1860 München    0:0  Energie Cottbus
+06.10.  13:30  VfL Bochum          0:1  FC Ingolstadt
 07.10.  20:15  Fortuna Düsseldorf  :  SpVgg Greuther Fürth
 
 

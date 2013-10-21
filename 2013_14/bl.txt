@@ -113,15 +113,15 @@
 
 9. Spieltag
 
-19.10. (Sa)  Borussia Dortmund       Hannover 96  
-19.10. (Sa)  Bayern München          1. FSV Mainz 05  
-19.10. (Sa)  Werder Bremen           SC Freiburg  
-19.10. (Sa)  1899 Hoffenheim         Bayer Leverkusen  
-19.10. (Sa)  FC Augsburg             VfL Wolfsburg  
-19.10. (Sa)  Hamburger SV            VfB Stuttgart  
-19.10. (Sa)  Eintracht Braunschweig  FC Schalke 04  
-19.10. (Sa)  Eintracht Frankfurt     1. FC Nürnberg  
-19.10. (Sa)  Hertha BSC              Bor. Mönchengladbach
+19.10. (Sa)  Borussia Dortmund      1:0   Hannover 96  
+19.10. (Sa)  Bayern München         4:1   1. FSV Mainz 05  
+19.10. (Sa)  Werder Bremen          0:0   SC Freiburg  
+19.10. (Sa)  1899 Hoffenheim        1:2   Bayer Leverkusen  
+19.10. (Sa)  FC Augsburg            1:2   VfL Wolfsburg  
+19.10. (Sa)  Hamburger SV           3:3   VfB Stuttgart  
+19.10. (Sa)  Eintracht Braunschweig 2:3  FC Schalke 04  
+19.10. (Sa)  Eintracht Frankfurt    1:1  1. FC Nürnberg  
+19.10. (Sa)  Hertha BSC             1:0   Bor. Mönchengladbach
 
 
 10. Spieltag

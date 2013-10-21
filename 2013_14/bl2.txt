@@ -134,14 +134,14 @@
 
 11. Spieltag  // 18.10. - 21.10.
 
-18.10.  18:30  Energie Cottbus  :  1. FC Union Berlin
-18.10.  18:30  VfR Aalen  :  Arminia Bielefeld
-18.10.  18:30  SC Paderborn  :  FSV Frankfurt
-19.10.  13:00  SV Sandhausen  :  Dynamo Dresden
-19.10.  13:00  Erzgebirge Aue  :  VfL Bochum
-20.10.  13:30  SpVgg Greuther Fürth  :  FC St. Pauli
-20.10.  13:30  1. FC Kaiserslautern  :  Karlsruher SC
-20.10.  13:30  FC Ingolstadt  :  Fortuna Düsseldorf
+18.10.  18:30  Energie Cottbus       0:0  1. FC Union Berlin
+18.10.  18:30  VfR Aalen             3:0  Arminia Bielefeld
+18.10.  18:30  SC Paderborn          4:2  FSV Frankfurt
+19.10.  13:00  SV Sandhausen         0:0  Dynamo Dresden
+19.10.  13:00  Erzgebirge Aue        2:1  VfL Bochum
+20.10.  13:30  SpVgg Greuther Fürth  2:4  FC St. Pauli
+20.10.  13:30  1. FC Kaiserslautern  2:2  Karlsruher SC
+20.10.  13:30  FC Ingolstadt         1:2  Fortuna Düsseldorf
 21.10.  20:15  1. FC Köln  :  TSV 1860 München
 
 

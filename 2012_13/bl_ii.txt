@@ -121,104 +121,104 @@
 
 27. Spieltag
 
-30.03.2013 15:30 (Sa)  VfB Stuttgart   Borussia Dortmund
-30.03.2013 15:30 (Sa)  SC Freiburg   Bor. Mönchengladbach
-30.03.2013 15:30 (Sa)  Fortuna Düsseldorf   Bayer Leverkusen
-30.03.2013 15:30 (Sa)  FC Augsburg   Hannover 96
-30.03.2013 15:30 (Sa)  1. FSV Mainz 05   Werder Bremen
-30.03.2013 15:30 (Sa)  FC Schalke 04   1899 Hoffenheim
-30.03.2013 18:30 (Sa)  Bayern München   Hamburger SV
-31.03.2013 15:30 (So)  VfL Wolfsburg   1. FC Nürnberg
-31.03.2013 17:30 (So)  SpVgg Greuther Fürth   Eintracht Frankfurt
+30.03.2013 15:30 (Sa)  VfB Stuttgart   Borussia Dortmund     1:2  
+30.03.2013 15:30 (Sa)  SC Freiburg   Bor. Mönchengladbach    2:0
+30.03.2013 15:30 (Sa)  Fortuna Düsseldorf   Bayer Leverkusen 1:4
+30.03.2013 15:30 (Sa)  FC Augsburg   Hannover 96             0:2
+30.03.2013 15:30 (Sa)  1. FSV Mainz 05   Werder Bremen       1:1
+30.03.2013 15:30 (Sa)  FC Schalke 04   1899 Hoffenheim       3:0
+30.03.2013 18:30 (Sa)  Bayern München   Hamburger SV         9:2
+31.03.2013 15:30 (So)  VfL Wolfsburg   1. FC Nürnberg        2:2
+31.03.2013 17:30 (So)  SpVgg Greuther Fürth   Eintracht Frankfurt  2:3
 
 
 28. Spieltag
 
-05.04.2013 20:30 (Fr)  1899 Hoffenheim   Fortuna Düsseldorf
-06.04.2013 15:30 (Sa)  Eintracht Frankfurt   Bayern München
-06.04.2013 15:30 (Sa)  Werder Bremen   FC Schalke 04
-06.04.2013 15:30 (Sa)  Bayer Leverkusen   VfL Wolfsburg
-06.04.2013 15:30 (Sa)  Borussia Dortmund   FC Augsburg
-06.04.2013 15:30 (Sa)  Bor. Mönchengladbach   SpVgg Greuther Fürth
-06.04.2013 18:30 (Sa)  Hamburger SV   SC Freiburg
-07.04.2013 15:30 (So)  1. FC Nürnberg   1. FSV Mainz 05
-07.04.2013 17:30 (So)  Hannover 96   VfB Stuttgart
+05.04.2013 20:30 (Fr)  1899 Hoffenheim   Fortuna Düsseldorf   3:0
+06.04.2013 15:30 (Sa)  Eintracht Frankfurt   Bayern München   0:1
+06.04.2013 15:30 (Sa)  Werder Bremen   FC Schalke 04          0:2
+06.04.2013 15:30 (Sa)  Bayer Leverkusen   VfL Wolfsburg       1:1
+06.04.2013 15:30 (Sa)  Borussia Dortmund   FC Augsburg        4:2
+06.04.2013 15:30 (Sa)  Bor. Mönchengladbach   SpVgg Greuther Fürth  1:0
+06.04.2013 18:30 (Sa)  Hamburger SV   SC Freiburg             0:1
+07.04.2013 15:30 (So)  1. FC Nürnberg   1. FSV Mainz 05       2:1
+07.04.2013 17:30 (So)  Hannover 96   VfB Stuttgart            0:0
 
 
 29. Spieltag
 
-12.04.2013 20:30 (Fr)  SC Freiburg   Hannover 96
-13.04.2013 15:30 (Sa)  SpVgg Greuther Fürth   Borussia Dortmund
-13.04.2013 15:30 (Sa)  Fortuna Düsseldorf   Werder Bremen
-13.04.2013 15:30 (Sa)  Bayern München   1. FC Nürnberg
-13.04.2013 15:30 (Sa)  VfL Wolfsburg   1899 Hoffenheim
-13.04.2013 15:30 (Sa)  1. FSV Mainz 05   Hamburger SV
-13.04.2013 18:30 (Sa)  FC Schalke 04   Bayer Leverkusen
-14.04.2013 15:30 (So)  VfB Stuttgart   Bor. Mönchengladbach
-14.04.2013 17:30 (So)  FC Augsburg   Eintracht Frankfurt
+12.04.2013 20:30 (Fr)  SC Freiburg   Hannover 96              3:1
+13.04.2013 15:30 (Sa)  SpVgg Greuther Fürth   Borussia Dortmund  1:6
+13.04.2013 15:30 (Sa)  Fortuna Düsseldorf   Werder Bremen     2:2
+13.04.2013 15:30 (Sa)  Bayern München   1. FC Nürnberg        4:0
+13.04.2013 15:30 (Sa)  VfL Wolfsburg   1899 Hoffenheim        2:2
+13.04.2013 15:30 (Sa)  1. FSV Mainz 05   Hamburger SV         1:2
+13.04.2013 18:30 (Sa)  FC Schalke 04   Bayer Leverkusen       2:2
+14.04.2013 15:30 (So)  VfB Stuttgart   Bor. Mönchengladbach   2:0
+14.04.2013 17:30 (So)  FC Augsburg   Eintracht Frankfurt      2:0
 
 
 30. Spieltag
 
-20.04.2013 00:00 (Sa)  Hannover 96   Bayern München
-20.04.2013 00:00 (Sa)  Eintracht Frankfurt   FC Schalke 04
-20.04.2013 00:00 (Sa)  Werder Bremen   VfL Wolfsburg
-20.04.2013 00:00 (Sa)  Bayer Leverkusen   1899 Hoffenheim
-20.04.2013 00:00 (Sa)  VfB Stuttgart   SC Freiburg
-20.04.2013 00:00 (Sa)  Borussia Dortmund   1. FSV Mainz 05
-20.04.2013 00:00 (Sa)  Bor. Mönchengladbach   FC Augsburg
-20.04.2013 00:00 (Sa)  1. FC Nürnberg   SpVgg Greuther Fürth
-20.04.2013 00:00 (Sa)  Hamburger SV   Fortuna Düsseldorf
+20.04.2013 00:00 (Sa)  Hannover 96   Bayern München           1:6
+20.04.2013 00:00 (Sa)  Eintracht Frankfurt   FC Schalke 04    1:0
+20.04.2013 00:00 (Sa)  Werder Bremen   VfL Wolfsburg          0:3
+20.04.2013 00:00 (Sa)  Bayer Leverkusen   1899 Hoffenheim     5:0
+20.04.2013 00:00 (Sa)  VfB Stuttgart   SC Freiburg            2:1
+20.04.2013 00:00 (Sa)  Borussia Dortmund   1. FSV Mainz 05    2:0
+20.04.2013 00:00 (Sa)  Bor. Mönchengladbach   FC Augsburg     1:0
+20.04.2013 00:00 (Sa)  1. FC Nürnberg   SpVgg Greuther Fürth  0:1
+20.04.2013 00:00 (Sa)  Hamburger SV   Fortuna Düsseldorf      2:1
 
 
 31. Spieltag
 
-27.04.2013 00:00 (Sa)  Fortuna Düsseldorf   Borussia Dortmund
-27.04.2013 00:00 (Sa)  VfL Wolfsburg   Bor. Mönchengladbach
-27.04.2013 00:00 (Sa)  FC Augsburg   VfB Stuttgart
-27.04.2013 00:00 (Sa)  SpVgg Greuther Fürth   Hannover 96
-27.04.2013 00:00 (Sa)  Bayer Leverkusen   Werder Bremen
-27.04.2013 00:00 (Sa)  1899 Hoffenheim   1. FC Nürnberg
-27.04.2013 00:00 (Sa)  Bayern München   SC Freiburg
-27.04.2013 00:00 (Sa)  FC Schalke 04   Hamburger SV
-27.04.2013 00:00 (Sa)  1. FSV Mainz 05   Eintracht Frankfurt
+27.04.2013 00:00 (Sa)  Fortuna Düsseldorf   Borussia Dortmund  1:2
+27.04.2013 00:00 (Sa)  VfL Wolfsburg   Bor. Mönchengladbach    3:1
+27.04.2013 00:00 (Sa)  FC Augsburg   VfB Stuttgart             3:0
+27.04.2013 00:00 (Sa)  SpVgg Greuther Fürth   Hannover 96      2:3
+27.04.2013 00:00 (Sa)  Bayer Leverkusen   Werder Bremen        1:0
+27.04.2013 00:00 (Sa)  1899 Hoffenheim   1. FC Nürnberg        2:1
+27.04.2013 00:00 (Sa)  Bayern München   SC Freiburg            1:0
+27.04.2013 00:00 (Sa)  FC Schalke 04   Hamburger SV            4:1
+27.04.2013 00:00 (Sa)  1. FSV Mainz 05   Eintracht Frankfurt   0:0
 
 
 32. Spieltag
 
-04.05.2013 00:00 (Sa)  Borussia Dortmund   Bayern München
-04.05.2013 00:00 (Sa)  Bor. Mönchengladbach   FC Schalke 04
-04.05.2013 00:00 (Sa)  1. FC Nürnberg   Bayer Leverkusen
-04.05.2013 00:00 (Sa)  Hamburger SV   VfL Wolfsburg
-04.05.2013 00:00 (Sa)  Werder Bremen   1899 Hoffenheim
-04.05.2013 00:00 (Sa)  Hannover 96   1. FSV Mainz 05
-04.05.2013 00:00 (Sa)  SC Freiburg   FC Augsburg
-04.05.2013 00:00 (Sa)  VfB Stuttgart   SpVgg Greuther Fürth
-04.05.2013 00:00 (Sa)  Eintracht Frankfurt   Fortuna Düsseldorf
+04.05.2013 00:00 (Sa)  Borussia Dortmund   Bayern München       1:1
+04.05.2013 00:00 (Sa)  Bor. Mönchengladbach   FC Schalke 04     0:1
+04.05.2013 00:00 (Sa)  1. FC Nürnberg   Bayer Leverkusen        0:2
+04.05.2013 00:00 (Sa)  Hamburger SV   VfL Wolfsburg             1:1
+04.05.2013 00:00 (Sa)  Werder Bremen   1899 Hoffenheim          2:2
+04.05.2013 00:00 (Sa)  Hannover 96   1. FSV Mainz 05            2:2
+04.05.2013 00:00 (Sa)  SC Freiburg   FC Augsburg                2:0
+04.05.2013 00:00 (Sa)  VfB Stuttgart   SpVgg Greuther Fürth     0:2
+04.05.2013 00:00 (Sa)  Eintracht Frankfurt   Fortuna Düsseldorf 3:1
 
 
 33. Spieltag
 
-11.05.2013 15:30 (Sa)  VfL Wolfsburg   Borussia Dortmund
-11.05.2013 15:30 (Sa)  1. FSV Mainz 05   Bor. Mönchengladbach
-11.05.2013 15:30 (Sa)  FC Schalke 04   VfB Stuttgart
-11.05.2013 15:30 (Sa)  Bayer Leverkusen   Hannover 96
-11.05.2013 15:30 (Sa)  Fortuna Düsseldorf   1. FC Nürnberg
-11.05.2013 15:30 (Sa)  SpVgg Greuther Fürth   SC Freiburg
-11.05.2013 15:30 (Sa)  Bayern München   FC Augsburg
-11.05.2013 15:30 (Sa)  1899 Hoffenheim   Hamburger SV
-11.05.2013 15:30 (Sa)  Werder Bremen   Eintracht Frankfurt
+11.05.2013 15:30 (Sa)  VfL Wolfsburg   Borussia Dortmund        3:3
+11.05.2013 15:30 (Sa)  1. FSV Mainz 05   Bor. Mönchengladbach   2:4
+11.05.2013 15:30 (Sa)  FC Schalke 04   VfB Stuttgart            1:2
+11.05.2013 15:30 (Sa)  Bayer Leverkusen   Hannover 96           3:1
+11.05.2013 15:30 (Sa)  Fortuna Düsseldorf   1. FC Nürnberg      1:2
+11.05.2013 15:30 (Sa)  SpVgg Greuther Fürth   SC Freiburg       1:2
+11.05.2013 15:30 (Sa)  Bayern München   FC Augsburg             3:0
+11.05.2013 15:30 (Sa)  1899 Hoffenheim   Hamburger SV           1:4
+11.05.2013 15:30 (Sa)  Werder Bremen   Eintracht Frankfurt      1:1
 
 
 34. Spieltag
 
-18.05.2013 15:30 (Sa)  Bor. Mönchengladbach   Bayern München
-18.05.2013 15:30 (Sa)  SC Freiburg   FC Schalke 04
-18.05.2013 15:30 (Sa)  Hamburger SV   Bayer Leverkusen
-18.05.2013 15:30 (Sa)  Eintracht Frankfurt   VfL Wolfsburg
-18.05.2013 15:30 (Sa)  1. FC Nürnberg   Werder Bremen
-18.05.2013 15:30 (Sa)  Borussia Dortmund   1899 Hoffenheim
-18.05.2013 15:30 (Sa)  VfB Stuttgart   1. FSV Mainz 05
-18.05.2013 15:30 (Sa)  FC Augsburg   SpVgg Greuther Fürth
-18.05.2013 15:30 (Sa)  Hannover 96   Fortuna Düsseldorf
+18.05.2013 15:30 (Sa)  Bor. Mönchengladbach   Bayern München   3:4
+18.05.2013 15:30 (Sa)  SC Freiburg   FC Schalke 04             1:2
+18.05.2013 15:30 (Sa)  Hamburger SV   Bayer Leverkusen         0:1
+18.05.2013 15:30 (Sa)  Eintracht Frankfurt   VfL Wolfsburg     2:2
+18.05.2013 15:30 (Sa)  1. FC Nürnberg   Werder Bremen          3:2
+18.05.2013 15:30 (Sa)  Borussia Dortmund   1899 Hoffenheim     1:2
+18.05.2013 15:30 (Sa)  VfB Stuttgart   1. FSV Mainz 05         2:2
+18.05.2013 15:30 (Sa)  FC Augsburg   SpVgg Greuther Fürth      3:1
+18.05.2013 15:30 (Sa)  Hannover 96   Fortuna Düsseldorf        3:0
 

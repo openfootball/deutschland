@@ -147,9 +147,9 @@
 
 12. Spieltag  // 25.10. - 28.10.
 
-25.10.  18:30  SpVgg Greuther Fürth  :  FC Ingolstadt
-25.10.  18:30  FC St. Pauli  :  SV Sandhausen
-25.10.  18:30  Arminia Bielefeld  :  1. FC Köln
+25.10.  18:30  SpVgg Greuther Fürth  0:1  FC Ingolstadt
+25.10.  18:30  FC St. Pauli          0:0  SV Sandhausen
+25.10.  18:30  Arminia Bielefeld     0:1  1. FC Köln
 26.10.  13:00  Fortuna Düsseldorf  :  SC Paderborn
 26.10.  13:00  FSV Frankfurt  :  VfR Aalen
 27.10.  13:30  1. FC Union Berlin  :  Erzgebirge Aue

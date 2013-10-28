@@ -152,9 +152,9 @@
 25.10.  18:30  Arminia Bielefeld     0:1  1. FC Köln
 26.10.  13:00  Fortuna Düsseldorf    1:6  SC Paderborn
 26.10.  13:00  FSV Frankfurt         0:0  VfR Aalen
-27.10.  13:30  1. FC Union Berlin     :  Erzgebirge Aue
-27.10.  13:30  Dynamo Dresden         :  Energie Cottbus
-27.10.  13:30  Karlsruher SC          :  TSV 1860 München
+27.10.  13:30  1. FC Union Berlin    1:0  Erzgebirge Aue
+27.10.  13:30  Dynamo Dresden        1:0  Energie Cottbus
+27.10.  13:30  Karlsruher SC         2:1  TSV 1860 München
 28.10.  20:15  VfL Bochum             :  1. FC Kaiserslautern
 
 

@@ -160,9 +160,9 @@
 
 13. Spieltag  // 01.11. - 04.11.
 
-01.11.  18:30  Energie Cottbus  :  VfL Bochum
-01.11.  18:30  VfR Aalen  :  Fortuna Düsseldorf
-01.11.  18:30  SC Paderborn  :  FC Ingolstadt
+01.11.  18:30  Energie Cottbus  0:1  VfL Bochum
+01.11.  18:30  VfR Aalen  1:0  Fortuna Düsseldorf
+01.11.  18:30  SC Paderborn  1:1  FC Ingolstadt
 02.11.  13:00  1. FC Kaiserslautern  :  FC St. Pauli
 02.11.  13:00  Erzgebirge Aue  :  SpVgg Greuther Fürth
 03.11.  13:30  TSV 1860 München  :  Dynamo Dresden

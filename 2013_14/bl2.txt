@@ -165,9 +165,9 @@
 01.11.  18:30  SC Paderborn          1:1  FC Ingolstadt
 02.11.  13:00  1. FC Kaiserslautern  4:1  FC St. Pauli
 02.11.  13:00  Erzgebirge Aue        2:6  SpVgg Greuther Fürth
-03.11.  13:30  TSV 1860 München  :  Dynamo Dresden
-03.11.  13:30  SV Sandhausen  :  FSV Frankfurt
-03.11.  13:30  Karlsruher SC  :  Arminia Bielefeld
+03.11.  13:30  TSV 1860 München      1:3  Dynamo Dresden
+03.11.  13:30  SV Sandhausen         2:0  FSV Frankfurt
+03.11.  13:30  Karlsruher SC         3:1  Arminia Bielefeld
 04.11.  20:15  1. FC Köln  :  1. FC Union Berlin
 
 

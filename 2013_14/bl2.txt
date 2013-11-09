@@ -173,9 +173,9 @@
 
 14. Spieltag  // 08.11. - 11.11.
 
-08.11.  18:30  SpVgg Greuther Fürth  :  SC Paderborn
-08.11.  18:30  FSV Frankfurt  :  1. FC Kaiserslautern
-08.11.  18:30  FC Ingolstadt  :  VfR Aalen
+08.11.  18:30  SpVgg Greuther Fürth  3:0  SC Paderborn
+08.11.  18:30  FSV Frankfurt         0:4  1. FC Kaiserslautern
+08.11.  18:30  FC Ingolstadt         2:0  VfR Aalen
 09.11.  13:00  1. FC Union Berlin  :  Karlsruher SC
 09.11.  13:00  Arminia Bielefeld  :  TSV 1860 München
 10.11.  13:30  Fortuna Düsseldorf  :  SV Sandhausen

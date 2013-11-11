@@ -178,9 +178,9 @@
 08.11.  18:30  FC Ingolstadt         2:0  VfR Aalen
 09.11.  13:00  1. FC Union Berlin    0:0  Karlsruher SC
 09.11.  13:00  Arminia Bielefeld     0:1  TSV 1860 München
-10.11.  13:30  Fortuna Düsseldorf  :  SV Sandhausen
-10.11.  13:30  VfL Bochum  :  1. FC Köln
-10.11.  13:30  Dynamo Dresden  :  Erzgebirge Aue
+10.11.  13:30  Fortuna Düsseldorf    1:0  SV Sandhausen
+10.11.  13:30  VfL Bochum            1:0  1. FC Köln
+10.11.  13:30  Dynamo Dresden        1:1  Erzgebirge Aue
 11.11.  20:15  FC St. Pauli  :  Energie Cottbus
 
 

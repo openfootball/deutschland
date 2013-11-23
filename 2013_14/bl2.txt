@@ -186,9 +186,9 @@
 
 15. Spieltag  // 22.11. - 25.11.
 
-22.11.  18:30  Energie Cottbus  :  FSV Frankfurt
-22.11.  18:30  SV Sandhausen  :  SC Paderborn
-22.11.  18:30  Arminia Bielefeld  :  VfL Bochum
+22.11.  18:30  Energie Cottbus      1:4  FSV Frankfurt
+22.11.  18:30  SV Sandhausen        3:2  SC Paderborn
+22.11.  18:30  Arminia Bielefeld    0:2  VfL Bochum
 23.11.  13:00  1. FC Kaiserslautern  :  1. FC Union Berlin
 23.11.  13:00  1. FC Köln  :  FC Ingolstadt
 24.11.  13:30  VfR Aalen  :  FC St. Pauli

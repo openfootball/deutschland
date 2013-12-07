@@ -218,7 +218,7 @@
 08.12.  Energie Cottbus  :  FC Ingolstadt
 08.12.  VfR Aalen  :  SC Paderborn
 08.12.  SV Sandhausen  :  SpVgg Greuther Fürth
-08.12.  Erzgebirge Aue  :  FC St. Pauli
-08.12.  Karlsruher SC  :  VfL Bochum
-08.12.  Arminia Bielefeld  :  Dynamo Dresden
+08.12.  Erzgebirge Aue                  0:2  FC St. Pauli
+08.12.  Karlsruher SC                   0:0  VfL Bochum
+08.12.  Arminia Bielefeld               1:1  Dynamo Dresden
 

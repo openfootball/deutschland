@@ -218,5 +218,5 @@
 (Sa) 21.12.  SC Freiburg  Hannover 96
 (Sa) 21.12.  Hamburger SV  1. FSV Mainz 05
 (Sa) 21.12.  Eintracht Braunschweig  1899 Hoffenheim
-(Sa) 21.12.  Eintracht Frankfurt  FC Augsburg
+(Sa) 21.12.  Eintracht Frankfurt     1:1 FC Augsburg
 (Di) 28.01.  VfB Stuttgart  Bayern München

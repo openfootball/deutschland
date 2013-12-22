@@ -211,12 +211,12 @@
 
 17. Spieltag
  
-(Sa) 21.12.  Borussia Dortmund  Hertha BSC
+(Sa) 21.12.  Borussia Dortmund       1:2 Hertha BSC
 (Sa) 21.12.  Bor. Mönchengladbach  VfL Wolfsburg
-(Sa) 21.12.  Werder Bremen  Bayer Leverkusen
-(Sa) 21.12.  1. FC Nürnberg  FC Schalke 04
-(Sa) 21.12.  SC Freiburg  Hannover 96
-(Sa) 21.12.  Hamburger SV  1. FSV Mainz 05
-(Sa) 21.12.  Eintracht Braunschweig  1899 Hoffenheim
+(Sa) 21.12.  Werder Bremen           1:0 Bayer Leverkusen
+(Sa) 21.12.  1. FC Nürnberg          0:0 FC Schalke 04
+(Sa) 21.12.  SC Freiburg             2:1 Hannover 96
+(Sa) 21.12.  Hamburger SV            2:3 1. FSV Mainz 05
+(Sa) 21.12.  Eintracht Braunschweig  1:0 1899 Hoffenheim
 (Sa) 21.12.  Eintracht Frankfurt     1:1 FC Augsburg
 (Di) 28.01.  VfB Stuttgart  Bayern München

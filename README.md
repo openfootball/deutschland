@@ -25,8 +25,8 @@ Example:
 ~~~
 ### Deutsche Bundesliga Teams
 
-bayern,      FC Bayern München|Bayern München,    FCB, city:muenchen
-dortmund,    Borussia Dortmund|Bor. Dortmund,     BVB, city:dortmund
+bayern,      FC Bayern München|Bayern München,  1900,  FCB
+dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
 ...
 ~~~
 
@@ -35,8 +35,8 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,     BVB, city:dortmund
 
 1. Spieltag
 
-Fr, 09.08.2013 20:30  Bayern München  Bor. Mönchengladbach
-Sa, 10.08.2013 00:00  FC Augsburg     Borussia Dortmund
+Fr,  9 Aug 20:30  Bayern München  3-1  Bor. Mönchengladbach
+Sa, 10 Aug 20:30  FC Augsburg     0-4  Borussia Dortmund
 ...
 ~~~
 

@@ -5,21 +5,111 @@
 
 ## nb: three letter codes (tags) taken from official bundesliga.de site
 
-bayern,       FC Bayern München|Bayern München,    FCB, 1900, www.fcbayern.de,  Säbener Straße 51-57 // 81547 München, city:muenchen
-dortmund,     Borussia Dortmund|Bor. Dortmund,     BVB, 1909, www.bvb.de,   Rheinlanddamm 207-209 // 44137 Dortmund, city:dortmund
-leverkusen,   Bayer 04 Leverkusen|Bayer Leverkusen|Bay. Leverkusen, B04, 1904, www.bayer04.de, Bismarckstr. 122 - 124 // 51373 Leverkusen,  city:leverkusen
-schalke,      Schalke 04|FC Schalke 04,            S04, 1904, www.schalke04.de,  Ernst-Kuzorra-Weg 1 // 45891 Gelsenkirchen,  city:gelsenkirchen
-freiburg,     SC Freiburg,                         SCF, 1904, www.scfreiburg.com,  Schwarzwaldstr. 193 // 79117 Freiburg,  city:freiburg
-frankfurt,    Eintracht Frankfurt|E. Frankfurt,    FFM, 1899, www.eintracht.de, Mörfelder Landstraße 362 // 60528 Frankfurt am Main,  city:frankfurt
-hsv,          Hamburger SV,                        HSV, 1887, www.hsv.de,  Sylvesterallee 7 // 22525 Hamburg,  city:hamburg
-mgladbach,    Borussia M'gladbach|Bor. M'gladbach|Bor. Mönchengladbach|Borussia Mönchengladbach, BMG, 1900, www.borussia.de,  Hennes-Weisweiler-Allee 1 // 41179 Mönchengladbach,  city:mgladbach
-hannover,     Hannover 96,                         H96, 1896, www.hannover96.de,  Robert-Enke-Straße 1 // 30169 Hannover,  city:hannover
-nuernberg,    1. FC Nürnberg,                      FCN, 1900, www.fcn.de,   Valznerweiherstraße 200 // 90480 Nürnberg,  city:nuernberg
-wolfsburg,    VfL Wolfsburg,                       WOB, 1945, www.vfl-wolfsburg.de,  In den Allerwiesen 1 // 38446 Wolfsburg,  city:wolfsburg
-mainz,        1. FSV Mainz 05|FSV Mainz 05,        M05, 1905, www.mainz05.de,  Isaac-Fulda-Allee 5 // 55124 Mainz,  city:mainz
-bremen,       Werder Bremen,                       BRE, 1899, www.werder.de,  Franz-Böhmert-Straße 1c // 28205 Bremen,  city:bremen
-hoffenheim,   1899 Hoffenheim|TSG 1899 Hoffenheim, HOF, 1899, www.achtzehn99.de,  Horrenberger Straße 58 // 74939 Zuzenhausen, city:hoffenheim
-stuttgart,    Stuttgart|VfB Stuttgart,             VFB, 1893, www.vfb.de,  Mercedesstraße 109 // 70372 Stuttgart, city:stuttgart
-augsburg,     FC Augsburg,                         FCA, 1907, www.fcaugsburg.de, Donauwörther Str. 170 // 86154 Augsburg,  city:augsburg
-braunschweig, Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig,  EBS, 1895, www.eintracht.com,  Hamburger Straße 210 // 38112 Braunschweig,  city:braunschweig
-herthabsc,    Hertha BSC|Hertha Berliner Sport-Club,  BSC,  1892, www.herthabsc.de,  Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin,   city:berlin          ### check: use only hertha as key or bsc - why? why not?
+[bayern]
+  FC Bayern München|Bayern München,  1900,  FCB
+  www.fcbayern.de
+  Säbener Straße 51-57 // 81547 München
+  city:muenchen
+
+[dortmund]
+  Borussia Dortmund|Bor. Dortmund,   1909,  BVB
+  www.bvb.de
+  Rheinlanddamm 207-209 // 44137 Dortmund
+  city:dortmund
+
+[leverkusen]
+  Bayer 04 Leverkusen|Bayer Leverkusen|Bay. Leverkusen, 1904, B04
+  www.bayer04.de
+  Bismarckstr. 122 - 124 // 51373 Leverkusen
+  city:leverkusen
+
+[schalke]
+  Schalke 04|FC Schalke 04,       1904,     S04
+  www.schalke04.de
+  Ernst-Kuzorra-Weg 1 // 45891 Gelsenkirchen
+  city:gelsenkirchen
+
+[freiburg]
+  SC Freiburg, 1904,  SCF
+  www.scfreiburg.com
+  Schwarzwaldstr. 193 // 79117 Freiburg
+  city:freiburg
+
+[frankfurt]
+  Eintracht Frankfurt|E. Frankfurt,  1899,  FFM
+  www.eintracht.de
+  Mörfelder Landstraße 362 // 60528 Frankfurt am Main
+  city:frankfurt
+
+[hsv]
+  Hamburger SV,  1887,   HSV
+  www.hsv.de
+  Sylvesterallee 7 // 22525 Hamburg
+  city:hamburg
+
+[mgladbach]
+  Borussia M'gladbach|Bor. M'gladbach|Bor. Mönchengladbach|Borussia Mönchengladbach, 1900, BMG
+  www.borussia.de
+  Hennes-Weisweiler-Allee 1 // 41179 Mönchengladbach
+  city:mgladbach
+
+[hannover]
+  Hannover 96,   1896,  H96
+  www.hannover96.de
+  Robert-Enke-Straße 1 // 30169 Hannover
+  city:hannover
+
+[nuernberg]
+  1. FC Nürnberg,   1900,   FCN
+  www.fcn.de
+  Valznerweiherstraße 200 // 90480 Nürnberg
+  city:nuernberg
+
+[wolfsburg]
+  VfL Wolfsburg,   1945,  WOB
+  www.vfl-wolfsburg.de
+  In den Allerwiesen 1 // 38446 Wolfsburg
+  city:wolfsburg
+
+[mainz]
+  1. FSV Mainz 05|FSV Mainz 05,  1905,   M05
+  www.mainz05.de
+  Isaac-Fulda-Allee 5 // 55124 Mainz
+  city:mainz
+
+[bremen]
+  Werder Bremen,  1899,  BRE
+  www.werder.de
+  Franz-Böhmert-Straße 1c // 28205 Bremen
+  city:bremen
+
+[hoffenheim]
+  1899 Hoffenheim|TSG 1899 Hoffenheim,  1899, HOF
+  www.achtzehn99.de
+  Horrenberger Straße 58 // 74939 Zuzenhausen
+  city:hoffenheim
+
+[stuttgart]
+  Stuttgart|VfB Stuttgart, 1893,   VFB
+  www.vfb.de
+  Mercedesstraße 109 // 70372 Stuttgart
+  city:stuttgart
+
+[augsburg]
+  FC Augsburg,     1907,  FCA
+  www.fcaugsburg.de
+  Donauwörther Str. 170 // 86154 Augsburg
+  city:augsburg
+
+[braunschweig]
+  Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig, 1895, EBS
+  www.eintracht.com
+  Hamburger Straße 210 // 38112 Braunschweig
+  city:braunschweig
+
+[herthabsc]   ### check: use only hertha as key or bsc - why? why not?
+  Hertha BSC|Hertha Berliner Sport-Club, 1892, BSC
+  www.herthabsc.de
+  Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
+  city:berlin
+

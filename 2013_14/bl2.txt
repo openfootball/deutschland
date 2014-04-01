@@ -7,11 +7,14 @@
 (Fr) 19.07. 18:30  SV Sandhausen        0:0  VfR Aalen
 (Fr) 19.07. 18:30  FC Ingolstadt        1:2  Erzgebirge Aue
 (Fr) 19.07. 20:30  FC St. Pauli         1:0  TSV 1860 München
+
 (Sa) 20.07. 13:00  SC Paderborn         0:1  1. FC Kaiserslautern
 (Sa) 20.07. 15:30  Dynamo Dresden       1:1  1. FC Köln
+
 (So) 21.07. 13:30  SpVgg Greuther Fürth 2:0  Arminia Bielefeld
 (So) 21.07. 13:30  FSV Frankfurt        0:1  Karlsruher SC
 (So) 21.07. 15:30  1. FC Union Berlin   1:2  VfL Bochum  
+
 (Mo) 22.07. 20:15  Fortuna Düsseldorf   1:0  Energie Cottbus
 
 
@@ -20,11 +23,14 @@
 (Fr) 26.07. 18:30  VfR Aalen            0:2  SpVgg Greuther Fürth
 (Fr) 26.07. 18:30  Arminia Bielefeld    1:1  1. FC Union Berlin
 (Fr) 26.07. 20:30  1. FC Kaiserslautern 1:1  FC Ingolstadt
+
 (Sa) 27.07. 13:00  Erzgebirge Aue       1:0  SV Sandhausen
 (Sa) 27.07. 15:30  Karlsruher SC        1:0  FC St. Pauli
+
 (So) 28.07. 13:30  TSV 1860 München     2:1  FSV Frankfurt
 (So) 28.07. 13:30  Energie Cottbus      4:0  SC Paderborn
 (So) 28.07. 15:30  1. FC Köln           1:1  Fortuna Düsseldorf
+
 (Mo) 29.07. 20:15  VfL Bochum           1:1  Dynamo Dresden
 
 
@@ -33,51 +39,63 @@
 (Fr) 09.08. 18:30  Fortuna Düsseldorf   1:2  TSV 1860 München
 (Fr) 09.08. 18:30  FSV Frankfurt        1:0  VfL Bochum
 (Fr) 09.08. 18:30  Dynamo Dresden       1:0  1. FC Union Berlin
+
 (Sa) 10.08. 13:00  SC Paderborn         1:1  1. FC Köln
 (Sa) 10.08. 13:00  FC Ingolstadt        0:2  Karlsruher SC
+
 (So) 11.08. 13:30  FC St. Pauli         0:1  Arminia Bielefeld
 (So) 11.08. 13:30  SV Sandhausen        2:2  Energie Cottbus
 (So) 11.08. 13:30  Erzgebirge Aue       0:1  VfR Aalen
+
 (Mo) 12.08. 20:15  SpVgg Greuther Fürth 2:1  1. FC Kaiserslautern
 
 
 4. Spieltag  //  16.08. - 19.08.
 
-16.08. 18:30  Karlsruher SC             1:2  SpVgg Greuther Fürth
-16.08. 18:30  Arminia Bielefeld         3:3  SC Paderborn
-16.08. 20:30  VfL Bochum                2:2  FC St. Pauli
-17.08. 13:00  1. FC Kaiserslautern      2:1  Erzgebirge Aue
-17.08. 13:00  1. FC Köln                2:0  SV Sandhausen
-18.08. 13:30  TSV 1860 München          1:0  FC Ingolstadt
-18.08. 13:30  Energie Cottbus           5:1  VfR Aalen
-18.08. 13:30  Dynamo Dresden            0:3  FSV Frankfurt
-19.08. 20:15  1. FC Union Berlin        2:1  Fortuna Düsseldorf
+(Fr) 16.08. 18:30  Karlsruher SC             1:2  SpVgg Greuther Fürth
+(Fr) 16.08. 18:30  Arminia Bielefeld         3:3  SC Paderborn
+(Fr) 16.08. 20:30  VfL Bochum                2:2  FC St. Pauli
+
+(Sa) 17.08. 13:00  1. FC Kaiserslautern      2:1  Erzgebirge Aue
+(Sa) 17.08. 13:00  1. FC Köln                2:0  SV Sandhausen
+
+(So) 18.08. 13:30  TSV 1860 München          1:0  FC Ingolstadt
+(So) 18.08. 13:30  Energie Cottbus           5:1  VfR Aalen
+(So) 18.08. 13:30  Dynamo Dresden            0:3  FSV Frankfurt
+
+(Mo) 19.08. 20:15  1. FC Union Berlin        2:1  Fortuna Düsseldorf
 
 
 5. Spieltag  // 23.08. - 26.08.
 
-23.08. 18:30  SV Sandhausen             1:1  Karlsruher SC
-23.08. 18:30  FC Ingolstadt             3:2  Arminia Bielefeld
-23.08. 18:30  Erzgebirge Aue            2:1  Energie Cottbus
-24.08. 13:00  SpVgg Greuther Fürth      0:0  1. FC Köln
-24.08. 13:00  VfR Aalen                 4:0  1. FC Kaiserslautern
-25.08. 13:30  Fortuna Düsseldorf        1:0  VfL Bochum  
-25.08. 13:30  FSV Frankfurt             1:1  1. FC Union Berlin  
-25.08. 13:30  SC Paderborn              1:0  TSV 1860 München
-26.08. 20:15  FC St. Pauli              2:1  Dynamo Dresden
+(Fr) 23.08. 18:30  SV Sandhausen             1:1  Karlsruher SC
+(Fr) 23.08. 18:30  FC Ingolstadt             3:2  Arminia Bielefeld
+(Fr) 23.08. 18:30  Erzgebirge Aue            2:1  Energie Cottbus
+
+(Sa) 24.08. 13:00  SpVgg Greuther Fürth      0:0  1. FC Köln
+(Sa) 24.08. 13:00  VfR Aalen                 4:0  1. FC Kaiserslautern
+
+(So) 25.08. 13:30  Fortuna Düsseldorf        1:0  VfL Bochum  
+(So) 25.08. 13:30  FSV Frankfurt             1:1  1. FC Union Berlin  
+(So) 25.08. 13:30  SC Paderborn              1:0  TSV 1860 München
+
+(Mo) 26.08. 20:15  FC St. Pauli              2:1  Dynamo Dresden
 
 
 6. Spieltag  // 30.08. - 02.09.
 
-30.08. 18:30  FSV Frankfurt             1:1  SpVgg Greuther Fürth
-30.08. 18:30  TSV 1860 München          0:2  SV Sandhausen
-30.08. 18:30  Arminia Bielefeld         4:2  Fortuna Düsseldorf
-31.08. 13:00  1. FC Union Berlin        3:2  FC St. Pauli
-31.08. 13:00  VfL Bochum                4:2  SC Paderborn
-01.09. 13:30  1. FC Köln                4:1  Erzgebirge Aue
-01.09. 13:30  Dynamo Dresden            1:1  FC Ingolstadt
-01.09. 13:30  Karlsruher SC             1:1  VfR Aalen
-02.09. 20:15  1. FC Kaiserslautern      2:2  Energie Cottbus
+(Fr) 30.08. 18:30  FSV Frankfurt             1:1  SpVgg Greuther Fürth
+(Fr) 30.08. 18:30  TSV 1860 München          0:2  SV Sandhausen
+(Fr) 30.08. 18:30  Arminia Bielefeld         4:2  Fortuna Düsseldorf
+
+(Sa) 31.08. 13:00  1. FC Union Berlin        3:2  FC St. Pauli
+(Sa) 31.08. 13:00  VfL Bochum                4:2  SC Paderborn
+
+(So) 01.09. 13:30  1. FC Köln                4:1  Erzgebirge Aue
+(So) 01.09. 13:30  Dynamo Dresden            1:1  FC Ingolstadt
+(So) 01.09. 13:30  Karlsruher SC             1:1  VfR Aalen
+
+(Mo) 02.09. 20:15  1. FC Kaiserslautern      2:2  Energie Cottbus
 
 
 7. Spieltag  // 13.09. - 16.09.
@@ -85,11 +103,14 @@
 (Fr) 13.09. 18:30  VfR Aalen            0:0  TSV 1860 München
 (Fr) 13.09. 18:30  SC Paderborn         1:0  Karlsruher SC
 (Fr) 13.09. 18:30  Erzgebirge Aue       0:2  Arminia Bielefeld
+
 (Sa) 14.09. 13:00  FC St. Pauli         2:1  FSV Frankfurt
 (Sa) 14.09. 13:00  SV Sandhausen        1:0  1. FC Kaiserslautern
+
 (So) 15.09. 13:30  Fortuna Düsseldorf   1:1  Dynamo Dresden
 (So) 15.09. 13:30  SpVgg Greuther Fürth 0:2  VfL Bochum
 (So) 15.09. 13:30  FC Ingolstadt        0:1  1. FC Union Berlin
+
 (Mo) 16.09. 20:15  Energie Cottbus      0:4  1. FC Köln
 
 
@@ -98,11 +119,14 @@
 (Fr) 20.09. 18:30  1. FC Köln           0:0  1. FC Kaiserslautern
 (Fr) 20.09. 18:30  1. FC Union Berlin   2:4  SpVgg Greuther Fürth
 (Fr) 20.09. 18:30  Karlsruher SC        2:0  Energie Cottbus
+
 (Sa) 21.09. 13:00  TSV 1860 München     3:1  Erzgebirge Aue
 (Sa) 21.09. 13:00  VfL Bochum           1:2  VfR Aalen
 (Sa) 21.09. 13:00  Arminia Bielefeld    2:1  SV Sandhausen
+
 (So) 22.09. 13:30  FSV Frankfurt        4:1  FC Ingolstadt
 (So) 22.09. 13:30  Dynamo Dresden       2:2  SC Paderborn
+
 (Mo) 23.09. 20:15  FC St. Pauli         1:1  Fortuna Düsseldorf
 
 
@@ -111,12 +135,15 @@
 27.09.  18:30  Energie Cottbus          4:2  Arminia Bielefeld
 27.09.  18:30  VfR Aalen                0:1  1. FC Köln
 27.09.  18:30  Erzgebirge Aue           3:0  Karlsruher SC
+
 28.09.  13:00  Fortuna Düsseldorf       0:0  FSV Frankfurt
 28.09.  13:00  SC Paderborn             0:3  1. FC Union Berlin
+
 29.09.  13:30  1. FC Kaiserslautern     3:0  TSV 1860 München
 29.09.  13:30  SV Sandhausen            1:0  VfL Bochum
 29.09.  13:30  FC Ingolstadt            1:2  FC St. Pauli
-30.09.  20:15  Dynamo Dresden           0:4  SpVgg Greuther Fürth
+
+30.09.  20:15  SpVgg Greuther Fürth     4:0  Dynamo Dresden
 
 
 10. Spieltag  // 04.10. - 07.10.
@@ -124,11 +151,14 @@
 04.10.  18:30  1. FC Union Berlin       3:0  SV Sandhausen
 04.10.  18:30  FC St. Pauli             1:2  SC Paderborn
 04.10.  18:30  Arminia Bielefeld        0:3  1. FC Kaiserslautern
+
 05.10.  13:00  Dynamo Dresden           2:0  VfR Aalen
 05.10.  13:00  Karlsruher SC            1:2  1. FC Köln
+
 06.10.  13:30  FSV Frankfurt            3:1  Erzgebirge Aue
 06.10.  13:30  TSV 1860 München         0:0  Energie Cottbus
 06.10.  13:30  VfL Bochum               0:1  FC Ingolstadt
+
 07.10.  20:15  Fortuna Düsseldorf       2:1  SpVgg Greuther Fürth
 
 
@@ -137,11 +167,14 @@
 18.10.  18:30  Energie Cottbus          0:0  1. FC Union Berlin
 18.10.  18:30  VfR Aalen                3:0  Arminia Bielefeld
 18.10.  18:30  SC Paderborn             4:2  FSV Frankfurt
+
 19.10.  13:00  SV Sandhausen            0:0  Dynamo Dresden
 19.10.  13:00  Erzgebirge Aue           2:1  VfL Bochum
+
 20.10.  13:30  SpVgg Greuther Fürth     2:4  FC St. Pauli
 20.10.  13:30  1. FC Kaiserslautern     2:2  Karlsruher SC
 20.10.  13:30  FC Ingolstadt            1:2  Fortuna Düsseldorf
+
 21.10.  20:15  1. FC Köln               0:0  TSV 1860 München
 
 
@@ -150,11 +183,14 @@
 25.10.  18:30  SpVgg Greuther Fürth     0:1  FC Ingolstadt
 25.10.  18:30  FC St. Pauli             0:0  SV Sandhausen
 25.10.  18:30  Arminia Bielefeld        0:1  1. FC Köln
+
 26.10.  13:00  Fortuna Düsseldorf       1:6  SC Paderborn
 26.10.  13:00  FSV Frankfurt            0:0  VfR Aalen
+
 27.10.  13:30  1. FC Union Berlin       1:0  Erzgebirge Aue
 27.10.  13:30  Dynamo Dresden           1:0  Energie Cottbus
 27.10.  13:30  Karlsruher SC            2:1  TSV 1860 München
+
 28.10.  20:15  VfL Bochum               0:0  1. FC Kaiserslautern
 
 
@@ -163,11 +199,14 @@
 01.11.  18:30  Energie Cottbus          0:1  VfL Bochum
 01.11.  18:30  VfR Aalen                1:0  Fortuna Düsseldorf
 01.11.  18:30  SC Paderborn             1:1  FC Ingolstadt
+
 02.11.  13:00  1. FC Kaiserslautern     4:1  FC St. Pauli
 02.11.  13:00  Erzgebirge Aue           2:6  SpVgg Greuther Fürth
+
 03.11.  13:30  TSV 1860 München         1:3  Dynamo Dresden
 03.11.  13:30  SV Sandhausen            2:0  FSV Frankfurt
 03.11.  13:30  Karlsruher SC            3:1  Arminia Bielefeld
+
 04.11.  20:15  1. FC Köln               4:0  1. FC Union Berlin
 
 
@@ -176,11 +215,14 @@
 08.11.  18:30  SpVgg Greuther Fürth     3:0  SC Paderborn
 08.11.  18:30  FSV Frankfurt            0:4  1. FC Kaiserslautern
 08.11.  18:30  FC Ingolstadt            2:0  VfR Aalen
+
 09.11.  13:00  1. FC Union Berlin       0:0  Karlsruher SC
 09.11.  13:00  Arminia Bielefeld        0:1  TSV 1860 München
+
 10.11.  13:30  Fortuna Düsseldorf       1:0  SV Sandhausen
 10.11.  13:30  VfL Bochum               1:0  1. FC Köln
 10.11.  13:30  Dynamo Dresden           1:1  Erzgebirge Aue
+
 11.11.  20:15  FC St. Pauli             3:0  Energie Cottbus
 
 
@@ -189,36 +231,45 @@
 22.11.  18:30  Energie Cottbus          1:4  FSV Frankfurt
 22.11.  18:30  SV Sandhausen            3:2  SC Paderborn
 22.11.  18:30  Arminia Bielefeld        0:2  VfL Bochum
+
 23.11.  13:00  1. FC Kaiserslautern     3:0  1. FC Union Berlin
 23.11.  13:00  1. FC Köln               0:1  FC Ingolstadt
+
 24.11.  13:30  VfR Aalen                0:1  FC St. Pauli
 24.11.  13:30  Erzgebirge Aue           3:0  Fortuna Düsseldorf
 24.11.  13:30  Karlsruher SC            3:0  Dynamo Dresden
+
 25.11.  20:15  TSV 1860 München         1:0  SpVgg Greuther Fürth
 
 
 16. Spieltag  // 29.11. - 02.12.
 
-01.12.  Fortuna Düsseldorf              0:2  Karlsruher SC
+29.11.  Fortuna Düsseldorf              0:2  Karlsruher SC
+29.11.  1. FC Union Berlin              1:3  VfR Aalen
+29.11.  FC St. Pauli                    0:3  1. FC Köln
+
+30.11.  FC Ingolstadt                   0:2  SV Sandhausen
+30.11.  Dynamo Dresden                  3:2  1. FC Kaiserslautern
+
 01.12.  SpVgg Greuther Fürth            1:0  Energie Cottbus
-01.12.  FSV Frankfurt                   1:2  Arminia Bielefeld
-01.12.  1. FC Union Berlin              1:3  VfR Aalen
-01.12.  FC St. Pauli                    0:3  1. FC Köln
 01.12.  SC Paderborn                    1:1  Erzgebirge Aue
-01.12.  FC Ingolstadt                   0:2  SV Sandhausen
 01.12.  VfL Bochum                      1:2  TSV 1860 München
-01.12.  Dynamo Dresden                  3:2  1. FC Kaiserslautern
+
+02.12.  FSV Frankfurt                   1:2  Arminia Bielefeld
 
 
 17. Spieltag  // 06.12. - 09.12.
 
-08.12.  1. FC Kaiserslautern            0:1  Fortuna Düsseldorf
-08.12.  1. FC Köln                      2:0  FSV Frankfurt
-08.12.  TSV 1860 München                2:1  1. FC Union Berlin
+06.12.  Erzgebirge Aue                  0:2  FC St. Pauli
+06.12.  Karlsruher SC                   0:0  VfL Bochum
+06.12.  Arminia Bielefeld               1:1  Dynamo Dresden
+
+07.12.  1. FC Köln                      2:0  FSV Frankfurt
+07.12.  TSV 1860 München                2:1  1. FC Union Berlin
+
 08.12.  Energie Cottbus                 1:2  FC Ingolstadt
 08.12.  VfR Aalen                       2:4  SC Paderborn
 08.12.  SV Sandhausen                   1:3  SpVgg Greuther Fürth
-08.12.  Erzgebirge Aue                  0:2  FC St. Pauli
-08.12.  Karlsruher SC                   0:0  VfL Bochum
-08.12.  Arminia Bielefeld               1:1  Dynamo Dresden
+
+09.12.  1. FC Kaiserslautern            0:1  Fortuna Düsseldorf
 

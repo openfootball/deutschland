@@ -1,0 +1,31 @@
+####################################
+# Deutschland (de) - All Fixtures
+
+
+# -- Leagues
+
+de-deutschland!/leagues
+
+
+# -- Teams
+
+de-deutschland!/teams
+de-deutschland!/teams_2
+de-deutschland!/teams_3
+de-deutschland!/teams_x
+
+
+# -- Fixtures
+
+# 2012/13
+de-deutschland!/2012_13/bl
+de-deutschland!/2012_13/bl2
+de-deutschland!/2012_13/l3
+de-deutschland!/2012_13/cup
+
+# 2013/14
+de-deutschland!/2013_14/bl
+de-deutschland!/2013_14/bl2
+de-deutschland!/2013_14/l3
+de-deutschland!/2013_14/cup
+

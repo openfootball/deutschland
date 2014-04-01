@@ -33,7 +33,8 @@
 
 3. Spieltag //  Sa.+So. 24.+25. Aug
 
-24.08. (Sa)  Borussia Dortmund      1:0  Werder Bremen
+23.08. (Fr)  Borussia Dortmund      1:0  Werder Bremen
+
 24.08. (Sa)  Bayern München         2:0  1. FC Nürnberg
 24.08. (Sa)  Bayer Leverkusen       4:2  Bor. Mönchengladbach
 24.08. (Sa)  Hannover 96            2:1  FC Schalke 04
@@ -77,146 +78,180 @@
 
 6. Spieltag
 
+20.09. (Fr)  Bor. Mönchengladbach   4:1  Eintracht Braunschweig  
+
 21.09. (Sa)  FC Schalke 04          0:4  Bayern München  
-21.09. (Sa)  Bor. Mönchengladbach   4:1  Eintracht Braunschweig  
-21.09. (Sa)  VfB Stuttgart          1:1  Eintracht Frankfurt  
 21.09. (Sa)  Hannover 96            2:1  FC Augsburg  
 21.09. (Sa)  VfL Wolfsburg          2:1  1899 Hoffenheim  
 21.09. (Sa)  1. FC Nürnberg         1:1  Borussia Dortmund  
-21.09. (Sa)  SC Freiburg            1:1  Hertha BSC  
 21.09. (Sa)  1. FSV Mainz 05        1:4  Bayer Leverkusen  
 21.09. (Sa)  Hamburger SV           0:2  Werder Bremen  
 
+22.09. (So)  SC Freiburg            1:1  Hertha BSC  
+22.09. (So)  VfB Stuttgart          1:1  Eintracht Frankfurt  
+
+
 7. Spieltag
+
+27.09. (Fr)  FC Augsburg            2:2  Bor. Mönchengladbach  
 
 28.09. (Sa)  Borussia Dortmund      5:0  SC Freiburg  
 28.09. (Sa)  Bayern München         1:0  VfL Wolfsburg  
 28.09. (Sa)  Bayer Leverkusen       2:0  Hannover 96  
-28.09. (Sa)  Werder Bremen          3:3  1. FC Nürnberg  
 28.09. (Sa)  1899 Hoffenheim        3:3  FC Schalke 04  
-28.09. (Sa)  FC Augsburg            2:2  Bor. Mönchengladbach  
-28.09. (Sa)  Eintracht Braunschweig 0:4  VfB Stuttgart  
 28.09. (Sa)  Eintracht Frankfurt    2:2  Hamburger SV  
 28.09. (Sa)  Hertha BSC             3:1  1. FSV Mainz 05  
 
+29.09. (So)  Werder Bremen          3:3  1. FC Nürnberg  
+29.09. (So)  Eintracht Braunschweig 0:4  VfB Stuttgart  
+
+
 8. Spieltag
+
+04.10. (Fr)  Hannover 96            1:1  Hertha BSC  
 
 05.10. (Sa)  FC Schalke 04          4:1  FC Augsburg  
 05.10. (Sa)  Bor. Mönchengladbach   2:0  Borussia Dortmund  
 05.10. (Sa)  Bayer Leverkusen       1:1  Bayern München  
 05.10. (Sa)  VfB Stuttgart          1:1  Werder Bremen  
-05.10. (Sa)  Hannover 96            1:1  Hertha BSC  
 05.10. (Sa)  VfL Wolfsburg          0:2  Eintracht Braunschweig  
-05.10. (Sa)  1. FC Nürnberg         0:5  Hamburger SV  
-05.10. (Sa)  SC Freiburg            1:1  Eintracht Frankfurt  
 05.10. (Sa)  1. FSV Mainz 05        2:2  1899 Hoffenheim  
 
+06.10. (So)  1. FC Nürnberg         0:5  Hamburger SV  
+06.10. (So)  SC Freiburg            1:1  Eintracht Frankfurt  
+
+
 9. Spieltag
+
+18.10. (Fr)  1899 Hoffenheim        1:2  Bayer Leverkusen  
 
 19.10. (Sa)  Borussia Dortmund      1:0  Hannover 96  
 19.10. (Sa)  Bayern München         4:1  1. FSV Mainz 05  
 19.10. (Sa)  Werder Bremen          0:0  SC Freiburg  
-19.10. (Sa)  1899 Hoffenheim        1:2  Bayer Leverkusen  
-19.10. (Sa)  FC Augsburg            1:2  VfL Wolfsburg  
-19.10. (Sa)  Hamburger SV           3:3  VfB Stuttgart  
 19.10. (Sa)  Eintracht Braunschweig 2:3  FC Schalke 04  
 19.10. (Sa)  Eintracht Frankfurt    1:1  1. FC Nürnberg  
 19.10. (Sa)  Hertha BSC             1:0  Bor. Mönchengladbach
 
+20.10. (So)  Hamburger SV           3:3  VfB Stuttgart  
+20.10. (So)  FC Augsburg            1:2  VfL Wolfsburg  
+
 
 10. Spieltag
  
+25.10. (Fr)  VfB Stuttgart          1:1  1. FC Nürnberg
+
 26.10. (Sa)  Bayern München         3:2  Hertha BSC
 26.10. (Sa)  FC Schalke 04          1:3  Borussia Dortmund
-26.10. (Sa)  Bor. Mönchengladbach   4:1  Eintracht Frankfurt
 26.10. (Sa)  Bayer Leverkusen       2:1  FC Augsburg
-26.10. (Sa)  VfB Stuttgart          1:1  1. FC Nürnberg
 26.10. (Sa)  Hannover 96            1:4  1899 Hoffenheim
 26.10. (Sa)  VfL Wolfsburg          3:0  Werder Bremen
-26.10. (Sa)  SC Freiburg            0:3  Hamburger SV
 26.10. (Sa)  1. FSV Mainz 05        2:0  Eintracht Braunschweig
+
+27.10. (So)  SC Freiburg            0:3  Hamburger SV
+27.10. (So)  Bor. Mönchengladbach   4:1  Eintracht Frankfurt
 
 
 11. Spieltag
  
-02.11. (Sa)  Borussia Dortmund      6:1  VfB Stuttgart
-02.11. (Sa)  Werder Bremen          3:2  Hannover 96
+01.11. (Fr)  Borussia Dortmund      6:1  VfB Stuttgart
+
 02.11. (Sa)  1. FC Nürnberg         0:3  SC Freiburg
 02.11. (Sa)  1899 Hoffenheim        1:2  Bayern München
-02.11. (Sa)  FC Augsburg            2:1  1. FSV Mainz 05
 02.11. (Sa)  Hamburger SV           0:3  Bor. Mönchengladbach
 02.11. (Sa)  Eintracht Braunschweig 1:0  Bayer Leverkusen
 02.11. (Sa)  Eintracht Frankfurt    1:2  VfL Wolfsburg
 02.11. (Sa)  Hertha BSC             0:2  FC Schalke 04
 
+03.11. (So)  FC Augsburg            2:1  1. FSV Mainz 05
+03.11. (So)  Werder Bremen          3:2  Hannover 96
+
+
 12. Spieltag
  
+08.11. (Fr)  Hannover 96            0:0  Eintracht Braunschweig
+
 09.11. (Sa)  Bayern München         3:0  FC Augsburg
 09.11. (Sa)  FC Schalke 04          3:1  Werder Bremen
 09.11. (Sa)  Bor. Mönchengladbach   3:1  1. FC Nürnberg
 09.11. (Sa)  Bayer Leverkusen       5:3  Hamburger SV
-09.11. (Sa)  Hannover 96            0:0  Eintracht Braunschweig
 09.11. (Sa)  VfL Wolfsburg          2:1  Borussia Dortmund
 09.11. (Sa)  1899 Hoffenheim        2:3  Hertha BSC
-09.11. (Sa)  SC Freiburg            1:3  VfB Stuttgart
-09.11. (Sa)  1. FSV Mainz 05        1:0  Eintracht Frankfurt
+
+10.11. (So)  1. FSV Mainz 05        1:0  Eintracht Frankfurt
+10.11. (So)  SC Freiburg            1:3  VfB Stuttgart
+
 
 13. Spieltag
  
+22.11. (Fr)  VfB Stuttgart           0:2  Bor. Mönchengladbach
+
 23.11. (Sa)  Borussia Dortmund       0:3  Bayern München
-23.11. (Sa)  VfB Stuttgart           0:2  Bor. Mönchengladbach
-23.11. (Sa)  Werder Bremen           2:3  1. FSV Mainz 05
 23.11. (Sa)  1. FC Nürnberg          1:1  VfL Wolfsburg
 23.11. (Sa)  FC Augsburg             2:0  1899 Hoffenheim
-23.11. (Sa)  Hamburger SV            3:1  Hannover 96
 23.11. (Sa)  Eintracht Braunschweig  0:1  SC Freiburg
 23.11. (Sa)  Eintracht Frankfurt     3:3  FC Schalke 04
 23.11. (Sa)  Hertha BSC              0:1  Bayer Leverkusen
 
+24.11. (So)  Hamburger SV            3:1  Hannover 96
+24.11. (So)  Werder Bremen           2:3  1. FSV Mainz 05
+
+
 14. Spieltag
  
+29.11. (Fr)  VfL Wolfsburg           1:1 Hamburger SV
+
 30.11. (Sa)  Bayern München          2:0 Eintracht Braunschweig
 30.11. (Sa)  FC Schalke 04           3:0 VfB Stuttgart
-30.11. (Sa)  Bor. Mönchengladbach    1:0 SC Freiburg
 30.11. (Sa)  Bayer Leverkusen        3:0 1. FC Nürnberg
-30.11. (Sa)  Hannover 96             2:0 Eintracht Frankfurt
-30.11. (Sa)  VfL Wolfsburg           1:1 Hamburger SV
 30.11. (Sa)  1899 Hoffenheim         4:4 Werder Bremen
 30.11. (Sa)  1. FSV Mainz 05         1:3 Borussia Dortmund
 30.11. (Sa)  Hertha BSC              0:0 FC Augsburg
 
+01.12. (So)  Hannover 96             2:0 Eintracht Frankfurt
+01.12. (So)  Bor. Mönchengladbach    1:0 SC Freiburg
+
+
 15. Spieltag
+
+06.12. (Fr)  1. FC Nürnberg          1:1 1. FSV Mainz 05
  
 07.12. (Sa)  Borussia Dortmund       0:1 Bayer Leverkusen
 07.12. (Sa)  Bor. Mönchengladbach    2:1 FC Schalke 04
 07.12. (Sa)  VfB Stuttgart           4:2 Hannover 96
 07.12. (Sa)  Werder Bremen           0:7 Bayern München
-07.12. (Sa)  1. FC Nürnberg          1:1 1. FSV Mainz 05
-07.12. (Sa)  SC Freiburg             0:3 VfL Wolfsburg
 07.12. (Sa)  Hamburger SV            0:1 FC Augsburg
-07.12. (Sa)  Eintracht Braunschweig  0:2 Hertha BSC
 07.12. (Sa)  Eintracht Frankfurt     1:2 1899 Hoffenheim
 
+08.12. (So)  SC Freiburg             0:3 VfL Wolfsburg
+08.12. (So)  Eintracht Braunschweig  0:2 Hertha BSC
+
+
 16. Spieltag
+
+13.12. (Sa)  Hertha BSC              3:2 Werder Bremen
  
 14.12. (Sa)  Bayern München          3:1 Hamburger SV
-14.12. (Sa)  FC Schalke 04           2:0 SC Freiburg
-14.12. (Sa)  Bayer Leverkusen        0:1 Eintracht Frankfurt
 14.12. (Sa)  Hannover 96             3:3 1. FC Nürnberg
 14.12. (Sa)  VfL Wolfsburg           3:1 VfB Stuttgart
 14.12. (Sa)  1899 Hoffenheim         2:2 Borussia Dortmund
 14.12. (Sa)  1. FSV Mainz 05         0:0 Bor. Mönchengladbach
 14.12. (Sa)  FC Augsburg             4:1 Eintracht Braunschweig
-14.12. (Sa)  Hertha BSC              3:2 Werder Bremen
+
+15.12. (So)  FC Schalke 04           2:0 SC Freiburg
+15.12. (So)  Bayer Leverkusen        0:1 Eintracht Frankfurt
+
 
 17. Spieltag
  
-(Sa) 21.12.  Borussia Dortmund       1:2 Hertha BSC
-(Sa) 21.12.  Bor. Mönchengladbach    2:2 VfL Wolfsburg
-(Sa) 21.12.  Werder Bremen           1:0 Bayer Leverkusen
-(Sa) 21.12.  1. FC Nürnberg          0:0 FC Schalke 04
-(Sa) 21.12.  SC Freiburg             2:1 Hannover 96
-(Sa) 21.12.  Hamburger SV            2:3 1. FSV Mainz 05
-(Sa) 21.12.  Eintracht Braunschweig  1:0 1899 Hoffenheim
-(Sa) 21.12.  Eintracht Frankfurt     1:1 FC Augsburg
-(Di) 28.01.  VfB Stuttgart  Bayern München
+(Fr) 20.12.  Eintracht Frankfurt     1:1  FC Augsburg
+
+(Sa) 21.12.  Borussia Dortmund       1:2  Hertha BSC
+(Sa) 21.12.  Werder Bremen           1:0  Bayer Leverkusen
+(Sa) 21.12.  1. FC Nürnberg          0:0  FC Schalke 04
+(Sa) 21.12.  SC Freiburg             2:1  Hannover 96
+(Sa) 21.12.  Hamburger SV            2:3  1. FSV Mainz 05
+(Sa) 21.12.  Eintracht Braunschweig  1:0  1899 Hoffenheim
+
+(So) 22.12.  Bor. Mönchengladbach    2:2  VfL Wolfsburg
+
+(Mi) 29.01.  VfB Stuttgart           1:2  Bayern München

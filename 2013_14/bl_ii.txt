@@ -68,7 +68,7 @@
 
 22.02.2014 (Sa)  Hamburger SV            3:0  Borussia Dortmund
 22.02.2014 (Sa)  VfL Wolfsburg           3:1  Bayer Leverkusen
-22.02.2014 (Sa)  Bor. Mönchengladbach    2:2   1899 Hoffenheim
+22.02.2014 (Sa)  Bor. Mönchengladbach    2:2  1899 Hoffenheim
 22.02.2014 (Sa)  SC Freiburg             2:4  FC Augsburg
 22.02.2014 (Sa)  1. FC Nürnberg          2:1  Eintracht Braunschweig
 22.02.2014 (Sa)  VfB Stuttgart           1:2  Hertha BSC
@@ -191,8 +191,8 @@
 12.04.2014 (Sa)  Bayern München          0:3  Borussia Dortmund
 12.04.2014 (Sa)  Bor. Mönchengladbach    1:1  VfB Stuttgart
 
-13.04.2014 (So)  Bayer Leverkusen   Hertha BSC
-13.04.2014 (So)  1899 Hoffenheim   FC Augsburg
+13.04.2014 (So)  Bayer Leverkusen        2:1  Hertha BSC
+13.04.2014 (So)  1899 Hoffenheim         2:0 FC Augsburg
 
 
 31. Spieltag

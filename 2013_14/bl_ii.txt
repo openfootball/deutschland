@@ -199,12 +199,12 @@
 
 17.04.2014 (Do)  Eintracht Frankfurt     2:3  Hannover 96
 
-19.04.2014 (Sa)  Eintracht Braunschweig   Bayern München
-19.04.2014 (Sa)  SC Freiburg   Bor. Mönchengladbach
-19.04.2014 (Sa)  Hamburger SV   VfL Wolfsburg
-19.04.2014 (Sa)  Werder Bremen   1899 Hoffenheim
-19.04.2014 (Sa)  Borussia Dortmund   1. FSV Mainz 05
-19.04.2014 (Sa)  FC Augsburg   Hertha BSC
+19.04.2014 (Sa)  Eintracht Braunschweig  0:2  Bayern München
+19.04.2014 (Sa)  SC Freiburg             4:2  Bor. Mönchengladbach
+19.04.2014 (Sa)  Hamburger SV            1:3  VfL Wolfsburg
+19.04.2014 (Sa)  Werder Bremen           3:1  1899 Hoffenheim
+19.04.2014 (Sa)  Borussia Dortmund       4:2  1. FSV Mainz 05
+19.04.2014 (Sa)  FC Augsburg             0:0  Hertha BSC
 
 20.04.2014 (So)  1. FC Nürnberg   Bayer Leverkusen
 20.04.2014 (So)  VfB Stuttgart   FC Schalke 04

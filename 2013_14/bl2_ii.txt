@@ -247,15 +247,15 @@
 
 33. Spieltag
  
-04.05.2014 15:30 (So)  Karlsruher SC   Fortuna Düsseldorf
-04.05.2014 15:30 (So)  Energie Cottbus   SpVgg Greuther Fürth
-04.05.2014 15:30 (So)  Arminia Bielefeld   FSV Frankfurt
-04.05.2014 15:30 (So)  VfR Aalen   1. FC Union Berlin
-04.05.2014 15:30 (So)  1. FC Köln   FC St. Pauli
-04.05.2014 15:30 (So)  Erzgebirge Aue   SC Paderborn 07
-04.05.2014 15:30 (So)  SV Sandhausen   FC Ingolstadt 04
-04.05.2014 15:30 (So)  TSV 1860 München   VfL Bochum
-04.05.2014 15:30 (So)  1. FC Kaiserslautern   Dynamo Dresden
+04.05.2014 15:30 (So)  Karlsruher SC          2:2  Fortuna Düsseldorf
+04.05.2014 15:30 (So)  Energie Cottbus        0:6  SpVgg Greuther Fürth
+04.05.2014 15:30 (So)  Arminia Bielefeld      0:0  FSV Frankfurt
+04.05.2014 15:30 (So)  VfR Aalen              3:0  1. FC Union Berlin
+04.05.2014 15:30 (So)  1. FC Köln             4:0  FC St. Pauli
+04.05.2014 15:30 (So)  Erzgebirge Aue         0:2  SC Paderborn 07
+04.05.2014 15:30 (So)  SV Sandhausen          0:2  FC Ingolstadt 04
+04.05.2014 15:30 (So)  TSV 1860 München       2:0  VfL Bochum
+04.05.2014 15:30 (So)  1. FC Kaiserslautern   4:0  Dynamo Dresden
 
 
 34. Spieltag

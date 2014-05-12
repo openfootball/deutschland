@@ -240,13 +240,13 @@
 
 34. Spieltag
 
-10.05.2014 (Sa)  Hertha BSC   Borussia Dortmund
-10.05.2014 (Sa)  VfL Wolfsburg   Bor. Mönchengladbach
-10.05.2014 (Sa)  Bayern München   VfB Stuttgart
-10.05.2014 (Sa)  Bayer Leverkusen   Werder Bremen
-10.05.2014 (Sa)  FC Schalke 04   1. FC Nürnberg
-10.05.2014 (Sa)  Hannover 96   SC Freiburg
-10.05.2014 (Sa)  1. FSV Mainz 05   Hamburger SV
-10.05.2014 (Sa)  1899 Hoffenheim   Eintracht Braunschweig
-10.05.2014 (Sa)  FC Augsburg   Eintracht Frankfurt
+10.05.2014 (Sa)  Hertha BSC              0:4  Borussia Dortmund
+10.05.2014 (Sa)  VfL Wolfsburg           3:1  Bor. Mönchengladbach
+10.05.2014 (Sa)  Bayern München          1:0  VfB Stuttgart
+10.05.2014 (Sa)  Bayer Leverkusen        2:1  Werder Bremen
+10.05.2014 (Sa)  FC Schalke 04           4:1  1. FC Nürnberg
+10.05.2014 (Sa)  Hannover 96             3:2  SC Freiburg
+10.05.2014 (Sa)  1. FSV Mainz 05         3:2  Hamburger SV
+10.05.2014 (Sa)  1899 Hoffenheim         3:1  Eintracht Braunschweig
+10.05.2014 (Sa)  FC Augsburg             2:1  Eintracht Frankfurt
 

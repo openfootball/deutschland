@@ -260,13 +260,13 @@
 
 34. Spieltag
  
-11.05.2014 15:30 (So)  Fortuna Düsseldorf   1. FC Kaiserslautern
-11.05.2014 15:30 (So)  FSV Frankfurt   1. FC Köln
-11.05.2014 15:30 (So)  1. FC Union Berlin   TSV 1860 München
-11.05.2014 15:30 (So)  FC Ingolstadt 04   Energie Cottbus
-11.05.2014 15:30 (So)  SC Paderborn 07   VfR Aalen
-11.05.2014 15:30 (So)  SpVgg Greuther Fürth   SV Sandhausen
-11.05.2014 15:30 (So)  FC St. Pauli   Erzgebirge Aue
-11.05.2014 15:30 (So)  VfL Bochum   Karlsruher SC
-11.05.2014 15:30 (So)  Dynamo Dresden   Arminia Bielefeld
+11.05.2014 15:30 (So)  Fortuna Düsseldorf     4:2  1. FC Kaiserslautern
+11.05.2014 15:30 (So)  FSV Frankfurt          2:0  1. FC Köln
+11.05.2014 15:30 (So)  1. FC Union Berlin     1:1  TSV 1860 München
+11.05.2014 15:30 (So)  FC Ingolstadt 04       2:0  Energie Cottbus
+11.05.2014 15:30 (So)  SC Paderborn 07        2:1  VfR Aalen
+11.05.2014 15:30 (So)  SpVgg Greuther Fürth   2:0  SV Sandhausen
+11.05.2014 15:30 (So)  FC St. Pauli           2:2  Erzgebirge Aue
+11.05.2014 15:30 (So)  VfL Bochum             1:0  Karlsruher SC
+11.05.2014 15:30 (So)  Dynamo Dresden         2:3  Arminia Bielefeld
 

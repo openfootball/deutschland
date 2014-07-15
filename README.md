@@ -1,15 +1,15 @@
-# Deutschland (Germany) - Deutsche Bundesliga
+# Deutschland (Germany) - Deutsche Bundesliga, DFB Pokal
 
 ## What's `football.db`?
 
-A free open public domain football (soccer) database & schema
-for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+A free open public domain football database & schema
+for use in any (programming) language (e.g. uses plain text data sets).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for Deutschland (Germany) / Europe. Events include:
+Free open public domain football data for Deutschland (Germany).
+National club leagues and cup tournaments include:
 
 | Level |                                |            |
 | ----- | ------------------------------ | ---------- |
@@ -18,6 +18,7 @@ Free open public domain football data for Deutschland (Germany) / Europe. Events
 | III   |  Deutsche 3. Liga              |  20 Clubs  |
 |       |
 | Cup   |  DFB Pokal (Cup) |
+
 
 
 Example:
@@ -31,12 +32,22 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
 ~~~
 
 ~~~
-### Deutsche Bundesliga 2013/14
+### Deutsche Bundesliga 2014/15
 
 1. Spieltag
 
-Fr,  9 Aug 20:30  Bayern München  3-1  Bor. Mönchengladbach
-Sa, 10 Aug 20:30  FC Augsburg     0-4  Borussia Dortmund
+[Fr 22.8.]
+  20.30  Bayern München -  VfL Wolfsburg
+[Sa 23.8.]
+  15.30  1899 Hoffenheim -  FC Augsburg
+  15.30  Hannover 96     -  FC Schalke 04
+  15.30  Hertha BSC      -  Werder Bremen
+  15.30  Eintracht Frankfurt  -  SC Freiburg
+  15.30  1. FC Köln           -  Hamburger SV
+  18.30  Borussia Dortmund    -  Bayer Leverkusen
+[So 24.8.]
+  15.30  SC Paderborn 07       -  1. FSV Mainz 05
+  17.30  Bor. Mönchengladbach  -  VfB Stuttgart
 ...
 ~~~
 
@@ -44,7 +55,7 @@ Sa, 10 Aug 20:30  FC Augsburg     0-4  Borussia Dortmund
 ## Build Your Own `football.db` Copy
 
 Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+from the plain text data sets. [More »](http://openfootball.github.io/build.html)
 
 
 ## Questions? Comments?

@@ -35,187 +35,200 @@
 3. Spieltag
 
 [Fr 12.9.]
-  20:30  Bayer Leverkusen Werder Bremen 
+  20.30  Bayer Leverkusen Werder Bremen 
 [Sa 13.9.]
-  15:30  Bayern München VfB Stuttgart 
-  15:30  Borussia Dortmund SC Freiburg 
-  15:30  1899 Hoffenheim VfL Wolfsburg 
-  15:30  Hertha BSC 1. FSV Mainz 05 
-  15:30  SC Paderborn 07 1. FC Köln 
-  18:30  Bor. Mönchengladbach FC Schalke 04 
+  15.30  Bayern München VfB Stuttgart 
+  15.30  Borussia Dortmund SC Freiburg 
+  15.30  1899 Hoffenheim VfL Wolfsburg 
+  15.30  Hertha BSC 1. FSV Mainz 05 
+  15.30  SC Paderborn 07 1. FC Köln 
+  18.30  Bor. Mönchengladbach FC Schalke 04 
 [So 14.9.]
-  15:30  Eintracht Frankfurt FC Augsburg 
-  17:30  Hannover 96 Hamburger SV 
+  15.30  Eintracht Frankfurt FC Augsburg 
+  17.30  Hannover 96 Hamburger SV 
 
-Spieltag 4
+4. Spieltag
 
 [Fr 19.9.]
-  20:30  SC Freiburg Hertha BSC 
+  20.30  SC Freiburg Hertha BSC 
 [Sa 20.9.]
-  15:30  FC Schalke 04 Eintracht Frankfurt 
-  15:30  FC Augsburg Werder Bremen 
-  15:30  VfB Stuttgart 1899 Hoffenheim 
-  15:30  Hamburger SV Bayern München 
-  15:30  SC Paderborn 07 Hannover 96 
+  15.30  FC Schalke 04 Eintracht Frankfurt 
+  15.30  FC Augsburg Werder Bremen 
+  15.30  VfB Stuttgart 1899 Hoffenheim 
+  15.30  Hamburger SV Bayern München 
+  15.30  SC Paderborn 07 Hannover 96 
 [So 21.9.]
-  15:30  VfL Wolfsburg Bayer Leverkusen 
-  17:30  1. FSV Mainz 05 Borussia Dortmund 
-  17:30  1. FC Köln Bor. Mönchengladbach 
+  15.30  VfL Wolfsburg Bayer Leverkusen 
+  17.30  1. FSV Mainz 05 Borussia Dortmund 
+  17.30  1. FC Köln Bor. Mönchengladbach 
 
 
-Spieltag 5
+5. Spieltag
 
-24.09.  (Mi) Bayern München SC Paderborn 07 
-24.09.  (Mi) Borussia Dortmund VfB Stuttgart 
-24.09.  (Mi) Bayer Leverkusen FC Augsburg 
-24.09.  (Mi) Bor. Mönchengladbach Hamburger SV 
-24.09.  (Mi) 1899 Hoffenheim SC Freiburg 
-24.09.  (Mi) Hannover 96 1. FC Köln 
-24.09.  (Mi) Hertha BSC VfL Wolfsburg 
-24.09.  (Mi) Werder Bremen FC Schalke 04 
-24.09.  (Mi) Eintracht Frankfurt 1. FSV Mainz 05 
+[Mi 24.9.]
+  Bayern München SC Paderborn 07 
+  Borussia Dortmund VfB Stuttgart 
+  Bayer Leverkusen FC Augsburg 
+  Bor. Mönchengladbach Hamburger SV 
+  1899 Hoffenheim SC Freiburg 
+  Hannover 96 1. FC Köln 
+  Hertha BSC VfL Wolfsburg 
+  Werder Bremen FC Schalke 04 
+  Eintracht Frankfurt 1. FSV Mainz 05 
 
-Spieltag 6
+6. Spieltag
 
-27.09.  (Sa) FC Schalke 04 Borussia Dortmund 
-27.09.  (Sa) VfL Wolfsburg Werder Bremen 
-27.09.  (Sa) 1. FSV Mainz 05 1899 Hoffenheim 
-27.09.  (Sa) FC Augsburg Hertha BSC 
-27.09.  (Sa) SC Freiburg Bayer Leverkusen 
-27.09.  (Sa) VfB Stuttgart Hannover 96 
-27.09.  (Sa) Hamburger SV Eintracht Frankfurt 
-27.09.  (Sa) 1. FC Köln Bayern München 
-27.09.  (Sa) SC Paderborn 07 Bor. Mönchengladbach 
+[Sa 27.9.]
+  FC Schalke 04 Borussia Dortmund 
+  VfL Wolfsburg Werder Bremen 
+  1. FSV Mainz 05 1899 Hoffenheim 
+  FC Augsburg Hertha BSC 
+  SC Freiburg Bayer Leverkusen 
+  VfB Stuttgart Hannover 96 
+  Hamburger SV Eintracht Frankfurt 
+  1. FC Köln Bayern München 
+  SC Paderborn 07 Bor. Mönchengladbach 
 
-Spieltag 7
+7. Spieltag
 
-04.10.  (Sa) Bayern München Hannover 96 
-04.10.  (Sa) Borussia Dortmund Hamburger SV 
-04.10.  (Sa) Bayer Leverkusen SC Paderborn 07 
-04.10.  (Sa) VfL Wolfsburg FC Augsburg 
-04.10.  (Sa) Bor. Mönchengladbach 1. FSV Mainz 05 
-04.10.  (Sa) 1899 Hoffenheim FC Schalke 04 
-04.10.  (Sa) Hertha BSC VfB Stuttgart 
-04.10.  (Sa) Werder Bremen SC Freiburg 
-04.10.  (Sa) Eintracht Frankfurt 1. FC Köln 
+[Sa 4.10.]
+  Bayern München Hannover 96 
+  Borussia Dortmund Hamburger SV 
+  Bayer Leverkusen SC Paderborn 07 
+  VfL Wolfsburg FC Augsburg 
+  Bor. Mönchengladbach 1. FSV Mainz 05 
+  1899 Hoffenheim FC Schalke 04 
+  Hertha BSC VfB Stuttgart 
+  Werder Bremen SC Freiburg 
+  Eintracht Frankfurt 1. FC Köln 
 
-Spieltag 8
+8. Spieltag
 
-18.10.  (Sa) Bayern München Werder Bremen 
-18.10.  (Sa) FC Schalke 04 Hertha BSC 
-18.10.  (Sa) 1. FSV Mainz 05 FC Augsburg 
-18.10.  (Sa) Hannover 96 Bor. Mönchengladbach 
-18.10.  (Sa) SC Freiburg VfL Wolfsburg 
-18.10.  (Sa) VfB Stuttgart Bayer Leverkusen 
-18.10.  (Sa) Hamburger SV 1899 Hoffenheim 
-18.10.  (Sa) 1. FC Köln Borussia Dortmund 
-18.10.  (Sa) SC Paderborn 07 Eintracht Frankfurt 
+[Sa 18.10.]
+  Bayern München Werder Bremen 
+  FC Schalke 04 Hertha BSC 
+  1. FSV Mainz 05 FC Augsburg 
+  Hannover 96 Bor. Mönchengladbach 
+  SC Freiburg VfL Wolfsburg 
+  VfB Stuttgart Bayer Leverkusen 
+  Hamburger SV 1899 Hoffenheim 
+  1. FC Köln Borussia Dortmund 
+  SC Paderborn 07 Eintracht Frankfurt 
 
-Spieltag 9
+9. Spieltag
 
-25.10.  (Sa) Borussia Dortmund Hannover 96 
-25.10.  (Sa) Bayer Leverkusen FC Schalke 04 
-25.10.  (Sa) VfL Wolfsburg 1. FSV Mainz 05 
-25.10.  (Sa) Bor. Mönchengladbach Bayern München 
-25.10.  (Sa) FC Augsburg SC Freiburg 
-25.10.  (Sa) 1899 Hoffenheim SC Paderborn 07 
-25.10.  (Sa) Hertha BSC Hamburger SV 
-25.10.  (Sa) Werder Bremen 1. FC Köln 
-25.10.  (Sa) Eintracht Frankfurt VfB Stuttgart 
+[Sa 25.10.]
+  Borussia Dortmund Hannover 96 
+  Bayer Leverkusen FC Schalke 04 
+  VfL Wolfsburg 1. FSV Mainz 05 
+  Bor. Mönchengladbach Bayern München 
+  FC Augsburg SC Freiburg 
+  1899 Hoffenheim SC Paderborn 07 
+  Hertha BSC Hamburger SV 
+  Werder Bremen 1. FC Köln 
+  Eintracht Frankfurt VfB Stuttgart 
 
-Spieltag 10
+10. Spieltag
 
-01.11.  (Sa) Bayern München Borussia Dortmund 
-01.11.  (Sa) FC Schalke 04 FC Augsburg 
-01.11.  (Sa) Bor. Mönchengladbach 1899 Hoffenheim 
-01.11.  (Sa) 1. FSV Mainz 05 Werder Bremen 
-01.11.  (Sa) Hannover 96 Eintracht Frankfurt 
-01.11.  (Sa) VfB Stuttgart VfL Wolfsburg 
-01.11.  (Sa) Hamburger SV Bayer Leverkusen 
-01.11.  (Sa) 1. FC Köln SC Freiburg 
-01.11.  (Sa) SC Paderborn 07 Hertha BSC 
+[Sa 1.11.]
+  Bayern München Borussia Dortmund 
+  FC Schalke 04 FC Augsburg 
+  Bor. Mönchengladbach 1899 Hoffenheim 
+  1. FSV Mainz 05 Werder Bremen 
+  Hannover 96 Eintracht Frankfurt 
+  VfB Stuttgart VfL Wolfsburg 
+  Hamburger SV Bayer Leverkusen 
+  1. FC Köln SC Freiburg 
+  SC Paderborn 07 Hertha BSC 
 
-Spieltag 11
+11. Spieltag
 
-08.11.  (Sa) Borussia Dortmund Bor. Mönchengladbach 
-08.11.  (Sa) Bayer Leverkusen 1. FSV Mainz 05 
-08.11.  (Sa) VfL Wolfsburg Hamburger SV 
-08.11.  (Sa) FC Augsburg SC Paderborn 07 
-08.11.  (Sa) 1899 Hoffenheim 1. FC Köln 
-08.11.  (Sa) Hertha BSC Hannover 96 
-08.11.  (Sa) Werder Bremen VfB Stuttgart 
-08.11.  (Sa) Eintracht Frankfurt Bayern München 
-08.11.  (Sa) SC Freiburg FC Schalke 04 
+[Sa 8.11.]
+  Borussia Dortmund Bor. Mönchengladbach 
+  Bayer Leverkusen 1. FSV Mainz 05 
+  VfL Wolfsburg Hamburger SV 
+  FC Augsburg SC Paderborn 07 
+  1899 Hoffenheim 1. FC Köln 
+  Hertha BSC Hannover 96 
+  Werder Bremen VfB Stuttgart 
+  Eintracht Frankfurt Bayern München 
+  SC Freiburg FC Schalke 04 
 
-Spieltag 12
+12. Spieltag
 
-22.11.  (Sa) Bayern München 1899 Hoffenheim 
-22.11.  (Sa) FC Schalke 04 VfL Wolfsburg 
-22.11.  (Sa) Bor. Mönchengladbach Eintracht Frankfurt 
-22.11.  (Sa) 1. FSV Mainz 05 SC Freiburg 
-22.11.  (Sa) Hannover 96 Bayer Leverkusen 
-22.11.  (Sa) VfB Stuttgart FC Augsburg 
-22.11.  (Sa) Hamburger SV Werder Bremen 
-22.11.  (Sa) 1. FC Köln Hertha BSC 
-22.11.  (Sa) SC Paderborn 07 Borussia Dortmund 
+[Sa 22.11.]
+  Bayern München 1899 Hoffenheim 
+  FC Schalke 04 VfL Wolfsburg 
+  Bor. Mönchengladbach Eintracht Frankfurt 
+  1. FSV Mainz 05 SC Freiburg 
+  Hannover 96 Bayer Leverkusen 
+  VfB Stuttgart FC Augsburg 
+  Hamburger SV Werder Bremen 
+  1. FC Köln Hertha BSC 
+  SC Paderborn 07 Borussia Dortmund 
 
-Spieltag 13
+13. Spieltag
 
-29.11.  (Sa) FC Schalke 04 1. FSV Mainz 05 
-29.11.  (Sa) Bayer Leverkusen 1. FC Köln 
-29.11.  (Sa) VfL Wolfsburg Bor. Mönchengladbach 
-29.11.  (Sa) FC Augsburg Hamburger SV 
-29.11.  (Sa) 1899 Hoffenheim Hannover 96 
-29.11.  (Sa) Hertha BSC Bayern München 
-29.11.  (Sa) Werder Bremen SC Paderborn 07 
-29.11.  (Sa) Eintracht Frankfurt Borussia Dortmund 
-29.11.  (Sa) SC Freiburg VfB Stuttgart 
+[Sa 29.11.]
+  FC Schalke 04 1. FSV Mainz 05 
+  Bayer Leverkusen 1. FC Köln 
+  VfL Wolfsburg Bor. Mönchengladbach 
+  FC Augsburg Hamburger SV 
+  1899 Hoffenheim Hannover 96 
+  Hertha BSC Bayern München 
+  Werder Bremen SC Paderborn 07 
+  Eintracht Frankfurt Borussia Dortmund 
+  SC Freiburg VfB Stuttgart 
 
-Spieltag 14
+14. Spieltag
 
-06.12.  (Sa) Bayern München Bayer Leverkusen 
-06.12.  (Sa) Borussia Dortmund 1899 Hoffenheim 
-06.12.  (Sa) Bor. Mönchengladbach Hertha BSC 
-06.12.  (Sa) Hannover 96 VfL Wolfsburg 
-06.12.  (Sa) Eintracht Frankfurt Werder Bremen 
-06.12.  (Sa) VfB Stuttgart FC Schalke 04 
-06.12.  (Sa) Hamburger SV 1. FSV Mainz 05 
-06.12.  (Sa) 1. FC Köln FC Augsburg 
-06.12.  (Sa) SC Paderborn 07 SC Freiburg 
+[Sa 6.12.]
+  Bayern München Bayer Leverkusen 
+  Borussia Dortmund 1899 Hoffenheim 
+  Bor. Mönchengladbach Hertha BSC 
+  Hannover 96 VfL Wolfsburg 
+  Eintracht Frankfurt Werder Bremen 
+  VfB Stuttgart FC Schalke 04 
+  Hamburger SV 1. FSV Mainz 05 
+  1. FC Köln FC Augsburg 
+  SC Paderborn 07 SC Freiburg 
 
-Spieltag 15
+15. Spieltag
 
-13.12.  (Sa) FC Schalke 04 1. FC Köln 
-13.12.  (Sa) Bayer Leverkusen Bor. Mönchengladbach 
-13.12.  (Sa) VfL Wolfsburg SC Paderborn 07 
-13.12.  (Sa) 1. FSV Mainz 05 VfB Stuttgart 
-13.12.  (Sa) FC Augsburg Bayern München 
-13.12.  (Sa) 1899 Hoffenheim Eintracht Frankfurt 
-13.12.  (Sa) Hertha BSC Borussia Dortmund 
-13.12.  (Sa) Werder Bremen Hannover 96 
-13.12.  (Sa) SC Freiburg Hamburger SV 
+[Sa 13.12.]
+  FC Schalke 04 1. FC Köln 
+  Bayer Leverkusen Bor. Mönchengladbach 
+  VfL Wolfsburg SC Paderborn 07 
+  1. FSV Mainz 05 VfB Stuttgart 
+  FC Augsburg Bayern München 
+  1899 Hoffenheim Eintracht Frankfurt 
+  Hertha BSC Borussia Dortmund 
+  Werder Bremen Hannover 96 
+  SC Freiburg Hamburger SV 
 
-Spieltag 16
+16. Spieltag
 
-16.12.  (Di) Bayern München SC Freiburg 
-16.12.  (Di) Borussia Dortmund VfL Wolfsburg 
-16.12.  (Di) Bor. Mönchengladbach Werder Bremen 
-16.12.  (Di) 1899 Hoffenheim Bayer Leverkusen 
-16.12.  (Di) Hannover 96 FC Augsburg 
-16.12.  (Di) Eintracht Frankfurt Hertha BSC 
-16.12.  (Di) Hamburger SV VfB Stuttgart 
-16.12.  (Di) 1. FC Köln 1. FSV Mainz 05 
-16.12.  (Di) SC Paderborn 07 FC Schalke 04 
+[Di 16.12.]
+  Bayern München SC Freiburg 
+  Borussia Dortmund VfL Wolfsburg 
+  Bor. Mönchengladbach Werder Bremen 
+  1899 Hoffenheim Bayer Leverkusen 
+  Hannover 96 FC Augsburg 
+  Eintracht Frankfurt Hertha BSC 
+  Hamburger SV VfB Stuttgart 
+  1. FC Köln 1. FSV Mainz 05 
+  SC Paderborn 07 FC Schalke 04 
 
-Spieltag 17
+17. Spieltag
 
-20.12.  (Sa) FC Schalke 04 Hamburger SV 
-20.12.  (Sa) Bayer Leverkusen Eintracht Frankfurt 
-20.12.  (Sa) VfL Wolfsburg 1. FC Köln 
-20.12.  (Sa) 1. FSV Mainz 05 Bayern München 
-20.12.  (Sa) FC Augsburg Bor. Mönchengladbach 
-20.12.  (Sa) Hertha BSC 1899 Hoffenheim 
-20.12.  (Sa) Werder Bremen Borussia Dortmund 
-20.12.  (Sa) SC Freiburg Hannover 96 
-20.12.  (Sa) VfB Stuttgart SC Paderborn 07 
+[Sa 20.12.]
+  FC Schalke 04 Hamburger SV 
+  Bayer Leverkusen Eintracht Frankfurt 
+  VfL Wolfsburg 1. FC Köln 
+  1. FSV Mainz 05 Bayern München 
+  FC Augsburg Bor. Mönchengladbach 
+  Hertha BSC 1899 Hoffenheim 
+  Werder Bremen Borussia Dortmund 
+  SC Freiburg Hannover 96 
+  VfB Stuttgart SC Paderborn 07 
 

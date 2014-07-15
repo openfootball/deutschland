@@ -1,33 +1,40 @@
-#####################
+########################
 # DFB Pokal 2012/13
 
 
-(1) Achtelfinale  // 18+19.12.2012 (Di+Mi)
+(1) Achtelfinale
 
-18.12.2012 19:00 (Di)  Karlsruher SC   SC Freiburg   0:1
-18.12.2012 19:00 (Di)  FC Schalke 04   1. FSV Mainz 05   1:2
-18.12.2012 20:30 (Di)  Kickers Offenbach   Fortuna Düsseldorf   2:0
-18.12.2012 20:30 (Di)  FC Augsburg   Bayern München   0:2
-19.12.2012 19:00 (Mi)  VfL Wolfsburg   Bayer Leverkusen   2:1
-19.12.2012 19:00 (Mi)  VfL Bochum   TSV 1860 München   3:0
-19.12.2012 20:30 (Mi)  Borussia Dortmund   Hannover 96   5:1
-19.12.2012 20:30 (Mi)  VfB Stuttgart   1. FC Köln   2:1
-
-
-(2) Viertelfinale  // 26+27.02.2013 (Di+Mi)
-
-26.02.2013 19:00 (Di)  1. FSV Mainz 05   SC Freiburg     2:2 2:3nV
-26.02.2013 20:30 (Di)  Kickers Offenbach   VfL Wolfsburg   1:2
-27.02.2013 19:00 (Mi)  VfB Stuttgart   VfL Bochum   2:0
-27.02.2013 20:30 (Mi)  Bayern München   Borussia Dortmund   1:0
+[Di 18.12.]
+  19.00   Karlsruher SC   SC Freiburg   0:1
+  19.00   FC Schalke 04   1. FSV Mainz 05   1:2
+  20.30   Kickers Offenbach   Fortuna Düsseldorf   2:0
+  20.30   FC Augsburg   Bayern München   0:2
+[Mi 19.12.]
+  19.00   VfL Wolfsburg   Bayer Leverkusen   2:1
+  19.00   VfL Bochum   TSV 1860 München   3:0
+  20.30   Borussia Dortmund   Hannover 96   5:1
+  20.30   VfB Stuttgart   1. FC Köln   2:1
 
 
-(3) Halbfinale // 16+17.04.2013 (Di+Mi)
+(2) Viertelfinale
 
-16.04.2013 20:30 (Di)  Bayern München   VfL Wolfsburg  6:1
-17.04.2013 20:30 (Mi)  VfB Stuttgart   SC Freiburg     2:1
+[Di 26.2.]
+  19.00   1. FSV Mainz 05   SC Freiburg     2:2 2:3nV
+  20.30   Kickers Offenbach   VfL Wolfsburg   1:2
+[Mi 27.2.]
+  19.00   VfB Stuttgart   VfL Bochum   2:0
+  20.30   Bayern München   Borussia Dortmund   1:0
 
 
-(4) Finale // 01.06.2013 (Sa)
+(3) Halbfinale
 
-01.06.2013 20.00 (Sa)  Bayern München   VfB Stuttgart  3:2
+[Di 16.4.]
+  20.30   Bayern München   VfL Wolfsburg  6:1
+[Mi 17.4.]
+  20.30   VfB Stuttgart   SC Freiburg     2:1
+
+
+(4) Finale
+
+[Sa 1.6.]
+  20.00   Bayern München   VfB Stuttgart  3:2

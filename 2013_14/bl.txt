@@ -4,61 +4,65 @@
 
 1. Spieltag // Fr.+Sa.+So. 9.+10.+11. Aug
 
-(Fr) 09.08. 20.30  Bayern München   3:1  Bor. Mönchengladbach
-
-(Sa) 10.08.  Bayer Leverkusen       3:1  SC Freiburg
-(Sa) 10.08.  Hannover 96            2:0  VfL Wolfsburg
-(Sa) 10.08.  1899 Hoffenheim        2:2  1. FC Nürnberg
-(Sa) 10.08.  FC Augsburg            0:4  Borussia Dortmund
-(Sa) 10.08.  Eintracht Braunschweig 0:1  Werder Bremen
-(Sa) 10.08.  Hertha BSC             6:1  Eintracht Frankfurt
-
-(So) 11.08.  1. FSV Mainz 05        3:2  VfB Stuttgart
-(So) 11.08.  FC Schalke 04          3:3  Hamburger SV
+[Fr 9.8.]
+  20.30  Bayern München   3:1  Bor. Mönchengladbach
+[Sa 10.8.]
+  Bayer Leverkusen       3:1  SC Freiburg
+  Hannover 96            2:0  VfL Wolfsburg
+  1899 Hoffenheim        2:2  1. FC Nürnberg
+  FC Augsburg            0:4  Borussia Dortmund
+  Eintracht Braunschweig 0:1  Werder Bremen
+  Hertha BSC             6:1  Eintracht Frankfurt
+[So 11.8.]
+  1. FSV Mainz 05        3:2  VfB Stuttgart
+  FC Schalke 04          3:3  Hamburger SV
 
 
 2. Spieltag // Sa.+So. 17.+18. Aug
 
-(Sa) 17.08.  Bor. Mönchengladbach   3:0  Hannover 96
-(Sa) 17.08.  VfB Stuttgart          0:1  Bayer Leverkusen
-(Sa) 17.08.  VfL Wolfsburg          4:0  FC Schalke 04
-(Sa) 17.08.  Werder Bremen          1:0  FC Augsburg
-(Sa) 17.08.  SC Freiburg            1:2  1. FSV Mainz 05
-(Sa) 17.08.  Hamburger SV           1:5  1899 Hoffenheim
-(Sa) 17.08.  Eintracht Frankfurt    0:1  Bayern München
-
-(So) 18.08.  1. FC Nürnberg         2:2  Hertha BSC
-(So) 18.08.  Borussia Dortmund      2:1  Eintracht Braunschweig
+[Sa 17.8.]
+  Bor. Mönchengladbach   3:0  Hannover 96
+  VfB Stuttgart          0:1  Bayer Leverkusen
+  VfL Wolfsburg          4:0  FC Schalke 04
+  Werder Bremen          1:0  FC Augsburg
+  SC Freiburg            1:2  1. FSV Mainz 05
+  Hamburger SV           1:5  1899 Hoffenheim
+  Eintracht Frankfurt    0:1  Bayern München
+[So 18.8.]
+  1. FC Nürnberg         2:2  Hertha BSC
+  Borussia Dortmund      2:1  Eintracht Braunschweig
 
 
 3. Spieltag //  Sa.+So. 24.+25. Aug
 
-23.08. (Fr)  Borussia Dortmund      1:0  Werder Bremen
-
-24.08. (Sa)  Bayern München         2:0  1. FC Nürnberg
-24.08. (Sa)  Bayer Leverkusen       4:2  Bor. Mönchengladbach
-24.08. (Sa)  Hannover 96            2:1  FC Schalke 04
-24.08. (Sa)  1899 Hoffenheim        3:3  SC Freiburg
-24.08. (Sa)  1. FSV Mainz 05        2:0  VfL Wolfsburg
-24.08. (Sa)  Hertha BSC             1:0  Hamburger SV
-
-25.08. (So)  FC Augsburg            2:1  VfB Stuttgart
-25.08. (So)  Eintracht Braunschweig 0:2  Eintracht Frankfurt
+[Fr 23.8.]
+  Borussia Dortmund      1:0  Werder Bremen
+[Sa 24.8.]
+  Bayern München         2:0  1. FC Nürnberg
+  Bayer Leverkusen       4:2  Bor. Mönchengladbach
+  Hannover 96            2:1  FC Schalke 04
+  1899 Hoffenheim        3:3  SC Freiburg
+  1. FSV Mainz 05        2:0  VfL Wolfsburg
+  Hertha BSC             1:0  Hamburger SV
+[So 25.8.]
+  FC Augsburg            2:1  VfB Stuttgart
+  Eintracht Braunschweig 0:2  Eintracht Frankfurt
 
 
 4. Spieltag
 
-27.08. (Di)  SC Freiburg            1:1  Bayern München
-
-31.08. (Sa)  FC Schalke 04          2:0  Bayer Leverkusen
-31.08. (Sa)  Bor. Mönchengladbach   4:1  Werder Bremen
-31.08. (Sa)  Hannover 96            4:1  1. FSV Mainz 05
-31.08. (Sa)  VfL Wolfsburg          2:0  Hertha BSC
-31.08. (Sa)  1. FC Nürnberg         0:1  FC Augsburg
-31.08. (Sa)  Hamburger SV           4:0  Eintracht Braunschweig
-
-01.09. (So)  VfB Stuttgart          6:2  1899 Hoffenheim  
-01.09. (So)  Eintracht Frankfurt    1:2  Borussia Dortmund  
+[Di 27.8.]
+  SC Freiburg            1:1  Bayern München
+[Sa 31.8.]
+  FC Schalke 04          2:0  Bayer Leverkusen
+  Bor. Mönchengladbach   4:1  Werder Bremen
+  Hannover 96            4:1  1. FSV Mainz 05
+  VfL Wolfsburg          2:0  Hertha BSC
+  1. FC Nürnberg         0:1  FC Augsburg
+  Hamburger SV           4:0  Eintracht Braunschweig
+[So 1.9.]
+  VfB Stuttgart          6:2  1899 Hoffenheim  
+  Eintracht Frankfurt    1:2  Borussia Dortmund  
 
 
 5. Spieltag

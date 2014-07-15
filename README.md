@@ -1,4 +1,4 @@
-# Deutschland (Germany)
+# Deutschland (Germany) - Deutsche Bundesliga
 
 ## What's `football.db`?
 

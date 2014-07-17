@@ -6,110 +6,108 @@
 ## nb: three letter codes (tags) taken from official bundesliga.de site
 
 [bayern]
-  FC Bayern München|Bayern München,  1900,  FCB
-  www.fcbayern.de
+  FC Bayern München|Bayern München, 1900, FCB
   Säbener Straße 51-57 // 81547 München
-  city:muenchen
+  www.fcbayern.de
+  de.wikipedia: FC_Bayern_München
 
 [dortmund]
-  Borussia Dortmund|Bor. Dortmund,   1909,  BVB
-  www.bvb.de
+  Borussia Dortmund|Bor. Dortmund,  1909, BVB
   Rheinlanddamm 207-209 // 44137 Dortmund
-  city:dortmund
+  www.bvb.de
+  de.wikipedia: Borussia_Dortmund
 
 [leverkusen]
   Bayer 04 Leverkusen|Bayer Leverkusen|Bay. Leverkusen, 1904, B04
-  www.bayer04.de
   Bismarckstr. 122 - 124 // 51373 Leverkusen
-  city:leverkusen
+  www.bayer04.de
+  de.wikipedia: Bayer_04_Leverkusen
 
 [schalke]
-  Schalke 04|FC Schalke 04,       1904,     S04
+  Schalke 04|FC Schalke 04, 1904, S04
   www.schalke04.de
   Ernst-Kuzorra-Weg 1 // 45891 Gelsenkirchen
-  city:gelsenkirchen
+  de.wikipedia: FC_Schalke_04
 
 [freiburg]
-  SC Freiburg, 1904,  SCF
-  www.scfreiburg.com
+  SC Freiburg, 1904, SCF
   Schwarzwaldstr. 193 // 79117 Freiburg
-  city:freiburg
+  www.scfreiburg.com
+  de.wikipedia: SC_Freiburg
 
 [frankfurt]
   Eintracht Frankfurt|E. Frankfurt,  1899,  FFM
-  www.eintracht.de
   Mörfelder Landstraße 362 // 60528 Frankfurt am Main
-  city:frankfurt
+  www.eintracht.de
+  de.wikipedia: Eintracht_Frankfurt
 
 [hsv]
-  Hamburger SV,  1887,   HSV
-  www.hsv.de
+  Hamburger SV,  1887,  HSV
   Sylvesterallee 7 // 22525 Hamburg
-  city:hamburg
+  www.hsv.de
+  de.wikipedia: Hamburger_SV
 
 [mgladbach]
   Borussia M'gladbach|Bor. M'gladbach|Bor. Mönchengladbach|Borussia Mönchengladbach, 1900, BMG
-  www.borussia.de
   Hennes-Weisweiler-Allee 1 // 41179 Mönchengladbach
-  city:mgladbach
+  www.borussia.de
+  de.wikipedia: Borussia_Mönchengladbach
 
 [hannover]
   Hannover 96,   1896,  H96
-  www.hannover96.de
   Robert-Enke-Straße 1 // 30169 Hannover
-  city:hannover
-
-[nuernberg]
-  1. FC Nürnberg,   1900,   FCN
-  www.fcn.de
-  Valznerweiherstraße 200 // 90480 Nürnberg
-  city:nuernberg
+  www.hannover96.de
+  de.wikipedia: Hannover_96
 
 [wolfsburg]
   VfL Wolfsburg,   1945,  WOB
-  www.vfl-wolfsburg.de
   In den Allerwiesen 1 // 38446 Wolfsburg
-  city:wolfsburg
+  www.vfl-wolfsburg.de
+  de.wikipedia: VfL_Wolfsburg
 
 [mainz]
   1. FSV Mainz 05|FSV Mainz 05,  1905,   M05
-  www.mainz05.de
   Isaac-Fulda-Allee 5 // 55124 Mainz
-  city:mainz
+  www.mainz05.de
+  de.wikipedia: 1._FSV_Mainz_05
 
 [bremen]
   Werder Bremen,  1899,  BRE
-  www.werder.de
   Franz-Böhmert-Straße 1c // 28205 Bremen
-  city:bremen
+  www.werder.de
+  de.wikipedia: Werder_Bremen
 
 [hoffenheim]
   1899 Hoffenheim|TSG 1899 Hoffenheim,  1899, HOF
+  Horrenberger Straße 58 // 74939 Zuzenhausen    ## city:hoffenheim ??
   www.achtzehn99.de
-  Horrenberger Straße 58 // 74939 Zuzenhausen
-  city:hoffenheim
+  de.wikipedia: TSG_1899_Hoffenheim
 
 [stuttgart]
   Stuttgart|VfB Stuttgart, 1893,   VFB
-  www.vfb.de
   Mercedesstraße 109 // 70372 Stuttgart
-  city:stuttgart
+  www.vfb.de
+  de.wikipedia: VfB_Stuttgart
 
 [augsburg]
   FC Augsburg,     1907,  FCA
-  www.fcaugsburg.de
   Donauwörther Str. 170 // 86154 Augsburg
-  city:augsburg
-
-[braunschweig]
-  Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig, 1895, EBS
-  www.eintracht.com
-  Hamburger Straße 210 // 38112 Braunschweig
-  city:braunschweig
+  www.fcaugsburg.de
+  de.wikipedia: FC_Augsburg
 
 [herthabsc]   ### check: use only hertha as key or bsc - why? why not?
   Hertha BSC|Hertha Berliner Sport-Club, 1892, BSC
-  www.herthabsc.de
   Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
-  city:berlin
+  www.herthabsc.de
+  de.wikipedia: Hertha_BSC
 
+
+[braunschweig]
+  Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig, 1895, EBS
+  Hamburger Straße 210 // 38112 Braunschweig
+  www.eintracht.com
+
+[nuernberg]
+  1. FC Nürnberg,   1900,   FCN
+  Valznerweiherstraße 200 // 90480 Nürnberg
+  www.fcn.de

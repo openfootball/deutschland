@@ -1,0 +1,31 @@
+###############################
+# Bayern München 2014/15
+
+
+(1)   Manuel Neuer     GK  2011-
+(22)  Tom Starke       GK  2012-
+
+(4)   Dante   (BRA)         DF 2012-
+(13)  Rafinha (BRA)         DF 2011-
+(17)  Jérôme Boateng        DF 2011-
+(18)  Juan Bernat (ESP)     DF 2014-
+(21) (c) Philipp Lahm       DF 1995-
+(26)  Diego Contento (ITA)  DF 1995-
+(27)  David Alaba (AUT)     DF 2008-
+(28)  Holger Badstuber      DF 2002-
+
+(6)   Thiago Alcántara (ESP/BRA)  MF  2013-
+(7)   Franck Ribéry    (FRA)      MF  2007-
+(8)   Javi Martínez    (ESP)      MF  2012-
+(10)  Arjen Robben     (NED)      MF  2009-
+(11)  Xherdan Shaqiri  (SUI)      MF  2012-
+(19)  Mario Götze                 MF  2013-
+(20)  Sebastian Rode              MF  2014-
+(23)  Mitchell Weiser             MF  2012-
+(31)  Bastian Schweinsteiger      MF  1998-
+(34)  Pierre Emile Højbjerg (DEN/FRA)  MF 2012-
+
+(9)  Robert Lewandowski (POL)    FW 2014-
+(14) Claudio Pizarro (PER)       FW 2012-
+(25) Thomas Müller               FW 2000-
+

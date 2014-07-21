@@ -11,47 +11,123 @@
   Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig, 1895, EBS
   Hamburger Straße 210 // 38112 Braunschweig
   www.eintracht.com
+  de.wikipedia: Eintracht_Braunschweig
 
 [nuernberg]
   1. FC Nürnberg, 1900, FCN
   Valznerweiherstraße 200 // 90480 Nürnberg
   www.fcn.de
-
+  de.wikipedia: 1._FC_Nürnberg
 
 [duesseldorf]
   Fortuna Düsseldorf|F. Düsseldorf,  1895, F95
-  Arena Straße 1// 40474 Düsseldorf
+  Arena Straße 1 // 40474 Düsseldorf
   www.f95.de
+  de.wikipedia: Fortuna_Düsseldorf
 
 [fuerth]
   Greuther Fürth|SpVgg Greuther Fürth, 1903, SGF
   Laubenweg 60 // 90765 Fürth
   www.greuther-fuerth.de
+  de.wikipedia: SpVgg_Greuther_Fürth
 
 [klautern]
   1. FC Kaiserslautern|1. FC K'lautern|K'lautern, 1900, FCK
   Fritz-Walter-Str. 1 // 67663 Kaiserslautern
   www.fck.de
+  de.wikipedia: 1._FC_Kaiserslautern
+
+[fsvfrankfurt]
+  FSV Frankfurt|FSV Frankfurt 1899, 1899, FSV
+  Richard-Herrmann-Platz 1 // 60386 Frankfurt/Main
+  www.fsv-frankfurt.de
+  de.wikipedia: FSV_Frankfurt
+
+[tsvmuenchen]   ### check: allow use of number in key eg muenchen1860?
+  1860 München|TSV München 1860,  1860,  M60
+  www.tsv1860.de
+  Grünwalder Straße 114 // 81547 München
+  de.wikipedia: TSV_1860_München
+
+[unionberlin]
+  Union Berlin|1. FC Union Berlin, 1966, FCU
+  An der Wuhlheide 263 // 12555 Berlin
+  www.fc-union-berlin.de
+  de.wikipedia: 1._FC_Union_Berlin
+
+[aalen]
+  VfR Aalen|Aalen, 1921, AAL
+  Stadionweg 5/1 // 73430 Aalen
+  www.vfr-aalen.de
+  de.wikipedia: VfR_Aalen
+
+[aue]
+  Erzgebirge Aue|Aue|FC Erzgebirge Aue, 1949, AUE
+  Lößnitzer Straße 95 // 08280 Aue
+  www.fc-erzgebirge.de
+  de.wikipedia: FC_Erzgebirge_Aue
+
+[bochum]
+  VfL Bochum|Bochum|VfL Bochum 1848, 1938, BOC
+  Castroper Straße 145 // 44791 Bochum
+  www.vfl-bochum.de
+  de.wikipedia: VfL_Bochum
+
+[stpauli]
+  FC St. Pauli|St. Pauli, 1910,  STP
+  Heiligengeistfeld 1 // 20359 Hamburg
+  www.fcstpauli.com
+  de.wikipedia: FC_St._Pauli
+
+[ingolstadt]
+  FC Ingolstadt 04|Ingolstadt, 2004,  FCI 
+  Am Sportpark 1 // 85053 Ingolstadt
+  www.fcingolstadt.de
+  de.wikipedia: FC_Ingolstadt_04
+
+[sandhausen]
+  SV Sandhausen|Sandhausen|SV Sandhausen 1916, 1916,  SAN
+  Jahnstraße 1 // 69207 Sandhausen
+  www.svs1916.de
+  de.wikipedia: SV_Sandhausen
+
+[karlsruhe]
+  Karlsruhe|Karlsruher SC,  1894, KSC
+  Adenauerring 17 // 76131 Karlsruhe
+  www.ksc.de
+  de.wikipedia: Karlsruher_SC
 
 
-fsvfrankfurt, FSV Frankfurt|FSV Frankfurt 1899,   FSV, 1899, www.fsv-frankfurt.de,  Richard-Herrmann-Platz 1 // 60386 Frankfurt/Main,  city:frankfurt
-tsvmuenchen,  1860 München|TSV München 1860,      M60, 1860, www.tsv1860.de,    Grünwalder Straße 114 // 81547 München, city:muenchen    ### check: allow use of number in key eg muenchen1860?
-unionberlin,  Union Berlin|1. FC Union Berlin,    FCU, 1966, www.fc-union-berlin.de,  An der Wuhlheide 263 // 12555 Berlin,  city:berlin
-aalen,        VfR Aalen|Aalen,                    AAL, 1921, www.vfr-aalen.de,   Stadionweg 5/1 // 73430 Aalen,  city:aalen
-stpauli,      FC St. Pauli|St. Pauli,      STP,  1910, www.fcstpauli.com,  Heiligengeistfeld 1 // 20359 Hamburg,  city:hamburg
-ingolstadt,   FC Ingolstadt 04|Ingolstadt,     FCI, 2004, www.fcingolstadt.de,  Am Sportpark 1 // 85053 Ingolstadt,  city:ingolstadt
-bochum,       VfL Bochum|Bochum|VfL Bochum 1848,    BOC, 1938, www.vfl-bochum.de,  Castroper Straße 145 // 44791 Bochum,  city:bochum
-aue,          Erzgebirge Aue|Aue|FC Erzgebirge Aue,       AUE,  1949, www.fc-erzgebirge.de, Lößnitzer Straße 95 // 08280 Aue,  city:aue
-sandhausen,   SV Sandhausen|Sandhausen|SV Sandhausen 1916,     SAN, 1916, www.svs1916.de,  Jahnstraße 1 // 69207 Sandhausen, city:sandhausen
-karlsruhe, Karlsruhe|Karlsruher SC,   KSC,  1894, www.ksc.de,  Adenauerring 17 // 76131 Karlsruhe
+[heidenheim]
+  Heidenheim|1. FC Heidenheim, 2007, HDH
+  // Heidenheim
+  www.fc-heidenheim.de
+  de.wikipedia: 1._FC_Heidenheim
 
+[leipzig]
+  RB Leipzig, 2009, RBL
+  // Leipzig
+  www.dierotenbullen.com
+  de.wikipedia: RB_Leipzig
 
-heidenheim, Heidenheim|1. FC Heidenheim, HDH
-leipzig,    RB Leipzig, RBL
-darmstadt, Darmstadt|SV Darmstadt 98, D98
+[darmstadt]
+  Darmstadt|SV Darmstadt 98, 1898, D98
+  // Darmstadt
+  www.sv98.de
+  de.wikipedia: SV_Darmstadt_98
 
 
 #######
-# changes in 2014/15 (for changes to bundesliga, see teams.txt):
+# changes (for changes to bundesliga, see teams.txt)
+#  in 2014/15:
 #   ++ 1. FC Heidenheim, RB Leipzig, SV Darmstadt 98
 #   -- Dynamo Dresden, Energie Cottbus, Arminia Bielefeld
+#
+#  in 2013/14:
+#   ++  Karlsruher SC, DSC Arminia Bielefeld
+#   --  ??
+#
+#  in 2012/13:
+#   ++ SV Sandhausen, VfR Aalen, SSV Jahn Regensburg
+#   -- ??
+

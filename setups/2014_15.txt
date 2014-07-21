@@ -8,9 +8,22 @@ de-deutschland!/leagues
 
 # - Teams
 
-de-deutschland!/teams
-de-deutschland!/teams_2
-de-deutschland!/teams_3
+de-deutschland!/teams_bb_brandenburg
+de-deutschland!/teams_be_berlin
+de-deutschland!/teams_bw_baden_wuerttemberg
+de-deutschland!/teams_by_bayern
+de-deutschland!/teams_hb_bremen
+de-deutschland!/teams_he_hessen
+de-deutschland!/teams_hh_hamburg
+de-deutschland!/teams_mv_mecklenburg_vorpommern
+de-deutschland!/teams_ni_niedersachsen
+de-deutschland!/teams_nw_nordrhein_westfalen
+de-deutschland!/teams_rp_rheinland_pfalz
+de-deutschland!/teams_sh_schleswig_holstein
+de-deutschland!/teams_sl_saarland
+de-deutschland!/teams_sn_sachsen
+de-deutschland!/teams_st_sachsen_anhalt
+de-deutschland!/teams_th_thueringen
 
 # - Fixtures
 

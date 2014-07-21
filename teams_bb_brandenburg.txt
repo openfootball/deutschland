@@ -1,3 +1,8 @@
+#######################
+# Brandenburg (bb)
+
+
+cottbus,      Energie Cottbus|Cottbus|FC Energie Cottbus, FCE,  1966, www.fcenergie.de,  Am Eliaspark 1 // 03042 Cottbus,  city:cottbus
 
 babelsberg, Babelsberg|SV Babelsberg 03
 

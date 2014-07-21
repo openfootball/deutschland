@@ -1,0 +1,7 @@
+#######################
+#   Sachsen (sn)
+
+
+dresden,    Dynamo Dresden|Dresden|SG Dynamo Dresden,        SGD, 1953, www.dynamo-dresden.de,  Lennéstraße 12 // 01069 Dresden,  city:dresden
+chemnitz,   Chemnitz|Chemnitzer FC
+

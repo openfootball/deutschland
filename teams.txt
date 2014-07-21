@@ -17,6 +17,10 @@
   www.bvb.de
   de.wikipedia: Borussia_Dortmund
 
+[dortmundii]
+  Dortmund II|Bor. Dortmund II
+
+
 [leverkusen]
   Bayer 04 Leverkusen|Bayer Leverkusen|Bay. Leverkusen, 1904, B04
   Bismarckstr. 122 - 124 // 51373 Leverkusen
@@ -25,8 +29,8 @@
 
 [schalke]
   Schalke 04|FC Schalke 04, 1904, S04
-  www.schalke04.de
   Ernst-Kuzorra-Weg 1 // 45891 Gelsenkirchen
+  www.schalke04.de
   de.wikipedia: FC_Schalke_04
 
 [freiburg]
@@ -41,7 +45,7 @@
   www.eintracht.de
   de.wikipedia: Eintracht_Frankfurt
 
-[hsv]
+[hsv]    ## change key to hamburg ?? -- avoid three letter acronyms - why? why not?
   Hamburger SV,  1887,  HSV
   Sylvesterallee 7 // 22525 Hamburg
   www.hsv.de
@@ -88,6 +92,10 @@
   Mercedesstraße 109 // 70372 Stuttgart
   www.vfb.de
   de.wikipedia: VfB_Stuttgart
+
+[stuttgartii]
+  Stuttgart II|VfB Stuttgart II
+
 
 [augsburg]
   FC Augsburg,     1907,  FCA

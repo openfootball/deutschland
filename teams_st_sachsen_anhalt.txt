@@ -1,0 +1,5 @@
+############################
+#   Sachsen-Anhalt (st)
+
+halle, Halle|Hallescher FC
+

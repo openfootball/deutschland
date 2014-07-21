@@ -1,0 +1,8 @@
+########################
+#   Bayern (by)
+
+
+regensburg,  Jahn Regensburg|Regensburg|SSV Jahn Regensburg,     REG, city:regensburg 
+burghausen,  Burghausen|Wacker Burghausen
+uhaching,    U'haching|SpVgg Unterhaching
+

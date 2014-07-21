@@ -1,3 +1,11 @@
+##################################
+#   Nordrhein-Westfalen (nw)
+
+
+bielefeld, Bielefeld|Arminia Bielefeld|DSC Arminia Bielefeld, DSC,  1905,  www.arminia-bielefeld.de, Melanchthonstraße 31a // 33615 Bielefeld
+duisburg,  MSV Duisburg|Duisburg,       MSV, city:duisburg      
+muenster, Münster|Preußen Münster|SC Preußen 06
 
 
 aachen, Aachen|Alemannia Aachen
+

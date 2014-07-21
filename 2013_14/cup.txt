@@ -11,6 +11,3 @@
 
 (4) Finale         //  (Sa.) 17. Mai 2014 (in Berlin)
 
-
-############
-#  todo: add Endspiel to final key in lang (use Endspiel)

@@ -8,6 +8,8 @@ de-deutschland!/leagues
 
 # - Teams
 
+de-deutschland!/teams
+de-deutschland!/teams_2
 de-deutschland!/teams_bb_brandenburg
 de-deutschland!/teams_be_berlin
 de-deutschland!/teams_bw_baden_wuerttemberg

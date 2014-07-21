@@ -46,9 +46,9 @@ sandhausen,   SV Sandhausen|Sandhausen|SV Sandhausen 1916,     SAN, 1916, www.sv
 karlsruhe, Karlsruhe|Karlsruher SC,   KSC,  1894, www.ksc.de,  Adenauerring 17 // 76131 Karlsruhe
 
 
-heidenheim, Heidenheim|1. FC Heidenheim
-leipzig,    RB Leipzig
-darmstadt, Darmstadt|SV Darmstadt 98
+heidenheim, Heidenheim|1. FC Heidenheim, HDH
+leipzig,    RB Leipzig, RBL
+darmstadt, Darmstadt|SV Darmstadt 98, D98
 
 
 #######

@@ -1,5 +1,5 @@
 ###############################
-# Deutsche Bundesliga 2013/14
+# Deutsche Bundesliga 2014/15
 #
 #  18 teams
 
@@ -101,13 +101,21 @@
   www.herthabsc.de
   de.wikipedia: Hertha_BSC
 
+[koeln]
+  1. FC Köln|Köln, 1948, KOE
+  Franz-Kremer-Allee 1 // 50937 Köln
+  www.fc-koeln.de
+  de.wikipedia: 1._FC_Köln
 
-[braunschweig]
-  Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig, 1895, EBS
-  Hamburger Straße 210 // 38112 Braunschweig
-  www.eintracht.com
+[paderborn]
+  SC Paderborn 07|Paderborn,  1907, SCP
+  Paderborner Str. 89 // 33104 Paderborn
+  www.scpaderborn07.de
+  de.wikipedia: SC_Paderborn_07
 
-[nuernberg]
-  1. FC Nürnberg,   1900,   FCN
-  Valznerweiherstraße 200 // 90480 Nürnberg
-  www.fcn.de
+
+#####
+# note:
+#   changes in 2014/15:
+#     ++  1. FC Köln, SC Paderborn 07
+#     --  1. FC Nürnberg, Eintracht Braunschweig

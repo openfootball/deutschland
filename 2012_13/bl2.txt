@@ -1,5 +1,3 @@
 ##################################
 # Deutsche 2. Bundesliga 2012/13
 
-
-# add fixtures here

@@ -20,208 +20,244 @@
 
 19. Spieltag
 
-25.01. 20:30 (Fr)  Borussia Dortmund   1. FC Nürnberg   3:0
-26.01. 15:30 (Sa)  FC Augsburg   FC Schalke 04   0:0
-26.01. 15:30 (Sa)  Hannover 96   VfL Wolfsburg   2:1
-26.01. 15:30 (Sa)  Eintracht Frankfurt   1899 Hoffenheim   2:1
-26.01. 15:30 (Sa)  SpVgg Greuther Fürth   1. FSV Mainz 05   0:3
-26.01. 15:30 (Sa)  Bor. Mönchengladbach   Fortuna Düsseldorf   2:1
-26.01. 18:30 (Sa)  SC Freiburg   Bayer Leverkusen   0:0
-27.01. 15:30 (So)  Hamburger SV   Werder Bremen   3:2
-27.01. 17:30 (So)  VfB Stuttgart   Bayern München   0:2
+[Fr 25.1.]
+  20.30   Borussia Dortmund   1. FC Nürnberg   3:0
+[Sa 26.1.]
+  15.30   FC Augsburg   FC Schalke 04   0:0
+  15.30   Hannover 96   VfL Wolfsburg   2:1
+  15.30   Eintracht Frankfurt   1899 Hoffenheim   2:1
+  15.30   SpVgg Greuther Fürth   1. FSV Mainz 05   0:3
+  15.30   Bor. Mönchengladbach   Fortuna Düsseldorf   2:1
+  18.30   SC Freiburg   Bayer Leverkusen   0:0
+[So 27.1.]
+  15.30   Hamburger SV   Werder Bremen   3:2
+  17.30   VfB Stuttgart   Bayern München   0:2
 
 
 20. Spieltag
 
-01.02. 20:30 (Fr)  Werder Bremen   Hannover 96   2:0
-02.02. 15:30 (Sa)  1. FSV Mainz 05   Bayern München   0:3
-02.02. 15:30 (Sa)  Fortuna Düsseldorf   VfB Stuttgart   3:1
-02.02. 15:30 (Sa)  1899 Hoffenheim   SC Freiburg   2:1
-02.02. 15:30 (Sa)  VfL Wolfsburg   FC Augsburg   1:1
-02.02. 15:30 (Sa)  FC Schalke 04   SpVgg Greuther Fürth   1:2
-02.02. 18:30 (Sa)  Hamburger SV   Eintracht Frankfurt   0:2
-03.02. 15:30 (So)  1. FC Nürnberg   Bor. Mönchengladbach   2:1
-03.02. 17:30 (So)  Bayer Leverkusen   Borussia Dortmund   2:3
+[Fr 1.2.]
+  20.30   Werder Bremen   Hannover 96   2:0
+[Sa 2.2.]
+  15.30   1. FSV Mainz 05   Bayern München   0:3
+  15.30   Fortuna Düsseldorf   VfB Stuttgart   3:1
+  15.30   1899 Hoffenheim   SC Freiburg   2:1
+  15.30   VfL Wolfsburg   FC Augsburg   1:1
+  15.30   FC Schalke 04   SpVgg Greuther Fürth   1:2
+  18.30   Hamburger SV   Eintracht Frankfurt   0:2
+[So 3.2.]
+  15.30   1. FC Nürnberg   Bor. Mönchengladbach   2:1
+  17.30   Bayer Leverkusen   Borussia Dortmund   2:3
 
 
 21. Spieltag
 
-09.02. 15:30 (Sa)  Bor. Mönchengladbach   Bayer Leverkusen   3:3
-09.02. 15:30 (Sa)  SpVgg Greuther Fürth   VfL Wolfsburg   0:1
-09.02. 15:30 (Sa)  VfB Stuttgart   Werder Bremen   1:4
-09.02. 15:30 (Sa)  Eintracht Frankfurt   1. FC Nürnberg   0:0
-09.02. 15:30 (Sa)  Hannover 96   1899 Hoffenheim   1:0
-09.02. 15:30 (Sa)  Borussia Dortmund   Hamburger SV   1:4
-09.02. 18:30 (Sa)  Bayern München   FC Schalke 04   4:0
-10.02. 15:30 (So)  FC Augsburg   1. FSV Mainz 05   1:1
-10.02. 17:30 (So)  SC Freiburg   Fortuna Düsseldorf   1:0
+[Sa 9.2.]
+  15.30   Bor. Mönchengladbach   Bayer Leverkusen   3:3
+  15.30   SpVgg Greuther Fürth   VfL Wolfsburg   0:1
+  15.30   VfB Stuttgart   Werder Bremen   1:4
+  15.30   Eintracht Frankfurt   1. FC Nürnberg   0:0
+  15.30   Hannover 96   1899 Hoffenheim   1:0
+  15.30   Borussia Dortmund   Hamburger SV   1:4
+  18.30   Bayern München   FC Schalke 04   4:0
+[So 10.2.]
+  15.30   FC Augsburg   1. FSV Mainz 05   1:1
+  17.30   SC Freiburg   Fortuna Düsseldorf   1:0
 
 
 22. Spieltag
 
-15.02. 20:30 (Fr)  VfL Wolfsburg   Bayern München   0:2
-16.02. 15:30 (Sa)  1. FSV Mainz 05   FC Schalke 04   2:2
-16.02. 15:30 (Sa)  Hamburger SV   Bor. Mönchengladbach   1:0
-16.02. 15:30 (Sa)  Werder Bremen   SC Freiburg   2:3
-16.02. 15:30 (Sa)  Bayer Leverkusen   FC Augsburg   2:1
-16.02. 15:30 (Sa)  Fortuna Düsseldorf   SpVgg Greuther Fürth   1:0
-16.02. 18:30 (Sa)  Borussia Dortmund   Eintracht Frankfurt   3:0
-17.02. 15:30 (So)  1. FC Nürnberg   Hannover 96   2:2
-17.02. 17:30 (So)  1899 Hoffenheim   VfB Stuttgart   0:1
+[Fr 15.2.]
+  20.30   VfL Wolfsburg   Bayern München   0:2
+[Sa 16.2.]
+  15.30   1. FSV Mainz 05   FC Schalke 04   2:2
+  15.30   Hamburger SV   Bor. Mönchengladbach   1:0
+  15.30   Werder Bremen   SC Freiburg   2:3
+  15.30   Bayer Leverkusen   FC Augsburg   2:1
+  15.30   Fortuna Düsseldorf   SpVgg Greuther Fürth   1:0
+  18.30   Borussia Dortmund   Eintracht Frankfurt   3:0
+[So 17.2.]
+  15.30   1. FC Nürnberg   Hannover 96   2:2
+  17.30   1899 Hoffenheim   VfB Stuttgart   0:1
 
 
 23. Spieltag
 
-22.02. 20:30 (Fr)  SC Freiburg   Eintracht Frankfurt   0:0
-23.02. 15:30 (Sa)  1. FSV Mainz 05   VfL Wolfsburg   1:1
-23.02. 15:30 (Sa)  Bayern München   Werder Bremen   6:1
-23.02. 15:30 (Sa)  VfB Stuttgart   1. FC Nürnberg   1:1
-23.02. 15:30 (Sa)  FC Augsburg   1899 Hoffenheim   2:1
-23.02. 15:30 (Sa)  Hannover 96   Hamburger SV   5:1
-23.02. 18:30 (Sa)  FC Schalke 04   Fortuna Düsseldorf   2:1
-24.02. 15:30 (So)  Bor. Mönchengladbach   Borussia Dortmund   1:1
-24.02. 17:30 (So)  SpVgg Greuther Fürth   Bayer Leverkusen   0:0
+[Fr 22.2.]
+  20.30   SC Freiburg   Eintracht Frankfurt   0:0
+[Sa 23.2.]
+  15.30   1. FSV Mainz 05   VfL Wolfsburg   1:1
+  15.30   Bayern München   Werder Bremen   6:1
+  15.30   VfB Stuttgart   1. FC Nürnberg   1:1
+  15.30   FC Augsburg   1899 Hoffenheim   2:1
+  15.30   Hannover 96   Hamburger SV   5:1
+  18.30   FC Schalke 04   Fortuna Düsseldorf   2:1
+[So 24.2.]
+  15.30   Bor. Mönchengladbach   Borussia Dortmund   1:1
+  17.30   SpVgg Greuther Fürth   Bayer Leverkusen   0:0
 
 
 24. Spieltag
 
-01.03. 20:30 (Fr)  Eintracht Frankfurt   Bor. Mönchengladbach   0:1
-02.03. 15:30 (Sa)  VfL Wolfsburg   FC Schalke 04   1:4
-02.03. 15:30 (Sa)  Borussia Dortmund   Hannover 96   3:1
-02.03. 15:30 (Sa)  1. FC Nürnberg   SC Freiburg   1:1
-02.03. 15:30 (Sa)  Werder Bremen   FC Augsburg   0:1
-02.03. 15:30 (Sa)  Hamburger SV   SpVgg Greuther Fürth   1:1
-02.03. 18:30 (Sa)  Bayer Leverkusen   VfB Stuttgart   2:1
-03.03. 15:30 (So)  1899 Hoffenheim   Bayern München   0:1
-03.03. 17:30 (So)  Fortuna Düsseldorf   1. FSV Mainz 05   1:1
+[Fr 1.3.]
+  20.30   Eintracht Frankfurt   Bor. Mönchengladbach   0:1
+[Sa 2.3.]
+  15.30   VfL Wolfsburg   FC Schalke 04   1:4
+  15.30   Borussia Dortmund   Hannover 96   3:1
+  15.30   1. FC Nürnberg   SC Freiburg   1:1
+  15.30   Werder Bremen   FC Augsburg   0:1
+  15.30   Hamburger SV   SpVgg Greuther Fürth   1:1
+  18.30   Bayer Leverkusen   VfB Stuttgart   2:1
+[So 3.3.]
+  15.30   1899 Hoffenheim   Bayern München   0:1
+  17.30   Fortuna Düsseldorf   1. FSV Mainz 05   1:1
 
 
 25. Spieltag
 
-08.03. 20:30 (Fr)  FC Augsburg   1. FC Nürnberg   1:2
-09.03. 15:30 (Sa)  FC Schalke 04   Borussia Dortmund    2:1
-09.03. 15:30 (Sa)  1. FSV Mainz 05   Bayer Leverkusen   1:0
-09.03. 15:30 (Sa)  SC Freiburg   VfL Wolfsburg          2:5
-09.03. 15:30 (Sa)  SpVgg Greuther Fürth   1899 Hoffenheim   0:3
-09.03. 15:30 (Sa)  Bayern München   Fortuna Düsseldorf      3:2
-09.03. 18:30 (Sa)  Bor. Mönchengladbach   Werder Bremen     1:1
-10.03. 15:30 (So)  Hannover 96   Eintracht Frankfurt   0:0
-10.03. 17:30 (So)  VfB Stuttgart   Hamburger SV     0:1
+[Fr 8.3.]
+  20.30   FC Augsburg   1. FC Nürnberg   1:2
+[Sa 9.3.]
+  15.30   FC Schalke 04   Borussia Dortmund    2:1
+  15.30   1. FSV Mainz 05   Bayer Leverkusen   1:0
+  15.30   SC Freiburg   VfL Wolfsburg          2:5
+  15.30   SpVgg Greuther Fürth   1899 Hoffenheim   0:3
+  15.30   Bayern München   Fortuna Düsseldorf      3:2
+  18.30   Bor. Mönchengladbach   Werder Bremen     1:1
+[So 10.3.]
+  15.30   Hannover 96   Eintracht Frankfurt   0:0
+  17.30   VfB Stuttgart   Hamburger SV     0:1
 
 
 26. Spieltag
 
-15.03. 20:30 (Fr)  VfL Wolfsburg   Fortuna Düsseldorf  1:1
-16.03. 15:30 (Sa)  1. FC Nürnberg   FC Schalke 04      3:0
-16.03. 15:30 (Sa)  Borussia Dortmund   SC Freiburg     5:1
-16.03. 15:30 (Sa)  1899 Hoffenheim   1. FSV Mainz 05   0:0
-16.03. 15:30 (Sa)  Hamburger SV   FC Augsburg          0:1
-16.03. 15:30 (Sa)  Werder Bremen   SpVgg Greuther Fürth  2:2
-16.03. 18:30 (Sa)  Bayer Leverkusen   Bayern München    1:2
-17.03. 15:30 (So)  Eintracht Frankfurt   VfB Stuttgart  1:2
-17.03. 17:30 (So)  Bor. Mönchengladbach   Hannover 96   1:0
+[Fr 15.3.]
+  20.30   VfL Wolfsburg   Fortuna Düsseldorf  1:1
+[Sa 16.3.]
+  15.30   1. FC Nürnberg   FC Schalke 04      3:0
+  15.30   Borussia Dortmund   SC Freiburg     5:1
+  15.30   1899 Hoffenheim   1. FSV Mainz 05   0:0
+  15.30   Hamburger SV   FC Augsburg          0:1
+  15.30   Werder Bremen   SpVgg Greuther Fürth  2:2
+  18.30   Bayer Leverkusen   Bayern München    1:2
+[So 17.3.]
+  15.30   Eintracht Frankfurt   VfB Stuttgart  1:2
+  17.30   Bor. Mönchengladbach   Hannover 96   1:0
 
 
 27. Spieltag
 
-30.03. 15:30 (Sa)  VfB Stuttgart   Borussia Dortmund     1:2  
-30.03. 15:30 (Sa)  SC Freiburg   Bor. Mönchengladbach    2:0
-30.03. 15:30 (Sa)  Fortuna Düsseldorf   Bayer Leverkusen 1:4
-30.03. 15:30 (Sa)  FC Augsburg   Hannover 96             0:2
-30.03. 15:30 (Sa)  1. FSV Mainz 05   Werder Bremen       1:1
-30.03. 15:30 (Sa)  FC Schalke 04   1899 Hoffenheim       3:0
-30.03. 18:30 (Sa)  Bayern München   Hamburger SV         9:2
-31.03. 15:30 (So)  VfL Wolfsburg   1. FC Nürnberg        2:2
-31.03. 17:30 (So)  SpVgg Greuther Fürth   Eintracht Frankfurt  2:3
+[Sa 30.3.]
+  15.30   VfB Stuttgart   Borussia Dortmund     1:2  
+  15.30   SC Freiburg   Bor. Mönchengladbach    2:0
+  15.30   Fortuna Düsseldorf   Bayer Leverkusen 1:4
+  15.30   FC Augsburg   Hannover 96             0:2
+  15.30   1. FSV Mainz 05   Werder Bremen       1:1
+  15.30   FC Schalke 04   1899 Hoffenheim       3:0
+  18.30   Bayern München   Hamburger SV         9:2
+[So 31.3.]
+  15.30   VfL Wolfsburg   1. FC Nürnberg        2:2
+  17.30   SpVgg Greuther Fürth   Eintracht Frankfurt  2:3
 
 
 28. Spieltag
 
-05.04. 20:30 (Fr)  1899 Hoffenheim   Fortuna Düsseldorf   3:0
-06.04. 15:30 (Sa)  Eintracht Frankfurt   Bayern München   0:1
-06.04. 15:30 (Sa)  Werder Bremen   FC Schalke 04          0:2
-06.04. 15:30 (Sa)  Bayer Leverkusen   VfL Wolfsburg       1:1
-06.04. 15:30 (Sa)  Borussia Dortmund   FC Augsburg        4:2
-06.04. 15:30 (Sa)  Bor. Mönchengladbach   SpVgg Greuther Fürth  1:0
-06.04. 18:30 (Sa)  Hamburger SV   SC Freiburg             0:1
-07.04. 15:30 (So)  1. FC Nürnberg   1. FSV Mainz 05       2:1
-07.04. 17:30 (So)  Hannover 96   VfB Stuttgart            0:0
+[Fr 5.4.]
+  20.30   1899 Hoffenheim   Fortuna Düsseldorf   3:0
+[Sa 6.4.]
+  15.30   Eintracht Frankfurt   Bayern München   0:1
+  15.30   Werder Bremen   FC Schalke 04          0:2
+  15.30   Bayer Leverkusen   VfL Wolfsburg       1:1
+  15.30   Borussia Dortmund   FC Augsburg        4:2
+  15.30   Bor. Mönchengladbach   SpVgg Greuther Fürth  1:0
+  18.30   Hamburger SV   SC Freiburg             0:1
+[So 7.4.]
+  15.30   1. FC Nürnberg   1. FSV Mainz 05       2:1
+  17.30   Hannover 96   VfB Stuttgart            0:0
 
 
 29. Spieltag
 
-12.04. 20:30 (Fr)  SC Freiburg   Hannover 96              3:1
-13.04. 15:30 (Sa)  SpVgg Greuther Fürth   Borussia Dortmund  1:6
-13.04. 15:30 (Sa)  Fortuna Düsseldorf   Werder Bremen     2:2
-13.04. 15:30 (Sa)  Bayern München   1. FC Nürnberg        4:0
-13.04. 15:30 (Sa)  VfL Wolfsburg   1899 Hoffenheim        2:2
-13.04. 15:30 (Sa)  1. FSV Mainz 05   Hamburger SV         1:2
-13.04. 18:30 (Sa)  FC Schalke 04   Bayer Leverkusen       2:2
-14.04. 15:30 (So)  VfB Stuttgart   Bor. Mönchengladbach   2:0
-14.04. 17:30 (So)  FC Augsburg   Eintracht Frankfurt      2:0
+[Fr 12.4.]
+  20.30   SC Freiburg   Hannover 96              3:1
+[Sa 13.4.]
+  15.30   SpVgg Greuther Fürth   Borussia Dortmund  1:6
+  15.30   Fortuna Düsseldorf   Werder Bremen     2:2
+  15.30   Bayern München   1. FC Nürnberg        4:0
+  15.30   VfL Wolfsburg   1899 Hoffenheim        2:2
+  15.30   1. FSV Mainz 05   Hamburger SV         1:2
+  18.30   FC Schalke 04   Bayer Leverkusen       2:2
+[So 14.4.]
+  15.30   VfB Stuttgart   Bor. Mönchengladbach   2:0
+  17.30   FC Augsburg   Eintracht Frankfurt      2:0
 
 
 30. Spieltag
 
-20.04. 00:00 (Sa)  Hannover 96   Bayern München           1:6
-20.04. 00:00 (Sa)  Eintracht Frankfurt   FC Schalke 04    1:0
-20.04. 00:00 (Sa)  Werder Bremen   VfL Wolfsburg          0:3
-20.04. 00:00 (Sa)  Bayer Leverkusen   1899 Hoffenheim     5:0
-20.04. 00:00 (Sa)  VfB Stuttgart   SC Freiburg            2:1
-20.04. 00:00 (Sa)  Borussia Dortmund   1. FSV Mainz 05    2:0
-20.04. 00:00 (Sa)  Bor. Mönchengladbach   FC Augsburg     1:0
-20.04. 00:00 (Sa)  1. FC Nürnberg   SpVgg Greuther Fürth  0:1
-20.04. 00:00 (Sa)  Hamburger SV   Fortuna Düsseldorf      2:1
+[Sa 20.4.]
+  Hannover 96   Bayern München           1:6
+  Eintracht Frankfurt   FC Schalke 04    1:0
+  Werder Bremen   VfL Wolfsburg          0:3
+  Bayer Leverkusen   1899 Hoffenheim     5:0
+  VfB Stuttgart   SC Freiburg            2:1
+  Borussia Dortmund   1. FSV Mainz 05    2:0
+  Bor. Mönchengladbach   FC Augsburg     1:0
+  1. FC Nürnberg   SpVgg Greuther Fürth  0:1
+  Hamburger SV   Fortuna Düsseldorf      2:1
 
 
 31. Spieltag
 
-27.04. 00:00 (Sa)  Fortuna Düsseldorf   Borussia Dortmund  1:2
-27.04. 00:00 (Sa)  VfL Wolfsburg   Bor. Mönchengladbach    3:1
-27.04. 00:00 (Sa)  FC Augsburg   VfB Stuttgart             3:0
-27.04. 00:00 (Sa)  SpVgg Greuther Fürth   Hannover 96      2:3
-27.04. 00:00 (Sa)  Bayer Leverkusen   Werder Bremen        1:0
-27.04. 00:00 (Sa)  1899 Hoffenheim   1. FC Nürnberg        2:1
-27.04. 00:00 (Sa)  Bayern München   SC Freiburg            1:0
-27.04. 00:00 (Sa)  FC Schalke 04   Hamburger SV            4:1
-27.04. 00:00 (Sa)  1. FSV Mainz 05   Eintracht Frankfurt   0:0
+[Sa 27.4.]
+  Fortuna Düsseldorf   Borussia Dortmund  1:2
+  VfL Wolfsburg   Bor. Mönchengladbach    3:1
+  FC Augsburg   VfB Stuttgart             3:0
+  SpVgg Greuther Fürth   Hannover 96      2:3
+  Bayer Leverkusen   Werder Bremen        1:0
+  1899 Hoffenheim   1. FC Nürnberg        2:1
+  Bayern München   SC Freiburg            1:0
+  FC Schalke 04   Hamburger SV            4:1
+  1. FSV Mainz 05   Eintracht Frankfurt   0:0
 
 
 32. Spieltag
 
-04.05. 00:00 (Sa)  Borussia Dortmund   Bayern München       1:1
-04.05. 00:00 (Sa)  Bor. Mönchengladbach   FC Schalke 04     0:1
-04.05. 00:00 (Sa)  1. FC Nürnberg   Bayer Leverkusen        0:2
-04.05. 00:00 (Sa)  Hamburger SV   VfL Wolfsburg             1:1
-04.05. 00:00 (Sa)  Werder Bremen   1899 Hoffenheim          2:2
-04.05. 00:00 (Sa)  Hannover 96   1. FSV Mainz 05            2:2
-04.05. 00:00 (Sa)  SC Freiburg   FC Augsburg                2:0
-04.05. 00:00 (Sa)  VfB Stuttgart   SpVgg Greuther Fürth     0:2
-04.05. 00:00 (Sa)  Eintracht Frankfurt   Fortuna Düsseldorf 3:1
+[Sa 4.5.]
+  Borussia Dortmund   Bayern München       1:1
+  Bor. Mönchengladbach   FC Schalke 04     0:1
+  1. FC Nürnberg   Bayer Leverkusen        0:2
+  Hamburger SV   VfL Wolfsburg             1:1
+  Werder Bremen   1899 Hoffenheim          2:2
+  Hannover 96   1. FSV Mainz 05            2:2
+  SC Freiburg   FC Augsburg                2:0
+  VfB Stuttgart   SpVgg Greuther Fürth     0:2
+  Eintracht Frankfurt   Fortuna Düsseldorf 3:1
 
 
 33. Spieltag
 
-11.05. 15:30 (Sa)  VfL Wolfsburg   Borussia Dortmund        3:3
-11.05. 15:30 (Sa)  1. FSV Mainz 05   Bor. Mönchengladbach   2:4
-11.05. 15:30 (Sa)  FC Schalke 04   VfB Stuttgart            1:2
-11.05. 15:30 (Sa)  Bayer Leverkusen   Hannover 96           3:1
-11.05. 15:30 (Sa)  Fortuna Düsseldorf   1. FC Nürnberg      1:2
-11.05. 15:30 (Sa)  SpVgg Greuther Fürth   SC Freiburg       1:2
-11.05. 15:30 (Sa)  Bayern München   FC Augsburg             3:0
-11.05. 15:30 (Sa)  1899 Hoffenheim   Hamburger SV           1:4
-11.05. 15:30 (Sa)  Werder Bremen   Eintracht Frankfurt      1:1
+[Sa 11.5.]
+  15.30   VfL Wolfsburg   Borussia Dortmund        3:3
+  15.30   1. FSV Mainz 05   Bor. Mönchengladbach   2:4
+  15.30   FC Schalke 04   VfB Stuttgart            1:2
+  15.30   Bayer Leverkusen   Hannover 96           3:1
+  15.30   Fortuna Düsseldorf   1. FC Nürnberg      1:2
+  15.30   SpVgg Greuther Fürth   SC Freiburg       1:2
+  15.30   Bayern München   FC Augsburg             3:0
+  15.30   1899 Hoffenheim   Hamburger SV           1:4
+  15.30   Werder Bremen   Eintracht Frankfurt      1:1
 
 
 34. Spieltag
 
-18.05. 15:30 (Sa)  Bor. Mönchengladbach   Bayern München   3:4
-18.05. 15:30 (Sa)  SC Freiburg   FC Schalke 04             1:2
-18.05. 15:30 (Sa)  Hamburger SV   Bayer Leverkusen         0:1
-18.05. 15:30 (Sa)  Eintracht Frankfurt   VfL Wolfsburg     2:2
-18.05. 15:30 (Sa)  1. FC Nürnberg   Werder Bremen          3:2
-18.05. 15:30 (Sa)  Borussia Dortmund   1899 Hoffenheim     1:2
-18.05. 15:30 (Sa)  VfB Stuttgart   1. FSV Mainz 05         2:2
-18.05. 15:30 (Sa)  FC Augsburg   SpVgg Greuther Fürth      3:1
-18.05. 15:30 (Sa)  Hannover 96   Fortuna Düsseldorf        3:0
+[Sa 18.5.]
+  15.30   Bor. Mönchengladbach   Bayern München   3:4
+  15.30   SC Freiburg   FC Schalke 04             1:2
+  15.30   Hamburger SV   Bayer Leverkusen         0:1
+  15.30   Eintracht Frankfurt   VfL Wolfsburg     2:2
+  15.30   1. FC Nürnberg   Werder Bremen          3:2
+  15.30   Borussia Dortmund   1899 Hoffenheim     1:2
+  15.30   VfB Stuttgart   1. FSV Mainz 05         2:2
+  15.30   FC Augsburg   SpVgg Greuther Fürth      3:1
+  15.30   Hannover 96   Fortuna Düsseldorf        3:0
 

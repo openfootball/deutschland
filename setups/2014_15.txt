@@ -1,0 +1,17 @@
+##################################
+#   Deutsche Bundesliga 2014/15
+
+
+# - Leagues
+
+de-deutschland!/leagues
+
+# - Teams
+
+de-deutschland!/teams
+de-deutschland!/teams_2
+de-deutschland!/teams_3
+
+# - Fixtures
+
+de-deutschland!/2014_15/bl

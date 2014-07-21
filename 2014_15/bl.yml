@@ -1,0 +1,37 @@
+################################
+# Deutsche Bundesliga 2014/15
+
+league: de
+season: 2014/15
+start_at: 2014-08-22
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+fixtures:
+- bl
+- bl_ii
+
+
+####################
+# 18 Teams
+
+teams:
+- bayern
+- frankfurt
+- schalke
+- dortmund
+- hannover
+- leverkusen
+- hsv
+- mainz
+- mgladbach
+- freiburg
+- bremen
+- hoffenheim
+- stuttgart
+- augsburg
+- wolfsburg
+- herthabsc
+- koeln
+- paderborn
+

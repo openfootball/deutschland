@@ -2,36 +2,38 @@
 # Deutsche 2. Bundesliga 2013/14
 
 
-1. Spieltag // 19.07. - 22.07.
+1. Spieltag
 
-(Fr) 19.07. 18:30  SV Sandhausen        0:0  VfR Aalen
-(Fr) 19.07. 18:30  FC Ingolstadt        1:2  Erzgebirge Aue
-(Fr) 19.07. 20:30  FC St. Pauli         1:0  TSV 1860 München
+[Fr 19.7.]
+ 18:30  SV Sandhausen        0:0  VfR Aalen
+ 18:30  FC Ingolstadt        1:2  Erzgebirge Aue
+ 20:30  FC St. Pauli         1:0  TSV 1860 München
+[Sa 20.7.]
+ 13:00  SC Paderborn         0:1  1. FC Kaiserslautern
+ 15:30  Dynamo Dresden       1:1  1. FC Köln
+[So 21.7.]
+ 13:30  SpVgg Greuther Fürth 2:0  Arminia Bielefeld
+ 13:30  FSV Frankfurt        0:1  Karlsruher SC
+ 15:30  1. FC Union Berlin   1:2  VfL Bochum  
+[Mo 22.7.]
+ 20:15  Fortuna Düsseldorf   1:0  Energie Cottbus
 
-(Sa) 20.07. 13:00  SC Paderborn         0:1  1. FC Kaiserslautern
-(Sa) 20.07. 15:30  Dynamo Dresden       1:1  1. FC Köln
 
-(So) 21.07. 13:30  SpVgg Greuther Fürth 2:0  Arminia Bielefeld
-(So) 21.07. 13:30  FSV Frankfurt        0:1  Karlsruher SC
-(So) 21.07. 15:30  1. FC Union Berlin   1:2  VfL Bochum  
+2. Spieltag
 
-(Mo) 22.07. 20:15  Fortuna Düsseldorf   1:0  Energie Cottbus
-
-
-2. Spieltag  // 26.07. - 29.07.
-
-(Fr) 26.07. 18:30  VfR Aalen            0:2  SpVgg Greuther Fürth
-(Fr) 26.07. 18:30  Arminia Bielefeld    1:1  1. FC Union Berlin
-(Fr) 26.07. 20:30  1. FC Kaiserslautern 1:1  FC Ingolstadt
-
-(Sa) 27.07. 13:00  Erzgebirge Aue       1:0  SV Sandhausen
-(Sa) 27.07. 15:30  Karlsruher SC        1:0  FC St. Pauli
-
-(So) 28.07. 13:30  TSV 1860 München     2:1  FSV Frankfurt
-(So) 28.07. 13:30  Energie Cottbus      4:0  SC Paderborn
-(So) 28.07. 15:30  1. FC Köln           1:1  Fortuna Düsseldorf
-
-(Mo) 29.07. 20:15  VfL Bochum           1:1  Dynamo Dresden
+[Fr 26.7.]
+ 18:30  VfR Aalen            0:2  SpVgg Greuther Fürth
+ 18:30  Arminia Bielefeld    1:1  1. FC Union Berlin
+ 20:30  1. FC Kaiserslautern 1:1  FC Ingolstadt
+[Sa 27.7.]
+ 13:00  Erzgebirge Aue       1:0  SV Sandhausen
+ 15:30  Karlsruher SC        1:0  FC St. Pauli
+[So 28.7.]
+ 13:30  TSV 1860 München     2:1  FSV Frankfurt
+ 13:30  Energie Cottbus      4:0  SC Paderborn
+ 15:30  1. FC Köln           1:1  Fortuna Düsseldorf
+[Mo 29.7.]
+ 20:15  VfL Bochum           1:1  Dynamo Dresden
 
 
 3. Spieltag  // 09.08. - 12.08.

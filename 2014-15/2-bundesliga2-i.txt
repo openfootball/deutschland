@@ -5,28 +5,28 @@
 1. Spieltag
 
 [Fr 1.8.]
-  20.30   Fortuna Düsseldorf    2:2  Eintracht Braunschweig
+  20.30   Fortuna Düsseldorf     2:2  Eintracht Braunschweig
 [Sa 2.8.]
-  13.00   RB Leipzig            0:0  VfR Aalen
-  15.30   VfL Bochum            1:1  SpVgg Greuther Fürth
-  15.30   FC St. Pauli          1:1  FC Ingolstadt 04
+  13.00   RB Leipzig             0:0  VfR Aalen
+  15.30   VfL Bochum             1:1  SpVgg Greuther Fürth
+  15.30   FC St. Pauli           1:1  FC Ingolstadt 04
 [So 3.8.]
-  13.30   1. FC Heidenheim 1846 2:1  FSV Frankfurt
-  15.30   1. FC Nürnberg        1:0  Erzgebirge Aue
-  15.30   SV Darmstadt 98       1:0  SV Sandhausen
-  15.30   Karlsruher SC         0:0  1. FC Union Berlin
+  13.30   1. FC Heidenheim 1846  2:1  FSV Frankfurt
+  15.30   1. FC Nürnberg         1:0  Erzgebirge Aue
+  15.30   SV Darmstadt 98        1:0  SV Sandhausen
+  15.30   Karlsruher SC          0:0  1. FC Union Berlin
 [Mo 4.8.]
-  20.15   1. FC Kaiserslautern  3:2  TSV 1860 München
+  20.15   1. FC Kaiserslautern   3:2  TSV 1860 München
 
 2. Spieltag
 
 [Fr 8.8.]
-  18.30   VfR Aalen             2:0  FC St. Pauli
-  18.30   FSV Frankfurt         2:3  Karlsruher SC
-  20.30   1. FC Union Berlin    1:1  Fortuna Düsseldorf
+  18.30   VfR Aalen              2:0  FC St. Pauli
+  18.30   FSV Frankfurt          2:3  Karlsruher SC
+  20.30   1. FC Union Berlin     1:1  Fortuna Düsseldorf
 [Sa 9.8.]
-  15.30   Eintracht Braunschweig  1. FC Heidenheim 1846
-  15.30   Erzgebirge Aue  VfL Bochum
+  15.30   Eintracht Braunschweig 3:0  1. FC Heidenheim 1846
+  15.30   Erzgebirge Aue         1:5  VfL Bochum
 [Sa 10.8.]
   13.30   FC Ingolstadt 04  SV Darmstadt 98
   15.30   TSV 1860 München  RB Leipzig

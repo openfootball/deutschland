@@ -89,6 +89,17 @@ Use the `sportdb` command line tool to build your own `football.db` copy
 from the plain text data sets. [More »](http://openfootball.github.io/build.html)
 
 
+### Examples
+
+Build the database for all German clubs, leagues and seasons:
+
+    $ rake build DATA=de
+
+Build the database for the 2014/15 season:
+
+    $ rake build DATA=de_2014_15
+
+
 ## Questions? Comments?
 
 Send them along to the

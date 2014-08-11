@@ -1,13 +1,12 @@
-####################################
-# Deutschland (de) - All Fixtures
+##################################
+#   Deutsche Bundesliga 2014/15
 
 
 # - Leagues
 
 de-deutschland!/leagues
 
-
-# - Clubs
+# - Teams
 
 de-deutschland!/clubs
 de-deutschland!/clubs_2
@@ -28,21 +27,8 @@ de-deutschland!/clubs_sn_sachsen
 de-deutschland!/clubs_st_sachsen_anhalt
 de-deutschland!/clubs_th_thueringen
 
-
 # - Fixtures
 
-# 2012/13
-de-deutschland!/2012-13/1-bundesliga
-de-deutschland!/2012-13/2-bundesliga2
-de-deutschland!/2012-13/3-liga3
-de-deutschland!/2012-13/cup
-
-# 2013/14
-de-deutschland!/2013-14/1-bundesliga
-de-deutschland!/2013-14/2-bundesliga2
-de-deutschland!/2013-14/3-liga3
-de-deutschland!/2013-14/cup
-
-# 2014/15
 de-deutschland!/2014-15/1-bundesliga
 de-deutschland!/2014-15/2-bundesliga2
+

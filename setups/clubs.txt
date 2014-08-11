@@ -1,0 +1,6 @@
+############
+# Clubs
+
+de-deutschland!/clubs
+de-deutschland!/clubs_2
+

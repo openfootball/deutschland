@@ -6,8 +6,8 @@ season: 2013/14
 start_at: 2013-07-19    # todo: check start date
 
 fixtures:
-- l3
-- l3_ii
+- 3-liga3-i
+- 3-liga3-ii
 
 # note: timezone for games (play_at) is *always* CET (central european time)
 

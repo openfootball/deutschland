@@ -8,8 +8,8 @@ start_at: 2014-08-22
 # note: timezone for games (play_at) is *always* CET (central european time)
 
 fixtures:
-- bl
-- bl_ii
+- 1-bundesliga-i
+- 1-bundesliga-ii
 
 
 ####################

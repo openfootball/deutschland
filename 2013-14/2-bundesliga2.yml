@@ -6,8 +6,8 @@ season: 2013/14
 start_at: 2013-07-19      # todo: check start date
 
 fixtures:
-- bl2
-- bl2_ii
+- 2-bundesliga2-i
+- 2-bundesliga2-ii
 
 
 # note: timezone for games (play_at) is *always* CET (central european time)

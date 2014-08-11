@@ -1,0 +1,37 @@
+##################################
+# Deutsche 2. Bundesliga 2014/15
+
+league: de.2
+season: 2014/15
+start_at: 2014-08-01      # todo: check start date
+
+fixtures:
+- 2-bundesliga2-i
+- 2-bundesliga2-ii
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+###############
+# 18 Teams
+
+teams:
+- duesseldorf
+- fuerth
+- klautern
+- fsvfrankfurt
+- koeln
+- tsvmuenchen
+- unionberlin
+- aalen
+- stpauli
+- paderborn
+- ingolstadt
+- bochum
+- aue
+- sandhausen
+- karlsruhe
+- heidenheim
+- leipzig
+- darmstadt
+

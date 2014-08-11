@@ -27,10 +27,10 @@
 [Sa 9.8.]
   15.30   Eintracht Braunschweig 3:0  1. FC Heidenheim 1846
   15.30   Erzgebirge Aue         1:5  VfL Bochum
-[Sa 10.8.]
-  13.30   FC Ingolstadt 04  SV Darmstadt 98
-  15.30   TSV 1860 München  RB Leipzig
-  15.30   SV Sandhausen  1. FC Kaiserslautern
+[So 10.8.]
+  13.30   FC Ingolstadt 04       2:2  SV Darmstadt 98
+  15.30   TSV 1860 München       0:3  RB Leipzig
+  15.30   SV Sandhausen          1:1  1. FC Kaiserslautern
 [Mo 11.8.]
   20.15   SpVgg Greuther Fürth  1. FC Nürnberg
 

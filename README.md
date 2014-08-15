@@ -3,7 +3,7 @@
 ## What's `football.db`?
 
 A free open public domain football database & schema
-for use in any (programming) language (e.g. uses plain text data sets).
+for use in any (programming) language (e.g. uses plain text datasets).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
@@ -83,10 +83,10 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
 (25) Thomas Müller               FW 2000-
 ~~~
 
-## Build Your Own `football.db` Copy
+## Build Your Own `deutschland.db` Copy
 
-Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text data sets. [More »](http://openfootball.github.io/build.html)
+Use the `sportdb` command line tool to build your own `deutschland.db` copy
+from the plain text datasets. [More »](http://openfootball.github.io/build.html)
 
 
 ### Examples

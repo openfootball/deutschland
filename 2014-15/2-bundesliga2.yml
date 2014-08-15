@@ -16,16 +16,16 @@ fixtures:
 # 18 Teams
 
 teams:
+- braunschweig
+- nuernberg
 - duesseldorf
 - fuerth
 - klautern
 - fsvfrankfurt
-- koeln
 - tsvmuenchen
 - unionberlin
 - aalen
 - stpauli
-- paderborn
 - ingolstadt
 - bochum
 - aue

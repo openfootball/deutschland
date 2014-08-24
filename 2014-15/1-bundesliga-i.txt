@@ -7,12 +7,12 @@
 [Fr 22.8.]
   20.30  Bayern München       2:1  VfL Wolfsburg
 [Sa 23.8.]
-  15.30  1899 Hoffenheim -  FC Augsburg
-  15.30  Hannover 96     -  FC Schalke 04
-  15.30  Hertha BSC      -  Werder Bremen
-  15.30  Eintracht Frankfurt  -  SC Freiburg
-  15.30  1. FC Köln           -  Hamburger SV
-  18.30  Borussia Dortmund    -  Bayer Leverkusen
+  15.30  1899 Hoffenheim      2:0  FC Augsburg
+  15.30  Hannover 96          2:1  FC Schalke 04
+  15.30  Hertha BSC           2:2  Werder Bremen
+  15.30  Eintracht Frankfurt  1:0  SC Freiburg
+  15.30  1. FC Köln           0:0  Hamburger SV
+  18.30  Borussia Dortmund    0:2  Bayer Leverkusen
 [So 24.8.]
   15.30  SC Paderborn 07       -  1. FSV Mainz 05
   17.30  Bor. Mönchengladbach  -  VfB Stuttgart

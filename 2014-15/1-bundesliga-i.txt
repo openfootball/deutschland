@@ -67,12 +67,12 @@
 
 [Mi 24.9.]
   Bayern München               4:0  SC Paderborn 07 
-  Borussia Dortmund VfB Stuttgart 
-  Bayer Leverkusen FC Augsburg 
-  Bor. Mönchengladbach Hamburger SV 
+  Borussia Dortmund            2:2  VfB Stuttgart 
+  Bayer Leverkusen             1:0  FC Augsburg 
+  Bor. Mönchengladbach         1:0  Hamburger SV 
   1899 Hoffenheim              3:3  SC Freiburg 
-  Hannover 96 1. FC Köln 
-  Hertha BSC VfL Wolfsburg 
+  Hannover 96                  1:0  1. FC Köln 
+  Hertha BSC                   1:0  VfL Wolfsburg 
   Werder Bremen                0:3  FC Schalke 04 
   Eintracht Frankfurt          2:2  1. FSV Mainz 05 
 

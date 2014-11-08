@@ -5,230 +5,229 @@
 1. Spieltag
 
 [Fr 22.8.]
-  20.30  Bayern München        2:1  VfL Wolfsburg
+  20.30  Bayern München        2-1  VfL Wolfsburg
 [Sa 23.8.]
-  15.30  1899 Hoffenheim       2:0  FC Augsburg
-  15.30  Hannover 96           2:1  FC Schalke 04
-  15.30  Hertha BSC            2:2  Werder Bremen
-  15.30  Eintracht Frankfurt   1:0  SC Freiburg
-  15.30  1. FC Köln            0:0  Hamburger SV
-  18.30  Borussia Dortmund     0:2  Bayer Leverkusen
+  15.30  1899 Hoffenheim       2-0  FC Augsburg
+  15.30  Hannover 96           2-1  FC Schalke 04
+  15.30  Hertha BSC            2-2  Werder Bremen
+  15.30  Eintracht Frankfurt   1-0  SC Freiburg
+  15.30  1. FC Köln            0-0  Hamburger SV
+  18.30  Borussia Dortmund     0-2  Bayer Leverkusen
 [So 24.8.]
-  15.30  SC Paderborn 07       2:2  1. FSV Mainz 05
-  17.30  Bor. Mönchengladbach  1:1  VfB Stuttgart
+  15.30  SC Paderborn 07       2-2  1. FSV Mainz 05
+  17.30  Bor. Mönchengladbach  1-1  VfB Stuttgart
 
 2. Spieltag
 
 [Fr 29.8.]
-  20.30  FC Augsburg           2:3  Borussia Dortmund 
+  20.30  FC Augsburg           2-3  Borussia Dortmund 
 [Sa 30.8.]
-  15.30  Bayer Leverkusen      4:2  Hertha BSC 
-  15.30  VfL Wolfsburg         2:2  Eintracht Frankfurt 
-  15.30  Werder Bremen         1:1  1899 Hoffenheim 
-  15.30  VfB Stuttgart         0:2  1. FC Köln 
-  15.30  Hamburger SV          0:3  SC Paderborn 07 
-  18.30  FC Schalke 04         1:1  Bayern München 
+  15.30  Bayer Leverkusen      4-2  Hertha BSC 
+  15.30  VfL Wolfsburg         2-2  Eintracht Frankfurt 
+  15.30  Werder Bremen         1-1  1899 Hoffenheim 
+  15.30  VfB Stuttgart         0-2  1. FC Köln 
+  15.30  Hamburger SV          0-3  SC Paderborn 07 
+  18.30  FC Schalke 04         1-1  Bayern München 
 [So 31.8.]
-  15.30  1. FSV Mainz 05       0:0  Hannover 96 
-  17.30  SC Freiburg           0:0  Bor. Mönchengladbach 
+  15.30  1. FSV Mainz 05       0-0  Hannover 96 
+  17.30  SC Freiburg           0-0  Bor. Mönchengladbach 
 
 3. Spieltag
 
 [Fr 12.9.]
-  20.30  Bayer Leverkusen      3:3  Werder Bremen 
+  20.30  Bayer Leverkusen      3-3  Werder Bremen 
 [Sa 13.9.]
-  15.30  Bayern München        2:0  VfB Stuttgart 
-  15.30  Borussia Dortmund     3:1  SC Freiburg 
-  15.30  1899 Hoffenheim       1:1  VfL Wolfsburg 
-  15.30  Hertha BSC            1:3  1. FSV Mainz 05 
-  15.30  SC Paderborn 07       0:0  1. FC Köln 
-  18.30  Bor. Mönchengladbach  4:1  FC Schalke 04 
+  15.30  Bayern München        2-0  VfB Stuttgart 
+  15.30  Borussia Dortmund     3-1  SC Freiburg 
+  15.30  1899 Hoffenheim       1-1  VfL Wolfsburg 
+  15.30  Hertha BSC            1-3  1. FSV Mainz 05 
+  15.30  SC Paderborn 07       0-0  1. FC Köln 
+  18.30  Bor. Mönchengladbach  4-1  FC Schalke 04 
 [So 14.9.]
-  15.30  Eintracht Frankfurt   0:1  FC Augsburg 
-  17.30  Hannover 96           2:0  Hamburger SV 
+  15.30  Eintracht Frankfurt   0-1  FC Augsburg 
+  17.30  Hannover 96           2-0  Hamburger SV 
 
 4. Spieltag
 
 [Fr 19.9.]
-  20.30  SC Freiburg           2:2  Hertha BSC 
+  20.30  SC Freiburg           2-2  Hertha BSC 
 [Sa 20.9.]
-  15.30  FC Schalke 04         2:2  Eintracht Frankfurt 
-  15.30  FC Augsburg           4:2  Werder Bremen 
-  15.30  VfB Stuttgart         0:2  1899 Hoffenheim 
-  15.30  Hamburger SV          0:0  Bayern München 
-  15.30  SC Paderborn 07       2:0  Hannover 96 
+  15.30  FC Schalke 04         2-2  Eintracht Frankfurt 
+  15.30  FC Augsburg           4-2  Werder Bremen 
+  15.30  VfB Stuttgart         0-2  1899 Hoffenheim 
+  15.30  Hamburger SV          0-0  Bayern München 
+  15.30  SC Paderborn 07       2-0  Hannover 96 
 [So 21.9.]
-  15.30  VfL Wolfsburg         4:1  Bayer Leverkusen 
-  17.30  1. FSV Mainz 05       2:0  Borussia Dortmund 
-  17.30  1. FC Köln            0:0  Bor. Mönchengladbach 
+  15.30  VfL Wolfsburg         4-1  Bayer Leverkusen 
+  17.30  1. FSV Mainz 05       2-0  Borussia Dortmund 
+  17.30  1. FC Köln            0-0  Bor. Mönchengladbach 
 
 
 5. Spieltag
 
 [Mi 24.9.]
-  Bayern München               4:0  SC Paderborn 07 
-  Borussia Dortmund            2:2  VfB Stuttgart 
-  Bayer Leverkusen             1:0  FC Augsburg 
-  Bor. Mönchengladbach         1:0  Hamburger SV 
-  1899 Hoffenheim              3:3  SC Freiburg 
-  Hannover 96                  1:0  1. FC Köln 
-  Hertha BSC                   1:0  VfL Wolfsburg 
-  Werder Bremen                0:3  FC Schalke 04 
-  Eintracht Frankfurt          2:2  1. FSV Mainz 05 
+  Bayern München               4-0  SC Paderborn 07 
+  Borussia Dortmund            2-2  VfB Stuttgart 
+  Bayer Leverkusen             1-0  FC Augsburg 
+  Bor. Mönchengladbach         1-0  Hamburger SV 
+  1899 Hoffenheim              3-3  SC Freiburg 
+  Hannover 96                  1-0  1. FC Köln 
+  Hertha BSC                   1-0  VfL Wolfsburg 
+  Werder Bremen                0-3  FC Schalke 04 
+  Eintracht Frankfurt          2-2  1. FSV Mainz 05 
 
 6. Spieltag
 
 [Sa 27.9.]
-  FC Schalke 04                2:1  Borussia Dortmund 
-  VfL Wolfsburg                2:1  Werder Bremen 
-  1. FSV Mainz 05              0:0  1899 Hoffenheim 
-  FC Augsburg                  1:0  Hertha BSC 
-  SC Freiburg                  0:0  Bayer Leverkusen 
-  VfB Stuttgart                1:0  Hannover 96 
-  Hamburger SV                 1:2  Eintracht Frankfurt 
-  1. FC Köln                   0:2  Bayern München 
-  SC Paderborn 07              1:2  Bor. Mönchengladbach 
+  FC Schalke 04                2-1  Borussia Dortmund 
+  VfL Wolfsburg                2-1  Werder Bremen 
+  1. FSV Mainz 05              0-0  1899 Hoffenheim 
+  FC Augsburg                  1-0  Hertha BSC 
+  SC Freiburg                  0-0  Bayer Leverkusen 
+  VfB Stuttgart                1-0  Hannover 96 
+  Hamburger SV                 1-2  Eintracht Frankfurt 
+  1. FC Köln                   0-2  Bayern München 
+  SC Paderborn 07              1-2  Bor. Mönchengladbach 
 
 7. Spieltag
 
 [Sa 4.10.]
-  Bayern München               4:0  Hannover 96 
-  Borussia Dortmund            0:1  Hamburger SV 
-  Bayer Leverkusen             2:2  SC Paderborn 07 
-  VfL Wolfsburg                1:0  FC Augsburg 
-  Bor. Mönchengladbach         1:1  1. FSV Mainz 05 
-  1899 Hoffenheim              2:1  FC Schalke 04 
-  Hertha BSC                   3:2  VfB Stuttgart 
-  Werder Bremen                1:1  SC Freiburg 
-  Eintracht Frankfurt          3:2  1. FC Köln 
+  Bayern München               4-0  Hannover 96 
+  Borussia Dortmund            0-1  Hamburger SV 
+  Bayer Leverkusen             2-2  SC Paderborn 07 
+  VfL Wolfsburg                1-0  FC Augsburg 
+  Bor. Mönchengladbach         1-1  1. FSV Mainz 05 
+  1899 Hoffenheim              2-1  FC Schalke 04 
+  Hertha BSC                   3-2  VfB Stuttgart 
+  Werder Bremen                1-1  SC Freiburg 
+  Eintracht Frankfurt          3-2  1. FC Köln 
 
 8. Spieltag
 
 [Sa 18.10.]
-  Bayern München               6:0  Werder Bremen 
-  FC Schalke 04                2:0  Hertha BSC 
-  1. FSV Mainz 05              2:1  FC Augsburg 
-  Hannover 96                  0:3  Bor. Mönchengladbach 
-  SC Freiburg                  1:2  VfL Wolfsburg 
-  VfB Stuttgart                3:3  Bayer Leverkusen 
-  Hamburger SV                 1:1  1899 Hoffenheim 
-  1. FC Köln                   2:1  Borussia Dortmund 
-  SC Paderborn 07              3:1  Eintracht Frankfurt 
+  Bayern München               6-0  Werder Bremen 
+  FC Schalke 04                2-0  Hertha BSC 
+  1. FSV Mainz 05              2-1  FC Augsburg 
+  Hannover 96                  0-3  Bor. Mönchengladbach 
+  SC Freiburg                  1-2  VfL Wolfsburg 
+  VfB Stuttgart                3-3  Bayer Leverkusen 
+  Hamburger SV                 1-1  1899 Hoffenheim 
+  1. FC Köln                   2-1  Borussia Dortmund 
+  SC Paderborn 07              3-1  Eintracht Frankfurt 
 
 9. Spieltag
 
 [Sa 25.10.]
-  Borussia Dortmund            0:1  Hannover 96 
-  Bayer Leverkusen             1:0  FC Schalke 04 
-  VfL Wolfsburg                3:0  1. FSV Mainz 05 
-  Bor. Mönchengladbach         0:0  Bayern München 
-  FC Augsburg                  2:0  SC Freiburg 
-  1899 Hoffenheim              1:0  SC Paderborn 07 
-  Hertha BSC                   3:0  Hamburger SV 
-  Werder Bremen                0:1  1. FC Köln 
-  Eintracht Frankfurt          4:5  VfB Stuttgart 
+  Borussia Dortmund            0-1  Hannover 96 
+  Bayer Leverkusen             1-0  FC Schalke 04 
+  VfL Wolfsburg                3-0  1. FSV Mainz 05 
+  Bor. Mönchengladbach         0-0  Bayern München 
+  FC Augsburg                  2-0  SC Freiburg 
+  1899 Hoffenheim              1-0  SC Paderborn 07 
+  Hertha BSC                   3-0  Hamburger SV 
+  Werder Bremen                0-1  1. FC Köln 
+  Eintracht Frankfurt          4-5  VfB Stuttgart 
 
 10. Spieltag
 
 [Sa 1.11.]
-  Bayern München               2:1  Borussia Dortmund 
-  FC Schalke 04                1:0  FC Augsburg 
-  Bor. Mönchengladbach         3:1  1899 Hoffenheim 
-  1. FSV Mainz 05              1:2  Werder Bremen 
-  Hannover 96                  1:0  Eintracht Frankfurt 
-  VfB Stuttgart                0:4  VfL Wolfsburg 
-  Hamburger SV                 1:0  Bayer Leverkusen 
-  1. FC Köln                   0:1  SC Freiburg 
-  SC Paderborn 07              3:1  Hertha BSC 
+  Bayern München               2-1  Borussia Dortmund 
+  FC Schalke 04                1-0  FC Augsburg 
+  Bor. Mönchengladbach         3-1  1899 Hoffenheim 
+  1. FSV Mainz 05              1-2  Werder Bremen 
+  Hannover 96                  1-0  Eintracht Frankfurt 
+  VfB Stuttgart                0-4  VfL Wolfsburg 
+  Hamburger SV                 1-0  Bayer Leverkusen 
+  1. FC Köln                   0-1  SC Freiburg 
+  SC Paderborn 07              3-1  Hertha BSC 
 
 11. Spieltag
 
 [Sa 8.11.]
-  Borussia Dortmund Bor. Mönchengladbach 
-  Bayer Leverkusen 1. FSV Mainz 05 
-  VfL Wolfsburg Hamburger SV 
-  FC Augsburg SC Paderborn 07 
-  1899 Hoffenheim 1. FC Köln 
-  Hertha BSC                   0:2  Hannover 96 
-  Werder Bremen VfB Stuttgart 
-  Eintracht Frankfurt Bayern München 
-  SC Freiburg FC Schalke 04 
+  Borussia Dortmund - Bor. Mönchengladbach 
+  Bayer Leverkusen - 1. FSV Mainz 05 
+  VfL Wolfsburg - Hamburger SV 
+  FC Augsburg - SC Paderborn 07 
+  1899 Hoffenheim - 1. FC Köln 
+  Hertha BSC                   0-2  Hannover 96 
+  Werder Bremen - VfB Stuttgart 
+  Eintracht - Frankfurt Bayern München 
+  SC Freiburg - FC Schalke 04 
 
 12. Spieltag
 
 [Sa 22.11.]
-  Bayern München 1899 Hoffenheim 
-  FC Schalke 04 VfL Wolfsburg 
-  Bor. Mönchengladbach Eintracht Frankfurt 
-  1. FSV Mainz 05 SC Freiburg 
-  Hannover 96 Bayer Leverkusen 
-  VfB Stuttgart FC Augsburg 
-  Hamburger SV Werder Bremen 
-  1. FC Köln Hertha BSC 
-  SC Paderborn 07 Borussia Dortmund 
+  Bayern München - 1899 Hoffenheim 
+  FC Schalke 04 - VfL Wolfsburg 
+  Bor. Mönchengladbach - Eintracht Frankfurt 
+  1. FSV Mainz 05 - SC Freiburg 
+  Hannover 96 - Bayer Leverkusen 
+  VfB Stuttgart - FC Augsburg 
+  Hamburger SV - Werder Bremen 
+  1. FC Köln - Hertha BSC 
+  SC Paderborn 07 - Borussia Dortmund 
 
 13. Spieltag
 
 [Sa 29.11.]
-  FC Schalke 04 1. FSV Mainz 05 
-  Bayer Leverkusen 1. FC Köln 
-  VfL Wolfsburg Bor. Mönchengladbach 
-  FC Augsburg Hamburger SV 
-  1899 Hoffenheim Hannover 96 
-  Hertha BSC Bayern München 
-  Werder Bremen SC Paderborn 07 
-  Eintracht Frankfurt Borussia Dortmund 
-  SC Freiburg VfB Stuttgart 
+  FC Schalke 04 - 1. FSV Mainz 05 
+  Bayer Leverkusen - 1. FC Köln 
+  VfL Wolfsburg - Bor. Mönchengladbach 
+  FC Augsburg - Hamburger SV 
+  1899 Hoffenheim - Hannover 96 
+  Hertha BSC - Bayern München 
+  Werder Bremen - SC Paderborn 07 
+  Eintracht Frankfurt - Borussia Dortmund 
+  SC Freiburg - VfB Stuttgart 
 
 14. Spieltag
 
 [Sa 6.12.]
-  Bayern München Bayer Leverkusen 
-  Borussia Dortmund 1899 Hoffenheim 
-  Bor. Mönchengladbach Hertha BSC 
-  Hannover 96 VfL Wolfsburg 
-  Eintracht Frankfurt Werder Bremen 
-  VfB Stuttgart FC Schalke 04 
-  Hamburger SV 1. FSV Mainz 05 
-  1. FC Köln FC Augsburg 
-  SC Paderborn 07 SC Freiburg 
+  Bayern München - Bayer Leverkusen 
+  Borussia Dortmund - 1899 Hoffenheim 
+  Bor. Mönchengladbach - Hertha BSC 
+  Hannover 96 - VfL Wolfsburg 
+  Eintracht Frankfurt - Werder Bremen 
+  VfB Stuttgart - FC Schalke 04 
+  Hamburger SV - 1. FSV Mainz 05 
+  1. FC Köln - FC Augsburg 
+  SC Paderborn 07 - SC Freiburg 
 
 15. Spieltag
 
 [Sa 13.12.]
-  FC Schalke 04 1. FC Köln 
-  Bayer Leverkusen Bor. Mönchengladbach 
-  VfL Wolfsburg SC Paderborn 07 
-  1. FSV Mainz 05 VfB Stuttgart 
-  FC Augsburg Bayern München 
-  1899 Hoffenheim Eintracht Frankfurt 
-  Hertha BSC Borussia Dortmund 
-  Werder Bremen Hannover 96 
-  SC Freiburg Hamburger SV 
+  FC Schalke 04 - 1. FC Köln 
+  Bayer Leverkusen - Bor. Mönchengladbach 
+  VfL Wolfsburg - SC Paderborn 07 
+  1. FSV Mainz 05 - VfB Stuttgart 
+  FC Augsburg - Bayern München 
+  1899 Hoffenheim - Eintracht Frankfurt 
+  Hertha BSC - Borussia Dortmund 
+  Werder Bremen - Hannover 96 
+  SC Freiburg - Hamburger SV 
 
 16. Spieltag
 
 [Di 16.12.]
-  Bayern München SC Freiburg 
-  Borussia Dortmund VfL Wolfsburg 
-  Bor. Mönchengladbach Werder Bremen 
-  1899 Hoffenheim Bayer Leverkusen 
-  Hannover 96 FC Augsburg 
-  Eintracht Frankfurt Hertha BSC 
-  Hamburger SV VfB Stuttgart 
-  1. FC Köln 1. FSV Mainz 05 
-  SC Paderborn 07 FC Schalke 04 
+  Bayern München - SC Freiburg 
+  Borussia Dortmund - VfL Wolfsburg 
+  Bor. Mönchengladbach - Werder Bremen 
+  1899 Hoffenheim - Bayer Leverkusen 
+  Hannover 96 - FC Augsburg 
+  Eintracht Frankfurt - Hertha BSC 
+  Hamburger SV - VfB Stuttgart 
+  1. FC Köln - 1. FSV Mainz 05 
+  SC Paderborn 07 - FC Schalke 04 
 
 17. Spieltag
 
 [Sa 20.12.]
-  FC Schalke 04 Hamburger SV 
-  Bayer Leverkusen Eintracht Frankfurt 
-  VfL Wolfsburg 1. FC Köln 
-  1. FSV Mainz 05 Bayern München 
-  FC Augsburg Bor. Mönchengladbach 
-  Hertha BSC 1899 Hoffenheim 
-  Werder Bremen Borussia Dortmund 
-  SC Freiburg Hannover 96 
-  VfB Stuttgart SC Paderborn 07 
-
+  FC Schalke 04 - Hamburger SV 
+  Bayer Leverkusen - Eintracht Frankfurt 
+  VfL Wolfsburg - 1. FC Köln 
+  1. FSV Mainz 05 - Bayern München 
+  FC Augsburg - Bor. Mönchengladbach 
+  Hertha BSC - 1899 Hoffenheim 
+  Werder Bremen - Borussia Dortmund 
+  SC Freiburg - Hannover 96 
+  VfB Stuttgart - SC Paderborn 07 

@@ -70,41 +70,41 @@
 23. Spieltag
 
 [Sa 28.2.]
-  Borussia Dortmund      3-0     FC Schalke 04 
-  Werder Bremen          3-5     VfL Wolfsburg 
-  1899 Hoffenheim        2-0     1. FSV Mainz 05 
-  Hertha BSC             1-0     FC Augsburg 
-  Bayer Leverkusen       1-0     SC Freiburg 
-  Hannover 96            1-1     VfB Stuttgart 
-  Eintracht Frankfurt    2-1     Hamburger SV 
-  Bayern München         4-1     1. FC Köln 
-  Bor. Mönchengladbach   2-0     SC Paderborn 07 
+  Borussia Dortmund       3-0     FC Schalke 04 
+  Werder Bremen           3-5     VfL Wolfsburg 
+  1899 Hoffenheim         2-0     1. FSV Mainz 05 
+  Hertha BSC              1-0     FC Augsburg 
+  Bayer Leverkusen        1-0     SC Freiburg 
+  Hannover 96             1-1     VfB Stuttgart 
+  Eintracht Frankfurt     2-1     Hamburger SV 
+  Bayern München          4-1     1. FC Köln 
+  Bor. Mönchengladbach    2-0     SC Paderborn 07 
 
 24. Spieltag
 
 [Sa 7.3.]
-  Hannover 96            1-3     Bayern München 
-  Hamburger SV           0-0     Borussia Dortmund 
-  SC Paderborn 07        0-3     Bayer Leverkusen 
-  FC Augsburg            1-0     VfL Wolfsburg 
-  1. FSV Mainz 05        2-2     Bor. Mönchengladbach 
-  FC Schalke 04          3-1     1899 Hoffenheim 
-  VfB Stuttgart          0-0     Hertha BSC 
-  SC Freiburg            0-1     Werder Bremen 
-  1. FC Köln             4-2     Eintracht Frankfurt 
+  Hannover 96             1-3     Bayern München 
+  Hamburger SV            0-0     Borussia Dortmund 
+  SC Paderborn 07         0-3     Bayer Leverkusen 
+  FC Augsburg             1-0     VfL Wolfsburg 
+  1. FSV Mainz 05         2-2     Bor. Mönchengladbach 
+  FC Schalke 04           3-1     1899 Hoffenheim 
+  VfB Stuttgart           0-0     Hertha BSC 
+  SC Freiburg             0-1     Werder Bremen 
+  1. FC Köln              4-2     Eintracht Frankfurt 
 
 25. Spieltag
 
 [Sa 14.3.]
-  Werder Bremen Bayern München 
-  Hertha BSC FC Schalke 04 
-  FC Augsburg 1. FSV Mainz 05 
+  Werder Bremen          0-4      Bayern München 
+  Hertha BSC             2-2      FC Schalke 04 
+  FC Augsburg            0-2      1. FSV Mainz 05 
   Bor. Mönchengladbach Hannover 96 
   VfL Wolfsburg SC Freiburg 
-  Bayer Leverkusen VfB Stuttgart 
-  1899 Hoffenheim Hamburger SV 
-  Borussia Dortmund 1. FC Köln 
-  Eintracht Frankfurt SC Paderborn 07 
+  Bayer Leverkusen       4-0      VfB Stuttgart 
+  1899 Hoffenheim        3-0      Hamburger SV 
+  Borussia Dortmund      0-0      1. FC Köln 
+  Eintracht Frankfurt    4-0      SC Paderborn 07 
 
 26. Spieltag
 

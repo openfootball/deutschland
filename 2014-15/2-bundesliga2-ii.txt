@@ -96,28 +96,28 @@
 24. Spieltag
 
 [So 8.3.] 
-  VfR Aalen              1-1  SpVgg Greuther Fürth  
-  1. FC Union Berlin     0-0  1. FC Kaiserslautern  
-  Eintracht Braunschweig 0-2  FC St. Pauli  
-  Erzgebirge Aue         0-3  FC Ingolstadt 04  
-  TSV 1860 München       2-3  SV Sandhausen  
-  Fortuna Düsseldorf     2-2  VfL Bochum  
-  1. FC Nürnberg         0-1  1. FC Heidenheim 1846  
-  Karlsruher SC          0-0  RB Leipzig  
-  FSV Frankfurt          1-1  SV Darmstadt 98  
+  VfR Aalen                1-1  SpVgg Greuther Fürth  
+  1. FC Union Berlin       0-0  1. FC Kaiserslautern  
+  Eintracht Braunschweig   0-2  FC St. Pauli  
+  Erzgebirge Aue           0-3  FC Ingolstadt 04  
+  TSV 1860 München         2-3  SV Sandhausen  
+  Fortuna Düsseldorf       2-2  VfL Bochum  
+  1. FC Nürnberg           0-1  1. FC Heidenheim 1846  
+  Karlsruher SC            0-0  RB Leipzig  
+  FSV Frankfurt            1-1  SV Darmstadt 98  
 
 25. Spieltag
 
 [So 15.3.] 
-  1. FC Kaiserslautern   2-1  1. FC Nürnberg  
-  SV Sandhausen  Eintracht Braunschweig  
-  FC Ingolstadt 04  Karlsruher SC  
+  1. FC Kaiserslautern     2-1  1. FC Nürnberg  
+  SV Sandhausen            0-1  Eintracht Braunschweig  
+  FC Ingolstadt 04         1-3  Karlsruher SC  
   RB Leipzig  Fortuna Düsseldorf  
-  SpVgg Greuther Fürth   0-3  TSV 1860 München  
-  SV Darmstadt 98        5-0  1. FC Union Berlin  
-  FC St. Pauli           1-1  FSV Frankfurt  
-  VfR Aalen  Erzgebirge Aue  
-  VfL Bochum             4-1  1. FC Heidenheim 1846  
+  SpVgg Greuther Fürth     0-3  TSV 1860 München  
+  SV Darmstadt 98          5-0  1. FC Union Berlin  
+  FC St. Pauli             1-1  FSV Frankfurt  
+  VfR Aalen                3-0  Erzgebirge Aue  
+  VfL Bochum               4-1  1. FC Heidenheim 1846  
 
 26. Spieltag
 

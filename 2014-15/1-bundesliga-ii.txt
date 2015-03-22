@@ -96,28 +96,28 @@
 25. Spieltag
 
 [Sa 14.3.]
-  Werder Bremen          0-4      Bayern München 
-  Hertha BSC             2-2      FC Schalke 04 
-  FC Augsburg            0-2      1. FSV Mainz 05 
-  Bor. Mönchengladbach   2-0      Hannover 96 
-  VfL Wolfsburg          3-0      SC Freiburg 
-  Bayer Leverkusen       4-0      VfB Stuttgart 
-  1899 Hoffenheim        3-0      Hamburger SV 
-  Borussia Dortmund      0-0      1. FC Köln 
-  Eintracht Frankfurt    4-0      SC Paderborn 07 
+  Werder Bremen           0-4      Bayern München 
+  Hertha BSC              2-2      FC Schalke 04 
+  FC Augsburg             0-2      1. FSV Mainz 05 
+  Bor. Mönchengladbach    2-0      Hannover 96 
+  VfL Wolfsburg           3-0      SC Freiburg 
+  Bayer Leverkusen        4-0      VfB Stuttgart 
+  1899 Hoffenheim         3-0      Hamburger SV 
+  Borussia Dortmund       0-0      1. FC Köln 
+  Eintracht Frankfurt     4-0      SC Paderborn 07 
 
 26. Spieltag
 
 [Sa 21.3.]
-  Hannover 96 Borussia Dortmund 
-  FC Schalke 04 Bayer Leverkusen 
+  Hannover 96             2-3 Borussia Dortmund 
+  FC Schalke 04           0-1 Bayer Leverkusen 
   1. FSV Mainz 05 VfL Wolfsburg 
   Bayern München Bor. Mönchengladbach 
-  SC Freiburg FC Augsburg 
-  SC Paderborn 07 1899 Hoffenheim 
-  Hamburger SV Hertha BSC 
-  1. FC Köln Werder Bremen 
-  VfB Stuttgart Eintracht Frankfurt 
+  SC Freiburg             2-0 FC Augsburg 
+  SC Paderborn 07         0-0 1899 Hoffenheim 
+  Hamburger SV            0-1 Hertha BSC 
+  1. FC Köln              1-1 Werder Bremen 
+  VfB Stuttgart           3-1 Eintracht Frankfurt 
 
 27. Spieltag
 

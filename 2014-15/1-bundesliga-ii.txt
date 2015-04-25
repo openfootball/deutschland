@@ -148,20 +148,20 @@
 29. Spieltag
 
 [Sa 18.4.]
-  1899 Hoffenheim        0-2 Bayern München 
-  VfL Wolfsburg          1-1 FC Schalke 04 
-  Eintracht Frankfurt    0-0 Bor. Mönchengladbach 
-  SC Freiburg            2-3 1. FSV Mainz 05 
-  Bayer Leverkusen       4-0 Hannover 96 
-  FC Augsburg            2-1 VfB Stuttgart 
-  Werder Bremen          1-0 Hamburger SV 
-  Hertha BSC             0-0 1. FC Köln 
-  Borussia Dortmund      3-0 SC Paderborn 07 
+  1899 Hoffenheim         0-2 Bayern München 
+  VfL Wolfsburg           1-1 FC Schalke 04 
+  Eintracht Frankfurt     0-0 Bor. Mönchengladbach 
+  SC Freiburg             2-3 1. FSV Mainz 05 
+  Bayer Leverkusen        4-0 Hannover 96 
+  FC Augsburg             2-1 VfB Stuttgart 
+  Werder Bremen           1-0 Hamburger SV 
+  Hertha BSC              0-0 1. FC Köln 
+  Borussia Dortmund       3-0 SC Paderborn 07 
 
 30. Spieltag
 
 [Sa 25.4.]
-  1. FSV Mainz 05 FC Schalke 04 
+  1. FSV Mainz 0          2-0 FC Schalke 04 
   1. FC Köln Bayer Leverkusen 
   Bor. Mönchengladbach VfL Wolfsburg 
   Hamburger SV FC Augsburg 

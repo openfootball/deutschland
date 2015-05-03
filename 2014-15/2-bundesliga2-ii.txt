@@ -188,14 +188,14 @@
 
 [So 3.5.] 
   FC Ingolstadt 04  1. FC Nürnberg  
-  SV Darmstadt 98  1. FC Kaiserslautern  
+  SV Darmstadt 98          3-2  1. FC Kaiserslautern  
   Erzgebirge Aue  Karlsruher SC  
-  SpVgg Greuther Fürth  Fortuna Düsseldorf  
-  TSV 1860 München  1. FC Union Berlin  
-  Eintracht Braunschweig  FSV Frankfurt  
-  VfR Aalen  VfL Bochum  
-  SV Sandhausen  1. FC Heidenheim 1846  
-  FC St. Pauli  RB Leipzig  
+  SpVgg Greuther Fürth     3-0  Fortuna Düsseldorf  
+  TSV 1860 München         0-3  1. FC Union Berlin  
+  Eintracht Braunschweig   2-0  FSV Frankfurt  
+  VfR Aalen                2-4  VfL Bochum  
+  SV Sandhausen            2-2  1. FC Heidenheim 1846  
+  FC St. Pauli             1-0  RB Leipzig  
 
 32. Spieltag
 

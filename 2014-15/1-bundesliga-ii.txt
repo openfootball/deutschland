@@ -200,15 +200,15 @@
 33. Spieltag
 
 [Sa 16.5.]
-  SC Freiburg Bayern München 
-  VfL Wolfsburg Borussia Dortmund 
-  Werder Bremen Bor. Mönchengladbach 
-  Bayer Leverkusen 1899 Hoffenheim 
-  FC Augsburg Hannover 96 
-  Hertha BSC Eintracht Frankfurt 
-  VfB Stuttgart Hamburger SV 
-  1. FSV Mainz 05 1. FC Köln 
-  FC Schalke 04 SC Paderborn 07 
+  SC Freiburg            2-1 Bayern München 
+  VfL Wolfsburg          2-0 Borussia Dortmund 
+  Werder Bremen          0-2 Bor. Mönchengladbach 
+  Bayer Leverkusen       2-0 1899 Hoffenheim 
+  FC Augsburg            1-2 Hannover 96 
+  Hertha BSC             0-0 Eintracht Frankfurt 
+  VfB Stuttgart          2-1 Hamburger SV 
+  1. FSV Mainz 05        2-0 1. FC Köln 
+  FC Schalke 04          1-0 SC Paderborn 07 
 
 34. Spieltag
 

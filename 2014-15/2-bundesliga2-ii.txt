@@ -226,13 +226,17 @@
 34. Spieltag
 
 [So 24.5.] 
-  1. FC Union Berlin  Eintracht Braunschweig
-  RB Leipzig  SpVgg Greuther Fürth
-  Karlsruher SC  TSV 1860 München
-  SV Darmstadt 98  FC St. Pauli
-  1. FC Kaiserslautern  FC Ingolstadt 04
-  1. FC Nürnberg  VfR Aalen
-  VfL Bochum  SV Sandhausen
-  Fortuna Düsseldorf  FSV Frankfurt
-  1. FC Heidenheim 1846  Erzgebirge Aue
+  1. FC Union Berlin      2-0  Eintracht Braunschweig
+  RB Leipzig              2-0  SpVgg Greuther Fürth
+  Karlsruher SC           2-0  TSV 1860 München
+  SV Darmstadt 98         1-0  FC St. Pauli
+  1. FC Kaiserslautern    1-1  FC Ingolstadt 04
+  1. FC Nürnberg          2-1  VfR Aalen
+  VfL Bochum              0-0  SV Sandhausen
+  Fortuna Düsseldorf      2-3  FSV Frankfurt
+  1. FC Heidenheim 1846   2-2  Erzgebirge Aue
 
+Aufstiegsspiele 2.Liga
+
+Holstein Kiel 1860 München        Freitag
+1860 München Holstein Kiel        Dienstag

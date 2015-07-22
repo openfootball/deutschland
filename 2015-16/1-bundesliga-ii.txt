@@ -1,0 +1,210 @@
+##############################################
+# Deutsche Bundesliga 2015/16 - Frühjahr
+
+18. Spieltag
+
+[Sa 23.1.]
+  Hamburger SV  -  Bayern München
+  FC Ingolstadt 04  -  1. FSV Mainz 05
+  Hannover 96  -  SV Darmstadt 98
+  FC Schalke 04  -  Werder Bremen
+  Hertha BSC  -  FC Augsburg
+  1. FC Köln  -  VfB Stuttgart
+  Eintracht Frankfurt  -  VfL Wolfsburg
+  1899 Hoffenheim  -  Bayer Leverkusen
+  Bor. Mönchengladbach  -  Borussia Dortmund
+
+19. Spieltag
+
+[Sa 30.1.]
+  SV Darmstadt 98  -  FC Schalke 04
+  1. FSV Mainz 05  -  Bor. Mönchengladbach
+  VfB Stuttgart  -  Hamburger SV
+  FC Augsburg  -  Eintracht Frankfurt
+  VfL Wolfsburg  -  1. FC Köln
+  Bayer Leverkusen  -  Hannover 96
+  Werder Bremen  -  Hertha BSC
+  Bayern München  -  1899 Hoffenheim
+  Borussia Dortmund  -  FC Ingolstadt 04
+
+20. Spieltag
+[Sa 6.2.]
+Bayer Leverkusen  -  Bayern München
+Hertha BSC  -  Borussia Dortmund
+FC Schalke 04  -  VfL Wolfsburg
+Eintracht Frankfurt  -  VfB Stuttgart
+FC Ingolstadt 04  -  FC Augsburg
+Bor. Mönchengladbach  -  Werder Bremen
+Hamburger SV  -  1. FC Köln
+Hannover 96  -  1. FSV Mainz 05
+1899 Hoffenheim  -  SV Darmstadt 98
+
+21. Spieltag
+[Sa 13.2.]
+FC Augsburg  -  Bayern München
+1. FSV Mainz 05  -  FC Schalke 04
+SV Darmstadt 98  -  Bayer Leverkusen
+Hamburger SV  -  Bor. Mönchengladbach
+1. FC Köln  -  Eintracht Frankfurt
+Borussia Dortmund  -  Hannover 96
+VfB Stuttgart  -  Hertha BSC
+Werder Bremen  -  1899 Hoffenheim
+VfL Wolfsburg  -  FC Ingolstadt 04
+
+22. Spieltag
+[Sa 20.2.]
+Bayer Leverkusen  -  Borussia Dortmund
+Hertha BSC  -  VfL Wolfsburg
+Eintracht Frankfurt  -  Hamburger SV
+FC Schalke 04  -  VfB Stuttgart
+Hannover 96  -  FC Augsburg
+FC Ingolstadt 04  -  Werder Bremen
+Bor. Mönchengladbach  -  1. FC Köln
+1899 Hoffenheim  -  1. FSV Mainz 05
+Bayern München  -  SV Darmstadt 98
+
+23. Spieltag
+[Sa 27.2.]
+VfL Wolfsburg  -  Bayern München
+Eintracht Frankfurt  -  FC Schalke 04
+1. FSV Mainz 05  -  Bayer Leverkusen
+FC Augsburg  -  Bor. Mönchengladbach
+VfB Stuttgart  -  Hannover 96
+1. FC Köln  -  Hertha BSC
+Borussia Dortmund  -  1899 Hoffenheim
+Hamburger SV  -  FC Ingolstadt 04
+Werder Bremen  -  SV Darmstadt 98
+
+24. Spieltag
+[Mi 2.3.]
+SV Darmstadt 98  -  Borussia Dortmund
+Hannover 96  -  VfL Wolfsburg
+FC Schalke 04  -  Hamburger SV
+Bor. Mönchengladbach  -  VfB Stuttgart
+1899 Hoffenheim  -  FC Augsburg
+Bayer Leverkusen  -  Werder Bremen
+Hertha BSC  -  Eintracht Frankfurt
+FC Ingolstadt 04  -  1. FC Köln
+Bayern München  -  1. FSV Mainz 05
+
+25. Spieltag
+[Sa 5.3.]
+Borussia Dortmund  -  Bayern München
+1. FC Köln  -  FC Schalke 04
+FC Augsburg  -  Bayer Leverkusen
+VfL Wolfsburg  -  Bor. Mönchengladbach
+Werder Bremen  -  Hannover 96
+Hamburger SV  -  Hertha BSC
+VfB Stuttgart  -  1899 Hoffenheim
+Eintracht Frankfurt  -  FC Ingolstadt 04
+1. FSV Mainz 05  -  SV Darmstadt 98
+
+26. Spieltag
+[Sa 12.3.]
+Hertha BSC  -  FC Schalke 04
+1899 Hoffenheim  -  VfL Wolfsburg
+Bayer Leverkusen  -  Hamburger SV
+FC Ingolstadt 04  -  VfB Stuttgart
+SV Darmstadt 98  -  FC Augsburg
+Bayern München  -  Werder Bremen
+Bor. Mönchengladbach  -  Eintracht Frankfurt
+Hannover 96  -  1. FC Köln
+Borussia Dortmund  -  1. FSV Mainz 05
+
+27. Spieltag
+[Sa 19.3.]
+1. FC Köln  -  Bayern München
+FC Augsburg  -  Borussia Dortmund
+VfB Stuttgart  -  Bayer Leverkusen
+FC Schalke 04  -  Bor. Mönchengladbach
+Eintracht Frankfurt  -  Hannover 96
+Hamburger SV  -  1899 Hoffenheim
+Werder Bremen  -  1. FSV Mainz 05
+Hertha BSC  -  FC Ingolstadt 04
+VfL Wolfsburg  -  SV Darmstadt 98
+
+28. Spieltag
+[Sa 2.4.]
+FC Ingolstadt 04  -  FC Schalke 04
+Bayer Leverkusen  -  VfL Wolfsburg
+Hannover 96  -  Hamburger SV
+SV Darmstadt 98  -  VfB Stuttgart
+1. FSV Mainz 05  -  FC Augsburg
+Borussia Dortmund  -  Werder Bremen
+Bayern München  -  Eintracht Frankfurt
+1899 Hoffenheim  -  1. FC Köln
+Bor. Mönchengladbach  -  Hertha BSC
+
+29. Spieltag
+[Sa 9.4.]
+VfB Stuttgart  -  Bayern München
+FC Schalke 04  -  Borussia Dortmund
+1. FC Köln  -  Bayer Leverkusen
+FC Ingolstadt 04  -  Bor. Mönchengladbach
+Werder Bremen  -  FC Augsburg
+Hertha BSC  -  Hannover 96
+Eintracht Frankfurt  -  1899 Hoffenheim
+VfL Wolfsburg  -  1. FSV Mainz 05
+Hamburger SV  -  SV Darmstadt 98
+
+30. Spieltag
+[Sa 16.4.]
+Bayern München  -  FC Schalke 04
+Hannover 96  -  Bor. Mönchengladbach
+Werder Bremen  -  VfL Wolfsburg
+Borussia Dortmund  -  Hamburger SV
+FC Augsburg  -  VfB Stuttgart
+Bayer Leverkusen  -  Eintracht Frankfurt
+1. FSV Mainz 05  -  1. FC Köln
+1899 Hoffenheim  -  Hertha BSC
+SV Darmstadt 98  -  FC Ingolstadt 04
+
+31. Spieltag
+[Sa 23.4.]
+Hertha BSC  -  Bayern München
+VfB Stuttgart  -  Borussia Dortmund
+FC Schalke 04  -  Bayer Leverkusen
+VfL Wolfsburg  -  FC Augsburg
+Hamburger SV  -  Werder Bremen
+FC Ingolstadt 04  -  Hannover 96
+Bor. Mönchengladbach  -  1899 Hoffenheim
+Eintracht Frankfurt  -  1. FSV Mainz 05
+1. FC Köln  -  SV Darmstadt 98
+
+32. Spieltag
+[Sa 30.4.]
+Hannover 96  -  FC Schalke 04
+Bayern München  -  Bor. Mönchengladbach
+Borussia Dortmund  -  VfL Wolfsburg
+1. FSV Mainz 05  -  Hamburger SV
+Werder Bremen  -  VfB Stuttgart
+SV Darmstadt 98  -  Eintracht Frankfurt
+FC Augsburg  -  1. FC Köln
+Bayer Leverkusen  -  Hertha BSC
+1899 Hoffenheim  -  FC Ingolstadt 04
+
+33. Spieltag
+[Sa 7.5.]
+  15:30  FC Ingolstadt 04  -  Bayern München
+  15:30  Eintracht Frankfurt  -  Borussia Dortmund
+  15:30  Bor. Mönchengladbach  -  Bayer Leverkusen
+  15:30  Hamburger SV  -  VfL Wolfsburg
+  15:30  FC Schalke 04  -  FC Augsburg
+  15:30  1. FC Köln  -  Werder Bremen
+  15:30  Hannover 96  -  1899 Hoffenheim
+  15:30  VfB Stuttgart  -  1. FSV Mainz 05
+  15:30  Hertha BSC  -  SV Darmstadt 98
+
+34. Spieltag
+[Sa 14.5.]
+  15:30  1899 Hoffenheim  -  FC Schalke 04
+  15:30  SV Darmstadt 98  -  Bor. Mönchengladbach
+  15:30  FC Augsburg  -  Hamburger SV
+  15:30  VfL Wolfsburg  -  VfB Stuttgart
+  15:30  Werder Bremen  -  Eintracht Frankfurt
+  15:30  Borussia Dortmund  -  1. FC Köln
+  15:30  Bayern München  -  Hannover 96
+  15:30  1. FSV Mainz 05  -  Hertha BSC
+  15:30  Bayer Leverkusen  -  FC Ingolstadt 04
+
+

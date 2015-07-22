@@ -118,7 +118,7 @@
 
 
 #######
-# changes (for changes to bundesliga, see teams.txt)
+# changes (for changes to bundesliga, see bundesliga.txt)
 #  in 2014/15:
 #   ++ 1. FC Heidenheim, RB Leipzig, SV Darmstadt 98
 #   -- Dynamo Dresden, Energie Cottbus, Arminia Bielefeld

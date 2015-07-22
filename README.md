@@ -32,7 +32,7 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
 ~~~
 
 ~~~
-### Deutsche Bundesliga 2014/15
+### Deutsche Bundesliga
 
 1. Spieltag
 
@@ -53,7 +53,7 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
 
 ~~~
 ###############################
-# Bayern München 2014/15
+# Bayern München
 
 (1)   Manuel Neuer     GK  2011-
 (22)  Tom Starke       GK  2012-
@@ -93,11 +93,12 @@ from the plain text datasets. [More »](http://openfootball.github.io/build.html
 
 Build the database for all German clubs, leagues and seasons:
 
-    $ rake build DATA=de
+    $ sportdb new de
 
-Build the database for the 2014/15 season:
+Build the database for the 2015/16 season:
 
-    $ rake build DATA=de_2014_15
+    $ sportdb new de_2015_16
+
 
 
 ## Questions? Comments?

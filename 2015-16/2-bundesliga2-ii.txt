@@ -1,0 +1,183 @@
+###############################################
+# Deutsche 2. Bundesliga 2015/16 - Frühjahr
+
+
+20. Spieltag
+[So 7.2.]
+VfL Bochum  -  SC Freiburg
+SV Sandhausen  -  SC Paderborn 07
+RB Leipzig  -  Eintracht Braunschweig
+TSV 1860 München  -  1. FC Nürnberg
+1. FC Kaiserslautern  -  1. FC Union Berlin
+SpVgg Greuther Fürth  -  FC St. Pauli
+Fortuna Düsseldorf  -  1. FC Heidenheim 1846
+Karlsruher SC  -  FSV Frankfurt
+Arminia Bielefeld  -  MSV Duisburg
+
+21. Spieltag
+[So 14.2.]
+MSV Duisburg  -  Karlsruher SC
+SC Paderborn 07  -  1. FC Kaiserslautern
+FC St. Pauli  -  RB Leipzig
+SC Freiburg  -  Fortuna Düsseldorf
+1. FC Nürnberg  -  VfL Bochum
+FSV Frankfurt  -  SpVgg Greuther Fürth
+1. FC Union Berlin  -  TSV 1860 München
+1. FC Heidenheim 1846  -  SV Sandhausen
+Eintracht Braunschweig  -  Arminia Bielefeld
+
+22. Spieltag
+[So 21.2.]
+SV Sandhausen  -  SC Freiburg
+Arminia Bielefeld  -  SC Paderborn 07
+Karlsruher SC  -  Eintracht Braunschweig
+Fortuna Düsseldorf  -  1. FC Nürnberg
+RB Leipzig  -  1. FC Union Berlin
+TSV 1860 München  -  VfL Bochum
+1. FC Kaiserslautern  -  1. FC Heidenheim 1846
+FC St. Pauli  -  FSV Frankfurt
+SpVgg Greuther Fürth  -  MSV Duisburg
+
+23. Spieltag
+[So 28.2.]
+1. FC Union Berlin  -  Karlsruher SC
+SC Freiburg  -  1. FC Kaiserslautern
+SC Paderborn 07  -  RB Leipzig
+TSV 1860 München  -  Fortuna Düsseldorf
+1. FC Nürnberg  -  SpVgg Greuther Fürth
+MSV Duisburg  -  FC St. Pauli
+VfL Bochum  -  SV Sandhausen
+Eintracht Braunschweig  -  FSV Frankfurt
+1. FC Heidenheim 1846  -  Arminia Bielefeld
+
+24. Spieltag
+[Mi 2.3.]
+Arminia Bielefeld  -  SC Freiburg
+Karlsruher SC  -  SC Paderborn 07
+FC St. Pauli  -  Eintracht Braunschweig
+SV Sandhausen  -  1. FC Nürnberg
+SpVgg Greuther Fürth  -  1. FC Union Berlin
+Fortuna Düsseldorf  -  VfL Bochum
+1. FC Kaiserslautern  -  TSV 1860 München
+RB Leipzig  -  1. FC Heidenheim 1846
+FSV Frankfurt  -  MSV Duisburg
+
+25. Spieltag
+[So 6.3.]
+Fortuna Düsseldorf  -  Karlsruher SC
+1. FC Nürnberg  -  1. FC Kaiserslautern
+SC Freiburg  -  RB Leipzig
+SC Paderborn 07  -  SpVgg Greuther Fürth
+1. FC Heidenheim 1846  -  FC St. Pauli
+TSV 1860 München  -  SV Sandhausen
+1. FC Union Berlin  -  FSV Frankfurt
+VfL Bochum  -  Arminia Bielefeld
+Eintracht Braunschweig  -  MSV Duisburg
+
+26. Spieltag
+[So 13.3.]
+FSV Frankfurt  -  SC Freiburg
+FC St. Pauli  -  SC Paderborn 07
+SpVgg Greuther Fürth  -  Eintracht Braunschweig
+Arminia Bielefeld  -  1. FC Nürnberg
+SV Sandhausen  -  Fortuna Düsseldorf
+MSV Duisburg  -  1. FC Union Berlin
+1. FC Kaiserslautern  -  VfL Bochum
+RB Leipzig  -  TSV 1860 München
+Karlsruher SC  -  1. FC Heidenheim 1846
+
+27. Spieltag
+[So 20.3.]
+SC Freiburg  -  Karlsruher SC
+Fortuna Düsseldorf  -  1. FC Kaiserslautern
+1. FC Nürnberg  -  RB Leipzig
+1. FC Union Berlin  -  Eintracht Braunschweig
+VfL Bochum  -  SpVgg Greuther Fürth
+SV Sandhausen  -  FC St. Pauli
+1. FC Heidenheim 1846  -  FSV Frankfurt
+TSV 1860 München  -  Arminia Bielefeld
+SC Paderborn 07  -  MSV Duisburg
+
+28. Spieltag
+[So 3.4.]
+SpVgg Greuther Fürth  -  SC Freiburg
+Eintracht Braunschweig  -  SC Paderborn 07
+FSV Frankfurt  -  1. FC Nürnberg
+Arminia Bielefeld  -  Fortuna Düsseldorf
+FC St. Pauli  -  1. FC Union Berlin
+RB Leipzig  -  VfL Bochum
+Karlsruher SC  -  TSV 1860 München
+MSV Duisburg  -  1. FC Heidenheim 1846
+1. FC Kaiserslautern  -  SV Sandhausen
+
+29. Spieltag
+[So 10.4.]
+1. FC Kaiserslautern  -  Karlsruher SC
+Fortuna Düsseldorf  -  RB Leipzig
+1. FC Heidenheim 1846  -  Eintracht Braunschweig
+SC Paderborn 07  -  1. FC Union Berlin
+TSV 1860 München  -  SpVgg Greuther Fürth
+SC Freiburg  -  FC St. Pauli
+VfL Bochum  -  FSV Frankfurt
+SV Sandhausen  -  Arminia Bielefeld
+1. FC Nürnberg  -  MSV Duisburg
+
+30. Spieltag
+[So 17.4.]
+15.04.2016    Eintracht Braunschweig  -  SC Freiburg
+FSV Frankfurt  -  SC Paderborn 07
+Arminia Bielefeld  -  1. FC Kaiserslautern
+Karlsruher SC  -  1. FC Nürnberg
+SpVgg Greuther Fürth  -  Fortuna Düsseldorf
+FC St. Pauli  -  VfL Bochum
+MSV Duisburg  -  TSV 1860 München
+1. FC Union Berlin  -  1. FC Heidenheim 1846
+RB Leipzig  -  SV Sandhausen
+
+31. Spieltag
+[So 24.4.]
+1. FC Heidenheim 1846  -  SC Paderborn 07
+VfL Bochum  -  Karlsruher SC
+1. FC Kaiserslautern  -  RB Leipzig
+TSV 1860 München  -  Eintracht Braunschweig
+1. FC Nürnberg  -  1. FC Union Berlin
+Arminia Bielefeld  -  SpVgg Greuther Fürth
+Fortuna Düsseldorf  -  FC St. Pauli
+SV Sandhausen  -  FSV Frankfurt
+SC Freiburg  -  MSV Duisburg
+
+32. Spieltag
+[So 1.5.]
+SC Paderborn 07  -  SC Freiburg
+FSV Frankfurt  -  1. FC Kaiserslautern
+Eintracht Braunschweig  -  1. FC Nürnberg
+MSV Duisburg  -  Fortuna Düsseldorf
+1. FC Union Berlin  -  VfL Bochum
+FC St. Pauli  -  TSV 1860 München
+SpVgg Greuther Fürth  -  1. FC Heidenheim 1846
+Karlsruher SC  -  SV Sandhausen
+RB Leipzig  -  Arminia Bielefeld
+
+33. Spieltag
+[So 8.5.]
+  15.30  TSV 1860 München  -  SC Paderborn 07
+  15.30  RB Leipzig  -  Karlsruher SC
+  15.30  VfL Bochum  -  Eintracht Braunschweig
+  15.30  Arminia Bielefeld  -  1. FC Union Berlin
+  15.30  1. FC Kaiserslautern  -  SpVgg Greuther Fürth
+  15.30  1. FC Nürnberg  -  FC St. Pauli
+  15.30  SC Freiburg  -  1. FC Heidenheim 1846
+  15.30  Fortuna Düsseldorf  -  FSV Frankfurt
+  15.30  SV Sandhausen  -  MSV Duisburg
+
+34. Spieltag
+[So 15.5.]
+  15.30  1. FC Union Berlin  -  SC Freiburg
+  15.30  FC St. Pauli  -  1. FC Kaiserslautern
+  15.30  MSV Duisburg  -  RB Leipzig
+  15.30  SC Paderborn 07  -  1. FC Nürnberg
+  15.30  Eintracht Braunschweig  -  Fortuna Düsseldorf
+  15.30  1. FC Heidenheim 1846  -  VfL Bochum
+  15.30  FSV Frankfurt  -  TSV 1860 München
+  15.30  SpVgg Greuther Fürth  -  SV Sandhausen
+  15.30  Karlsruher SC  -  Arminia Bielefeld

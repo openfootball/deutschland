@@ -1,0 +1,219 @@
+###############################
+# Deutsche Bundesliga 2015/16
+
+1. Spieltag
+[Fr 14.8.]
+  20:30  Bayern München  -  Hamburger SV
+[Sa 15.8.]
+  15:30  1. FSV Mainz 05  -  FC Ingolstadt 04
+  15:30  SV Darmstadt 98  -  Hannover 96
+  15:30  Werder Bremen  -  FC Schalke 04
+  15:30  FC Augsburg  -  Hertha BSC
+  15:30  Bayer Leverkusen  -  1899 Hoffenheim
+  18:30  Borussia Dortmund  -  Bor. Mönchengladbach
+[So 16.8.]
+  15:30  VfL Wolfsburg  -  Eintracht Frankfurt
+  17:30  VfB Stuttgart  -  1. FC Köln
+
+2. Spieltag
+[Fr 21.8.]
+  20:30  Hertha BSC  -  Werder Bremen
+[Sa 22.8.]
+  15:30  FC Schalke 04  -  SV Darmstadt 98
+  15:30  Eintracht Frankfurt  -  FC Augsburg
+  15:30  1. FC Köln  -  VfL Wolfsburg
+  15:30  Hannover 96  -  Bayer Leverkusen
+  15:30  1899 Hoffenheim  -  Bayern München
+  18:30  Hamburger SV  -  VfB Stuttgart
+[So 23.8.]
+  15:30  FC Ingolstadt 04  -  Borussia Dortmund
+  17:30  Bor. Mönchengladbach  -  1. FSV Mainz 05
+
+3. Spieltag
+[Fr 28.8.]
+  20:30  VfL Wolfsburg  -  FC Schalke 04
+[Sa 29.8.]
+  15:30  VfB Stuttgart  -  Eintracht Frankfurt
+  15:30  FC Augsburg  -  FC Ingolstadt 04
+  15:30  1. FC Köln  -  Hamburger SV
+  15:30  1. FSV Mainz 05  -  Hannover 96
+  15:30  SV Darmstadt 98  -  1899 Hoffenheim
+  18:30  Bayern München  -  Bayer Leverkusen
+[So 30.8.]
+  15:30  Borussia Dortmund  -  Hertha BSC
+  17:30  Werder Bremen  -  Bor. Mönchengladbach
+
+4. Spieltag
+[Fr 11.9.]
+  20:30  Bor. Mönchengladbach  -  Hamburger SV
+[Sa 12.9.]
+  15:30  Bayern München  -  FC Augsburg
+  15:30  Bayer Leverkusen  -  SV Darmstadt 98
+  15:30  Hannover 96  -  Borussia Dortmund
+  15:30  Hertha BSC  -  VfB Stuttgart
+  15:30  FC Ingolstadt 04  -  VfL Wolfsburg
+  18:30  Eintracht Frankfurt  -  1. FC Köln
+[So 13.9.]
+  15:30  1899 Hoffenheim  -  Werder Bremen
+  17:30  FC Schalke 04  -  1. FSV Mainz 05
+
+5. Spieltag
+[Fr 18.9.]
+  20:30  1. FSV Mainz 05  -  1899 Hoffenheim
+[Sa 19.9.]
+  15:30  VfL Wolfsburg  -  Hertha BSC
+  15:30  Hamburger SV  -  Eintracht Frankfurt
+  15:30  Werder Bremen  -  FC Ingolstadt 04
+  15:30  1. FC Köln  -  Bor. Mönchengladbach
+  15:30  SV Darmstadt 98  -  Bayern München
+[So 20.9.]
+  15:30  VfB Stuttgart  -  FC Schalke 04
+  17:30  Borussia Dortmund  -  Bayer Leverkusen
+  17:30  FC Augsburg  -  Hannover 96
+
+6. Spieltag
+[Di 22.9.]
+  20:00  Bayern München  -  VfL Wolfsburg
+  20:00  Hertha BSC  -  1. FC Köln
+  20:00  FC Ingolstadt 04  -  Hamburger SV
+  20:00  SV Darmstadt 98  -  Werder Bremen
+[Mi 23.9.]
+  20:00  FC Schalke 04  -  Eintracht Frankfurt
+  20:00  Bayer Leverkusen  -  1. FSV Mainz 05
+  20:00  Bor. Mönchengladbach  -  FC Augsburg
+  20:00  Hannover 96  -  VfB Stuttgart
+  20:00  1899 Hoffenheim  -  Borussia Dortmund
+
+7. Spieltag
+[Fr 25.9.]
+  20:30  1. FC Köln  -  FC Ingolstadt 04
+[Sa 26.9.]
+  15:30  VfL Wolfsburg  -  Hannover 96
+  15:30  VfB Stuttgart  -  Bor. Mönchengladbach
+  15:30  FC Augsburg  -  1899 Hoffenheim
+  15:30  Werder Bremen  -  Bayer Leverkusen
+  15:30  1. FSV Mainz 05  -  Bayern München
+  18:30  Hamburger SV  -  FC Schalke 04
+[So 27.9.]
+  15:30  Eintracht Frankfurt  -  Hertha BSC
+  17:30  Borussia Dortmund  -  SV Darmstadt 98
+
+8. Spieltag
+[Sa 3.10.]
+  Bayern München  -  Borussia Dortmund
+  FC Schalke 04  -  1. FC Köln
+  Bayer Leverkusen  -  FC Augsburg
+  Bor. Mönchengladbach  -  VfL Wolfsburg
+  Hannover 96  -  Werder Bremen
+  Hertha BSC  -  Hamburger SV
+  1899 Hoffenheim  -  VfB Stuttgart
+  FC Ingolstadt 04  -  Eintracht Frankfurt
+  SV Darmstadt 98  -  1. FSV Mainz 05
+
+9. Spieltag
+[Sa 17.10.]
+  FC Schalke 04  -  Hertha BSC
+  VfL Wolfsburg  -  1899 Hoffenheim
+  Hamburger SV  -  Bayer Leverkusen
+  VfB Stuttgart  -  FC Ingolstadt 04
+  FC Augsburg  -  SV Darmstadt 98
+  Werder Bremen  -  Bayern München
+  Eintracht Frankfurt  -  Bor. Mönchengladbach
+  1. FC Köln  -  Hannover 96
+  1. FSV Mainz 05  -  Borussia Dortmund
+
+10. Spieltag
+[Sa 24.10.]
+  Bayern München  -  1. FC Köln
+  Borussia Dortmund  -  FC Augsburg
+  Bayer Leverkusen  -  VfB Stuttgart
+  Bor. Mönchengladbach  -  FC Schalke 04
+  Hannover 96  -  Eintracht Frankfurt
+  1899 Hoffenheim  -  Hamburger SV
+  1. FSV Mainz 05  -  Werder Bremen
+  FC Ingolstadt 04  -  Hertha BSC
+  SV Darmstadt 98  -  VfL Wolfsburg
+
+11. Spieltag
+[Sa 31.10.]
+FC Schalke 04  -  FC Ingolstadt 04
+VfL Wolfsburg  -  Bayer Leverkusen
+Hamburger SV  -  Hannover 96
+VfB Stuttgart  -  SV Darmstadt 98
+FC Augsburg  -  1. FSV Mainz 05
+Werder Bremen  -  Borussia Dortmund
+Eintracht Frankfurt  -  Bayern München
+1. FC Köln  -  1899 Hoffenheim
+Hertha BSC  -  Bor. Mönchengladbach
+
+12. Spieltag
+[Sa 7.11.]
+Bayern München  -  VfB Stuttgart
+Borussia Dortmund  -  FC Schalke 04
+Bayer Leverkusen  -  1. FC Köln
+Bor. Mönchengladbach  -  FC Ingolstadt 04
+FC Augsburg  -  Werder Bremen
+Hannover 96  -  Hertha BSC
+1899 Hoffenheim  -  Eintracht Frankfurt
+1. FSV Mainz 05  -  VfL Wolfsburg
+SV Darmstadt 98  -  Hamburger SV
+
+13. Spieltag
+[Sa 21.11.]
+FC Schalke 04  -  Bayern München
+Bor. Mönchengladbach  -  Hannover 96
+VfL Wolfsburg  -  Werder Bremen
+Hamburger SV  -  Borussia Dortmund
+VfB Stuttgart  -  FC Augsburg
+Eintracht Frankfurt  -  Bayer Leverkusen
+1. FC Köln  -  1. FSV Mainz 05
+Hertha BSC  -  1899 Hoffenheim
+FC Ingolstadt 04  -  SV Darmstadt 98
+
+14. Spieltag
+[Sa 28.11.]
+Bayern München  -  Hertha BSC
+Borussia Dortmund  -  VfB Stuttgart
+Bayer Leverkusen  -  FC Schalke 04
+FC Augsburg  -  VfL Wolfsburg
+Werder Bremen  -  Hamburger SV
+Hannover 96  -  FC Ingolstadt 04
+1899 Hoffenheim  -  Bor. Mönchengladbach
+1. FSV Mainz 05  -  Eintracht Frankfurt
+SV Darmstadt 98  -  1. FC Köln
+
+15. Spieltag
+[Sa 5.12.]
+FC Schalke 04  -  Hannover 96
+Bor. Mönchengladbach  -  Bayern München
+VfL Wolfsburg  -  Borussia Dortmund
+Hamburger SV  -  1. FSV Mainz 05
+VfB Stuttgart  -  Werder Bremen
+Eintracht Frankfurt  -  SV Darmstadt 98
+1. FC Köln  -  FC Augsburg
+Hertha BSC  -  Bayer Leverkusen
+FC Ingolstadt 04  -  1899 Hoffenheim
+
+16. Spieltag
+[Sa 12.12.]
+Bayern München  -  FC Ingolstadt 04
+Borussia Dortmund  -  Eintracht Frankfurt
+Bayer Leverkusen  -  Bor. Mönchengladbach
+VfL Wolfsburg  -  Hamburger SV
+FC Augsburg  -  FC Schalke 04
+Werder Bremen  -  1. FC Köln
+1899 Hoffenheim  -  Hannover 96
+1. FSV Mainz 05  -  VfB Stuttgart
+SV Darmstadt 98  -  Hertha BSC
+
+17. Spieltag
+[Sa 19.12.]
+FC Schalke 04  -  1899 Hoffenheim
+Bor. Mönchengladbach  -  SV Darmstadt 98
+Hamburger SV  -  FC Augsburg
+VfB Stuttgart  -  VfL Wolfsburg
+Eintracht Frankfurt  -  Werder Bremen
+1. FC Köln  -  Borussia Dortmund
+Hannover 96  -  Bayern München
+Hertha BSC  -  1. FSV Mainz 05
+FC Ingolstadt 04  -  Bayer Leverkusen

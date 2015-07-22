@@ -1,0 +1,226 @@
+#######################################
+# Deutsche 3. Liga 2015/16  Frühjahr
+
+22. Spieltag
+
+[Sa 23.1.]
+  Stuttgarter Kickers  -  Erzgebirge Aue
+  Rot-Weiß Erfurt  -  Dynamo Dresden
+  1. FSV Mainz 05 II  -  SV Wehen Wiesbaden
+  Hallescher FC  -  1. FC Magdeburg
+  Werder Bremen II  -  Holstein Kiel
+  Chemnitzer FC  -  Energie Cottbus
+  Fortuna Köln  -  Hansa Rostock
+  VfL Osnabrück  -  VfR Aalen
+  VfB Stuttgart II  -  SG Sonnenhof Großaspach
+  Würzburger Kickers  -  Preußen Münster
+
+
+23. Spieltag
+
+[Sa 30.1.]
+  Energie Cottbus  -  Fortuna Köln
+  Holstein Kiel  -  Chemnitzer FC
+  1. FC Magdeburg  -  Werder Bremen II
+  SV Wehen Wiesbaden  -  Hallescher FC
+  Dynamo Dresden  -  1. FSV Mainz 05 II
+  Preußen Münster  -  Rot-Weiß Erfurt
+  SG Sonnenhof Großaspach  -  Würzburger Kickers
+  Erzgebirge Aue  -  VfB Stuttgart II
+  VfR Aalen  -  Stuttgarter Kickers
+  Hansa Rostock  -  VfL Osnabrück
+
+24. Spieltag
+[Sa 6.2.]
+VfR Aalen  -  Erzgebirge Aue
+Hallescher FC  -  Dynamo Dresden
+Werder Bremen II  -  SV Wehen Wiesbaden
+Chemnitzer FC  -  1. FC Magdeburg
+Fortuna Köln  -  Holstein Kiel
+VfL Osnabrück  -  Energie Cottbus
+Stuttgarter Kickers  -  Hansa Rostock
+Würzburger Kickers  -  VfB Stuttgart II
+Rot-Weiß Erfurt  -  SG Sonnenhof Großaspach
+1. FSV Mainz 05 II  -  Preußen Münster
+
+25. Spieltag
+[Sa 13.2.]
+1. FC Magdeburg  -  Fortuna Köln
+SV Wehen Wiesbaden  -  Chemnitzer FC
+Dynamo Dresden  -  Werder Bremen II
+Preußen Münster  -  Hallescher FC
+SG Sonnenhof Großaspach  -  1. FSV Mainz 05 II
+VfB Stuttgart II  -  Rot-Weiß Erfurt
+Erzgebirge Aue  -  Würzburger Kickers
+Hansa Rostock  -  VfR Aalen
+Energie Cottbus  -  Stuttgarter Kickers
+Holstein Kiel  -  VfL Osnabrück
+
+26. Spieltag
+[Sa 20.2.]
+Hansa Rostock  -  Erzgebirge Aue
+Chemnitzer FC  -  Dynamo Dresden
+Fortuna Köln  -  SV Wehen Wiesbaden
+VfL Osnabrück  -  1. FC Magdeburg
+Stuttgarter Kickers  -  Holstein Kiel
+VfR Aalen  -  Energie Cottbus
+Rot-Weiß Erfurt  -  Würzburger Kickers
+1. FSV Mainz 05 II  -  VfB Stuttgart II
+Hallescher FC  -  SG Sonnenhof Großaspach
+Werder Bremen II  -  Preußen Münster
+
+27. Spieltag
+[Sa 27.2.]
+Dynamo Dresden  -  Fortuna Köln
+Preußen Münster  -  Chemnitzer FC
+SG Sonnenhof Großaspach  -  Werder Bremen II
+VfB Stuttgart II  -  Hallescher FC
+Würzburger Kickers  -  1. FSV Mainz 05 II
+Erzgebirge Aue  -  Rot-Weiß Erfurt
+Energie Cottbus  -  Hansa Rostock
+Holstein Kiel  -  VfR Aalen
+1. FC Magdeburg  -  Stuttgarter Kickers
+SV Wehen Wiesbaden  -  VfL Osnabrück
+
+28. Spieltag
+[Mi 2.3.]
+Energie Cottbus  -  Erzgebirge Aue
+VfL Osnabrück  -  Dynamo Dresden
+Stuttgarter Kickers  -  SV Wehen Wiesbaden
+VfR Aalen  -  1. FC Magdeburg
+Hansa Rostock  -  Holstein Kiel
+1. FSV Mainz 05 II  -  Rot-Weiß Erfurt
+Hallescher FC  -  Würzburger Kickers
+Werder Bremen II  -  VfB Stuttgart II
+Chemnitzer FC  -  SG Sonnenhof Großaspach
+Fortuna Köln  -  Preußen Münster
+
+29. Spieltag
+[Sa 5.3.]
+SG Sonnenhof Großaspach  -  Fortuna Köln
+VfB Stuttgart II  -  Chemnitzer FC
+Würzburger Kickers  -  Werder Bremen II
+Rot-Weiß Erfurt  -  Hallescher FC
+Erzgebirge Aue  -  1. FSV Mainz 05 II
+Holstein Kiel  -  Energie Cottbus
+1. FC Magdeburg  -  Hansa Rostock
+SV Wehen Wiesbaden  -  VfR Aalen
+Dynamo Dresden  -  Stuttgarter Kickers
+Preußen Münster  -  VfL Osnabrück
+
+30. Spieltag
+[Sa 12.3.]
+Holstein Kiel  -  Erzgebirge Aue
+VfR Aalen  -  Dynamo Dresden
+Hansa Rostock  -  SV Wehen Wiesbaden
+Energie Cottbus  -  1. FC Magdeburg
+Hallescher FC  -  1. FSV Mainz 05 II
+Werder Bremen II  -  Rot-Weiß Erfurt
+Chemnitzer FC  -  Würzburger Kickers
+Fortuna Köln  -  VfB Stuttgart II
+VfL Osnabrück  -  SG Sonnenhof Großaspach
+Stuttgarter Kickers  -  Preußen Münster
+
+31. Spieltag
+[Sa 19.3.]
+Würzburger Kickers  -  Fortuna Köln
+Rot-Weiß Erfurt  -  Chemnitzer FC
+1. FSV Mainz 05 II  -  Werder Bremen II
+Erzgebirge Aue  -  Hallescher FC
+1. FC Magdeburg  -  Holstein Kiel
+SV Wehen Wiesbaden  -  Energie Cottbus
+Dynamo Dresden  -  Hansa Rostock
+Preußen Münster  -  VfR Aalen
+SG Sonnenhof Großaspach  -  Stuttgarter Kickers
+VfB Stuttgart II  -  VfL Osnabrück
+
+32. Spieltag
+[Sa 2.4.]
+02.04.2016    1. FC Magdeburg  -  Erzgebirge Aue
+Energie Cottbus  -  Dynamo Dresden
+Holstein Kiel  -  SV Wehen Wiesbaden
+Werder Bremen II  -  Hallescher FC
+Chemnitzer FC  -  1. FSV Mainz 05 II
+Fortuna Köln  -  Rot-Weiß Erfurt
+VfL Osnabrück  -  Würzburger Kickers
+Stuttgarter Kickers  -  VfB Stuttgart II
+VfR Aalen  -  SG Sonnenhof Großaspach
+Hansa Rostock  -  Preußen Münster
+
+33. Spieltag
+[Sa 9.4.]
+09.04.2016    1. FSV Mainz 05 II  -  Fortuna Köln
+Hallescher FC  -  Chemnitzer FC
+Erzgebirge Aue  -  Werder Bremen II
+SV Wehen Wiesbaden  -  1. FC Magdeburg
+Dynamo Dresden  -  Holstein Kiel
+Preußen Münster  -  Energie Cottbus
+SG Sonnenhof Großaspach  -  Hansa Rostock
+VfB Stuttgart II  -  VfR Aalen
+Würzburger Kickers  -  Stuttgarter Kickers
+Rot-Weiß Erfurt  -  VfL Osnabrück
+
+34. Spieltag
+[Sa 16.4.]
+SV Wehen Wiesbaden  -  Erzgebirge Aue
+1. FC Magdeburg  -  Dynamo Dresden
+Chemnitzer FC  -  Werder Bremen II
+Fortuna Köln  -  Hallescher FC
+VfL Osnabrück  -  1. FSV Mainz 05 II
+Stuttgarter Kickers  -  Rot-Weiß Erfurt
+VfR Aalen  -  Würzburger Kickers
+Hansa Rostock  -  VfB Stuttgart II
+Energie Cottbus  -  SG Sonnenhof Großaspach
+Holstein Kiel  -  Preußen Münster
+
+35. Spieltag
+[Sa 23.4.]
+Werder Bremen II  -  Fortuna Köln
+Erzgebirge Aue  -  Chemnitzer FC
+Dynamo Dresden  -  SV Wehen Wiesbaden
+Preußen Münster  -  1. FC Magdeburg
+SG Sonnenhof Großaspach  -  Holstein Kiel
+VfB Stuttgart II  -  Energie Cottbus
+Würzburger Kickers  -  Hansa Rostock
+Rot-Weiß Erfurt  -  VfR Aalen
+1. FSV Mainz 05 II  -  Stuttgarter Kickers
+Hallescher FC  -  VfL Osnabrück
+
+36. Spieltag
+[Sa 30.4.]
+29.04.2016    Dynamo Dresden  -  Erzgebirge Aue
+Fortuna Köln  -  Chemnitzer FC
+VfL Osnabrück  -  Werder Bremen II
+Stuttgarter Kickers  -  Hallescher FC
+VfR Aalen  -  1. FSV Mainz 05 II
+Hansa Rostock  -  Rot-Weiß Erfurt
+Energie Cottbus  -  Würzburger Kickers
+Holstein Kiel  -  VfB Stuttgart II
+1. FC Magdeburg  -  SG Sonnenhof Großaspach
+SV Wehen Wiesbaden  -  Preußen Münster
+
+37. Spieltag
+[Sa 7.5.]
+  13.30  Fortuna Köln  -  Erzgebirge Aue
+  13.30  Preußen Münster  -  Dynamo Dresden
+  13.30  SG Sonnenhof Großaspach  -  SV Wehen Wiesbaden
+  13.30  VfB Stuttgart II  -  1. FC Magdeburg
+  13.30  Würzburger Kickers  -  Holstein Kiel
+  13.30  Rot-Weiß Erfurt  -  Energie Cottbus
+  13.30  1. FSV Mainz 05 II  -  Hansa Rostock
+  13.30  Hallescher FC  -  VfR Aalen
+  13.30  Werder Bremen II  -  Stuttgarter Kickers
+  13.30  Chemnitzer FC  -  VfL Osnabrück
+
+38. Spieltag
+[Sa 14.5.]
+  13.30  VfL Osnabrück  -  Fortuna Köln
+  13.30  Stuttgarter Kickers  -  Chemnitzer FC
+  13.30  VfR Aalen  -  Werder Bremen II
+  13.30  Hansa Rostock  -  Hallescher FC
+  13.30  Energie Cottbus  -  1. FSV Mainz 05 II
+  13.30  Holstein Kiel  -  Rot-Weiß Erfurt
+  13.30  1. FC Magdeburg  -  Würzburger Kickers
+  13.30  SV Wehen Wiesbaden  -  VfB Stuttgart II
+  13.30  Dynamo Dresden  -  SG Sonnenhof Großaspach
+  13.30  Erzgebirge Aue  -  Preußen Münster

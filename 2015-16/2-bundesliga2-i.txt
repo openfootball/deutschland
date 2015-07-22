@@ -1,0 +1,260 @@
+#####################################
+# Deutsche 2. Bundesliga 2015/16
+
+
+1. Spieltag
+
+[Fr 24.7.]
+  20.30  MSV Duisburg  -  1. FC Kaiserslautern
+[Sa 25.7.]
+  13.00  SpVgg Greuther Fürth  -  Karlsruher SC
+  15.30  FC St. Pauli  -  Arminia Bielefeld
+  15.30  FSV Frankfurt  -  RB Leipzig
+[So 26.7.]
+  13.30  SC Paderborn 07  -  VfL Bochum
+  15.30  Eintracht Braunschweig  -  SV Sandhausen
+  15.30  1. FC Union Berlin  -  Fortuna Düsseldorf
+  15.30  1. FC Heidenheim 1846  -  TSV 1860 München
+[Mo 27.7.]
+  20.15  SC Freiburg  -  1. FC Nürnberg
+
+
+2. Spieltag
+[Fr 31.7.]
+  18.30  1. FC Nürnberg  -  1. FC Heidenheim 1846
+  18.30  Arminia Bielefeld  -  FSV Frankfurt
+  20.30  1. FC Kaiserslautern  -  Eintracht Braunschweig
+[Sa 1.8.]
+  13.00  VfL Bochum  -  MSV Duisburg
+  15.30  TSV 1860 München  -  SC Freiburg
+[So 2.8.]
+  13.30  Fortuna Düsseldorf  -  SC Paderborn 07
+  15.30  Karlsruher SC  -  FC St. Pauli
+  15.30  SV Sandhausen  -  1. FC Union Berlin
+[Mo 3.8.]
+  20.15  RB Leipzig  -  SpVgg Greuther Fürth
+
+
+3. Spieltag
+[Fr 14.8.]
+  18.30  SC Paderborn 07  -  SV Sandhausen
+  18.30  1. FC Heidenheim 1846  -  Fortuna Düsseldorf
+  18.30  FSV Frankfurt  -  Karlsruher SC
+[Sa 15.8.]
+  13.00  SC Freiburg  -  VfL Bochum
+  13.00  Eintracht Braunschweig  -  RB Leipzig
+[So 16.8.]
+  13.30  1. FC Union Berlin  -  1. FC Kaiserslautern
+  13.30  FC St. Pauli  -  SpVgg Greuther Fürth
+  13.30  MSV Duisburg  -  Arminia Bielefeld
+[Mo 17.8.]
+  17.08.2015  20.15  1. FC Nürnberg  -  TSV 1860 München
+
+
+4. Spieltag
+[Fr 21.8.]
+  18.30  SpVgg Greuther Fürth  -  FSV Frankfurt
+  18.30  SV Sandhausen  -  1. FC Heidenheim 1846
+  18.30  Arminia Bielefeld  -  Eintracht Braunschweig
+[Sa 22.8.]
+  13.00  Karlsruher SC  -  MSV Duisburg
+  13.00  Fortuna Düsseldorf  -  SC Freiburg
+[So 23.8.]
+  13.30  RB Leipzig  -  FC St. Pauli
+  13.30  VfL Bochum  -  1. FC Nürnberg
+  13.30  TSV 1860 München  -  1. FC Union Berlin
+[Mo 24.8.]
+  20.15  1. FC Kaiserslautern  -  SC Paderborn 07
+
+5. Spieltag
+[Fr 28.8.]
+  18.30  SC Freiburg  -  SV Sandhausen
+  18.30  1. FC Union Berlin  -  RB Leipzig
+  18.30  1. FC Heidenheim 1846  -  1. FC Kaiserslautern
+[Sa 29.8.]
+  13.00  SC Paderborn 07  -  Arminia Bielefeld
+  13.00  MSV Duisburg  -  SpVgg Greuther Fürth
+[So 30.8.]
+  13.30  Eintracht Braunschweig  -  Karlsruher SC
+  13.30  1. FC Nürnberg  -  Fortuna Düsseldorf
+  13.30  FSV Frankfurt  -  FC St. Pauli
+[Mo 31.8.]
+  20.15  VfL Bochum  -  TSV 1860 München
+
+6. Spieltag
+[Fr 11.9.]
+  18.30  1. FC Kaiserslautern  -  SC Freiburg
+  18.30  RB Leipzig  -  SC Paderborn 07
+  18.30  SV Sandhausen  -  VfL Bochum
+[Sa 12.9.]
+  13.00  Karlsruher SC  -  1. FC Union Berlin
+  13.00  Arminia Bielefeld  -  1. FC Heidenheim 1846
+[So 13.9.]
+  13.30  Fortuna Düsseldorf  -  TSV 1860 München
+  13.30  SpVgg Greuther Fürth  -  1. FC Nürnberg
+  13.30  FSV Frankfurt  -  Eintracht Braunschweig
+[Mo 14.9.]
+  20.15  FC St. Pauli  -  MSV Duisburg
+
+7. Spieltag
+[Fr 18.9.]
+  18.30  SC Freiburg  -  Arminia Bielefeld
+  18.30  VfL Bochum  -  Fortuna Düsseldorf
+  18.30  1. FC Heidenheim 1846  -  RB Leipzig
+[Sa 19.9.]
+  13.00  SC Paderborn 07  -  Karlsruher SC
+  13.00  1. FC Nürnberg  -  SV Sandhausen
+  13.00  TSV 1860 München  -  1. FC Kaiserslautern
+[So 20.9.]
+  13.30  Eintracht Braunschweig  -  FC St. Pauli
+  13.30  1. FC Union Berlin  -  SpVgg Greuther Fürth
+  13.30  MSV Duisburg  -  FSV Frankfurt
+
+8. Spieltag
+[Di 22.9.]
+  17.30  Karlsruher SC  -  Fortuna Düsseldorf
+  17.30  1. FC Kaiserslautern  -  1. FC Nürnberg
+  17.30  SV Sandhausen  -  TSV 1860 München
+  17.30  Arminia Bielefeld  -  VfL Bochum
+[Mi 23.9.]
+  17.30  SpVgg Greuther Fürth  -  SC Paderborn 07
+  17.30  FC St. Pauli  -  1. FC Heidenheim 1846
+  17.30  FSV Frankfurt  -  1. FC Union Berlin
+  17.30  MSV Duisburg  -  Eintracht Braunschweig
+[Do 24.9.]
+  20.15  RB Leipzig  -  SC Freiburg
+
+9. Spieltag
+[Fr 25.9.]
+  18.30  1. FC Nürnberg  -  Arminia Bielefeld
+  18.30  Fortuna Düsseldorf  -  SV Sandhausen
+  18.30  VfL Bochum  -  1. FC Kaiserslautern
+[Sa 26.9.]
+  13.00  SC Paderborn 07  -  FC St. Pauli
+  13.00  1. FC Union Berlin  -  MSV Duisburg
+[So 27.9.]
+  13.30  SC Freiburg  -  FSV Frankfurt
+  13.30  TSV 1860 München  -  RB Leipzig
+  13.30  1. FC Heidenheim 1846  -  Karlsruher SC
+[Mo 28.9.]
+  20.15  Eintracht Braunschweig  -  SpVgg Greuther Fürth
+
+10. Spieltag
+[So 4.10.]
+Karlsruher SC  -  SC Freiburg
+1. FC Kaiserslautern  -  Fortuna Düsseldorf
+RB Leipzig  -  1. FC Nürnberg
+Eintracht Braunschweig  -  1. FC Union Berlin
+SpVgg Greuther Fürth  -  VfL Bochum
+FC St. Pauli  -  SV Sandhausen
+FSV Frankfurt  -  1. FC Heidenheim 1846
+Arminia Bielefeld  -  TSV 1860 München
+MSV Duisburg  -  SC Paderborn 07
+
+11. Spieltag
+[So 18.10.]
+SC Freiburg  -  SpVgg Greuther Fürth
+SC Paderborn 07  -  Eintracht Braunschweig
+1. FC Nürnberg  -  FSV Frankfurt
+Fortuna Düsseldorf  -  Arminia Bielefeld
+1. FC Union Berlin  -  FC St. Pauli
+VfL Bochum  -  RB Leipzig
+TSV 1860 München  -  Karlsruher SC
+1. FC Heidenheim 1846  -  MSV Duisburg
+SV Sandhausen  -  1. FC Kaiserslautern
+
+12. Spieltag
+[So 25.10.]
+Karlsruher SC  -  1. FC Kaiserslautern
+RB Leipzig  -  Fortuna Düsseldorf
+Eintracht Braunschweig  -  1. FC Heidenheim 1846
+1. FC Union Berlin  -  SC Paderborn 07
+SpVgg Greuther Fürth  -  TSV 1860 München
+FC St. Pauli  -  SC Freiburg
+FSV Frankfurt  -  VfL Bochum
+Arminia Bielefeld  -  SV Sandhausen
+MSV Duisburg  -  1. FC Nürnberg
+
+13. Spieltag
+[So 1.11.]
+SC Freiburg  -  Eintracht Braunschweig
+SC Paderborn 07  -  FSV Frankfurt
+1. FC Kaiserslautern  -  Arminia Bielefeld
+1. FC Nürnberg  -  Karlsruher SC
+Fortuna Düsseldorf  -  SpVgg Greuther Fürth
+VfL Bochum  -  FC St. Pauli
+TSV 1860 München  -  MSV Duisburg
+1. FC Heidenheim 1846  -  1. FC Union Berlin
+SV Sandhausen  -  RB Leipzig
+
+14. Spieltag
+[So 8.11.]
+SC Paderborn 07  -  1. FC Heidenheim 1846
+Karlsruher SC  -  VfL Bochum
+RB Leipzig  -  1. FC Kaiserslautern
+Eintracht Braunschweig  -  TSV 1860 München
+1. FC Union Berlin  -  1. FC Nürnberg
+SpVgg Greuther Fürth  -  Arminia Bielefeld
+FC St. Pauli  -  Fortuna Düsseldorf
+FSV Frankfurt  -  SV Sandhausen
+MSV Duisburg  -  SC Freiburg
+
+15. Spieltag
+[So 22.11.]
+SC Freiburg  -  SC Paderborn 07
+1. FC Kaiserslautern  -  FSV Frankfurt
+1. FC Nürnberg  -  Eintracht Braunschweig
+Fortuna Düsseldorf  -  MSV Duisburg
+VfL Bochum  -  1. FC Union Berlin
+TSV 1860 München  -  FC St. Pauli
+1. FC Heidenheim 1846  -  SpVgg Greuther Fürth
+SV Sandhausen  -  Karlsruher SC
+Arminia Bielefeld  -  RB Leipzig
+
+16. Spieltag
+[So 29.11.]
+SC Paderborn 07  -  TSV 1860 München
+Karlsruher SC  -  RB Leipzig
+Eintracht Braunschweig  -  VfL Bochum
+1. FC Union Berlin  -  Arminia Bielefeld
+SpVgg Greuther Fürth  -  1. FC Kaiserslautern
+FC St. Pauli  -  1. FC Nürnberg
+1. FC Heidenheim 1846  -  SC Freiburg
+FSV Frankfurt  -  Fortuna Düsseldorf
+MSV Duisburg  -  SV Sandhausen
+
+17. Spieltag
+[So 6.12.]
+SC Freiburg  -  1. FC Union Berlin
+1. FC Kaiserslautern  -  FC St. Pauli
+RB Leipzig  -  MSV Duisburg
+1. FC Nürnberg  -  SC Paderborn 07
+Fortuna Düsseldorf  -  Eintracht Braunschweig
+VfL Bochum  -  1. FC Heidenheim 1846
+TSV 1860 München  -  FSV Frankfurt
+SV Sandhausen  -  SpVgg Greuther Fürth
+Arminia Bielefeld  -  Karlsruher SC
+
+18. Spieltag
+[So 13.12.]
+1. FC Kaiserslautern  -  MSV Duisburg
+1. FC Nürnberg  -  SC Freiburg
+VfL Bochum  -  SC Paderborn 07
+SV Sandhausen  -  Eintracht Braunschweig
+Fortuna Düsseldorf  -  1. FC Union Berlin
+Karlsruher SC  -  SpVgg Greuther Fürth
+Arminia Bielefeld  -  FC St. Pauli
+TSV 1860 München  -  1. FC Heidenheim 1846
+RB Leipzig  -  FSV Frankfurt
+
+19. Spieltag
+[So 20.12.]
+FC St. Pauli  -  Karlsruher SC
+Eintracht Braunschweig  -  1. FC Kaiserslautern
+SpVgg Greuther Fürth  -  RB Leipzig
+1. FC Heidenheim 1846  -  1. FC Nürnberg
+SC Paderborn 07  -  Fortuna Düsseldorf
+MSV Duisburg  -  VfL Bochum
+SC Freiburg  -  TSV 1860 München
+1. FC Union Berlin  -  SV Sandhausen
+FSV Frankfurt  -  Arminia Bielefeld

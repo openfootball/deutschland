@@ -1,6 +1,12 @@
 ##############################
 #   Baden-Württemberg (bw)
 
+[aalen]
+  VfR Aalen|Aalen, 1921, AAL
+  Stadionweg 5/1 // 73430 Aalen
+  www.vfr-aalen.de
+  de.wikipedia: VfR_Aalen
+
 
 stuttkick, Stutt. Kick.|Stuttgarter Kickers
 

@@ -1,6 +1,12 @@
 #######################
 #   Sachsen (sn)
 
+[aue]
+  Erzgebirge Aue|Aue|FC Erzgebirge Aue, 1949, AUE
+  Lößnitzer Straße 95 // 08280 Aue
+  www.fc-erzgebirge.de
+  de.wikipedia: FC_Erzgebirge_Aue
+
 
 dresden,    Dynamo Dresden|Dresden|SG Dynamo Dresden,        SGD, 1953, www.dynamo-dresden.de,  Lennéstraße 12 // 01069 Dresden,  city:dresden
 chemnitz,   Chemnitz|Chemnitzer FC

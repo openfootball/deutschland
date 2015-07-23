@@ -1,0 +1,34 @@
+################################
+# Deutsche Bundesliga 2015/16
+
+league: de
+season: 2015/16
+start_at: 2015-08-14
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+fixtures:
+- 1-bundesliga-i
+- 1-bundesliga-ii
+
+
+18 Teams:
+- Bayern München
+- VfL Wolfsburg
+- Bor. Mönchengladbach
+- Bayer Leverkusen
+- FC Augsburg
+- FC Schalke 04
+- Borussia Dortmund
+- 1899 Hoffenheim
+- Eintracht Frankfurt
+- Werder Bremen
+- 1. FSV Mainz 05
+- 1. FC Köln
+- Hannover 96
+- VfB Stuttgart
+- Hertha BSC
+- Hamburger SV
+- FC Ingolstadt 04    ## Aufsteiger
+- SV Darmstadt 98     ## Aufsteiger
+

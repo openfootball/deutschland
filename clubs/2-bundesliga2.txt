@@ -1,11 +1,22 @@
 ###################################
-# Deutsche 2. Bundesliga 2014/15
+# Deutsche 2. Bundesliga 2015/16
 #
 #  18 Teams
 
 
 # three letter codes from bundesliga.de/de/liga2
 
+[paderborn]
+  SC Paderborn 07|Paderborn,  1907, SCP
+  Paderborner Str. 89 // 33104 Paderborn
+  www.scpaderborn07.de
+  de.wikipedia: SC_Paderborn_07
+
+[freiburg]
+  SC Freiburg, 1904, SCF
+  Schwarzwaldstr. 193 // 79117 Freiburg
+  www.scfreiburg.com
+  de.wikipedia: SC_Freiburg
 
 [braunschweig]
   Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig, 1895, EBS
@@ -55,17 +66,6 @@
   www.fc-union-berlin.de
   de.wikipedia: 1._FC_Union_Berlin
 
-[aalen]
-  VfR Aalen|Aalen, 1921, AAL
-  Stadionweg 5/1 // 73430 Aalen
-  www.vfr-aalen.de
-  de.wikipedia: VfR_Aalen
-
-[aue]
-  Erzgebirge Aue|Aue|FC Erzgebirge Aue, 1949, AUE
-  Lößnitzer Straße 95 // 08280 Aue
-  www.fc-erzgebirge.de
-  de.wikipedia: FC_Erzgebirge_Aue
 
 [bochum]
   VfL Bochum|Bochum|VfL Bochum 1848, 1938, BOC
@@ -79,11 +79,6 @@
   www.fcstpauli.com
   de.wikipedia: FC_St._Pauli
 
-[ingolstadt]
-  FC Ingolstadt 04|Ingolstadt, 2004,  FCI 
-  Am Sportpark 1 // 85053 Ingolstadt
-  www.fcingolstadt.de
-  de.wikipedia: FC_Ingolstadt_04
 
 [sandhausen]
   SV Sandhausen|Sandhausen|SV Sandhausen 1916, 1916,  SAN
@@ -110,15 +105,21 @@
   www.dierotenbullen.com
   de.wikipedia: RB_Leipzig
 
-[darmstadt]
-  Darmstadt|SV Darmstadt 98, 1898, D98
-  // Darmstadt
-  www.sv98.de
-  de.wikipedia: SV_Darmstadt_98
+[duisburg]
+ MSV Duisburg|Duisburg, MSV
+ // Duisburg    
+
+[bielefeld]
+  Bielefeld|Arminia Bielefeld|DSC Arminia Bielefeld, DSC,  1905
+  Melanchthonstraße 31a // 33615 Bielefeld
+  www.arminia-bielefeld.de
 
 
 #######
 # changes (for changes to bundesliga, see bundesliga.txt)
+#  in 2015/16:
+#   ++ MSV Duisburg, Arminia Bielefeld
+#   -- FC Erzgebirge Aue, VfR Aalen
 #  in 2014/15:
 #   ++ 1. FC Heidenheim, RB Leipzig, SV Darmstadt 98
 #   -- Dynamo Dresden, Energie Cottbus, Arminia Bielefeld

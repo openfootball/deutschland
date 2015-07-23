@@ -9,33 +9,36 @@ de-deutschland!/leagues
 
 # - Clubs
 
-de-deutschland!/clubs
-de-deutschland!/clubs_2
-de-deutschland!/clubs_bb_brandenburg
-de-deutschland!/clubs_be_berlin
-de-deutschland!/clubs_bw_baden_wuerttemberg
-de-deutschland!/clubs_by_bayern
-de-deutschland!/clubs_hb_bremen
-de-deutschland!/clubs_he_hessen
-de-deutschland!/clubs_hh_hamburg
-de-deutschland!/clubs_mv_mecklenburg_vorpommern
-de-deutschland!/clubs_ni_niedersachsen
-de-deutschland!/clubs_nw_nordrhein_westfalen
-de-deutschland!/clubs_rp_rheinland_pfalz
-de-deutschland!/clubs_sh_schleswig_holstein
-de-deutschland!/clubs_sl_saarland
-de-deutschland!/clubs_sn_sachsen
-de-deutschland!/clubs_st_sachsen_anhalt
-de-deutschland!/clubs_th_thueringen
+de-deutschland!/clubs/1-bundesliga
+de-deutschland!/clubs/2-liga2
+de-deutschland!/clubs/bb_brandenburg
+de-deutschland!/clubs/be_berlin
+de-deutschland!/clubs/bw_baden_wuerttemberg
+de-deutschland!/clubs/by_bayern
+de-deutschland!/clubs/hb_bremen
+de-deutschland!/clubs/he_hessen
+de-deutschland!/clubs/hh_hamburg
+de-deutschland!/clubs/mv_mecklenburg_vorpommern
+de-deutschland!/clubs/ni_niedersachsen
+de-deutschland!/clubs/nw_nordrhein_westfalen
+de-deutschland!/clubs/rp_rheinland_pfalz
+de-deutschland!/clubs/sh_schleswig_holstein
+de-deutschland!/clubs/sl_saarland
+de-deutschland!/clubs/sn_sachsen
+de-deutschland!/clubs/st_sachsen_anhalt
+de-deutschland!/clubs/th_thueringen
 
 
 # - Fixtures
 
-# 2012/13
-de-deutschland!/2012-13/1-bundesliga
-de-deutschland!/2012-13/2-bundesliga2
-de-deutschland!/2012-13/3-liga3
-de-deutschland!/2012-13/cup
+# 2015/16
+de-deutschland!/2015-16/1-bundesliga
+de-deutschland!/2015-16/2-bundesliga2
+de-deutschland!/2015-16/3-liga3
+
+# 2014/15
+de-deutschland!/2014-15/1-bundesliga
+de-deutschland!/2014-15/2-bundesliga2
 
 # 2013/14
 de-deutschland!/2013-14/1-bundesliga
@@ -43,6 +46,8 @@ de-deutschland!/2013-14/2-bundesliga2
 de-deutschland!/2013-14/3-liga3
 de-deutschland!/2013-14/cup
 
-# 2014/15
-de-deutschland!/2014-15/1-bundesliga
-de-deutschland!/2014-15/2-bundesliga2
+# 2012/13
+de-deutschland!/2012-13/1-bundesliga
+de-deutschland!/2012-13/2-bundesliga2
+de-deutschland!/2012-13/3-liga3
+de-deutschland!/2012-13/cup

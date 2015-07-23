@@ -1,6 +1,6 @@
 ############
 # Clubs
 
-de-deutschland!/clubs
-de-deutschland!/clubs_2
+de-deutschland!/clubs/1-bundesliga
+de-deutschland!/clubs/2-bundesliga2
 

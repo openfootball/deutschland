@@ -1,5 +1,5 @@
 ###############################
-# Deutsche Bundesliga 2014/15
+# Deutsche Bundesliga 2015/16
 #
 #  18 teams
 
@@ -33,11 +33,6 @@
   www.schalke04.de
   de.wikipedia: FC_Schalke_04
 
-[freiburg]
-  SC Freiburg, 1904, SCF
-  Schwarzwaldstr. 193 // 79117 Freiburg
-  www.scfreiburg.com
-  de.wikipedia: SC_Freiburg
 
 [frankfurt]
   Eintracht Frankfurt|E. Frankfurt,  1899,  FFM
@@ -115,15 +110,25 @@
   www.fc-koeln.de
   de.wikipedia: 1._FC_Köln
 
-[paderborn]
-  SC Paderborn 07|Paderborn,  1907, SCP
-  Paderborner Str. 89 // 33104 Paderborn
-  www.scpaderborn07.de
-  de.wikipedia: SC_Paderborn_07
+
+[ingolstadt]
+  FC Ingolstadt 04|Ingolstadt, 2004,  FCI 
+  Am Sportpark 1 // 85053 Ingolstadt
+  www.fcingolstadt.de
+  de.wikipedia: FC_Ingolstadt_04
+  
+[darmstadt]
+  Darmstadt|SV Darmstadt 98, 1898, D98
+  // Darmstadt
+  www.sv98.de
+  de.wikipedia: SV_Darmstadt_98
 
 
 #####
 # note:
+#   changes in 2015/16:
+#     ++  FC Ingolstadt 04, SV Darmstadt 98
+#     -- SC Freiburg, SC Paderborn 07
 #   changes in 2014/15:
 #     ++  1. FC Köln, SC Paderborn 07
 #     --  1. FC Nürnberg, Eintracht Braunschweig

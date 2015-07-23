@@ -10,7 +10,7 @@ de-deutschland!/leagues
 # - Clubs
 
 de-deutschland!/clubs/1-bundesliga
-de-deutschland!/clubs/2-liga2
+de-deutschland!/clubs/2-bundesliga2
 de-deutschland!/clubs/bb_brandenburg
 de-deutschland!/clubs/be_berlin
 de-deutschland!/clubs/bw_baden_wuerttemberg

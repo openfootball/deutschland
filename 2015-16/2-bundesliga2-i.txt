@@ -44,9 +44,9 @@
   13.00  SC Freiburg             1-3  VfL Bochum
   13.00  Eintracht Braunschweig  0-2  RB Leipzig
 [So 16.8.]
-  13.30  1. FC Union Berlin  -  1. FC Kaiserslautern
-  13.30  FC St. Pauli  -  SpVgg Greuther Fürth
-  13.30  MSV Duisburg  -  Arminia Bielefeld
+  13.30  1. FC Union Berlin      2-2  1. FC Kaiserslautern
+  13.30  FC St. Pauli            3-2  SpVgg Greuther Fürth
+  13.30  MSV Duisburg            2-2  Arminia Bielefeld
 [Mo 17.8.]
   17.08.2015  20.15  1. FC Nürnberg  -  TSV 1860 München
 

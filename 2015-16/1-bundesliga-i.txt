@@ -3,14 +3,14 @@
 
 1. Spieltag
 [Fr 14.8.]
-  20:30  Bayern München    5-0  Hamburger SV
+  20:30  Bayern München      5-0  Hamburger SV
 [Sa 15.8.]
-  15:30  1. FSV Mainz 05  -  FC Ingolstadt 04
-  15:30  SV Darmstadt 98  -  Hannover 96
-  15:30  Werder Bremen  -  FC Schalke 04
-  15:30  FC Augsburg  -  Hertha BSC
-  15:30  Bayer Leverkusen  -  1899 Hoffenheim
-  18:30  Borussia Dortmund  -  Bor. Mönchengladbach
+  15:30  1. FSV Mainz 05     0-1  FC Ingolstadt 04
+  15:30  SV Darmstadt 98     2-2  Hannover 96
+  15:30  Werder Bremen       0-3  FC Schalke 04
+  15:30  FC Augsburg         0-1  Hertha BSC
+  15:30  Bayer Leverkusen    2-1  1899 Hoffenheim
+  18:30  Borussia Dortmund   4-0  Bor. Mönchengladbach
 [So 16.8.]
   15:30  VfL Wolfsburg  -  Eintracht Frankfurt
   17:30  VfB Stuttgart  -  1. FC Köln

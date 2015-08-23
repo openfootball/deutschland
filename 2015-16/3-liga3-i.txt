@@ -56,15 +56,15 @@
   19.00  Fortuna Köln            3-0  Energie Cottbus
   19.00  Werder Bremen II        1-1  1. FC Magdeburg
 [Sa 22.8.]
-  14.00  Chemnitzer FC  -  Holstein Kiel
-  14.00  Hallescher FC  -  SV Wehen Wiesbaden
-  14.00  Rot-Weiß Erfurt  -  Preußen Münster
-  14.00  Würzburger Kickers  -  SG Sonnenhof Großaspach
-  14.00  VfB Stuttgart II  -  Erzgebirge Aue
-  14.00  VfL Osnabrück  -  Hansa Rostock
+  14.00  Chemnitzer FC           4-2  Holstein Kiel
+  14.00  Hallescher FC           3-0  SV Wehen Wiesbaden
+  14.00  Rot-Weiß Erfurt         1-1  Preußen Münster
+  14.00  Würzburger Kickers      0-1  SG Sonnenhof Großaspach
+  14.00  VfB Stuttgart II        1-2  Erzgebirge Aue
+  14.00  VfL Osnabrück           0-1  Hansa Rostock
 [So 23.8.]
-  14.00  1. FSV Mainz 05 II  -  Dynamo Dresden
-  14.00  Stuttgarter Kickers  -  VfR Aalen
+  14.00  1. FSV Mainz 05 II      1-1  Dynamo Dresden
+  14.00  Stuttgarter Kickers     0-0  VfR Aalen
 
 5. Spieltag
 [Di 25.8.]

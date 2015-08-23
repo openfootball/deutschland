@@ -53,16 +53,16 @@
 
 4. Spieltag
 [Fr 21.8.]
-  18.30  SpVgg Greuther Fürth   0-2  FSV Frankfurt
-  18.30  SV Sandhausen          0-0  1. FC Heidenheim 1846
-  18.30  Arminia Bielefeld      0-2  Eintracht Braunschweig
+  18.30  SpVgg Greuther Fürth    0-2  FSV Frankfurt
+  18.30  SV Sandhausen           0-0  1. FC Heidenheim 1846
+  18.30  Arminia Bielefeld       0-2  Eintracht Braunschweig
 [Sa 22.8.]
-  13.00  Karlsruher SC  -  MSV Duisburg
-  13.00  Fortuna Düsseldorf  -  SC Freiburg
+  13.00  Karlsruher SC           2-0  MSV Duisburg
+  13.00  Fortuna Düsseldorf      1-2  SC Freiburg
 [So 23.8.]
-  13.30  RB Leipzig  -  FC St. Pauli
-  13.30  VfL Bochum  -  1. FC Nürnberg
-  13.30  TSV 1860 München  -  1. FC Union Berlin
+  13.30  RB Leipzig              0-1  FC St. Pauli
+  13.30  VfL Bochum              2-1  1. FC Nürnberg
+  13.30  TSV 1860 München        0-0  1. FC Union Berlin
 [Mo 24.8.]
   20.15  1. FC Kaiserslautern  -  SC Paderborn 07
 

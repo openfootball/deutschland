@@ -4,81 +4,81 @@
 1. Spieltag
 
 [Fr 24.7.]
-  20.30  1. FC Magdeburg         2-1  Rot-Weiß Erfurt
+  20.30  1. FC Magdeburg          2-1  Rot-Weiß Erfurt
 [Sa 25.7.]
-  14.00  Erzgebirge Aue          0-0  VfL Osnabrück
-  14.00  Dynamo Dresden          4-1  VfB Stuttgart II
-  14.00  SV Wehen Wiesbaden      0-0  Würzburger Kickers
-  14.00  Holstein Kiel           0-4  1. FSV Mainz 05 II
-  14.00  Hansa Rostock           1-2  Werder Bremen II
-  14.00  VfR Aalen               0-0  Chemnitzer FC
-  14.00  Stuttgarter Kickers     2-1  Fortuna Köln
-  14.00  Preußen Münster         1-1  SG Sonnenhof Großaspach
+  14.00  Erzgebirge Aue           0-0  VfL Osnabrück
+  14.00  Dynamo Dresden           4-1  VfB Stuttgart II
+  14.00  SV Wehen Wiesbaden       0-0  Würzburger Kickers
+  14.00  Holstein Kiel            0-4  1. FSV Mainz 05 II
+  14.00  Hansa Rostock            1-2  Werder Bremen II
+  14.00  VfR Aalen                0-0  Chemnitzer FC
+  14.00  Stuttgarter Kickers      2-1  Fortuna Köln
+  14.00  Preußen Münster          1-1  SG Sonnenhof Großaspach
 [So 26.7.]
-  14.00  Energie Cottbus         2-0  Hallescher FC
+  14.00  Energie Cottbus          2-0  Hallescher FC
 
 
 2. Spieltag
 
 [Fr 31.7.]
-  19.00  1. FSV Mainz 05 II      2-2  1. FC Magdeburg
-  19.00  VfB Stuttgart II        1-3  Preußen Münster
+  19.00  1. FSV Mainz 05 II       2-2  1. FC Magdeburg
+  19.00  VfB Stuttgart II         1-3  Preußen Münster
 [Sa 1.8.]
-  14.00  Fortuna Köln            1-1  VfR Aalen
-  14.00  Chemnitzer FC           1-1  Hansa Rostock
-  14.00  Werder Bremen II        0-2  Energie Cottbus
-  14.00  Rot-Weiß Erfurt         0-0  SV Wehen Wiesbaden
-  14.00  Würzburger Kickers      1-1  Dynamo Dresden
-  14.00  VfL Osnabrück           1-1  Stuttgarter Kickers
+  14.00  Fortuna Köln             1-1  VfR Aalen
+  14.00  Chemnitzer FC            1-1  Hansa Rostock
+  14.00  Werder Bremen II         0-2  Energie Cottbus
+  14.00  Rot-Weiß Erfurt          0-0  SV Wehen Wiesbaden
+  14.00  Würzburger Kickers       1-1  Dynamo Dresden
+  14.00  VfL Osnabrück            1-1  Stuttgarter Kickers
 [So 2.8.]
-  14.00  Hallescher FC           0-2  Holstein Kiel
-  14.00  SG Sonnenhof Großaspach 2-0  Erzgebirge Aue
+  14.00  Hallescher FC            0-2  Holstein Kiel
+  14.00  SG Sonnenhof Großaspach  2-0  Erzgebirge Aue
 
 3. Spieltag
 
 [Do 13.8.]
-  20.30  Dynamo Dresden          3-1  Rot-Weiß Erfurt
+  20.30  Dynamo Dresden           3-1  Rot-Weiß Erfurt
 [Fr 14.8.]
-  19.00  VfR Aalen               1-0  VfL Osnabrück
+  19.00  VfR Aalen                1-0  VfL Osnabrück
 [Sa 15.8.]
-  14.00  Erzgebirge Aue          2-0  Stuttgarter Kickers
-  14.00  SV Wehen Wiesbaden      1-1  1. FSV Mainz 05 II
-  14.00  Holstein Kiel           3-0  Werder Bremen II
-  14.00  Energie Cottbus         0-1  Chemnitzer FC
-  14.00  Hansa Rostock           4-2  Fortuna Köln
-  14.00  SG Sonnenhof Großaspach 1-3  VfB Stuttgart II
-  14.00  Preußen Münster         0-0  Würzburger Kickers
+  14.00  Erzgebirge Aue           2-0  Stuttgarter Kickers
+  14.00  SV Wehen Wiesbaden       1-1  1. FSV Mainz 05 II
+  14.00  Holstein Kiel            3-0  Werder Bremen II
+  14.00  Energie Cottbus          0-1  Chemnitzer FC
+  14.00  Hansa Rostock            4-2  Fortuna Köln
+  14.00  SG Sonnenhof Großaspach  1-3  VfB Stuttgart II
+  14.00  Preußen Münster          0-0  Würzburger Kickers
 [So 16.8.]
-  14.00  1. FC Magdeburg         2-1  Hallescher FC
+  14.00  1. FC Magdeburg          2-1  Hallescher FC
 
 4. Spieltag
 [Fr 21.8.]
-  19.00  Fortuna Köln            3-0  Energie Cottbus
-  19.00  Werder Bremen II        1-1  1. FC Magdeburg
+  19.00  Fortuna Köln             3-0  Energie Cottbus
+  19.00  Werder Bremen II         1-1  1. FC Magdeburg
 [Sa 22.8.]
-  14.00  Chemnitzer FC           4-2  Holstein Kiel
-  14.00  Hallescher FC           3-0  SV Wehen Wiesbaden
-  14.00  Rot-Weiß Erfurt         1-1  Preußen Münster
-  14.00  Würzburger Kickers      0-1  SG Sonnenhof Großaspach
-  14.00  VfB Stuttgart II        1-2  Erzgebirge Aue
-  14.00  VfL Osnabrück           0-1  Hansa Rostock
+  14.00  Chemnitzer FC            4-2  Holstein Kiel
+  14.00  Hallescher FC            3-0  SV Wehen Wiesbaden
+  14.00  Rot-Weiß Erfurt          1-1  Preußen Münster
+  14.00  Würzburger Kickers       0-1  SG Sonnenhof Großaspach
+  14.00  VfB Stuttgart II         1-2  Erzgebirge Aue
+  14.00  VfL Osnabrück            0-1  Hansa Rostock
 [So 23.8.]
-  14.00  1. FSV Mainz 05 II      1-1  Dynamo Dresden
-  14.00  Stuttgarter Kickers     0-0  VfR Aalen
+  14.00  1. FSV Mainz 05 II       1-1  Dynamo Dresden
+  14.00  Stuttgarter Kickers      0-0  VfR Aalen
 
 5. Spieltag
 [Di 25.8.]
-  19.00  SV Wehen Wiesbaden      3-1  Werder Bremen II
-  19.00  Holstein Kiel           2-2  Fortuna Köln
-  19.00  Energie Cottbus         1-2  VfL Osnabrück
-  19.00  VfB Stuttgart II        0-2  Würzburger Kickers
-  20.30  1. FC Magdeburg         2-0  Chemnitzer FC
+  19.00  SV Wehen Wiesbaden       3-1  Werder Bremen II
+  19.00  Holstein Kiel            2-2  Fortuna Köln
+  19.00  Energie Cottbus          1-2  VfL Osnabrück
+  19.00  VfB Stuttgart II         0-2  Würzburger Kickers
+  20.30  1. FC Magdeburg          2-0  Chemnitzer FC
 [Mi 26.8.]
-  18.30  SG Sonnenhof Großaspach 2-2  Rot-Weiß Erfurt
-  19.00  Erzgebirge Aue          1-0  VfR Aalen
-  19.00  Hansa Rostock           0-1  Stuttgarter Kickers
-  19.00  Preußen Münster         0-1  1. FSV Mainz 05 II
-  20.30  Dynamo Dresden          3-2  Hallescher FC
+  18.30  SG Sonnenhof Großaspach  2-2  Rot-Weiß Erfurt
+  19.00  Erzgebirge Aue           1-0  VfR Aalen
+  19.00  Hansa Rostock            0-1  Stuttgarter Kickers
+  19.00  Preußen Münster          0-1  1. FSV Mainz 05 II
+  20.30  Dynamo Dresden           3-2  Hallescher FC
 
 6. Spieltag
 [Fr 28.8.]

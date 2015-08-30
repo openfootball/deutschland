@@ -33,12 +33,12 @@
 [Fr 28.8.]
   20:30  VfL Wolfsburg         3-0  FC Schalke 04
 [Sa 29.8.]
-  15:30  VfB Stuttgart  -  Eintracht Frankfurt
-  15:30  FC Augsburg  -  FC Ingolstadt 04
-  15:30  1. FC Köln  -  Hamburger SV
-  15:30  1. FSV Mainz 05  -  Hannover 96
-  15:30  SV Darmstadt 98  -  1899 Hoffenheim
-  18:30  Bayern München  -  Bayer Leverkusen
+  15:30  VfB Stuttgart         1-4  Eintracht Frankfurt
+  15:30  FC Augsburg           0-1  FC Ingolstadt 04
+  15:30  1. FC Köln            2-1  Hamburger SV
+  15:30  1. FSV Mainz 05       3-0  Hannover 96
+  15:30  SV Darmstadt 98       0-0  1899 Hoffenheim
+  18:30  Bayern München        3-0  Bayer Leverkusen
 [So 30.8.]
   15:30  Borussia Dortmund  -  Hertha BSC
   17:30  Werder Bremen  -  Bor. Mönchengladbach

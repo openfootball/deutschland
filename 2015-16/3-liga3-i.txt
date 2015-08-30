@@ -84,13 +84,13 @@
 [Fr 28.8.]
   19.00  Fortuna Köln             2-1  1. FC Magdeburg
 [Sa 29.8.]
-  14.00  Chemnitzer FC  -  SV Wehen Wiesbaden
-  14.00  Werder Bremen II  -  Dynamo Dresden
-  14.00  Hallescher FC  -  Preußen Münster
-  14.00  Rot-Weiß Erfurt  -  VfB Stuttgart II
-  14.00  Würzburger Kickers  -  Erzgebirge Aue
-  14.00  Stuttgarter Kickers  -  Energie Cottbus
-  14.00  VfL Osnabrück  -  Holstein Kiel
+  14.00  Chemnitzer FC            1-0  SV Wehen Wiesbaden
+  14.00  Werder Bremen II         1-2  Dynamo Dresden
+  14.00  Hallescher FC            1-3  Preußen Münster
+  14.00  Rot-Weiß Erfurt          3-0  VfB Stuttgart II
+  14.00  Würzburger Kickers       1-0  Erzgebirge Aue
+  14.00  Stuttgarter Kickers      0-0  Energie Cottbus
+  14.00  VfL Osnabrück            3-2  Holstein Kiel
 [So 30.8.]
   14.00  1. FSV Mainz 05 II  -  SG Sonnenhof Großaspach
   14.00  VfR Aalen  -  Hansa Rostock

@@ -62,7 +62,7 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
 13  Rafinha (BRA)         DF  2011-
 17  Jérôme Boateng        DF  2011-
 18  Juan Bernat (ESP)     DF  2014-
-21(c) Philipp Lahm        DF  1995-
+21 (c) Philipp Lahm       DF  1995-
 26  Diego Contento (ITA)  DF  1995-
 27  David Alaba (AUT)     DF  2008-
 28  Holger Badstuber      DF  2002-

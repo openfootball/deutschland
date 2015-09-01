@@ -1,0 +1,36 @@
+###########################
+#  FC Schalke 04
+
+
+ 1  Fährmann, Ralf                     GK  2011-       # 27.09.1988
+30  Gspurning, Michael (AUT)           GK  2015-       # 02.05.1981
+34  Giefer, Fabian                     GK  2014-       # 17.05.1990
+35  Nübel, Alexander                   GK  2015-       # 30.09.1996
+
+ 2  Friedrich, Marvin                  DF  2011-       # 13.12.1995
+ 3  Junior Caicara (BRA)               DF  2015-       # 27.04.1989
+ 4  Höwedes, Benedikt                  DF  2001-       # 29.02.1988
+ 6  Kolasinac, Sead (BIH)              DF  2011-       # 20.06.1993
+15  Aogo, Dennis                       DF  2013-       # 14.01.1987
+20  Kehrer, Thilo                      DF  2012-       # 21.09.1996
+22  Uchida, Atsuto (JPN)               DF  2010-       # 27.03.1988
+24  Ayhan, Kaan (TUR)                  DF  1999-       # 10.11.1994
+27  Riether, Sascha                    DF  2015-       # 23.03.1983
+28  Felipe Santana (BRA)               DF  2015-       # 17.03.1986
+31  Nastasic, Matija (SRB)             DF  2015-       # 28.03.1993
+32  Matip, Joel (CMR)                  DF  2000-       # 08.08.1991
+
+    Boateng, Kevin-Prince (GHA)        MF  2013-       # 06.03.1987
+ 5  Geis, Johannes                     MF  2015-       # 17.08.1993
+ 7  Meyer, Max                         MF  2009-       # 18.09.1995
+ 8  Goretzka, Leon                     MF  2013-       # 06.02.1995
+12  Höger, Marco                       MF  2011-       # 16.09.1989
+23  Höjbjerg, Pierre-Emile (DEN)       MF  2015-       # 05.08.1995
+33  Neustädter, Roman                  MF  2012-       # 18.02.1988
+
+ 9  di Santo, Franco (ARG)             FW  2015-       # 07.04.1989
+13  Choupo-Moting, Eric Maxim (CMR)    FW  2014-       # 23.03.1989
+18  Sam, Sidney                        FW  2014-       # 31.01.1988
+19  Sané, Leroy                        FW  2011-       # 11.01.1996
+25  Huntelaar, Klaas Jan (NED)         FW  2010-       # 12.08.1983
+36  Platte, Felix                      FW  2012-       # 11.02.1996

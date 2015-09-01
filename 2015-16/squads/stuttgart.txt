@@ -1,0 +1,34 @@
+###########################
+#  VfB Stuttgart
+
+
+ 1  Langerak, Mitchell (AUS)           GK  2015-       # 22.08.1988
+17  Vlachodimos, Odisseas              GK  2002-       # 26.04.1994
+22  Tyton, Przemyslaw (POL)            GK  2015-       # 04.01.1987
+
+ 2  Insua, Emiliano (ARG)              DF  2015-       # 07.01.1989
+ 3  Schwaab, Daniel                    DF  2013-       # 23.08.1988
+ 4  Sunjic, Toni (BIH)                 DF  2015-       # 15.12.1988
+ 5  Baumgartl, Timo                    DF  2011-       # 04.03.1996
+ 6  Niedermeier, Georg                 DF  2009-       # 26.02.1986
+14  Heise, Philip                      DF  2015-       # 20.06.1991
+16  Klein, Florian (AUT)               DF  2014-       # 17.11.1986
+21  Hlousek, Adam (CZE)                DF  2014-       # 20.12.1988
+
+ 8  Rupp, Lukas                        MF  2015-       # 08.01.1991
+10  Didavi, Daniel                     MF  2012-       # 21.02.1990
+11  Gruezo, Carlos (ECU)               MF  2014-       # 19.04.1995
+18  Kostic, Filip (SRB)                MF  2014-       # 01.11.1992
+20  Gentner, Christian                 MF  2010-       # 14.08.1985
+26  Serey Dié (CIV)                    MF  2015-       # 07.11.1984
+27  Ristl, Mart                        MF  2010-       # 07.07.1996
+28  Wanitzek, Marvin                   MF  2013-       # 07.05.1993
+31  Ferati, Arianit                    MF  2011-       # 07.09.1997
+44  Maxim, Alexandru (ROM)             MF  2013-       # 08.07.1990
+
+ 7  Harnik, Martin (AUT)               FW  2010-       # 10.06.1987
+ 9  Kruse, Robbie (AUS)                FW  2015-       # 05.10.1988
+19  Werner, Timo                       FW  2002-       # 06.03.1996
+33  Ginczek, Daniel                    FW  2014-       # 13.04.1991
+39  Kliment, Jan (CZE)                 FW  2015-       # 01.09.1993
+42  Kiesewetter, Jerome (USA)          FW  2014-       # 09.02.1993

@@ -1,0 +1,35 @@
+###########################
+#  Bayern München
+
+
+ 1  Neuer, Manuel                      GK  2011-       # 27.03.1986
+22  Starke, Tom                        GK  2012-       # 18.03.1981
+26  Ulreich, Sven                      GK  2015-       # 03.08.1988
+
+ 5  Benatia, Medhi (MAR)               DF  2014-       # 17.04.1987
+ 8  Javi Martinez (ESP)                DF  2012-       # 02.09.1988
+13  Rafinha (BRA)                      DF  2011-       # 07.09.1985
+15  Kirchhoff, Jan                     DF  2015-       # 01.10.1990
+17  Boateng, Jerome                    DF  2011-       # 03.09.1988
+18  Juan Bernat (ESP)                  DF  2014-       # 01.03.1993
+27  Alaba, David (AUT)                 DF  2011-       # 24.06.1992
+28  Badstuber, Holger                  DF  2002-       # 13.03.1989
+
+ 6  Thiago (ESP)                       MF  2013-       # 11.04.1991
+ 7  Ribery, Franck (FRA)               MF  2007-       # 07.04.1983
+10  Robben, Arjen (NED)                MF  2009-       # 23.01.1984
+11  Douglas Costa (BRA)                MF  2015-       # 14.09.1990
+14  Xabi Alonso (ESP)                  MF  2014-       # 25.11.1981
+16  Gaudino, Gianluca                  MF  2004-       # 11.11.1996
+19  Götze, Mario                       MF  2013-       # 03.06.1992
+20  Rode, Sebastian                    MF  2014-       # 11.10.1990
+21  Lahm, Philipp                      MF  2005-       # 11.11.1983
+23  Vidal, Arturo (CHI)                MF  2015-       # 22.05.1987
+25  Müller, Thomas                     MF  2000-       # 13.09.1989
+29  Coman, Kingsley (FRA)              MF  2015-       # 13.06.1996
+32  Kimmich, Joshua                    MF  2015-       # 08.02.1995
+37  Green, Julian (USA)                MF  2015-       # 06.06.1995
+
+    Weihrauch, Patrick                 FW  2010-       # 03.03.1994
+ 9  Lewandowski, Robert (POL)          FW  2014-       # 21.08.1988
+24  Kurt, Sinan                        FW  2014-       # 23.07.1996

@@ -1,0 +1,35 @@
+###########################
+#  SV Darmstadt 98
+
+
+    Zaluska, Lukasz (POL)              GK  2015-       # 16.06.1982
+ 1  Platins, Patrick                   GK  2014-       # 19.04.1983
+31  Mathenia, Christian                GK  2014-       # 31.03.1992
+
+ 3  Stegmayer, Michael                 DF  2012-       # 12.01.1985
+ 4  Sulu, Aytac (TUR)                  DF  2013-       # 11.12.1985
+ 5  Gorka, Benjamin                    DF  2012-       # 15.04.1984
+13  Garics, György (AUT)               DF  2015-       # 08.03.1984
+15  Junior Diaz (CRC)                  DF  2015-       # 12.09.1983
+17  Sirigu, Sandro                     DF  2013-       # 07.10.1988
+32  Holland, Fabian                    DF  2014-       # 11.07.1990
+33  Caldirola, Luca (ITA)              DF  2015-       # 01.02.1991
+39  Wembacher, Noel                    DF  2011-       # 15.03.1997
+
+ 6  Vrancic, Mario (BIH)               MF  2015-       # 23.05.1989
+ 8  Gondorf, Jerome                    MF  2013-       # 26.06.1988
+10  Rosenthal, Jan                     MF  2015-       # 07.04.1986
+11  Kempe, Tobias                      MF  2014-       # 27.06.1989
+18  Niemeyer, Peter                    MF  2015-       # 22.11.1983
+20  Heller, Marcel                     MF  2013-       # 12.02.1986
+23  Jungwirth, Florian                 MF  2014-       # 27.01.1989
+25  Stark, Yannick                     MF  2015-       # 28.10.1990
+27  Ivana, Milan (SVK)                 MF  2013-       # 26.11.1983
+34  Rausch, Konstantin                 MF  2015-       # 15.03.1990
+36  Finger, Jan                        MF  2012-       # 02.01.1997
+37  Kazimi, Ali                        MF  2010-       # 30.06.1997
+38  Volk, Nick                         MF  2011-       # 12.11.1997
+
+ 7  Sailer, Marco                      FW  2013-       # 16.11.1985
+ 9  Stroh-Engel, Dominik               FW  2013-       # 27.11.1985
+14  Wagner, Sandro                     FW  2015-       # 29.11.1987

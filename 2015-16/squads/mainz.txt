@@ -1,0 +1,35 @@
+###########################
+#  1. FSV Mainz 05
+
+
+ 1  Karius, Loris                      GK  2011-       # 22.06.1993
+23  Curci, Gianluca (ITA)              GK  2015-       # 12.07.1985
+33  Huth, Jannik                       GK  2007-       # 15.04.1994
+
+ 2  Jara, Gonzalo (CHI)                DF  2014-       # 29.08.1985
+ 3  Balogun, Leon (NGA)                DF  2015-       # 28.06.1988
+ 5  Sereno, Henrique (POR)             DF  2015-       # 18.05.1985
+ 7  Bengtsson, Pierre (SWE)            DF  2014-       # 12.04.1988
+16  Bell, Stefan                       DF  2007-       # 24.08.1991
+18  Brosinski, Daniel                  DF  2014-       # 17.07.1988
+24  Bussmann, Gaetan (FRA)             DF  2015-       # 02.02.1991
+26  Bungert, Niko                      DF  2008-       # 24.10.1986
+
+    Serdar, Suat                       MF  2008-       # 11.04.1997
+ 6  Latza, Danny                       MF  2015-       # 07.12.1989
+ 8  Moritz, Christoph                  MF  2013-       # 27.01.1990
+10  Malli, Yunus                       MF  2011-       # 24.02.1992
+11  Beister, Maximilian                MF  2015-       # 06.09.1990
+14  Baumgartlinger, Julian (AUT)       MF  2011-       # 02.01.1988
+17  Jairo (ESP)                        MF  2014-       # 11.07.1993
+19  Soto, Elkin (COL)                  MF  2007-       # 04.08.1980
+20  Frei, Fabian (SUI)                 MF  2015-       # 08.01.1989
+25  Zimling, Niki (DEN)                MF  2015-       # 19.04.1985
+27  Clemens, Christian                 MF  2015-       # 04.08.1991
+28  Nedelev, Todor (BUL)               MF  2014-       # 07.02.1993
+29  Parker, Devante                    MF  2006-       # 16.03.1996
+
+ 9  Muto, Yoshinori (JPN)              FW  2015-       # 15.07.1992
+15  Cordoba, Jhon (COL)                FW  2015-       # 11.05.1993
+31  Niederlechner, Florian             FW  2015-       # 24.10.1990
+32  De Blasis, Pablo (ARG)             FW  2014-       # 04.02.1988

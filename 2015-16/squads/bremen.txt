@@ -1,0 +1,37 @@
+###########################
+#  Werder Bremen
+
+
+ 1  Wolf, Raphael                      GK  2012-       # 06.06.1988
+30  Zetterer, Michael                  GK  2015-       # 12.07.1995
+40  Husic, Raif                        GK  2014-       # 05.02.1996
+42  Wiedwald, Felix                    GK  2015-       # 15.03.1990
+
+ 2  Garcia, Santiago (ARG)             DF  2013-       # 08.07.1988
+ 4  Galvez, Alejandro (ESP)            DF  2014-       # 06.06.1989
+ 5  Lukimya, Assani (COD)              DF  2012-       # 25.01.1986
+ 7  Vestergaard, Jannik (DEN)          DF  2015-       # 03.08.1992
+15  Pavlovic, Mateo (CRO)              DF  2015-       # 09.06.1990
+19  Zander, Luca-Milan                 DF  2006-       # 09.08.1995
+20  Garcia, Ulisses (SUI)              DF  2015-       # 11.01.1996
+23  Gebre Selassie, Theodor (CZE)      DF  2012-       # 24.12.1986
+25  Hüsing, Oliver                     DF  2015-       # 17.02.1993
+37  Sternberg, Janek                   DF  2013-       # 19.10.1992
+38  Busch, Marnon                      DF  2007-       # 08.12.1994
+
+ 8  Fritz, Clemens                     MF  2006-       # 07.12.1980
+10  Aycicek, Levent                    MF  2008-       # 12.02.1994
+11  Öztunali, Levin                    MF  2015-       # 15.03.1996
+16  Junuzovic, Zlatko (AUT)            MF  2012-       # 26.09.1987
+17  Yildirim, Özkan                    MF  2003-       # 10.04.1993
+18  Kroos, Felix                       MF  2010-       # 12.03.1991
+22  Bartels, Fin                       MF  2014-       # 07.02.1987
+26  von Haacke, Julian                 MF  2006-       # 14.02.1994
+27  Grillitsch, Florian (AUT)          MF  2013-       # 07.08.1995
+35  Eggestein, Maximilian              MF  2011-       # 08.12.1996
+39  Fröde, Lukas                       MF  2009-       # 23.01.1995
+44  Bargfrede, Philipp                 MF  2004-       # 03.03.1989
+
+ 9  Johannsson, Aron (USA)             FW  2015-       # 10.11.1990
+21  Ujah, Anthony (NGA)                FW  2015-       # 14.10.1990
+28  Lorenzen, Melvyn                   FW  2013-       # 26.11.1994

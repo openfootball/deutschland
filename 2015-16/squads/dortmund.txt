@@ -1,0 +1,32 @@
+###########################
+#  Borussia Dortmund
+
+
+ 1  Weidenfeller, Roman                GK  2002-       # 06.08.1980
+38  Bürki, Roman (SUI)                 GK  2015-       # 14.11.1990
+39  Bonmann, Hendrik                   GK  2013-       # 22.01.1994
+
+ 3  Park, Joo-Ho (KOR)                 DF  2015-       # 16.01.1987
+ 4  Subotic, Neven (SRB)               DF  2008-       # 10.12.1988
+15  Hummels, Mats                      DF  2008-       # 16.12.1988
+25  Sokratis (GRE)                     DF  2013-       # 09.06.1988
+26  Piszczek, Lukasz (POL)             DF  2010-       # 03.06.1985
+28  Ginter, Matthias                   DF  2014-       # 19.01.1994
+29  Schmelzer, Marcel                  DF  2005-       # 22.01.1988
+37  Durm, Erik                         DF  2012-       # 12.05.1992
+
+ 6  Bender, Sven                       MF  2009-       # 27.04.1989
+ 7  Hofmann, Jonas                     MF  2015-       # 14.07.1992
+ 8  Gündogan, Ilkay                    MF  2011-       # 24.10.1990
+ 9  Januzaj, Adnan (BEL)               MF  2015-       # 05.02.1995
+10  Mkhitaryan, Henrikh (ARM)          MF  2013-       # 21.01.1989
+11  Reus, Marco                        MF  2012-       # 31.05.1989
+14  Leitner, Moritz                    MF  2015-       # 08.12.1992
+18  Sahin, Nuri (TUR)                  MF  2013-       # 05.09.1988
+19  Großkreutz, Kevin                  MF  2009-       # 19.07.1988
+23  Kagawa, Shinji (JPN)               MF  2014-       # 17.03.1989
+27  Castro, Gonzalo                    MF  2015-       # 11.06.1987
+33  Weigl, Julian                      MF  2015-       # 08.09.1995
+
+17  Aubameyang, Pierre-Emerick (GAB)   FW  2013-       # 18.06.1989
+20  Ramos, Adrian (COL)                FW  2014-       # 22.01.1986

@@ -1,0 +1,39 @@
+###########################
+#  Hannover 96
+
+
+ 1  Zieler, Ron-Robert                 GK  2010-       # 12.02.1989
+13  Tschauner, Philipp                 GK  2015-       # 03.11.1985
+30  Radlinger, Samuel (AUT)            GK  2015-       # 07.11.1992
+40  Königsmann, Timo                   GK  2007-       # 05.04.1997
+
+ 3  Albornoz, Miiko (CHI)              DF  2014-       # 30.11.1990
+ 4  Sakai, Hiroki (JPN)                DF  2012-       # 12.04.1990
+15  Hoffmann, Andre                    DF  2013-       # 28.02.1993
+19  Schulz, Christian                  DF  2007-       # 01.04.1983
+20  Felipe (BRA)                       DF  2012-       # 15.05.1987
+25  Marcelo (BRA)                      DF  2013-       # 20.05.1987
+27  Rankovic, Vladimir                 DF  2015-       # 27.06.1993
+29  Sorg, Oliver                       DF  2015-       # 29.05.1990
+31  Anton, Waldemar                    DF  2007-       # 20.07.1996
+37  Teichgräber, Niklas                DF  2007-       # 07.02.1996
+
+ 2  Andreasen, Leon (DEN)              MF  2009-       # 23.04.1983
+ 5  Sané, Salif (SEN)                  MF  2013-       # 25.08.1990
+ 6  Gülselam, Ceyhun (TUR)             MF  2014-       # 25.12.1987
+ 7  Prib, Edgar                        MF  2013-       # 15.12.1989
+ 8  Schmiedebach, Manuel               MF  2008-       # 05.12.1988
+10  Kiyotake, Hiroshi (JPN)            MF  2014-       # 12.11.1989
+11  Klaus, Felix                       MF  2015-       # 13.09.1992
+17  Bech, Uffe (DEN)                   MF  2015-       # 13.01.1993
+23  Hirsch, Maurice                    MF  2014-       # 30.05.1993
+33  Bähre, Mike-Steven                 MF  2009-       # 10.08.1995
+34  Dierßen, Tim                       MF  2007-       # 15.01.1996
+36  Ernst, Sebastian                   MF  2006-       # 04.03.1995
+38  Sulejmani, Valmir (ALB)            MF  2015-       # 01.02.1996
+
+ 9  Sobiech, Artur (POL)               FW  2011-       # 12.06.1990
+14  Saint-Maximin, Allan (FRA)         FW  2015-       # 12.03.1997
+26  Karaman, Kenan (TUR)               FW  2014-       # 05.03.1994
+35  Benschop, Charlison (NED)          FW  2015-       # 21.08.1989
+39  Erdinc, Mevlüt (TUR)               FW  2015-       # 25.02.1987

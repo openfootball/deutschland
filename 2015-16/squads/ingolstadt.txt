@@ -1,0 +1,33 @@
+###########################
+#  FC Ingolstadt 04
+
+
+ 1  Özcan, Ramazan (AUT)               GK  2011-       # 28.06.1984
+26  Nyland, Örjan (NOR)                GK  2015-       # 10.09.1990
+39  Ortag, Christian                   GK  2013-       # 14.01.1995
+
+ 5  Hübner, Benjamin                   DF  2014-       # 04.07.1989
+15  Danilo (BRA)                       DF  2013-       # 29.10.1991
+18  Bregerie, Romain (FRA)             DF  2015-       # 09.08.1986
+20  Engel, Konstantin (KAZ)            DF  2013-       # 27.07.1988
+21  da Costa, Danny                    DF  2012-       # 13.07.1993
+28  Levels, Tobias                     DF  2014-       # 22.11.1986
+29  Suttner, Markus (AUT)              DF  2015-       # 16.04.1987
+34  Matip, Marvin (CMR)                DF  2010-       # 25.09.1985
+
+    Multhaup, Maurice                  MF  2015-       # 15.12.1996
+ 6  Morales, Alfredo (USA)             MF  2013-       # 12.05.1990
+ 8  Roger (BRA)                        MF  2012-       # 10.08.1985
+10  Groß, Pascal                       MF  2012-       # 15.06.1991
+14  Lex, Stefan                        MF  2014-       # 27.11.1989
+19  Christiansen, Max                  MF  2015-       # 25.09.1996
+22  Wannenwetsch, Stefan               MF  2014-       # 19.01.1992
+23  Bauer, Robert                      MF  2014-       # 09.04.1995
+30  Pledl, Thomas                      MF  2015-       # 23.05.1994
+36  Cohen, Almog (ISR)                 MF  2013-       # 01.09.1988
+
+ 7  Leckie, Mathew (AUS)               FW  2014-       # 04.02.1991
+ 9  Hartmann, Moritz                   FW  2009-       # 20.06.1986
+11  Pekhart, Tomas (CZE)               FW  2014-       # 26.05.1989
+16  Hinterseer, Lukas (AUT)            FW  2014-       # 28.03.1991
+25  Kachunga, Elias                    FW  2015-       # 22.04.1992

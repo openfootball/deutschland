@@ -1,0 +1,32 @@
+###############################
+# VfB Stuttgart 15/16
+# shirt number - name - position - playing since - born - country
+
+
+(42)	Kiesewetter, Jerome           	FW	2014	09.02.1993	USA
+(14)	Heise, Philip                 	DF	2015	20.06.1991	GER
+(44)	Maxim, Alexandru              	MF	2013	08.07.1990	ROU
+(16)	Klein, Florian                	DF	2014	17.11.1986	AUT
+(18)	Kostic, Filip                 	MF	2014	01.11.1992	SRB
+(39)	Kliment, Jan                  	FW	2015	01.09.1993	CZE
+(3)	Schwaab, Daniel               	DF	2013	23.08.1988	GER
+(5)	Baumgartl, Timo               	DF	2011	04.03.1996	GER
+(4)	Sunjic, Toni                  	DF	2015	15.12.1988	BIH
+(2)	Insua, Emiliano               	DF	2015	07.01.1989	ARG
+(28)	Wanitzek, Marvin              	MF	2013	07.05.1993	GER
+(33)	Ginczek, Daniel               	FW	2014	13.04.1991	GER
+(7)	Harnik, Martin                	FW	2010	10.06.1987	AUT
+(10)	Didavi, Daniel                	MF	2012	21.02.1990	GER
+(17)	Vlachodimos, Odisseas         	GK	2002	26.04.1994	GER
+(20)	Gentner, Christian            	MF	2010	14.08.1985	GER
+(19)	Werner, Timo                  	FW	2002	06.03.1996	GER
+(22)	Tyton, Przemyslaw             	GK	2015	04.01.1987	POL
+(9)	Kruse, Robbie                 	FW	2015	05.10.1988	AUS
+(1)	Langerak, Mitchell            	GK	2015	22.08.1988	AUS
+(6)	Niedermeier, Georg            	DF	2009	26.02.1986	GER
+(31)	Ferati, Arianit               	MF	2011	07.09.1997	GER
+(26)	Serey Dié                     	MF	2015	07.11.1984	CIV
+(21)	Hlousek, Adam                 	DF	2014	20.12.1988	CZE
+(11)	Gruezo, Carlos                	MF	2014	19.04.1995	ECU
+(27)	Ristl, Mart                   	MF	2010	07.07.1996	GER
+(8)	Rupp, Lukas                   	MF	2015	08.01.1991	GER

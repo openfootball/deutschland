@@ -1,0 +1,31 @@
+###############################
+# FC Ingolstadt 04 15/16
+# shirt number - name - position - playing since - born - country
+
+
+(16)	Hinterseer, Lukas             	FW	2014	28.03.1991	AUT
+(19)	Christiansen, Max             	MF	2015	25.09.1996	GER
+(11)	Pekhart, Tomas                	FW	2014	26.05.1989	CZE
+(30)	Pledl, Thomas                 	MF	2015	23.05.1994	GER
+(5)	Hübner, Benjamin              	DF	2014	04.07.1989	GER
+(36)	Cohen, Almog                  	MF	2013	01.09.1988	ISR
+(39)	Ortag, Christian              	GK	2013	14.01.1995	GER
+(23)	Bauer, Robert                 	MF	2014	09.04.1995	GER
+(34)	Matip, Marvin                 	DF	2010	25.09.1985	CMR
+(20)	Engel, Konstantin             	DF	2013	27.07.1988	KAZ
+(14)	Lex, Stefan                   	MF	2014	27.11.1989	GER
+(xx)	Multhaup, Maurice             	MF	2015	15.12.1996	GER
+(26)	Nyland, Örjan                 	GK	2015	10.09.1990	NOR
+(7)	Leckie, Mathew                	FW	2014	04.02.1991	AUS
+(29)	Suttner, Markus               	DF	2015	16.04.1987	AUT
+(10)	Groß, Pascal                  	MF	2012	15.06.1991	GER
+(6)	Morales, Alfredo              	MF	2013	12.05.1990	USA
+(15)	Danilo                        	DF	2013	29.10.1991	BRA
+(21)	da Costa, Danny               	DF	2012	13.07.1993	GER
+(25)	Kachunga, Elias               	FW	2015	22.04.1992	GER
+(8)	Roger                         	MF	2012	10.08.1985	BRA
+(1)	Özcan, Ramazan                	GK	2011	28.06.1984	AUT
+(18)	Bregerie, Romain              	DF	2015	09.08.1986	FRA
+(28)	Levels, Tobias                	DF	2014	22.11.1986	GER
+(9)	Hartmann, Moritz              	FW	2009	20.06.1986	GER
+(22)	Wannenwetsch, Stefan          	MF	2014	19.01.1992	GER

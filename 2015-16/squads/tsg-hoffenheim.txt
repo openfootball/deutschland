@@ -1,0 +1,34 @@
+###############################
+# TSG Hoffenheim 15/16
+# shirt number - name - position - playing since - born - country
+
+
+(12)	Strobl, Tobias                	DF	2013	12.05.1990	GER
+(19)	Uth, Mark                     	FW	2015	24.08.1991	GER
+(21)	Rapp, Nicolai                 	DF	2006	13.12.1996	GER
+(18)	Amiri, Nadiem                 	MF	2012	27.10.1996	GER
+(13)	Grahl, Jens                   	GK	2012	22.09.1988	GER
+(16)	Schwegler, Pirmin             	MF	2014	09.03.1987	SUI
+(8)	Polanski, Eugen               	MF	2013	17.03.1986	POL
+(4)	Bicakcic, Ermin               	DF	2014	24.01.1990	BIH
+(17)	Zuber, Steven                 	MF	2014	17.08.1991	SUI
+(3)	Kaderabek, Pavel              	DF	2015	25.04.1992	CZE
+(30)	Ochs, Philipp                 	FW	2011	17.04.1997	GER
+(6)	Rudy, Sebastian               	MF	2010	28.02.1990	GER
+(33)	Stolz, Alexander              	GK	2013	13.10.1983	GER
+(20)	Kim, Jin-Su                   	DF	2014	13.06.1992	KOR
+(38)	Herdling, Kai                 	MF	2012	27.06.1984	GER
+(9)	Vargas, Eduardo               	MF	2015	20.11.1989	CHI
+(22)	Kuranyi, Kevin                	FW	2015	02.03.1982	GER
+(xx)	Malbasic, Filip               	MF	2015	18.11.1992	SRB
+(40)	Joelinton                     	FW	2015	14.08.1996	BRA
+(10)	Schmid, Jonathan              	MF	2015	22.06.1990	FRA
+(11)	Hamad, Jiloan                 	MF	2015	06.11.1990	SWE
+(31)	Volland, Kevin                	FW	2012	30.07.1992	GER
+(1)	Baumann, Oliver               	GK	2014	02.06.1990	GER
+(28)	Szalai, Adam                  	FW	2014	09.12.1987	HUN
+(32)	Gimber, Benedikt              	DF	2009	19.02.1997	GER
+(14)	Elyounoussi, Tarik            	MF	2013	23.02.1988	NOR
+(5)	Schär, Fabian                 	DF	2015	20.12.1991	SUI
+(25)	Süle, Niklas                  	DF	2010	03.09.1995	GER
+(15)	Toljan, Jeremy                	DF	2011	08.08.1994	GER

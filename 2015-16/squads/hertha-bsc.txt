@@ -1,0 +1,33 @@
+###############################
+# Hertha BSC 15/16
+# shirt number - name - position - playing since - born - country
+
+
+(24)	Haraguchi, Genki              	MF	2014	09.05.1991	JPN
+(22)	Jarstein, Rune                	GK	2014	29.09.1984	NOR
+(21)	Plattenhardt, Marvin          	DF	2014	26.01.1992	GER
+(19)	Ibisevic, Vedad               	FW	2015	06.08.1984	BIH
+(35)	Gersbeck, Marius              	GK	2004	20.06.1995	GER
+(3)	Skjelbred, Per Ciljan         	MF	2014	16.06.1987	NOR
+(28)	Lustenberger, Fabian          	MF	2007	02.05.1988	SUI
+(9)	Baumjohann, Alexander         	MF	2013	23.01.1987	GER
+(31)	Kohls, Florian                	MF	2009	03.04.1995	GER
+(14)	Stocker, Valentin             	MF	2014	12.04.1989	SUI
+(20)	Weiser, Mitchell              	MF	2015	21.04.1994	GER
+(27)	Beerens, Roy                  	MF	2014	22.12.1987	NED
+(6)	Darida, Vladimir              	MF	2015	08.08.1990	CZE
+(10)	Ben-Hatira, Änis              	MF	2011	18.07.1988	TUN
+(25)	Brooks, John Anthony          	DF	2007	28.01.1993	USA
+(16)	Schieber, Julian              	FW	2014	13.02.1989	GER
+(23)	van den Bergh, Johannes       	DF	2013	21.11.1986	GER
+(12)	Ronny                         	MF	2010	11.05.1986	BRA
+(1)	Kraft, Thomas                 	GK	2011	22.07.1988	GER
+(29)	Körber, Nils-Jonathan         	GK	2011	13.11.1996	GER
+(8)	Kalou, Salomon                	FW	2014	05.08.1985	CIV
+(2)	Pekarik, Peter                	DF	2012	30.10.1986	SVK
+(13)	Hegeler, Jens                 	MF	2014	22.01.1988	GER
+(5)	Stark, Niklas                 	DF	2015	14.04.1995	GER
+(11)	Allagui, Sami                 	FW	2015	28.05.1986	TUN
+(17)	Cigerci, Tolga                	MF	2013	23.03.1992	GER
+(15)	Langkamp, Sebastian           	DF	2013	15.01.1988	GER
+(34)	Mittelstädt, Maximilian       	DF	2012	18.03.1997	GER

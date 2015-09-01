@@ -1,0 +1,33 @@
+###############################
+# 1. FSV Mainz 05 15/16
+# shirt number - name - position - playing since - born - country
+
+
+(19)	Soto, Elkin                   	MF	2007	04.08.1980	COL
+(24)	Bussmann, Gaetan              	DF	2015	02.02.1991	FRA
+(25)	Zimling, Niki                 	MF	2015	19.04.1985	DEN
+(15)	Cordoba, Jhon                 	FW	2015	11.05.1993	COL
+(27)	Clemens, Christian            	MF	2015	04.08.1991	GER
+(31)	Niederlechner, Florian        	FW	2015	24.10.1990	GER
+(2)	Jara, Gonzalo                 	DF	2014	29.08.1985	CHI
+(11)	Beister, Maximilian           	MF	2015	06.09.1990	GER
+(5)	Sereno, Henrique              	DF	2015	18.05.1985	POR
+(xx)	Serdar, Suat                  	MF	2008	11.04.1997	GER
+(29)	Parker, Devante               	MF	2006	16.03.1996	GER
+(23)	Curci, Gianluca               	GK	2015	12.07.1985	ITA
+(33)	Huth, Jannik                  	GK	2007	15.04.1994	GER
+(6)	Latza, Danny                  	MF	2015	07.12.1989	GER
+(16)	Bell, Stefan                  	DF	2007	24.08.1991	GER
+(26)	Bungert, Niko                 	DF	2008	24.10.1986	GER
+(17)	Jairo                         	MF	2014	11.07.1993	ESP
+(8)	Moritz, Christoph             	MF	2013	27.01.1990	GER
+(14)	Baumgartlinger, Julian        	MF	2011	02.01.1988	AUT
+(3)	Balogun, Leon                 	DF	2015	28.06.1988	NGA
+(28)	Nedelev, Todor                	MF	2014	07.02.1993	BUL
+(9)	Muto, Yoshinori               	FW	2015	15.07.1992	JPN
+(7)	Bengtsson, Pierre             	DF	2014	12.04.1988	SWE
+(20)	Frei, Fabian                  	MF	2015	08.01.1989	SUI
+(10)	Malli, Yunus                  	MF	2011	24.02.1992	GER
+(32)	De Blasis, Pablo              	FW	2014	04.02.1988	ARG
+(18)	Brosinski, Daniel             	DF	2014	17.07.1988	GER
+(1)	Karius, Loris                 	GK	2011	22.06.1993	GER

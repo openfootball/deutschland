@@ -1,0 +1,32 @@
+###############################
+# Eintracht Frankfurt 15/16
+# shirt number - name - position - playing since - born - country
+
+
+(10)	Kadlec, Vaclav                	FW	2015	20.05.1992	CZE
+(20)	Hasebe, Makoto                	MF	2014	18.01.1984	JPN
+(11)	Gacinovic, Mijat              	MF	2015	08.02.1995	SRB
+(33)	Zummack, Yannick              	GK	2006	26.03.1996	GER
+(16)	Aigner, Stefan                	MF	2012	20.08.1987	GER
+(21)	Stendera, Marc                	MF	2010	10.12.1995	GER
+(6)	Oczipka, Bastian              	DF	2012	12.01.1989	GER
+(5)	Zambrano, Carlos              	DF	2012	10.07.1989	PER
+(32)	Gerezgiher, Joel              	MF	2012	09.10.1995	GER
+(1)	Hradecky, Lukas               	GK	2015	24.11.1989	FIN
+(29)	Balayev, Emil                 	GK	2015	17.04.1994	AZE
+(7)	Reinartz, Stefan              	MF	2015	01.01.1989	GER
+(30)	Castaignos, Luc               	FW	2015	27.09.1992	NED
+(15)	Djakpa, Constant              	DF	2011	17.10.1986	CIV
+(25)	Medojevic, Slobodan           	MF	2014	20.11.1990	SRB
+(9)	Seferovic, Haris              	FW	2014	22.02.1992	SUI
+(27)	Ignjovski, Aleksandar         	DF	2014	27.01.1991	SRB
+(13)	Lindner, Heinz                	GK	2015	17.07.1990	AUT
+(31)	Kinsombi, David               	DF	2014	12.12.1995	GER
+(22)	Chandler, Timothy             	DF	2014	29.03.1990	USA
+(24)	Waldschmidt, Luca             	FW	2010	19.05.1996	GER
+(18)	Flum, Johannes                	MF	2013	14.12.1987	GER
+(14)	Meier, Alexander              	FW	2004	17.01.1983	GER
+(4)	Russ, Marco                   	DF	2013	04.08.1985	GER
+(28)	Kittel, Sonny                 	MF	1999	06.01.1993	GER
+(23)	Anderson                      	DF	2011	10.01.1988	BRA
+(19)	Abraham, David                	DF	2015	15.07.1986	ARG

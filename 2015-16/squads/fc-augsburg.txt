@@ -1,0 +1,39 @@
+###############################
+# FC Augsburg 15/16
+# shirt number - name - position - playing since - born - country
+
+
+(33)	Mölders, Sascha               	FW	2011	20.03.1985	GER
+(36)	Reinthaler, Max               	MF	2014	22.03.1995	ITA
+(20)	Hong, Jeong-Ho                	DF	2013	12.08.1989	KOR
+(40)	Rieder, Tim                   	DF	2010	03.09.1993	GER
+(21)	Kohr, Dominik                 	MF	2014	31.01.1994	GER
+(18)	Callsen-Bracker, Jan-Ingwer   	DF	2011	23.09.1984	GER
+(23)	Matavz, Tim                   	FW	2014	13.01.1989	SVN
+(2)	Verhaegh, Paul                	DF	2010	01.09.1983	NED
+(29)	Schuster, Marco               	MF	2008	10.10.1995	GER
+(5)	Klavan, Ragnar                	DF	2012	30.10.1985	EST
+(15)	Trochowski, Piotr             	MF	2015	22.03.1984	GER
+(1)	Manninger, Alexander          	GK	2012	04.06.1977	AUT
+(25)	Bobadilla, Raul               	FW	2013	18.06.1987	PAR
+(9)	Parker, Shawn                 	MF	2014	07.03.1993	GER
+(26)	Kurz, Bastian                 	DF	2012	23.09.1996	GER
+(22)	Ji, Dong-Won                  	FW	2015	28.05.1991	KOR
+(13)	Werner, Tobias                	MF	2008	19.07.1985	GER
+(39)	Uhde, Maik                    	DF	2007	23.05.1994	GER
+(19)	Koo, Ja-Cheol                 	MF	2015	27.02.1989	KOR
+(11)	Esswein, Alexander            	MF	2014	25.03.1990	GER
+(14)	Moravek, Jan                  	MF	2012	01.11.1989	CZE
+(16)	Janker, Christoph             	DF	2015	14.02.1985	GER
+(7)	Altintop, Halil               	MF	2013	08.12.1982	TUR
+(3)	Stafylidis, Konstantinos      	DF	2015	02.12.1993	GRE
+(8)	Feulner, Markus               	MF	2014	12.02.1982	GER
+(10)	Baier, Daniel                 	MF	2010	18.05.1984	GER
+(30)	Caiuby                        	MF	2014	14.07.1988	BRA
+(28)	Oettl, Yannik                 	GK	2015	19.11.1996	GER
+(32)	Framberger, Raphael           	DF	2009	06.09.1995	GER
+(24)	Gelios, Ioannis               	GK	2015	24.04.1992	GRE
+(37)	Ekin, Arif                    	MF	2007	14.09.1995	TUR
+(4)	Opare, Daniel                 	DF	2015	18.10.1990	GHA
+(35)	Hitz, Marwin                  	GK	2013	18.09.1987	SUI
+(31)	Max, Philipp                  	DF	2015	30.09.1993	GER

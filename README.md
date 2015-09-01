@@ -37,14 +37,14 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
 1. Spieltag
 
 [Fr 22.8.]
-  20.30  Bayern München -  VfL Wolfsburg
+  20.30  Bayern München        -  VfL Wolfsburg
 [Sa 23.8.]
-  15.30  1899 Hoffenheim -  FC Augsburg
-  15.30  Hannover 96     -  FC Schalke 04
-  15.30  Hertha BSC      -  Werder Bremen
-  15.30  Eintracht Frankfurt  -  SC Freiburg
-  15.30  1. FC Köln           -  Hamburger SV
-  18.30  Borussia Dortmund    -  Bayer Leverkusen
+  15.30  1899 Hoffenheim       -  FC Augsburg
+  15.30  Hannover 96           -  FC Schalke 04
+  15.30  Hertha BSC            -  Werder Bremen
+  15.30  Eintracht Frankfurt   -  SC Freiburg
+  15.30  1. FC Köln            -  Hamburger SV
+  18.30  Borussia Dortmund     -  Bayer Leverkusen
 [So 24.8.]
   15.30  SC Paderborn 07       -  1. FSV Mainz 05
   17.30  Bor. Mönchengladbach  -  VfB Stuttgart
@@ -55,17 +55,17 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
 ###############################
 # Bayern München
 
- 1  Manuel Neuer          GK  2011-
-22  Tom Starke            GK  2012-
+ 1  Manuel Neuer                GK  2011-
+22  Tom Starke                  GK  2012-
 
- 4  Dante   (BRA)         DF  2012-
-13  Rafinha (BRA)         DF  2011-
-17  Jérôme Boateng        DF  2011-
-18  Juan Bernat (ESP)     DF  2014-
-21 (c) Philipp Lahm       DF  1995-
-26  Diego Contento (ITA)  DF  1995-
-27  David Alaba (AUT)     DF  2008-
-28  Holger Badstuber      DF  2002-
+ 4  Dante   (BRA)               DF  2012-
+13  Rafinha (BRA)               DF  2011-
+17  Jérôme Boateng              DF  2011-
+18  Juan Bernat (ESP)           DF  2014-
+21 (c) Philipp Lahm             DF  1995-
+26  Diego Contento (ITA)        DF  1995-
+27  David Alaba (AUT)           DF  2008-
+28  Holger Badstuber            DF  2002-
 
  6  Thiago Alcántara (ESP/BRA)  MF  2013-
  7  Franck Ribéry    (FRA)      MF  2007-

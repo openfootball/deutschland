@@ -55,7 +55,7 @@
   de.wikipedia: FSV_Frankfurt
 
 [tsvmuenchen]   ### check: allow use of number in key eg muenchen1860?
-  1860 München|TSV München 1860,  1860,  M60
+  1860 München|TSV München 1860|TSV 1860 München, 1860,  M60
   www.tsv1860.de
   Grünwalder Straße 114 // 81547 München
   de.wikipedia: TSV_1860_München

@@ -8,3 +8,5 @@ muenster, Münster|Preußen Münster|SC Preußen 06
 
 aachen, Aachen|Alemannia Aachen
 
+fortunakoeln, Fortuna Köln|SC Fortuna Köln|Sportclub Fortuna Köln, 1948
+

@@ -3,3 +3,4 @@
 
 halle, Halle|Hallescher FC
 
+magdeburg, 1. FC Magdeburg

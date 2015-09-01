@@ -6,3 +6,5 @@ regensburg,  Jahn Regensburg|Regensburg|SSV Jahn Regensburg,     REG, city:regen
 burghausen,  Burghausen|Wacker Burghausen
 uhaching,    U'haching|SpVgg Unterhaching
 
+wuerzburg,   Würzburger Kickers|FC Würzburger Kickers, 1907
+

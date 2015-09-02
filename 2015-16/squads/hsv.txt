@@ -2,33 +2,33 @@
 #  Hamburger SV
 
 
- 1  Drobny, Jaroslav (CZE)             GK  2010-       # 18.10.1979
-15  Adler, René                        GK  2012-       # 15.01.1985
-30  Hirzel, Andreas (SUI)              GK  2015-       # 25.03.1993
+ 1  Drobny, Jaroslav (CZE)             GK  2010-       #  18 Oct 1979 (35)
+15  Adler, René                        GK  2012-       #  15 Jan 1985 (30)
+30  Hirzel, Andreas (SUI)              GK  2015-       #  25 Mar 1993 (22)
 
- 2  Diekmeier, Dennis                  DF  2010-       # 20.10.1989
- 3  Cleber (BRA)                       DF  2014-       # 05.12.1990
- 4  Spahic, Emir (BIH)                 DF  2015-       # 18.08.1980
- 5  Djourou, Johan (SUI)               DF  2013-       # 18.01.1987
-22  Ostrzolek, Matthias                DF  2014-       # 05.06.1990
-24  Sakai, Gotoku (JPN)                DF  2015-       # 14.03.1991
-28  Jung, Gideon                       DF  2014-       # 12.09.1994
-31  Marcos, Ronny (MOZ)                DF  2014-       # 01.10.1993
-39  Götz, Ashton-Phillip               DF  2008-       # 16.07.1993
+ 2  Diekmeier, Dennis                  DF  2010-       #  20 Oct 1989 (25)
+ 3  Cleber (BRA)                       DF  2014-       #   5 Dec 1990 (24)
+ 4  Spahic, Emir (BIH)                 DF  2015-       #  18 Aug 1980 (35)
+ 5  Djourou, Johan (SUI)               DF  2013-       #  18 Jan 1987 (28)
+22  Ostrzolek, Matthias                DF  2014-       #   5 Jun 1990 (25)
+24  Sakai, Gotoku (JPN)                DF  2015-       #  14 Mar 1991 (24)
+28  Jung, Gideon                       DF  2014-       #  12 Sep 1994 (20)
+31  Marcos, Ronny (MOZ)                DF  2014-       #   1 Oct 1993 (21)
+39  Götz, Ashton-Phillip               DF  2008-       #  16 Jul 1993 (22)
 
- 7  Ilicevic, Ivo (CRO)                MF  2011-       # 14.11.1986
- 8  Holtby, Lewis                      MF  2014-       # 18.09.1990
-14  Hunt, Aaron                        MF  2015-       # 04.09.1986
-17  Stieber, Zoltan (HUN)              MF  2014-       # 16.10.1988
-20  Ekdal, Albin (SWE)                 MF  2015-       # 28.07.1989
-21  Diaz, Marcelo (CHI)                MF  2015-       # 30.12.1986
-27  Müller, Nicolai                    MF  2014-       # 25.09.1987
-40  Kacar, Gojko (SRB)                 MF  2014-       # 26.01.1987
+ 7  Ilicevic, Ivo (CRO)                MF  2011-       #  14 Nov 1986 (28)
+ 8  Holtby, Lewis                      MF  2014-       #  18 Sep 1990 (24)
+14  Hunt, Aaron                        MF  2015-       #   4 Sep 1986 (28)
+17  Stieber, Zoltan (HUN)              MF  2014-       #  16 Oct 1988 (26)
+20  Ekdal, Albin (SWE)                 MF  2015-       #  28 Jul 1989 (26)
+21  Diaz, Marcelo (CHI)                MF  2015-       #  30 Dec 1986 (28)
+27  Müller, Nicolai                    MF  2014-       #  25 Sep 1987 (27)
+40  Kacar, Gojko (SRB)                 MF  2014-       #  26 Jan 1987 (28)
 
- 9  Schipplock, Sven                   FW  2015-       # 08.11.1988
-10  Lasogga, Pierre-Michel             FW  2013-       # 15.12.1991
-11  Olic, Ivica (CRO)                  FW  2015-       # 14.09.1979
-16  Rudnevs, Artjoms (LVA)             FW  2014-       # 13.01.1988
-23  Gregoritsch, Michael (AUT)         FW  2015-       # 18.04.1994
-26  Müller, Philipp                    FW  2014-       # 03.03.1995
-33  Altintas, Batuhan (TUR)            FW  2015-       # 14.03.1996
+ 9  Schipplock, Sven                   FW  2015-       #   8 Nov 1988 (26)
+10  Lasogga, Pierre-Michel             FW  2013-       #  15 Dec 1991 (23)
+11  Olic, Ivica (CRO)                  FW  2015-       #  14 Sep 1979 (35)
+16  Rudnevs, Artjoms (LVA)             FW  2014-       #  13 Jan 1988 (27)
+23  Gregoritsch, Michael (AUT)         FW  2015-       #  18 Apr 1994 (21)
+26  Müller, Philipp                    FW  2014-       #   3 Mar 1995 (20)
+33  Altintas, Batuhan (TUR)            FW  2015-       #  14 Mar 1996 (19)

@@ -1,0 +1,35 @@
+###########################
+#  SC Paderborn 07
+
+
+ 1  Kruse, Lukas                       GK  2010-       #   9 Jul 1983 (32)
+24  Heuer Fernandes, Daniel (POR)      GK  2015-       #  13 Nov 1992 (22)
+35  Brammen, Jonas                     GK  2013-       #  19 Jul 1997 (18)
+
+ 3  Rafa Lopez (ESP)                   DF  2014-       #   9 Apr 1985 (30)
+14  Bertels, Thomas                    DF  2011-       #   5 Nov 1986 (28)
+15  Ruck, Florian                      DF  2015-       #   6 Feb 1992 (23)
+17  Hoheneder, Niklas (AUT)            DF  2015-       #  17 Aug 1986 (29)
+21  Brückner, Daniel                   DF  2009-       #  14 Feb 1981 (34)
+22  Heinloth, Michael                  DF  2013-       #   9 Feb 1992 (23)
+25  Narey, Khaled                      DF  2015-       #  23 Jul 1994 (21)
+26  Hartherz, Florian                  DF  2013-       #  29 May 1993 (22)
+29  Wahl, Hauke                        DF  2015-       #  15 Apr 1994 (21)
+
+ 5  Wydra, Dominik (AUT)               MF  2015-       #  21 Mar 1994 (21)
+ 6  Bakalorz, Marvin                   MF  2014-       #  13 Sep 1989 (25)
+ 7  Ndjeng, Marcel (CMR)               MF  2015-       #   6 May 1982 (33)
+11  Stoppelkamp, Moritz                MF  2014-       #  11 Dec 1986 (28)
+12  Kirch, Oliver                      MF  2015-       #  21 Aug 1982 (33)
+13  Schonlau, Sebastian                MF  2015-       #   5 Aug 1994 (21)
+16  Bickel, Christian                  MF  2015-       #  27 Jan 1991 (24)
+18  Stöger, Kevin (AUT)                MF  2015-       #  27 Aug 1993 (22)
+20  Vucinovic, Marc                    MF  2013-       #  19 Sep 1988 (26)
+23  Pepic, Mirnes (MNE)                MF  2013-       #  19 Dec 1995 (19)
+27  Ouali, Idir (ALG)                  MF  2014-       #  21 May 1988 (27)
+30  Koc, Süleyman                      MF  2014-       #   9 Jun 1989 (26)
+
+ 8  Proschwitz, Nick                   FW  2015-       #  28 Nov 1986 (28)
+ 9  Lakic, Srdjan (CRO)                FW  2015-       #   2 Oct 1983 (31)
+10  Saglik, Mahir (TUR)                FW  2013-       #  18 Jan 1983 (32)
+19  Brasnic, Marc                      FW  2015-       #  21 Oct 1996 (18)

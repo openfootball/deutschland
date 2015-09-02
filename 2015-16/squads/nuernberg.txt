@@ -1,0 +1,34 @@
+###########################
+#  1. FC Nürnberg
+
+
+ 1  Schäfer, Raphael                   GK  2008-       #  30 Jan 1979 (36)
+22  Rakovsky, Patrick                  GK  2011-       #   2 Jun 1993 (22)
+26  Kirschbaum, Thorsten               GK  2015-       #  20 Apr 1987 (28)
+
+ 2  Brecko, Miso (SVN)                 DF  2015-       #   1 May 1984 (31)
+ 3  Hovland, Even (NOR)                DF  2014-       #  14 Feb 1989 (26)
+ 4  Bulthuis, Dave (NED)               DF  2014-       #  28 Jun 1990 (25)
+ 5  Mössmer, Jürgen                    DF  2014-       #  11 Jun 1989 (26)
+ 6  Sepsi, Laszlo (ROM)                DF  2015-       #   7 Jun 1987 (28)
+23  Leibold, Tim                       DF  2015-       #  30 Nov 1993 (21)
+33  Margreitter, Georg (AUT)           DF  2015-       #   7 Nov 1988 (26)
+
+ 7  Blum, Danny                        MF  2014-       #   7 Jan 1991 (24)
+ 8  Polak, Jan (CZE)                   MF  2014-       #  14 Mar 1981 (34)
+ 9  Burgstaller, Guido (AUT)           MF  2015-       #  29 Apr 1989 (26)
+10  Gebhart, Timo                      MF  2012-       #  12 Apr 1989 (26)
+14  Möhwald, Kevin                     MF  2015-       #   3 Jul 1993 (22)
+15  Koch, Robert                       MF  2014-       #  26 Feb 1986 (29)
+17  Kerk, Sebastian                    MF  2015-       #  17 Apr 1994 (21)
+18  Behrens, Hanno                     MF  2015-       #  26 Mar 1990 (25)
+19  Gislason, Rurik (ISL)              MF  2015-       #  25 Feb 1988 (27)
+21  Evseev, Willi                      MF  2014-       #  14 Feb 1992 (23)
+24  Füllkrug, Niclas                   MF  2014-       #   9 Feb 1993 (22)
+28  Schöpf, Alessandro (AUT)           MF  2014-       #   7 Feb 1994 (21)
+31  Petrak, Ondrej (CZE)               MF  2014-       #  11 Mar 1992 (23)
+
+11  Sylvestr, Jakub (SVK)              FW  2014-       #   2 Feb 1989 (26)
+20  Kutschke, Stefan                   FW  2015-       #   3 Nov 1988 (26)
+27  Hercher, Philipp                   FW  2011-       #  21 Mar 1996 (19)
+36  Teuchert, Cedric                   FW  2009-       #  14 Jan 1997 (18)

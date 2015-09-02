@@ -2,40 +2,40 @@
 #  FC Augsburg
 
 
- 1  Manninger, Alexander (AUT)         GK  2012-       # 04.06.1977
-24  Gelios, Ioannis (GRE)              GK  2015-       # 24.04.1992
-28  Oettl, Yannik                      GK  2015-       # 19.11.1996
-35  Hitz, Marwin (SUI)                 GK  2013-       # 18.09.1987
+ 1  Manninger, Alexander (AUT)         GK  2012-       #   4 Jun 1977 (38)
+24  Gelios, Ioannis (GRE)              GK  2015-       #  24 Apr 1992 (23)
+28  Oettl, Yannik                      GK  2015-       #  19 Nov 1996 (18)
+35  Hitz, Marwin (SUI)                 GK  2013-       #  18 Sep 1987 (27)
 
- 2  Verhaegh, Paul (NED)               DF  2010-       # 01.09.1983
- 3  Stafylidis, Konstantinos (GRE)     DF  2015-       # 02.12.1993
- 4  Opare, Daniel (GHA)                DF  2015-       # 18.10.1990
- 5  Klavan, Ragnar (EST)               DF  2012-       # 30.10.1985
-16  Janker, Christoph                  DF  2015-       # 14.02.1985
-18  Callsen-Bracker, Jan-Ingwer        DF  2011-       # 23.09.1984
-20  Hong, Jeong-Ho (KOR)               DF  2013-       # 12.08.1989
-26  Kurz, Bastian                      DF  2012-       # 23.09.1996
-31  Max, Philipp                       DF  2015-       # 30.09.1993
-32  Framberger, Raphael                DF  2009-       # 06.09.1995
-39  Uhde, Maik                         DF  2007-       # 23.05.1994
-40  Rieder, Tim                        DF  2010-       # 03.09.1993
+ 2  Verhaegh, Paul (NED)               DF  2010-       #   1 Sep 1983 (31)
+ 3  Stafylidis, Konstantinos (GRE)     DF  2015-       #   2 Dec 1993 (21)
+ 4  Opare, Daniel (GHA)                DF  2015-       #  18 Oct 1990 (24)
+ 5  Klavan, Ragnar (EST)               DF  2012-       #  30 Oct 1985 (29)
+16  Janker, Christoph                  DF  2015-       #  14 Feb 1985 (30)
+18  Callsen-Bracker, Jan-Ingwer        DF  2011-       #  23 Sep 1984 (30)
+20  Hong, Jeong-Ho (KOR)               DF  2013-       #  12 Aug 1989 (26)
+26  Kurz, Bastian                      DF  2012-       #  23 Sep 1996 (18)
+31  Max, Philipp                       DF  2015-       #  30 Sep 1993 (21)
+32  Framberger, Raphael                DF  2009-       #   6 Sep 1995 (19)
+39  Uhde, Maik                         DF  2007-       #  23 May 1994 (21)
+40  Rieder, Tim                        DF  2010-       #   3 Sep 1993 (21)
 
- 7  Altintop, Halil (TUR)              MF  2013-       # 08.12.1982
- 8  Feulner, Markus                    MF  2014-       # 12.02.1982
- 9  Parker, Shawn                      MF  2014-       # 07.03.1993
-10  Baier, Daniel                      MF  2010-       # 18.05.1984
-11  Esswein, Alexander                 MF  2014-       # 25.03.1990
-13  Werner, Tobias                     MF  2008-       # 19.07.1985
-14  Moravek, Jan (CZE)                 MF  2012-       # 01.11.1989
-15  Trochowski, Piotr                  MF  2015-       # 22.03.1984
-19  Koo, Ja-Cheol (KOR)                MF  2015-       # 27.02.1989
-21  Kohr, Dominik                      MF  2014-       # 31.01.1994
-29  Schuster, Marco                    MF  2008-       # 10.10.1995
-30  Caiuby (BRA)                       MF  2014-       # 14.07.1988
-36  Reinthaler, Max (ITA)              MF  2014-       # 22.03.1995
-37  Ekin, Arif (TUR)                   MF  2007-       # 14.09.1995
+ 7  Altintop, Halil (TUR)              MF  2013-       #   8 Dec 1982 (32)
+ 8  Feulner, Markus                    MF  2014-       #  12 Feb 1982 (33)
+ 9  Parker, Shawn                      MF  2014-       #   7 Mar 1993 (22)
+10  Baier, Daniel                      MF  2010-       #  18 May 1984 (31)
+11  Esswein, Alexander                 MF  2014-       #  25 Mar 1990 (25)
+13  Werner, Tobias                     MF  2008-       #  19 Jul 1985 (30)
+14  Moravek, Jan (CZE)                 MF  2012-       #   1 Nov 1989 (25)
+15  Trochowski, Piotr                  MF  2015-       #  22 Mar 1984 (31)
+19  Koo, Ja-Cheol (KOR)                MF  2015-       #  27 Feb 1989 (26)
+21  Kohr, Dominik                      MF  2014-       #  31 Jan 1994 (21)
+29  Schuster, Marco                    MF  2008-       #  10 Oct 1995 (19)
+30  Caiuby (BRA)                       MF  2014-       #  14 Jul 1988 (27)
+36  Reinthaler, Max (ITA)              MF  2014-       #  22 Mar 1995 (20)
+37  Ekin, Arif (TUR)                   MF  2007-       #  14 Sep 1995 (19)
 
-22  Ji, Dong-Won (KOR)                 FW  2015-       # 28.05.1991
-23  Matavz, Tim (SVN)                  FW  2014-       # 13.01.1989
-25  Bobadilla, Raul (PAR)              FW  2013-       # 18.06.1987
-33  Mölders, Sascha                    FW  2011-       # 20.03.1985
+22  Ji, Dong-Won (KOR)                 FW  2015-       #  28 May 1991 (24)
+23  Matavz, Tim (SVN)                  FW  2014-       #  13 Jan 1989 (26)
+25  Bobadilla, Raul (PAR)              FW  2013-       #  18 Jun 1987 (28)
+33  Mölders, Sascha                    FW  2011-       #  20 Mar 1985 (30)

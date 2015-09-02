@@ -2,34 +2,34 @@
 #  Hertha BSC
 
 
- 1  Kraft, Thomas                      GK  2011-       # 22.07.1988
-22  Jarstein, Rune (NOR)               GK  2014-       # 29.09.1984
-29  Körber, Nils-Jonathan              GK  2011-       # 13.11.1996
-35  Gersbeck, Marius                   GK  2004-       # 20.06.1995
+ 1  Kraft, Thomas                      GK  2011-       #  22 Jul 1988 (27)
+22  Jarstein, Rune (NOR)               GK  2014-       #  29 Sep 1984 (30)
+29  Körber, Nils-Jonathan              GK  2011-       #  13 Nov 1996 (18)
+35  Gersbeck, Marius                   GK  2004-       #  20 Jun 1995 (20)
 
- 2  Pekarik, Peter (SVK)               DF  2012-       # 30.10.1986
- 5  Stark, Niklas                      DF  2015-       # 14.04.1995
-15  Langkamp, Sebastian                DF  2013-       # 15.01.1988
-21  Plattenhardt, Marvin               DF  2014-       # 26.01.1992
-23  van den Bergh, Johannes            DF  2013-       # 21.11.1986
-25  Brooks, John Anthony (USA)         DF  2007-       # 28.01.1993
-34  Mittelstädt, Maximilian            DF  2012-       # 18.03.1997
+ 2  Pekarik, Peter (SVK)               DF  2012-       #  30 Oct 1986 (28)
+ 5  Stark, Niklas                      DF  2015-       #  14 Apr 1995 (20)
+15  Langkamp, Sebastian                DF  2013-       #  15 Jan 1988 (27)
+21  Plattenhardt, Marvin               DF  2014-       #  26 Jan 1992 (23)
+23  van den Bergh, Johannes            DF  2013-       #  21 Nov 1986 (28)
+25  Brooks, John Anthony (USA)         DF  2007-       #  28 Jan 1993 (22)
+34  Mittelstädt, Maximilian            DF  2012-       #  18 Mar 1997 (18)
 
- 3  Skjelbred, Per Ciljan (NOR)        MF  2014-       # 16.06.1987
- 6  Darida, Vladimir (CZE)             MF  2015-       # 08.08.1990
- 9  Baumjohann, Alexander              MF  2013-       # 23.01.1987
-10  Ben-Hatira, Änis (TUN)             MF  2011-       # 18.07.1988
-12  Ronny (BRA)                        MF  2010-       # 11.05.1986
-13  Hegeler, Jens                      MF  2014-       # 22.01.1988
-14  Stocker, Valentin (SUI)            MF  2014-       # 12.04.1989
-17  Cigerci, Tolga                     MF  2013-       # 23.03.1992
-20  Weiser, Mitchell                   MF  2015-       # 21.04.1994
-24  Haraguchi, Genki (JPN)             MF  2014-       # 09.05.1991
-27  Beerens, Roy (NED)                 MF  2014-       # 22.12.1987
-28  Lustenberger, Fabian (SUI)         MF  2007-       # 02.05.1988
-31  Kohls, Florian                     MF  2009-       # 03.04.1995
+ 3  Skjelbred, Per Ciljan (NOR)        MF  2014-       #  16 Jun 1987 (28)
+ 6  Darida, Vladimir (CZE)             MF  2015-       #   8 Aug 1990 (25)
+ 9  Baumjohann, Alexander              MF  2013-       #  23 Jan 1987 (28)
+10  Ben-Hatira, Änis (TUN)             MF  2011-       #  18 Jul 1988 (27)
+12  Ronny (BRA)                        MF  2010-       #  11 May 1986 (29)
+13  Hegeler, Jens                      MF  2014-       #  22 Jan 1988 (27)
+14  Stocker, Valentin (SUI)            MF  2014-       #  12 Apr 1989 (26)
+17  Cigerci, Tolga                     MF  2013-       #  23 Mar 1992 (23)
+20  Weiser, Mitchell                   MF  2015-       #  21 Apr 1994 (21)
+24  Haraguchi, Genki (JPN)             MF  2014-       #   9 May 1991 (24)
+27  Beerens, Roy (NED)                 MF  2014-       #  22 Dec 1987 (27)
+28  Lustenberger, Fabian (SUI)         MF  2007-       #   2 May 1988 (27)
+31  Kohls, Florian                     MF  2009-       #   3 Apr 1995 (20)
 
- 8  Kalou, Salomon (CIV)               FW  2014-       # 05.08.1985
-11  Allagui, Sami (TUN)                FW  2015-       # 28.05.1986
-16  Schieber, Julian                   FW  2014-       # 13.02.1989
-19  Ibisevic, Vedad (BIH)              FW  2015-       # 06.08.1984
+ 8  Kalou, Salomon (CIV)               FW  2014-       #   5 Aug 1985 (30)
+11  Allagui, Sami (TUN)                FW  2015-       #  28 May 1986 (29)
+16  Schieber, Julian                   FW  2014-       #  13 Feb 1989 (26)
+19  Ibisevic, Vedad (BIH)              FW  2015-       #   6 Aug 1984 (31)

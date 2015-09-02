@@ -1,0 +1,37 @@
+###########################
+#  FSV Frankfurt
+
+
+ 1  Weis, André                        GK  2015-       #  30 Sep 1989 (25)
+18  Pellowski, Jannis                  GK  2006-       #  15 Jun 1992 (23)
+21  Pirson, Sören                      GK  2012-       #  27 Aug 1985 (30)
+
+    Andacic, Mateo (CRO)               DF  2011-       #  16 Nov 1997 (17)
+    Haji Safi, Ehsan (IRN)             DF  2015-       #  25 Feb 1990 (25)
+14  Bittroff, Alexander                DF  2014-       #  19 Sep 1988 (26)
+15  Huber, Alexander                   DF  2011-       #  25 Feb 1985 (30)
+16  Schmidtgal, Heinrich (KAZ)         DF  2015-       #  20 Nov 1985 (29)
+17  Oumari, Joan (LIB)                 DF  2013-       #  19 Aug 1988 (27)
+24  Barry, Shawn Maurice (USA)         DF  2015-       #  23 Apr 1990 (25)
+25  Ballas, Florian                    DF  2015-       #   8 Jan 1993 (22)
+27  Gugganig, Lukas (AUT)              DF  2015-       #  14 Feb 1995 (20)
+32  Belegu, Florijon                   DF  2013-       #  13 Mar 1993 (22)
+
+ 5  Konrad, Manuel                     MF  2010-       #  14 Apr 1988 (27)
+ 6  Perdedaj, Fanol                    MF  2015-       #  16 Jul 1991 (24)
+ 7  Kruska, Marc Andre                 MF  2014-       #  29 Jun 1987 (28)
+ 8  Engels, Mario                      MF  2014-       #  22 Oct 1993 (21)
+10  Halimi, Besar                      MF  2015-       #  12 Dec 1994 (20)
+11  Park, In-Hyeok (KOR)               MF  2015-       #  29 Dec 1995 (19)
+22  Golley, Timm                       MF  2015-       #  17 Feb 1991 (24)
+23  Gebru, Nahom                       MF  2012-       #  26 Sep 1996 (18)
+26  Epstein, Denis                     MF  2013-       #   2 Jul 1986 (29)
+28  Yann (BRA)                         MF  2015-       #  15 Mar 1995 (20)
+30  Mangafic, Denis                    MF  2015-       #  12 Dec 1989 (25)
+31  Hammel, Leon                       MF  2012-       #  24 Apr 1996 (19)
+
+    Awoniyi, Taiwo (NGA)               FW  2015-       #  12 Aug 1997 (18)
+ 9  Kapllani, Edmond (ALB)             FW  2012-       #  31 Jul 1982 (33)
+19  Schahin, Dani                      FW  2015-       #   9 Jul 1989 (26)
+29  Dedic, Zlatko (SVN)                FW  2014-       #   5 Oct 1984 (30)
+38  Felipe Pires (BRA)                 FW  2015-       #  18 Apr 1995 (20)

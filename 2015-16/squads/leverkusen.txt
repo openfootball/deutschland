@@ -2,32 +2,32 @@
 #  Bayer 04 Leverkusen
 
 
- 1  Leno, Bernd                        GK  2011-       # 04.03.1992
-22  Yelldell, David (USA)              GK  2011-       # 01.10.1981
-25  Kresic, Dario (CRO)                GK  2014-       # 11.01.1984
+ 1  Leno, Bernd                        GK  2011-       #   4 Mar 1992 (23)
+22  Yelldell, David (USA)              GK  2011-       #   1 Oct 1981 (33)
+25  Kresic, Dario (CRO)                GK  2014-       #  11 Jan 1984 (31)
 
- 2  Ramalho, André (BRA)               DF  2015-       # 16.02.1992
- 4  Tah, Jonathan                      DF  2015-       # 11.02.1996
- 5  Papadopoulos, Kyriakos (GRE)       DF  2014-       # 23.02.1992
-13  Hilbert, Roberto                   DF  2013-       # 16.10.1984
-16  Jedvaj, Tin (CRO)                  DF  2014-       # 28.11.1995
-17  Boenisch, Sebastian (POL)          DF  2012-       # 01.02.1987
-18  Wendell (BRA)                      DF  2014-       # 20.07.1993
-21  Toprak, Ömer (TUR)                 DF  2011-       # 21.07.1989
-26  Donati, Giulio (ITA)               DF  2013-       # 05.02.1990
-33  Boeder, Lukas                      DF  2012-       # 18.04.1997
+ 2  Ramalho, André (BRA)               DF  2015-       #  16 Feb 1992 (23)
+ 4  Tah, Jonathan                      DF  2015-       #  11 Feb 1996 (19)
+ 5  Papadopoulos, Kyriakos (GRE)       DF  2014-       #  23 Feb 1992 (23)
+13  Hilbert, Roberto                   DF  2013-       #  16 Oct 1984 (30)
+16  Jedvaj, Tin (CRO)                  DF  2014-       #  28 Nov 1995 (19)
+17  Boenisch, Sebastian (POL)          DF  2012-       #   1 Feb 1987 (28)
+18  Wendell (BRA)                      DF  2014-       #  20 Jul 1993 (22)
+21  Toprak, Ömer (TUR)                 DF  2011-       #  21 Jul 1989 (26)
+26  Donati, Giulio (ITA)               DF  2013-       #   5 Feb 1990 (25)
+33  Boeder, Lukas                      DF  2012-       #  18 Apr 1997 (18)
 
- 8  Bender, Lars                       MF  2009-       # 27.04.1989
-10  Calhanoglu, Hakan (TUR)            MF  2014-       # 08.02.1994
-20  Aranguiz, Charles (CHI)            MF  2015-       # 17.04.1989
-23  Kramer, Christoph                  MF  2015-       # 19.02.1991
-24  Ryu, Seung-Woo (KOR)               MF  2015-       # 17.12.1993
-35  Yurchenko, Vladlen (UKR)           MF  2014-       # 22.01.1994
-37  Frey, Marlon                       MF  2004-       # 24.03.1996
-44  Kampl, Kevin (SVN)                 MF  2015-       # 09.10.1990
+ 8  Bender, Lars                       MF  2009-       #  27 Apr 1989 (26)
+10  Calhanoglu, Hakan (TUR)            MF  2014-       #   8 Feb 1994 (21)
+20  Aranguiz, Charles (CHI)            MF  2015-       #  17 Apr 1989 (26)
+23  Kramer, Christoph                  MF  2015-       #  19 Feb 1991 (24)
+24  Ryu, Seung-Woo (KOR)               MF  2015-       #  17 Dec 1993 (21)
+35  Yurchenko, Vladlen (UKR)           MF  2014-       #  22 Jan 1994 (21)
+37  Frey, Marlon                       MF  2004-       #  24 Mar 1996 (19)
+44  Kampl, Kevin (SVN)                 MF  2015-       #   9 Oct 1990 (24)
 
- 7  Hernandez, Javier (MEX)            FW  2015-       # 01.06.1988
-11  Kießling, Stefan                   FW  2006-       # 25.01.1984
-14  Mehmedi, Admir (SUI)               FW  2015-       # 16.03.1991
-19  Brandt, Julian                     FW  2014-       # 02.05.1996
-38  Bellarabi, Karim                   FW  2014-       # 08.04.1990
+ 7  Hernandez, Javier (MEX)            FW  2015-       #   1 Jun 1988 (27)
+11  Kießling, Stefan                   FW  2006-       #  25 Jan 1984 (31)
+14  Mehmedi, Admir (SUI)               FW  2015-       #  16 Mar 1991 (24)
+19  Brandt, Julian                     FW  2014-       #   2 May 1996 (19)
+38  Bellarabi, Karim                   FW  2014-       #   8 Apr 1990 (25)

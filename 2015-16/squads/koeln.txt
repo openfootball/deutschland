@@ -2,28 +2,28 @@
 #  1. FC Köln
 
 
- 1  Horn, Timo                         GK  2002-       # 12.05.1993
-18  Kessler, Thomas                    GK  2012-       # 20.01.1986
-37  Mesenhöler, Daniel                 GK  2007-       # 24.07.1995
+ 1  Horn, Timo                         GK  2002-       #  12 May 1993 (22)
+18  Kessler, Thomas                    GK  2012-       #  20 Jan 1986 (29)
+37  Mesenhöler, Daniel                 GK  2007-       #  24 Jul 1995 (20)
 
- 3  Heintz, Dominique                  DF  2015-       # 15.08.1993
- 4  Sörensen, Frederik (DEN)           DF  2015-       # 14.04.1992
- 5  Maroh, Dominic (SVN)               DF  2012-       # 04.03.1987
-14  Hector, Jonas                      DF  2010-       # 27.05.1990
-16  Olkowski, Pawel (POL)              DF  2014-       # 13.02.1990
-19  Mavraj, Mergim (ALB)               DF  2014-       # 09.06.1986
+ 3  Heintz, Dominique                  DF  2015-       #  15 Aug 1993 (22)
+ 4  Sörensen, Frederik (DEN)           DF  2015-       #  14 Apr 1992 (23)
+ 5  Maroh, Dominic (SVN)               DF  2012-       #   4 Mar 1987 (28)
+14  Hector, Jonas                      DF  2010-       #  27 May 1990 (25)
+16  Olkowski, Pawel (POL)              DF  2014-       #  13 Feb 1990 (25)
+19  Mavraj, Mergim (ALB)               DF  2014-       #   9 Jun 1986 (29)
 
- 6  Vogt, Kevin                        MF  2014-       # 23.09.1991
- 7  Risse, Marcel                      MF  2013-       # 17.12.1989
- 8  Jojic, Milos (SRB)                 MF  2015-       # 19.03.1992
-21  Bittencourt, Leonardo              MF  2015-       # 19.12.1993
-25  Nagasawa, Kazuki (JPN)             MF  2014-       # 16.12.1991
-29  Svento, Dusan (SVK)                MF  2014-       # 01.08.1985
-31  Gerhardt, Yannick                  MF  2003-       # 13.03.1994
-33  Lehmann, Matthias                  MF  2012-       # 28.05.1983
+ 6  Vogt, Kevin                        MF  2014-       #  23 Sep 1991 (23)
+ 7  Risse, Marcel                      MF  2013-       #  17 Dec 1989 (25)
+ 8  Jojic, Milos (SRB)                 MF  2015-       #  19 Mar 1992 (23)
+21  Bittencourt, Leonardo              MF  2015-       #  19 Dec 1993 (21)
+25  Nagasawa, Kazuki (JPN)             MF  2014-       #  16 Dec 1991 (23)
+29  Svento, Dusan (SVK)                MF  2014-       #   1 Aug 1985 (30)
+31  Gerhardt, Yannick                  MF  2003-       #  13 Mar 1994 (21)
+33  Lehmann, Matthias                  MF  2012-       #  28 May 1983 (32)
 
-11  Zoller, Simon                      FW  2015-       # 26.06.1991
-13  Osako, Yuya (JPN)                  FW  2014-       # 18.05.1990
-15  Hosiner, Philipp (AUT)             FW  2015-       # 15.05.1989
-26  Finne, Bard (NOR)                  FW  2014-       # 13.02.1995
-27  Modeste, Anthony (FRA)             FW  2015-       # 14.04.1988
+11  Zoller, Simon                      FW  2015-       #  26 Jun 1991 (24)
+13  Osako, Yuya (JPN)                  FW  2014-       #  18 May 1990 (25)
+15  Hosiner, Philipp (AUT)             FW  2015-       #  15 May 1989 (26)
+26  Finne, Bard (NOR)                  FW  2014-       #  13 Feb 1995 (20)
+27  Modeste, Anthony (FRA)             FW  2015-       #  14 Apr 1988 (27)

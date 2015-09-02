@@ -2,35 +2,35 @@
 #  VfL Wolfsburg
 
 
- 1  Benaglio, Diego (SUI)              GK  2008-       # 08.09.1983
-20  Grün, Max                          GK  2013-       # 05.04.1987
-28  Casteels, Koen (BEL)               GK  2015-       # 25.06.1992
+ 1  Benaglio, Diego (SUI)              GK  2008-       #   8 Sep 1983 (31)
+20  Grün, Max                          GK  2013-       #   5 Apr 1987 (28)
+28  Casteels, Koen (BEL)               GK  2015-       #  25 Jun 1992 (23)
 
- 4  Schäfer, Marcel                    DF  2007-       # 07.06.1984
- 5  Klose, Timm (SUI)                  DF  2013-       # 09.05.1988
- 6  Ascues, Carlos (PER)               DF  2015-       # 06.06.1992
- 8  Vieirinha (POR)                    DF  2012-       # 24.01.1986
-15  Träsch, Christian                  DF  2011-       # 01.09.1987
-18  Dante (BRA)                        DF  2015-       # 18.10.1983
-24  Jung, Sebastian                    DF  2014-       # 22.06.1990
-25  Naldo (BRA)                        DF  2012-       # 10.09.1982
-26  Felipe (BRA)                       DF  2013-       # 07.08.1987
-31  Knoche, Robin                      DF  2005-       # 22.05.1992
-34  Rodriguez, Ricardo (SUI)           DF  2012-       # 25.08.1992
-37  Sprenger, Moritz                   DF  2007-       # 22.02.1995
+ 4  Schäfer, Marcel                    DF  2007-       #   7 Jun 1984 (31)
+ 5  Klose, Timm (SUI)                  DF  2013-       #   9 May 1988 (27)
+ 6  Ascues, Carlos (PER)               DF  2015-       #   6 Jun 1992 (23)
+ 8  Vieirinha (POR)                    DF  2012-       #  24 Jan 1986 (29)
+15  Träsch, Christian                  DF  2011-       #   1 Sep 1987 (27)
+18  Dante (BRA)                        DF  2015-       #  18 Oct 1983 (31)
+24  Jung, Sebastian                    DF  2014-       #  22 Jun 1990 (25)
+25  Naldo (BRA)                        DF  2012-       #  10 Sep 1982 (32)
+26  Felipe (BRA)                       DF  2013-       #   7 Aug 1987 (28)
+31  Knoche, Robin                      DF  2005-       #  22 May 1992 (23)
+34  Rodriguez, Ricardo (SUI)           DF  2012-       #  25 Aug 1992 (23)
+37  Sprenger, Moritz                   DF  2007-       #  22 Feb 1995 (20)
 
- 7  Caligiuri, Daniel (ITA)            MF  2013-       # 15.01.1988
-10  Draxler, Julian                    MF  2015-       # 20.09.1993
-17  Schürrle, André                    MF  2015-       # 06.11.1990
-22  Luiz Gustavo (BRA)                 MF  2013-       # 23.07.1987
-23  Guilavogui, Josuha (FRA)           MF  2014-       # 19.09.1990
-27  Arnold, Maximilian                 MF  2009-       # 27.05.1994
-30  Seguin, Paul                       MF  2007-       # 29.03.1995
-35  Rodriguez, Francisco (SUI)         MF  2015-       # 14.09.1995
-38  Azzaoui, Ismail (BEL)              MF  2015-       # 06.01.1998
+ 7  Caligiuri, Daniel (ITA)            MF  2013-       #  15 Jan 1988 (27)
+10  Draxler, Julian                    MF  2015-       #  20 Sep 1993 (21)
+17  Schürrle, André                    MF  2015-       #   6 Nov 1990 (24)
+22  Luiz Gustavo (BRA)                 MF  2013-       #  23 Jul 1987 (28)
+23  Guilavogui, Josuha (FRA)           MF  2014-       #  19 Sep 1990 (24)
+27  Arnold, Maximilian                 MF  2009-       #  27 May 1994 (21)
+30  Seguin, Paul                       MF  2007-       #  29 Mar 1995 (20)
+35  Rodriguez, Francisco (SUI)         MF  2015-       #  14 Sep 1995 (19)
+38  Azzaoui, Ismail (BEL)              MF  2015-       #   6 Jan 1998 (17)
 
- 3  Bendtner, Nicklas (DEN)            FW  2014-       # 16.01.1988
-11  Kruse, Max                         FW  2015-       # 19.03.1988
-12  Dost, Bas (NED)                    FW  2012-       # 31.05.1989
-32  Zawada, Oskar (POL)                FW  2012-       # 01.02.1996
-33  Stolze, Sebastian                  FW  2014-       # 29.01.1995
+ 3  Bendtner, Nicklas (DEN)            FW  2014-       #  16 Jan 1988 (27)
+11  Kruse, Max                         FW  2015-       #  19 Mar 1988 (27)
+12  Dost, Bas (NED)                    FW  2012-       #  31 May 1989 (26)
+32  Zawada, Oskar (POL)                FW  2012-       #   1 Feb 1996 (19)
+33  Stolze, Sebastian                  FW  2014-       #  29 Jan 1995 (20)

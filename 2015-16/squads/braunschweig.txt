@@ -1,0 +1,33 @@
+###########################
+#  Eintracht Braunschweig
+
+
+ 1  Engelhardt, Marcel                 GK  2013-       #   5 Apr 1993 (22)
+16  Fejzic, Jasmin (BIH)               GK  2015-       #  15 May 1986 (29)
+33  Gikiewicz, Rafal (POL)             GK  2014-       #  26 Oct 1987 (27)
+
+ 3  Decarli, Saulo (SUI)               DF  2014-       #   4 Feb 1992 (23)
+ 4  Baffo, Joseph (SWE)                DF  2015-       #   7 Nov 1992 (22)
+17  Ofosu-Ayeh, Phil                   DF  2015-       #  15 Sep 1991 (23)
+19  Reichel, Ken                       DF  2007-       #  19 Dec 1986 (28)
+24  Sauer, Maximilian                  DF  2014-       #  15 May 1994 (21)
+25  Correia, Marcel (POR)              DF  2011-       #  16 May 1989 (26)
+28  Slamar, Dennis                     DF  2012-       #   8 Sep 1994 (20)
+36  Baghdadi, Mohammed                 DF  2012-       #  30 Oct 1996 (18)
+
+ 6  Vrancic, Damir (BIH)               MF  2009-       #   4 Oct 1985 (29)
+ 8  Matuschyk, Adam (POL)              MF  2015-       #  14 Feb 1989 (26)
+10  Boland, Mirko                      MF  2009-       #  23 Apr 1987 (28)
+11  Hochscheidt, Jan                   MF  2013-       #   4 Oct 1987 (27)
+12  Omladic, Nik (SVN)                 MF  2015-       #  21 Aug 1989 (26)
+21  Schönfeld, Patrick                 MF  2015-       #  21 Jun 1989 (26)
+22  Khelifi, Salim (SUI)               MF  2014-       #  26 Jan 1994 (21)
+27  Kijewski, Niko                     MF  2014-       #  28 Mar 1996 (19)
+30  Zuck, Hendrick                     MF  2014-       #  21 Jul 1990 (25)
+31  Pfitzner, Marc                     MF  2005-       #  28 Aug 1984 (31)
+38  Holtmann, Gerrit                   MF  2014-       #  25 Mar 1995 (20)
+
+ 9  Berggreen, Emil (DEN)              FW  2015-       #  10 May 1993 (22)
+18  Ademi, Orhan (SUI)                 FW  2015-       #  28 Oct 1991 (23)
+23  Hvilsom, Mads (DEN)                FW  2015-       #  23 Aug 1992 (23)
+26  Düker, Julius                      FW  2013-       #   4 Jan 1996 (19)

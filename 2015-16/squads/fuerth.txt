@@ -1,0 +1,35 @@
+###########################
+#  SpVgg Greuther Fürth
+
+
+    Zingerle, Leopold                  GK  2015-       #  10 Apr 1994 (21)
+ 1  Mielitz, Sebastian                 GK  2015-       #  18 Jul 1989 (26)
+30  Flekken, Mark (NED)                GK  2013-       #  13 Jun 1993 (22)
+40  Lerch, Bastian                     GK  2010-       #  26 Mar 1996 (19)
+
+ 2  Röcker, Benedikt                   DF  2014-       #  19 Nov 1989 (25)
+ 3  Korcsmar, Zsolt (HUN)              DF  2013-       #   9 Jan 1989 (26)
+ 4  Thesker, Stefan                    DF  2015-       #  11 Apr 1991 (24)
+ 7  Gießelmann, Niko                   DF  2013-       #  26 Sep 1991 (23)
+10  Schröck, Stephan (PHI)             DF  2014-       #  21 Aug 1986 (29)
+13  Caligiuri, Marco                   DF  2014-       #  14 Apr 1984 (31)
+28  Franke, Marcel                     DF  2015-       #   5 Apr 1993 (22)
+
+ 6  Hofmann, Andreas                   MF  2015-       #  13 Apr 1986 (29)
+ 8  Gjasula, Jurgen (ALB)              MF  2015-       #   5 Dec 1985 (29)
+11  Trinks, Florian                    MF  2013-       #  11 Mar 1992 (23)
+14  Weilandt, Tom                      MF  2013-       #  27 Apr 1992 (23)
+16  Sukalo, Goran (SVN)                MF  2013-       #  24 Aug 1981 (34)
+23  Stiepermann, Marco                 MF  2014-       #   9 Feb 1991 (24)
+26  Lam, Zhi-Gin                       MF  2014-       #   4 Jun 1991 (24)
+38  Bodenröder, Tim                    MF  2015-       #  15 Jan 1996 (19)
+39  Trybull, Tom                       MF  2015-       #   9 Mar 1993 (22)
+
+ 9  Freis, Sebastian                   FW  2015-       #  23 Apr 1985 (30)
+17  Tripic, Zlatko (NOR)               FW  2015-       #   2 Dec 1992 (22)
+18  Kumbela, Domi (COD)                FW  2015-       #  20 Apr 1984 (31)
+19  Berisha, Veton (NOR)               FW  2015-       #  13 Apr 1994 (21)
+20  Zulj, Robert (AUT)                 FW  2014-       #   5 Feb 1992 (23)
+22  Wurtz, Johannes                    FW  2014-       #  19 Jun 1992 (23)
+25  Davies, George (SLE)               FW  2014-       #  16 Nov 1996 (18)
+37  Maderer, Stefan                    FW  2012-       #   1 Sep 1996 (18)

@@ -1,0 +1,35 @@
+###########################
+#  FC St. Pauli
+
+
+ 1  Heerwagen, Philipp                 GK  2013-       #  13 Apr 1983 (32)
+30  Himmelmann, Robin                  GK  2012-       #   5 Feb 1989 (26)
+33  Brodersen, Svend                   GK  2010-       #  22 Mar 1997 (18)
+
+ 3  Sobiech, Lasse                     DF  2014-       #  18 Jan 1991 (24)
+ 4  Ziereis, Philipp                   DF  2013-       #  14 Mar 1993 (22)
+ 8  Dudziak, Jeremy                    DF  2015-       #  28 Aug 1995 (20)
+15  Buballa, Daniel                    DF  2014-       #  11 May 1990 (25)
+16  Hornschuh, Marc                    DF  2015-       #   2 Mar 1991 (24)
+17  Drobo-Ampem, Davidson              DF  2015-       #  26 Mar 1988 (27)
+26  Gonther, Sören                     DF  2012-       #  15 Dec 1986 (28)
+27  Kalla, Jan-Philipp                 DF  2003-       #   6 Aug 1986 (29)
+34  Startsev, Andrej (KAZ)             DF  2010-       #  30 Nov 1994 (20)
+
+ 7  Nehrig, Bernd                      MF  2013-       #  28 Sep 1986 (28)
+10  Buchtmann, Christopher             MF  2012-       #  25 Apr 1992 (23)
+11  Rzatkowski, Marc                   MF  2013-       #   2 Mar 1990 (25)
+13  Miyaichi, Ryo (JPN)                MF  2015-       #  14 Dec 1992 (22)
+19  Alushi, Enis                       MF  2014-       #  22 Dec 1985 (29)
+25  Rosin, Dennis                      MF  2010-       #  27 Jun 1996 (19)
+28  Sobota, Waldemar (POL)             MF  2015-       #  19 May 1987 (28)
+29  Maier, Sebastian                   MF  2013-       #  18 Sep 1993 (21)
+31  Litka, Maurice Jerome              MF  2006-       #   2 Jan 1996 (19)
+36  Kurt, Okan (TUR)                   MF  2002-       #  11 Jan 1995 (20)
+37  Choi, Kyoung-Rok (KOR)             MF  2012-       #  15 Mar 1995 (20)
+40  Cooper, Armando (PAN)              MF  2015-       #  26 Nov 1987 (27)
+
+    Picault, Fabrice-Jean (HAI)        FW  2015-       #  23 Feb 1991 (24)
+12  Verhoek, John (NED)                FW  2013-       #  25 Mar 1989 (26)
+18  Thy, Lennart                       FW  2012-       #  25 Feb 1992 (23)
+24  Empen, Nico                        FW  2013-       #  11 Jan 1996 (19)

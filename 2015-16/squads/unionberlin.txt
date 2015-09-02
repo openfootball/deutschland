@@ -1,0 +1,33 @@
+###########################
+#  1. FC Union Berlin
+
+
+ 1  Haas, Daniel                       GK  2012-       #   1 Aug 1983 (32)
+20  Kroll, Steve                       GK  2008-       #   7 May 1997 (18)
+30  Amsif, Mohamed (MAR)               GK  2014-       #   7 Feb 1989 (26)
+
+ 4  Puncec, Roberto (CRO)              DF  2012-       #  27 Oct 1991 (23)
+ 5  Kessel, Benjamin                   DF  2015-       #   1 Oct 1987 (27)
+ 6  Prychynenko, Denis                 DF  2015-       #  17 Feb 1992 (23)
+28  Trimmel, Christopher (AUT)         DF  2014-       #  24 Feb 1987 (28)
+29  Parensen, Michael                  DF  2009-       #  24 Jun 1986 (29)
+34  Schönheim, Fabian                  DF  2012-       #  14 Feb 1987 (28)
+37  Leistner, Toni                     DF  2014-       #  19 Aug 1990 (25)
+
+ 2  Quiring, Christopher               MF  2002-       #  23 Nov 1990 (24)
+ 7  Köhler, Benjamin                   MF  2013-       #   4 Aug 1980 (35)
+ 8  Fürstner, Stephan                  MF  2015-       #  11 Sep 1987 (27)
+10  Daube, Dennis                      MF  2015-       #  11 Jul 1989 (26)
+11  Thiel, Maximilian                  MF  2014-       #   3 Feb 1993 (22)
+13  Korte, Raffael                     MF  2015-       #  29 Aug 1990 (25)
+14  Nikci, Adrian (SUI)                MF  2015-       #  10 Nov 1989 (25)
+18  Redondo, Kenny Prince              MF  2015-       #  29 Aug 1994 (21)
+19  Kreilach, Damir (CRO)              MF  2013-       #  16 Apr 1989 (26)
+27  Zejnullahu, Eroll                  MF  2012-       #  19 Oct 1994 (20)
+31  Koch, Leonard                      MF  2009-       #  23 May 1995 (20)
+
+ 9  Brandy, Sören                      FW  182-       #   6 May 1985 (30)
+15  Wood, Bobby (USA)                  FW  2015-       #  15 Nov 1992 (22)
+21  Quaner, Collin                     FW  2015-       #  18 Jun 1991 (24)
+24  Skrzybski, Steven                  FW  2000-       #  18 Nov 1992 (22)
+33  Nebihi, Bajram                     FW  2014-       #   5 Aug 1988 (27)

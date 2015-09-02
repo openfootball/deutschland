@@ -2,33 +2,33 @@
 #  VfB Stuttgart
 
 
- 1  Langerak, Mitchell (AUS)           GK  2015-       # 22.08.1988
-17  Vlachodimos, Odisseas              GK  2002-       # 26.04.1994
-22  Tyton, Przemyslaw (POL)            GK  2015-       # 04.01.1987
+ 1  Langerak, Mitchell (AUS)           GK  2015-       #  22 Aug 1988 (27)
+17  Vlachodimos, Odisseas              GK  2002-       #  26 Apr 1994 (21)
+22  Tyton, Przemyslaw (POL)            GK  2015-       #   4 Jan 1987 (28)
 
- 2  Insua, Emiliano (ARG)              DF  2015-       # 07.01.1989
- 3  Schwaab, Daniel                    DF  2013-       # 23.08.1988
- 4  Sunjic, Toni (BIH)                 DF  2015-       # 15.12.1988
- 5  Baumgartl, Timo                    DF  2011-       # 04.03.1996
- 6  Niedermeier, Georg                 DF  2009-       # 26.02.1986
-14  Heise, Philip                      DF  2015-       # 20.06.1991
-16  Klein, Florian (AUT)               DF  2014-       # 17.11.1986
-21  Hlousek, Adam (CZE)                DF  2014-       # 20.12.1988
+ 2  Insua, Emiliano (ARG)              DF  2015-       #   7 Jan 1989 (26)
+ 3  Schwaab, Daniel                    DF  2013-       #  23 Aug 1988 (27)
+ 4  Sunjic, Toni (BIH)                 DF  2015-       #  15 Dec 1988 (26)
+ 5  Baumgartl, Timo                    DF  2011-       #   4 Mar 1996 (19)
+ 6  Niedermeier, Georg                 DF  2009-       #  26 Feb 1986 (29)
+14  Heise, Philip                      DF  2015-       #  20 Jun 1991 (24)
+16  Klein, Florian (AUT)               DF  2014-       #  17 Nov 1986 (28)
+21  Hlousek, Adam (CZE)                DF  2014-       #  20 Dec 1988 (26)
 
- 8  Rupp, Lukas                        MF  2015-       # 08.01.1991
-10  Didavi, Daniel                     MF  2012-       # 21.02.1990
-11  Gruezo, Carlos (ECU)               MF  2014-       # 19.04.1995
-18  Kostic, Filip (SRB)                MF  2014-       # 01.11.1992
-20  Gentner, Christian                 MF  2010-       # 14.08.1985
-26  Serey Dié (CIV)                    MF  2015-       # 07.11.1984
-27  Ristl, Mart                        MF  2010-       # 07.07.1996
-28  Wanitzek, Marvin                   MF  2013-       # 07.05.1993
-31  Ferati, Arianit                    MF  2011-       # 07.09.1997
-44  Maxim, Alexandru (ROM)             MF  2013-       # 08.07.1990
+ 8  Rupp, Lukas                        MF  2015-       #   8 Jan 1991 (24)
+10  Didavi, Daniel                     MF  2012-       #  21 Feb 1990 (25)
+11  Gruezo, Carlos (ECU)               MF  2014-       #  19 Apr 1995 (20)
+18  Kostic, Filip (SRB)                MF  2014-       #   1 Nov 1992 (22)
+20  Gentner, Christian                 MF  2010-       #  14 Aug 1985 (30)
+26  Serey Dié (CIV)                    MF  2015-       #   7 Nov 1984 (30)
+27  Ristl, Mart                        MF  2010-       #   7 Jul 1996 (19)
+28  Wanitzek, Marvin                   MF  2013-       #   7 May 1993 (22)
+31  Ferati, Arianit                    MF  2011-       #   7 Sep 1997 (17)
+44  Maxim, Alexandru (ROM)             MF  2013-       #   8 Jul 1990 (25)
 
- 7  Harnik, Martin (AUT)               FW  2010-       # 10.06.1987
- 9  Kruse, Robbie (AUS)                FW  2015-       # 05.10.1988
-19  Werner, Timo                       FW  2002-       # 06.03.1996
-33  Ginczek, Daniel                    FW  2014-       # 13.04.1991
-39  Kliment, Jan (CZE)                 FW  2015-       # 01.09.1993
-42  Kiesewetter, Jerome (USA)          FW  2014-       # 09.02.1993
+ 7  Harnik, Martin (AUT)               FW  2010-       #  10 Jun 1987 (28)
+ 9  Kruse, Robbie (AUS)                FW  2015-       #   5 Oct 1988 (26)
+19  Werner, Timo                       FW  2002-       #   6 Mar 1996 (19)
+33  Ginczek, Daniel                    FW  2014-       #  13 Apr 1991 (24)
+39  Kliment, Jan (CZE)                 FW  2015-       #   1 Sep 1993 (21)
+42  Kiesewetter, Jerome (USA)          FW  2014-       #   9 Feb 1993 (22)

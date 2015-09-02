@@ -1,0 +1,33 @@
+###########################
+#  Fortuna Düsseldorf
+
+
+ 1  Rensing, Michael                   GK  2013-       #  14 May 1984 (31)
+19  Unnerstall, Lars                   GK  2014-       #  20 Jul 1990 (25)
+38  Wiesner, Tim                       GK  2014-       #  21 Nov 1996 (18)
+
+ 3  Haggui, Karim (TUN)                DF  2015-       #  20 Jan 1984 (31)
+ 4  Schauerte, Julian                  DF  2014-       #   2 Apr 1988 (27)
+ 6  Akpoguma, Kevin                    DF  2015-       #  19 Apr 1995 (20)
+15  Schmitz, Lukas                     DF  2014-       #  13 Oct 1988 (26)
+34  Strohdiek, Christian               DF  2015-       #  22 Jan 1988 (27)
+35  Holthaus, Fabian                   DF  2015-       #  17 Jan 1995 (20)
+
+ 2  Koch, Julian                       MF  2015-       #  11 Nov 1990 (24)
+ 5  Avevor, Christopher                MF  2014-       #  11 Feb 1992 (23)
+ 7  Fink, Oliver                       MF  2009-       #   6 Jun 1982 (33)
+ 8  da Silva Pinto, Sergio             MF  2014-       #  16 Oct 1980 (34)
+10  Demirbay, Kerem                    MF  2015-       #   3 Jul 1993 (22)
+11  Bellinghausen, Axel                MF  2012-       #  17 May 1983 (32)
+13  Bodzek, Adam                       MF  2011-       #   7 Sep 1985 (29)
+14  Akca, Kaan                         MF  2008-       #  21 Feb 1994 (21)
+21  Gartner, Christian (AUT)           MF  2013-       #   3 Apr 1994 (21)
+22  Sararer, Sercan (TUR)              MF  2015-       #  27 Nov 1989 (25)
+25  Erat, Tugrul (AZE)                 MF  2009-       #  17 Jun 1992 (23)
+31  Sobottka, Marcel                   MF  2015-       #  25 Apr 1994 (21)
+
+ 9  van Duinen, Mike (NED)             FW  2015-       #   6 Nov 1991 (23)
+18  Bolly, Mathis (CIV)                FW  2013-       #  14 Nov 1990 (24)
+20  Pohjanpalo, Joel (FIN)             FW  2014-       #  13 Sep 1994 (20)
+33  Ya Konan, Didier (CIV)             FW  2015-       #  22 May 1984 (31)
+37  Bebou, Ihlas (TOG)                 FW  2011-       #  23 Apr 1994 (21)

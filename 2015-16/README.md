@@ -31,7 +31,7 @@
 ~~~
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. VfL Bochum                     4   2  0  0   5:1     2  0  0   4:1      9:2    +7   12
+ 1. VfL Bochum                     5   3  0  0   6:1     2  0  0   4:1     10:2    +8   15
  2. SC Freiburg                    5   2  0  1  11:7     2  0  0   3:1     14:8    +6   12
  3. SV Sandhausen                  5   1  1  0   4:3     2  0  1  10:5     14:8    +6   10
  4. Heidenheim                     5   3  0  0   5:1     0  1  1   2:3      7:4    +3   10
@@ -46,7 +46,7 @@
 13. Greuther Fürth                 5   1  0  1   1:2     0  2  1   6:7      7:9    -2    5
 14. Union Berlin                   5   0  3  0   4:4     0  1  1   3:4      7:8    -1    4
 15. SC Paderborn 07                5   0  0  3   1:9     1  0  1   2:2      3:11   -8    3
-16. 1860 München                   4   0  1  1   0:1     0  1  1   2:3      2:4    -2    2
+16. 1860 München                   5   0  1  1   0:1     0  1  2   2:4      2:5    -3    2
 17. MSV Duisburg                   5   0  2  1   5:7     0  0  2   0:5      5:12   -7    2
 18. Fortuna Düsseldorf             5   0  0  2   2:4     0  1  2   1:3      3:7    -4    1
 ~~~

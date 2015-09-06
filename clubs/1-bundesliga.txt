@@ -59,7 +59,7 @@
   de.wikipedia: Hannover_96
 
 [wolfsburg]
-  VfL Wolfsburg,   1945,  WOB
+  VfL Wolfsburg|Wolfsburg,   1945,  WOB
   In den Allerwiesen 1 // 38446 Wolfsburg
   www.vfl-wolfsburg.de
   de.wikipedia: VfL_Wolfsburg

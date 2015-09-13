@@ -114,13 +114,13 @@
   19.00  Hansa Rostock            1-1  Energie Cottbus
   19.00  Stuttgarter Kickers      1-0  1. FC Magdeburg
 [Sa 12.9.]
-  14.00  Fortuna Köln  -  Dynamo Dresden
-  14.00  Chemnitzer FC  -  Preußen Münster
-  14.00  Werder Bremen II  -  SG Sonnenhof Großaspach
-  14.00  Hallescher FC  -  VfB Stuttgart II
-  14.00  1. FSV Mainz 05 II  -  Würzburger Kickers
-  14.00  Rot-Weiß Erfurt  -  Erzgebirge Aue
-  14.00  VfL Osnabrück  -  SV Wehen Wiesbaden
+  14.00  Fortuna Köln             1-5  Dynamo Dresden
+  14.00  Chemnitzer FC            0-1  Preußen Münster
+  14.00  Werder Bremen II         0-4  SG Sonnenhof Großaspach
+  14.00  Hallescher FC            3-0  VfB Stuttgart II
+  14.00  1. FSV Mainz 05 II       1-0  Würzburger Kickers
+  14.00  Rot-Weiß Erfurt          0-1  Erzgebirge Aue
+  14.00  VfL Osnabrück            4-0  SV Wehen Wiesbaden
 [So 13.9.]
   14.00  VfR Aalen  -  Holstein Kiel
 

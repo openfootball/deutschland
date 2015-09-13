@@ -47,12 +47,12 @@
 [Fr 11.9.]
   20.30  Bor. Mönchengladbach  0-3  Hamburger SV
 [Sa 12.9.]
-  15.30  Bayern München  -  FC Augsburg
-  15.30  Bayer Leverkusen  -  SV Darmstadt 98
-  15.30  Hannover 96  -  Borussia Dortmund
-  15.30  Hertha BSC  -  VfB Stuttgart
-  15.30  FC Ingolstadt 04  -  VfL Wolfsburg
-  18.30  Eintracht Frankfurt  -  1. FC Köln
+  15.30  Bayern München        2-1  FC Augsburg
+  15.30  Bayer Leverkusen      0-1  SV Darmstadt 98
+  15.30  Hannover 96           2-4  Borussia Dortmund
+  15.30  Hertha BSC            2-1  VfB Stuttgart
+  15.30  FC Ingolstadt 04      0-0  VfL Wolfsburg
+  18.30  Eintracht Frankfurt   6-2  1. FC Köln
 [So 13.9.]
   15.30  1899 Hoffenheim  -  Werder Bremen
   17.30  FC Schalke 04  -  1. FSV Mainz 05

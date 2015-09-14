@@ -90,9 +90,9 @@
   13.00  Karlsruher SC           0-3  1. FC Union Berlin
   13.00  Arminia Bielefeld       0-0  1. FC Heidenheim 1846
 [So 13.9.]
-  13.30  Fortuna Düsseldorf  -  TSV 1860 München
-  13.30  SpVgg Greuther Fürth  -  1. FC Nürnberg
-  13.30  FSV Frankfurt  -  Eintracht Braunschweig
+  13.30  Fortuna Düsseldorf      3-0  TSV 1860 München
+  13.30  SpVgg Greuther Fürth    3-2  1. FC Nürnberg
+  13.30  FSV Frankfurt           0-3  Eintracht Braunschweig
 [Mo 14.9.]
   20.15  FC St. Pauli  -  MSV Duisburg
 

@@ -102,12 +102,12 @@
   14.00  Holstein Kiel            1-2  Stuttgarter Kickers
   14.00  Energie Cottbus          0-4  VfR Aalen
   14.00  Würzburger Kickers       0-0  Rot-Weiß Erfurt
-  14.00  VfB Stuttgart II  15.9  1. FSV Mainz 05 II
-  14.00  SG Sonnenhof Großaspach  15.9  Hallescher FC
+  14.00  VfB Stuttgart II         0-1  1. FSV Mainz 05 II
+  14.00  SG Sonnenhof Großaspach  0-0  Hallescher FC
   14.00  Preußen Münster          3-1  Werder Bremen II
 [So 6.9.]
   14.00  Dynamo Dresden           1-0  Chemnitzer FC
-  14.00  1. FC Magdeburg  15.9  VfL Osnabrück
+  14.00  1. FC Magdeburg          3-0  VfL Osnabrück
 
 8. Spieltag
 [Fr 11.9.]

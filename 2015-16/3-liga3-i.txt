@@ -129,14 +129,14 @@
   19.00  1. FC Magdeburg          1-2  VfR Aalen
   20.30  Erzgebirge Aue           1-0  Energie Cottbus
 [Sa 19.9.]
-  14.00  Dynamo Dresden  -  VfL Osnabrück
-  14.00  SV Wehen Wiesbaden  -  Stuttgarter Kickers
-  14.00  Holstein Kiel  -  Hansa Rostock
-  14.00  Rot-Weiß Erfurt  -  1. FSV Mainz 05 II
-  14.00  Würzburger Kickers  -  Hallescher FC
-  14.00  VfB Stuttgart II  -  Werder Bremen II
-  14.00  SG Sonnenhof Großaspach  -  Chemnitzer FC
-  14.00  Preußen Münster  -  Fortuna Köln
+  14.00  Dynamo Dresden           2-1  VfL Osnabrück
+  14.00  SV Wehen Wiesbaden       3-3  Stuttgarter Kickers
+  14.00  Holstein Kiel            0-0  Hansa Rostock
+  14.00  Rot-Weiß Erfurt          3-0  1. FSV Mainz 05 II
+  14.00  Würzburger Kickers       0-1  Hallescher FC
+  14.00  VfB Stuttgart II         1-1  Werder Bremen II
+  14.00  SG Sonnenhof Großaspach  4-2  Chemnitzer FC
+  14.00  Preußen Münster          3-1  Fortuna Köln
 
 10. Spieltag
 [Di 22.9.]

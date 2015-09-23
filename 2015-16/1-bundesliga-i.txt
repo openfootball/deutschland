@@ -73,10 +73,10 @@
 
 6. Spieltag
 [Di 22.9.]
-  20.00  Bayern München  -  VfL Wolfsburg
-  20.00  Hertha BSC  -  1. FC Köln
-  20.00  FC Ingolstadt 04  -  Hamburger SV
-  20.00  SV Darmstadt 98  -  Werder Bremen
+  20.00  Bayern München        5-1  VfL Wolfsburg
+  20.00  Hertha BSC            2-0  1. FC Köln
+  20.00  FC Ingolstadt 04      0-1  Hamburger SV
+  20.00  SV Darmstadt 98       2-1  Werder Bremen
 [Mi 23.9.]
   20.00  FC Schalke 04  -  Eintracht Frankfurt
   20.00  Bayer Leverkusen  -  1. FSV Mainz 05

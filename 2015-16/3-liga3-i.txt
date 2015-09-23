@@ -140,11 +140,11 @@
 
 10. Spieltag
 [Di 22.9.]
-  18.30  1. FSV Mainz 05 II  -  Erzgebirge Aue
-  19.00  Chemnitzer FC  -  VfB Stuttgart II
-  19.00  Werder Bremen II  -  Würzburger Kickers
-  19.00  VfR Aalen  -  SV Wehen Wiesbaden
-  20.30  Hallescher FC  -  Rot-Weiß Erfurt
+  18.30  1. FSV Mainz 05 II       1-1  Erzgebirge Aue
+  19.00  Chemnitzer FC            2-1  VfB Stuttgart II
+  19.00  Werder Bremen II         0-0  Würzburger Kickers
+  19.00  VfR Aalen                3-1  SV Wehen Wiesbaden
+  20.30  Hallescher FC            2-1  Rot-Weiß Erfurt
 [Mi 23.9.]
   18.00  VfL Osnabrück  -  Preußen Münster
   19.00  Fortuna Köln  -  SG Sonnenhof Großaspach

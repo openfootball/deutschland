@@ -78,11 +78,11 @@
   20.00  FC Ingolstadt 04      0-1  Hamburger SV
   20.00  SV Darmstadt 98       2-1  Werder Bremen
 [Mi 23.9.]
-  20.00  FC Schalke 04  -  Eintracht Frankfurt
-  20.00  Bayer Leverkusen  -  1. FSV Mainz 05
-  20.00  Bor. Mönchengladbach  -  FC Augsburg
-  20.00  Hannover 96  -  VfB Stuttgart
-  20.00  1899 Hoffenheim  -  Borussia Dortmund
+  20.00  FC Schalke 04         2-0  Eintracht Frankfurt
+  20.00  Bayer Leverkusen      1-0  1. FSV Mainz 05
+  20.00  Bor. Mönchengladbach  4-2  FC Augsburg
+  20.00  Hannover 96           1-3  VfB Stuttgart
+  20.00  1899 Hoffenheim       1-1  Borussia Dortmund
 
 7. Spieltag
 [Fr 25.9.]

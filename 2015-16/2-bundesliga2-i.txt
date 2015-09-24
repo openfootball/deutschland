@@ -117,10 +117,10 @@
   17.30  SV Sandhausen           1-1  TSV 1860 München
   17.30  Arminia Bielefeld       1-1  VfL Bochum
 [Mi 23.9.]
-  17.30  SpVgg Greuther Fürth  -  SC Paderborn 07
-  17.30  FC St. Pauli  -  1. FC Heidenheim 1846
-  17.30  FSV Frankfurt  -  1. FC Union Berlin
-  17.30  MSV Duisburg  -  Eintracht Braunschweig
+  17.30  SpVgg Greuther Fürth    3-0  SC Paderborn 07
+  17.30  FC St. Pauli            1-0  1. FC Heidenheim 1846
+  17.30  FSV Frankfurt           3-2  1. FC Union Berlin
+  17.30  MSV Duisburg            0-5  Eintracht Braunschweig
 [Do 24.9.]
   20.15  RB Leipzig  -  SC Freiburg
 

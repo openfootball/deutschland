@@ -146,11 +146,11 @@
   19.00  VfR Aalen                3-1  SV Wehen Wiesbaden
   20.30  Hallescher FC            2-1  Rot-Weiß Erfurt
 [Mi 23.9.]
-  18.00  VfL Osnabrück  -  Preußen Münster
-  19.00  Fortuna Köln  -  SG Sonnenhof Großaspach
-  19.00  Energie Cottbus  -  Holstein Kiel
-  19.00  Stuttgarter Kickers  -  Dynamo Dresden
-  20.30  Hansa Rostock  -  1. FC Magdeburg
+  18.00  VfL Osnabrück            2-2  Preußen Münster
+  19.00  Fortuna Köln             2-2  SG Sonnenhof Großaspach
+  19.00  Energie Cottbus          1-2  Holstein Kiel
+  19.00  Stuttgarter Kickers      1-2  Dynamo Dresden
+  20.30  Hansa Rostock            1-1  1. FC Magdeburg
 
 11. Spieltag
 [Fr 25.9.]

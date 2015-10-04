@@ -103,11 +103,11 @@
   Bayern München  -  Borussia Dortmund
   FC Schalke 04  -  1. FC Köln
   Bayer Leverkusen  -  FC Augsburg
-  Bor. Mönchengladbach  -  VfL Wolfsburg
-  Hannover 96  -  Werder Bremen
-  Hertha BSC  -  Hamburger SV
-  1899 Hoffenheim  -  VfB Stuttgart
-  FC Ingolstadt 04  -  Eintracht Frankfurt
+  Bor. Mönchengladbach         2-0  VfL Wolfsburg
+  Hannover 96                  1-0  Werder Bremen
+  Hertha BSC                   3-0  Hamburger SV
+  1899 Hoffenheim              2-2  VfB Stuttgart
+  FC Ingolstadt 04             2-0  Eintracht Frankfurt
   SV Darmstadt 98              2-3  1. FSV Mainz 05
 
 9. Spieltag

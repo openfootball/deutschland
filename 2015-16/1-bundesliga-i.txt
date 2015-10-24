@@ -112,15 +112,15 @@
 
 9. Spieltag
 [Sa 17.10.]
-  FC Schalke 04  -  Hertha BSC
-  VfL Wolfsburg  -  1899 Hoffenheim
-  Hamburger SV  -  Bayer Leverkusen
-  VfB Stuttgart  -  FC Ingolstadt 04
-  FC Augsburg  -  SV Darmstadt 98
-  Werder Bremen  -  Bayern München
-  Eintracht Frankfurt  -  Bor. Mönchengladbach
-  1. FC Köln  -  Hannover 96
-  1. FSV Mainz 05  -  Borussia Dortmund
+  FC Schalke 04                2-1  Hertha BSC
+  VfL Wolfsburg                4-2  1899 Hoffenheim
+  Hamburger SV                 0-0  Bayer Leverkusen
+  VfB Stuttgart                1-0  FC Ingolstadt 04
+  FC Augsburg                  0-2  SV Darmstadt 98
+  Werder Bremen                0-1  Bayern München
+  Eintracht Frankfurt          1-5  Bor. Mönchengladbach
+  1. FC Köln                   0-1  Hannover 96
+  1. FSV Mainz 05              0-2  Borussia Dortmund
 
 10. Spieltag
 [Sa 24.10.]
@@ -129,7 +129,7 @@
   Bayer Leverkusen  -  VfB Stuttgart
   Bor. Mönchengladbach  -  FC Schalke 04
   Hannover 96  -  Eintracht Frankfurt
-  1899 Hoffenheim  -  Hamburger SV
+  1899 Hoffenheim              0-1  Hamburger SV
   1. FSV Mainz 05  -  Werder Bremen
   FC Ingolstadt 04  -  Hertha BSC
   SV Darmstadt 98  -  VfL Wolfsburg

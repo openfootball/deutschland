@@ -153,25 +153,25 @@ MSV Duisburg                     1-0  SC Paderborn 07
 
 11. Spieltag
 [So 18.10.]
-SC Freiburg  -  SpVgg Greuther Fürth
-SC Paderborn 07  -  Eintracht Braunschweig
-1. FC Nürnberg  -  FSV Frankfurt
-Fortuna Düsseldorf  -  Arminia Bielefeld
-1. FC Union Berlin  -  FC St. Pauli
-VfL Bochum  -  RB Leipzig
-TSV 1860 München  -  Karlsruher SC
-1. FC Heidenheim 1846  -  MSV Duisburg
-SV Sandhausen  -  1. FC Kaiserslautern
+SC Freiburg                      5-2  SpVgg Greuther Fürth
+SC Paderborn 07                  2-0  Eintracht Braunschweig
+1. FC Nürnberg                   1-1  FSV Frankfurt
+Fortuna Düsseldorf               1-0  Arminia Bielefeld
+1. FC Union Berlin               3-3  FC St. Pauli
+VfL Bochum                       0-1  RB Leipzig
+TSV 1860 München                 0-1  Karlsruher SC
+1. FC Heidenheim 1846            1-0  MSV Duisburg
+SV Sandhausen                    1-0  1. FC Kaiserslautern
 
 12. Spieltag
 [So 25.10.]
 Karlsruher SC  -  1. FC Kaiserslautern
-RB Leipzig  -  Fortuna Düsseldorf
+RB Leipzig                       2-1  Fortuna Düsseldorf
 Eintracht Braunschweig  -  1. FC Heidenheim 1846
 1. FC Union Berlin  -  SC Paderborn 07
-SpVgg Greuther Fürth  -  TSV 1860 München
+SpVgg Greuther Fürth             1-0  TSV 1860 München
 FC St. Pauli  -  SC Freiburg
-FSV Frankfurt  -  VfL Bochum
+FSV Frankfurt                    3-2  VfL Bochum
 Arminia Bielefeld  -  SV Sandhausen
 MSV Duisburg  -  1. FC Nürnberg
 

@@ -160,13 +160,13 @@ SV Darmstadt 98                1-1  Hamburger SV
 
 13. Spieltag
 [Sa 21.11.]
-FC Schalke 04  -  Bayern München
-Bor. Mönchengladbach  -  Hannover 96
-VfL Wolfsburg  -  Werder Bremen
-Hamburger SV  -  Borussia Dortmund
-VfB Stuttgart  -  FC Augsburg
-Eintracht Frankfurt  -  Bayer Leverkusen
-1. FC Köln  -  1. FSV Mainz 05
+FC Schalke 04                  1-3  Bayern München
+Bor. Mönchengladbach           2-1  Hannover 96
+VfL Wolfsburg                  6-0  Werder Bremen
+Hamburger SV                   3-1  Borussia Dortmund
+VfB Stuttgart                  0-4  FC Augsburg
+Eintracht Frankfurt            1-3  Bayer Leverkusen
+1. FC Köln                     0-0  1. FSV Mainz 05
 Hertha BSC  -  1899 Hoffenheim
 FC Ingolstadt 04  -  SV Darmstadt 98
 

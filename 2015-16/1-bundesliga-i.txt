@@ -172,15 +172,15 @@ FC Ingolstadt 04               3-1  SV Darmstadt 98
 
 14. Spieltag
 [Sa 28.11.]
-Bayern München  -  Hertha BSC
-Borussia Dortmund  -  VfB Stuttgart
-Bayer Leverkusen  -  FC Schalke 04
-FC Augsburg  -  VfL Wolfsburg
-Werder Bremen  -  Hamburger SV
-Hannover 96  -  FC Ingolstadt 04
-1899 Hoffenheim  -  Bor. Mönchengladbach
-1. FSV Mainz 05  -  Eintracht Frankfurt
-SV Darmstadt 98  -  1. FC Köln
+Bayern München                 2-0  Hertha BSC
+Borussia Dortmund              4-1  VfB Stuttgart
+Bayer Leverkusen               1-1  FC Schalke 04
+FC Augsburg                    0-0  VfL Wolfsburg
+Werder Bremen                  1-3  Hamburger SV
+Hannover 96                    4-0  FC Ingolstadt 04
+1899 Hoffenheim                3-3  Bor. Mönchengladbach
+1. FSV Mainz 05                2-1  Eintracht Frankfurt
+SV Darmstadt 98                0-0  1. FC Köln
 
 15. Spieltag
 [Sa 5.12.]

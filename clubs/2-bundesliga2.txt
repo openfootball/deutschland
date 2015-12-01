@@ -13,19 +13,19 @@
   de.wikipedia: SC_Paderborn_07
 
 [freiburg]
-  SC Freiburg, 1904, SCF
+  SC Freiburg|Freiburg, 1904, SCF
   Schwarzwaldstr. 193 // 79117 Freiburg
   www.scfreiburg.com
   de.wikipedia: SC_Freiburg
 
 [braunschweig]
-  Eintr. Braunschweig|Braunschweig|Eintracht Braunschweig, 1895, EBS
+  Eintr. Braunschweig|Eintracht Braunschweig|Braunschweig, 1895, EBS
   Hamburger Straße 210 // 38112 Braunschweig
   www.eintracht.com
   de.wikipedia: Eintracht_Braunschweig
 
 [nuernberg]
-  1. FC Nürnberg, 1900, FCN
+  1. FC Nürnberg|Nürnberg, 1900, FCN
   Valznerweiherstraße 200 // 90480 Nürnberg
   www.fcn.de
   de.wikipedia: 1._FC_Nürnberg

@@ -1,7 +1,9 @@
 ######################
 #   Berlin (be)
 
-tasmaniaberlin, Tasmania 1900 Berlin|SC Tasmania 1900 Berlin     ## de.wikipedia: SC_Tasmania_1900_Berlin
+tasmaniaberlin,  Tasmania 1900 Berlin|SC Tasmania 1900 Berlin     ## de.wikipedia: SC_Tasmania_1900_Berlin
 
-tbberlin,       Tennis Borussia Berlin|TB Berlin                 ## de.wikipedia: Tennis_Borussia_Berlin
+tbberlin,        Tennis Borussia Berlin|TB Berlin                 ## de.wikipedia: Tennis_Borussia_Berlin
+
+blauweissberlin, Blau-Weiß 90 Berlin                              ## de.wikipedia: Blau-Weiß_90_Berlin
 

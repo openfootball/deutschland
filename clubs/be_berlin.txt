@@ -3,3 +3,5 @@
 
 tasmaniaberlin, Tasmania 1900 Berlin|SC Tasmania 1900 Berlin     ## de.wikipedia: SC_Tasmania_1900_Berlin
 
+tbberlin,       Tennis Borussia Berlin|TB Berlin                 ## de.wikipedia: Tennis_Borussia_Berlin
+

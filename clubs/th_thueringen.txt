@@ -2,5 +2,6 @@
 #   Thüringen (th)
 
 
-rwerfurt, RW Erfurt|Rot-Weiß Erfurt
+rwerfurt, Rot-Weiß Erfurt|RW Erfurt|FC Rot-Weiß Erfurt   ## de.wikipedia: FC_Rot-Weiß_Erfurt
+
 

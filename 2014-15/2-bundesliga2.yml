@@ -1,37 +1,34 @@
 ##################################
 # Deutsche 2. Bundesliga 2014/15
+#
+#  see de.wikipedia.org/wiki/2._Fußball-Bundesliga_2014/15
 
 league: de.2
-season: 2014/15
-start_at: 2014-08-01      # todo: check start date
+season: 2014/15         ## no. 41
+start_at: 2014-08-01
 
 fixtures:
 - 2-bundesliga2-i
 - 2-bundesliga2-ii
 
 
-# note: timezone for games (play_at) is *always* CET (central european time)
-
-###############
-# 18 Teams
-
-teams:
-- braunschweig
-- nuernberg
-- duesseldorf
-- fuerth
-- klautern
-- fsvfrankfurt
-- tsvmuenchen
-- unionberlin
-- aalen
-- stpauli
-- ingolstadt
-- bochum
-- aue
-- sandhausen
-- karlsruhe
-- heidenheim
-- leipzig
-- darmstadt
+18 Teams:
+- FC Ingolstadt 04
+- SV Darmstadt 98        ## (N)
+- Karlsruher SC
+- 1. FC Kaiserslautern
+- RB Leipzig             ## (N)
+- Eintracht Braunschweig ## (A)
+- 1. FC Union Berlin
+- 1. FC Heidenheim       ## (N)
+- 1. FC Nürnberg         ## (A)
+- Fortuna Düsseldorf
+- VfL Bochum
+- SV Sandhausen
+- FSV Frankfurt
+- SpVgg Greuther Fürth   ## (R↑)
+- FC St. Pauli
+- TSV 1860 München
+- FC Erzgebirge Aue
+- VfR Aalen
 

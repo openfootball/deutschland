@@ -1,34 +1,32 @@
 ######################################
 # Deutsche 3. Liga 2012/13
+#
+#  see de.wikipedia.org/wiki/3._Fußball-Liga_2012/13
 
 league: de.3
 season: 2012/13
-start_at: 2012-07-21    # todo: check start date
+start_at: 2012-07-20
 
 
-# note: timezone for games (play_at) is *always* CET (central european time)
+20 Teams:
+- Karlsruher SC         ## (A)
+- Arminia Bielefeld
+- VfL Osnabrück
+- Preußen Münster
+- 1. FC Heidenheim
+- Chemnitzer FC
+- SV Wehen Wiesbaden
+- Wacker Burghausen
+- SpVgg Unterhaching
+- Hallescher FC         ## (N)
+- 1. FC Saarbrücken
+- Hansa Rostock         ## (A)
+- FC Rot-Weiß Erfurt
+- VfB Stuttgart II
+- Kickers Offenbach
+- Borussia Dortmund II  ## (N)
+- Stuttgarter Kickers   ## (N)
+- SV Darmstadt 98
+- SV Babelsberg 03
+- Alemannia Aachen      ## (A)
 
-####################
-# 20 Teams
-
-teams:
-- osnabrueck
-- karlsruhe
-- bielefeld
-- muenster
-- heidenheim
-- uhaching
-- chemnitz
-- burghausen
-- wiesbaden
-- stuttgartii
-- halle
-- offenbach
-- rostock
-- stuttkick
-- aachen
-- saarbruecken
-- rwerfurt
-- babelsberg
-- darmstadt
-- dortmundii

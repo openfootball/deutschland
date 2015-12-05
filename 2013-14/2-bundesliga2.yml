@@ -1,36 +1,35 @@
 ##################################
 # Deutsche 2. Bundesliga 2013/14
+#
+#   see de.wikipedia.org/wiki/2._Fußball-Bundesliga_2013/14
 
 league: de.2
-season: 2013/14
-start_at: 2013-07-19      # todo: check start date
+season: 2013/14       ## no. 40
+start_at: 2013-07-19  
+
 
 fixtures:
 - 2-bundesliga2-i
 - 2-bundesliga2-ii
 
 
-# note: timezone for games (play_at) is *always* CET (central european time)
-
-###############
-# 18 Teams
-
-teams:
-- duesseldorf
-- fuerth
-- klautern
-- fsvfrankfurt
-- koeln
-- tsvmuenchen
-- unionberlin
-- cottbus
-- aalen
-- stpauli
-- paderborn
-- ingolstadt
-- bochum
-- aue
-- dresden
-- sandhausen
-- karlsruhe
-- bielefeld
+18 Teams:
+- 1. FC Köln
+- SC Paderborn 07
+- SpVgg Greuther Fürth    ## (A)
+- 1. FC Kaiserslautern    ## (R↑)
+- Karlsruher SC           ## (N)
+- Fortuna Düsseldorf      ## (A)
+- TSV 1860 München
+- FC St. Pauli
+- 1. FC Union Berlin
+- FC Ingolstadt 04
+- VfR Aalen
+- SV Sandhausen
+- FSV Frankfurt
+- FC Erzgebirge Aue
+- VfL Bochum
+- Arminia Bielefeld      ## (N)
+- Dynamo Dresden         ## (R↓)
+- Energie Cottbus
+ 

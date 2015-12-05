@@ -18,7 +18,7 @@
   de.wikipedia: Borussia_Dortmund
 
 [dortmundii]
-  Dortmund II|Bor. Dortmund II
+  Borussia Dortmund II|Dortmund II|Bor. Dortmund II
 
 
 [leverkusen]

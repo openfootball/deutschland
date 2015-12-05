@@ -10,5 +10,7 @@ aachen, Aachen|Alemannia Aachen
 
 fortunakoeln, Fortuna Köln|SC Fortuna Köln|Sportclub Fortuna Köln, 1948
 
-rotweissessen, Rot-Weiss Essen             ## de.wikipedia: Rot-Weiss_Essen
+rotweissessen,      Rot-Weiss Essen        ## de.wikipedia: Rot-Weiss_Essen
 rotweissoberhausen, Rot-Weiß Oberhausen    ## de.wikipedia: Rot-Weiß_Oberhausen
+wuppertalersv,      Wuppertaler SV         ## de.wikipedia: Wuppertaler_SV
+

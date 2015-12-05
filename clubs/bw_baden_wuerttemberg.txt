@@ -13,5 +13,5 @@ stuttkick, Stutt. Kick.|Stuttgarter Kickers
 
 grossaspach, SG Großaspach|SG Sonnenhof Großaspach|Sportgemeinschaft Sonnenhof Großaspach, 1994
 
-waldhofmannheim, SV Waldhof Mannheim      ## de.wikipedia: SV_Waldhof_Mannheim
+waldhofmannheim, SV Waldhof Mannheim|SV Waldhof Mannheim 07    ## de.wikipedia: SV_Waldhof_Mannheim
 

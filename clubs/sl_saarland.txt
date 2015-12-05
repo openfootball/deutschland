@@ -5,5 +5,5 @@
 saarbruecken, Saarbrücken|1. FC Saarbrücken
 elversberg,   SV Elversberg
 
-neunkirchen,  Borussia Neunkirchen|VfB Borussia Neunkirchen
+neunkirchen,  Borussia Neunkirchen|VfB Borussia Neunkirchen      ## de.wikipedia: Borussia_Neunkirchen
 

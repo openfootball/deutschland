@@ -1,0 +1,30 @@
+######################################
+# Deutsche Bundesliga 2011/12
+#
+#  see de.wikipedia.org/wiki/Fußball-Bundesliga_2011/12
+
+league: de
+season: 2011/12        ## no. 49
+start_at: 2011-08-05
+
+
+18 Teams:
+- Borussia Dortmund         ## (M)
+- Bayern München
+- FC Schalke 04             ## (P)
+- Borussia Mönchengladbach  ## (R)
+- Bayer 04 Leverkusen
+- VfB Stuttgart
+- Hannover 96
+- VfL Wolfsburg
+- Werder Bremen
+- 1. FC Nürnberg
+- TSG 1899 Hoffenheim
+- SC Freiburg
+- 1. FSV Mainz 05
+- FC Augsburg              ## (N)
+- Hamburger SV
+- Hertha BSC               ## (N)
+- 1. FC Köln
+- 1. FC Kaiserslautern
+

@@ -1,8 +1,10 @@
 ######################################
 # Deutsche Bundesliga 2012/13
+#
+#  see de.wikipedia.org/wiki/Fußball-Bundesliga_2012/13
 
 league: de
-season: 2012/13
+season: 2012/13        ## no. 50
 start_at: 2012-07-21
 
 
@@ -13,25 +15,23 @@ fixtures:
 - 1-bundesliga-ii
 
 
-####################
-# 18 Teams
+18 Teams:
+- Bayern München
+- Borussia Dortmund     ## (M, P)
+- Bayer 04 Leverkusen
+- FC Schalke 04
+- SC Freiburg
+- Eintracht Frankfurt   ## (N)
+- Hamburger SV
+- Borussia Mönchengladbach
+- Hannover 96
+- 1. FC Nürnberg
+- VfL Wolfsburg
+- VfB Stuttgart
+- 1. FSV Mainz 05
+- Werder Bremen
+- FC Augsburg
+- TSG 1899 Hoffenheim
+- Fortuna Düsseldorf      ## (N)
+- SpVgg Greuther Fürth    ## (N)
 
-teams:
-- bayern
-- frankfurt
-- schalke
-- dortmund
-- hannover
-- leverkusen
-- duesseldorf
-- hsv
-- mainz
-- mgladbach
-- freiburg
-- bremen
-- hoffenheim
-- nuernberg
-- stuttgart
-- augsburg
-- wolfsburg
-- fuerth

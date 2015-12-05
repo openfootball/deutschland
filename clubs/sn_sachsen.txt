@@ -8,8 +8,13 @@
   de.wikipedia: FC_Erzgebirge_Aue
 
 
-dresden,    Dynamo Dresden|Dresden|SG Dynamo Dresden,        SGD, 1953, www.dynamo-dresden.de,  Lennéstraße 12 // 01069 Dresden,  city:dresden
+[dresden]
+  Dynamo Dresden|Dresden|SG Dynamo Dresden, 1953, SGD
+  Lennéstraße 12 // 01069 Dresden
+  www.dynamo-dresden.de
+
+
 chemnitz,   Chemnitz|Chemnitzer FC
 
-
 vfbleipzig,  VfB Leipzig      ## de.wikipedia: VfB_Leipzig
+

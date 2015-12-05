@@ -1,7 +1,5 @@
 ######################
 #   Berlin (be)
 
-tasmaniaberlin, Tasmania 1900 Berlin|SC Tasmania 1900 Berlin
-
-
+tasmaniaberlin, Tasmania 1900 Berlin|SC Tasmania 1900 Berlin     ## de.wikipedia: SC_Tasmania_1900_Berlin
 

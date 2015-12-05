@@ -15,3 +15,5 @@ grossaspach, SG Großaspach|SG Sonnenhof Großaspach|Sportgemeinschaft Sonnenhof
 
 waldhofmannheim, SV Waldhof Mannheim|SV Waldhof Mannheim 07    ## de.wikipedia: SV_Waldhof_Mannheim
 
+ssvulm,  SSV Ulm 1846     ## de.wikipedia: SSV_Ulm_1846_Fußball
+

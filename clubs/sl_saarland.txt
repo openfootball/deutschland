@@ -7,3 +7,5 @@ elversberg,   SV Elversberg
 
 neunkirchen,  Borussia Neunkirchen|VfB Borussia Neunkirchen      ## de.wikipedia: Borussia_Neunkirchen
 
+fchomburg,    FC Homburg/Saar|FC Homburg|FC 08 Homburg           ## de.wikipedia: FC_08_Homburg
+

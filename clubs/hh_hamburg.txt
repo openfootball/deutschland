@@ -3,5 +3,5 @@
 
 
 victoriahamburg, SC Victoria Hamburg|Victoria Hamburg    ## de.wikipedia: SC_Victoria_Hamburg
-
+palomahamburg,   USC Paloma Hamburg                      ## de.wikipedia: USC_Paloma_Hamburg
 

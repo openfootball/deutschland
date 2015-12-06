@@ -9,3 +9,5 @@ rehden,         BSV Schwarz-Weiß Rehden     ## de.wikipedia: BSV_Schwarz-Weiß_
 tsvhavelse,     TSV Havelse                 ## de.wikipedia: TSV_Havelse
 
 
+ftbraunschweig,  FT Braunschweig|Freie Turnerschaft Braunschweig     ## de.wikipedia: Freie_Turnerschaft_Braunschweig
+

@@ -3,5 +3,5 @@
 
 vegesack,    SG Aumund-Vegesack     ## de.wikipedia: SG_Aumund-Vegesack
 oberneuland, FC Oberneuland         ## de.wikipedia: FC_Oberneuland
-
+bremersv,    Bremer SV,             ## de.wikipedia: FC_Viktoria_1889_Berlin
 

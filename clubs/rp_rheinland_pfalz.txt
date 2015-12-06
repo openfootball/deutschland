@@ -11,4 +11,6 @@ rossbach,      SV Roßbach/Verscheid  ## de.wikipedia: SV_Roßbach/Verscheid
 
 wormatiaworms, Wormatia Worms        ## de.wikipedia: Wormatia_Worms
 
+waldalgesheim,  SV Alemannia Waldalgesheim   ## de.wikipedia: SV_Alemannia_Waldalgesheim
+
 

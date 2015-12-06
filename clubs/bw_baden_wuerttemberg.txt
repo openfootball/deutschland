@@ -26,3 +26,7 @@ neckarsulm,  Neckarsulmer Sport-Union    ## de.wikipedia: Neckarsulmer_Sport-Uni
 
 offenburg,   Offenburger FV              ## de.wikipedia: Offenburger_FV
 
+astoriawalldorf, FC-Astoria Walldorf     ## de.wikipedia: FC-Astoria_Walldorf
+
+waldkirch,   SV Waldkirch        ## de.wikipedia: SV_Waldkirch
+

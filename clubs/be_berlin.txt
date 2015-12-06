@@ -11,3 +11,5 @@ bfcdynamo,       BFC Dynamo         ## de.wikipedia: BFC_Dynamo
 
 berlinerak,      Berliner AK 07     ## de.wikipedia: Berliner_AK_07
 
+viktoriaberlin,  FC Viktoria 1889 Berlin    ## de.wikipedia: FC_Viktoria_1889_Berlin
+

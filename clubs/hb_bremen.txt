@@ -1,6 +1,7 @@
 ########################
 #  Bremen (hb)
 
-vegesack, SG Aumund-Vegesack     ## de.wikipedia: SG_Aumund-Vegesack
+vegesack,    SG Aumund-Vegesack     ## de.wikipedia: SG_Aumund-Vegesack
+oberneuland, FC Oberneuland         ## de.wikipedia: FC_Oberneuland
 
 

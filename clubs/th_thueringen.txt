@@ -4,5 +4,6 @@
 
 rwerfurt, Rot-Weiß Erfurt|RW Erfurt|FC Rot-Weiß Erfurt   ## de.wikipedia: FC_Rot-Weiß_Erfurt
 
-schottjena,  SV Schott Jena     ## de.wikipedia: SV_Schott_Jena
+schottjena,    SV Schott Jena       ## de.wikipedia: SV_Schott_Jena
+carlzeissjena, FC Carl Zeiss Jena   ## de.wikipedia: FC_Carl_Zeiss_Jena
 

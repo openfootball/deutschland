@@ -24,3 +24,5 @@ baumberg, SF Baumberg|Sportfreunde Baumberg   ## de.wikipedia: Sportfreunde_Baum
 lippstadt,     SV Lippstadt 08     ## de.wikipedia: SV_Lippstadt_08
 wiedenbrueck,  SC Wiedenbrück|SC Wiedenbrück 2000      ## de.wikipedia: SC_Wiedenbrück
 
+hennef,        FC Hennef 05        ## de.wikipedia: FC_Hennef_05
+

@@ -9,3 +9,5 @@ blauweissberlin, Blau-Weiß 90 Berlin                              ## de.wikiped
 
 bfcdynamo,       BFC Dynamo         ## de.wikipedia: BFC_Dynamo
 
+berlinerak,      Berliner AK 07     ## de.wikipedia: Berliner_AK_07
+

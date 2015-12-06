@@ -3,5 +3,5 @@
 
 wiesbaden, Wiesbaden|SV Wehen Wiesbaden
 
-offenbach, Offenbach|Kickers Offenbach
+offenbach, Kickers Offenbach|Offenbach     ## de.wikipedia: Kickers_Offenbach
 

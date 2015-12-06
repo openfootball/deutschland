@@ -5,8 +5,8 @@
 regensburg,  Jahn Regensburg|Regensburg|SSV Jahn Regensburg,  REG, city:regensburg 
 rosenheim,   TSV 1860 Rosenheim     ## de.wikipedia: TSV_1860_Rosenheim
 
-burghausen,  Burghausen|Wacker Burghausen
-uhaching,    U'haching|SpVgg Unterhaching
+burghausen,  Wacker Burghausen|Burghausen    ## de.wikipedia: Wacker_Burghausen
+uhaching,    SpVgg Unterhaching|U'haching    ## de.wikipedia: SpVgg_Unterhaching
 
 wuerzburg,   Würzburger Kickers|FC Würzburger Kickers, 1907
 

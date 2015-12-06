@@ -6,4 +6,6 @@ osnabrueck,     Osnabrück|VfL Osnabrück
 wilhelmshaven,  SV Wilhelmshaven            ## de.wikipedia: SV_Wilhelmshaven
 rehden,         BSV Schwarz-Weiß Rehden     ## de.wikipedia: BSV_Schwarz-Weiß_Rehden
 
+tsvhavelse,     TSV Havelse                 ## de.wikipedia: TSV_Havelse
+
 

@@ -8,3 +8,5 @@ babelsberg, Babelsberg|SV Babelsberg 03
 
 rathenow,   FSV Optik Rathenow         ## de.wikipedia: FSV_Optik_Rathenow
 
+falkensee,  SV Falkensee-Finkenkrug    ## de.wikipedia: SV_Falkensee-Finkenkrug
+

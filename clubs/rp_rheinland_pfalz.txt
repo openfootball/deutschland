@@ -2,8 +2,13 @@
 #   Rheinland-Pfalz (rp)
 
 
-trier,        Eintracht Trier     ## de.wikipedia: Eintracht_Trier
+trier,        Eintracht Trier       ## de.wikipedia: Eintracht_Trier
 
-pfeddersheim, TSG Pfeddersheim    ## de.wikipedia: TSG_Pfeddersheim
+pfeddersheim, TSG Pfeddersheim      ## de.wikipedia: TSG_Pfeddersheim
+
+
+rossbach,      SV Roßbach/Verscheid  ## de.wikipedia: SV_Roßbach/Verscheid
+
+wormatiaworms, Wormatia Worms        ## de.wikipedia: Wormatia_Worms
 
 

@@ -24,3 +24,5 @@ bahlingen,  Bahlinger SC   ## de.wikipedia: Bahlinger_SC
 heidenheim,  1. FC Heidenheim            ## de.wikipedia: 1._FC_Heidenheim
 neckarsulm,  Neckarsulmer Sport-Union    ## de.wikipedia: Neckarsulmer_Sport-Union
 
+offenburg,   Offenburger FV              ## de.wikipedia: Offenburger_FV
+

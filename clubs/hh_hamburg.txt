@@ -2,6 +2,6 @@
 #   Hamburg (hh)
 
 
-victoriahamburg, SC Victoria Hamburg    ## de.wikipedia: SC_Victoria_Hamburg
+victoriahamburg, SC Victoria Hamburg|Victoria Hamburg    ## de.wikipedia: SC_Victoria_Hamburg
 
 

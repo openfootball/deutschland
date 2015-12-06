@@ -2,5 +2,6 @@
 #   Schleswig-Holstein (sh)
 
 
-kiel,       Holstein Kiel
+kiel,         Holstein Kiel
+neumuenster,  VfR Neumünster     ## de.wikipedia: VfR_Neumünster
 

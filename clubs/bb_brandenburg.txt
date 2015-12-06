@@ -6,3 +6,5 @@ cottbus,      Energie Cottbus|Cottbus|FC Energie Cottbus, FCE,  1966, www.fcener
 
 babelsberg, Babelsberg|SV Babelsberg 03
 
+rathenow,   FSV Optik Rathenow         ## de.wikipedia: FSV_Optik_Rathenow
+

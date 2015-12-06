@@ -2,9 +2,13 @@
 #   Bayern (by)
 
 
-regensburg,  Jahn Regensburg|Regensburg|SSV Jahn Regensburg,     REG, city:regensburg 
+regensburg,  Jahn Regensburg|Regensburg|SSV Jahn Regensburg,  REG, city:regensburg 
+rosenheim,   TSV 1860 Rosenheim     ## de.wikipedia: TSV_1860_Rosenheim
+
 burghausen,  Burghausen|Wacker Burghausen
 uhaching,    U'haching|SpVgg Unterhaching
 
 wuerzburg,   Würzburger Kickers|FC Würzburger Kickers, 1907
+
+illertissen, FV Illertissen         ## de.wikipedia: FV_Illertissen
 

@@ -1,3 +1,9 @@
 ##################################
 #   Rheinland-Pfalz (rp)
 
+
+trier,        Eintracht Trier     ## de.wikipedia: Eintracht_Trier
+
+pfeddersheim, TSG Pfeddersheim    ## de.wikipedia: TSG_Pfeddersheim
+
+

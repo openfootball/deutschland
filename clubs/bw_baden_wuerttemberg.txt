@@ -17,3 +17,10 @@ waldhofmannheim, SV Waldhof Mannheim|SV Waldhof Mannheim 07    ## de.wikipedia: 
 
 ssvulm,  SSV Ulm 1846     ## de.wikipedia: SSV_Ulm_1846_Fußball
 
+noettingen, FC Nöttingen   ## de.wikipedia: FC_Nöttingen
+
+bahlingen,  Bahlinger SC   ## de.wikipedia: Bahlinger_SC
+
+heidenheim,  1. FC Heidenheim            ## de.wikipedia: 1._FC_Heidenheim
+neckarsulm,  Neckarsulmer Sport-Union    ## de.wikipedia: Neckarsulmer_Sport-Union
+

@@ -3,3 +3,6 @@
 
 
 rostock, Rostock|Hansa Rostock|FC Hansa Rostock, 1965
+
+neustrelitz, TSG Neustrelitz        ## de.wikipedia: TSG_Neustrelitz
+

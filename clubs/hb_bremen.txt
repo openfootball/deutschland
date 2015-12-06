@@ -1,3 +1,6 @@
 ########################
 #  Bremen (hb)
 
+vegesack, SG Aumund-Vegesack     ## de.wikipedia: SG_Aumund-Vegesack
+
+

@@ -7,3 +7,5 @@ tbberlin,        Tennis Borussia Berlin|TB Berlin                 ## de.wikipedi
 
 blauweissberlin, Blau-Weiß 90 Berlin                              ## de.wikipedia: Blau-Weiß_90_Berlin
 
+bfcdynamo,       BFC Dynamo         ## de.wikipedia: BFC_Dynamo
+

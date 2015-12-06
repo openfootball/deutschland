@@ -22,9 +22,13 @@ wattenscheid,       SG Wattenscheid 09      ## de.wikipedia: SG_Wattenscheid_09
 
 baumberg, SF Baumberg|Sportfreunde Baumberg   ## de.wikipedia: Sportfreunde_Baumberg 
 siegen,   SF Siegen|Sportfreunde Siegen       ## de.wikipedia: Sportfreunde_Siegen                 
+lotte,    SF Lotte|Sportfreunde Lotte         ## de.wikipedia: Sportfreunde_Lotte
 
 lippstadt,     SV Lippstadt 08     ## de.wikipedia: SV_Lippstadt_08
 wiedenbrueck,  SC Wiedenbrück|SC Wiedenbrück 2000      ## de.wikipedia: SC_Wiedenbrück
 
 hennef,        FC Hennef 05        ## de.wikipedia: FC_Hennef_05
+
+erndtebrueck,  TuS Erndtebrück      ## de.wikipedia: TuS_Erndtebrück
+
 

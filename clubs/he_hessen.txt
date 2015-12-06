@@ -5,3 +5,5 @@ wiesbaden, Wiesbaden|SV Wehen Wiesbaden
 
 offenbach, Kickers Offenbach|Offenbach     ## de.wikipedia: Kickers_Offenbach
 
+hessenkassel, KSV Hessen Kassel            ## de.wikipedia: KSV_Hessen_Kassel
+

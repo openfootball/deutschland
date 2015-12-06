@@ -21,7 +21,6 @@ noettingen, FC Nöttingen   ## de.wikipedia: FC_Nöttingen
 
 bahlingen,  Bahlinger SC   ## de.wikipedia: Bahlinger_SC
 
-heidenheim,  1. FC Heidenheim            ## de.wikipedia: 1._FC_Heidenheim
 neckarsulm,  Neckarsulmer Sport-Union    ## de.wikipedia: Neckarsulmer_Sport-Union
 
 offenburg,   Offenburger FV              ## de.wikipedia: Offenburger_FV
@@ -29,4 +28,6 @@ offenburg,   Offenburger FV              ## de.wikipedia: Offenburger_FV
 astoriawalldorf, FC-Astoria Walldorf     ## de.wikipedia: FC-Astoria_Walldorf
 
 waldkirch,   SV Waldkirch        ## de.wikipedia: SV_Waldkirch
+
+reutlingen,  SSV Reutlingen 05   ## de.wikipedia: SSV_Reutlingen_05
 

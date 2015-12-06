@@ -13,4 +13,7 @@ wormatiaworms, Wormatia Worms        ## de.wikipedia: Wormatia_Worms
 
 waldalgesheim,  SV Alemannia Waldalgesheim   ## de.wikipedia: SV_Alemannia_Waldalgesheim
 
+salmrohr,       FSV Salmrohr    ## de.wikipedia: FSV_Salmrohr
+
+pirmasens,      FK Pirmasens|FK 03 Pirmasens    ## de.wikipedia: FK_Pirmasens
 

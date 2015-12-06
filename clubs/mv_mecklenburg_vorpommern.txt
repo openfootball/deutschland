@@ -2,7 +2,7 @@
 #   Mecklenburg-Vorpommern (mv)
 
 
-rostock, Rostock|Hansa Rostock|FC Hansa Rostock, 1965
+rostock,  Hansa Rostock|Rostock|FC Hansa Rostock, 1965
 
 neustrelitz,    TSG Neustrelitz          ## de.wikipedia: TSG_Neustrelitz
 schoenberg,     FC Schönberg 95          ## de.wikipedia: FC_Schönberg_95

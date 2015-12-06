@@ -2,8 +2,8 @@
 #   Saarland (sl)
 
 
-saarbruecken, Saarbrücken|1. FC Saarbrücken    ## de.wikipedia: 1._FC_Saarbrücken
-elversberg,   SV Elversberg
+saarbruecken, Saarbrücken|1. FC Saarbrücken     ## de.wikipedia: 1._FC_Saarbrücken
+elversberg,   SV Elversberg|SV 07 Elversberg    ## de.wikipedia: SV_Elversberg
 
 neunkirchen,  Borussia Neunkirchen|VfB Borussia Neunkirchen      ## de.wikipedia: Borussia_Neunkirchen
 

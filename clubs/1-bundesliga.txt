@@ -12,7 +12,7 @@
   de.wikipedia: FC_Bayern_München
 
 [dortmund]
-  Borussia Dortmund|Bor. Dortmund|Dortmund, 1909, BVB
+  Borussia Dortmund|Bor. Dortmund|Dortmund|BV 09 Borussia Dortmund, 1909, BVB
   Rheinlanddamm 207-209 // 44137 Dortmund
   www.bvb.de
   de.wikipedia: Borussia_Dortmund
@@ -35,7 +35,7 @@
 
 
 [frankfurt]
-  Eintracht Frankfurt|E. Frankfurt|Frankfurt,  1899,  FFM
+  Eintracht Frankfurt|E. Frankfurt|Frankfurt|SG Eintracht Frankfurt, 1899,  FFM
   Mörfelder Landstraße 362 // 60528 Frankfurt am Main
   www.eintracht.de
   de.wikipedia: Eintracht_Frankfurt
@@ -53,7 +53,7 @@
   de.wikipedia: Borussia_Mönchengladbach
 
 [hannover]
-  Hannover 96|Hannover, 1896,  H96
+  Hannover 96|Hannover|Hannover 1896, 1896,  H96
   Robert-Enke-Straße 1 // 30169 Hannover
   www.hannover96.de
   de.wikipedia: Hannover_96
@@ -75,7 +75,7 @@
 
 
 [bremen]
-  Werder Bremen|Bremen, 1899,  BRE
+  Werder Bremen|Bremen|SV Werder Bremen, 1899,  BRE
   Franz-Böhmert-Straße 1c // 28205 Bremen
   www.werder.de
   de.wikipedia: Werder_Bremen

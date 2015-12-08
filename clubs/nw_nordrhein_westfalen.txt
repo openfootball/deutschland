@@ -6,7 +6,7 @@
 muenster, Münster|Preußen Münster|SC Preußen 06
 
 
-aachen, Aachen|Alemannia Aachen
+aachen, Aachen|Alemannia Aachen|TSV Alemannia Aachen   ## de.wikipedia: Alemannia_Aachen
 
 fortunakoeln,  Fortuna Köln|SC Fortuna Köln|Sportclub Fortuna Köln, 1948    ## de.wikipedia: SC_Fortuna_Köln
 viktoriakoeln, FC Viktoria Köln     ## de.wikipedia: FC_Viktoria_Köln
@@ -16,8 +16,12 @@ rotweissoberhausen, Rot-Weiß Oberhausen    ## de.wikipedia: Rot-Weiß_Oberhause
 wuppertalersv,      Wuppertaler SV         ## de.wikipedia: Wuppertaler_SV
 
 
-bayeruerdingen,     FC Bayer 05 Uerdingen   ## de.wikipedia: SC_Bayer_05_Uerdingen   -- (1953-1995) note: now KFC Uerdingen 05 ??
-wattenscheid,       SG Wattenscheid 09      ## de.wikipedia: SG_Wattenscheid_09
+
+# note:  now called KFC Uerdingen 05 (was Bayer 05 Uerdingen)
+bayeruerdingen,     KFC Uerdingen 05|KFC Uerdingen|FC Bayer 05 Uerdingen|Bayer 05 Uerdingen|Bayer Uerdingen   ## de.wikipedia: SC_Bayer_05_Uerdingen   -- (1953-1995) note: now KFC Uerdingen 05 ??
+
+
+wattenscheid,       SG Wattenscheid 09|Wattenscheid 09        ## de.wikipedia: SG_Wattenscheid_09
 
 
 baumberg, SF Baumberg|Sportfreunde Baumberg   ## de.wikipedia: Sportfreunde_Baumberg 

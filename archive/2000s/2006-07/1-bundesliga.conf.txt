@@ -16,7 +16,7 @@ Deutsche Bundesliga 2006/07     ## No.44
  7. Hamburger SV                 34 10 15  9  43-37  45
  8. VfL Bochum                   34 13  6 15  49-50  45
  9. Borussia Dortmund            34 12  8 14  41-43  44
-10. Hertha BSC Berlin            34 12  8 14  50-55  44
+10. Hertha BSC                   34 12  8 14  50-55  44
 11. Hannover 96                  34 12  8 14  41-50  44
 12. DSC Arminia Bielefeld        34 11  9 14  47-49  42
 13. FC Energie Cottbus           34 11  8 15  38-49  41

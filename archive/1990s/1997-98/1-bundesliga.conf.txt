@@ -16,7 +16,7 @@ Deutsche Bundesliga 1997/98      ## No.35
  8. MSV Duisburg                 34 11 11 12  43-44  44
  9. Hamburger SV                 34 11 11 12  38-46  44
 10. Borussia Dortmund            34 11 10 13  57-55  43
-11. Hertha BSC Berlin            34 12  7 15  41-53  43
+11. Hertha BSC                   34 12  7 15  41-53  43
 12. VfL Bochum                   34 11  8 15  41-49  41
 13. TSV München 1860             34 11  8 15  43-54  41
 14. VfL Wolfsburg                34 11  6 17  38-54  39

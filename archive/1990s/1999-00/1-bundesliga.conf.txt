@@ -10,7 +10,7 @@ Deutsche Bundesliga 1999/00        ## No.37    -- use 1999/2000 - why? why not??
  2. Bayer 04 Leverkusen          34 21 10  3  74-36  73
  3. Hamburger SV                 34 16 11  7  63-39  59
  4. TSV 1860 München             34 14 11  9  55-48  53
- 5. 1.FC Kaiserslautern          34 15  5 14  54-59  50
+ 5. 1. FC Kaiserslautern         34 15  5 14  54-59  50
  6. Hertha BSC                   34 13 11 10  39-46  50
  7. VfL Wolfsburg                34 12 13  9  51-58  49
  8. VfB Stuttgart                34 14  6 14  44-47  48

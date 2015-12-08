@@ -20,7 +20,7 @@ Deutsche Bundesliga 1978/79     # No. 16
 11. Werder Bremen                34 10 11 13  48-60  31
 12. Borussia Dortmund            34 10 11 13  54-70  31
 13. MSV Duisburg                 34 12  6 16  43-56  30
-14. Hertha BSC Berlin            34  9 11 14  40-50  29
+14. Hertha BSC                   34  9 11 14  40-50  29
 15. Schalke 04                   34  9 10 15  55-61  28
 16. Arminia Bielefeld            34  9  8 17  43-56  26
 17. 1. FC Nürnberg               34  8  8 18  36-67  24

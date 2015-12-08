@@ -8,7 +8,7 @@ Deutsche Bundesliga 1998/99      ## No.36
 
  1. Bayern München               34 24  6  4  76-28  78
  2. Bayer Leverkusen             34 17 12  5  61-30  63
- 3. Hertha BSC Berlin            34 18  8  8  59-32  62
+ 3. Hertha BSC                   34 18  8  8  59-32  62
  4. Borussia Dortmund            34 16  9  9  48-34  57
  5. 1. FC Kaiserslautern         34 17  6 11  51-47  57
  6. VfL Wolfsburg                34 15 10  9  54-49  55

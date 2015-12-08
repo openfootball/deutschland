@@ -74,7 +74,7 @@
   de.wikipedia: VfL_Bochum
 
 [stpauli]
-  FC St. Pauli|St. Pauli, 1910,  STP
+  FC St. Pauli|St. Pauli|FC Sankt Pauli, 1910,  STP
   Heiligengeistfeld 1 // 20359 Hamburg
   www.fcstpauli.com
   de.wikipedia: FC_St._Pauli
@@ -106,7 +106,7 @@
   de.wikipedia: RB_Leipzig
 
 [duisburg]
- MSV Duisburg|Duisburg, MSV
+ MSV Duisburg|Duisburg|Meidericher SV, MSV         ## note: was Meidericher SV in 1963/64
  // Duisburg    
 
 [bielefeld]

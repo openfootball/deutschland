@@ -197,10 +197,10 @@ FC Ingolstadt 04               1-1  1899 Hoffenheim
 16. Spieltag
 [Sa 12.12.]
 Bayern München                 2-0  FC Ingolstadt 04
-Borussia Dortmund  -  Eintracht Frankfurt
+Borussia Dortmund              4-1  Eintracht Frankfurt
 Bayer Leverkusen               5-0  Bor. Mönchengladbach
 VfL Wolfsburg                  1-1  Hamburger SV
-FC Augsburg  -  FC Schalke 04
+FC Augsburg                    2-1  FC Schalke 04
 Werder Bremen                  1-1  1. FC Köln
 1899 Hoffenheim                1-0  Hannover 96
 1. FSV Mainz 05                0-0  VfB Stuttgart
@@ -208,7 +208,7 @@ SV Darmstadt 98                0-4  Hertha BSC
 
 17. Spieltag
 [Sa 19.12.]
-FC Schalke 04  -  1899 Hoffenheim
+FC Schalke 04                  1-0  1899 Hoffenheim
 Bor. Mönchengladbach  -  SV Darmstadt 98
 Hamburger SV  -  FC Augsburg
 VfB Stuttgart  -  VfL Wolfsburg

@@ -250,11 +250,13 @@ RB Leipzig                       3-1  FSV Frankfurt
 19. Spieltag
 [So 20.12.]
 FC St. Pauli                     1-2  Karlsruher SC
-Eintracht Braunschweig  -  1. FC Kaiserslautern
-SpVgg Greuther Fürth  -  RB Leipzig
-1. FC Heidenheim 1846  -  1. FC Nürnberg
-SC Paderborn 07  -  Fortuna Düsseldorf
-MSV Duisburg  -  VfL Bochum
-SC Freiburg  -  TSV 1860 München
-1. FC Union Berlin              1-0  SV Sandhausen
-FSV Frankfurt                   1-2  Arminia Bielefeld
+Eintracht Braunschweig           1-1  1. FC Kaiserslautern
+SpVgg Greuther Fürth             1-2  RB Leipzig
+1. FC Heidenheim 1846            0-3  1. FC Nürnberg
+SC Paderborn 07                  0-0  Fortuna Düsseldorf
+MSV Duisburg                     0-0  VfL Bochum
+SC Freiburg                      3-0  TSV 1860 München
+1. FC Union Berlin               1-0  SV Sandhausen
+FSV Frankfurt                    1-2  Arminia Bielefeld
+
+Winterpause bis 07.02.16

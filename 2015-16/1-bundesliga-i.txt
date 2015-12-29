@@ -209,11 +209,13 @@ SV Darmstadt 98                0-4  Hertha BSC
 17. Spieltag
 [Sa 19.12.]
 FC Schalke 04                  1-0  1899 Hoffenheim
-Bor. Mönchengladbach  -  SV Darmstadt 98
-Hamburger SV  -  FC Augsburg
-VfB Stuttgart  -  VfL Wolfsburg
-Eintracht Frankfurt  -  Werder Bremen
-1. FC Köln  -  Borussia Dortmund
-Hannover 96  -  Bayern München
-Hertha BSC  -  1. FSV Mainz 05
-FC Ingolstadt 04  -  Bayer Leverkusen
+Bor. Mönchengladbach           3-2  SV Darmstadt 98
+Hamburger SV                   0-1  FC Augsburg
+VfB Stuttgart                  3-1  VfL Wolfsburg
+Eintracht Frankfurt            2-1  Werder Bremen
+1. FC Köln                     2-1  Borussia Dortmund
+Hannover 96                    0-1  Bayern München
+Hertha BSC                     2-0  1. FSV Mainz 05
+FC Ingolstadt 04               0-1  Bayer Leverkusen
+
+Winterpause bis 23.01.16

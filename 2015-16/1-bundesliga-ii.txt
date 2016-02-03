@@ -17,15 +17,15 @@
 19. Spieltag
 
 [Sa 30.1.]
-  SV Darmstadt 98  -  FC Schalke 04
-  1. FSV Mainz 05  -  Bor. Mönchengladbach
-  VfB Stuttgart  -  Hamburger SV
-  FC Augsburg  -  Eintracht Frankfurt
-  VfL Wolfsburg  -  1. FC Köln
-  Bayer Leverkusen  -  Hannover 96
-  Werder Bremen  -  Hertha BSC
-  Bayern München  -  1899 Hoffenheim
-  Borussia Dortmund  -  FC Ingolstadt 04
+  SV Darmstadt 98       0-2  FC Schalke 04
+  1. FSV Mainz 05       1-0  Bor. Mönchengladbach
+  VfB Stuttgart         2-1  Hamburger SV
+  FC Augsburg           0-0  Eintracht Frankfurt
+  VfL Wolfsburg         1-1  1. FC Köln
+  Bayer Leverkusen      3-0  Hannover 96
+  Werder Bremen         3-3  Hertha BSC
+  Bayern München        2-0  1899 Hoffenheim
+  Borussia Dortmund     2-0  FC Ingolstadt 04
 
 20. Spieltag
 [Sa 6.2.]

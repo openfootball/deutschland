@@ -19,16 +19,16 @@
 23. Spieltag
 
 [Sa 30.1.]
-  Energie Cottbus  -  Fortuna Köln
-  Holstein Kiel  -  Chemnitzer FC
-  1. FC Magdeburg  -  Werder Bremen II
-  SV Wehen Wiesbaden  -  Hallescher FC
-  Dynamo Dresden  -  1. FSV Mainz 05 II
-  Preußen Münster  -  Rot-Weiß Erfurt
-  SG Sonnenhof Großaspach  -  Würzburger Kickers
-  Erzgebirge Aue  -  VfB Stuttgart II
-  VfR Aalen  -  Stuttgarter Kickers
-  Hansa Rostock  -  VfL Osnabrück
+  Energie Cottbus          0-0  Fortuna Köln
+  Holstein Kiel            5-2  Chemnitzer FC
+  1. FC Magdeburg          1-1  Werder Bremen II
+  SV Wehen Wiesbaden       1-0  Hallescher FC
+  Dynamo Dresden           3-0  1. FSV Mainz 05 II
+  Preußen Münster          2-0  Rot-Weiß Erfurt
+  SG Sonnenhof Großaspach  1-2  Würzburger Kickers
+  Erzgebirge Aue           1-0  VfB Stuttgart II
+  VfR Aalen                3-0  Stuttgarter Kickers
+  Hansa Rostock            0-0  VfL Osnabrück
 
 24. Spieltag
 [Sa 6.2.]

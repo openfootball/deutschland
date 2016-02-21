@@ -20,7 +20,7 @@ MSV Duisburg             0-1  Karlsruher SC
 SC Paderborn 07          0-4  1. FC Kaiserslautern
 FC St. Pauli             1-0  RB Leipzig
 SC Freiburg              1-2  Fortuna Düsseldorf
-1. FC Nürnberg  -  VfL Bochum
+1. FC Nürnberg           1-1  VfL Bochum
 FSV Frankfurt            1-2  SpVgg Greuther Fürth
 1. FC Union Berlin       3-0  TSV 1860 München
 1. FC Heidenheim 1846    1-1  SV Sandhausen
@@ -30,13 +30,13 @@ Eintracht Braunschweig   1-0  Arminia Bielefeld
 [So 21.2.]
 SV Sandhausen  -  SC Freiburg
 Arminia Bielefeld  -  SC Paderborn 07
-Karlsruher SC  -  Eintracht Braunschweig
+Karlsruher SC            2-2  Eintracht Braunschweig
 Fortuna Düsseldorf  -  1. FC Nürnberg
-RB Leipzig  -  1. FC Union Berlin
+RB Leipzig               3-0  1. FC Union Berlin
 TSV 1860 München  -  VfL Bochum
-1. FC Kaiserslautern  -  1. FC Heidenheim 1846
-FC St. Pauli  -  FSV Frankfurt
-SpVgg Greuther Fürth  -  MSV Duisburg
+1. FC Kaiserslautern     2-2  1. FC Heidenheim 1846
+FC St. Pauli             1-3  FSV Frankfurt
+SpVgg Greuther Fürth     1-1  MSV Duisburg
 
 23. Spieltag
 [So 28.2.]

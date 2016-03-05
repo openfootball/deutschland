@@ -54,7 +54,7 @@ Eintracht Braunschweig   0-0  FSV Frankfurt
 [Mi 2.3.]
 Arminia Bielefeld        1-4  SC Freiburg
 Karlsruher SC            0-0  SC Paderborn 07
-FC St. Pauli  -  Eintracht Braunschweig
+FC St. Pauli             1-0  Eintracht Braunschweig
 SV Sandhausen            0-2  1. FC Nürnberg
 SpVgg Greuther Fürth     2-0  1. FC Union Berlin
 Fortuna Düsseldorf       1-3  VfL Bochum
@@ -64,12 +64,12 @@ FSV Frankfurt            3-3  MSV Duisburg
 
 25. Spieltag
 [So 6.3.]
-Fortuna Düsseldorf  -  Karlsruher SC
-1. FC Nürnberg  -  1. FC Kaiserslautern
+Fortuna Düsseldorf       0-1  Karlsruher SC
+1. FC Nürnberg           2-1  1. FC Kaiserslautern
 SC Freiburg  -  RB Leipzig
 SC Paderborn 07  -  SpVgg Greuther Fürth
 1. FC Heidenheim 1846  -  FC St. Pauli
-TSV 1860 München  -  SV Sandhausen
+TSV 1860 München         3-2  SV Sandhausen
 1. FC Union Berlin  -  FSV Frankfurt
 VfL Bochum  -  Arminia Bielefeld
 Eintracht Braunschweig  -  MSV Duisburg

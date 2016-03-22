@@ -113,15 +113,15 @@ Borussia Dortmund       2-0  1. FSV Mainz 05
 
 27. Spieltag
 [Sa 19.3.]
-1. FC Köln  -  Bayern München
-FC Augsburg  -  Borussia Dortmund
-VfB Stuttgart  -  Bayer Leverkusen
-FC Schalke 04  -  Bor. Mönchengladbach
-Eintracht Frankfurt  -  Hannover 96
-Hamburger SV  -  1899 Hoffenheim
-Werder Bremen  -  1. FSV Mainz 05
-Hertha BSC  -  FC Ingolstadt 04
-VfL Wolfsburg  -  SV Darmstadt 98
+1. FC Köln              0-1  Bayern München
+FC Augsburg             1-3  Borussia Dortmund
+VfB Stuttgart           0-2  Bayer Leverkusen
+FC Schalke 04           2-1  Bor. Mönchengladbach
+Eintracht Frankfurt     1-0  Hannover 96
+Hamburger SV            1-3  1899 Hoffenheim
+Werder Bremen           1-1  1. FSV Mainz 05
+Hertha BSC              2-1  FC Ingolstadt 04
+VfL Wolfsburg           1-1  SV Darmstadt 98
 
 28. Spieltag
 [Sa 2.4.]

@@ -88,15 +88,15 @@ Karlsruher SC            0-0  1. FC Heidenheim 1846
 
 27. Spieltag
 [So 20.3.]
-SC Freiburg  -  Karlsruher SC
-Fortuna Düsseldorf  -  1. FC Kaiserslautern
-1. FC Nürnberg  -  RB Leipzig
-1. FC Union Berlin  -  Eintracht Braunschweig
-VfL Bochum  -  SpVgg Greuther Fürth
-SV Sandhausen  -  FC St. Pauli
-1. FC Heidenheim 1846  -  FSV Frankfurt
-TSV 1860 München  -  Arminia Bielefeld
-SC Paderborn 07  -  MSV Duisburg
+SC Freiburg              1-0  Karlsruher SC
+Fortuna Düsseldorf       4-3  1. FC Kaiserslautern
+1. FC Nürnberg           3-1  RB Leipzig
+1. FC Union Berlin       3-1  Eintracht Braunschweig
+VfL Bochum               2-2  SpVgg Greuther Fürth
+SV Sandhausen            0-2  FC St. Pauli
+1. FC Heidenheim 1846    2-2  FSV Frankfurt
+TSV 1860 München         1-1  Arminia Bielefeld
+SC Paderborn 07          0-0  MSV Duisburg
 
 28. Spieltag
 [So 3.4.]

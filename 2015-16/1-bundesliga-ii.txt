@@ -132,8 +132,8 @@ SV Darmstadt 98         2-2  VfB Stuttgart
 1. FSV Mainz 05         4-2  FC Augsburg
 Borussia Dortmund       3-2  Werder Bremen
 Bayern München          1-0  Eintracht Frankfurt
-1899 Hoffenheim  -  1. FC Köln
-Bor. Mönchengladbach  -  Hertha BSC
+1899 Hoffenheim         1-1  1. FC Köln
+Bor. Mönchengladbach    5-0  Hertha BSC
 
 29. Spieltag
 [Sa 9.4.]

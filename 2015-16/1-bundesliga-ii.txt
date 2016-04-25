@@ -162,15 +162,15 @@ SV Darmstadt 98         2-0  FC Ingolstadt 04
 
 31. Spieltag
 [Sa 23.4.]
-Hertha BSC  -  Bayern München
-VfB Stuttgart  -  Borussia Dortmund
-FC Schalke 04  -  Bayer Leverkusen
-VfL Wolfsburg  -  FC Augsburg
-Hamburger SV           2-1  Werder Bremen
-FC Ingolstadt 04  -  Hannover 96
-Bor. Mönchengladbach  -  1899 Hoffenheim
-Eintracht Frankfurt  -  1. FSV Mainz 05
-1. FC Köln  -  SV Darmstadt 98
+Hertha BSC              0-2  Bayern München
+VfB Stuttgart           0-3  Borussia Dortmund
+FC Schalke 04           2-3  Bayer Leverkusen
+VfL Wolfsburg           0-2  FC Augsburg
+Hamburger SV            2-1  Werder Bremen
+FC Ingolstadt 04        2-2  Hannover 96
+Bor. Mönchengladbach    3-1  1899 Hoffenheim
+Eintracht Frankfurt     2-1  1. FSV Mainz 05
+1. FC Köln              4-1  SV Darmstadt 98
 
 32. Spieltag
 [Sa 30.4.]

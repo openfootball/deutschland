@@ -138,7 +138,7 @@ RB Leipzig               0-1  SV Sandhausen
 [So 24.4.]
 1. FC Heidenheim 1846    1-1  SC Paderborn 07
 VfL Bochum               1-1  Karlsruher SC
-1. FC Kaiserslautern  -  RB Leipzig
+1. FC Kaiserslautern     1-1  RB Leipzig
 TSV 1860 München         1-0  Eintracht Braunschweig
 1. FC Nürnberg           6-2  1. FC Union Berlin
 Arminia Bielefeld        4-2  SpVgg Greuther Fürth
@@ -148,15 +148,15 @@ SC Freiburg              3-0  MSV Duisburg
 
 32. Spieltag
 [So 1.5.]
-SC Paderborn 07  -  SC Freiburg
-FSV Frankfurt  -  1. FC Kaiserslautern
+SC Paderborn 07          1-2  SC Freiburg
+FSV Frankfurt            1-4  1. FC Kaiserslautern
 Eintracht Braunschweig  -  1. FC Nürnberg
-MSV Duisburg  -  Fortuna Düsseldorf
-1. FC Union Berlin  -  VfL Bochum
-FC St. Pauli  -  TSV 1860 München
+MSV Duisburg             2-1  Fortuna Düsseldorf
+1. FC Union Berlin       1-0  VfL Bochum
+FC St. Pauli             0-2  TSV 1860 München
 SpVgg Greuther Fürth  -  1. FC Heidenheim 1846
 Karlsruher SC  -  SV Sandhausen
-RB Leipzig  -  Arminia Bielefeld
+RB Leipzig               1-1  Arminia Bielefeld
 
 33. Spieltag
 [So 8.5.]

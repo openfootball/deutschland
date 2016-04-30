@@ -176,11 +176,11 @@ Eintracht Frankfurt     2-1  1. FSV Mainz 05
 [Sa 30.4.]
 Hannover 96  -  FC Schalke 04
 Bayern München  -  Bor. Mönchengladbach
-Borussia Dortmund  -  VfL Wolfsburg     2.5.
+Borussia Dortmund  -  VfL Wolfsburg     
 1. FSV Mainz 05  -  Hamburger SV
-Werder Bremen  -  VfB Stuttgart
+Werder Bremen  -  VfB Stuttgart     2.5.
 SV Darmstadt 98  -  Eintracht Frankfurt
-FC Augsburg  -  1. FC Köln
+FC Augsburg            0-0  1. FC Köln
 Bayer Leverkusen  -  Hertha BSC
 1899 Hoffenheim  -  FC Ingolstadt 04
 

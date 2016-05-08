@@ -190,15 +190,15 @@ Aufsteiger 1. Bundesliga: SC Freiburg, 1 oder 2 Plätze offen.
 
 33. Spieltag
 [Sa 7.5.]
-  15.30  FC Ingolstadt 04  -  Bayern München
-  15.30  Eintracht Frankfurt  -  Borussia Dortmund
-  15.30  Bor. Mönchengladbach  -  Bayer Leverkusen
-  15.30  Hamburger SV  -  VfL Wolfsburg
-  15.30  FC Schalke 04  -  FC Augsburg
-  15.30  1. FC Köln  -  Werder Bremen
-  15.30  Hannover 96  -  1899 Hoffenheim
-  15.30  VfB Stuttgart  -  1. FSV Mainz 05
-  15.30  Hertha BSC  -  SV Darmstadt 98
+  15.30  FC Ingolstadt 04      1-2  Bayern München
+  15.30  Eintracht Frankfurt   1-0  Borussia Dortmund
+  15.30  Bor. Mönchengladbach  2-1  Bayer Leverkusen
+  15.30  Hamburger SV          0-1  VfL Wolfsburg
+  15.30  FC Schalke 04         1-1  FC Augsburg
+  15.30  1. FC Köln            0-0  Werder Bremen
+  15.30  Hannover 96           1-0  1899 Hoffenheim
+  15.30  VfB Stuttgart         1-3  1. FSV Mainz 05
+  15.30  Hertha BSC            1-2  SV Darmstadt 98
 
 34. Spieltag
 [Sa 14.5.]

@@ -166,24 +166,38 @@ Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue.
 
 33. Spieltag
 [So 8.5.]
-  15.30  TSV 1860 München       1-0  SC Paderborn 07
-  15.30  RB Leipzig             2-0  Karlsruher SC
-  15.30  VfL Bochum             2-3  Eintracht Braunschweig
-  15.30  Arminia Bielefeld      2-0  1. FC Union Berlin
-  15.30  1. FC Kaiserslautern   3-1  SpVgg Greuther Fürth
-  15.30  1. FC Nürnberg         1-0  FC St. Pauli
-  15.30  SC Freiburg            2-0  1. FC Heidenheim 1846
-  15.30  Fortuna Düsseldorf     1-0  FSV Frankfurt
-  15.30  SV Sandhausen          2-2  MSV Duisburg
+  15.30  TSV 1860 München        1-0  SC Paderborn 07
+  15.30  RB Leipzig              2-0  Karlsruher SC
+  15.30  VfL Bochum              2-3  Eintracht Braunschweig
+  15.30  Arminia Bielefeld       2-0  1. FC Union Berlin
+  15.30  1. FC Kaiserslautern    3-1  SpVgg Greuther Fürth
+  15.30  1. FC Nürnberg          1-0  FC St. Pauli
+  15.30  SC Freiburg             2-0  1. FC Heidenheim 1846
+  15.30  Fortuna Düsseldorf      1-0  FSV Frankfurt
+  15.30  SV Sandhausen           2-2  MSV Duisburg
 
 34. Spieltag
 [So 15.5.]
-  15.30  1. FC Union Berlin  -  SC Freiburg
-  15.30  FC St. Pauli  -  1. FC Kaiserslautern
-  15.30  MSV Duisburg  -  RB Leipzig
-  15.30  SC Paderborn 07  -  1. FC Nürnberg
-  15.30  Eintracht Braunschweig  -  Fortuna Düsseldorf
-  15.30  1. FC Heidenheim 1846  -  VfL Bochum
-  15.30  FSV Frankfurt  -  TSV 1860 München
-  15.30  SpVgg Greuther Fürth  -  SV Sandhausen
-  15.30  Karlsruher SC  -  Arminia Bielefeld
+  15.30  1. FC Union Berlin      2-1  SC Freiburg
+  15.30  FC St. Pauli            5-2  1. FC Kaiserslautern
+  15.30  MSV Duisburg            1-0  RB Leipzig
+  15.30  SC Paderborn 07         0-1  1. FC Nürnberg
+  15.30  Eintracht Braunschweig  0-2  Fortuna Düsseldorf
+  15.30  1. FC Heidenheim 1846   2-4  VfL Bochum
+  15.30  FSV Frankfurt           2-1  TSV 1860 München
+  15.30  SpVgg Greuther Fürth    3-1  SV Sandhausen
+  15.30  Karlsruher SC           1-1  Arminia Bielefeld
+  
+  
+  Aufsteiger in 1. Bundesliga: SC Freiburg, RB Leipzig.
+  Absteiger in 3. Liga: FSV Frankfurt, SC Paderborn 07.
+  
+  Play-Off 1. Bundesliga-Platz:
+  
+  Eintracht Frankfurt- 1. FC Nürnberg    19.5.
+  1. FC Nürnberg- Eintracht Frankfurt    23.5.
+  
+  Play-Off 2. Bundesliga-Platz:
+  
+  MSV Duisburg- Würzburger Kickers   20.5.
+  Würzburger Kickers- MSV Duisburg   24.5.

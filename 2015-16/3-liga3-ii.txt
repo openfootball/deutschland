@@ -200,9 +200,9 @@ Holstein Kiel              1-0  VfB Stuttgart II
 SV Wehen Wiesbaden         0-2  Preußen Münster
 
 
-Aufsteiger 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue, Würzburger Kickers im Play-Off
-Absteiger 3. Bundesliga: VfB Stuttgart II, 2 Plätze noch offen. 
-Aufsteiger 3. Bundesliga Play-Off: SV Waldhof Mannheim, SV Elversberg, Spielfreunde Lotte, 3 Plätze noch offen. 
+Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue, Würzburger Kickers im Play-Off.
+Absteiger in 3. Liga: VfB Stuttgart II, 2 Plätze noch offen. 
+Aufsteiger 3. Liga Play-Off: SV Waldhof Mannheim, SV Elversberg, Spielfreunde Lotte, 3 Plätze noch offen. 
 
 
 37. Spieltag
@@ -220,13 +220,29 @@ Aufsteiger 3. Bundesliga Play-Off: SV Waldhof Mannheim, SV Elversberg, Spielfreu
 
 38. Spieltag
 [Sa 14.5.]
-  13.30  VfL Osnabrück  -  Fortuna Köln
-  13.30  Stuttgarter Kickers  -  Chemnitzer FC
-  13.30  VfR Aalen  -  Werder Bremen II
-  13.30  Hansa Rostock  -  Hallescher FC
-  13.30  Energie Cottbus  -  1. FSV Mainz 05 II
-  13.30  Holstein Kiel  -  Rot-Weiß Erfurt
-  13.30  1. FC Magdeburg  -  Würzburger Kickers
-  13.30  SV Wehen Wiesbaden  -  VfB Stuttgart II
-  13.30  Dynamo Dresden  -  SG Sonnenhof Großaspach
-  13.30  Erzgebirge Aue  -  Preußen Münster
+  13.30  VfL Osnabrück             1-3  Fortuna Köln
+  13.30  Stuttgarter Kickers       0-1  Chemnitzer FC
+  13.30  VfR Aalen                 1-2  Werder Bremen II
+  13.30  Hansa Rostock             3-1  Hallescher FC
+  13.30  Energie Cottbus           2-3  1. FSV Mainz 05 II
+  13.30  Holstein Kiel             0-3  Rot-Weiß Erfurt
+  13.30  1. FC Magdeburg           0-1  Würzburger Kickers
+  13.30  SV Wehen Wiesbaden        3-1  VfB Stuttgart II
+  13.30  Dynamo Dresden            2-1  SG Sonnenhof Großaspach
+  13.30  Erzgebirge Aue            3-0  Preußen Münster
+  
+  Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue.
+  Absteiger in 3. Liga: Stuttgarter Kickers, Energie Cottbus, VfB Stuttgart II.
+  
+  Play-Off 2. Bundesliga-Platz:
+  
+  MSV Duisburg - Würzburger Kickers       20.5.
+  Würzburger Kickers - MSV Duisburg       25.5.
+  
+  Play-Off Teilnehmer für 3. Liga: (6 Vereine um 3 Aufstiegsplätze).
+  
+  SV Waldhof Mannheim, SV Elversberg, Wolfsburg II, Sportfreunde Lotte, Zwickau oder Berliner AC, Regensburg oder Nürnberg II.
+  
+  
+  
+  

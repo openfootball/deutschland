@@ -185,7 +185,7 @@ Bayer Leverkusen        2-1  Hertha BSC
 1899 Hoffenheim         2-1  FC Ingolstadt 04
 
 
-Absteiger 1. Bundesliga: Hannover 96, 1 oder 2 Plätze offen.
+Absteiger in 2. Bundesliga: Hannover 96, 1 oder 2 Plätze offen.
 Aufsteiger 1. Bundesliga: SC Freiburg, 1 oder 2 Plätze offen.
 
 33. Spieltag
@@ -202,14 +202,27 @@ Aufsteiger 1. Bundesliga: SC Freiburg, 1 oder 2 Plätze offen.
 
 34. Spieltag
 [Sa 14.5.]
-  15.30  1899 Hoffenheim  -  FC Schalke 04
-  15.30  SV Darmstadt 98  -  Bor. Mönchengladbach
-  15.30  FC Augsburg  -  Hamburger SV
-  15.30  VfL Wolfsburg  -  VfB Stuttgart
-  15.30  Werder Bremen  -  Eintracht Frankfurt
-  15.30  Borussia Dortmund  -  1. FC Köln
-  15.30  Bayern München  -  Hannover 96
-  15.30  1. FSV Mainz 05  -  Hertha BSC
-  15.30  Bayer Leverkusen  -  FC Ingolstadt 04
+  15.30  1899 Hoffenheim       1-4  FC Schalke 04
+  15.30  SV Darmstadt 98       0-2  Bor. Mönchengladbach
+  15.30  FC Augsburg           1-3  Hamburger SV
+  15.30  VfL Wolfsburg         3-1  VfB Stuttgart
+  15.30  Werder Bremen         1-0  Eintracht Frankfurt
+  15.30  Borussia Dortmund     2-2  1. FC Köln
+  15.30  Bayern München        3-1  Hannover 96
+  15.30  1. FSV Mainz 05       0-0  Hertha BSC
+  15.30  Bayer Leverkusen      3-2  FC Ingolstadt 04
+
+
+Meister 1. Bundesliga: Bayern München.
+Absteiger in 2. Bundesliga: VfB Stuttgart, Hannover 96.
+Aufsteiger in 1. Bundesliga: SC Freiburg, RB Leipzig.
+
+Play-Off um 1. Bundesliga-Platz: 
+
+Eintracht Frankfurt- 1. FC Nürnberg        19.5.
+1. FC Nürnberg- Eintracht Frankfurt        23.5.
+
+
+
 
 

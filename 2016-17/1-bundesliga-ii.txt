@@ -1,0 +1,215 @@
+Spieltag 17
+[Sa 21.1.]
+	Bayer Leverkusen	Hertha BSC
+	FC Schalke 04	FC Ingolstadt 04
+	1. FSV Mainz 05	1. FC Köln
+	VfL Wolfsburg	Hamburger SV
+	FC Augsburg	1899 Hoffenheim
+	Werder Bremen	Borussia Dortmund
+	SV Darmstadt 98	Bor. Mönchengladbach
+	SC Freiburg	Bayern München
+	RB Leipzig	Eintracht Frankfurt
+
+Spieltag 18
+[Sa 28.1.]
+	Werder Bremen	Bayern München
+	FC Schalke 04	Eintracht Frankfurt
+	RB Leipzig	1899 Hoffenheim
+	VfL Wolfsburg	FC Augsburg
+	FC Ingolstadt 04	Hamburger SV
+	SV Darmstadt 98	1. FC Köln
+	SC Freiburg	Hertha BSC
+	Bayer Leverkusen	Bor. Mönchengladbach
+	1. FSV Mainz 05	Borussia Dortmund
+
+Spieltag 19
+[Sa 4.2.]
+	Hamburger SV	Bayer Leverkusen
+	Bayern München	FC Schalke 04
+	1899 Hoffenheim	1. FSV Mainz 05
+	1. FC Köln	VfL Wolfsburg
+	Hertha BSC	FC Ingolstadt 04
+	FC Augsburg	Werder Bremen
+	Eintracht Frankfurt	SV Darmstadt 98
+	Bor. Mönchengladbach	SC Freiburg
+	Borussia Dortmund	RB Leipzig
+
+Spieltag 20
+[Sa 11.2.]
+	FC Ingolstadt 04	Bayern München
+	SV Darmstadt 98	Borussia Dortmund
+	Werder Bremen	Bor. Mönchengladbach
+	FC Schalke 04	Hertha BSC
+	SC Freiburg	1. FC Köln
+	RB Leipzig	Hamburger SV
+	1. FSV Mainz 05	FC Augsburg
+	VfL Wolfsburg	1899 Hoffenheim
+	Bayer Leverkusen	Eintracht Frankfurt
+
+Spieltag 21
+[Sa 18.2.]
+	Hertha BSC	Bayern München
+	FC Augsburg	Bayer Leverkusen
+	1. FC Köln	FC Schalke 04
+	Borussia Dortmund	VfL Wolfsburg
+	Eintracht Frankfurt	FC Ingolstadt 04
+	1. FSV Mainz 05	Werder Bremen
+	1899 Hoffenheim	SV Darmstadt 98
+	Hamburger SV	SC Freiburg
+	Bor. Mönchengladbach	RB Leipzig
+
+Spieltag 22
+[Sa 25.2.]
+	SC Freiburg	Borussia Dortmund
+	FC Ingolstadt 04	Bor. Mönchengladbach
+	Bayer Leverkusen	1. FSV Mainz 05
+	RB Leipzig	1. FC Köln
+	Bayern München	Hamburger SV
+	SV Darmstadt 98	FC Augsburg
+	VfL Wolfsburg	Werder Bremen
+	FC Schalke 04	1899 Hoffenheim
+	Hertha BSC	Eintracht Frankfurt
+
+Spieltag 23
+[Sa 4.3.]
+	1. FC Köln	Bayern München
+	Borussia Dortmund	Bayer Leverkusen
+	Bor. Mönchengladbach	FC Schalke 04
+	Hamburger SV	Hertha BSC
+	1. FSV Mainz 05	VfL Wolfsburg
+	1899 Hoffenheim	FC Ingolstadt 04
+	Werder Bremen	SV Darmstadt 98
+	Eintracht Frankfurt	SC Freiburg
+	FC Augsburg	RB Leipzig
+
+Spieltag 24
+[Sa 11.3.]
+	Hertha BSC	Borussia Dortmund
+	Hamburger SV	Bor. Mönchengladbach
+	SV Darmstadt 98	1. FSV Mainz 05
+	RB Leipzig	VfL Wolfsburg
+	FC Ingolstadt 04	1. FC Köln
+	FC Schalke 04	FC Augsburg
+	Bayer Leverkusen	Werder Bremen
+	SC Freiburg	1899 Hoffenheim
+	Bayern München	Eintracht Frankfurt
+
+Spieltag 25
+[Sa 18.3.]
+	Bor. Mönchengladbach	Bayern München
+	1899 Hoffenheim	Bayer Leverkusen
+	1. FSV Mainz 05	FC Schalke 04
+	1. FC Köln	Hertha BSC
+	Eintracht Frankfurt	Hamburger SV
+	Borussia Dortmund	FC Ingolstadt 04
+	VfL Wolfsburg	SV Darmstadt 98
+	Werder Bremen	RB Leipzig
+	FC Augsburg	SC Freiburg
+
+Spieltag 26
+[Sa 1.4.]
+	FC Schalke 04	Borussia Dortmund
+	Eintracht Frankfurt	Bor. Mönchengladbach
+	FC Ingolstadt 04	1. FSV Mainz 05
+	Bayer Leverkusen	VfL Wolfsburg
+	Hamburger SV	1. FC Köln
+	Bayern München	FC Augsburg
+	SC Freiburg	Werder Bremen
+	RB Leipzig	SV Darmstadt 98
+	Hertha BSC	1899 Hoffenheim
+
+Spieltag 27
+[Di 4.4.]
+	1899 Hoffenheim	Bayern München
+	SV Darmstadt 98	Bayer Leverkusen
+	Werder Bremen	FC Schalke 04
+	Bor. Mönchengladbach	Hertha BSC
+	Borussia Dortmund	Hamburger SV
+	FC Augsburg	FC Ingolstadt 04
+	1. FC Köln	Eintracht Frankfurt
+	VfL Wolfsburg	SC Freiburg
+	1. FSV Mainz 05	RB Leipzig
+
+Spieltag 28
+[Sa 8.4.]
+	Bayern München	Borussia Dortmund
+	RB Leipzig	Bayer Leverkusen
+	1. FC Köln	Bor. Mönchengladbach
+	SC Freiburg	1. FSV Mainz 05
+	FC Schalke 04	VfL Wolfsburg
+	Hertha BSC	FC Augsburg
+	Eintracht Frankfurt	Werder Bremen
+	FC Ingolstadt 04	SV Darmstadt 98
+	Hamburger SV	1899 Hoffenheim
+
+Spieltag 29
+[Sa 15.4.]
+	Bayer Leverkusen	Bayern München
+	1899 Hoffenheim	Bor. Mönchengladbach
+	SV Darmstadt 98	FC Schalke 04
+	1. FSV Mainz 05	Hertha BSC
+	FC Augsburg	1. FC Köln
+	Werder Bremen	Hamburger SV
+	VfL Wolfsburg	FC Ingolstadt 04
+	Borussia Dortmund	Eintracht Frankfurt
+	RB Leipzig	SC Freiburg
+
+Spieltag 30
+[Sa 22.4.]
+	Bor. Mönchengladbach	Borussia Dortmund
+	SC Freiburg	Bayer Leverkusen
+	Bayern München	1. FSV Mainz 05
+	Hertha BSC	VfL Wolfsburg
+	Eintracht Frankfurt	FC Augsburg
+	FC Ingolstadt 04	Werder Bremen
+	Hamburger SV	SV Darmstadt 98
+	1. FC Köln	1899 Hoffenheim
+	FC Schalke 04	RB Leipzig
+
+Spieltag 31
+[Sa 29.4.]
+	VfL Wolfsburg	Bayern München
+	1. FSV Mainz 05	Bor. Mönchengladbach
+	Bayer Leverkusen	FC Schalke 04
+	Werder Bremen	Hertha BSC
+	Borussia Dortmund	1. FC Köln
+	FC Augsburg	Hamburger SV
+	RB Leipzig	FC Ingolstadt 04
+	1899 Hoffenheim	Eintracht Frankfurt
+	SV Darmstadt 98	SC Freiburg
+
+Spieltag 32
+[Sa 6.5.]
+	FC Ingolstadt 04	Bayer Leverkusen
+	SC Freiburg	FC Schalke 04
+	Hamburger SV	1. FSV Mainz 05
+	Eintracht Frankfurt	VfL Wolfsburg
+	Bor. Mönchengladbach	FC Augsburg
+	1. FC Köln	Werder Bremen
+	Bayern München	SV Darmstadt 98
+	Borussia Dortmund	1899 Hoffenheim
+	Hertha BSC	RB Leipzig
+
+Spieltag 33
+[Sa 13.5.]
+	RB Leipzig	Bayern München
+	FC Augsburg	Borussia Dortmund
+	VfL Wolfsburg	Bor. Mönchengladbach
+	SV Darmstadt 98	Hertha BSC
+	Bayer Leverkusen	1. FC Köln
+	FC Schalke 04	Hamburger SV
+	SC Freiburg	FC Ingolstadt 04
+	Werder Bremen	1899 Hoffenheim
+	1. FSV Mainz 05	Eintracht Frankfurt
+
+Spieltag 34
+[Sa 20.5.]
+	Hertha BSC	Bayer Leverkusen
+	FC Ingolstadt 04	FC Schalke 04
+	1. FC Köln	1. FSV Mainz 05
+	Hamburger SV	VfL Wolfsburg
+	1899 Hoffenheim	FC Augsburg
+	Borussia Dortmund	Werder Bremen
+	Bor. Mönchengladbach	SV Darmstadt 98
+	Bayern München	SC Freiburg
+	Eintracht Frankfurt	RB Leipzig

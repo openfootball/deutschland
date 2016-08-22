@@ -5,63 +5,63 @@
 1. Spieltag
 
 [Fr 29.7.]
- 	Duisburg	1:0 (0:0)	Paderborn
+ MSV Duisburg          1:0 (0:0)	Paderborn
 [Sa 30.7.]
   Chemnitz	       0:0 (0:0) 	Großaspach
   Erfurt	       0:3 (0:1) 	Halle
- 	Kiel	       1:1 (1:0) 	FSV Frankfurt
+ Holstein Kiel	       1:1 (1:0) 	FSV Frankfurt
   Wehen WI	       1:2 (0:0) 	Aalen
  	Mainz II       2:2 (0:1) 	Zwickau
- 	Regensburg     2:0 (0:0) 	Rostock
+ Jahn Regensburg       2:0 (0:0) 	Hansa Rostock
 [So 31.7.]
-  Münster	       0:1 (0:1) 	Osnabrück
- 	Bremen II      0:3 (0:1) 	Lotte
- 	Magdeburg      0:3 (0:1) 	F. Köln
+ Preußen Münster       0:1 (0:1) 	Vfl Osnabrück
+ Werder	Bremen II      0:3 (0:1) 	Spielfreunde Lotte
+ 1.FC Magdeburg        0:3 (0:1) 	Fortuna Köln
 
 2. Spieltag
 
 [Fr 5.8.]
-	F. Köln	      2:0 (1:0)  	Bremen II
- 	Rostock	      1:0 (0:0) 	Münster
+	Fortuna Köln  2:0 (1:0)  	Werder Bremen II
+ 	Hansa Rostock 1:0 (0:0) 	Preußen Münster
 [Sa 6.8.]
 	Paderborn     3:1 (2:1) 	Mainz II
- 	Lotte	      0:0 (0:0) 	Wehen WI
-	Aalen	      1:0 (0:0) 	Kiel
+ 	Spielfr.Lotte 0:0 (0:0) 	Wehen WI
+	Aalen	      1:0 (0:0) 	Holstein Kiel
  	FSV Frankfurt 0:1 (0:0) 	Erfurt
  	Halle	      1:1 (1:0) 	Chemnitz
 [So 7.8.]
-	Großaspach    3:4 (2:1) 	Regensburg
- 	Osnabrück     1:1 (0:0) 	Duisburg
+	Großaspach    3:4 (2:1) 	Jahn Regensburg
+ 	Vfl Osnabrück 1:1 (0:0) 	MSV Duisburg
 [Do 1.9.]
-	Zwickau	 - 	Magdeburg
+	Zwickau	 - 	1. FC Magdeburg
 
 3. Spieltag
 
 [Di 9.8.]
  	Erfurt	      0:0 (0:0) 	Aalen
-	Kiel	      3:1 (1:0) 	Lotte
- 	Wehen WI      3:0 (1:0) 	F. Köln
- 	Magdeburg     3:0 (2:0) 	Paderborn
+	Holstein Kiel 3:1 (1:0) 	Spielfr.Lotte
+ 	Wehen WI      3:0 (1:0) 	Fortuna Köln
+ 	1.FC Magdeburg 3:0 (2:0) 	Paderborn
 [Mi 10.8.]
-	Bremen II     1:3 (1:1) 	Zwickau
-	Münster	      1:1 (0:1) 	Duisburg
+	Werder Bremen II     1:3 (1:1) 	Zwickau
+	Preußen Münster	      1:1 (0:1) 	Duisburg
  	Chemnitz      2:1 (1:1) 	FSV Frankfurt
- 	Mainz II      2:2 (1:0) 	Osnabrück
- 	Rostock	      0:0 (0:0) 	Großaspach
- 	Regensburg    2:0 (1:0) 	Halle
+ 	Mainz II      2:2 (1:0) 	Vfl Osnabrück
+ 	Hansa Rostock	   0:0 (0:0) 	Großaspach
+ 	Jahn Regensburg    2:0 (1:0) 	Halle
 
 4. Spieltag
 [Fr 12.8.]
-	Lotte	      2:2 (1:0) 	Erfurt
+	Spielfr.Lotte	      2:2 (1:0) 	Erfurt
 [Sa 13.8.]
-	Paderborn     1:2 (0:0) 	Bremen II
+	Paderborn     1:2 (0:0) 	Werder Bremen II
  	Zwickau	      0:3 (0:0) 	Wehen WI
- 	F. Köln	      1:0 (1:0) 	Kiel
- 	FSV Frankfurt 1:1 (0:0) 	Regensburg
- 	Halle	      0:0 (0:0) 	Rostock
- 	Großaspach    2:0 (1:0) 	Münster
- 	Duisburg      4:0 (1:0) 	Mainz II
- 	Osnabrück     3:2 (0:0) 	Magdeburg
+ 	Fortuna Köln	      1:0 (1:0) 	Holstein Kiel
+ 	FSV Frankfurt 1:1 (0:0) 	Jahn Regensburg
+ 	Halle	      0:0 (0:0) 	Hansa Rostock
+ 	Großaspach    2:0 (1:0) 	Preußen Münster
+ 	MSV Duisburg      4:0 (1:0) 	Mainz II
+ 	Vfl Osnabrück     3:2 (0:0) 	1.FC Magdeburg
 [So 14.8.]
 	Aalen	      2:2 (0:1) 	Chemnitz
 

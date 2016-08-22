@@ -1,4 +1,4 @@
-Spieltag 17
+17. Spieltag
 [Sa 21.1.]
 	Bayer Leverkusen	Hertha BSC
 	FC Schalke 04	FC Ingolstadt 04
@@ -10,7 +10,7 @@ Spieltag 17
 	SC Freiburg	Bayern München
 	RB Leipzig	Eintracht Frankfurt
 
-Spieltag 18
+18. Spieltag
 [Sa 28.1.]
 	Werder Bremen	Bayern München
 	FC Schalke 04	Eintracht Frankfurt
@@ -22,7 +22,7 @@ Spieltag 18
 	Bayer Leverkusen	Bor. Mönchengladbach
 	1. FSV Mainz 05	Borussia Dortmund
 
-Spieltag 19
+19. Spieltag
 [Sa 4.2.]
 	Hamburger SV	Bayer Leverkusen
 	Bayern München	FC Schalke 04
@@ -34,7 +34,7 @@ Spieltag 19
 	Bor. Mönchengladbach	SC Freiburg
 	Borussia Dortmund	RB Leipzig
 
-Spieltag 20
+20. Spieltag
 [Sa 11.2.]
 	FC Ingolstadt 04	Bayern München
 	SV Darmstadt 98	Borussia Dortmund
@@ -46,7 +46,7 @@ Spieltag 20
 	VfL Wolfsburg	1899 Hoffenheim
 	Bayer Leverkusen	Eintracht Frankfurt
 
-Spieltag 21
+21. Spieltag
 [Sa 18.2.]
 	Hertha BSC	Bayern München
 	FC Augsburg	Bayer Leverkusen
@@ -58,7 +58,7 @@ Spieltag 21
 	Hamburger SV	SC Freiburg
 	Bor. Mönchengladbach	RB Leipzig
 
-Spieltag 22
+22. Spieltag
 [Sa 25.2.]
 	SC Freiburg	Borussia Dortmund
 	FC Ingolstadt 04	Bor. Mönchengladbach
@@ -70,7 +70,7 @@ Spieltag 22
 	FC Schalke 04	1899 Hoffenheim
 	Hertha BSC	Eintracht Frankfurt
 
-Spieltag 23
+23. Spieltag
 [Sa 4.3.]
 	1. FC Köln	Bayern München
 	Borussia Dortmund	Bayer Leverkusen
@@ -82,7 +82,7 @@ Spieltag 23
 	Eintracht Frankfurt	SC Freiburg
 	FC Augsburg	RB Leipzig
 
-Spieltag 24
+24. Spieltag
 [Sa 11.3.]
 	Hertha BSC	Borussia Dortmund
 	Hamburger SV	Bor. Mönchengladbach
@@ -94,7 +94,7 @@ Spieltag 24
 	SC Freiburg	1899 Hoffenheim
 	Bayern München	Eintracht Frankfurt
 
-Spieltag 25
+25. Spieltag
 [Sa 18.3.]
 	Bor. Mönchengladbach	Bayern München
 	1899 Hoffenheim	Bayer Leverkusen
@@ -106,7 +106,7 @@ Spieltag 25
 	Werder Bremen	RB Leipzig
 	FC Augsburg	SC Freiburg
 
-Spieltag 26
+26. Spieltag
 [Sa 1.4.]
 	FC Schalke 04	Borussia Dortmund
 	Eintracht Frankfurt	Bor. Mönchengladbach
@@ -118,7 +118,7 @@ Spieltag 26
 	RB Leipzig	SV Darmstadt 98
 	Hertha BSC	1899 Hoffenheim
 
-Spieltag 27
+27. Spieltag
 [Di 4.4.]
 	1899 Hoffenheim	Bayern München
 	SV Darmstadt 98	Bayer Leverkusen
@@ -130,7 +130,7 @@ Spieltag 27
 	VfL Wolfsburg	SC Freiburg
 	1. FSV Mainz 05	RB Leipzig
 
-Spieltag 28
+28. Spieltag
 [Sa 8.4.]
 	Bayern München	Borussia Dortmund
 	RB Leipzig	Bayer Leverkusen
@@ -142,7 +142,7 @@ Spieltag 28
 	FC Ingolstadt 04	SV Darmstadt 98
 	Hamburger SV	1899 Hoffenheim
 
-Spieltag 29
+29. Spieltag
 [Sa 15.4.]
 	Bayer Leverkusen	Bayern München
 	1899 Hoffenheim	Bor. Mönchengladbach
@@ -154,7 +154,7 @@ Spieltag 29
 	Borussia Dortmund	Eintracht Frankfurt
 	RB Leipzig	SC Freiburg
 
-Spieltag 30
+30. Spieltag
 [Sa 22.4.]
 	Bor. Mönchengladbach	Borussia Dortmund
 	SC Freiburg	Bayer Leverkusen
@@ -166,7 +166,7 @@ Spieltag 30
 	1. FC Köln	1899 Hoffenheim
 	FC Schalke 04	RB Leipzig
 
-Spieltag 31
+31. Spieltag
 [Sa 29.4.]
 	VfL Wolfsburg	Bayern München
 	1. FSV Mainz 05	Bor. Mönchengladbach
@@ -178,7 +178,7 @@ Spieltag 31
 	1899 Hoffenheim	Eintracht Frankfurt
 	SV Darmstadt 98	SC Freiburg
 
-Spieltag 32
+32. Spieltag
 [Sa 6.5.]
 	FC Ingolstadt 04	Bayer Leverkusen
 	SC Freiburg	FC Schalke 04
@@ -190,7 +190,7 @@ Spieltag 32
 	Borussia Dortmund	1899 Hoffenheim
 	Hertha BSC	RB Leipzig
 
-Spieltag 33
+33. Spieltag
 [Sa 13.5.]
 	RB Leipzig	Bayern München
 	FC Augsburg	Borussia Dortmund
@@ -202,7 +202,7 @@ Spieltag 33
 	Werder Bremen	1899 Hoffenheim
 	1. FSV Mainz 05	Eintracht Frankfurt
 
-Spieltag 34
+34. Spieltag
 [Sa 20.5.]
 	Hertha BSC	Bayer Leverkusen
 	FC Ingolstadt 04	FC Schalke 04

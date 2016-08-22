@@ -5,35 +5,35 @@
 Spieltag 1
 
 [Fr 5.8.]
-  1. FC Kaiserslautern  0:4   Hannover 96
+  1. FC Kaiserslautern   0:4   Hannover 96
 [Sa 6.8.]
-  VfL Bochum      2:1   1. FC Union Berlin
-  SV Sandhausen   2:2   Fortuna Düsseldorf
-  Dynamo Dresden  1:1   1. FC Nürnberg
+  VfL Bochum             2:1   1. FC Union Berlin
+  SV Sandhausen          2:2   Fortuna Düsseldorf
+  Dynamo Dresden         1:1   1. FC Nürnberg
 [So 7.8.]
   SpVgg Greuther Fürth   1:0  TSV 1860 München
-  Eintracht Braunschweig 2:1   Würzburger Kickers
-  1. FC Heidenheim 1846   1:0  Erzgebirge Aue
-  Arminia Bielefeld       0:0  Karlsruher SC
+  Eintracht Braunschweig 2:1  Würzburger Kickers
+  1. FC Heidenheim 1846  1:0  Erzgebirge Aue
+  Arminia Bielefeld      0:0  Karlsruher SC
 [Mo 8.8.]
-  VfB Stuttgart     2:1  FC St. Pauli
+  VfB Stuttgart          2:1  FC St. Pauli
 
 
 Spieltag 2
 
 [Fr 12.8.]
-  1. FC Nürnberg      1:1   1. FC Heidenheim 1846
-  Erzgebirge Aue      2:0   SV Sandhausen
-  Fortuna Düsseldorf  1:0    VfB Stuttgart
+  1. FC Nürnberg         1:1   1. FC Heidenheim 1846
+  Erzgebirge Aue         2:0   SV Sandhausen
+  Fortuna Düsseldorf     1:0    VfB Stuttgart
 [Sa 13.8.]
-  Karlsruher SC        1:1  VfL Bochum
-  FC St. Pauli        0:2   Eintracht Braunschweig
+  Karlsruher SC          1:1  VfL Bochum
+  FC St. Pauli           0:2   Eintracht Braunschweig
 [So 14.8.]
-  Hannover 96          3:1  SpVgg Greuther Fürth
-  TSV 1860 München    1:0  Arminia Bielefeld
-  Würzburger Kickers  1:1  1. FC Kaiserslautern
+  Hannover 96            3:1  SpVgg Greuther Fürth
+  TSV 1860 München       1:0  Arminia Bielefeld
+  Würzburger Kickers     1:1  1. FC Kaiserslautern
 [Mo 15.8.]
-  1. FC Union Berlin  2:2  Dynamo Dresden
+  1. FC Union Berlin     2:2  Dynamo Dresden
 
 
 Spieltag 3

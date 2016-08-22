@@ -4,23 +4,23 @@
 
 1. Spieltag
 
-[Fr	29.7.]
+[Fr 29.7.]
  	Duisburg	1:0 (0:0)	Paderborn
-[Sa	30.7.]
+[Sa 30.7.]
   Chemnitz	 0:0 (0:0) 	Großaspach
   Erfurt	   0:3 (0:1) 	Halle
  	Kiel	     1:1 (1:0) 	FSV Frankfurt
   Wehen WI	 1:2 (0:0) 	Aalen
  	Mainz II	 2:2 (0:1) 	Zwickau
  	Regensburg 2:0 (0:0) 	Rostock
-[So	31.7.]
+[So 31.7.]
   Münster	   0:1 (0:1) 	Osnabrück
  	Bremen II	 0:3 (0:1) 	Lotte
  	Magdeburg	 0:3 (0:1) 	F. Köln
 
 2. Spieltag
 
-[Fr	5.8.]
+[Fr 5.8.]
 	F. Köln	  2:0 (1:0)  	Bremen II
  	Rostock	  1:0 (0:0) 	Münster
 [Sa 6.8.]
@@ -37,7 +37,7 @@
 
 3. Spieltag
 
-[Di	9.8.]
+[Di 9.8.]
  	Erfurt	   0:0 (0:0) 	Aalen
 	Kiel	     3:1 (1:0) 	Lotte
  	Wehen WI	 3:0 (1:0) 	F. Köln

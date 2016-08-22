@@ -5,228 +5,228 @@
 Spieltag 1
 
 [Fr 5.8.]
-	1. FC Kaiserslautern  0:4 	Hannover 96
+  1. FC Kaiserslautern  0:4   Hannover 96
 [Sa 6.8.]
-	VfL Bochum	    2:1   1. FC Union Berlin
-	SV Sandhausen   2:2 	Fortuna Düsseldorf
-	Dynamo Dresden  1:1 	1. FC Nürnberg
+  VfL Bochum      2:1   1. FC Union Berlin
+  SV Sandhausen   2:2   Fortuna Düsseldorf
+  Dynamo Dresden  1:1   1. FC Nürnberg
 [So 7.8.]
-	SpVgg Greuther Fürth   1:0	TSV 1860 München
-	Eintracht Braunschweig 2:1 	Würzburger Kickers
-	1. FC Heidenheim 1846	 1:0  Erzgebirge Aue
-	Arminia Bielefeld	     0:0  Karlsruher SC
+  SpVgg Greuther Fürth   1:0  TSV 1860 München
+  Eintracht Braunschweig 2:1   Würzburger Kickers
+  1. FC Heidenheim 1846   1:0  Erzgebirge Aue
+  Arminia Bielefeld       0:0  Karlsruher SC
 [Mo 8.8.]
-	VfB Stuttgart	   2:1  FC St. Pauli
+  VfB Stuttgart     2:1  FC St. Pauli
 
 
 Spieltag 2
 
 [Fr 12.8.]
-	1. FC Nürnberg      1:1 	1. FC Heidenheim 1846
-	Erzgebirge Aue	    2:0   SV Sandhausen
-	Fortuna Düsseldorf  1:0  	VfB Stuttgart
+  1. FC Nürnberg      1:1   1. FC Heidenheim 1846
+  Erzgebirge Aue      2:0   SV Sandhausen
+  Fortuna Düsseldorf  1:0    VfB Stuttgart
 [Sa 13.8.]
-	Karlsruher SC	      1:1  VfL Bochum
-	FC St. Pauli        0:2 	Eintracht Braunschweig
+  Karlsruher SC        1:1  VfL Bochum
+  FC St. Pauli        0:2   Eintracht Braunschweig
 [So 14.8.]
-	Hannover 96	        3:1  SpVgg Greuther Fürth
-	TSV 1860 München	  1:0  Arminia Bielefeld
-	Würzburger Kickers	1:1  1. FC Kaiserslautern
+  Hannover 96          3:1  SpVgg Greuther Fürth
+  TSV 1860 München    1:0  Arminia Bielefeld
+  Würzburger Kickers  1:1  1. FC Kaiserslautern
 [Mo 15.8.]
-	1. FC Union Berlin	2:2  Dynamo Dresden
+  1. FC Union Berlin  2:2  Dynamo Dresden
 
 
 Spieltag 3
 [Fr 26.8.]
-	VfL Bochum	Hannover 96
-	1. FC Heidenheim 1846	Würzburger Kickers
-	SV Sandhausen	VfB Stuttgart
+  VfL Bochum  Hannover 96
+  1. FC Heidenheim 1846  Würzburger Kickers
+  SV Sandhausen  VfB Stuttgart
 [Sa 27.8.]
-	Karlsruher SC	TSV 1860 München
-	SpVgg Greuther Fürth	Erzgebirge Aue
+  Karlsruher SC  TSV 1860 München
+  SpVgg Greuther Fürth  Erzgebirge Aue
 [So 28.8.]
-	Eintracht Braunschweig	1. FC Nürnberg
-	Arminia Bielefeld	1. FC Union Berlin
-	Dynamo Dresden	FC St. Pauli
+  Eintracht Braunschweig  1. FC Nürnberg
+  Arminia Bielefeld  1. FC Union Berlin
+  Dynamo Dresden  FC St. Pauli
 [Mo 29.9.]
-	1. FC Kaiserslautern	Fortuna Düsseldorf
+  1. FC Kaiserslautern  Fortuna Düsseldorf
 
 
 Spieltag 4
 [Fr 9.9.]
-	VfB Stuttgart	1. FC Heidenheim 1846
-	Erzgebirge Aue	Eintracht Braunschweig
-	Würzburger Kickers	VfL Bochum
+  VfB Stuttgart  1. FC Heidenheim 1846
+  Erzgebirge Aue  Eintracht Braunschweig
+  Würzburger Kickers  VfL Bochum
 [Sa 10.9.]
-	FC St. Pauli	Arminia Bielefeld
-	1. FC Union Berlin	Karlsruher SC
+  FC St. Pauli  Arminia Bielefeld
+  1. FC Union Berlin  Karlsruher SC
 [So 11.9.]
-	Hannover 96	Dynamo Dresden
-	SV Sandhausen	1. FC Kaiserslautern
-	Fortuna Düsseldorf	SpVgg Greuther Fürth
+  Hannover 96  Dynamo Dresden
+  SV Sandhausen  1. FC Kaiserslautern
+  Fortuna Düsseldorf  SpVgg Greuther Fürth
 [Mo 12.9.]
-	1. FC Nürnberg	TSV 1860 München
+  1. FC Nürnberg  TSV 1860 München
 
 
 Spieltag 5
 [Fr 16.9.]
-	VfL Bochum	1. FC Nürnberg
-	SpVgg Greuther Fürth	Würzburger Kickers
-	TSV 1860 München	1. FC Union Berlin
+  VfL Bochum  1. FC Nürnberg
+  SpVgg Greuther Fürth  Würzburger Kickers
+  TSV 1860 München  1. FC Union Berlin
 [Sa 17.9.]
-	Eintracht Braunschweig	SV Sandhausen
-	1. FC Kaiserslautern	VfB Stuttgart
-	1. FC Heidenheim 1846	Fortuna Düsseldorf
+  Eintracht Braunschweig  SV Sandhausen
+  1. FC Kaiserslautern  VfB Stuttgart
+  1. FC Heidenheim 1846  Fortuna Düsseldorf
 [So 18.9.]
-	Karlsruher SC	FC St. Pauli
-	Arminia Bielefeld	Hannover 96
-	Dynamo Dresden	Erzgebirge Aue
+  Karlsruher SC  FC St. Pauli
+  Arminia Bielefeld  Hannover 96
+  Dynamo Dresden  Erzgebirge Aue
 
 Spieltag 6
 [Di 20.9.]
-	VfB Stuttgart	Eintracht Braunschweig
-	1. FC Nürnberg	SpVgg Greuther Fürth
-	SV Sandhausen	1. FC Heidenheim 1846
-	Fortuna Düsseldorf	VfL Bochum
+  VfB Stuttgart  Eintracht Braunschweig
+  1. FC Nürnberg  SpVgg Greuther Fürth
+  SV Sandhausen  1. FC Heidenheim 1846
+  Fortuna Düsseldorf  VfL Bochum
 [Mi 21.9.]
-	Hannover 96	Karlsruher SC
-	1. FC Kaiserslautern	Dynamo Dresden
-	Erzgebirge Aue	Arminia Bielefeld
-	Würzburger Kickers	1. FC Union Berlin
+  Hannover 96  Karlsruher SC
+  1. FC Kaiserslautern  Dynamo Dresden
+  Erzgebirge Aue  Arminia Bielefeld
+  Würzburger Kickers  1. FC Union Berlin
 [Do 22.9.]
-	FC St. Pauli	TSV 1860 München
+  FC St. Pauli  TSV 1860 München
 
 Spieltag 7
 [Fr 23.9.]
-	VfL Bochum	VfB Stuttgart
-	Eintracht Braunschweig	Fortuna Düsseldorf
-	SpVgg Greuther Fürth	SV Sandhausen
+  VfL Bochum  VfB Stuttgart
+  Eintracht Braunschweig  Fortuna Düsseldorf
+  SpVgg Greuther Fürth  SV Sandhausen
 [Sa 24.9.]
-	Karlsruher SC	Erzgebirge Aue
-	1. FC Heidenheim 1846	1. FC Kaiserslautern
+  Karlsruher SC  Erzgebirge Aue
+  1. FC Heidenheim 1846  1. FC Kaiserslautern
 [So 25.9.]
-	Arminia Bielefeld	1. FC Nürnberg
-	TSV 1860 München	Hannover 96
-	Dynamo Dresden	Würzburger Kickers
+  Arminia Bielefeld  1. FC Nürnberg
+  TSV 1860 München  Hannover 96
+  Dynamo Dresden  Würzburger Kickers
 [Mo 26.9.]
-	1. FC Union Berlin	FC St. Pauli
+  1. FC Union Berlin  FC St. Pauli
 
 Spieltag 8
 [So 2.10.]
-	VfB Stuttgart	SpVgg Greuther Fürth
-	Hannover 96	FC St. Pauli
-	1. FC Nürnberg	1. FC Union Berlin
-	1. FC Kaiserslautern	Arminia Bielefeld
-	1. FC Heidenheim 1846	Eintracht Braunschweig
-	SV Sandhausen	Dynamo Dresden
-	Fortuna Düsseldorf	Karlsruher SC
-	Erzgebirge Aue	VfL Bochum
-	Würzburger Kickers	TSV 1860 München
+  VfB Stuttgart  SpVgg Greuther Fürth
+  Hannover 96  FC St. Pauli
+  1. FC Nürnberg  1. FC Union Berlin
+  1. FC Kaiserslautern  Arminia Bielefeld
+  1. FC Heidenheim 1846  Eintracht Braunschweig
+  SV Sandhausen  Dynamo Dresden
+  Fortuna Düsseldorf  Karlsruher SC
+  Erzgebirge Aue  VfL Bochum
+  Würzburger Kickers  TSV 1860 München
 
 Spieltag 9
 [So 16.10.]
-	FC St. Pauli	Erzgebirge Aue
-	VfL Bochum	SV Sandhausen
-	1. FC Union Berlin	Hannover 96
-	Karlsruher SC	1. FC Nürnberg
-	Eintracht Braunschweig	1. FC Kaiserslautern
-	SpVgg Greuther Fürth	1. FC Heidenheim 1846
-	Arminia Bielefeld	Würzburger Kickers
-	TSV 1860 München	Fortuna Düsseldorf
-	Dynamo Dresden	VfB Stuttgart
+  FC St. Pauli  Erzgebirge Aue
+  VfL Bochum  SV Sandhausen
+  1. FC Union Berlin  Hannover 96
+  Karlsruher SC  1. FC Nürnberg
+  Eintracht Braunschweig  1. FC Kaiserslautern
+  SpVgg Greuther Fürth  1. FC Heidenheim 1846
+  Arminia Bielefeld  Würzburger Kickers
+  TSV 1860 München  Fortuna Düsseldorf
+  Dynamo Dresden  VfB Stuttgart
 
 Spieltag 10
 [Fr 21.10.]
-	VfB Stuttgart	TSV 1860 München
-	1. FC Nürnberg	Hannover 96
-	Eintracht Braunschweig	SpVgg Greuther Fürth
-	1. FC Kaiserslautern	VfL Bochum
-	1. FC Heidenheim 1846	Dynamo Dresden
-	SV Sandhausen	FC St. Pauli
-	Fortuna Düsseldorf	Arminia Bielefeld
-	Erzgebirge Aue	1. FC Union Berlin
-	Würzburger Kickers	Karlsruher SC
+  VfB Stuttgart  TSV 1860 München
+  1. FC Nürnberg  Hannover 96
+  Eintracht Braunschweig  SpVgg Greuther Fürth
+  1. FC Kaiserslautern  VfL Bochum
+  1. FC Heidenheim 1846  Dynamo Dresden
+  SV Sandhausen  FC St. Pauli
+  Fortuna Düsseldorf  Arminia Bielefeld
+  Erzgebirge Aue  1. FC Union Berlin
+  Würzburger Kickers  Karlsruher SC
 
 Spieltag 11
 [Fr 28.10.]
-	Hannover 96	Würzburger Kickers
-	FC St. Pauli	1. FC Nürnberg
-	VfL Bochum	1. FC Heidenheim 1846
-	1. FC Union Berlin	Fortuna Düsseldorf
-	Karlsruher SC	VfB Stuttgart
-	SpVgg Greuther Fürth	1. FC Kaiserslautern
-	Arminia Bielefeld	SV Sandhausen
-	TSV 1860 München	Erzgebirge Aue
-	Dynamo Dresden	Eintracht Braunschweig
+  Hannover 96  Würzburger Kickers
+  FC St. Pauli  1. FC Nürnberg
+  VfL Bochum  1. FC Heidenheim 1846
+  1. FC Union Berlin  Fortuna Düsseldorf
+  Karlsruher SC  VfB Stuttgart
+  SpVgg Greuther Fürth  1. FC Kaiserslautern
+  Arminia Bielefeld  SV Sandhausen
+  TSV 1860 München  Erzgebirge Aue
+  Dynamo Dresden  Eintracht Braunschweig
 
 Spieltag 12
 [Fr 4.11.]
-	VfB Stuttgart	Arminia Bielefeld
-	Eintracht Braunschweig	Hannover 96
-	SpVgg Greuther Fürth	VfL Bochum
-	1. FC Kaiserslautern	1. FC Union Berlin
-	1. FC Heidenheim 1846	Karlsruher SC
-	SV Sandhausen	TSV 1860 München
-	Fortuna Düsseldorf	Dynamo Dresden
-	Erzgebirge Aue	1. FC Nürnberg
-	Würzburger Kickers	FC St. Pauli
+  VfB Stuttgart  Arminia Bielefeld
+  Eintracht Braunschweig  Hannover 96
+  SpVgg Greuther Fürth  VfL Bochum
+  1. FC Kaiserslautern  1. FC Union Berlin
+  1. FC Heidenheim 1846  Karlsruher SC
+  SV Sandhausen  TSV 1860 München
+  Fortuna Düsseldorf  Dynamo Dresden
+  Erzgebirge Aue  1. FC Nürnberg
+  Würzburger Kickers  FC St. Pauli
 
 Spieltag 13
 [Fr 18.11.]
-	Hannover 96	Erzgebirge Aue
-	1. FC Nürnberg	Würzburger Kickers
-	FC St. Pauli	Fortuna Düsseldorf
-	VfL Bochum	Eintracht Braunschweig
-	1. FC Union Berlin	VfB Stuttgart
-	Karlsruher SC	SV Sandhausen
-	Arminia Bielefeld	1. FC Heidenheim 1846
-	TSV 1860 München	1. FC Kaiserslautern
-	Dynamo Dresden	SpVgg Greuther Fürth
+  Hannover 96  Erzgebirge Aue
+  1. FC Nürnberg  Würzburger Kickers
+  FC St. Pauli  Fortuna Düsseldorf
+  VfL Bochum  Eintracht Braunschweig
+  1. FC Union Berlin  VfB Stuttgart
+  Karlsruher SC  SV Sandhausen
+  Arminia Bielefeld  1. FC Heidenheim 1846
+  TSV 1860 München  1. FC Kaiserslautern
+  Dynamo Dresden  SpVgg Greuther Fürth
 
 Spieltag 14
 [Fr 25.11.]
-	VfB Stuttgart	1. FC Nürnberg
-	Eintracht Braunschweig	TSV 1860 München
-	SpVgg Greuther Fürth	Arminia Bielefeld
-	1. FC Kaiserslautern	Karlsruher SC
-	1. FC Heidenheim 1846	FC St. Pauli
-	SV Sandhausen	1. FC Union Berlin
-	Fortuna Düsseldorf	Hannover 96
-	Dynamo Dresden	VfL Bochum
-	Würzburger Kickers	Erzgebirge Aue
+  VfB Stuttgart  1. FC Nürnberg
+  Eintracht Braunschweig  TSV 1860 München
+  SpVgg Greuther Fürth  Arminia Bielefeld
+  1. FC Kaiserslautern  Karlsruher SC
+  1. FC Heidenheim 1846  FC St. Pauli
+  SV Sandhausen  1. FC Union Berlin
+  Fortuna Düsseldorf  Hannover 96
+  Dynamo Dresden  VfL Bochum
+  Würzburger Kickers  Erzgebirge Aue
 
 Spieltag 15
 [Fr 2.12.]
-	Hannover 96	1. FC Heidenheim 1846
-	1. FC Nürnberg	SV Sandhausen
-  FC St. Pauli	1. FC Kaiserslautern
-	1. FC Union Berlin	Eintracht Braunschweig
-	Karlsruher SC	SpVgg Greuther Fürth
-	Arminia Bielefeld	VfL Bochum
-	TSV 1860 München	Dynamo Dresden
-	Erzgebirge Aue	VfB Stuttgart
-	Würzburger Kickers	Fortuna Düsseldorf
+  Hannover 96  1. FC Heidenheim 1846
+  1. FC Nürnberg  SV Sandhausen
+  FC St. Pauli  1. FC Kaiserslautern
+  1. FC Union Berlin  Eintracht Braunschweig
+  Karlsruher SC  SpVgg Greuther Fürth
+  Arminia Bielefeld  VfL Bochum
+  TSV 1860 München  Dynamo Dresden
+  Erzgebirge Aue  VfB Stuttgart
+  Würzburger Kickers  Fortuna Düsseldorf
 
 Spieltag 16
 [Fr 9.12.]
-	VfB Stuttgart	Hannover 96
-	VfL Bochum	TSV 1860 München
-	Eintracht Braunschweig	Arminia Bielefeld
-	SpVgg Greuther Fürth	FC St. Pauli
-	1. FC Kaiserslautern	Erzgebirge Aue
-	1. FC Heidenheim 1846	1. FC Union Berlin
-	SV Sandhausen	Würzburger Kickers
-	Fortuna Düsseldorf	1. FC Nürnberg
-	Dynamo Dresden	Karlsruher SC
+  VfB Stuttgart  Hannover 96
+  VfL Bochum  TSV 1860 München
+  Eintracht Braunschweig  Arminia Bielefeld
+  SpVgg Greuther Fürth  FC St. Pauli
+  1. FC Kaiserslautern  Erzgebirge Aue
+  1. FC Heidenheim 1846  1. FC Union Berlin
+  SV Sandhausen  Würzburger Kickers
+  Fortuna Düsseldorf  1. FC Nürnberg
+  Dynamo Dresden  Karlsruher SC
 
 Spieltag 17
 [Fr 16.12.]
-	Hannover 96	SV Sandhausen
-  1. FC Nürnberg	1. FC Kaiserslautern
-	FC St. Pauli	VfL Bochum
-	1. FC Union Berlin	SpVgg Greuther Fürth
-	Karlsruher SC	Eintracht Braunschweig
-	Arminia Bielefeld	Dynamo Dresden
-	TSV 1860 München	1. FC Heidenheim 1846
-	Erzgebirge Aue	Fortuna Düsseldorf
-	Würzburger Kickers	VfB Stuttgart
+  Hannover 96  SV Sandhausen
+  1. FC Nürnberg  1. FC Kaiserslautern
+  FC St. Pauli  VfL Bochum
+  1. FC Union Berlin  SpVgg Greuther Fürth
+  Karlsruher SC  Eintracht Braunschweig
+  Arminia Bielefeld  Dynamo Dresden
+  TSV 1860 München  1. FC Heidenheim 1846
+  Erzgebirge Aue  Fortuna Düsseldorf
+  Würzburger Kickers  VfB Stuttgart

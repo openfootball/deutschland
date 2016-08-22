@@ -1,0 +1,204 @@
+###############################
+# Deutsche Bundesliga 2015/16
+
+Spieltag 1
+[Fr 26.8.]
+	Bayern München	Werder Bremen
+[Sa 27.8.]
+  Eintracht Frankfurt	FC Schalke 04
+	FC Augsburg	VfL Wolfsburg
+	Hamburger SV	FC Ingolstadt 04
+	1. FC Köln	SV Darmstadt 98
+	Borussia Dortmund	1. FSV Mainz 05
+	Bor. Mönchengladbach	Bayer Leverkusen
+[So 28.8.]
+	Hertha BSC	SC Freiburg
+	1899 Hoffenheim	RB Leipzig
+
+
+Spieltag 2
+[Fr 9.9.]
+	FC Schalke 04	Bayern München
+[Sa 10.9.]
+	Bayer Leverkusen	Hamburger SV
+	VfL Wolfsburg	1. FC Köln
+	FC Ingolstadt 04	Hertha BSC
+	SV Darmstadt 98	Eintracht Frankfurt
+	SC Freiburg	Bor. Mönchengladbach
+	RB Leipzig	Borussia Dortmund
+[So 11.9.]
+	Werder Bremen	FC Augsburg
+	1. FSV Mainz 05	1899 Hoffenheim
+
+Spieltag 3
+[Fr 16.9.]
+	1. FC Köln	SC Freiburg
+[Sa 17.9.]
+	Bayern München	FC Ingolstadt 04
+	Borussia Dortmund	SV Darmstadt 98
+	Hamburger SV	RB Leipzig
+	1899 Hoffenheim	VfL Wolfsburg
+	Eintracht Frankfurt	Bayer Leverkusen
+	Bor. Mönchengladbach	Werder Bremen
+[So 18.9.]
+	FC Augsburg	1. FSV Mainz 05
+	Hertha BSC	FC Schalke 04
+
+Spieltag 4
+[Di 20.9.]
+	VfL Wolfsburg	Borussia Dortmund
+	FC Ingolstadt 04	Eintracht Frankfurt
+	SV Darmstadt 98	1899 Hoffenheim
+	SC Freiburg	Hamburger SV
+[Mi 21.9.]
+	Bayern München	Hertha BSC
+	Bayer Leverkusen	FC Augsburg
+	FC Schalke 04	1. FC Köln
+	Werder Bremen	1. FSV Mainz 05
+	RB Leipzig	Bor. Mönchengladbach
+
+Spieltag 5
+[Fr 23.9.]
+	Borussia Dortmund	SC Freiburg
+[Sa 24.9.]
+	Bor. Mönchengladbach	FC Ingolstadt 04
+	1. FSV Mainz 05	Bayer Leverkusen
+	Hamburger SV	Bayern München
+	FC Augsburg	SV Darmstadt 98
+	Eintracht Frankfurt	Hertha BSC
+	Werder Bremen	VfL Wolfsburg
+[So 25.9.]
+	1899 Hoffenheim	FC Schalke 04
+	1. FC Köln	RB Leipzig
+
+Spieltag 6
+[Sa 1.10.]
+	Bayern München	1. FC Köln
+	Bayer Leverkusen	Borussia Dortmund
+	FC Schalke 04	Bor. Mönchengladbach
+	Hertha BSC	Hamburger SV
+	VfL Wolfsburg	1. FSV Mainz 05
+	FC Ingolstadt 04	1899 Hoffenheim
+	SV Darmstadt 98	Werder Bremen
+	SC Freiburg	Eintracht Frankfurt
+	RB Leipzig	FC Augsburg
+
+Spieltag 7
+[Sa 15.10.]
+	Borussia Dortmund	Hertha BSC
+	Bor. Mönchengladbach	Hamburger SV
+	1. FSV Mainz 05	SV Darmstadt 98
+	VfL Wolfsburg	RB Leipzig
+	1. FC Köln	FC Ingolstadt 04
+	FC Augsburg	FC Schalke 04
+	Werder Bremen	Bayer Leverkusen
+	1899 Hoffenheim	SC Freiburg
+	Eintracht Frankfurt	Bayern München
+
+Spieltag 8
+[Sa 22.10.]
+	Bayern München	Bor. Mönchengladbach
+	Bayer Leverkusen	1899 Hoffenheim
+	FC Schalke 04	1. FSV Mainz 05
+	Hertha BSC	1. FC Köln
+	Hamburger SV	Eintracht Frankfurt
+	FC Ingolstadt 04	Borussia Dortmund
+	SV Darmstadt 98	VfL Wolfsburg
+	RB Leipzig	Werder Bremen
+	SC Freiburg	FC Augsburg
+
+Spieltag 9
+[Sa 29.10.]
+	Borussia Dortmund	FC Schalke 04
+	Bor. Mönchengladbach	Eintracht Frankfurt
+	1. FSV Mainz 05	FC Ingolstadt 04
+	VfL Wolfsburg	Bayer Leverkusen
+	1. FC Köln	Hamburger SV
+	FC Augsburg	Bayern München
+	Werder Bremen	SC Freiburg
+	SV Darmstadt 98	RB Leipzig
+	1899 Hoffenheim	Hertha BSC
+
+Spieltag 10
+[Sa 5.11.]
+	Bayern München	1899 Hoffenheim
+	Bayer Leverkusen	SV Darmstadt 98
+	FC Schalke 04	Werder Bremen
+	Hertha BSC	Bor. Mönchengladbach
+	Hamburger SV	Borussia Dortmund
+	FC Ingolstadt 04	FC Augsburg
+	Eintracht Frankfurt	1. FC Köln
+	SC Freiburg	VfL Wolfsburg
+	RB Leipzig	1. FSV Mainz 05
+
+Spieltag 11
+[Sa 19.11.]
+	Borussia Dortmund	Bayern München
+	Bayer Leverkusen	RB Leipzig
+	Bor. Mönchengladbach	1. FC Köln
+	1. FSV Mainz 05	SC Freiburg
+	VfL Wolfsburg	FC Schalke 04
+	FC Augsburg	Hertha BSC
+	Werder Bremen	Eintracht Frankfurt
+	SV Darmstadt 98	FC Ingolstadt 04
+	1899 Hoffenheim	Hamburger SV
+
+Spieltag 12
+[Sa 26.11.]
+	Bayern München	Bayer Leverkusen
+	Bor. Mönchengladbach	1899 Hoffenheim
+	FC Schalke 04	SV Darmstadt 98
+	Hertha BSC	1. FSV Mainz 05
+	1. FC Köln	FC Augsburg
+	Hamburger SV	Werder Bremen
+	FC Ingolstadt 04	VfL Wolfsburg
+	Eintracht Frankfurt	Borussia Dortmund
+	SC Freiburg	RB Leipzig
+
+Spieltag 13
+[Sa 3.12.]
+	Borussia Dortmund	Bor. Mönchengladbach
+	Bayer Leverkusen	SC Freiburg
+	1. FSV Mainz 05	Bayern München
+	VfL Wolfsburg	Hertha BSC
+	FC Augsburg	Eintracht Frankfurt
+	Werder Bremen	FC Ingolstadt 04
+	SV Darmstadt 98	Hamburger SV
+	1899 Hoffenheim	1. FC Köln
+	RB Leipzig	FC Schalke 04
+
+Spieltag 14
+[Sa 10.12.]
+	Bayern München	VfL Wolfsburg
+  Bor. Mönchengladbach	1. FSV Mainz 05
+	FC Schalke 04	Bayer Leverkusen
+	Hertha BSC	Werder Bremen
+	1. FC Köln	Borussia Dortmund
+	Hamburger SV	FC Augsburg
+  FC Ingolstadt 04	RB Leipzig
+	Eintracht Frankfurt	1899 Hoffenheim
+	SC Freiburg	SV Darmstadt 98
+
+Spieltag 15
+[Sa 17.12.]
+	Bayer Leverkusen	FC Ingolstadt 04
+	FC Schalke 04	SC Freiburg
+	1. FSV Mainz 05	Hamburger SV
+	VfL Wolfsburg	Eintracht Frankfurt
+	FC Augsburg	Bor. Mönchengladbach
+	Werder Bremen	1. FC Köln
+	SV Darmstadt 98	Bayern München
+	1899 Hoffenheim	Borussia Dortmund
+	RB Leipzig	Hertha BSC
+
+Spieltag 16
+[Di 20.12.]
+	Bayern München	RB Leipzig
+	Borussia Dortmund	FC Augsburg
+	Bor. Mönchengladbach	VfL Wolfsburg
+	Hertha BSC	SV Darmstadt 98
+	1. FC Köln	Bayer Leverkusen
+	Hamburger SV	FC Schalke 04
+	FC Ingolstadt 04	SC Freiburg
+	1899 Hoffenheim	Werder Bremen
+	Eintracht Frankfurt	1. FSV Mainz 05

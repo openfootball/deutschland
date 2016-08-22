@@ -1,0 +1,247 @@
+
+20. Spieltag
+[Sa 28.1.]
+	Osnabrück	 - 	Münster
+  Großaspach	 - 	Chemnitz
+ 	Halle	 - 	Erfurt
+ 	FSV Frankfurt	 - 	Kiel
+ 	Aalen	 - 	Wehen WI
+ 	Lotte	 - 	Bremen II
+ 	F. Köln	 - 	Magdeburg
+ 	Zwickau	 - 	Mainz II
+	Paderborn	 - 	Duisburg
+ 	Rostock	 - 	Regensburg
+
+21. Spieltag
+[Sa 4.2.]
+	Mainz II	 - 	Paderborn
+ 	Magdeburg	 - 	Zwickau
+ 	Bremen II	 - 	F. Köln
+ 	Wehen WI	 - 	Lotte
+ 	Kiel	 - 	Aalen
+ 	Erfurt	 - 	FSV Frankfurt
+ 	Chemnitz	 - 	Halle
+ 	Regensburg	 - 	Großaspach
+ 	Münster	 - 	Rostock
+ 	Duisburg	 - 	Osnabrück
+
+22. Spieltag
+[Sa 11.2.]
+	Duisburg	 - 	Münster
+ 	FSV Frankfurt	 - 	Chemnitz
+ 	Aalen	 - 	Erfurt
+	Lotte	 - 	Kiel
+ 	F. Köln	 - 	Wehen WI
+ 	Zwickau	 - 	Bremen II
+ 	Paderborn	 - 	Magdeburg
+ 	Osnabrück	 - 	Mainz II
+ 	Großaspach	 - 	Rostock
+ 	Halle	 - 	Regensburg
+
+23. Spieltag
+[Sa 18.2.]
+	Bremen II	 - 	Paderborn
+ 	Wehen WI	 - 	Zwickau
+ 	Kiel	 - 	F. Köln
+ 	Erfurt	 - 	Lotte
+ 	Chemnitz	 - 	Aalen
+ 	Regensburg	 - 	FSV Frankfurt
+ 	Rostock	 - 	Halle
+ 	Münster	 - 	Großaspach
+ 	Mainz II	 - 	Duisburg
+ 	Magdeburg	 - 	Osnabrück
+
+24. Spieltag
+[Sa 25.2.]
+	Mainz II	 - 	Münster
+ 	Lotte	 - 	Chemnitz
+ 	F. Köln	 - 	Erfurt
+ 	Zwickau	 - 	Kiel
+ 	Paderborn	 - 	Wehen WI
+ 	Osnabrück	 - 	Bremen II
+ 	Duisburg	 - 	Magdeburg
+ 	Halle	 - 	Großaspach
+ 	FSV Frankfurt	 - 	Rostock
+ 	Aalen	 - 	Regensburg
+
+25. Spieltag
+[Sa 4.3.]
+	Kiel	 - 	Paderborn
+ 	Erfurt	 - 	Zwickau
+ 	Chemnitz	 - 	F. Köln
+ 	Regensburg	 - 	Lotte
+ 	Rostock	 - 	Aalen
+ 	Großaspach	 - 	FSV Frankfurt
+ 	Münster	 - 	Halle
+ 	Magdeburg	 - 	Mainz II
+ 	Bremen II	 - 	Duisburg
+ 	Wehen WI	 - 	Osnabrück
+
+26. Spieltag
+[Sa 11.3.]
+	Magdeburg	 - 	Münster
+ 	Zwickau	 - 	Chemnitz
+ 	Paderborn	 - 	Erfurt
+ 	Osnabrück	 - 	Kiel
+ 	Duisburg	 - 	Wehen WI
+ 	Mainz II	 - 	Bremen II
+ 	FSV Frankfurt	 - 	Halle
+ 	Aalen	 - 	Großaspach
+ 	Lotte	 - 	Rostock
+ 	F. Köln	 - 	Regensburg
+
+27. Spieltag
+[Mi 15.3.]
+	Chemnitz	 - 	Paderborn
+ 	Regensburg	 - 	Zwickau
+ 	Rostock	 - 	F. Köln
+ 	Großaspach	 - 	Lotte
+ 	Halle	 - 	Aalen
+ 	Münster	 - 	FSV Frankfurt
+ 	Bremen II	 - 	Magdeburg
+ 	Wehen WI	 - 	Mainz II
+ 	Kiel	 - 	Duisburg
+ 	Erfurt	 - 	Osnabrück
+
+28. Spieltag
+[Sa 18.3.]
+	Bremen II	 - 	Münster
+ 	Osnabrück	 - 	Chemnitz
+ 	Duisburg	 - 	Erfurt
+ 	Mainz II	 - 	Kiel
+ 	Magdeburg	 - 	Wehen WI
+ 	Aalen	 - 	FSV Frankfurt
+ 	Lotte	 - 	Halle
+ 	F. Köln	 - 	Großaspach
+ 	Zwickau	 - 	Rostock
+ 	Paderborn	 - 	Regensburg
+
+29. Spieltag
+[Sa 25.3.]
+	Rostock	 - 	Paderborn
+	Großaspach	 - 	Zwickau
+ 	Halle	 - 	F. Köln
+ 	FSV Frankfurt	 - 	Lotte
+ 	Münster	 - 	Aalen
+ 	Wehen WI	 - 	Bremen II
+ 	Kiel	 - 	Magdeburg
+ 	Erfurt	 - 	Mainz II
+ 	Chemnitz	 - 	Duisburg
+ 	Regensburg	 - 	Osnabrück
+
+30. Spieltag
+[Sa 1.4.]
+	Wehen WI	 - 	Münster
+ 	Mainz II	 - 	Chemnitz
+ 	Magdeburg	 - 	Erfurt
+ 	Bremen II	 - 	Kiel
+ 	Lotte	 - 	Aalen
+ 	F. Köln	 - 	FSV Frankfurt
+ 	Zwickau	 - 	Halle
+ 	Paderborn	 - 	Großaspach
+ 	Osnabrück	 - 	Rostock
+ 	Duisburg	 - 	Regensburg
+
+31. Spieltag
+[Mi 5.4.]
+	Halle	 - 	Paderborn
+ 	FSV Frankfurt	 - 	Zwickau
+ 	Aalen	 - 	F. Köln
+ 	Münster	 - 	Lotte
+ 	Kiel	 - 	Wehen WI
+ 	Erfurt	 - 	Bremen II
+ 	Chemnitz	 - 	Magdeburg
+ 	Regensburg	 - 	Mainz II
+ 	Rostock	 - 	Duisburg
+ 	Großaspach	 - 	Osnabrück
+
+32. Spieltag
+[Sa 8.4.]
+	Kiel	 - 	Münster
+ 	Bremen II	 - 	Chemnitz
+ 	Wehen WI	 - 	Erfurt
+ 	F. Köln	 - 	Lotte
+ 	Zwickau	 - 	Aalen
+ 	Paderborn	 - 	FSV Frankfurt
+ 	Osnabrück	 - 	Halle
+ 	Duisburg	 - 	Großaspach
+ 	Mainz II	 - 	Rostock
+ 	Magdeburg	 - 	Regensburg
+
+33. Spieltag
+[Sa 15.4.]
+	Aalen	 - 	Paderborn
+ 	Lotte	 - 	Zwickau
+ 	Münster	 - 	F. Köln
+ 	Erfurt	 - 	Kiel
+ 	Chemnitz	 - 	Wehen WI
+ 	Regensburg	 - 	Bremen II
+ 	Rostock	 - 	Magdeburg
+ 	Großaspach	 - 	Mainz II
+ 	Halle	 - 	Duisburg
+ 	FSV Frankfurt	 - 	Osnabrück
+
+34. Spieltag
+[Sa 22.4.]
+	Erfurt	 - 	Münster
+ 	Kiel	 - 	Chemnitz
+ 	Zwickau	 - 	F. Köln
+ 	Paderborn	 - 	Lotte
+ 	Osnabrück	 - 	Aalen
+ 	Duisburg	 - 	FSV Frankfurt
+ 	Mainz II	 - 	Halle
+ 	Magdeburg	 - 	Großaspach
+ 	Bremen II	 - 	Rostock
+ 	Wehen WI	 - 	Regensburg
+
+35. Spieltag
+[Sa 29.4.]
+	F. Köln	 - 	Paderborn
+	Münster	 - 	Zwickau
+ 	Chemnitz	 - 	Erfurt
+ 	Regensburg	 - 	Kiel
+ 	Rostock	 - 	Wehen WI
+ 	Großaspach	 - 	Bremen II
+ 	Halle	 - 	Magdeburg
+ 	FSV Frankfurt	 - 	Mainz II
+ 	Aalen	 - 	Duisburg
+ 	Lotte	 - 	Osnabrück
+
+36. Spieltag
+[Sa 6.5.]
+	Chemnitz	 - 	Münster
+ 	Paderborn	 - 	Zwickau
+ 	Osnabrück	 - 	F. Köln
+ 	Duisburg	 - 	Lotte
+ 	Mainz II	 - 	Aalen
+ 	Magdeburg	 - 	FSV Frankfurt
+ 	Bremen II	 - 	Halle
+ 	Wehen WI	 - 	Großaspach
+ 	Kiel	 - 	Rostock
+ 	Erfurt	 - 	Regensburg
+
+37. Spieltag
+[Sa 13.5.]
+	Paderborn	 - 	Münster
+ 	Regensburg	 - 	Chemnitz
+ 	Rostock	 - 	Erfurt
+ 	Großaspach	 - 	Kiel
+ 	Halle	 - 	Wehen WI
+ 	FSV Frankfurt	 - 	Bremen II
+ 	Aalen	 - 	Magdeburg
+ 	Lotte	 - 	Mainz II
+ 	F. Köln	 - 	Duisburg
+ 	Zwickau	 - 	Osnabrück
+
+38. Spieltag
+[Sa 20.5.]
+	Osnabrück	 - 	Paderborn
+ 	Duisburg	 - 	Zwickau
+ 	Mainz II	 - 	F. Köln
+ 	Magdeburg	 - 	Lotte
+ 	Bremen II	 - 	Aalen
+ 	Wehen WI	 - 	FSV Frankfurt
+ 	Kiel	 - 	Halle
+ 	Erfurt	 - 	Großaspach
+ 	Chemnitz	 - 	Rostock
+ 	Münster	 - 	Regensburg

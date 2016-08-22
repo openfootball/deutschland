@@ -123,3 +123,148 @@
  	Mainz II	 - 	Wehen WI
 
 
+9. Spieltag
+[Sa 24.9.]
+	Münster	 - 	Bremen II
+ 	Chemnitz	 - 	Osnabrück
+ 	Kiel	 - 	Mainz II
+ 	FSV Frankfurt	 - 	Aalen
+ 	Halle	 - 	Lotte
+ 	Großaspach	 - 	F. Köln
+ 	Regensburg	 - 	Paderborn
+[So 25.9.]
+	Erfurt	 - 	Duisburg
+ 	Wehen WI	 - 	Magdeburg
+ 	Rostock	 - 	Zwickau
+
+10. Spieltag
+[Sa 1.10.]
+	Paderborn	 - 	Rostock
+ 	Zwickau	 - 	Großaspach
+ 	F. Köln	 - 	Halle
+ 	Lotte	 - 	FSV Frankfurt
+ 	Aalen	 - 	Münster
+ 	Bremen II	 - 	Wehen WI
+ 	Magdeburg	 - 	Kiel
+ 	Mainz II	 - 	Erfurt
+ 	Duisburg	 - 	Chemnitz
+ 	Osnabrück	 - 	Regensburg
+
+
+11. Spieltag
+[Sa 15.10.]
+	Münster	 - 	Wehen WI
+ 	Chemnitz	 - 	Mainz II
+ 	Erfurt	 - 	Magdeburg
+ 	Kiel	 - 	Bremen II
+ 	Aalen	 - 	Lotte
+ 	FSV Frankfurt	 - 	F. Köln
+ 	Halle	 - 	Zwickau
+ 	Großaspach	 - 	Paderborn
+ 	Rostock	 - 	Osnabrück
+ 	Regensburg	 - 	Duisburg
+
+12. Spieltag
+[Sa 22.10.]
+	Paderborn	 - 	Halle
+ 	Zwickau	 - 	FSV Frankfurt
+ 	F. Köln	 - 	Aalen
+ 	Lotte	 - 	Münster
+ 	Wehen WI	 - 	Kiel
+ 	Bremen II	 - 	Erfurt
+ 	Magdeburg	 - 	Chemnitz
+ 	Mainz II	 - 	Regensburg
+ 	Duisburg	 - 	Rostock
+ 	Osnabrück	 - 	Großaspach
+
+13. Spieltag
+[Sa 29.10.]
+	Münster	 - 	Kiel
+ 	Chemnitz	 - 	Bremen II
+ 	Erfurt	 - 	Wehen WI
+ 	Lotte	 - 	F. Köln
+ 	Aalen	 - 	Zwickau
+ 	FSV Frankfurt	 - 	Paderborn
+ 	Halle	 - 	Osnabrück
+ 	Großaspach	 - 	Duisburg
+ 	Rostock	 - 	Mainz II
+ 	Regensburg	 - 	Magdeburg
+
+14. Spieltag
+[Sa 5.11.]
+	Paderborn	 - 	Aalen
+ 	Zwickau	 - 	Lotte
+ 	F. Köln	 - 	Münster
+ 	Kiel	 - 	Erfurt
+ 	Wehen WI	 - 	Chemnitz
+ 	Bremen II	 - 	Regensburg
+ 	Magdeburg	 - 	Rostock
+ 	Mainz II	 - 	Großaspach
+ 	Duisburg	 - 	Halle
+ 	Osnabrück	 - 	FSV Frankfurt
+
+15. Spieltag
+[Sa 19.11.]
+	Münster	 - 	Erfurt
+ 	Chemnitz	 - 	Kiel
+ 	F. Köln	 - 	Zwickau
+ 	Lotte	 - 	Paderborn
+ 	Aalen	 - 	Osnabrück
+ 	FSV Frankfurt	 - 	Duisburg
+ 	Halle	 - 	Mainz II
+ 	Großaspach	 - 	Magdeburg
+ 	Rostock	 - 	Bremen II
+ 	Regensburg	 - 	Wehen WI
+
+16. Spieltag
+[Sa 26.11.]
+	Paderborn	 - 	F. Köln
+ 	Zwickau	 - 	Münster
+ 	Erfurt	 - 	Chemnitz
+ 	Kiel	 - 	Regensburg
+ 	Wehen WI	 - 	Rostock
+ 	Bremen II	 - 	Großaspach
+ 	Magdeburg	 - 	Halle
+ 	Mainz II	 - 	FSV Frankfurt
+ 	Duisburg	 - 	Aalen
+	Osnabrück	 - 	Lotte
+
+17. Spieltag
+[Sa 3.12.]
+	Münster	 - 	Chemnitz
+ 	Zwickau	 - 	Paderborn
+ 	F. Köln	 - 	Osnabrück
+ 	Lotte	 - 	Duisburg
+ 	Aalen	 - 	Mainz II
+ 	FSV Frankfurt	 - 	Magdeburg
+ 	Halle	 - 	Bremen II
+ 	Großaspach	 - 	Wehen WI
+ 	Rostock	 - 	Kiel
+ 	Regensburg	 - 	Erfurt
+
+18. Spieltag
+[Sa 10.12.]
+	Münster	 - 	Paderborn
+ 	Chemnitz	 - 	Regensburg
+ 	Erfurt	 - 	Rostock
+ 	Kiel	 - 	Großaspach
+ 	Wehen WI	 - 	Halle
+ 	Bremen II	 - 	FSV Frankfurt
+ 	Magdeburg	 - 	Aalen
+ 	Mainz II	 - 	Lotte
+ 	Duisburg	 - 	F. Köln
+ 	Osnabrück	 - 	Zwickau
+
+19. Spieltag
+[Sa 17.12.]
+	Paderborn	 - 	Osnabrück
+ 	Zwickau	 - 	Duisburg
+ 	F. Köln	 - 	Mainz II
+ 	Lotte	 - 	Magdeburg
+ 	Aalen	 - 	Bremen II
+ 	FSV Frankfurt	 - 	Wehen WI
+ 	Halle	 - 	Kiel
+ 	Großaspach	 - 	Erfurt
+ 	Rostock	 - 	Chemnitz
+ 	Regensburg	 - 	Münster
+

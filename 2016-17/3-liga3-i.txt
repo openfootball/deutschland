@@ -5,18 +5,18 @@
 1. Spieltag
 
 [Fr 29.7.]
- MSV Duisburg          1:0 (0:0)	Paderborn
+ MSV Duisburg          1:0 (0:0)	SC Paderborn 07
 [Sa 30.7.]
-  Chemnitz	       0:0 (0:0) 	Großaspach
-  Erfurt	       0:3 (0:1) 	Halle
+  Chemnitzer FC	       0:0 (0:0) 	Großaspach
+  FC Rot-Weiß Erfurt	       0:3 (0:1) 	Hallescher FC
  Holstein Kiel	       1:1 (1:0) 	FSV Frankfurt
-  Wehen WI	       1:2 (0:0) 	Aalen
- 	Mainz II       2:2 (0:1) 	Zwickau
- Jahn Regensburg       2:0 (0:0) 	Hansa Rostock
+  Wehen Wiesbaden	       1:2 (0:0) 	VfR Aalen
+ 	1. FSV Mainz 05 II       2:2 (0:1) 	FSV Zwickau
+ SSV Jahn Regensburg       2:0 (0:0) 	Hansa Rostock
 [So 31.7.]
  Preußen Münster       0:1 (0:1) 	Vfl Osnabrück
- Werder	Bremen II      0:3 (0:1) 	Spielfreunde Lotte
- 1.FC Magdeburg        0:3 (0:1) 	Fortuna Köln
+ Werder	Bremen II      0:3 (0:1) 	Sportfreunde Lotte
+ 1. FC Magdeburg        0:3 (0:1) 	Fortuna Köln
 
 2. Spieltag
 
@@ -24,247 +24,246 @@
 	Fortuna Köln  2:0 (1:0)  	Werder Bremen II
  	Hansa Rostock 1:0 (0:0) 	Preußen Münster
 [Sa 6.8.]
-	Paderborn     3:1 (2:1) 	Mainz II
- 	Spielfr.Lotte 0:0 (0:0) 	Wehen WI
-	Aalen	      1:0 (0:0) 	Holstein Kiel
- 	FSV Frankfurt 0:1 (0:0) 	Erfurt
- 	Halle	      1:1 (1:0) 	Chemnitz
+	SC Paderborn 07     3:1 (2:1) 	1. FSV Mainz 05 II
+ 	Sportfreunde Lotte 0:0 (0:0) 	Wehen Wiesbaden
+	VfR Aalen	      1:0 (0:0) 	Holstein Kiel
+ 	FSV Frankfurt 0:1 (0:0) 	FC Rot-Weiß Erfurt
+ 	Hallescher FC	      1:1 (1:0) 	Chemnitzer FC
 [So 7.8.]
-	Großaspach    3:4 (2:1) 	Jahn Regensburg
+	Großaspach    3:4 (2:1) 	SSV Jahn Regensburg
  	Vfl Osnabrück 1:1 (0:0) 	MSV Duisburg
 [Do 1.9.]
-	Zwickau	 - 	1. FC Magdeburg
+	FSV Zwickau	 - 	1. FC Magdeburg
 
 3. Spieltag
 
 [Di 9.8.]
- 	Erfurt	      0:0 (0:0) 	Aalen
-	Holstein Kiel 3:1 (1:0) 	Spielfr.Lotte
- 	Wehen WI      3:0 (1:0) 	Fortuna Köln
- 	1.FC Magdeburg 3:0 (2:0) 	Paderborn
+ 	FC Rot-Weiß Erfurt	      0:0 (0:0) 	VfR Aalen
+	Holstein Kiel 3:1 (1:0) 	Sportfreunde Lotte
+ 	Wehen Wiesbaden      3:0 (1:0) 	Fortuna Köln
+ 	1.FC Magdeburg 3:0 (2:0) 	SC Paderborn 07
 [Mi 10.8.]
-	Werder Bremen II     1:3 (1:1) 	Zwickau
-	Preußen Münster	      1:1 (0:1) 	Duisburg
- 	Chemnitz      2:1 (1:1) 	FSV Frankfurt
- 	Mainz II      2:2 (1:0) 	Vfl Osnabrück
+	Werder Bremen II     1:3 (1:1) 	FSV Zwickau
+	Preußen Münster	      1:1 (0:1) 	MSV Duisburg
+ 	Chemnitzer FC      2:1 (1:1) 	FSV Frankfurt
+ 	1. FSV Mainz 05 II      2:2 (1:0) 	Vfl Osnabrück
  	Hansa Rostock	   0:0 (0:0) 	Großaspach
- 	Jahn Regensburg    2:0 (1:0) 	Halle
+ 	SSV Jahn Regensburg    2:0 (1:0) 	Hallescher FC
 
 4. Spieltag
 [Fr 12.8.]
-	Spielfr.Lotte	      2:2 (1:0) 	Erfurt
+	Sportfreunde Lotte	      2:2 (1:0) 	FC Rot-Weiß Erfurt
 [Sa 13.8.]
-	Paderborn     1:2 (0:0) 	Werder Bremen II
- 	Zwickau	      0:3 (0:0) 	Wehen WI
+	SC Paderborn 07     1:2 (0:0) 	Werder Bremen II
+ 	FSV Zwickau	      0:3 (0:0) 	Wehen Wiesbaden
  	Fortuna Köln	      1:0 (1:0) 	Holstein Kiel
- 	FSV Frankfurt 1:1 (0:0) 	Jahn Regensburg
- 	Halle	      0:0 (0:0) 	Hansa Rostock
+ 	FSV Frankfurt 1:1 (0:0) 	SSV Jahn Regensburg
+ 	Hallescher FC	      0:0 (0:0) 	Hansa Rostock
  	Großaspach    2:0 (1:0) 	Preußen Münster
- 	MSV Duisburg      4:0 (1:0) 	Mainz II
- 	Vfl Osnabrück     3:2 (0:0) 	1.FC Magdeburg
+ 	MSV Duisburg      4:0 (1:0) 	1. FSV Mainz 05 II
+ 	Vfl Osnabrück     3:2 (0:0) 	1. FC Magdeburg
 [So 14.8.]
-	Aalen	      2:2 (0:1) 	Chemnitz
+	VfR Aalen	      2:2 (0:1) 	Chemnitzer FC
 
 5. Spieltag
 [Fr 26.8.]
-1.FC Magdeburg	    1-2  MSV Duisburg
-Werder Bremen II    4-2  Vfl Osnabrück
+1. FC Magdeburg	    1:2  MSV Duisburg
+Werder Bremen II    4:2  Vfl Osnabrück
 [Sa 27.8.]
-Preußen	Münster	    1-0  Mainz II
-Chemnitz	    0-1  Spielfreunde Lotte
-Erfurt	            3-0	 Fortuna Köln
-Holstein Kiel	    3-0  Zwickau
-Wehen Wiesbaden	    1-2  Paderborn
-Spvgg Großaspach    3-0  1.FC Halle
-Hansa Rostock	    1-1  FSV Frankfurt
-Jahn Regensburg	    0-2 Vfr Aalen
+Preußen	Münster	    1:0  1. FSV Mainz 05 II
+Chemnitzer FC	    0:1  Sportfreunde Lotte
+FC Rot-Weiß Erfurt	            3:0	 Fortuna Köln
+Holstein Kiel	    3:0  FSV Zwickau
+Wehen Wiesbaden	    1:2  SC Paderborn 07
+Spvgg Großaspach    3:0  Hallescher FC
+Hansa Rostock	    1:1  FSV Frankfurt
+SSV Jahn Regensburg	    0:2 VfR Aalen
 
 6. Spieltag
 [Fr 9.9.]
-	Aalen	 - 	Rostock
-	Halle	 - 	Münster
-	Osnabrück	 - 	Wehen WI
+	VfR Aalen	 - 	Hansa Rostock
+	Hallescher FC	 - 	Preußen Münster
+	VfL Osnabrück	 - 	Wehen Wiesbaden
 [Sa 10.9.]
-	F. Köln	 - 	Chemnitz
-  Lotte	 - 	Regensburg
+	Fortuna Köln	 - 	Chemnitzer FC
+  Sportfreunde Lotte	 - 	SSV Jahn Regensburg
  	FSV Frankfurt	 - 	Großaspach
- 	Mainz II	 - 	Magdeburg
- 	Duisburg	 - 	Bremen II
+ 	1. FSV Mainz 05 II	 - 	1. FC Magdeburg
+ 	MSV Duisburg	 - 	Werder Bremen II
 [So 11.9.]
-	Paderborn	 - 	Kiel
- 	Zwickau	 - 	Erfurt
+	SC Paderborn 07	 - 	Holstein Kiel
+ 	FSV Zwickau	 - 	FC Rot-Weiß Erfurt
 
 7. Spieltag
 [Fr 16.9.]
-	Chemnitz	 - 	Zwickau
- 	Kiel	 - 	Osnabrück
- 	Wehen WI	 - 	Duisburg
+	Chemnitzer FC	 - 	FSV Zwickau
+ 	Holstein Kiel	 - 	VfL Osnabrück
+ 	Wehen Wiesbaden	 - 	MSV Duisburg
 [Sa 17.9.]
-	Münster	 - 	Magdeburg
- 	Erfurt	 - 	Paderborn
- 	Bremen II	 - 	Mainz II
- 	Halle	 - 	FSV Frankfurt
-	Großaspach	 - 	Aalen
- 	Rostock	 - 	Lotte
- 	Regensburg	 - 	F. Köln
+	Preußen Münster	 - 	1. FC Magdeburg
+ 	FC Rot-Weiß Erfurt	 - 	SC Paderborn 07
+ 	Werder Bremen II	 - 	1. FSV Mainz 05 II
+ 	Hallescher FC	 - 	FSV Frankfurt
+	Großaspach	 - 	VfR Aalen
+ 	Hansa Rostock	 - 	Sportfreunde Lotte
+ 	SSV Jahn Regensburg	 - 	Fortuna Köln
 
 8. Spieltag
 [Di 20.9.]
-	Zwickau	 - 	Regensburg
- 	Aalen	 - 	Halle
- 	Osnabrück	 - 	Erfurt
-	Duisburg	 - 	Kiel
+	FSV Zwickau	 - 	SSV Jahn Regensburg
+ 	VfR Aalen	 - 	Hallescher FC
+ 	VfL Osnabrück	 - 	FC Rot-Weiß Erfurt
+	MSV Duisburg	 - 	Holstein Kiel
 [Mi 21.9.]
-	Paderborn	 - 	Chemnitz
- 	Magdeburg	 - 	Bremen II
-	F. Köln	 - 	Rostock
- 	Lotte	 - 	Großaspach
- 	FSV Frankfurt	 - 	Münster
- 	Mainz II	 - 	Wehen WI
+	SC Paderborn 07	 - 	Chemnitzer FC
+ 	1. FC Magdeburg	 - 	Werder Bremen II
+	Fortuna Köln	 - 	Hansa Rostock
+ 	Sportfreunde Lotte	 - 	Großaspach
+ 	FSV Frankfurt	 - 	Preußen Münster
+ 	1. FSV Mainz 05 II	 - 	Wehen Wiesbaden
 
 
 9. Spieltag
 [Sa 24.9.]
-	Münster	 - 	Bremen II
- 	Chemnitz	 - 	Osnabrück
- 	Kiel	 - 	Mainz II
- 	FSV Frankfurt	 - 	Aalen
- 	Halle	 - 	Lotte
- 	Großaspach	 - 	F. Köln
- 	Regensburg	 - 	Paderborn
+	Preußen Münster	 - 	Werder Bremen II
+ 	Chemnitzer FC	 - 	VfL Osnabrück
+ 	Holstein Kiel	 - 	1. FSV Mainz 05 II
+ 	FSV Frankfurt	 - 	VfR Aalen
+ 	Hallescher FC	 - 	Sportfreunde Lotte
+ 	Großaspach	 - 	Fortuna Köln
+ 	SSV Jahn Regensburg	 - 	SC Paderborn 07
 [So 25.9.]
-	Erfurt	 - 	Duisburg
- 	Wehen WI	 - 	Magdeburg
- 	Rostock	 - 	Zwickau
+	FC Rot-Weiß Erfurt	 - 	MSV Duisburg
+ 	Wehen Wiesbaden	 - 	1. FC Magdeburg
+ 	Hansa Rostock	 - 	FSV Zwickau
 
 10. Spieltag
 [Sa 1.10.]
-	Paderborn	 - 	Rostock
- 	Zwickau	 - 	Großaspach
- 	F. Köln	 - 	Halle
- 	Lotte	 - 	FSV Frankfurt
- 	Aalen	 - 	Münster
- 	Bremen II	 - 	Wehen WI
- 	Magdeburg	 - 	Kiel
- 	Mainz II	 - 	Erfurt
- 	Duisburg	 - 	Chemnitz
- 	Osnabrück	 - 	Regensburg
+	SC Paderborn 07	 - 	Hansa Rostock
+ 	FSV Zwickau	 - 	Großaspach
+ 	Fortuna Köln	 - 	Hallescher FC
+ 	Sportfreunde Lotte	 - 	FSV Frankfurt
+ 	VfR Aalen	 - 	Preußen Münster
+ 	Werder Bremen II	 - 	Wehen Wiesbaden
+ 	1. FC Magdeburg	 - 	Holstein Kiel
+ 	1. FSV Mainz 05 II	 - 	FC Rot-Weiß Erfurt
+ 	MSV Duisburg	 - 	Chemnitzer FC
+ 	VfL Osnabrück	 - 	SSV Jahn Regensburg
 
 
 11. Spieltag
 [Sa 15.10.]
-	Münster	 - 	Wehen WI
- 	Chemnitz	 - 	Mainz II
- 	Erfurt	 - 	Magdeburg
- 	Kiel	 - 	Bremen II
- 	Aalen	 - 	Lotte
- 	FSV Frankfurt	 - 	F. Köln
- 	Halle	 - 	Zwickau
- 	Großaspach	 - 	Paderborn
- 	Rostock	 - 	Osnabrück
- 	Regensburg	 - 	Duisburg
+	Preußen Münster	 - 	Wehen Wiesbaden
+ 	Chemnitzer FC	 - 	1. FSV Mainz 05 II
+ 	FC Rot-Weiß Erfurt	 - 	1. FC Magdeburg
+ 	Holstein Kiel	 - 	Werder Bremen II
+ 	VfR Aalen	 - 	Sportfreunde Lotte
+ 	FSV Frankfurt	 - 	Fortuna Köln
+ 	Hallescher FC	 - 	FSV Zwickau
+ 	Großaspach	 - 	SC Paderborn 07
+ 	Hansa Rostock	 - 	VfL Osnabrück
+ 	SSV Jahn Regensburg	 - 	MSV Duisburg
 
 12. Spieltag
 [Sa 22.10.]
-	Paderborn	 - 	Halle
- 	Zwickau	 - 	FSV Frankfurt
- 	F. Köln	 - 	Aalen
- 	Lotte	 - 	Münster
- 	Wehen WI	 - 	Kiel
- 	Bremen II	 - 	Erfurt
- 	Magdeburg	 - 	Chemnitz
- 	Mainz II	 - 	Regensburg
- 	Duisburg	 - 	Rostock
- 	Osnabrück	 - 	Großaspach
+	SC Paderborn 07	 - 	Hallescher FC
+ 	FSV Zwickau	 - 	FSV Frankfurt
+ 	Fortuna Köln	 - 	VfR Aalen
+ 	Sportfreunde Lotte	 - 	Preußen Münster
+ 	Wehen Wiesbaden	 - 	Holstein Kiel
+ 	Werder Bremen II	 - 	FC Rot-Weiß Erfurt
+ 	1. FC Magdeburg	 - 	Chemnitzer FC
+ 	1. FSV Mainz 05 II	 - 	SSV Jahn Regensburg
+ 	MSV Duisburg	 - 	Hansa Rostock
+ 	VfL Osnabrück	 - 	Großaspach
 
 13. Spieltag
 [Sa 29.10.]
-	Münster	 - 	Kiel
- 	Chemnitz	 - 	Bremen II
- 	Erfurt	 - 	Wehen WI
- 	Lotte	 - 	F. Köln
- 	Aalen	 - 	Zwickau
- 	FSV Frankfurt	 - 	Paderborn
- 	Halle	 - 	Osnabrück
- 	Großaspach	 - 	Duisburg
- 	Rostock	 - 	Mainz II
- 	Regensburg	 - 	Magdeburg
+	Preußen Münster	 - 	Holstein Kiel
+ 	Chemnitzer FC	 - 	Werder Bremen II
+ 	FC Rot-Weiß Erfurt	 - 	Wehen Wiesbaden
+ 	Sportfreunde Lotte	 - 	Fortuna Köln
+ 	VfR Aalen	 - 	FSV Zwickau
+ 	FSV Frankfurt	 - 	SC Paderborn 07
+ 	Hallescher FC	 - 	VfL Osnabrück
+ 	Großaspach	 - 	MSV Duisburg
+ 	Hansa Rostock	 - 	1. FSV Mainz 05 II
+ 	SSV Jahn Regensburg	 - 	1. FC Magdeburg
 
 14. Spieltag
 [Sa 5.11.]
-	Paderborn	 - 	Aalen
- 	Zwickau	 - 	Lotte
- 	F. Köln	 - 	Münster
- 	Kiel	 - 	Erfurt
- 	Wehen WI	 - 	Chemnitz
- 	Bremen II	 - 	Regensburg
- 	Magdeburg	 - 	Rostock
- 	Mainz II	 - 	Großaspach
- 	Duisburg	 - 	Halle
- 	Osnabrück	 - 	FSV Frankfurt
+	SC Paderborn 07	 - 	VfR Aalen
+ 	FSV Zwickau	 - 	Sportfreunde Lotte
+ 	Fortuna Köln	 - 	Preußen Münster
+ 	Holstein Kiel	 - 	FC Rot-Weiß Erfurt
+ 	Wehen Wiesbaden	 - 	Chemnitzer FC
+ 	Werder Bremen II	 - 	SSV Jahn Regensburg
+ 	1. FC Magdeburg	 - 	Hansa Rostock
+ 	1. FSV Mainz 05 II	 - 	Großaspach
+ 	MSV Duisburg	 - 	Hallescher FC
+ 	VfL Osnabrück	 - 	FSV Frankfurt
 
 15. Spieltag
 [Sa 19.11.]
-	Münster	 - 	Erfurt
- 	Chemnitz	 - 	Kiel
- 	F. Köln	 - 	Zwickau
- 	Lotte	 - 	Paderborn
- 	Aalen	 - 	Osnabrück
- 	FSV Frankfurt	 - 	Duisburg
- 	Halle	 - 	Mainz II
- 	Großaspach	 - 	Magdeburg
- 	Rostock	 - 	Bremen II
- 	Regensburg	 - 	Wehen WI
+	Preußen Münster	 - 	FC Rot-Weiß Erfurt
+ 	Chemnitzer FC	 - 	Holstein Kiel
+ 	Fortuna Köln	 - 	FSV Zwickau
+ 	Sportfreunde Lotte	 - 	SC Paderborn 07
+ 	VfR Aalen	 - 	VfL Osnabrück
+ 	FSV Frankfurt	 - 	MSV Duisburg
+ 	Hallescher FC	 - 	1. FSV Mainz 05 II
+ 	Großaspach	 - 	1. FC Magdeburg
+ 	Hansa Rostock	 - 	Werder Bremen II
+ 	SSV Jahn Regensburg	 - 	Wehen Wiesbaden
 
 16. Spieltag
 [Sa 26.11.]
-	Paderborn	 - 	F. Köln
- 	Zwickau	 - 	Münster
- 	Erfurt	 - 	Chemnitz
- 	Kiel	 - 	Regensburg
- 	Wehen WI	 - 	Rostock
- 	Bremen II	 - 	Großaspach
- 	Magdeburg	 - 	Halle
- 	Mainz II	 - 	FSV Frankfurt
- 	Duisburg	 - 	Aalen
-	Osnabrück	 - 	Lotte
+	SC Paderborn 07	 - 	Fortuna Köln
+ 	FSV Zwickau	 - 	Preußen Münster
+ 	FC Rot-Weiß Erfurt	 - 	Chemnitzer FC
+ 	Holstein Kiel	 - 	SSV Jahn Regensburg
+ 	Wehen Wiesbaden	 - 	Hansa Rostock
+ 	Werder Bremen II	 - 	Großaspach
+ 	1. FC Magdeburg	 - 	Hallescher FC
+ 	1. FSV Mainz 05 II	 - 	FSV Frankfurt
+ 	MSV Duisburg	 - 	VfR Aalen
+	VfL Osnabrück	 - 	Sportfreunde Lotte
 
 17. Spieltag
 [Sa 3.12.]
-	Münster	 - 	Chemnitz
- 	Zwickau	 - 	Paderborn
- 	F. Köln	 - 	Osnabrück
- 	Lotte	 - 	Duisburg
- 	Aalen	 - 	Mainz II
- 	FSV Frankfurt	 - 	Magdeburg
- 	Halle	 - 	Bremen II
- 	Großaspach	 - 	Wehen WI
- 	Rostock	 - 	Kiel
- 	Regensburg	 - 	Erfurt
+	Preußen Münster	 - 	Chemnitzer FC
+ 	FSV Zwickau	 - 	SC Paderborn 07
+ 	Fortuna Köln	 - 	VfL Osnabrück
+ 	Sportfreunde Lotte	 - 	MSV Duisburg
+ 	VfR Aalen	 - 	1. FSV Mainz 05 II
+ 	FSV Frankfurt	 - 	1. FC Magdeburg
+ 	Hallescher FC	 - 	Werder Bremen II
+ 	Großaspach	 - 	Wehen Wiesbaden
+ 	Hansa Rostock	 - 	Holstein Kiel
+ 	SSV Jahn Regensburg	 - 	FC Rot-Weiß Erfurt
 
 18. Spieltag
 [Sa 10.12.]
-	Münster	 - 	Paderborn
- 	Chemnitz	 - 	Regensburg
- 	Erfurt	 - 	Rostock
- 	Kiel	 - 	Großaspach
- 	Wehen WI	 - 	Halle
- 	Bremen II	 - 	FSV Frankfurt
- 	Magdeburg	 - 	Aalen
- 	Mainz II	 - 	Lotte
- 	Duisburg	 - 	F. Köln
- 	Osnabrück	 - 	Zwickau
+	Preußen Münster	 - 	SC Paderborn 07
+ 	Chemnitzer FC	 - 	SSV Jahn Regensburg
+ 	FC Rot-Weiß Erfurt	 - 	Hansa Rostock
+ 	Holstein Kiel	 - 	Großaspach
+ 	Wehen Wiesbaden	 - 	Hallescher FC
+ 	Werder Bremen II	 - 	FSV Frankfurt
+ 	1. FC Magdeburg	 - 	VfR Aalen
+ 	1. FSV Mainz 05 II	 - 	Sportfreunde Lotte
+ 	MSV Duisburg	 - 	Fortuna Köln
+ 	VfL Osnabrück	 - 	FSV Zwickau
 
 19. Spieltag
 [Sa 17.12.]
-	Paderborn	 - 	Osnabrück
- 	Zwickau	 - 	Duisburg
- 	F. Köln	 - 	Mainz II
- 	Lotte	 - 	Magdeburg
- 	Aalen	 - 	Bremen II
- 	FSV Frankfurt	 - 	Wehen WI
- 	Halle	 - 	Kiel
- 	Großaspach	 - 	Erfurt
- 	Rostock	 - 	Chemnitz
- 	Regensburg	 - 	Münster
-
+	SC Paderborn 07	 - 	VfL Osnabrück
+ 	FSV Zwickau	 - 	MSV Duisburg
+ 	Fortuna Köln	 - 	1. FSV Mainz 05 II
+ 	Sportfreunde Lotte	 - 	1. FC Magdeburg
+ 	VfR Aalen	 - 	Werder Bremen II
+ 	FSV Frankfurt	 - 	Wehen Wiesbaden
+ 	Hallescher FC	 - 	Holstein Kiel
+ 	Großaspach	 - 	FC Rot-Weiß Erfurt
+ 	Hansa Rostock	 - 	Chemnitzer FC
+ 	SSV Jahn Regensburg	 - 	Preußen Münster

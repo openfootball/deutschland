@@ -158,11 +158,6 @@ SpVgg Greuther Fürth     0-2  1. FC Heidenheim 1846
 Karlsruher SC            3-0  SV Sandhausen
 RB Leipzig               1-1  Arminia Bielefeld
 
-Aufsteiger in 1. Bundesliga: SC Freiburg, RB Leipzig.
-1. Bundeliga Aufstiegs-Play-Off: 1. FC Nürnberg.
-Absteiger 2. Bundesliga:  2 oder 3 Plätze offen.
-Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue. 
-
 
 33. Spieltag
 [So 8.5.]
@@ -187,30 +182,38 @@ Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue.
   15.30  FSV Frankfurt           2-1  TSV 1860 München
   15.30  SpVgg Greuther Fürth    3-1  SV Sandhausen
   15.30  Karlsruher SC           1-1  Arminia Bielefeld
-  
-  
-  Aufsteiger in 1. Bundesliga: SC Freiburg, RB Leipzig.
-  Absteiger in 3. Liga: FSV Frankfurt, SC Paderborn 07.
-  
-  Play-Off 1. Bundesliga-Platz:
-  
-  Eintracht Frankfurt   1-1 1. FC Nürnberg    
-  1. FC Nürnberg        0-1 Eintracht Frankfurt    
-  
-  1. FC Nürnberg bleit in 2. Bundesliga.
-  
-  Play-Off 2. Bundesliga-Platz:
-  
-  
-  Würzburger Kickers    2-0 MSV Duisburg   
-  MSV Duisburg          1-2 Würzburger Kickers     
-  
-  Würzburger Kickers steigen in 2. Bundesliga auf.
-  MSV Duisburg steigt in 3. Liga ab. 
-  
-  2. Bundesliga 2015/16 ist beendet.
-  
-  2. Bundesliga beginnt am 05.08.2016.
-  
-  
+
+
+#############################
+#
+#  Aufsteiger in 1. Bundesliga: SC Freiburg, RB Leipzig.
+#  1. Bundeliga Aufstiegs-Play-Off: 1. FC Nürnberg.
+#  Absteiger 2. Bundesliga:  2 oder 3 Plätze offen.
+#  Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue.
+#
+#
+#  Aufsteiger in 1. Bundesliga: SC Freiburg, RB Leipzig.
+#  Absteiger in 3. Liga: FSV Frankfurt, SC Paderborn 07.
+#
+#  Play-Off 1. Bundesliga-Platz:
+#
+#  Eintracht Frankfurt   1-1 1. FC Nürnberg
+#  1. FC Nürnberg        0-1 Eintracht Frankfurt
+#
+#  1. FC Nürnberg bleit in 2. Bundesliga.
+#
+#  Play-Off 2. Bundesliga-Platz:
+#
+#
+#  Würzburger Kickers    2-0 MSV Duisburg
+#  MSV Duisburg          1-2 Würzburger Kickers
+#
+#  Würzburger Kickers steigen in 2. Bundesliga auf.
+#  MSV Duisburg steigt in 3. Liga ab.
+#
+#  2. Bundesliga 2015/16 ist beendet.
+#
+#  2. Bundesliga beginnt am 05.08.2016.
+#
+
   

@@ -9,11 +9,11 @@
   1. FSV Mainz 05 II       0-0  SV Wehen Wiesbaden
   Hallescher FC            1-2  1. FC Magdeburg
   Werder Bremen II         2-1  Holstein Kiel
-  Chemnitzer FC            4-0  Energie Cottbus   
+  Chemnitzer FC            4-0  Energie Cottbus
   Fortuna Köln             5-1  Hansa Rostock
   VfL Osnabrück            2-1  VfR Aalen
   VfB Stuttgart II         0-3  SG Sonnenhof Großaspach
-  Würzburger Kickers       3-0  Preußen Münster   
+  Würzburger Kickers       3-0  Preußen Münster
 
 
 23. Spieltag
@@ -200,11 +200,6 @@ Holstein Kiel              1-0  VfB Stuttgart II
 SV Wehen Wiesbaden         0-2  Preußen Münster
 
 
-Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue, Würzburger Kickers im Play-Off.
-Absteiger in 3. Liga: VfB Stuttgart II, 2 Plätze noch offen. 
-Aufsteiger 3. Liga Play-Off: SV Waldhof Mannheim, SV Elversberg, Sportfreunde Lotte, 3 Plätze noch offen. 
-
-
 37. Spieltag
 [Sa 7.5.]
   13.30  Fortuna Köln              0-2  Erzgebirge Aue
@@ -230,40 +225,40 @@ Aufsteiger 3. Liga Play-Off: SV Waldhof Mannheim, SV Elversberg, Sportfreunde Lo
   13.30  SV Wehen Wiesbaden        3-1  VfB Stuttgart II
   13.30  Dynamo Dresden            2-1  SG Sonnenhof Großaspach
   13.30  Erzgebirge Aue            3-0  Preußen Münster
-  
-  Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue.
-  Absteiger in 3. Liga: Stuttgarter Kickers, Energie Cottbus, VfB Stuttgart II.
-  
-  Play-Off 2. Bundesliga-Platz:
-
-  Würzburger Kickers    2-0 MSV Duisburg 
-  MSV Duisburg          1-2 Würzburger Kickers        
-  
-  Würzburger Kickers steigen in 2. Bundesliga auf.
-  
-  Play-Off Teilnehmer für 3. Liga: (6 Vereine um 3 Aufstiegsplätze).
-  
-25.5.  Sportfreunde Lotte  0-0 SV Waldhof Mannheim
-29.5.  SV Waldhof Mannheim 0-2 Sportfreunde Lotte
-  
-25.5.  SV Elversberg 1-1 FSV Zwickau
-29.5.  FSV Zwickau   1-0 SV Elversberg
-  
-25.5.  Vfl Wolfsburg II 1-0 Jahn Regensburg
-29.5.  Jahn Regensburg  2-0 Vfl Wolfsburg II
-
-Aufsteiger in 3.Liga:
-Sportfreunde Lotte, FSV Zwickau, Jahn Regensburg.
 
 
-3. Liga 2015/16 ist beendet. 
-
-3. Liga beginnt am 29.07.2016.
-
-
-
-  
-  
-  
-  
-  
+###############################################
+#
+#  Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue, Würzburger Kickers im Play-Off.
+#  Absteiger in 3. Liga: VfB Stuttgart II, 2 Plätze noch offen.
+#  Aufsteiger 3. Liga Play-Off: SV Waldhof Mannheim, SV Elversberg, Sportfreunde Lotte, 3 Plätze noch offen.
+#
+#  Aufsteiger in 2. Bundesliga: Dynamo Dresden, Erzgebirge Aue.
+#  Absteiger in 3. Liga: Stuttgarter Kickers, Energie Cottbus, VfB Stuttgart II.
+#
+#  Play-Off 2. Bundesliga-Platz:
+#
+#  Würzburger Kickers    2-0 MSV Duisburg
+#  MSV Duisburg          1-2 Würzburger Kickers
+#
+#  Würzburger Kickers steigen in 2. Bundesliga auf.
+#
+#  Play-Off Teilnehmer für 3. Liga: (6 Vereine um 3 Aufstiegsplätze).
+#
+# 25.5.  Sportfreunde Lotte  0-0 SV Waldhof Mannheim
+# 29.5.  SV Waldhof Mannheim 0-2 Sportfreunde Lotte
+#
+# 25.5.  SV Elversberg 1-1 FSV Zwickau
+# 29.5.  FSV Zwickau   1-0 SV Elversberg
+#
+# 25.5.  Vfl Wolfsburg II 1-0 Jahn Regensburg
+# 29.5.  Jahn Regensburg  2-0 Vfl Wolfsburg II
+#
+# Aufsteiger in 3.Liga:
+# Sportfreunde Lotte, FSV Zwickau, Jahn Regensburg.
+#
+#
+# 3. Liga 2015/16 ist beendet.
+#
+# 3. Liga beginnt am 29.07.2016.
+#

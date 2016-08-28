@@ -94,7 +94,7 @@
 
 
 [heidenheim]
-  Heidenheim|1. FC Heidenheim, 2007, HDH
+  1. FC Heidenheim|1. FC Heidenheim 1846|Heidenheim, 2007, HDH
   // Heidenheim
   www.fc-heidenheim.de
   de.wikipedia: 1._FC_Heidenheim
@@ -107,7 +107,7 @@
 
 [duisburg]
  MSV Duisburg|Duisburg|Meidericher SV, MSV         ## note: was Meidericher SV in 1963/64
- // Duisburg    
+ // Duisburg
 
 [bielefeld]
   Bielefeld|Arminia Bielefeld|DSC Arminia Bielefeld, DSC,  1905
@@ -131,4 +131,3 @@
 #  in 2012/13:
 #   ++ SV Sandhausen, VfR Aalen, SSV Jahn Regensburg
 #   -- ??
-

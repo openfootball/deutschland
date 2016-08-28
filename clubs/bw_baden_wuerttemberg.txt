@@ -10,8 +10,6 @@
 
 stuttkick, Stutt. Kick.|Stuttgarter Kickers
 
-heidenheim, 1. FC Heidenheim 1846|Heidenheim|1. FC Heidenheim
-
 grossaspach, SG Großaspach|Großaspach|SG Sonnenhof Großaspach|Sportgemeinschaft Sonnenhof Großaspach, 1994
 
 waldhofmannheim, SV Waldhof Mannheim|SV Waldhof Mannheim 07    ## de.wikipedia: SV_Waldhof_Mannheim

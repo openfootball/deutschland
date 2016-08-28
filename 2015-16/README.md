@@ -41,7 +41,7 @@
  8. Eintr. Braunschweig           34   7  6  4  21:15    5  4  8  23:23    44:38   +6   46
  9. Greuther Fürth                34   8  2  7  25:25    5  5  7  24:30    49:55   -6   46
 10. 1. FC Kaiserslautern          34   5  6  6  18:19    7  3  7  31:28    49:47   +2   45
-11. Heidenheim                    34   6  6  5  23:24    5  6  6  19:16    42:40   +2   45
+11. 1. FC Heidenheim 1846         34   6  6  5  23:24    5  6  6  19:16    42:40   +2   45
 12. SV Sandhausen                 34   6  5  6  18:23    6  2  9  22:27    40:50  -10   43
 13. Bielefeld                     34   4  8  5  14:19    4 10  3  24:20    38:39   -1   42
 14. Fortuna Düsseldorf            34   6  3  8  18:22    3  5  9  14:25    32:47  -15   35
@@ -56,8 +56,8 @@
 ~~~
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. Dynamo Dresden                37  13  4  1  40:14    8 10  1  34:20    74:34  +40   77
- 2. Erzgebirge Aue                37  11  8  0  24:4     8  4  6  17:16    41:20  +21   69
+ 1. Dynamo Dresden                38  13  5  1  41:15    8 10  1  34:20    75:35  +40   78
+ 2. Erzgebirge Aue                38  11  8  0  24:4     8  5  6  18:17    42:21  +21   70
  3. Würzburger Kickers            38   6 10  3  22:15   10  6  3  21:10    43:25  +18   64
  4. 1. FC Magdeburg               38  10  5  4  34:19    4  9  6  15:18    49:37  +12   56
  5. VfL Osnabrück                 38   8  8  3  28:19    6  6  7  18:22    46:41   +5   56

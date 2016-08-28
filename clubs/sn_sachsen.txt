@@ -18,3 +18,4 @@ chemnitz,   Chemnitzer FC|Chemnitz        ## de.wikipedia: Chemnitzer_FC
 
 vfbleipzig,  VfB Leipzig      ## de.wikipedia: VfB_Leipzig
 
+zwickau, FSV Zwickau|Zwickau   ## de.wikipedia: FSV_Zwickau

@@ -1,204 +1,204 @@
 
 Spieltag 18
 [So 29.1.]
-	Hannover 96	1. FC Kaiserslautern
-	FC St. Pauli	VfB Stuttgart
-	1. FC Union Berlin	VfL Bochum
-	Würzburger Kickers	Eintracht Braunschweig
-	TSV 1860 München	SpVgg Greuther Fürth
-	Erzgebirge Aue	1. FC Heidenheim 1846
-	Karlsruher SC	Arminia Bielefeld
-	Fortuna Düsseldorf	SV Sandhausen
-	1. FC Nürnberg	Dynamo Dresden
+  Hannover 96  1. FC Kaiserslautern
+  FC St. Pauli  VfB Stuttgart
+  1. FC Union Berlin  VfL Bochum
+  Würzburger Kickers  Eintracht Braunschweig
+  TSV 1860 München  SpVgg Greuther Fürth
+  Erzgebirge Aue  1. FC Heidenheim 1846
+  Karlsruher SC  Arminia Bielefeld
+  Fortuna Düsseldorf  SV Sandhausen
+  1. FC Nürnberg  Dynamo Dresden
 
 Spieltag 19
 [So 5.2.]
-	SpVgg Greuther Fürth	Hannover 96
-	1. FC Heidenheim 1846	1. FC Nürnberg
-	Eintracht Braunschweig	FC St. Pauli
-	Dynamo Dresden	1. FC Union Berlin
-	VfL Bochum	Karlsruher SC
-	VfB Stuttgart	Fortuna Düsseldorf
-	Arminia Bielefeld	TSV 1860 München
-	SV Sandhausen	Erzgebirge Aue
-	1. FC Kaiserslautern	Würzburger Kickers
+  SpVgg Greuther Fürth  Hannover 96
+  1. FC Heidenheim 1846  1. FC Nürnberg
+  Eintracht Braunschweig  FC St. Pauli
+  Dynamo Dresden  1. FC Union Berlin
+  VfL Bochum  Karlsruher SC
+  VfB Stuttgart  Fortuna Düsseldorf
+  Arminia Bielefeld  TSV 1860 München
+  SV Sandhausen  Erzgebirge Aue
+  1. FC Kaiserslautern  Würzburger Kickers
 
 Spieltag 20
 [So 12.2.]
-	Hannover 96	VfL Bochum
-	TSV 1860 München	Karlsruher SC
-	1. FC Nürnberg	Eintracht Braunschweig
-	Erzgebirge Aue	SpVgg Greuther Fürth
-	Fortuna Düsseldorf	1. FC Kaiserslautern
-	Würzburger Kickers	1. FC Heidenheim 1846
-	1. FC Union Berlin	Arminia Bielefeld
-	VfB Stuttgart	SV Sandhausen
-	FC St. Pauli	Dynamo Dresden
+  Hannover 96  VfL Bochum
+  TSV 1860 München  Karlsruher SC
+  1. FC Nürnberg  Eintracht Braunschweig
+  Erzgebirge Aue  SpVgg Greuther Fürth
+  Fortuna Düsseldorf  1. FC Kaiserslautern
+  Würzburger Kickers  1. FC Heidenheim 1846
+  1. FC Union Berlin  Arminia Bielefeld
+  VfB Stuttgart  SV Sandhausen
+  FC St. Pauli  Dynamo Dresden
 
 Spieltag 21
 [So 19.2.]
-	1. FC Heidenheim 1846	VfB Stuttgart
-	Dynamo Dresden	Hannover 96
-	TSV 1860 München	1. FC Nürnberg
-	Arminia Bielefeld	FC St. Pauli
-	Karlsruher SC	1. FC Union Berlin
-	1. FC Kaiserslautern	SV Sandhausen
-	SpVgg Greuther Fürth	Fortuna Düsseldorf
-	Eintracht Braunschweig	Erzgebirge Aue
-	VfL Bochum	Würzburger Kickers
+  1. FC Heidenheim 1846  VfB Stuttgart
+  Dynamo Dresden  Hannover 96
+  TSV 1860 München  1. FC Nürnberg
+  Arminia Bielefeld  FC St. Pauli
+  Karlsruher SC  1. FC Union Berlin
+  1. FC Kaiserslautern  SV Sandhausen
+  SpVgg Greuther Fürth  Fortuna Düsseldorf
+  Eintracht Braunschweig  Erzgebirge Aue
+  VfL Bochum  Würzburger Kickers
 
 Spieltag 22
 [So 26.2.]
-	1. FC Nürnberg	VfL Bochum
-	FC St. Pauli	Karlsruher SC
-	SV Sandhausen	Eintracht Braunschweig
-	Würzburger Kickers	SpVgg Greuther Fürth
-	VfB Stuttgart	1. FC Kaiserslautern
-	Fortuna Düsseldorf	1. FC Heidenheim 1846
-	Hannover 96	Arminia Bielefeld
-	1. FC Union Berlin	TSV 1860 München
-	Erzgebirge Aue	Dynamo Dresden
+  1. FC Nürnberg  VfL Bochum
+  FC St. Pauli  Karlsruher SC
+  SV Sandhausen  Eintracht Braunschweig
+  Würzburger Kickers  SpVgg Greuther Fürth
+  VfB Stuttgart  1. FC Kaiserslautern
+  Fortuna Düsseldorf  1. FC Heidenheim 1846
+  Hannover 96  Arminia Bielefeld
+  1. FC Union Berlin  TSV 1860 München
+  Erzgebirge Aue  Dynamo Dresden
 
 Spieltag 23
 [So 5.3.]
-	Eintracht Braunschweig	VfB Stuttgart
-	Karlsruher SC	Hannover 96
-	SpVgg Greuther Fürth	1. FC Nürnberg
-	TSV 1860 München	FC St. Pauli
-	Dynamo Dresden	1. FC Kaiserslautern
-	1. FC Heidenheim 1846	SV Sandhausen
-	VfL Bochum	Fortuna Düsseldorf
-	Arminia Bielefeld	Erzgebirge Aue
-	1. FC Union Berlin	Würzburger Kickers
+  Eintracht Braunschweig  VfB Stuttgart
+  Karlsruher SC  Hannover 96
+  SpVgg Greuther Fürth  1. FC Nürnberg
+  TSV 1860 München  FC St. Pauli
+  Dynamo Dresden  1. FC Kaiserslautern
+  1. FC Heidenheim 1846  SV Sandhausen
+  VfL Bochum  Fortuna Düsseldorf
+  Arminia Bielefeld  Erzgebirge Aue
+  1. FC Union Berlin  Würzburger Kickers
 
 Spieltag 24
 [So 12.3.]
-	VfB Stuttgart	VfL Bochum
-	FC St. Pauli	1. FC Union Berlin
-	Erzgebirge Aue	Karlsruher SC
-	Fortuna Düsseldorf	Eintracht Braunschweig
-	SV Sandhausen	SpVgg Greuther Fürth
-	1. FC Kaiserslautern	1. FC Heidenheim 1846
-	1. FC Nürnberg	Arminia Bielefeld
-	Hannover 96	TSV 1860 München
-	Würzburger Kickers	Dynamo Dresden
+  VfB Stuttgart  VfL Bochum
+  FC St. Pauli  1. FC Union Berlin
+  Erzgebirge Aue  Karlsruher SC
+  Fortuna Düsseldorf  Eintracht Braunschweig
+  SV Sandhausen  SpVgg Greuther Fürth
+  1. FC Kaiserslautern  1. FC Heidenheim 1846
+  1. FC Nürnberg  Arminia Bielefeld
+  Hannover 96  TSV 1860 München
+  Würzburger Kickers  Dynamo Dresden
 
 Spieltag 25
 [So 19.3.]
-	SpVgg Greuther Fürth	VfB Stuttgart
-  FC St. Pauli	Hannover 96
-	1. FC Union Berlin	1. FC Nürnberg
-	Arminia Bielefeld	1. FC Kaiserslautern
-	Eintracht Braunschweig	1. FC Heidenheim 1846
-	Dynamo Dresden	SV Sandhausen
-	Karlsruher SC	Fortuna Düsseldorf
-	VfL Bochum	Erzgebirge Aue
-	TSV 1860 München	Würzburger Kickers
+  SpVgg Greuther Fürth  VfB Stuttgart
+  FC St. Pauli  Hannover 96
+  1. FC Union Berlin  1. FC Nürnberg
+  Arminia Bielefeld  1. FC Kaiserslautern
+  Eintracht Braunschweig  1. FC Heidenheim 1846
+  Dynamo Dresden  SV Sandhausen
+  Karlsruher SC  Fortuna Düsseldorf
+  VfL Bochum  Erzgebirge Aue
+  TSV 1860 München  Würzburger Kickers
 
 Spieltag 26
 [So 2.4.]
-	Erzgebirge Aue	FC St. Pauli
-	SV Sandhausen	VfL Bochum
-	Hannover 96	1. FC Union Berlin
-	1. FC Nürnberg	Karlsruher SC
-	1. FC Kaiserslautern	Eintracht Braunschweig
-	1. FC Heidenheim 1846	SpVgg Greuther Fürth
-	Würzburger Kickers	Arminia Bielefeld
-	Fortuna Düsseldorf	TSV 1860 München
-	VfB Stuttgart	Dynamo Dresden
+  Erzgebirge Aue  FC St. Pauli
+  SV Sandhausen  VfL Bochum
+  Hannover 96  1. FC Union Berlin
+  1. FC Nürnberg  Karlsruher SC
+  1. FC Kaiserslautern  Eintracht Braunschweig
+  1. FC Heidenheim 1846  SpVgg Greuther Fürth
+  Würzburger Kickers  Arminia Bielefeld
+  Fortuna Düsseldorf  TSV 1860 München
+  VfB Stuttgart  Dynamo Dresden
 
 Spieltag 27
 [Di 4.4.]
-	TSV 1860 München	VfB Stuttgart
-	Hannover 96	1. FC Nürnberg
-	SpVgg Greuther Fürth	Eintracht Braunschweig
-	VfL Bochum	1. FC Kaiserslautern
-	Dynamo Dresden	1. FC Heidenheim 1846
-	FC St. Pauli	SV Sandhausen
-	Arminia Bielefeld	Fortuna Düsseldorf
-	1. FC Union Berlin	Erzgebirge Aue
-	Karlsruher SC	Würzburger Kickers
+  TSV 1860 München  VfB Stuttgart
+  Hannover 96  1. FC Nürnberg
+  SpVgg Greuther Fürth  Eintracht Braunschweig
+  VfL Bochum  1. FC Kaiserslautern
+  Dynamo Dresden  1. FC Heidenheim 1846
+  FC St. Pauli  SV Sandhausen
+  Arminia Bielefeld  Fortuna Düsseldorf
+  1. FC Union Berlin  Erzgebirge Aue
+  Karlsruher SC  Würzburger Kickers
 
 Spieltag 28
 [Fr 7.4.]
-	Würzburger Kickers	Hannover 96
-	1. FC Nürnberg	FC St. Pauli
-	1. FC Heidenheim 1846	VfL Bochum
-	Fortuna Düsseldorf	1. FC Union Berlin
-	VfB Stuttgart	Karlsruher SC
-	1. FC Kaiserslautern	SpVgg Greuther Fürth
-	SV Sandhausen	Arminia Bielefeld
-	Erzgebirge Aue	TSV 1860 München
-	Eintracht Braunschweig	Dynamo Dresden
+  Würzburger Kickers  Hannover 96
+  1. FC Nürnberg  FC St. Pauli
+  1. FC Heidenheim 1846  VfL Bochum
+  Fortuna Düsseldorf  1. FC Union Berlin
+  VfB Stuttgart  Karlsruher SC
+  1. FC Kaiserslautern  SpVgg Greuther Fürth
+  SV Sandhausen  Arminia Bielefeld
+  Erzgebirge Aue  TSV 1860 München
+  Eintracht Braunschweig  Dynamo Dresden
 
 Spieltag 29
 [Sa 15.4.]
-	Arminia Bielefeld	VfB Stuttgart
-	Hannover 96	Eintracht Braunschweig
-	VfL Bochum	SpVgg Greuther Fürth
-	1. FC Union Berlin	1. FC Kaiserslautern
-	Karlsruher SC	1. FC Heidenheim 1846
-	TSV 1860 München	SV Sandhausen
-	Dynamo Dresden	Fortuna Düsseldorf
-	1. FC Nürnberg	Erzgebirge Aue
-	FC St. Pauli	Würzburger Kickers
+  Arminia Bielefeld  VfB Stuttgart
+  Hannover 96  Eintracht Braunschweig
+  VfL Bochum  SpVgg Greuther Fürth
+  1. FC Union Berlin  1. FC Kaiserslautern
+  Karlsruher SC  1. FC Heidenheim 1846
+  TSV 1860 München  SV Sandhausen
+  Dynamo Dresden  Fortuna Düsseldorf
+  1. FC Nürnberg  Erzgebirge Aue
+  FC St. Pauli  Würzburger Kickers
 
 Spieltag 30
 [Fr 21.4.]
-	Erzgebirge Aue	Hannover 96
-	Würzburger Kickers	1. FC Nürnberg
-	Fortuna Düsseldorf	FC St. Pauli
-	Eintracht Braunschweig	VfL Bochum
-	VfB Stuttgart	1. FC Union Berlin
-	SV Sandhausen	Karlsruher SC
-	1. FC Heidenheim 1846	Arminia Bielefeld
-	1. FC Kaiserslautern	TSV 1860 München
-  SpVgg Greuther Fürth	Dynamo Dresden
+  Erzgebirge Aue  Hannover 96
+  Würzburger Kickers  1. FC Nürnberg
+  Fortuna Düsseldorf  FC St. Pauli
+  Eintracht Braunschweig  VfL Bochum
+  VfB Stuttgart  1. FC Union Berlin
+  SV Sandhausen  Karlsruher SC
+  1. FC Heidenheim 1846  Arminia Bielefeld
+  1. FC Kaiserslautern  TSV 1860 München
+  SpVgg Greuther Fürth  Dynamo Dresden
 
 Spieltag 31
 [Fr 28.4.]
-	1. FC Nürnberg	VfB Stuttgart
-	TSV 1860 München	Eintracht Braunschweig
-	Arminia Bielefeld	SpVgg Greuther Fürth
-	Karlsruher SC	1. FC Kaiserslautern
-	FC St. Pauli	1. FC Heidenheim 1846
-	1. FC Union Berlin	SV Sandhausen
-	Hannover 96	Fortuna Düsseldorf
-	VfL Bochum	Dynamo Dresden
-	Erzgebirge Aue	Würzburger Kickers
+  1. FC Nürnberg  VfB Stuttgart
+  TSV 1860 München  Eintracht Braunschweig
+  Arminia Bielefeld  SpVgg Greuther Fürth
+  Karlsruher SC  1. FC Kaiserslautern
+  FC St. Pauli  1. FC Heidenheim 1846
+  1. FC Union Berlin  SV Sandhausen
+  Hannover 96  Fortuna Düsseldorf
+  VfL Bochum  Dynamo Dresden
+  Erzgebirge Aue  Würzburger Kickers
 
 Spieltag 32
 [Fr 5.5.]
-	1. FC Heidenheim 1846	Hannover 96
-	SV Sandhausen	1. FC Nürnberg
-	1. FC Kaiserslautern	FC St. Pauli
-	Eintracht Braunschweig	1. FC Union Berlin
-	SpVgg Greuther Fürth	Karlsruher SC
-	VfL Bochum	Arminia Bielefeld
-	Dynamo Dresden	TSV 1860 München
-	VfB Stuttgart	Erzgebirge Aue
-	Fortuna Düsseldorf	Würzburger Kickers
+  1. FC Heidenheim 1846  Hannover 96
+  SV Sandhausen  1. FC Nürnberg
+  1. FC Kaiserslautern  FC St. Pauli
+  Eintracht Braunschweig  1. FC Union Berlin
+  SpVgg Greuther Fürth  Karlsruher SC
+  VfL Bochum  Arminia Bielefeld
+  Dynamo Dresden  TSV 1860 München
+  VfB Stuttgart  Erzgebirge Aue
+  Fortuna Düsseldorf  Würzburger Kickers
 
 Spieltag 33
 [So 14.5.]
-	Hannover 96	VfB Stuttgart
-	TSV 1860 München	VfL Bochum
-	Arminia Bielefeld	Eintracht Braunschweig
-	FC St. Pauli	SpVgg Greuther Fürth
-	Erzgebirge Aue	1. FC Kaiserslautern
-	1. FC Union Berlin	1. FC Heidenheim 1846
-	Würzburger Kickers	SV Sandhausen
-	1. FC Nürnberg	Fortuna Düsseldorf
-	Karlsruher SC	Dynamo Dresden
+  Hannover 96  VfB Stuttgart
+  TSV 1860 München  VfL Bochum
+  Arminia Bielefeld  Eintracht Braunschweig
+  FC St. Pauli  SpVgg Greuther Fürth
+  Erzgebirge Aue  1. FC Kaiserslautern
+  1. FC Union Berlin  1. FC Heidenheim 1846
+  Würzburger Kickers  SV Sandhausen
+  1. FC Nürnberg  Fortuna Düsseldorf
+  Karlsruher SC  Dynamo Dresden
 
 Spieltag 34
 [So 21.5.]
-	SV Sandhausen	Hannover 96
-	1. FC Kaiserslautern	1. FC Nürnberg
-	VfL Bochum	FC St. Pauli
-	SpVgg Greuther Fürth	1. FC Union Berlin
-	Eintracht Braunschweig	Karlsruher SC
-	Dynamo Dresden	Arminia Bielefeld
-	1. FC Heidenheim 1846	TSV 1860 München
-	Fortuna Düsseldorf	Erzgebirge Aue
-	VfB Stuttgart	Würzburger Kickers
+  SV Sandhausen  Hannover 96
+  1. FC Kaiserslautern  1. FC Nürnberg
+  VfL Bochum  FC St. Pauli
+  SpVgg Greuther Fürth  1. FC Union Berlin
+  Eintracht Braunschweig  Karlsruher SC
+  Dynamo Dresden  Arminia Bielefeld
+  1. FC Heidenheim 1846  TSV 1860 München
+  Fortuna Düsseldorf  Erzgebirge Aue
+  VfB Stuttgart  Würzburger Kickers

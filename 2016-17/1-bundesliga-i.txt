@@ -72,88 +72,102 @@
   1. FC Köln  RB Leipzig
 
 6. Spieltag
+[Fr 30.9.]
+  RB Leipzig  FC Augsburg
 [Sa 1.10.]
   Bayern München  1. FC Köln
   Bayer Leverkusen  Borussia Dortmund
-  FC Schalke 04  Bor. Mönchengladbach
-  Hertha BSC  Hamburger SV
-  VfL Wolfsburg  1. FSV Mainz 05
-  FC Ingolstadt 04  1899 Hoffenheim
   SV Darmstadt 98  Werder Bremen
+  Hertha BSC  Hamburger SV
   SC Freiburg  Eintracht Frankfurt
-  RB Leipzig  FC Augsburg
+  FC Ingolstadt 04  1899 Hoffenheim
+[So 2.10.]
+  VfL Wolfsburg  1. FSV Mainz 05
+  FC Schalke 04  Bor. Mönchengladbach
 
 7. Spieltag
-[Sa 15.10.]
+[Fr 14.10.]
   Borussia Dortmund  Hertha BSC
+[Sa 15.10.]
   Bor. Mönchengladbach  Hamburger SV
-  1. FSV Mainz 05  SV Darmstadt 98
-  VfL Wolfsburg  RB Leipzig
+  1899 Hoffenheim  SC Freiburg
+  Eintracht Frankfurt  Bayern München
   1. FC Köln  FC Ingolstadt 04
   FC Augsburg  FC Schalke 04
   Werder Bremen  Bayer Leverkusen
-  1899 Hoffenheim  SC Freiburg
-  Eintracht Frankfurt  Bayern München
-
+[S0 16.10.]
+  VfL Wolfsburg  RB Leipzig
+  1. FSV Mainz 05  SV Darmstadt 98
+  
 8. Spieltag
+[Fr 21.10.]
+  Hamburger SV  Eintracht Frankfurt
 [Sa 22.10.]
   Bayern München  Bor. Mönchengladbach
   Bayer Leverkusen  1899 Hoffenheim
-  FC Schalke 04  1. FSV Mainz 05
-  Hertha BSC  1. FC Köln
-  Hamburger SV  Eintracht Frankfurt
   FC Ingolstadt 04  Borussia Dortmund
-  SV Darmstadt 98  VfL Wolfsburg
-  RB Leipzig  Werder Bremen
+  Hertha BSC  1. FC Köln
   SC Freiburg  FC Augsburg
-
+[So 23.10.]
+  RB Leipzig  Werder Bremen
+  FC Schalke 04  1. FSV Mainz 05
+  SV Darmstadt 98  VfL Wolfsburg
+ 
 9. Spieltag
+[Fr 28.10.]
+  Bor. Mönchengladbach  Eintracht Frankfurt
 [Sa 29.10.]
   Borussia Dortmund  FC Schalke 04
-  Bor. Mönchengladbach  Eintracht Frankfurt
   1. FSV Mainz 05  FC Ingolstadt 04
   VfL Wolfsburg  Bayer Leverkusen
-  1. FC Köln  Hamburger SV
   FC Augsburg  Bayern München
   Werder Bremen  SC Freiburg
   SV Darmstadt 98  RB Leipzig
+[So 30.10.]
   1899 Hoffenheim  Hertha BSC
+  1. FC Köln  Hamburger SV
 
 10. Spieltag
+[Fr 4.11.]
+  Hertha BSC  Bor. Mönchengladbach
 [Sa 5.11.]
   Bayern München  1899 Hoffenheim
   Bayer Leverkusen  SV Darmstadt 98
-  FC Schalke 04  Werder Bremen
-  Hertha BSC  Bor. Mönchengladbach
+  SC Freiburg  VfL Wolfsburg
   Hamburger SV  Borussia Dortmund
   FC Ingolstadt 04  FC Augsburg
   Eintracht Frankfurt  1. FC Köln
-  SC Freiburg  VfL Wolfsburg
+[So 6.11.] 
   RB Leipzig  1. FSV Mainz 05
+  FC Schalke 04  Werder Bremen
 
 11. Spieltag
+[Fr 18.11.]
+  Bayer Leverkusen  RB Leipzig
 [Sa 19.11.]
   Borussia Dortmund  Bayern München
-  Bayer Leverkusen  RB Leipzig
   Bor. Mönchengladbach  1. FC Köln
   1. FSV Mainz 05  SC Freiburg
   VfL Wolfsburg  FC Schalke 04
   FC Augsburg  Hertha BSC
-  Werder Bremen  Eintracht Frankfurt
   SV Darmstadt 98  FC Ingolstadt 04
+[S0 20.11.]
   1899 Hoffenheim  Hamburger SV
+  Werder Bremen  Eintracht Frankfurt
 
 12. Spieltag
+[Fr 25.11.]
+  SC Freiburg  RB Leipzig
 [Sa 26.11.]
   Bayern München  Bayer Leverkusen
   Bor. Mönchengladbach  1899 Hoffenheim
-  FC Schalke 04  SV Darmstadt 98
-  Hertha BSC  1. FSV Mainz 05
-  1. FC Köln  FC Augsburg
-  Hamburger SV  Werder Bremen
   FC Ingolstadt 04  VfL Wolfsburg
   Eintracht Frankfurt  Borussia Dortmund
-  SC Freiburg  RB Leipzig
+  1. FC Köln  FC Augsburg
+  Hamburger SV  Werder Bremen
+[So 27.11.]
+  FC Schalke 04  SV Darmstadt 98
+  Hertha BSC  1. FSV Mainz 05
 
 13. Spieltag
 [Sa 3.12.]

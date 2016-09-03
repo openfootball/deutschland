@@ -95,7 +95,7 @@
   1. FC Köln  FC Ingolstadt 04
   FC Augsburg  FC Schalke 04
   Werder Bremen  Bayer Leverkusen
-[S0 16.10.]
+[So 16.10.]
   VfL Wolfsburg  RB Leipzig
   1. FSV Mainz 05  SV Darmstadt 98
   
@@ -151,7 +151,7 @@
   VfL Wolfsburg  FC Schalke 04
   FC Augsburg  Hertha BSC
   SV Darmstadt 98  FC Ingolstadt 04
-[S0 20.11.]
+[So 20.11.]
   1899 Hoffenheim  Hamburger SV
   Werder Bremen  Eintracht Frankfurt
 

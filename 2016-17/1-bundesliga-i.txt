@@ -5,30 +5,30 @@
 [Fr 26.8.]
   20.30   Bayern München        6:0  Werder Bremen
 [Sa 27.8.]
-  15.30   Eintracht Frankfurt   1:0  FC Schalke 04
-  15.30   FC Augsburg           0:2  VfL Wolfsburg
-  15.30   Hamburger SV          1:1  FC Ingolstadt 04
-  15.30   1. FC Köln            2:0  SV Darmstadt 98
-  15.30   Borussia Dortmund     2:1  1. FSV Mainz 05
-  18.30   Bor. Mönchengladbach  2:1  Bayer Leverkusen
+  15.30   Eintracht Frankfurt   1:0   FC Schalke 04
+  15.30   FC Augsburg           0:2   VfL Wolfsburg
+  15.30   Hamburger SV          1:1   FC Ingolstadt 04
+  15.30   1. FC Köln            2:0   SV Darmstadt 98
+  15.30   Borussia Dortmund     2:1   1. FSV Mainz 05
+  18.30   Bor. Mönchengladbach  2:1   Bayer Leverkusen
 [So 28.8.]
-  15.30   Hertha BSC            2:1 SC Freiburg
-  17.30   1899 Hoffenheim       2:2  RB Leipzig
+  15.30   Hertha BSC            2:1   SC Freiburg
+  17.30   1899 Hoffenheim       2:2   RB Leipzig
 
 
 2. Spieltag
 [Fr 9.9.]
-  FC Schalke 04  Bayern München
+  20.30  FC Schalke 04          0:2   Bayern München
 [Sa 10.9.]
-  Bayer Leverkusen  Hamburger SV
-  VfL Wolfsburg  1. FC Köln
-  FC Ingolstadt 04  Hertha BSC
-  SV Darmstadt 98  Eintracht Frankfurt
-  SC Freiburg  Bor. Mönchengladbach
-  RB Leipzig  Borussia Dortmund
+  15.30  Bayer Leverkusen       3:1   Hamburger SV
+  15.30  VfL Wolfsburg          0:0   1. FC Köln
+  15.30   FC Ingolstadt 04      0:2   Hertha BSC
+  15.30   SV Darmstadt 98       1:0   Eintracht Frankfurt
+  15.30   SC Freiburg           3:1   Bor. Mönchengladbach
+  18.30   RB Leipzig            1:0   Borussia Dortmund
 [So 11.9.]
-  Werder Bremen  FC Augsburg
-  1. FSV Mainz 05  1899 Hoffenheim
+  15.30   Werder Bremen         1:2   FC Augsburg
+  17.30   1. FSV Mainz 05       4:4   1899 Hoffenheim
 
 3. Spieltag
 [Fr 16.9.]

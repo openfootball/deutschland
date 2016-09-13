@@ -6,20 +6,24 @@
 ~~~
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. FC Bayern München              1   1  0  0   6:0     0  0  0   0:0      6:0    +6    3
- 2. VfL Wolfsburg                  1   0  0  0   0:0     1  0  0   2:0      2:0    +2    3
- 3. 1. FC Köln                     1   1  0  0   2:0     0  0  0   0:0      2:0    +2    3
- 4. Borussia M'gladbach            1   1  0  0   2:1     0  0  0   0:0      2:1    +1    3
- 5. Borussia Dortmund              1   1  0  0   2:1     0  0  0   0:0      2:1    +1    3
- 6. Eintracht Frankfurt            1   1  0  0   1:0     0  0  0   0:0      1:0    +1    3
- 7. Hamburger SV                   1   0  1  0   1:1     0  0  0   0:0      1:1          1
- 8. FC Ingolstadt 04               1   0  0  0   0:0     0  1  0   1:1      1:1          1
- 9. Bayer 04 Leverkusen            1   0  0  0   0:0     0  0  1   1:2      1:2    -1    0
-10. 1. FSV Mainz 05                1   0  0  0   0:0     0  0  1   1:2      1:2    -1    0
-11. Schalke 04                     1   0  0  0   0:0     0  0  1   0:1      0:1    -1    0
-12. SV Darmstadt 98                1   0  0  0   0:0     0  0  1   0:2      0:2    -2    0
-13. FC Augsburg                    1   0  0  1   0:2     0  0  0   0:0      0:2    -2    0
-14. Werder Bremen                  1   0  0  0   0:0     0  0  1   0:6      0:6    -6    0
+ 1. FC Bayern München              2   1  0  0   6:0     1  0  0   2:0      8:0    +8    6
+ 2. Hertha BSC                     2   1  0  0   2:1     1  0  0   2:0      4:1    +3    6
+ 3. 1. FC Köln                     2   1  0  0   2:0     0  1  0   0:0      2:0    +2    4
+ 4. VfL Wolfsburg                  2   0  1  0   0:0     1  0  0   2:0      2:0    +2    4
+ 5. RB Leipzig                     2   1  0  0   1:0     0  1  0   2:2      3:2    +1    4
+ 6. Bayer 04 Leverkusen            2   1  0  0   3:1     0  0  1   1:2      4:3    +1    3
+ 7. SC Freiburg                    2   1  0  0   3:1     0  0  1   1:2      4:3    +1    3
+ 8. Borussia Dortmund              2   1  0  0   2:1     0  0  1   0:1      2:2          3
+ 9. Eintracht Frankfurt            2   1  0  0   1:0     0  0  1   0:1      1:1          3
+10. Borussia M'gladbach            2   1  0  0   2:1     0  0  1   1:3      3:4    -1    3
+11. FC Augsburg                    2   0  0  1   0:2     1  0  0   2:1      2:3    -1    3
+12. SV Darmstadt 98                2   1  0  0   1:0     0  0  1   0:2      1:2    -1    3
+13. 1899 Hoffenheim                2   0  1  0   2:2     0  1  0   4:4      6:6          2
+14. 1. FSV Mainz 05                2   0  1  0   4:4     0  0  1   1:2      5:6    -1    1
+15. Hamburger SV                   2   0  1  0   1:1     0  0  1   1:3      2:4    -2    1
+16. FC Ingolstadt 04               2   0  0  1   0:2     0  1  0   1:1      1:3    -2    1
+17. Schalke 04                     2   0  0  1   0:2     0  0  1   0:1      0:3    -3    0
+18. Werder Bremen                  2   0  0  1   1:2     0  0  1   0:6      1:8    -7    0
 ~~~
 
 
@@ -27,24 +31,24 @@
 ~~~
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. Hannover 96                    3   1  0  0   3:1     1  1  0   5:1      8:2    +6    7
- 2. Eintr. Braunschweig            2   1  0  0   2:1     1  0  0   2:0      4:1    +3    6
+ 1. Eintr. Braunschweig            3   2  0  0   8:2     1  0  0   2:0     10:2    +8    9
+ 2. Hannover 96                    3   1  0  0   3:1     1  1  0   5:1      8:2    +6    7
  3. VfB Stuttgart                  3   1  0  0   2:1     1  0  1   2:2      4:3    +1    6
  4. Greuther Fürth                 3   2  0  0   4:2     0  0  1   1:3      5:5          6
  5. VfL Bochum                     3   1  1  0   3:2     0  1  0   1:1      4:3    +1    5
- 6. Fortuna Düsseldorf             2   1  0  0   1:0     0  1  0   2:2      3:2    +1    4
- 7. Würzburger Kickers             3   0  1  0   1:1     1  0  1   3:3      4:4          4
- 8. 1. FC Heidenheim 1846          3   1  0  1   2:2     0  1  0   1:1      3:3          4
- 9. 1860 München                   3   1  0  0   1:0     0  1  1   0:1      1:1          4
-10. Erzgebirge Aue                 3   1  0  0   2:0     0  0  2   2:4      4:4          3
-11. Karlsruhe                      3   0  2  0   1:1     0  1  0   0:0      1:1          3
-12. Dynamo Dresden                 2   0  1  0   1:1     0  1  0   2:2      3:3          2
-13. 1. FC Nürnberg                 2   0  1  0   1:1     0  1  0   1:1      2:2          2
-14. Union Berlin                   2   0  1  0   2:2     0  0  1   1:2      3:4    -1    1
-15. Bielefeld                      2   0  1  0   0:0     0  0  1   0:1      0:1    -1    1
+ 6. Dynamo Dresden                 3   1  1  0   2:1     0  1  0   2:2      4:3    +1    5
+ 7. Fortuna Düsseldorf             2   1  0  0   1:0     0  1  0   2:2      3:2    +1    4
+ 8. Würzburger Kickers             3   0  1  0   1:1     1  0  1   3:3      4:4          4
+ 9. 1. FC Heidenheim               3   1  0  1   2:2     0  1  0   1:1      3:3          4
+10. 1860 München                   3   1  0  0   1:0     0  1  1   0:1      1:1          4
+11. Erzgebirge Aue                 3   1  0  0   2:0     0  0  2   2:4      4:4          3
+12. Karlsruhe                      3   0  2  0   1:1     0  1  0   0:0      1:1          3
+13. Union Berlin                   3   0  1  0   2:2     0  1  1   5:6      7:8    -1    2
+14. Bielefeld                      3   0  2  0   4:4     0  0  1   0:1      4:5    -1    2
+15. 1. FC Nürnberg                 3   0  1  0   1:1     0  1  1   2:7      3:8    -5    2
 16. SV Sandhausen                  3   0  1  1   3:4     0  0  1   0:2      3:6    -3    1
 17. 1. FC Kaiserslautern           2   0  0  1   0:4     0  1  0   1:1      1:5    -4    1
-18. FC St. Pauli                   2   0  0  1   0:2     0  0  1   1:2      1:4    -3    0
+18. FC St. Pauli                   3   0  0  1   0:2     0  0  2   1:3      1:5    -4    0
 ~~~
 
 

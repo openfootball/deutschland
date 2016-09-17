@@ -33,7 +33,7 @@
   Großaspach            3:4 (2:1)   SSV Jahn Regensburg
    Vfl Osnabrück        1:1 (0:0)   MSV Duisburg
 [Do 1.9.]
-  FSV Zwickau           0-0   1. FC Magdeburg
+  FSV Zwickau           0:0   1. FC Magdeburg
 
 3. Spieltag
 
@@ -81,32 +81,32 @@ SSV Jahn Regensburg    0:2  VfR Aalen
 
 6. Spieltag
 [Fr 9.9.]
-  VfR Aalen             1-1   Hansa Rostock
-  Hallescher FC         2-1   Preußen Münster
-  VfL Osnabrück         1-0   Wehen Wiesbaden
+  VfR Aalen             1:1   Hansa Rostock
+  Hallescher FC         2:1   Preußen Münster
+  VfL Osnabrück         1:0   Wehen Wiesbaden
 [Sa 10.9.]
-  Fortuna Köln          1-0   Chemnitzer FC
-  Sportfreunde Lotte    3-2   SSV Jahn Regensburg
-   FSV Frankfurt        1-3   Großaspach
-   1. FSV Mainz 05 II   1-0   1. FC Magdeburg
-   MSV Duisburg         1-0   Werder Bremen II
+  Fortuna Köln          1:0   Chemnitzer FC
+  Sportfreunde Lotte    3:2   SSV Jahn Regensburg
+   FSV Frankfurt        1:3   Großaspach
+   1. FSV Mainz 05 II   1:0   1. FC Magdeburg
+   MSV Duisburg         1:0   Werder Bremen II
 [So 11.9.]
-  SC Paderborn 07       1-3   Holstein Kiel
-   FSV Zwickau          1-2   FC Rot-Weiß Erfurt
+  SC Paderborn 07       1:3   Holstein Kiel
+   FSV Zwickau          1:2   FC Rot-Weiß Erfurt
 
 7. Spieltag
 [Fr 16.9.]
-  Chemnitzer FC         1-0   FSV Zwickau
-   Holstein Kiel        0-1   VfL Osnabrück
-   Wehen Wiesbaden      3-0   MSV Duisburg
+  Chemnitzer FC         1:0   FSV Zwickau
+   Holstein Kiel        0:1   VfL Osnabrück
+   Wehen Wiesbaden      3:0   MSV Duisburg
 [Sa 17.9.]
-  Preußen Münster   -   1. FC Magdeburg
-   FC Rot-Weiß Erfurt   -   SC Paderborn 07
-   Werder Bremen II   -   1. FSV Mainz 05 II
-   Hallescher FC   -   FSV Frankfurt
-  Großaspach   -   VfR Aalen
-   Hansa Rostock   -   Sportfreunde Lotte
-   SSV Jahn Regensburg   -   Fortuna Köln
+  Preußen Münster       2:3   1. FC Magdeburg
+   FC Rot-Weiß Erfurt   1:3   SC Paderborn 07
+   Werder Bremen II     2:1   1. FSV Mainz 05 II
+   Hallescher FC        1:1   FSV Frankfurt
+   Großaspach           2:2   VfR Aalen
+   Hansa Rostock        1:3   Sportfreunde Lotte
+   SSV Jahn Regensburg  2:2   Fortuna Köln
 
 8. Spieltag
 [Di 20.9.]

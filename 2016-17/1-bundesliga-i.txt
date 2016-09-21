@@ -51,10 +51,10 @@
   20.00   SV Darmstadt 98       1:1  1899 Hoffenheim
   20.00   SC Freiburg           1:0  Hamburger SV
 [Mi 21.9.]
-  20.00   Bayern München	        3:0  Hertha BSC
+  20.00   Bayern München        3:0  Hertha BSC
   20.00   Bayer Leverkusen      0:0  FC Augsburg
-  20.00   FC Schalke 04.        1:3. 1. FC Köln
-  20.00   Werder Bremen         1:2. 1. FSV Mainz 05
+  20.00   FC Schalke 04.        1:3  1. FC Köln
+  20.00   Werder Bremen         1:2  1. FSV Mainz 05
   20.00   RB Leipzig            1:1  Bor. Mönchengladbach
 
 5. Spieltag

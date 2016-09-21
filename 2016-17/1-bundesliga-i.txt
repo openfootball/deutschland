@@ -46,10 +46,10 @@
 
 4. Spieltag
 [Di 20.9.]
-  20.00   VfL Wolfsburg  Borussia Dortmund
-  20.00   FC Ingolstadt 04  Eintracht Frankfurt
-  20.00   SV Darmstadt 98  1899 Hoffenheim
-  20.00   SC Freiburg  Hamburger SV
+  20.00   VfL Wolfsburg         1:5  Borussia Dortmund
+  20.00   FC Ingolstadt 04      0:2  Eintracht Frankfurt
+  20.00   SV Darmstadt 98       1:1  1899 Hoffenheim
+  20.00   SC Freiburg           1:0  Hamburger SV
 [Mi 21.9.]
   20.00   Bayern München  Hertha BSC
   20.00   Bayer Leverkusen  FC Augsburg

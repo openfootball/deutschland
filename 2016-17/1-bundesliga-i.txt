@@ -59,14 +59,14 @@
 
 5. Spieltag
 [Fr 23.9.]
-  20.30   Borussia Dortmund     3-1  SC Freiburg
+  20.30   Borussia Dortmund     3:1  SC Freiburg
 [Sa 24.9.]
-  15.30   Bor. Mönchengladbach  FC Ingolstadt 04
-  15.30   1. FSV Mainz 05  Bayer Leverkusen
-  15.30   Hamburger SV  Bayern München
-  15.30   FC Augsburg  SV Darmstadt 98
-  15.30   Eintracht Frankfurt  Hertha BSC
-  18.30   Werder Bremen  VfL Wolfsburg
+  15.30   Bor. Mönchengladbach  2:0  FC Ingolstadt 04
+  15.30   1. FSV Mainz 05       2:3  Bayer Leverkusen
+  15.30   Hamburger SV          0:1  Bayern München
+  15.30   FC Augsburg           1:0  SV Darmstadt 98
+  15.30   Eintracht Frankfurt   3:3  Hertha BSC
+  18.30   Werder Bremen         2:1  VfL Wolfsburg
 [So 25.9.]
   15.30   1899 Hoffenheim  FC Schalke 04
   17.30   1. FC Köln  RB Leipzig

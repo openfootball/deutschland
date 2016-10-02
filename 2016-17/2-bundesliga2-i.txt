@@ -114,13 +114,13 @@ Spieltag 7
 Spieltag 8
 [So 2.10.]
   VfB Stuttgart  SpVgg Greuther Fürth
-  Hannover 96  FC St. Pauli
-  1. FC Nürnberg  1. FC Union Berlin
+  Hannover 96             2-0  FC St. Pauli
+  1. FC Nürnberg          2-0  1. FC Union Berlin
   1. FC Kaiserslautern  Arminia Bielefeld
   1. FC Heidenheim 1846  Eintracht Braunschweig
-  SV Sandhausen  Dynamo Dresden
-  Fortuna Düsseldorf  Karlsruher SC
-  Erzgebirge Aue  VfL Bochum
+  SV Sandhausen           2-0  Dynamo Dresden
+  Fortuna Düsseldorf      1-1  Karlsruher SC
+  Erzgebirge Aue          2-4  VfL Bochum
   Würzburger Kickers  TSV 1860 München
 
 Spieltag 9

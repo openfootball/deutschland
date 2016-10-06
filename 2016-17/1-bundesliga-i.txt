@@ -59,160 +59,168 @@
 
 5. Spieltag
 [Fr 23.9.]
-  20.30   Borussia Dortmund  SC Freiburg
+  20.30   Borussia Dortmund     3:1  SC Freiburg
 [Sa 24.9.]
-  15.30   Bor. Mönchengladbach  FC Ingolstadt 04
-  15.30   1. FSV Mainz 05  Bayer Leverkusen
-  15.30   Hamburger SV  Bayern München
-  15.30   FC Augsburg  SV Darmstadt 98
-  15.30   Eintracht Frankfurt  Hertha BSC
-  18.30   Werder Bremen  VfL Wolfsburg
+  15.30   Bor. Mönchengladbach  2:0  FC Ingolstadt 04
+  15.30   1. FSV Mainz 05       2:3  Bayer Leverkusen
+  15.30   Hamburger SV          0:1  Bayern München
+  15.30   FC Augsburg           1:0  SV Darmstadt 98
+  15.30   Eintracht Frankfurt   3:3  Hertha BSC
+  18.30   Werder Bremen         2:1  VfL Wolfsburg
 [So 25.9.]
-  15.30   1899 Hoffenheim  FC Schalke 04
-  17.30   1. FC Köln  RB Leipzig
+  15.30   1899 Hoffenheim       2:1  FC Schalke 04
+  17.30   1. FC Köln            1:1  RB Leipzig
 
 6. Spieltag
 [Fr 30.9.]
-  RB Leipzig  FC Augsburg
+  20.30   RB Leipzig            2:1  FC Augsburg
 [Sa 1.10.]
-  Bayern München  1. FC Köln
-  Bayer Leverkusen  Borussia Dortmund
-  SV Darmstadt 98  Werder Bremen
-  Hertha BSC  Hamburger SV
-  SC Freiburg  Eintracht Frankfurt
-  FC Ingolstadt 04  1899 Hoffenheim
+  15.30   Bayern München        1:1  1. FC Köln
+  18.30   Bayer Leverkusen      2:0  Borussia Dortmund
+  15.30   SV Darmstadt 98       2:2  Werder Bremen
+  15.30   Hertha BSC            2:0  Hamburger SV
+  15.30   SC Freiburg           1:0  Eintracht Frankfurt
+  15.30   FC Ingolstadt 04      1:2  1899 Hoffenheim
 [So 2.10.]
-  VfL Wolfsburg  1. FSV Mainz 05
-  FC Schalke 04  Bor. Mönchengladbach
+  15.30   VfL Wolfsburg         0:0  1. FSV Mainz 05
+  17.30   FC Schalke 04         4:0  Bor. Mönchengladbach
 
 7. Spieltag
 [Fr 14.10.]
-  Borussia Dortmund  Hertha BSC
+  20.30   Borussia Dortmund  Hertha BSC
 [Sa 15.10.]
-  Bor. Mönchengladbach  Hamburger SV
-  1899 Hoffenheim  SC Freiburg
-  Eintracht Frankfurt  Bayern München
-  1. FC Köln  FC Ingolstadt 04
-  FC Augsburg  FC Schalke 04
-  Werder Bremen  Bayer Leverkusen
+  15.30   Bor. Mönchengladbach  Hamburger SV
+  15.30   1899 Hoffenheim  SC Freiburg
+  15.30   Eintracht Frankfurt  Bayern München
+  15.30   1. FC Köln  FC Ingolstadt 04
+  15.30   FC Augsburg  FC Schalke 04
+  18.30   Werder Bremen  Bayer Leverkusen
 [So 16.10.]
-  VfL Wolfsburg  RB Leipzig
-  1. FSV Mainz 05  SV Darmstadt 98
+  15.30   1. FSV Mainz 05  SV Darmstadt 98
+   17.30VfL Wolfsburg  RB Leipzig
   
 8. Spieltag
 [Fr 21.10.]
-  Hamburger SV  Eintracht Frankfurt
+  20.30   Hamburger SV  Eintracht Frankfurt
 [Sa 22.10.]
-  Bayern München  Bor. Mönchengladbach
-  Bayer Leverkusen  1899 Hoffenheim
-  FC Ingolstadt 04  Borussia Dortmund
-  Hertha BSC  1. FC Köln
-  SC Freiburg  FC Augsburg
+  15.30   Bayer Leverkusen  1899 Hoffenheim
+  15.30   FC Ingolstadt 04  Borussia Dortmund
+  15.30   Hertha BSC  1. FC Köln
+  15.30   SC Freiburg  FC Augsburg
+  15.30   SV Darmstadt 98  VfL Wolfsburg
+  18.30   Bayern München  Bor. Mönchengladbach
 [So 23.10.]
-  RB Leipzig  Werder Bremen
-  FC Schalke 04  1. FSV Mainz 05
-  SV Darmstadt 98  VfL Wolfsburg
+  15.30   RB Leipzig  Werder Bremen
+  17.30   FC Schalke 04  1. FSV Mainz 05
  
 9. Spieltag
 [Fr 28.10.]
-  Bor. Mönchengladbach  Eintracht Frankfurt
+  20.30   Bor. Mönchengladbach  Eintracht Frankfurt
 [Sa 29.10.]
-  Borussia Dortmund  FC Schalke 04
-  1. FSV Mainz 05  FC Ingolstadt 04
-  VfL Wolfsburg  Bayer Leverkusen
-  FC Augsburg  Bayern München
-  Werder Bremen  SC Freiburg
-  SV Darmstadt 98  RB Leipzig
+  15.30   1. FSV Mainz 05  FC Ingolstadt 04
+  15.30   VfL Wolfsburg  Bayer Leverkusen
+  15.30   FC Augsburg  Bayern München
+  15.30   Werder Bremen  SC Freiburg
+  15.30   SV Darmstadt 98  RB Leipzig
+  18.30  Borussia Dortmund  FC Schalke 04
 [So 30.10.]
-  1899 Hoffenheim  Hertha BSC
-  1. FC Köln  Hamburger SV
+  15.30   1899 Hoffenheim  Hertha BSC
+  17.30   1. FC Köln  Hamburger SV
 
 10. Spieltag
 [Fr 4.11.]
-  Hertha BSC  Bor. Mönchengladbach
+  20.30   Hertha BSC  Bor. Mönchengladbach
 [Sa 5.11.]
-  Bayern München  1899 Hoffenheim
-  Bayer Leverkusen  SV Darmstadt 98
-  SC Freiburg  VfL Wolfsburg
-  Hamburger SV  Borussia Dortmund
-  FC Ingolstadt 04  FC Augsburg
-  Eintracht Frankfurt  1. FC Köln
+  15.30   Bayern München  1899 Hoffenheim
+  15.30   Bayer Leverkusen  SV Darmstadt 98
+  15.30   SC Freiburg  VfL Wolfsburg
+  15.30   Hamburger SV  Borussia Dortmund
+  15.30   FC Ingolstadt 04  FC Augsburg
+  18.30   Eintracht Frankfurt  1. FC Köln
 [So 6.11.] 
-  RB Leipzig  1. FSV Mainz 05
-  FC Schalke 04  Werder Bremen
+  15.30   RB Leipzig  1. FSV Mainz 05
+  17.30   FC Schalke 04  Werder Bremen
 
 11. Spieltag
 [Fr 18.11.]
-  Bayer Leverkusen  RB Leipzig
+  20.30   Bayer Leverkusen  RB Leipzig
 [Sa 19.11.]
-  Borussia Dortmund  Bayern München
-  Bor. Mönchengladbach  1. FC Köln
-  1. FSV Mainz 05  SC Freiburg
-  VfL Wolfsburg  FC Schalke 04
-  FC Augsburg  Hertha BSC
-  SV Darmstadt 98  FC Ingolstadt 04
+  15.30   Bor. Mönchengladbach  1. FC Köln
+  15.30   1. FSV Mainz 05  SC Freiburg
+  15.30   VfL Wolfsburg  FC Schalke 04
+  15.30   FC Augsburg  Hertha BSC
+  15.30   SV Darmstadt 98  FC Ingolstadt 04
+  18.30   Borussia Dortmund  Bayern München
 [So 20.11.]
-  1899 Hoffenheim  Hamburger SV
-  Werder Bremen  Eintracht Frankfurt
+  15.30   1899 Hoffenheim  Hamburger SV
+  17.30   Werder Bremen  Eintracht Frankfurt
 
 12. Spieltag
 [Fr 25.11.]
-  SC Freiburg  RB Leipzig
+  20.30   SC Freiburg  RB Leipzig
 [Sa 26.11.]
-  Bayern München  Bayer Leverkusen
-  Bor. Mönchengladbach  1899 Hoffenheim
-  FC Ingolstadt 04  VfL Wolfsburg
-  Eintracht Frankfurt  Borussia Dortmund
-  1. FC Köln  FC Augsburg
-  Hamburger SV  Werder Bremen
+  15.30   Bor. Mönchengladbach  1899 Hoffenheim
+  15.30   FC Ingolstadt 04  VfL Wolfsburg
+  15.30   Eintracht Frankfurt  Borussia Dortmund
+  15.30   1. FC Köln  FC Augsburg
+  15.30   Hamburger SV  Werder Bremen
+  18.30   Bayern München  Bayer Leverkusen
 [So 27.11.]
-  FC Schalke 04  SV Darmstadt 98
-  Hertha BSC  1. FSV Mainz 05
+  15.30   FC Schalke 04  SV Darmstadt 98
+  17.30   Hertha BSC  1. FSV Mainz 05
 
 13. Spieltag
+[Fr 2.12.]
+  20.30 1. FSV Mainz 05  Bayern München
 [Sa 3.12.]
-  Borussia Dortmund  Bor. Mönchengladbach
-  Bayer Leverkusen  SC Freiburg
-  1. FSV Mainz 05  Bayern München
-  VfL Wolfsburg  Hertha BSC
-  FC Augsburg  Eintracht Frankfurt
-  Werder Bremen  FC Ingolstadt 04
-  SV Darmstadt 98  Hamburger SV
-  1899 Hoffenheim  1. FC Köln
-  RB Leipzig  FC Schalke 04
-
+  15.30   Borussia Dortmund  Bor. Mönchengladbach
+  15.30   Bayer Leverkusen  SC Freiburg
+  15.30   VfL Wolfsburg  Hertha BSC
+  15.30   Werder Bremen  FC Ingolstadt 04
+  15.30   1899 Hoffenheim  1. FC Köln
+  18.30   RB Leipzig  FC Schalke 04
+[So 4.12.]
+  15.30   SV Darmstadt 98  Hamburger SV
+  17.30   FC Augsburg  Eintracht Frankfurt
+  
 14. Spieltag
+[Fr 9.12.]
+  20.30   Eintracht Frankfurt  1899 Hoffenheim
 [Sa 10.12.]
-  Bayern München  VfL Wolfsburg
-  Bor. Mönchengladbach  1. FSV Mainz 05
-  FC Schalke 04  Bayer Leverkusen
-  Hertha BSC  Werder Bremen
-  1. FC Köln  Borussia Dortmund
-  Hamburger SV  FC Augsburg
-  FC Ingolstadt 04  RB Leipzig
-  Eintracht Frankfurt  1899 Hoffenheim
-  SC Freiburg  SV Darmstadt 98
-
+  15.30   Bayern München  VfL Wolfsburg
+  15.30   1. FC Köln  Borussia Dortmund
+  15.30   Hamburger SV  FC Augsburg
+  15.30   FC Ingolstadt 04  RB Leipzig
+  15.30   SC Freiburg  SV Darmstadt 98
+  18.30   Hertha BSC  Werder Bremen
+[So 11.12.]
+  15.30   Bor. Mönchengladbach  1. FSV Mainz 05
+  17.30   FC Schalke 04  Bayer Leverkusen
+  
 15. Spieltag
+[Fr 16.12.]
+  20.30   1899 Hoffenheim  Borussia Dortmund
 [Sa 17.12.]
-  Bayer Leverkusen  FC Ingolstadt 04
-  FC Schalke 04  SC Freiburg
-  1. FSV Mainz 05  Hamburger SV
-  VfL Wolfsburg  Eintracht Frankfurt
-  FC Augsburg  Bor. Mönchengladbach
-  Werder Bremen  1. FC Köln
-  SV Darmstadt 98  Bayern München
-  1899 Hoffenheim  Borussia Dortmund
-  RB Leipzig  Hertha BSC
+  15.30   FC Schalke 04  SC Freiburg
+  15.30   1. FSV Mainz 05  Hamburger SV
+  15.30   FC Augsburg  Bor. Mönchengladbach
+  15.30   Werder Bremen  1. FC Köln
+  15.30   RB Leipzig  Hertha BSC
+  18.30   VfL Wolfsburg  Eintracht Frankfurt
+[So 18.12.]
+  15.30   SV Darmstadt 98  Bayern München
+  17.30   Bayer Leverkusen  FC Ingolstadt 04
 
 16. Spieltag
 [Di 20.12.]
-  Bayern München  RB Leipzig
-  Borussia Dortmund  FC Augsburg
-  Bor. Mönchengladbach  VfL Wolfsburg
-  Hertha BSC  SV Darmstadt 98
-  1. FC Köln  Bayer Leverkusen
-  Hamburger SV  FC Schalke 04
-  FC Ingolstadt 04  SC Freiburg
-  1899 Hoffenheim  Werder Bremen
-  Eintracht Frankfurt  1. FSV Mainz 05
+  20.00   Borussia Dortmund  FC Augsburg
+  20.00   Bor. Mönchengladbach  VfL Wolfsburg
+  20.00   Hamburger SV  FC Schalke 04
+  20.00   Eintracht Frankfurt  1. FSV Mainz 05
+[Mi 21.12.]
+  20.00   Bayern München  RB Leipzig
+  20.00   Hertha BSC  SV Darmstadt 98
+  20.00   1. FC Köln  Bayer Leverkusen
+  20.00   FC Ingolstadt 04  SC Freiburg
+  20.00   1899 Hoffenheim  Werder Bremen
+

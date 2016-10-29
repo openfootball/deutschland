@@ -155,9 +155,9 @@ Spieltag 11
   1. FC Union Berlin  Fortuna Düsseldorf
   Karlsruher SC  VfB Stuttgart
   SpVgg Greuther Fürth  1. FC Kaiserslautern
-  Arminia Bielefeld  SV Sandhausen
-  TSV 1860 München  Erzgebirge Aue
-  Dynamo Dresden  Eintracht Braunschweig
+  Arminia Bielefeld      1-0  SV Sandhausen
+  TSV 1860 München       6-2  Erzgebirge Aue
+  Dynamo Dresden         3-2  Eintracht Braunschweig
 
 Spieltag 12
 [Fr 4.11.]

@@ -131,12 +131,12 @@
 [Fr 4.11.]
   20.30   Hertha BSC            3:0  Bor. Mönchengladbach
 [Sa 5.11.]
-  15.30   Bayern München  1899 Hoffenheim
-  15.30   Bayer Leverkusen  SV Darmstadt 98
-  15.30   SC Freiburg  VfL Wolfsburg
-  15.30   Hamburger SV  Borussia Dortmund
-  15.30   FC Ingolstadt 04  FC Augsburg
-  18.30   Eintracht Frankfurt  1. FC Köln
+  15.30   Bayern München        1:1  1899 Hoffenheim
+  15.30   Bayer Leverkusen      3:2  SV Darmstadt 98
+  15.30   SC Freiburg           0:3  VfL Wolfsburg
+  15.30   Hamburger SV          2:5  Borussia Dortmund
+  15.30   FC Ingolstadt 04      0:2  FC Augsburg
+  18.30   Eintracht Frankfurt   1:0  1. FC Köln
 [So 6.11.] 
   15.30   RB Leipzig  1. FSV Mainz 05
   17.30   FC Schalke 04  Werder Bremen

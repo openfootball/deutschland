@@ -163,12 +163,12 @@ Spieltag 12
 [Fr 4.11.]
   VfB Stuttgart  Arminia Bielefeld
   Eintracht Braunschweig  Hannover 96
-  SpVgg Greuther Fürth  VfL Bochum
-  1. FC Kaiserslautern  1. FC Union Berlin
-  1. FC Heidenheim 1846  Karlsruher SC
+  SpVgg Greuther Fürth    2-1  VfL Bochum
+  1. FC Kaiserslautern    1-0  1. FC Union Berlin
+  1. FC Heidenheim 1846   2-1  Karlsruher SC
   SV Sandhausen  TSV 1860 München
-  Fortuna Düsseldorf  Dynamo Dresden
-  Erzgebirge Aue  1. FC Nürnberg
+  Fortuna Düsseldorf      0-3  Dynamo Dresden
+  Erzgebirge Aue          1-2  1. FC Nürnberg
   Würzburger Kickers  FC St. Pauli
 
 Spieltag 13

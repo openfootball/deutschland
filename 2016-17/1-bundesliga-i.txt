@@ -143,13 +143,13 @@
 
 11. Spieltag
 [Fr 18.11.]
-  20.30   Bayer Leverkusen      2-3  RB Leipzig
+  20.30   Bayer Leverkusen      2:3  RB Leipzig
 [Sa 19.11.]
-  15.30   Bor. Mönchengladbach  1. FC Köln
-  15.30   1. FSV Mainz 05  SC Freiburg
-  15.30   VfL Wolfsburg  FC Schalke 04
-  15.30   FC Augsburg  Hertha BSC
-  15.30   SV Darmstadt 98  FC Ingolstadt 04
+  15.30   Bor. Mönchengladbach   1:2 1. FC Köln
+  15.30   1. FSV Mainz 05        4:2  SC Freiburg
+  15.30   VfL Wolfsburg          0:1  FC Schalke 04
+  15.30   FC Augsburg            0:0  Hertha BSC
+  15.30   SV Darmstadt 98        0:1  FC Ingolstadt 04
   18.30   Borussia Dortmund  Bayern München
 [So 20.11.]
   15.30   1899 Hoffenheim  Hamburger SV

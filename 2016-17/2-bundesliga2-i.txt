@@ -149,39 +149,39 @@ Spieltag 10
 
 Spieltag 11
 [Fr 28.10.]
-  Hannover 96  Würzburger Kickers
-  FC St. Pauli  1. FC Nürnberg
-  VfL Bochum  1. FC Heidenheim 1846
-  1. FC Union Berlin     0-1  Fortuna Düsseldorf
-  Karlsruher SC  VfB Stuttgart
-  SpVgg Greuther Fürth   0-1  1. FC Kaiserslautern
-  Arminia Bielefeld      1-0  SV Sandhausen
-  TSV 1860 München       6-2  Erzgebirge Aue
-  Dynamo Dresden         3-2  Eintracht Braunschweig
+  Hannover 96             3-1  Würzburger Kickers
+  FC St. Pauli            1-1  1. FC Nürnberg
+  VfL Bochum              2-1  1. FC Heidenheim 1846
+  1. FC Union Berlin      0-1  Fortuna Düsseldorf
+  Karlsruher SC           1-3  VfB Stuttgart
+  SpVgg Greuther Fürth    0-1  1. FC Kaiserslautern
+  Arminia Bielefeld       1-0  SV Sandhausen
+  TSV 1860 München        6-2  Erzgebirge Aue
+  Dynamo Dresden          3-2  Eintracht Braunschweig
 
 Spieltag 12
 [Fr 4.11.]
-  VfB Stuttgart  Arminia Bielefeld
-  Eintracht Braunschweig  Hannover 96
-  SpVgg Greuther Fürth  VfL Bochum
-  1. FC Kaiserslautern  1. FC Union Berlin
-  1. FC Heidenheim 1846  Karlsruher SC
-  SV Sandhausen  TSV 1860 München
-  Fortuna Düsseldorf  Dynamo Dresden
-  Erzgebirge Aue  1. FC Nürnberg
-  Würzburger Kickers  FC St. Pauli
+  VfB Stuttgart           3-1  Arminia Bielefeld
+  Eintracht Braunschweig  2-2  Hannover 96
+  SpVgg Greuther Fürth    2-1  VfL Bochum
+  1. FC Kaiserslautern    1-0  1. FC Union Berlin
+  1. FC Heidenheim 1846   2-1  Karlsruher SC
+  SV Sandhausen           3-2  TSV 1860 München
+  Fortuna Düsseldorf      0-3  Dynamo Dresden
+  Erzgebirge Aue          1-2  1. FC Nürnberg
+  Würzburger Kickers      1-0  FC St. Pauli
 
 Spieltag 13
 [Fr 18.11.]
-  Hannover 96  Erzgebirge Aue
-  1. FC Nürnberg  Würzburger Kickers
-  FC St. Pauli  Fortuna Düsseldorf
-  VfL Bochum  Eintracht Braunschweig
-  1. FC Union Berlin  VfB Stuttgart
-  Karlsruher SC  SV Sandhausen
-  Arminia Bielefeld  1. FC Heidenheim 1846
-  TSV 1860 München  1. FC Kaiserslautern
-  Dynamo Dresden  SpVgg Greuther Fürth
+  Hannover 96             2-0  Erzgebirge Aue
+  1. FC Nürnberg          2-2  Würzburger Kickers
+  FC St. Pauli            0-1  Fortuna Düsseldorf
+  VfL Bochum              1-1  Eintracht Braunschweig
+  1. FC Union Berlin      1-1  VfB Stuttgart
+  Karlsruher SC           1-3  SV Sandhausen
+  Arminia Bielefeld       2-1  1. FC Heidenheim 1846
+  TSV 1860 München        1-1  1. FC Kaiserslautern
+  Dynamo Dresden          2-1  SpVgg Greuther Fürth
 
 Spieltag 14
 [Fr 25.11.]

@@ -173,11 +173,11 @@
 [Fr 2.12.]
   20.30 1. FSV Mainz 05         1:3  Bayern München
 [Sa 3.12.]
-  15.30   Borussia Dortmund  Bor. Mönchengladbach
-  15.30   Bayer Leverkusen  SC Freiburg
-  15.30   VfL Wolfsburg  Hertha BSC
-  15.30   Werder Bremen  FC Ingolstadt 04
-  15.30   1899 Hoffenheim  1. FC Köln
+  15.30   Borussia Dortmund     4:1  Bor. Mönchengladbach
+  15.30   Bayer Leverkusen      1:1  SC Freiburg
+  15.30   VfL Wolfsburg         2:3  Hertha BSC
+  15.30   Werder Bremen         2:1  FC Ingolstadt 04
+  15.30   1899 Hoffenheim       4:0  1. FC Köln
   18.30   RB Leipzig  FC Schalke 04
 [So 4.12.]
   15.30   SV Darmstadt 98  Hamburger SV

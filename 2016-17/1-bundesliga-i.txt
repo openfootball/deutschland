@@ -185,13 +185,13 @@
   
 14. Spieltag
 [Fr 9.12.]
-  20.30   Eintracht Frankfurt   0-0  1899 Hoffenheim
+  20.30   Eintracht Frankfurt   0:0  1899 Hoffenheim
 [Sa 10.12.]
-  15.30   Bayern München  VfL Wolfsburg
-  15.30   1. FC Köln  Borussia Dortmund
-  15.30   Hamburger SV  FC Augsburg
-  15.30   FC Ingolstadt 04  RB Leipzig
-  15.30   SC Freiburg  SV Darmstadt 98
+  15.30   Bayern München        5:0  VfL Wolfsburg
+  15.30   1. FC Köln            1:1  Borussia Dortmund
+  15.30   Hamburger SV          1:0  FC Augsburg
+  15.30   FC Ingolstadt 04      1:0  RB Leipzig
+  15.30   SC Freiburg           1:0  SV Darmstadt 98
   18.30   Hertha BSC  Werder Bremen
 [So 11.12.]
   15.30   Bor. Mönchengladbach  1. FSV Mainz 05

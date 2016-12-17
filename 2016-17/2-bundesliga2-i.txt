@@ -224,9 +224,10 @@ Spieltag 17
   Hannover 96  SV Sandhausen
   1. FC Nürnberg  1. FC Kaiserslautern
   FC St. Pauli  VfL Bochum
-  1. FC Union Berlin  SpVgg Greuther Fürth
+  1. FC Union Berlin      1-1  SpVgg Greuther Fürth
   Karlsruher SC  Eintracht Braunschweig
   Arminia Bielefeld  Dynamo Dresden
-  TSV 1860 München  1. FC Heidenheim 1846
-  Erzgebirge Aue  Fortuna Düsseldorf
+  TSV 1860 München        1-1  1. FC Heidenheim 1846
+  Erzgebirge Aue          0-0  Fortuna Düsseldorf
   Würzburger Kickers  VfB Stuttgart
+

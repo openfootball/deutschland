@@ -218,9 +218,9 @@
   20.00   Hamburger SV          2:1  FC Schalke 04
   20.00   Eintracht Frankfurt   3:0  1. FSV Mainz 05
 [Mi 21.12.]
-  20.00   Bayern München  RB Leipzig
-  20.00   Hertha BSC  SV Darmstadt 98
-  20.00   1. FC Köln  Bayer Leverkusen
-  20.00   FC Ingolstadt 04  SC Freiburg
-  20.00   1899 Hoffenheim  Werder Bremen
+  20.00   Bayern München        3:0  RB Leipzig
+  20.00   Hertha BSC            2:0  SV Darmstadt 98
+  20.00   1. FC Köln            1:0  Bayer Leverkusen
+  20.00   FC Ingolstadt 04      1:2  SC Freiburg
+  20.00   1899 Hoffenheim       1:1  Werder Bremen
 

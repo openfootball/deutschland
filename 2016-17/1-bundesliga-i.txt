@@ -220,7 +220,7 @@
 [Mi 21.12.]
   20.00   Bayern München        3:0  RB Leipzig
   20.00   Hertha BSC            2:0  SV Darmstadt 98
-  20.00   1. FC Köln            1:0  Bayer Leverkusen
+  20.00   1. FC Köln            1:1  Bayer Leverkusen
   20.00   FC Ingolstadt 04      1:2  SC Freiburg
   20.00   1899 Hoffenheim       1:1  Werder Bremen
 

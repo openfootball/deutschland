@@ -1,15 +1,17 @@
 17. Spieltag
-[Sa 21.1.]
-  Bayer Leverkusen  Hertha BSC
-  FC Schalke 04  FC Ingolstadt 04
-  1. FSV Mainz 05  1. FC Köln
-  VfL Wolfsburg  Hamburger SV
-  FC Augsburg  1899 Hoffenheim
-  Werder Bremen  Borussia Dortmund
-  SV Darmstadt 98  Bor. Mönchengladbach
-  SC Freiburg  Bayern München
-  RB Leipzig  Eintracht Frankfurt
-
+[Fr 20.1.]
+  20.30  SC Freiburg  Bayern München
+[Sa 21.01]
+  15.30  FC Schalke 04  FC Ingolstadt 04
+  15.30  VfL Wolfsburg  Hamburger SV
+  15.30  FC Augsburg  1899 Hoffenheim
+  15.30  Werder Bremen  Borussia Dortmund
+  15.30  SV Darmstadt 98  Bor. Mönchengladbach
+  18.30  RB Leipzig  Eintracht Frankfurt
+[So 22.01]
+  15.30  Bayer Leverkusen  Hertha BSC
+  17.30  1. FSV Mainz 05  1. FC Köln
+  
 18. Spieltag
 [Sa 28.1.]
   Werder Bremen  Bayern München

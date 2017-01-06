@@ -101,6 +101,13 @@ Build the database for the 2015/16 season:
 
 
 
+## License
+
+![](https://publicdomainworks.github.io/buttons/zero88x31.png)
+
+The football.db schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+
 ## Questions? Comments?
 
 Send them along to the

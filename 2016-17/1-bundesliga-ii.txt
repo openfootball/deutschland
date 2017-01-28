@@ -11,29 +11,20 @@
 [So 22.1.]
   15.30  Bayer Leverkusen 3:1  Hertha BSC
   17.30  1. FSV Mainz 05  0:0  1. FC Köln
-  20.30  SC Freiburg  Bayern München
-[Sa 21.1.]
-  15.30  FC Schalke 04  FC Ingolstadt 04
-  15.30  VfL Wolfsburg  Hamburger SV
-  15.30  FC Augsburg  1899 Hoffenheim
-  15.30  Werder Bremen  Borussia Dortmund
-  15.30  SV Darmstadt 98  Bor. Mönchengladbach
-  18.30  RB Leipzig  Eintracht Frankfurt
-[So 22.1.]
-  15.30  Bayer Leverkusen  Hertha BSC
-  17.30  1. FSV Mainz 05  1. FC Köln
-  
+    
 18. Spieltag
+[Fr 27.1.]
+  20.30  FC Schalke 04    0:1  Eintracht Frankfurt
 [Sa 28.1.]
-  Werder Bremen  Bayern München
-  FC Schalke 04  Eintracht Frankfurt
-  RB Leipzig  1899 Hoffenheim
-  VfL Wolfsburg  FC Augsburg
-  FC Ingolstadt 04  Hamburger SV
-  SV Darmstadt 98  1. FC Köln
-  SC Freiburg  Hertha BSC
-  Bayer Leverkusen  Bor. Mönchengladbach
-  1. FSV Mainz 05  Borussia Dortmund
+  15.30  VfL Wolfsburg  FC Augsburg
+  15.30  FC Ingolstadt 04  Hamburger SV
+  15.30  Werder Bremen  Bayern München
+  15.30  SV Darmstadt 98  1. FC Köln
+  15.30  RB Leipzig  1899 Hoffenheim
+  18.30  Bayer Leverkusen  Bor. Mönchengladbach 
+[So. 29.1.]
+  15.30  SC Freiburg  Hertha BSC
+  17.30  1. FSV Mainz 05  Borussia Dortmund
 
 19. Spieltag
 [Sa 4.2.]

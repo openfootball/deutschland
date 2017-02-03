@@ -27,16 +27,20 @@
   17.30  1. FSV Mainz 05  1:1  Borussia Dortmund
 
 19. Spieltag
+[Fr 3.2.]
+  20.30  Hamburger SV  Bayer Leverkusen
 [Sa 4.2.]
-  Hamburger SV  Bayer Leverkusen
-  Bayern München  FC Schalke 04
-  1899 Hoffenheim  1. FSV Mainz 05
-  1. FC Köln  VfL Wolfsburg
-  Hertha BSC  FC Ingolstadt 04
-  FC Augsburg  Werder Bremen
-  Eintracht Frankfurt  SV Darmstadt 98
-  Bor. Mönchengladbach  SC Freiburg
-  Borussia Dortmund  RB Leipzig
+  15.30  Bayern München  FC Schalke 04
+  15.30  Bor. Mönchengladbach  SC Freiburg
+  15.30  Hertha BSC  FC Ingolstadt 04
+  15.30  1. FC Köln  VfL Wolfsburg
+  15.30  1899 Hoffenheim  1. FSV Mainz 05
+  18.30  Borussia Dortmund  RB Leipzig
+[So 5.2.]
+  15.30  FC Augsburg  Werder Bremen
+  17.30  Eintracht Frankfurt  SV Darmstadt 98
+  
+  
 
 20. Spieltag
 [Sa 11.2.]

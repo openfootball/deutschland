@@ -1,41 +1,41 @@
 17. Spieltag
 [Fr 20.1.]
-  20.30  SC Freiburg      1:2  Bayern München
+  20.30  SC Freiburg           1:2  Bayern München
 [Sa 21.1.]
-  15.30  FC Schalke 04    1:0  FC Ingolstadt 04
-  15.30  VfL Wolfsburg    1:0  Hamburger SV
-  15.30  FC Augsburg      0:2  1899 Hoffenheim
-  15.30  Werder Bremen    1:2  Borussia Dortmund
-  15.30  SV Darmstadt 98  0:0  Bor. Mönchengladbach
-  18.30  RB Leipzig       3:0  Eintracht Frankfurt
+  15.30  FC Schalke 04         1:0  FC Ingolstadt 04
+  15.30  VfL Wolfsburg         1:0  Hamburger SV
+  15.30  FC Augsburg           0:2  1899 Hoffenheim
+  15.30  Werder Bremen         1:2  Borussia Dortmund
+  15.30  SV Darmstadt 98       0:0  Bor. Mönchengladbach
+  18.30  RB Leipzig            3:0  Eintracht Frankfurt
 [So 22.1.]
-  15.30  Bayer Leverkusen 3:1  Hertha BSC
-  17.30  1. FSV Mainz 05  0:0  1. FC Köln
+  15.30  Bayer Leverkusen      3:1  Hertha BSC
+  17.30  1. FSV Mainz 05       0:0  1. FC Köln
     
 18. Spieltag
 [Fr 27.1.]
-  20.30  FC Schalke 04    0:1  Eintracht Frankfurt
+  20.30  FC Schalke 04         0:1  Eintracht Frankfurt
 [Sa 28.1.]
-  15.30  VfL Wolfsburg    1:2  FC Augsburg
-  15.30  FC Ingolstadt 04 3:1  Hamburger SV
-  15.30  Werder Bremen    1:2  Bayern München
-  15.30  SV Darmstadt 98  1:6  1. FC Köln
-  15.30  RB Leipzig       2:1  1899 Hoffenheim
-  18.30  Bayer Leverkusen 2:3  Bor. Mönchengladbach 
+  15.30  VfL Wolfsburg         1:2  FC Augsburg
+  15.30  FC Ingolstadt 04      3:1  Hamburger SV
+  15.30  Werder Bremen         1:2  Bayern München
+  15.30  SV Darmstadt 98       1:6  1. FC Köln
+  15.30  RB Leipzig            2:1  1899 Hoffenheim
+  18.30  Bayer Leverkusen      2:3  Bor. Mönchengladbach 
 [So. 29.1.]
-  15.30  SC Freiburg      2:1  Hertha BSC
-  17.30  1. FSV Mainz 05  1:1  Borussia Dortmund
+  15.30  SC Freiburg           2:1  Hertha BSC
+  17.30  1. FSV Mainz 05       1:1  Borussia Dortmund
 
 19. Spieltag
 [Fr 3.2.]
-  20.30  Hamburger SV     1-0  Bayer Leverkusen
+  20.30  Hamburger SV          1-0  Bayer Leverkusen
 [Sa 4.2.]
-  15.30  Bayern München  FC Schalke 04
-  15.30  Bor. Mönchengladbach  SC Freiburg
-  15.30  Hertha BSC  FC Ingolstadt 04
-  15.30  1. FC Köln  VfL Wolfsburg
-  15.30  1899 Hoffenheim  1. FSV Mainz 05
-  18.30  Borussia Dortmund  RB Leipzig
+  15.30  Bayern München        1-1  FC Schalke 04
+  15.30  Bor. Mönchengladbach  3-0  SC Freiburg
+  15.30  Hertha BSC            1-0  FC Ingolstadt 04
+  15.30  1. FC Köln            1-0  VfL Wolfsburg
+  15.30  1899 Hoffenheim       4-0  1. FSV Mainz 05
+  18.30  Borussia Dortmund     1-0  RB Leipzig
 [So 5.2.]
   15.30  FC Augsburg  Werder Bremen
   17.30  Eintracht Frankfurt  SV Darmstadt 98

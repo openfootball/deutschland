@@ -42,13 +42,13 @@
   
 20. Spieltag
 [Fr 10.2.]
-  20.30  1. FSV Mainz 05       2-0  FC Augsburg
+  20.30  1. FSV Mainz 05       2:0  FC Augsburg
 [Sa 11.2.]
-  15.30  Bayer Leverkusen  Eintracht Frankfurt
-  15.30  FC Ingolstadt 04  Bayern München
-  15.30  Werder Bremen  Bor. Mönchengladbach
-  15.30  SV Darmstadt 98  Borussia Dortmund
-  15.30  RB Leipzig  Hamburger SV
+  15.30  Bayer Leverkusen      3:0  Eintracht Frankfurt
+  15.30  FC Ingolstadt 04      0:2  Bayern München
+  15.30  Werder Bremen         0:1  Bor. Mönchengladbach
+  15.30  SV Darmstadt 98       2:1  Borussia Dortmund
+  15.30  RB Leipzig            0:3  Hamburger SV
   18.30  FC Schalke 04  Hertha BSC
 [So 12.2.]
   15.30  VfL Wolfsburg  1899 Hoffenheim

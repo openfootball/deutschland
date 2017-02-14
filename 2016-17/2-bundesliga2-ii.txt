@@ -25,15 +25,15 @@ Spieltag 19
 
 Spieltag 20
 [So 12.2.]
-  Hannover 96  VfL Bochum
-  TSV 1860 München         2-1  Karlsruher SC
-  1. FC Nürnberg           1-1  Eintracht Braunschweig
-  Erzgebirge Aue           0-0  SpVgg Greuther Fürth
-  Fortuna Düsseldorf       1-1  1. FC Kaiserslautern
-  Würzburger Kickers       0-2  1. FC Heidenheim 1846
-  1. FC Union Berlin       3-1  Arminia Bielefeld
-  VfB Stuttgart            2-1  SV Sandhausen
-  FC St. Pauli             2-0  Dynamo Dresden
+  Hannover 96               2-1  VfL Bochum
+  TSV 1860 München          2-1  Karlsruher SC
+  1. FC Nürnberg            1-1  Eintracht Braunschweig
+  Erzgebirge Aue            0-0  SpVgg Greuther Fürth
+  Fortuna Düsseldorf        1-1  1. FC Kaiserslautern
+  Würzburger Kickers        0-2  1. FC Heidenheim 1846
+  1. FC Union Berlin        3-1  Arminia Bielefeld
+  VfB Stuttgart             2-1  SV Sandhausen
+  FC St. Pauli              2-0  Dynamo Dresden
 
 Spieltag 21
 [So 19.2.]

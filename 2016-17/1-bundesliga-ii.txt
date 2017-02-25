@@ -77,7 +77,7 @@
   15.30  SV Darmstadt 98       1:2  FC Augsburg
   15.30  SC Freiburg           0:3  Borussia Dortmund
   15.30  RB Leipzig            3:1  1. FC Köln
-  18.30  Hertha BSC  Eintracht Frankfurt
+  18.30  Hertha BSC            2:0  Eintracht Frankfurt
 [So 26.2.]
   15.30  FC Ingolstadt 04  Bor. Mönchengladbach
   17.30  FC Schalke 04  1899 Hoffenheim

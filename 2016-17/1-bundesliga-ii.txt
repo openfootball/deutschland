@@ -84,17 +84,19 @@
 
 
 23. Spieltag
+[Fr 3.3]
+  20.30  FC Augsburg           2:2  RB Leipzig
 [Sa 4.3.]
-  1. FC Köln  Bayern München
-  Borussia Dortmund  Bayer Leverkusen
-  Bor. Mönchengladbach  FC Schalke 04
-  Hamburger SV  Hertha BSC
-  1. FSV Mainz 05  VfL Wolfsburg
-  1899 Hoffenheim  FC Ingolstadt 04
-  Werder Bremen  SV Darmstadt 98
-  Eintracht Frankfurt  SC Freiburg
-  FC Augsburg                  2-2  RB Leipzig
-
+  15.30  Borussia Dortmund     6:2  Bayer Leverkusen
+  15.30  1. FSV Mainz 05       1:1  VfL Wolfsburg
+  15.30  1. FC Köln            0:3  Bayern München
+  15.30  Werder Bremen         2:0  SV Darmstadt 98
+  15.30  1899 Hoffenheim       5:2  FC Ingolstadt 04
+  18.30  Bor. Mönchengladbach  4:2  FC Schalke 04
+[So 5.3]
+  15.30  Eintracht Frankfurt  SC Freiburg
+  17.30  Hamburger SV  Hertha BSC
+  
 24. Spieltag
 [Sa 11.3.]
   Hertha BSC  Borussia Dortmund

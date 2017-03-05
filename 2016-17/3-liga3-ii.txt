@@ -1,20 +1,20 @@
 
 20. Spieltag
 [Sa 28.1.]
-  VfL Osnabrück           3-0  Preußen Münster
-  Großaspach              2-2   Chemnitzer FC
+   VfL Osnabrück          3-0  Preußen Münster
+   Großaspach             2-2   Chemnitzer FC
    Hallescher FC          1-0   FC Rot-Weiß Erfurt
    FSV Frankfurt          0-0   Holstein Kiel
    VfR Aalen              1-1   Wehen Wiesbaden
    Sportfreunde Lotte     1-2   Werder Bremen II
    Fortuna Köln           2-1   1. FC Magdeburg
    FSV Zwickau            1-0   1. FSV Mainz 05 II
-  SC Paderborn 07         0-1   MSV Duisburg
+   SC Paderborn 07        0-1   MSV Duisburg
    Hansa Rostock          0-0   SSV Jahn Regensburg
 
 21. Spieltag
 [Sa 4.2.]
-  1. FSV Mainz 05 II      0-1   SC Paderborn 07
+   1. FSV Mainz 05 II     0-1   SC Paderborn 07
    1. FC Magdeburg        1-1   FSV Zwickau
    Werder Bremen II       1-1   Fortuna Köln
    Wehen Wiesbaden        0-3   Sportfreunde Lotte
@@ -27,10 +27,10 @@
 
 22. Spieltag
 [Sa 11.2.]
-  MSV Duisburg            3-2   Preußen Münster
+   MSV Duisburg           3-2   Preußen Münster
    FSV Frankfurt          0-3   Chemnitzer FC
    VfR Aalen              1-1   FC Rot-Weiß Erfurt
-  Sportfreunde Lotte   -   Holstein Kiel      Termin  verschoben   23.3.
+   Sportfreunde Lotte   -   Holstein Kiel      Termin  verschoben   23.3.
    Fortuna Köln           0-0   Wehen Wiesbaden
    FSV Zwickau            2-1   Werder Bremen II
    SC Paderborn 07        1-1   1. FC Magdeburg
@@ -40,8 +40,8 @@
 
 23. Spieltag
 [Sa 18.2.]
-  Werder Bremen II        1-0   SC Paderborn 07
-   Wehen Wiesbaden        3-0  FSV Zwickau
+   Werder Bremen II       1-0   SC Paderborn 07
+   Wehen Wiesbaden        3-0   FSV Zwickau
    Holstein Kiel          5-1   Fortuna Köln
    FC Rot-Weiß Erfurt     0-3   Sportfreunde Lotte
    Chemnitzer FC          0-1   VfR Aalen
@@ -53,7 +53,7 @@
 
 24. Spieltag
 [Sa 25.2.]
-  1. FSV Mainz 05 II      3-1   Preußen Münster
+   1. FSV Mainz 05 II     3-1   Preußen Münster
    Sportfreunde Lotte   -   Chemnitzer FC      Termin verschoben 8.3.
    Fortuna Köln           0-1   FC Rot-Weiß Erfurt
    FSV Zwickau            1-0   Holstein Kiel

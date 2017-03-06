@@ -94,20 +94,22 @@
   15.30  1899 Hoffenheim       5:2  FC Ingolstadt 04
   18.30  Bor. Mönchengladbach  4:2  FC Schalke 04
 [So 5.3]
-  15.30  Eintracht Frankfurt  SC Freiburg
-  17.30  Hamburger SV  Hertha BSC
+  15.30  Eintracht Frankfurt   1:2  SC Freiburg
+  17.30  Hamburger SV          1:0  Hertha BSC
   
 24. Spieltag
+[Fr 10.3.]
+  20.30  Bayer Leverkusen  Werder Bremen
 [Sa 11.3.]
-  Hertha BSC  Borussia Dortmund
-  Hamburger SV  Bor. Mönchengladbach
-  SV Darmstadt 98  1. FSV Mainz 05
-  RB Leipzig  VfL Wolfsburg
-  FC Ingolstadt 04  1. FC Köln
-  FC Schalke 04  FC Augsburg
-  Bayer Leverkusen  Werder Bremen
-  SC Freiburg  1899 Hoffenheim
-  Bayern München  Eintracht Frankfurt
+  15.30  Bayern München  Eintracht Frankfurt
+  15.30  Hertha BSC  Borussia Dortmund
+  15.30  SV Darmstadt 98  1. FSV Mainz 05
+  15.30  SC Freiburg  1899 Hoffenheim
+  15.30  RB Leipzig  VfL Wolfsburg
+  18.30  FC Ingolstadt 04  1. FC Köln
+[So 10.3.]
+  15.30  FC Schalke 04  FC Augsburg
+  17.30  Hamburger SV  Bor. Mönchengladbach
 
 25. Spieltag
 [Sa 18.3.]

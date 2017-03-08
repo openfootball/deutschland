@@ -74,7 +74,7 @@
    Großaspach             3-1   FSV Frankfurt
    Preußen Münster        1-1   Hallescher FC
    1. FC Magdeburg        1-2   1. FSV Mainz 05 II
-   Werder Bremen II   -   MSV Duisburg
+   Werder Bremen II       0-0   MSV Duisburg
    Wehen Wiesbaden        2-1   VfL Osnabrück
    
 (Mi 08.03.)  24. Spieltag
@@ -119,9 +119,6 @@
    FSV Zwickau   -   Hansa Rostock
    SC Paderborn 07   -   SSV Jahn Regensburg
    
-   (Mi 28.3.)  22. Spieltag
-   Sportfreunde Lotte -   Holstein Kiel
-
 29. Spieltag
 [Sa 25.3.]
   Hansa Rostock   -   SC Paderborn 07
@@ -134,7 +131,10 @@
    FC Rot-Weiß Erfurt   -   1. FSV Mainz 05 II
    Chemnitzer FC   -   MSV Duisburg
    SSV Jahn Regensburg   -   VfL Osnabrück
-
+   
+ (Mi 28.3.)  22. Spieltag
+   Sportfreunde Lotte -   Holstein Kiel
+   
 30. Spieltag
 [Sa 1.4.]
   Wehen Wiesbaden   -   Preußen Münster

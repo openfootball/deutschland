@@ -54,7 +54,7 @@
 24. Spieltag
 [Sa 25.2.]
    1. FSV Mainz 05 II     3-1   Preußen Münster
-   Sportfreunde Lotte     3-0   Chemnitzer FC      Termin verschoben 8.3.
+   Sportfreunde Lotte     3-0   Chemnitzer FC
    Fortuna Köln           0-1   FC Rot-Weiß Erfurt
    FSV Zwickau            1-0   Holstein Kiel
    SC Paderborn 07        0-1   Wehen Wiesbaden
@@ -84,14 +84,14 @@
 [Sa 11.3.]
   1. FC Magdeburg         1-0   Preußen Münster
    FSV Zwickau   -   Chemnitzer FC
-   SC Paderborn 07   -   FC Rot-Weiß Erfurt
+   SC Paderborn 07        0-1   FC Rot-Weiß Erfurt
    VfL Osnabrück          2-1   Holstein Kiel
-   MSV Duisburg   -   Wehen Wiesbaden
-   1. FSV Mainz 05 II   -   Werder Bremen II
-   FSV Frankfurt   -   Hallescher FC
-   VfR Aalen   -   Großaspach
-   Sportfreunde Lotte   -   Hansa Rostock
-   Fortuna Köln   -   SSV Jahn Regensburg
+   MSV Duisburg           0-1   Wehen Wiesbaden
+   1. FSV Mainz 05 II     0-1   Werder Bremen II
+   FSV Frankfurt          0-1   Hallescher FC
+   VfR Aalen              2-0   Großaspach
+   Sportfreunde Lotte     2-0   Hansa Rostock
+   Fortuna Köln           2-2   SSV Jahn Regensburg
 
 27. Spieltag
 [Mi 15.3.]

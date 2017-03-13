@@ -77,11 +77,11 @@ Spieltag 24
   FC St. Pauli              1-2  1. FC Union Berlin
   Erzgebirge Aue            1-0  Karlsruher SC
   Fortuna Düsseldorf  Eintracht Braunschweig
-  SV Sandhausen  SpVgg Greuther Fürth
-  1. FC Kaiserslautern  1. FC Heidenheim 1846
-  1. FC Nürnberg  Arminia Bielefeld
-  Hannover 96              1-0  TSV 1860 München
-  Würzburger Kickers       0-2  Dynamo Dresden
+  SV Sandhausen             1-1  SpVgg Greuther Fürth
+  1. FC Kaiserslautern      1-1  1. FC Heidenheim 1846
+  1. FC Nürnberg            1-0  Arminia Bielefeld
+  Hannover 96               1-0  TSV 1860 München
+  Würzburger Kickers        0-2  Dynamo Dresden
 
 Spieltag 25
 [So 19.3.]

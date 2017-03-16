@@ -83,7 +83,7 @@
 26. Spieltag
 [Sa 11.3.]
    1. FC Magdeburg        1-0   Preußen Münster
-   FSV Zwickau            1-0  Chemnitzer FC
+   FSV Zwickau            1-0   Chemnitzer FC
    SC Paderborn 07        0-1   FC Rot-Weiß Erfurt
    VfL Osnabrück          2-1   Holstein Kiel
    MSV Duisburg           0-1   Wehen Wiesbaden
@@ -95,20 +95,20 @@
 
 27. Spieltag
 [Mi 15.3.]
-  Chemnitzer FC      SC Paderborn 07
-   SSV Jahn Regensburg   -   FSV Zwickau
-   Hansa Rostock   -   Fortuna Köln
+   Chemnitzer FC          2-1   SC Paderborn 07
+   SSV Jahn Regensburg    1-2   FSV Zwickau
+   Hansa Rostock          1-1   Fortuna Köln
    Großaspach   -   Sportfreunde Lotte     Termin verschoben auf 22.3.
-   Hallescher FC          1-4 VfR Aalen
+   Hallescher FC          1-4   VfR Aalen
    Preußen Münster        2-1   FSV Frankfurt
    Werder Bremen II       0-1   1. FC Magdeburg
-   Wehen Wiesbaden   -   1. FSV Mainz 05 II
+   Wehen Wiesbaden        0-2   1. FSV Mainz 05 II
    Holstein Kiel          2-0   MSV Duisburg
    FC Rot-Weiß Erfurt     1-0   VfL Osnabrück
 
 28. Spieltag
 [Sa 18.3.]
-  Werder Bremen II   -   Preußen Münster
+   Werder Bremen II   -   Preußen Münster
    VfL Osnabrück   -   Chemnitzer FC
    MSV Duisburg   -   FC Rot-Weiß Erfurt
    1. FSV Mainz 05 II   -   Holstein Kiel

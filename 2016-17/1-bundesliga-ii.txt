@@ -112,7 +112,7 @@
 
 25. Spieltag
 [Fr 17.3.]
-  20.30  Borussia Dortmund  FC Ingolstadt 04
+  20.30  Borussia Dortmund     1:0  FC Ingolstadt 04
 [Sa 18.3.]
   15.30  VfL Wolfsburg  SV Darmstadt 98
   15.30  1. FC Köln  Hertha BSC
@@ -125,16 +125,18 @@
   17.30  Bor. Mönchengladbach  Bayern München
 
 26. Spieltag
+[Fr 31.3.]
+  20.30  Hertha BSC  1899 Hoffenheim
 [Sa 1.4.]
-  FC Schalke 04  Borussia Dortmund
-  Eintracht Frankfurt  Bor. Mönchengladbach
-  FC Ingolstadt 04  1. FSV Mainz 05
-  Bayer Leverkusen  VfL Wolfsburg
-  Hamburger SV  1. FC Köln
-  Bayern München  FC Augsburg
-  SC Freiburg  Werder Bremen
-  RB Leipzig  SV Darmstadt 98
-  Hertha BSC  1899 Hoffenheim
+  15.30  Bayern München  FC Augsburg
+  15.30  FC Schalke 04  Borussia Dortmund
+  15.30  Hamburger SV  1. FC Köln
+  15.30  SC Freiburg  Werder Bremen
+  15.30  RB Leipzig  SV Darmstadt 98
+  18.30  Eintracht Frankfurt  Bor. Mönchengladbach
+[So 2.4.]
+  15.30  FC Ingolstadt 04  1. FSV Mainz 05
+  17.30  Bayer Leverkusen  VfL Wolfsburg
 
 27. Spieltag
 [Di 4.4.]

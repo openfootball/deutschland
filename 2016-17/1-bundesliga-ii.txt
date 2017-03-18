@@ -114,11 +114,11 @@
 [Fr 17.3.]
   20.30  Borussia Dortmund     1:0  FC Ingolstadt 04
 [Sa 18.3.]
-  15.30  VfL Wolfsburg  SV Darmstadt 98
-  15.30  1. FC Köln  Hertha BSC
-  15.30  FC Augsburg  SC Freiburg
-  15.30  Werder Bremen  RB Leipzig 
-  15.30  1899 Hoffenheim  Bayer Leverkusen
+  15.30  VfL Wolfsburg         1:0  SV Darmstadt 98
+  15.30  1. FC Köln            4:2  Hertha BSC
+  15.30  FC Augsburg           1:1  SC Freiburg
+  15.30  Werder Bremen         3:0  RB Leipzig 
+  15.30  1899 Hoffenheim       1:0  Bayer Leverkusen
   18.30  Eintracht Frankfurt  Hamburger SV
 [So 19.3.]
   15.30  1. FSV Mainz 05  FC Schalke 04

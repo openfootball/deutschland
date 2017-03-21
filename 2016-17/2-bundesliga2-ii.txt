@@ -87,12 +87,12 @@ Spieltag 25
 [So 19.3.]
   SpVgg Greuther Fürth      1-0  VfB Stuttgart
   FC St. Pauli              0-0  Hannover 96
-  1. FC Union Berlin  1. FC Nürnberg
+  1. FC Union Berlin        1-0  1. FC Nürnberg
   Arminia Bielefeld         2-0  1. FC Kaiserslautern
   Eintracht Braunschweig    3-2  1. FC Heidenheim 1846
-  Dynamo Dresden  SV Sandhausen
-  Karlsruher SC  Fortuna Düsseldorf
-  VfL Bochum  Erzgebirge Aue
+  Dynamo Dresden            2-0  SV Sandhausen
+  Karlsruher SC             0-3  Fortuna Düsseldorf
+  VfL Bochum                1-1  Erzgebirge Aue
   TSV 1860 München          2-1  Würzburger Kickers
 
 Spieltag 26

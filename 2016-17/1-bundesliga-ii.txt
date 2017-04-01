@@ -126,7 +126,7 @@
 
 26. Spieltag
 [Fr 31.3.]
-  20.30  Hertha BSC            1-3  1899 Hoffenheim
+  20.30  Hertha BSC            1:3  1899 Hoffenheim
 [Sa 1.4.]
   15.30  Bayern München  FC Augsburg
   15.30  FC Schalke 04  Borussia Dortmund
@@ -140,15 +140,16 @@
 
 27. Spieltag
 [Di 4.4.]
-  1899 Hoffenheim  Bayern München
-  SV Darmstadt 98  Bayer Leverkusen
-  Werder Bremen  FC Schalke 04
-  Bor. Mönchengladbach  Hertha BSC
-  Borussia Dortmund  Hamburger SV
-  FC Augsburg  FC Ingolstadt 04
-  1. FC Köln  Eintracht Frankfurt
-  VfL Wolfsburg  SC Freiburg
-  1. FSV Mainz 05  RB Leipzig
+  20.00  Borussia Dortmund  Hamburger SV
+  20.00  1. FC Köln  Eintracht Frankfurt  
+  20.00  Werder Bremen  FC Schalke 04  
+  20.00  1899 Hoffenheim  Bayern München  
+[Mi 5.4.]
+  20.00  Bor. Mönchengladbach  Hertha BSC
+  20.00  1. FSV Mainz 05  RB Leipzig  
+  20.00  VfL Wolfsburg  SC Freiburg  
+  20.00  FC Augsburg  FC Ingolstadt 04  
+  20.00  SV Darmstadt 98  Bayer Leverkusen
 
 28. Spieltag
 [Sa 8.4.]

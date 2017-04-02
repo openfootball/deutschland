@@ -98,12 +98,12 @@ Spieltag 25
 Spieltag 26
 [So 2.4.]
   Erzgebirge Aue            1-0  FC St. Pauli
-  SV Sandhausen  VfL Bochum
-  Hannover 96  1. FC Union Berlin
+  SV Sandhausen             0-0  VfL Bochum
+  Hannover 96               2-0  1. FC Union Berlin
   1. FC Nürnberg            2-1  Karlsruher SC
   1. FC Kaiserslautern  Eintracht Braunschweig
   1. FC Heidenheim 1846  SpVgg Greuther Fürth
-  Würzburger Kickers  Arminia Bielefeld
+  Würzburger Kickers        1-1  Arminia Bielefeld
   Fortuna Düsseldorf        0-1  TSV 1860 München
   VfB Stuttgart  Dynamo Dresden
 

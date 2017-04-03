@@ -140,20 +140,20 @@
    
 30. Spieltag
 [Sa 1.4.]
-  Wehen Wiesbaden   -   Preußen Münster
+   Wehen Wiesbaden       1-0   Preußen Münster
    1. FSV Mainz 05 II    0-1   Chemnitzer FC
    1. FC Magdeburg       2-0   FC Rot-Weiß Erfurt
    Werder Bremen II      0-2   Holstein Kiel
    Sportfreunde Lotte    0-2   VfR Aalen
    Fortuna Köln          0-0   FSV Frankfurt
-   FSV Zwickau   -   Hallescher FC
+   FSV Zwickau           2-0   Hallescher FC
    SC Paderborn 07       1-2   Großaspach
-   VfL Osnabrück   -   Hansa Rostock
+   VfL Osnabrück         2-1   Hansa Rostock
    MSV Duisburg          1-1   SSV Jahn Regensburg
 
 31. Spieltag
 [Mi 5.4.]
-  Hallescher FC   -   SC Paderborn 07
+   Hallescher FC   -   SC Paderborn 07
    FSV Frankfurt   -   FSV Zwickau
    VfR Aalen   -   Fortuna Köln
    Preußen Münster   -   Sportfreunde Lotte
@@ -166,7 +166,7 @@
 
 32. Spieltag
 [Sa 8.4.]
-  Holstein Kiel   -   Preußen Münster
+   Holstein Kiel   -   Preußen Münster
    Werder Bremen II   -   Chemnitzer FC
    Wehen Wiesbaden   -   FC Rot-Weiß Erfurt
    Fortuna Köln   -   Sportfreunde Lotte
@@ -179,7 +179,7 @@
 
 33. Spieltag
 [Sa 15.4.]
-  VfR Aalen   -   SC Paderborn 07
+   VfR Aalen   -   SC Paderborn 07
    Sportfreunde Lotte   -   FSV Zwickau
    Preußen Münster   -   Fortuna Köln
    FC Rot-Weiß Erfurt   -   Holstein Kiel
@@ -195,7 +195,7 @@
 
 34. Spieltag
 [Sa 22.4.]
-  FC Rot-Weiß Erfurt   -   Preußen Münster
+   FC Rot-Weiß Erfurt   -   Preußen Münster
    Holstein Kiel   -   Chemnitzer FC
    FSV Zwickau   -   Fortuna Köln
    SC Paderborn 07   -   Sportfreunde Lotte
@@ -208,8 +208,8 @@
 
 35. Spieltag
 [Sa 29.4.]
-  Fortuna Köln   -   SC Paderborn 07
-  Preußen Münster   -   FSV Zwickau
+   Fortuna Köln   -   SC Paderborn 07
+   Preußen Münster   -   FSV Zwickau
    Chemnitzer FC   -   FC Rot-Weiß Erfurt
    SSV Jahn Regensburg   -   Holstein Kiel
    Hansa Rostock   -   Wehen Wiesbaden
@@ -221,7 +221,7 @@
 
 36. Spieltag
 [Sa 6.5.]
-  Chemnitzer FC   -   Preußen Münster
+   Chemnitzer FC   -   Preußen Münster
    SC Paderborn 07   -   FSV Zwickau
    VfL Osnabrück   -   Fortuna Köln
    MSV Duisburg   -   Sportfreunde Lotte
@@ -234,7 +234,7 @@
 
 37. Spieltag
 [Sa 13.5.]
-  SC Paderborn 07   -   Preußen Münster
+   SC Paderborn 07   -   Preußen Münster
    SSV Jahn Regensburg   -   Chemnitzer FC
    Hansa Rostock   -   FC Rot-Weiß Erfurt
    Großaspach   -   Holstein Kiel
@@ -247,7 +247,7 @@
 
 38. Spieltag
 [Sa 20.5.]
-  VfL Osnabrück   -   SC Paderborn 07
+   VfL Osnabrück   -   SC Paderborn 07
    MSV Duisburg   -   FSV Zwickau
    1. FSV Mainz 05 II   -   Fortuna Köln
    1. FC Magdeburg   -   Sportfreunde Lotte

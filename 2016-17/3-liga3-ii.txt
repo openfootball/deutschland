@@ -155,12 +155,12 @@
 [Mi 5.4.]
    Hallescher FC   -   SC Paderborn 07
    FSV Frankfurt   -   FSV Zwickau
-   VfR Aalen   -   Fortuna Köln
+   VfR Aalen             3-0   Fortuna Köln
    Preußen Münster   -   Sportfreunde Lotte
    Holstein Kiel   -   Wehen Wiesbaden
-   FC Rot-Weiß Erfurt   -   Werder Bremen II
-   Chemnitzer FC   -   1. FC Magdeburg
-   SSV Jahn Regensburg   -   1. FSV Mainz 05 II
+   FC Rot-Weiß Erfurt    1-1   Werder Bremen II
+   Chemnitzer FC         1-1   1. FC Magdeburg
+   SSV Jahn Regensburg   2-1   1. FSV Mainz 05 II
    Hansa Rostock   -   MSV Duisburg
    Großaspach   -   VfL Osnabrück
 

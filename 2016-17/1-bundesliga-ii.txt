@@ -145,11 +145,11 @@
   20.00  Werder Bremen         3:0  FC Schalke 04  
   20.00  1899 Hoffenheim       1:0  Bayern München  
 [Mi 5.4.]
-  20.00  Bor. Mönchengladbach  Hertha BSC
-  20.00  1. FSV Mainz 05  RB Leipzig  
-  20.00  VfL Wolfsburg  SC Freiburg  
-  20.00  FC Augsburg  FC Ingolstadt 04  
-  20.00  SV Darmstadt 98  Bayer Leverkusen
+  20.00  Bor. Mönchengladbach  1:0  Hertha BSC
+  20.00  1. FSV Mainz 05       2:3  RB Leipzig  
+  20.00  VfL Wolfsburg         0:1  SC Freiburg  
+  20.00  FC Augsburg           2:3  FC Ingolstadt 04  
+  20.00  SV Darmstadt 98       0:2  Bayer Leverkusen
 
 28. Spieltag
 [Fr 7.4.]

@@ -140,10 +140,10 @@
 
 27. Spieltag
 [Di 4.4.]
-  20.00  Borussia Dortmund     3-0  Hamburger SV
-  20.00  1. FC Köln            1-0  Eintracht Frankfurt  
-  20.00  Werder Bremen         3-0  FC Schalke 04  
-  20.00  1899 Hoffenheim       1-0  Bayern München  
+  20.00  Borussia Dortmund     3:0  Hamburger SV
+  20.00  1. FC Köln            1:0  Eintracht Frankfurt  
+  20.00  Werder Bremen         3:0  FC Schalke 04  
+  20.00  1899 Hoffenheim       1:0  Bayern München  
 [Mi 5.4.]
   20.00  Bor. Mönchengladbach  Hertha BSC
   20.00  1. FSV Mainz 05  RB Leipzig  
@@ -152,16 +152,18 @@
   20.00  SV Darmstadt 98  Bayer Leverkusen
 
 28. Spieltag
+[Fr 7.4.]
+  20.30  Eintracht Frankfurt  Werder Bremen
 [Sa 8.4.]
-  Bayern München  Borussia Dortmund
-  RB Leipzig  Bayer Leverkusen
-  1. FC Köln  Bor. Mönchengladbach
-  SC Freiburg  1. FSV Mainz 05
-  FC Schalke 04  VfL Wolfsburg
-  Hertha BSC  FC Augsburg
-  Eintracht Frankfurt  Werder Bremen
-  FC Ingolstadt 04  SV Darmstadt 98
-  Hamburger SV  1899 Hoffenheim
+  15.30  FC Schalke 04  VfL Wolfsburg
+  15.30  1. FC Köln  Bor. Mönchengladbach  
+  15.30  Hamburger SV  1899 Hoffenheim
+  15.30  SC Freiburg  1. FSV Mainz 05
+  15.30  RB Leipzig  Bayer Leverkusen
+  18.30  Bayern München  Borussia Dortmund
+[So 9.4.]
+  15.30  Hertha BSC  FC Augsburg
+  17.30  FC Ingolstadt 04  SV Darmstadt 98
 
 29. Spieltag
 [Sa 15.4.]

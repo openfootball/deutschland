@@ -140,10 +140,10 @@
 
 27. Spieltag
 [Di 4.4.]
-  20.00  Borussia Dortmund  Hamburger SV
-  20.00  1. FC Köln  Eintracht Frankfurt  
-  20.00  Werder Bremen  FC Schalke 04  
-  20.00  1899 Hoffenheim  Bayern München  
+  20.00  Borussia Dortmund     3-0  Hamburger SV
+  20.00  1. FC Köln            1-0  Eintracht Frankfurt  
+  20.00  Werder Bremen         3-0  FC Schalke 04  
+  20.00  1899 Hoffenheim       1-0  Bayern München  
 [Mi 5.4.]
   20.00  Bor. Mönchengladbach  Hertha BSC
   20.00  1. FSV Mainz 05  RB Leipzig  

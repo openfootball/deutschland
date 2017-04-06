@@ -109,14 +109,14 @@ Spieltag 26
 
 Spieltag 27
 [Di 4.4.]
-  TSV 1860 München  VfB Stuttgart
+  TSV 1860 München          1-1  VfB Stuttgart
   Hannover 96               1-0  1. FC Nürnberg
-  SpVgg Greuther Fürth  Eintracht Braunschweig
-  VfL Bochum  1. FC Kaiserslautern
-  Dynamo Dresden  1. FC Heidenheim 1846
+  SpVgg Greuther Fürth      0-0  Eintracht Braunschweig
+  VfL Bochum                0-0  1. FC Kaiserslautern
+  Dynamo Dresden            2-1  1. FC Heidenheim 1846
   FC St. Pauli              0-0  SV Sandhausen
   Arminia Bielefeld         2-1  Fortuna Düsseldorf
-  1. FC Union Berlin  Erzgebirge Aue
+  1. FC Union Berlin        0-1  Erzgebirge Aue
   Karlsruher SC             1-1  Würzburger Kickers
 
 Spieltag 28

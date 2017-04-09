@@ -167,13 +167,13 @@
 32. Spieltag
 [Sa 8.4.]
    Holstein Kiel   -   Preußen Münster
-   Werder Bremen II   -   Chemnitzer FC
-   Wehen Wiesbaden   -   FC Rot-Weiß Erfurt
-   Fortuna Köln   -   Sportfreunde Lotte
-   FSV Zwickau   -   VfR Aalen
-   SC Paderborn 07   -   FSV Frankfurt
-   VfL Osnabrück   -   Hallescher FC
-   MSV Duisburg   -   Großaspach
+   Werder Bremen II      0-0   Chemnitzer FC
+   Wehen Wiesbaden       0-0   FC Rot-Weiß Erfurt
+   Fortuna Köln          3-0   Sportfreunde Lotte
+   FSV Zwickau           2-1   VfR Aalen
+   SC Paderborn 07       3-0   FSV Frankfurt
+   VfL Osnabrück         1-2   Hallescher FC
+   MSV Duisburg          2-1   Großaspach
    1. FSV Mainz 05 II   -   Hansa Rostock
    1. FC Magdeburg   -   SSV Jahn Regensburg
 

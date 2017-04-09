@@ -153,29 +153,30 @@
 
 28. Spieltag
 [Fr 7.4.]
-  20.30  Eintracht Frankfurt   2-2  Werder Bremen
+  20.30  Eintracht Frankfurt   2:2  Werder Bremen
 [Sa 8.4.]
-  15.30  FC Schalke 04         4-1  VfL Wolfsburg
-  15.30  1. FC Köln            2-3  Bor. Mönchengladbach  
-  15.30  Hamburger SV          2-1  1899 Hoffenheim
-  15.30  SC Freiburg           1-0  1. FSV Mainz 05
-  15.30  RB Leipzig            1-0  Bayer Leverkusen
-  18.30  Bayern München        4-1  Borussia Dortmund
+  15.30  FC Schalke 04         4:1  VfL Wolfsburg
+  15.30  1. FC Köln            2:3  Bor. Mönchengladbach  
+  15.30  Hamburger SV          2:1  1899 Hoffenheim
+  15.30  SC Freiburg           1:0  1. FSV Mainz 05
+  15.30  RB Leipzig            1:0  Bayer Leverkusen
+  18.30  Bayern München        4:1  Borussia Dortmund
 [So 9.4.]
-  15.30  Hertha BSC  FC Augsburg
-  17.30  FC Ingolstadt 04  SV Darmstadt 98
+  15.30  Hertha BSC            2:0  FC Augsburg
+  17.30  FC Ingolstadt 04      3:2  SV Darmstadt 98
 
 29. Spieltag
 [Sa 15.4.]
-  Bayer Leverkusen  Bayern München
-  1899 Hoffenheim  Bor. Mönchengladbach
-  SV Darmstadt 98  FC Schalke 04
-  1. FSV Mainz 05  Hertha BSC
-  FC Augsburg  1. FC Köln
-  Werder Bremen  Hamburger SV
-  VfL Wolfsburg  FC Ingolstadt 04
-  Borussia Dortmund  Eintracht Frankfurt
-  RB Leipzig  SC Freiburg
+15.30  Borussia Dortmund  Eintracht Frankfurt
+15.30  1. FSV Mainz 05  Hertha BSC
+15.30  VfL Wolfsburg  FC Ingolstadt 04
+15.30  FC Augsburg  1. FC Köln 
+15.30  1899 Hoffenheim  Bor. Mönchengladbach  
+15.30  RB Leipzig  SC Freiburg
+18.30  Bayer Leverkusen  Bayern München
+[So 16.4.]
+15.30  Werder Bremen  Hamburger SV
+17.30  SV Darmstadt 98  FC Schalke 04
 
 30. Spieltag
 [Sa 22.4.]

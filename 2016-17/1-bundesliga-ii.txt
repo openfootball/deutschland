@@ -180,29 +180,31 @@
 
 30. Spieltag
 [Fr 21.1.]
-  20.30  1. FC Köln            1-1  1899 Hoffenheim
+  20.30  1. FC Köln            1:1  1899 Hoffenheim
 [Sa 22.4.]
-  15.30  Bayern München  1. FSV Mainz 05
-  15.30  Hertha BSC  VfL Wolfsburg
-  15.30  Hamburger SV  SV Darmstadt 98
-  15.30  FC Ingolstadt 04  Werder Bremen
-  15.30  Eintracht Frankfurt  FC Augsburg
+  15.30  Bayern München        2:2  1. FSV Mainz 05
+  15.30  Hertha BSC            1:0  VfL Wolfsburg
+  15.30  Hamburger SV          1:2  SV Darmstadt 98
+  15.30  FC Ingolstadt 04      2:4  Werder Bremen
+  15.30  Eintracht Frankfurt   3:1  FC Augsburg
   18.30  Bor. Mönchengladbach  Borussia Dortmund
 [So 23.4.]
   15.30  SC Freiburg  Bayer Leverkusen
   17.30  FC Schalke 04  RB Leipzig
   
 31. Spieltag
+[Fr 28.4.]
+  20.30  Bayer Leverkusen  FC Schalke 04
 [Sa 29.4.]
-  VfL Wolfsburg  Bayern München
-  1. FSV Mainz 05  Bor. Mönchengladbach
-  Bayer Leverkusen  FC Schalke 04
-  Werder Bremen  Hertha BSC
-  Borussia Dortmund  1. FC Köln
-  FC Augsburg  Hamburger SV
-  RB Leipzig  FC Ingolstadt 04
-  1899 Hoffenheim  Eintracht Frankfurt
-  SV Darmstadt 98  SC Freiburg
+  15.30  Borussia Dortmund  1. FC Köln
+  15.30  1. FSV Mainz 05  Bor. Mönchengladbach
+  15.30  Werder Bremen  Hertha BSC
+  15.30  SV Darmstadt 98  SC Freiburg
+  15.30  RB Leipzig  FC Ingolstadt 04
+  18.30  VfL Wolfsburg  Bayern München
+[So 30.4.]
+  15.30  FC Augsburg  Hamburger SV
+  17.30  1899 Hoffenheim  Eintracht Frankfurt
 
 32. Spieltag
 [Sa 6.5.]

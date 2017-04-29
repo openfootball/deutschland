@@ -194,13 +194,13 @@
   
 31. Spieltag
 [Fr 28.4.]
-  20.30  Bayer Leverkusen      1-4  FC Schalke 04
+  20.30  Bayer Leverkusen      1:4  FC Schalke 04
 [Sa 29.4.]
-  15.30  Borussia Dortmund  1. FC Köln
-  15.30  1. FSV Mainz 05  Bor. Mönchengladbach
-  15.30  Werder Bremen  Hertha BSC
-  15.30  SV Darmstadt 98  SC Freiburg
-  15.30  RB Leipzig  FC Ingolstadt 04
+  15.30  Borussia Dortmund     0:0  1. FC Köln
+  15.30  1. FSV Mainz 05       1:2  Bor. Mönchengladbach
+  15.30  Werder Bremen         2:0  Hertha BSC
+  15.30  SV Darmstadt 98       3:0  SC Freiburg
+  15.30  RB Leipzig            0:0  FC Ingolstadt 04
   18.30  VfL Wolfsburg  Bayern München
 [So 30.4.]
   15.30  FC Augsburg  Hamburger SV

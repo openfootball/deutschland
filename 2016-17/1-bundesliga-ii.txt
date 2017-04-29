@@ -201,7 +201,7 @@
   15.30  Werder Bremen         2:0  Hertha BSC
   15.30  SV Darmstadt 98       3:0  SC Freiburg
   15.30  RB Leipzig            0:0  FC Ingolstadt 04
-  18.30  VfL Wolfsburg  Bayern München
+  18.30  VfL Wolfsburg         0:6  Bayern München
 [So 30.4.]
   15.30  FC Augsburg  Hamburger SV
   17.30  1899 Hoffenheim  Eintracht Frankfurt

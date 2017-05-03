@@ -210,37 +210,39 @@
   Bayern München
 
 32. Spieltag
+[Fr 5.5.]
+  20.30  1. FC Köln  Werder Bremen
 [Sa 6.5.]
-  FC Ingolstadt 04  Bayer Leverkusen
-  SC Freiburg  FC Schalke 04
-  Hamburger SV  1. FSV Mainz 05
-  Eintracht Frankfurt  VfL Wolfsburg
-  Bor. Mönchengladbach  FC Augsburg
-  1. FC Köln  Werder Bremen
-  Bayern München  SV Darmstadt 98
-  Borussia Dortmund  1899 Hoffenheim
-  Hertha BSC  RB Leipzig
+  15.30  Bayern München  SV Darmstadt 98
+  15.30  Borussia Dortmund  1899 Hoffenheim
+  15.30  Bor. Mönchengladbach  FC Augsburg
+  15.30  FC Ingolstadt 04  Bayer Leverkusen
+  15.30  Eintracht Frankfurt  VfL Wolfsburg
+  18.30  Hertha BSC  RB Leipzig
+[So 7.5.]
+  15.30  Hamburger SV  1. FSV Mainz 05
+  17.30  SC Freiburg  FC Schalke 04
 
 33. Spieltag
 [Sa 13.5.]
-  RB Leipzig  Bayern München
-  FC Augsburg  Borussia Dortmund
-  VfL Wolfsburg  Bor. Mönchengladbach
-  SV Darmstadt 98  Hertha BSC
-  Bayer Leverkusen  1. FC Köln
-  FC Schalke 04  Hamburger SV
-  SC Freiburg  FC Ingolstadt 04
-  Werder Bremen  1899 Hoffenheim
-  1. FSV Mainz 05  Eintracht Frankfurt
+  15.30  RB Leipzig  Bayern München
+  15.30  FC Augsburg  Borussia Dortmund
+  15.30  VfL Wolfsburg  Bor. Mönchengladbach
+  15.30  SV Darmstadt 98  Hertha BSC
+  15.30  Bayer Leverkusen  1. FC Köln
+  15.30  FC Schalke 04  Hamburger SV
+  15.30  SC Freiburg  FC Ingolstadt 04
+  15.30  Werder Bremen  1899 Hoffenheim
+  15.30  1. FSV Mainz 05  Eintracht Frankfurt
 
 34. Spieltag
 [Sa 20.5.]
-  Hertha BSC  Bayer Leverkusen
-  FC Ingolstadt 04  FC Schalke 04
-  1. FC Köln  1. FSV Mainz 05
-  Hamburger SV  VfL Wolfsburg
-  1899 Hoffenheim  FC Augsburg
-  Borussia Dortmund  Werder Bremen
-  Bor. Mönchengladbach  SV Darmstadt 98
-  Bayern München  SC Freiburg
-  Eintracht Frankfurt  RB Leipzig
+  15.30  Hertha BSC  Bayer Leverkusen
+  15.30  FC Ingolstadt 04  FC Schalke 04
+  15.30  1. FC Köln  1. FSV Mainz 05
+  15.30  Hamburger SV  VfL Wolfsburg
+  15.30  1899 Hoffenheim  FC Augsburg
+  15.30  Borussia Dortmund  Werder Bremen
+  15.30  Bor. Mönchengladbach  SV Darmstadt 98
+  15.30  Bayern München  SC Freiburg
+  15.30  Eintracht Frankfurt  RB Leipzig

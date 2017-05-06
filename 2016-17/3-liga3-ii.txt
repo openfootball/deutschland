@@ -78,7 +78,7 @@
    Wehen Wiesbaden        2-1   VfL Osnabrück
    
 (Mi 08.03.)  24. Spieltag
-   Sportfreunde Lotte     3-0 Chemnitzer FC 
+   Sportfreunde Lotte     3-0   Chemnitzer FC 
 
 26. Spieltag
 [Sa 11.3.]
@@ -129,7 +129,7 @@
    Hallescher FC          0-0    Fortuna Köln
    FSV Frankfurt          2-0    Sportfreunde Lotte
    Preußen Münster        2-1    VfR Aalen
-   Wehen Wiesbaden        2-0   Werder Bremen II             
+   Wehen Wiesbaden        2-0    Werder Bremen II             
    Holstein Kiel          1-1    1. FC Magdeburg
    FC Rot-Weiß Erfurt     0-0    1. FSV Mainz 05 II
    Chemnitzer FC          2-3    MSV Duisburg
@@ -243,7 +243,7 @@ Playoff-Teilnehmer für 3 Aufstiegsplätze in 3.Liga
    Holstein Kiel   -   Hansa Rostock
    FC Rot-Weiß Erfurt    1-4   SSV Jahn Regensburg
    
- PlayOff Termine für 3 Aufsteiger in 3. Liga fixiert(25.5-1.6.)
+ PlayOff Termine für 3 Aufsteiger in 3. Liga fixiert(28.5-1.6.)
 
 37. Spieltag
 [Sa 13.5.]
@@ -274,12 +274,12 @@ Playoff-Teilnehmer für 3 Aufstiegsplätze in 3.Liga
 PlayOff-Sieger Aufsteiger in 3. Liga
 
 [So 28.5.]
-   SpVgg Unterhaching    SV Elversberg
+   SpVgg Unterhaching    SV 07 Elversberg
    SV Waldhof Mannheim    SV Meppen
    Viktoria Köln     FC Carl Zeiss Jena
    
 [Mi 31.5.]
-   SV Elversberg     SpVgg Unterhaching
+   SV 07 Elversberg     SpVgg Unterhaching
    SV Meppen      SV Waldhof Mannheim
 [Do 1.6.]
    FC Carl Zeiss Jens     Viktoria Köln

@@ -233,15 +233,15 @@ Playoff-Teilnehmer für 3 Aufstiegsplätze in 3.Liga
 36. Spieltag
 [Sa 6.5.]
    Chemnitzer FC   -   Preußen Münster
-   SC Paderborn 07   -   FSV Zwickau
-   VfL Osnabrück   -   Fortuna Köln
-   MSV Duisburg   -   Sportfreunde Lotte
-   1. FSV Mainz 05 II   -   VfR Aalen
-   1. FC Magdeburg   -   FSV Frankfurt
-   Werder Bremen II      1-1    Hallescher FC
-   Wehen Wiesbaden   -   Großaspach
-   Holstein Kiel   -   Hansa Rostock
-   FC Rot-Weiß Erfurt    1-4    SSV Jahn Regensburg
+   SC Paderborn 07        1-1    FSV Zwickau
+   VfL Osnabrück          1-2    Fortuna Köln
+   MSV Duisburg           1-1    Sportfreunde Lotte
+   1. FSV Mainz 05 II     2-0    VfR Aalen
+   1. FC Magdeburg        1-1    FSV Frankfurt
+   Werder Bremen II       1-1    Hallescher FC
+   Wehen Wiesbaden        0-0    Großaspach
+   Holstein Kiel          2-1    Hansa Rostock
+   FC Rot-Weiß Erfurt     1-4    SSV Jahn Regensburg
    
  PlayOff Termine für 3 Aufsteiger in 3. Liga fixiert(28.5-1.6.)
 

@@ -247,16 +247,20 @@ Playoff-Teilnehmer für 3 Aufstiegsplätze in 3.Liga
 
 37. Spieltag
 [Sa 13.5.]
-   SC Paderborn 07   -   Preußen Münster
-   SSV Jahn Regensburg   -   Chemnitzer FC
-   Hansa Rostock   -   FC Rot-Weiß Erfurt
-   Großaspach   -   Holstein Kiel
-   Hallescher FC   -   Wehen Wiesbaden
-   FSV Frankfurt   -   Werder Bremen II
-   VfR Aalen   -   1. FC Magdeburg
-   Sportfreunde Lotte   -   1. FSV Mainz 05 II
-   Fortuna Köln   -   MSV Duisburg
-   FSV Zwickau   -   VfL Osnabrück
+   SC Paderborn 07        1-0   Preußen Münster
+   SSV Jahn Regensburg    3-2   Chemnitzer FC
+   Hansa Rostock          1-2   FC Rot-Weiß Erfurt
+   Großaspach             0-1   Holstein Kiel
+   Hallescher FC          0-3   Wehen Wiesbaden
+   FSV Frankfurt          0-4   Werder Bremen II
+   VfR Aalen              2-2   1. FC Magdeburg
+   Sportfreunde Lotte     3-3   1. FSV Mainz 05 II
+   Fortuna Köln           0-3   MSV Duisburg
+   FSV Zwickau            1-0   VfL Osnabrück
+   
+Aufsteiger in 2. Bundesliga 2017/18
+   MSV Duisburg
+   Holstein Kiel
 
 38. Spieltag
 [Sa 20.5.]

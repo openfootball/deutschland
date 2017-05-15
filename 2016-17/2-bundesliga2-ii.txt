@@ -188,16 +188,26 @@ Aufsteiger in die 2. Bundesliga 2017/18
 
 Spieltag 33
 [So 14.5.]
-  Hannover 96  VfB Stuttgart
-  TSV 1860 München  VfL Bochum
-  Arminia Bielefeld  Eintracht Braunschweig
-  FC St. Pauli  SpVgg Greuther Fürth
-  Erzgebirge Aue  1. FC Kaiserslautern
-  1. FC Union Berlin  1. FC Heidenheim 1846
-  Würzburger Kickers  SV Sandhausen
-  1. FC Nürnberg  Fortuna Düsseldorf
-  Karlsruher SC  Dynamo Dresden
-
+  Hannover 96               1-0  VfB Stuttgart
+  TSV 1860 München          1-2  VfL Bochum
+  Arminia Bielefeld         6-0  Eintracht Braunschweig
+  FC St. Pauli              1-1  SpVgg Greuther Fürth
+  Erzgebirge Aue            1-0  1. FC Kaiserslautern
+  1. FC Union Berlin        0-1  1. FC Heidenheim 1846
+  Würzburger Kickers        0-1  SV Sandhausen
+  1. FC Nürnberg            2-3  Fortuna Düsseldorf
+  Karlsruher SC             3-4  Dynamo Dresden
+  
+Aufsteiger in 1. Bundesliga 2017/18
+  VfB Stuttgart
+  Hannover 96
+  
+Relegationspiele um Aufstieg 1. Bundesliga 2017/18
+[Do 25.5.]
+  Hamburger SV/ FC Augsburg/ Vfl Wolfsburg  - Eintracht Braunschweig
+[Mo 29.5.]
+  Eintracht Braunschweig -  Hamburger SV/ FC Augsburg/ Vfl Wolfsburg
+  
 Spieltag 34
 [So 21.5.]
   SV Sandhausen  Hannover 96

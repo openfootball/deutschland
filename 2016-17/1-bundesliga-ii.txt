@@ -229,8 +229,8 @@
 33. Spieltag
 [Sa 13.5.]
   15.30  RB Leipzig            4:5  Bayern München
-  15.30  FC Augsburg           1:1   Borussia Dortmund
-  15.30  VfL Wolfsburg         1:1 Bor. Mönchengladbach
+  15.30  FC Augsburg           1:1  Borussia Dortmund
+  15.30  VfL Wolfsburg         1:1  Bor. Mönchengladbach
   15.30  SV Darmstadt 98       0:2  Hertha BSC
   15.30  Bayer Leverkusen      2:2  1. FC Köln
   15.30  FC Schalke 04         1:1  Hamburger SV
@@ -247,9 +247,9 @@ Aufsteiger in 1. Bundesliga 2017/18
    
 Relegationsspiele um 1. Bundesligaplatz
 [Do 25.5.]
-   Vfl Wolfsburg -  Eintracht Braunschweig
+   Vfl Wolfsburg               1-0  Eintracht Braunschweig
 [Mo 29.5.]
-   Eintracht Braunschweig - Vfl Wolfsburg
+   Eintracht Braunschweig      0-1  Vfl Wolfsburg
    
 
 34. Spieltag
@@ -268,6 +268,8 @@ Relegationsspiele um 1. Bundesligaplatz
 [Do 25.5.]
   VFL Wolfsburg                1-0  Eintracht Braunschweig
 [Mo 29.5.]
-  Eintracht Braunschweig - Vfl Wolfsburg 
+  Eintracht Braunschweig       0-1  Vfl Wolfsburg 
+  
+  Vfl Wolfsburg in der 1. Bundesliga 2017/18
   
 Sommerpause bis 18.8.2017

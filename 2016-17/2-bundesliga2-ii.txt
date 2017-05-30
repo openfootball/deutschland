@@ -204,9 +204,9 @@ Aufsteiger in 1. Bundesliga 2017/18
   
 Relegationspiele um Aufstieg 1. Bundesliga 2017/18
 [Do 25.5.]
-  Vfl Wolfsburg  - Eintracht Braunschweig
+  Vfl Wolfsburg             1-0  Eintracht Braunschweig
 [Mo 29.5.]
-  Eintracht Braunschweig - Vfl Wolfsburg
+  Eintracht Braunschweig    0-1  Vfl Wolfsburg
   
 Spieltag 34
 [So 21.5.]
@@ -230,7 +230,9 @@ Relegationsspiele um Aufstieg 1. Bundesliga 2017/18
 [Do 25.5.]
   Vfl Wolfsburg             1-0  Eintracht Braunschweig
 [Mo 29.5.]
-  Eintracht Braunschweig - Vfl Wolfsburg
+  Eintracht Braunschweig    0-1 Vfl Wolfsburg
+  
+  Vfl Wolfsburg in der 1. Bundesliga 2017/18
   
 Relegationsspiele um 18. Startplatz 2. Bundesliga 2017/18
 [Fr 26.5.]
@@ -239,4 +241,4 @@ Relegationsspiele um 18. Startplatz 2. Bundesliga 2017/18
   TSV 1860 München - SSV Jahn Regensburg
   
   
-  Sommerpause bis 28.7.17
+  Sommerpause bis 28.7.2017

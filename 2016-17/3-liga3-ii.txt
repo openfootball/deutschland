@@ -301,12 +301,18 @@ PlayOff-Sieger Aufsteiger in 3. Liga
 [So 28.5.]
    SpVgg Unterhaching     3-0    SV 07 Elversberg
    SV Waldhof Mannheim    0-0    SV Meppen
-   Viktoria Köln          2-3     FC Carl Zeiss Jena
+   Viktoria Köln          2-3    FC Carl Zeiss Jena
    
 [Mi 31.5.]
-   SV 07 Elversberg     SpVgg Unterhaching
-   SV Meppen      SV Waldhof Mannheim
+   SV 07 Elversberg      2-2     SpVgg Unterhaching
+   SV Meppen             0-0 n.E.4-3      SV Waldhof Mannheim
 [Do 1.6.]
-   FC Carl Zeiss Jens     Viktoria Köln
+   FC Carl Zeiss Jens    0-1     Viktoria Köln
+   
+Aufsteiger in 3. Liga 2017/18
+   SpVgg Unterhaching
+   SV Meppen
+   FC Carl Zeiss Jena
+   
    
 Sommerpause bis 21.7.2017

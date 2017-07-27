@@ -1,0 +1,282 @@
+#####################################
+# Deutsche 3. Liga 2017/18
+
+
+1. Spieltag
+
+[Fr 21.7.]
+    Karlsruher SC       2:2 (0:2)  VfL Osnabrück
+[Sa 22.7.]
+    Werder Bremen II    3:0 (0:0)  SpVgg Unterhaching
+    Rot-Weiß Erfurt     1:1 (1:1)  Preußen Münster
+    Sportfreunde Lotte  0:2 (0:1)  Hansa Rostock
+    Hallescher FC       4:4 (1:3)  SC Paderborn 07
+    Fortuna Köln        1:0 (0:0)  VfR Aalen
+    SV Wehen Wiesbaden  1:0 (1:0)  FC Carl Zeiss Jena
+    SV Meppen           2:2 (1:0)  Würzburger Kickers
+[So 23.7.]
+    SG Sonnenhof Großaspach  4:1 (1:0)  1. FC Magdeburg
+    Chemnitzer FC       1:0 (1:0)  FSV Zwickau
+
+
+2. Spieltag
+[Fr 28.7.]
+    VfL Osnabrück  -  SV Wehen Wiesbaden
+    SpVgg Unterhaching  -  Karlsruher SC
+[Sa 29.7.]
+    FC Carl Zeiss Jena  -  Fortuna Köln
+    VfR Aalen  -  Hallescher FC
+    SC Paderborn 07  -  Chemnitzer FC
+    FSV Zwickau  -  Sportfreunde Lotte
+    Hansa Rostock  -  SG Sonnenhof Großaspach
+    1. FC Magdeburg  -  Rot-Weiß Erfurt
+    Preußen Münster  -  SV Meppen
+[So 30.7.]
+    Würzburger Kickers  -  Werder Bremen II
+
+3. Spieltag
+[Di 1.8.]
+    Rot-Weiß Erfurt  -  Hansa Rostock
+    SG Sonnenhof Großaspach  -  FSV Zwickau
+    Sportfreunde Lotte  -  SC Paderborn 07
+    Hallescher FC  -  FC Carl Zeiss Jena
+    SV Wehen Wiesbaden  -  SpVgg Unterhaching
+[Mi 2.8.]
+    Werder Bremen II  -  Karlsruher SC
+    Chemnitzer FC  -  VfR Aalen
+    Fortuna Köln  -  VfL Osnabrück
+    Würzburger Kickers  -  Preußen Münster
+    SV Meppen  -  1. FC Magdeburg
+
+4. Spieltag
+[Fr 4.8.]
+    FSV Zwickau  -  Rot-Weiß Erfurt
+[Sa 5.8.]
+    FC Carl Zeiss Jena  -  Chemnitzer FC
+    VfR Aalen  -  Sportfreunde Lotte
+    SC Paderborn 07  -  SG Sonnenhof Großaspach
+    Hansa Rostock  -  SV Meppen
+    Preußen Münster  -  Werder Bremen II
+    Karlsruher SC  -  SV Wehen Wiesbaden
+    SpVgg Unterhaching  -  Fortuna Köln
+[So 6.8.]
+    VfL Osnabrück  -  Hallescher FC
+    1. FC Magdeburg  -  Würzburger Kickers
+
+5. Spieltag
+[Fr 18.8.]
+    Fortuna Köln  -  Karlsruher SC
+    SV Meppen  -  FSV Zwickau
+[Sa 19.8.]
+    Werder Bremen II  -  SV Wehen Wiesbaden
+    Rot-Weiß Erfurt  -  SC Paderborn 07
+    SG Sonnenhof Großaspach  -  VfR Aalen
+    Chemnitzer FC  -  VfL Osnabrück
+    Hallescher FC  -  SpVgg Unterhaching
+    Preußen Münster  -  1. FC Magdeburg
+[So 20.8.]
+    Sportfreunde Lotte  -  FC Carl Zeiss Jena
+    Würzburger Kickers  -  Hansa Rostock
+
+6. Spieltag
+[Fr 25.8.]
+  SC Paderborn 07  -  SV Meppen
+[Sa 26.8.]
+    VfL Osnabrück  -  Sportfreunde Lotte
+    FC Carl Zeiss Jena  -  SG Sonnenhof Großaspach
+    VfR Aalen  -  Rot-Weiß Erfurt
+    1. FC Magdeburg  -  Werder Bremen II
+    SV Wehen Wiesbaden  -  Fortuna Köln
+    Karlsruher SC  -  Hallescher FC
+    SpVgg Unterhaching  -  Chemnitzer FC
+[So 27.8.]
+    FSV Zwickau  -  Würzburger Kickers
+    Hansa Rostock  -  Preußen Münster
+
+7. Spieltag
+[Fr 8.9.]
+    Werder Bremen II  -  Fortuna Köln
+    Preußen Münster  -  FSV Zwickau
+[Sa 9.9.]
+    Rot-Weiß Erfurt  -  FC Carl Zeiss Jena
+    SG Sonnenhof Großaspach  -  VfL Osnabrück
+    Sportfreunde Lotte  -  SpVgg Unterhaching
+    Chemnitzer FC  -  Karlsruher SC
+    Hallescher FC  -  SV Wehen Wiesbaden
+    1. FC Magdeburg  -  Hansa Rostock
+    Würzburger Kickers  -  SC Paderborn 07
+[So 10.9.]
+    SV Meppen  -  VfR Aalen
+
+8. Spieltag
+[Fr 15.9.]
+    VfL Osnabrück  -  Rot-Weiß Erfurt
+    FSV Zwickau  -  1. FC Magdeburg
+    SV Wehen Wiesbaden  -  Chemnitzer FC
+[Sa 16.9.]
+    FC Carl Zeiss Jena  -  SV Meppen
+    VfR Aalen  -  Würzburger Kickers
+    SC Paderborn 07  -  Preußen Münster
+    Hansa Rostock  -  Werder Bremen II
+    Fortuna Köln  -  Hallescher FC
+    Karlsruher SC  -  Sportfreunde Lotte
+    SpVgg Unterhaching  -  SG Sonnenhof Großaspach
+
+9. Spieltag
+[Di 19.9.]
+    Werder Bremen II  -  Hallescher FC
+    SG Sonnenhof Großaspach  -  Karlsruher SC
+    Sportfreunde Lotte  -  SV Wehen Wiesbaden
+    Hansa Rostock  -  FSV Zwickau
+    1. FC Magdeburg  -  SC Paderborn 07
+[Mi 20.9.]
+    SV Meppen  -  VfL Osnabrück
+    Rot-Weiß Erfurt  -  SpVgg Unterhaching
+    Chemnitzer FC  -  Fortuna Köln
+    Preußen Münster  -  VfR Aalen
+    Würzburger Kickers  -  FC Carl Zeiss Jena
+
+10. Spieltag
+[Fr 22.9.]
+    SC Paderborn 07  -  Hansa Rostock
+[Sa 23.9.]
+    VfL Osnabrück  -  Würzburger Kickers
+    FC Carl Zeiss Jena  -  Preußen Münster
+    FSV Zwickau  -  Werder Bremen II
+    Hallescher FC  -  Chemnitzer FC
+    Fortuna Köln  -  Sportfreunde Lotte
+    SV Wehen Wiesbaden  -  SG Sonnenhof Großaspach
+    SpVgg Unterhaching  -  SV Meppen
+[So 24.9.]
+    VfR Aalen  -  1. FC Magdeburg
+    Karlsruher SC  -  Rot-Weiß Erfurt
+
+11. Spieltag
+[Sa 30.9.]
+Werder Bremen II  -  Chemnitzer FC
+Rot-Weiß Erfurt  -  SV Wehen Wiesbaden
+SG Sonnenhof Großaspach  -  Fortuna Köln
+Sportfreunde Lotte  -  Hallescher FC
+FSV Zwickau  -  SC Paderborn 07
+Hansa Rostock  -  VfR Aalen
+1. FC Magdeburg  -  FC Carl Zeiss Jena
+Preußen Münster  -  VfL Osnabrück
+Würzburger Kickers  -  SpVgg Unterhaching
+SV Meppen  -  Karlsruher SC
+
+12. Spieltag
+[Sa 14.10.]
+VfL Osnabrück  -  1. FC Magdeburg
+FC Carl Zeiss Jena  -  Hansa Rostock
+VfR Aalen  -  FSV Zwickau
+SC Paderborn 07  -  Werder Bremen II
+Chemnitzer FC  -  Sportfreunde Lotte
+Hallescher FC  -  SG Sonnenhof Großaspach
+Fortuna Köln  -  Rot-Weiß Erfurt
+SV Wehen Wiesbaden  -  SV Meppen
+Karlsruher SC  -  Würzburger Kickers
+SpVgg Unterhaching  -  Preußen Münster
+
+13. Spieltag
+[Sa 21.10.]
+Werder Bremen II  -  Sportfreunde Lotte
+Rot-Weiß Erfurt  -  Hallescher FC
+SG Sonnenhof Großaspach  -  Chemnitzer FC
+SC Paderborn 07  -  VfR Aalen
+FSV Zwickau  -  FC Carl Zeiss Jena
+Hansa Rostock  -  VfL Osnabrück
+1. FC Magdeburg  -  SpVgg Unterhaching
+Preußen Münster  -  Karlsruher SC
+Würzburger Kickers  -  SV Wehen Wiesbaden
+SV Meppen  -  Fortuna Köln
+
+14. Spieltag
+[Sa 28.10.]
+VfL Osnabrück  -  FSV Zwickau
+FC Carl Zeiss Jena  -  SC Paderborn 07
+VfR Aalen  -  Werder Bremen II
+Sportfreunde Lotte  -  SG Sonnenhof Großaspach
+Chemnitzer FC  -  Rot-Weiß Erfurt
+Hallescher FC  -  SV Meppen
+Fortuna Köln  -  Würzburger Kickers
+SV Wehen Wiesbaden  -  Preußen Münster
+Karlsruher SC  -  1. FC Magdeburg
+SpVgg Unterhaching  -  Hansa Rostock
+
+15. Spieltag
+[Sa 4.11.]
+Werder Bremen II  -  SG Sonnenhof Großaspach
+Rot-Weiß Erfurt  -  Sportfreunde Lotte
+VfR Aalen  -  FC Carl Zeiss Jena
+SC Paderborn 07  -  VfL Osnabrück
+FSV Zwickau  -  SpVgg Unterhaching
+Hansa Rostock  -  Karlsruher SC
+1. FC Magdeburg  -  SV Wehen Wiesbaden
+Preußen Münster  -  Fortuna Köln
+Würzburger Kickers  -  Hallescher FC
+SV Meppen  -  Chemnitzer FC
+
+16. Spieltag
+[Sa 18.11.]
+VfL Osnabrück  -  VfR Aalen
+FC Carl Zeiss Jena  -  Werder Bremen II
+SG Sonnenhof Großaspach  -  Rot-Weiß Erfurt
+Sportfreunde Lotte  -  SV Meppen
+Chemnitzer FC  -  Würzburger Kickers
+Hallescher FC  -  Preußen Münster
+Fortuna Köln  -  1. FC Magdeburg
+SV Wehen Wiesbaden  -  Hansa Rostock
+Karlsruher SC  -  FSV Zwickau
+SpVgg Unterhaching  -  SC Paderborn 07
+
+17. Spieltag
+[Sa 25.11.]
+Werder Bremen II  -  Rot-Weiß Erfurt
+FC Carl Zeiss Jena  -  VfL Osnabrück
+VfR Aalen  -  SpVgg Unterhaching
+SC Paderborn 07  -  Karlsruher SC
+FSV Zwickau  -  SV Wehen Wiesbaden
+Hansa Rostock  -  Fortuna Köln
+1. FC Magdeburg  -  Hallescher FC
+Preußen Münster  -  Chemnitzer FC
+Würzburger Kickers  -  Sportfreunde Lotte
+SV Meppen  -  SG Sonnenhof Großaspach
+
+18. Spieltag
+[Sa 2.12.]
+Werder Bremen II  -  VfL Osnabrück
+Rot-Weiß Erfurt  -  SV Meppen
+SG Sonnenhof Großaspach  -  Würzburger Kickers
+Sportfreunde Lotte  -  Preußen Münster
+Chemnitzer FC  -  1. FC Magdeburg
+Hallescher FC  -  Hansa Rostock
+Fortuna Köln  -  FSV Zwickau
+SV Wehen Wiesbaden  -  SC Paderborn 07
+Karlsruher SC  -  VfR Aalen
+SpVgg Unterhaching  -  FC Carl Zeiss Jena
+
+19. Spieltag
+[Sa 9.12.]
+VfL Osnabrück  -  SpVgg Unterhaching
+FC Carl Zeiss Jena  -  Karlsruher SC
+VfR Aalen  -  SV Wehen Wiesbaden
+SC Paderborn 07  -  Fortuna Köln
+FSV Zwickau  -  Hallescher FC
+Hansa Rostock  -  Chemnitzer FC
+1. FC Magdeburg  -  Sportfreunde Lotte
+Preußen Münster  -  SG Sonnenhof Großaspach
+Würzburger Kickers  -  Rot-Weiß Erfurt
+SV Meppen  -  Werder Bremen II
+
+20. Spieltag
+[Sa 16.12.]
+VfL Osnabrück  -  Karlsruher SC
+SpVgg Unterhaching  -  Werder Bremen II
+Preußen Münster  -  Rot-Weiß Erfurt
+1. FC Magdeburg  -  SG Sonnenhof Großaspach
+Hansa Rostock  -  Sportfreunde Lotte
+FSV Zwickau  -  Chemnitzer FC
+SC Paderborn 07  -  Hallescher FC
+VfR Aalen  -  Fortuna Köln
+FC Carl Zeiss Jena  -  SV Wehen Wiesbaden
+Würzburger Kickers  -  SV Meppen

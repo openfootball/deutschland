@@ -30,7 +30,7 @@
    MSV Duisburg           3-2   Preußen Münster
    FSV Frankfurt          0-3   Chemnitzer FC
    VfR Aalen              1-1   FC Rot-Weiß Erfurt
-   Sportfreunde Lotte     0-0   Holstein Kiel      
+   Sportfreunde Lotte     0-0   Holstein Kiel
    Fortuna Köln           0-0   Wehen Wiesbaden
    FSV Zwickau            2-1   Werder Bremen II
    SC Paderborn 07        1-1   1. FC Magdeburg
@@ -76,9 +76,11 @@
    1. FC Magdeburg        1-2   1. FSV Mainz 05 II
    Werder Bremen II       0-0   MSV Duisburg
    Wehen Wiesbaden        2-1   VfL Osnabrück
-   
-(Mi 08.03.)  24. Spieltag
-   Sportfreunde Lotte     3-0   Chemnitzer FC 
+
+
+Nachtrag  24. Spieltag
+[Mi 8.3.]
+   Sportfreunde Lotte     3-0   Chemnitzer FC
 
 26. Spieltag
 [Sa 11.3.]
@@ -98,7 +100,7 @@
    Chemnitzer FC          2-1   SC Paderborn 07
    SSV Jahn Regensburg    1-2   FSV Zwickau
    Hansa Rostock          1-1   Fortuna Köln
-   Großaspach             2-0   Sportfreunde Lotte     
+   Großaspach             2-0   Sportfreunde Lotte
    Hallescher FC          1-4   VfR Aalen
    Preußen Münster        2-1   FSV Frankfurt
    Werder Bremen II       0-1   1. FC Magdeburg
@@ -118,10 +120,11 @@
    Fortuna Köln           2-0   Großaspach
    FSV Zwickau            2-2   Hansa Rostock
    SC Paderborn 07        0-2   SSV Jahn Regensburg
-   
-(Mi 22.3.) Nachtrag, 27. Spieltag 
-   Großaspach             2-0    Sportfreunde Lotte 
-   
+
+Nachtrag 27. Spieltag
+[Mi 22.3.]
+   Großaspach             2-0    Sportfreunde Lotte
+
 29. Spieltag
 [Sa 25.3.]
    Hansa Rostock          1-1    SC Paderborn 07
@@ -129,15 +132,17 @@
    Hallescher FC          0-0    Fortuna Köln
    FSV Frankfurt          2-0    Sportfreunde Lotte
    Preußen Münster        2-1    VfR Aalen
-   Wehen Wiesbaden        2-0    Werder Bremen II             
+   Wehen Wiesbaden        2-0    Werder Bremen II
    Holstein Kiel          1-1    1. FC Magdeburg
    FC Rot-Weiß Erfurt     0-0    1. FSV Mainz 05 II
    Chemnitzer FC          2-3    MSV Duisburg
    SSV Jahn Regensburg    1-2    VfL Osnabrück
-   
- (Di 28.3.) Nachtrag, 22. Spieltag
+
+Nachtrag 22. Spieltag
+[Di 28.3.]
    Sportfreunde Lotte     0-0    Holstein Kiel
-   
+
+
 30. Spieltag
 [Sa 1.4.]
    Wehen Wiesbaden        1-0    Preußen Münster
@@ -163,7 +168,7 @@
    SSV Jahn Regensburg    2-1    1. FSV Mainz 05 II
    Hansa Rostock          1-0    MSV Duisburg
    Großaspach             1-0    VfL Osnabrück
- 
+
 32. Spieltag
 [Sa 8.4.]
    Holstein Kiel          0-0    Preußen Münster
@@ -189,8 +194,9 @@
    Großaspach             2-1    1. FSV Mainz 05 II
    Hallescher FC          1-1    MSV Duisburg
    FSV Frankfurt          1-1    VfL Osnabrück
-   
-   (Mie 19.4.) Nachtrag 29. Spieltag
+
+Nachtrag 29. Spieltag
+[Mi 19.4.]
    Wehen Wiesbaden        2-0    Werder Bremen II
 
 34. Spieltag
@@ -205,17 +211,17 @@
    1. FC Magdeburg        2-1    Großaspach
    Werder Bremen II       0-2    Hansa Rostock
    Wehen Wiesbaden        1-1    SSV Jahn Regensburg
-   
-1. Absteiger in die Regionalligen
-   FSV Frankfurt
-   
-Playoff-Teilnehmer für 3 Aufstiegsplätze in 3.Liga
-   SV Meppen
-   FC Carl Zeiss Jena
-   Viktoria Köln
-   SV Waldhof Mannheim
-   SV 07 Elversberg
-   SpVgg Unterhaching
+
+# 1. Absteiger in die Regionalligen
+#   FSV Frankfurt
+#
+# Playoff-Teilnehmer für 3 Aufstiegsplätze in 3.Liga
+#   SV Meppen
+#   FC Carl Zeiss Jena
+#   Viktoria Köln
+#   SV Waldhof Mannheim
+#   SV 07 Elversberg
+#   SpVgg Unterhaching
 
 35. Spieltag
 [Sa 29.4.]
@@ -242,8 +248,8 @@ Playoff-Teilnehmer für 3 Aufstiegsplätze in 3.Liga
    Wehen Wiesbaden        0-0    Großaspach
    Holstein Kiel          2-1    Hansa Rostock
    FC Rot-Weiß Erfurt     1-4    SSV Jahn Regensburg
-   
- PlayOff Termine für 3 Aufsteiger in 3. Liga fixiert(28.5-1.6.)
+
+# PlayOff Termine für 3 Aufsteiger in 3. Liga fixiert(28.5-1.6.)
 
 37. Spieltag
 [Sa 13.5.]
@@ -257,16 +263,16 @@ Playoff-Teilnehmer für 3 Aufstiegsplätze in 3.Liga
    Sportfreunde Lotte     3-3   1. FSV Mainz 05 II
    Fortuna Köln           0-3   MSV Duisburg
    FSV Zwickau            1-0   VfL Osnabrück
-   
-Aufsteiger in 2. Bundesliga 2017/18
-   MSV Duisburg
-   Holstein Kiel
-   
-2. Absteiger in die Regionalligen
-   1. FSV Mainz 05 II
-   
-1. Absteiger in die 3. Liga 2017/18
-   Karlsruher SC
+
+# Aufsteiger in 2. Bundesliga 2017/18
+#   MSV Duisburg
+#   Holstein Kiel
+#
+# 2. Absteiger in die Regionalligen
+#   1. FSV Mainz 05 II
+#
+# 1. Absteiger in die 3. Liga 2017/18
+#   Karlsruher SC
 
 38. Spieltag
 [Sa 20.5.]
@@ -280,40 +286,40 @@ Aufsteiger in 2. Bundesliga 2017/18
    FC Rot-Weiß Erfurt     4-1   Großaspach
    Chemnitzer FC          2-0   Hansa Rostock
    Preußen Münster        0-1   SSV Jahn Regensburg
-   
 
-   
-Meister 3. Liga 2016/17
-   MSV Duisburg
-   
-Relegationsspiele um 18. Startplatz in 2.Bundesliga 2017/18
- [Fr 26.5.]
-   SSV Jahn Regensburg    1-1  TSV 1860 München
- [Di 30.5.]
-   TSV 1860 München       0-2  SSV Jahn Regensburg
-   
-PlayOff-Sieger Aufsteiger in 3. Liga
 
-3. Aufsteiger in die 2. Bundesliga 2017/18
-   SSV Jahn Regensburg
 
-[So 28.5.]
-   SpVgg Unterhaching     3-0    SV 07 Elversberg
-   SV Waldhof Mannheim    0-0    SV Meppen
-   Viktoria Köln          2-3    FC Carl Zeiss Jena
-   
-[Mi 31.5.]
-   SV 07 Elversberg      2-2     SpVgg Unterhaching
-   SV Meppen             0-0 n.E.4-3      SV Waldhof Mannheim
-[Do 1.6.]
-   FC Carl Zeiss Jens    0-1     Viktoria Köln
-   
-Aufsteiger in 3. Liga 2017/18
-   SpVgg Unterhaching
-   SV Meppen
-   FC Carl Zeiss Jena
-   
-3. Absteiger in die Regionalligen
-   SC Padeborn 07, da TSV 1860 München keine Lizenz für 3.Liga erhalten hat, bleibt somit SC Padeborn 07 in der 3. Liga.
-   
-Sommerpause bis 21.7.2017
+# Meister 3. Liga 2016/17
+#   MSV Duisburg
+#
+# Relegationsspiele um 18. Startplatz in 2.Bundesliga 2017/18
+# [Fr 26.5.]
+#   SSV Jahn Regensburg    1-1  TSV 1860 München
+# [Di 30.5.]
+#   TSV 1860 München       0-2  SSV Jahn Regensburg
+#
+# PlayOff-Sieger Aufsteiger in 3. Liga
+#
+# 3. Aufsteiger in die 2. Bundesliga 2017/18
+#   SSV Jahn Regensburg
+#
+# [So 28.5.]
+#   SpVgg Unterhaching     3-0    SV 07 Elversberg
+#   SV Waldhof Mannheim    0-0    SV Meppen
+#   Viktoria Köln          2-3    FC Carl Zeiss Jena
+#
+# [Mi 31.5.]
+#   SV 07 Elversberg      2-2     SpVgg Unterhaching
+#   SV Meppen             0-0 n.E.4-3      SV Waldhof Mannheim
+# [Do 1.6.]
+#   FC Carl Zeiss Jens    0-1     Viktoria Köln
+#
+# Aufsteiger in 3. Liga 2017/18
+#   SpVgg Unterhaching
+#   SV Meppen
+#   FC Carl Zeiss Jena
+#
+# 3. Absteiger in die Regionalligen
+#   SC Padeborn 07, da TSV 1860 München keine Lizenz für 3.Liga erhalten hat, bleibt somit SC Padeborn 07 in der 3. Liga.
+#
+# Sommerpause bis 21.7.2017

@@ -11,7 +11,7 @@
 [So 22.1.]
   15.30  Bayer Leverkusen      3:1  Hertha BSC
   17.30  1. FSV Mainz 05       0:0  1. FC Köln
-    
+
 18. Spieltag
 [Fr 27.1.]
   20.30  FC Schalke 04         0:1  Eintracht Frankfurt
@@ -21,7 +21,7 @@
   15.30  Werder Bremen         1:2  Bayern München
   15.30  SV Darmstadt 98       1:6  1. FC Köln
   15.30  RB Leipzig            2:1  1899 Hoffenheim
-  18.30  Bayer Leverkusen      2:3  Bor. Mönchengladbach 
+  18.30  Bayer Leverkusen      2:3  Bor. Mönchengladbach
 [So 29.1.]
   15.30  SC Freiburg           2:1  Hertha BSC
   17.30  1. FSV Mainz 05       1:1  Borussia Dortmund
@@ -39,7 +39,7 @@
 [So 5.2.]
   15.30  FC Augsburg           3:2  Werder Bremen
   17.30  Eintracht Frankfurt   2:0  SV Darmstadt 98
-  
+
 20. Spieltag
 [Fr 10.2.]
   20.30  1. FSV Mainz 05       2:0  FC Augsburg
@@ -53,7 +53,7 @@
 [So 12.2.]
   15.30  VfL Wolfsburg         2:1  1899 Hoffenheim
   17.30  SC Freiburg           2:1  1. FC Köln
-  
+
 21. Spieltag
 [Fr 17.2.]
   20.30  FC Augsburg           1:3  Bayer Leverkusen
@@ -95,7 +95,7 @@
 [So 5.3.]
   15.30  Eintracht Frankfurt   1:2  SC Freiburg
   17.30  Hamburger SV          1:0  Hertha BSC
-  
+
 24. Spieltag
 [Fr 10.3.]
   20.30  Bayer Leverkusen      1:1  Werder Bremen
@@ -117,7 +117,7 @@
   15.30  VfL Wolfsburg         1:0  SV Darmstadt 98
   15.30  1. FC Köln            4:2  Hertha BSC
   15.30  FC Augsburg           1:1  SC Freiburg
-  15.30  Werder Bremen         3:0  RB Leipzig 
+  15.30  Werder Bremen         3:0  RB Leipzig
   15.30  1899 Hoffenheim       1:0  Bayer Leverkusen
   18.30  Eintracht Frankfurt   0:0  Hamburger SV
 [So 19.3.]
@@ -141,14 +141,14 @@
 27. Spieltag
 [Di 4.4.]
   20.00  Borussia Dortmund     3:0  Hamburger SV
-  20.00  1. FC Köln            1:0  Eintracht Frankfurt  
-  20.00  Werder Bremen         3:0  FC Schalke 04  
-  20.00  1899 Hoffenheim       1:0  Bayern München  
+  20.00  1. FC Köln            1:0  Eintracht Frankfurt
+  20.00  Werder Bremen         3:0  FC Schalke 04
+  20.00  1899 Hoffenheim       1:0  Bayern München
 [Mi 5.4.]
   20.00  Bor. Mönchengladbach  1:0  Hertha BSC
-  20.00  1. FSV Mainz 05       2:3  RB Leipzig  
-  20.00  VfL Wolfsburg         0:1  SC Freiburg  
-  20.00  FC Augsburg           2:3  FC Ingolstadt 04  
+  20.00  1. FSV Mainz 05       2:3  RB Leipzig
+  20.00  VfL Wolfsburg         0:1  SC Freiburg
+  20.00  FC Augsburg           2:3  FC Ingolstadt 04
   20.00  SV Darmstadt 98       0:2  Bayer Leverkusen
 
 28. Spieltag
@@ -156,7 +156,7 @@
   20.30  Eintracht Frankfurt   2:2  Werder Bremen
 [Sa 8.4.]
   15.30  FC Schalke 04         4:1  VfL Wolfsburg
-  15.30  1. FC Köln            2:3  Bor. Mönchengladbach  
+  15.30  1. FC Köln            2:3  Bor. Mönchengladbach
   15.30  Hamburger SV          2:1  1899 Hoffenheim
   15.30  SC Freiburg           1:0  1. FSV Mainz 05
   15.30  RB Leipzig            1:0  Bayer Leverkusen
@@ -170,8 +170,8 @@
   15.30  Borussia Dortmund     3:1  Eintracht Frankfurt
   15.30  1. FSV Mainz 05       1:0  Hertha BSC
   15.30  VfL Wolfsburg         3:0  FC Ingolstadt 04
-  15.30  FC Augsburg           2:1  1. FC Köln 
-  15.30  1899 Hoffenheim       5:3  Bor. Mönchengladbach  
+  15.30  FC Augsburg           2:1  1. FC Köln
+  15.30  1899 Hoffenheim       5:3  Bor. Mönchengladbach
   15.30  RB Leipzig            4:0  SC Freiburg
   18.30  Bayer Leverkusen      0:0  Bayern München
 [So 16.4.]
@@ -191,7 +191,7 @@
 [So 23.4.]
   15.30  SC Freiburg           2:1  Bayer Leverkusen
   17.30  FC Schalke 04         1:1  RB Leipzig
-  
+
 31. Spieltag
 [Fr 28.4.]
   20.30  Bayer Leverkusen      1:4  FC Schalke 04
@@ -205,9 +205,9 @@
 [So 30.4.]
   15.30  FC Augsburg           4:0  Hamburger SV
   17.30  1899 Hoffenheim       1:0  Eintracht Frankfurt
-  
- Deutscher Meister 1. Bundesliga 2016/17
-  Bayern München
+
+# Deutscher Meister 1. Bundesliga 2016/17
+#  Bayern München
 
 32. Spieltag
 [Fr 5.5.]
@@ -222,9 +222,9 @@
 [So 7.5.]
   15.30  Hamburger SV          0:0  1. FSV Mainz 05
   17.30  SC Freiburg           2:0  FC Schalke 04
-  
-1.Absteiger 1. Bundesliga 2016/17
-  SV Darmstadt 98
+
+# 1.Absteiger 1. Bundesliga 2016/17
+#  SV Darmstadt 98
 
 33. Spieltag
 [Sa 13.5.]
@@ -237,20 +237,20 @@
   15.30  SC Freiburg           1:1  FC Ingolstadt 04
   15.30  Werder Bremen         3:5  1899 Hoffenheim
   15.30  1. FSV Mainz 05       4:2  Eintracht Frankfurt
-  
-2. Absteiger 1. Bundesliga 2016/17
-  FC Ingolstadt 04
-  
-Aufsteiger in 1. Bundesliga 2017/18
-   VfB Stuttgart
-   Hannover 96
-   
-Relegationsspiele um 1. Bundesligaplatz
-[Do 25.5.]
-   Vfl Wolfsburg               1-0  Eintracht Braunschweig
-[Mo 29.5.]
-   Eintracht Braunschweig      0-1  Vfl Wolfsburg
-   
+
+# 2. Absteiger 1. Bundesliga 2016/17
+#  FC Ingolstadt 04
+#
+# Aufsteiger in 1. Bundesliga 2017/18
+#    VfB Stuttgart
+#   Hannover 96
+#
+# Relegationsspiele um 1. Bundesligaplatz
+# [Do 25.5.]
+#    Vfl Wolfsburg               1-0  Eintracht Braunschweig
+# [Mo 29.5.]
+#   Eintracht Braunschweig      0-1  Vfl Wolfsburg
+
 
 34. Spieltag
 [Sa 20.5.]
@@ -263,13 +263,13 @@ Relegationsspiele um 1. Bundesligaplatz
   15.30  Bor. Mönchengladbach  2:2  SV Darmstadt 98
   15.30  Bayern München        4:1  SC Freiburg
   15.30  Eintracht Frankfurt   2:2  RB Leipzig
-  
-Relegationsspiele um 1. Bundesligaplatz
-[Do 25.5.]
-  VFL Wolfsburg                1-0  Eintracht Braunschweig
-[Mo 29.5.]
-  Eintracht Braunschweig       0-1  Vfl Wolfsburg 
-  
-  Vfl Wolfsburg in der 1. Bundesliga 2017/18
-  
-Sommerpause bis 18.8.2017
+
+# Relegationsspiele um 1. Bundesligaplatz
+# [Do 25.5.]
+#  VFL Wolfsburg                1-0  Eintracht Braunschweig
+# [Mo 29.5.]
+#  Eintracht Braunschweig       0-1  Vfl Wolfsburg
+#
+#  Vfl Wolfsburg in der 1. Bundesliga 2017/18
+#
+# Sommerpause bis 18.8.2017

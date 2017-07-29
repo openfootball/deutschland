@@ -167,9 +167,9 @@ Spieltag 31
   VfL Bochum                4-2  Dynamo Dresden
   Erzgebirge Aue            3-1  Würzburger Kickers
 
-1.Absteiger in 3. Liga 2017/18
-  Karlsruher SC
-  
+# 1.Absteiger in 3. Liga 2017/18
+#  Karlsruher SC
+
 Spieltag 32
 [Fr 5.5.]
   1. FC Heidenheim 1846     0-2  Hannover 96
@@ -181,10 +181,10 @@ Spieltag 32
   Dynamo Dresden            1-2  TSV 1860 München
   VfB Stuttgart             3-0  Erzgebirge Aue
   Fortuna Düsseldorf        1-1  Würzburger Kickers
-  
-Aufsteiger in die 2. Bundesliga 2017/18
-  MSV Duisburg
-  Holstein Kiel
+
+# Aufsteiger in die 2. Bundesliga 2017/18
+#  MSV Duisburg
+#  Holstein Kiel
 
 Spieltag 33
 [So 14.5.]
@@ -197,17 +197,17 @@ Spieltag 33
   Würzburger Kickers        0-1  SV Sandhausen
   1. FC Nürnberg            2-3  Fortuna Düsseldorf
   Karlsruher SC             3-4  Dynamo Dresden
-  
-Aufsteiger in 1. Bundesliga 2017/18
-  VfB Stuttgart
-  Hannover 96
-  
-Relegationspiele um Aufstieg 1. Bundesliga 2017/18
-[Do 25.5.]
-  Vfl Wolfsburg             1-0  Eintracht Braunschweig
-[Mo 29.5.]
-  Eintracht Braunschweig    0-1  Vfl Wolfsburg
-  
+
+# Aufsteiger in 1. Bundesliga 2017/18
+#  VfB Stuttgart
+#  Hannover 96
+#
+# Relegationspiele um Aufstieg 1. Bundesliga 2017/18
+# [Do 25.5.]
+#   Vfl Wolfsburg             1-0  Eintracht Braunschweig
+# [Mo 29.5.]
+#  Eintracht Braunschweig    0-1  Vfl Wolfsburg
+
 Spieltag 34
 [So 21.5.]
   SV Sandhausen              1-1  Hannover 96
@@ -219,32 +219,32 @@ Spieltag 34
   1. FC Heidenheim 1846      2-1  TSV 1860 München
   Fortuna Düsseldorf         1-0  Erzgebirge Aue
   VfB Stuttgart              4-1  Würzburger Kickers
-  
-Meister 2. Bundesliga 2016/17
-  VfB Stuttgart
-  
-2. Absteiger in 3. Liga 2017/18
-  Würzburger Kickers
 
-Relegationsspiele um Aufstieg 1. Bundesliga 2017/18
-[Do 25.5.]
-  Vfl Wolfsburg             1-0  Eintracht Braunschweig
-[Mo 29.5.]
-  Eintracht Braunschweig    0-1 Vfl Wolfsburg
-  
-  Vfl Wolfsburg in der 1. Bundesliga 2017/18
-  
-Relegationsspiele um 18. Startplatz 2. Bundesliga 2017/18
-[Fr 26.5.]
-  SSV Jahn Regensburg       1-1  TSV 1860 München
-[Di 30.5.]
-  TSV 1860 München          0-2  SSV Jahn Regensburg
-  
-3. Aufsteiger in 2. Bundesliga 2017/18
-  SSV Jahn Regensburg
-  
-3. Absteiger in 3. Liga 2017/18
-  TSV 1860 München, keine Lizenz für 3. Liga erhalten somit Abstieg in Regionalliga.
-  
-  
-  Sommerpause bis 28.7.2017
+# Meister 2. Bundesliga 2016/17
+#  VfB Stuttgart
+#
+# 2. Absteiger in 3. Liga 2017/18
+#  Würzburger Kickers
+#
+# Relegationsspiele um Aufstieg 1. Bundesliga 2017/18
+# [Do 25.5.]
+#  Vfl Wolfsburg             1-0  Eintracht Braunschweig
+# [Mo 29.5.]
+#  Eintracht Braunschweig    0-1 Vfl Wolfsburg
+#
+#  Vfl Wolfsburg in der 1. Bundesliga 2017/18
+#
+# Relegationsspiele um 18. Startplatz 2. Bundesliga 2017/18
+# [Fr 26.5.]
+#  SSV Jahn Regensburg       1-1  TSV 1860 München
+# [Di 30.5.]
+#  TSV 1860 München          0-2  SSV Jahn Regensburg
+#
+# 3. Aufsteiger in 2. Bundesliga 2017/18
+#   SSV Jahn Regensburg
+#
+# 3. Absteiger in 3. Liga 2017/18
+#  TSV 1860 München, keine Lizenz für 3. Liga erhalten somit Abstieg in Regionalliga.
+#
+#
+#  Sommerpause bis 28.7.2017

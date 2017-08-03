@@ -1,0 +1,192 @@
+
+Spieltag 19
+[Mi 24.1.]
+   1. FC Heidenheim 1846  Eintracht Braunschweig
+   Holstein Kiel  1. FC Union Berlin
+   Dynamo Dresden  FC St. Pauli
+   Arminia Bielefeld  SpVgg Greuther Fürth
+   FC Ingolstadt 04  SV Sandhausen
+   SV Darmstadt 98  1. FC Kaiserslautern
+   Fortuna Düsseldorf  Erzgebirge Aue
+   VfL Bochum  MSV Duisburg
+   1. FC Nürnberg  Jahn Regensburg
+
+Spieltag 20
+[Sa 27.1.]
+   Jahn Regensburg  FC Ingolstadt 04
+   FC St. Pauli  SV Darmstadt 98
+   Erzgebirge Aue  Eintracht Braunschweig
+   SV Sandhausen  Dynamo Dresden
+   MSV Duisburg  1. FC Heidenheim 1846
+   1. FC Kaiserslautern  Fortuna Düsseldorf
+   1. FC Union Berlin  1. FC Nürnberg
+   VfL Bochum  Arminia Bielefeld
+   SpVgg Greuther Fürth  Holstein Kiel
+
+Spieltag 21
+[Sa 3.2.]
+   Arminia Bielefeld  1. FC Union Berlin
+   1. FC Heidenheim 1846  FC St. Pauli
+   FC Ingolstadt 04  SpVgg Greuther Fürth
+   Dynamo Dresden  VfL Bochum
+   Fortuna Düsseldorf  SV Sandhausen
+   Eintracht Braunschweig  1. FC Kaiserslautern
+   1. FC Nürnberg  Erzgebirge Aue
+   SV Darmstadt 98  MSV Duisburg
+   Holstein Kiel  Jahn Regensburg
+
+Spieltag 22
+[Sa 10.2.]
+   Erzgebirge Aue  FC Ingolstadt 04
+   VfL Bochum  SV Darmstadt 98
+   SV Sandhausen  Eintracht Braunschweig
+   SpVgg Greuther Fürth  Dynamo Dresden
+   Jahn Regensburg  1. FC Heidenheim 1846
+   1. FC Union Berlin  Fortuna Düsseldorf
+   FC St. Pauli  1. FC Nürnberg
+   MSV Duisburg  Arminia Bielefeld
+   1. FC Kaiserslautern  Holstein Kiel
+
+Spieltag 23
+[Sa 17.2.]
+   Arminia Bielefeld  SV Darmstadt 98
+   Eintracht Braunschweig  1. FC Union Berlin
+   FC Ingolstadt 04  FC St. Pauli
+   Fortuna Düsseldorf  SpVgg Greuther Fürth
+   1. FC Heidenheim 1846  VfL Bochum
+   1. FC Kaiserslautern  SV Sandhausen
+   Holstein Kiel  Erzgebirge Aue
+   1. FC Nürnberg  MSV Duisburg
+   Dynamo Dresden  Jahn Regensburg
+
+Spieltag 24
+[Sa 24.2.]
+   MSV Duisburg  FC Ingolstadt 04
+   SpVgg Greuther Fürth  Eintracht Braunschweig
+   Arminia Bielefeld  Dynamo Dresden
+   SV Darmstadt 98  1. FC Heidenheim 1846
+   1. FC Union Berlin  SV Sandhausen
+   Jahn Regensburg  Fortuna Düsseldorf
+   VfL Bochum  1. FC Nürnberg
+   Erzgebirge Aue  1. FC Kaiserslautern
+   FC St. Pauli  Holstein Kiel
+
+Spieltag 25
+[Sa 3.3.]
+   Dynamo Dresden  SV Darmstadt 98
+   1. FC Kaiserslautern  1. FC Union Berlin
+   Fortuna Düsseldorf  FC St. Pauli
+   1. FC Nürnberg  SpVgg Greuther Fürth
+   FC Ingolstadt 04  VfL Bochum
+   SV Sandhausen  Erzgebirge Aue
+   1. FC Heidenheim 1846  Arminia Bielefeld
+   Holstein Kiel  MSV Duisburg
+   Eintracht Braunschweig  Jahn Regensburg
+
+Spieltag 26
+[Sa 10.3.]
+   SV Darmstadt 98  FC Ingolstadt 04
+   FC St. Pauli  Eintracht Braunschweig
+   Dynamo Dresden  1. FC Heidenheim 1846
+   Jahn Regensburg  SV Sandhausen
+   MSV Duisburg  Fortuna Düsseldorf
+   Arminia Bielefeld  1. FC Nürnberg
+   SpVgg Greuther Fürth  1. FC Kaiserslautern
+   1. FC Union Berlin  Erzgebirge Aue
+   VfL Bochum  Holstein Kiel
+
+Spieltag 27
+[Sa 17.3.]
+   1. FC Nürnberg  SV Darmstadt 98
+   FC Ingolstadt 04  Dynamo Dresden
+   Holstein Kiel  1. FC Heidenheim 1846
+   1. FC Kaiserslautern  FC St. Pauli
+   Erzgebirge Aue  SpVgg Greuther Fürth
+   SV Sandhausen  VfL Bochum
+   Fortuna Düsseldorf  Arminia Bielefeld
+   Eintracht Braunschweig  MSV Duisburg
+   1. FC Union Berlin  Jahn Regensburg
+
+Spieltag 28
+[So 1.4.]
+   1. FC Heidenheim 1846  FC Ingolstadt 04
+   VfL Bochum  Eintracht Braunschweig
+   SpVgg Greuther Fürth  1. FC Union Berlin
+   FC St. Pauli  SV Sandhausen
+   SV Darmstadt 98  Fortuna Düsseldorf
+   Dynamo Dresden  1. FC Nürnberg
+   MSV Duisburg  1. FC Kaiserslautern
+   Jahn Regensburg  Erzgebirge Aue
+   Arminia Bielefeld  Holstein Kiel
+
+Spieltag 29
+[Sa 7.4.]
+   Holstein Kiel  SV Darmstadt 98
+   Eintracht Braunschweig  Dynamo Dresden
+   1. FC Nürnberg  1. FC Heidenheim 1846
+   Erzgebirge Aue  FC St. Pauli
+   SV Sandhausen  SpVgg Greuther Fürth
+   Fortuna Düsseldorf  VfL Bochum
+   FC Ingolstadt 04  Arminia Bielefeld
+   1. FC Union Berlin  MSV Duisburg
+   1. FC Kaiserslautern  Jahn Regensburg
+
+Spieltag 30
+[Sa 14.4.]
+   SV Darmstadt 98  Eintracht Braunschweig
+   FC St. Pauli  1. FC Union Berlin
+   MSV Duisburg  SV Sandhausen
+   1. FC Heidenheim 1846  Fortuna Düsseldorf
+   FC Ingolstadt 04  1. FC Nürnberg
+   VfL Bochum  1. FC Kaiserslautern
+   Arminia Bielefeld  Erzgebirge Aue
+   Dynamo Dresden  Holstein Kiel
+   SpVgg Greuther Fürth  Jahn Regensburg
+
+Spieltag 31
+[Sa 21.4.]
+   Fortuna Düsseldorf  FC Ingolstadt 04
+   SV Sandhausen  SV Darmstadt 98
+   1. FC Kaiserslautern  Dynamo Dresden
+   1. FC Union Berlin  1. FC Heidenheim 1846
+   Jahn Regensburg  FC St. Pauli
+   SpVgg Greuther Fürth  VfL Bochum
+   Holstein Kiel  1. FC Nürnberg
+   Eintracht Braunschweig  Arminia Bielefeld
+   Erzgebirge Aue  MSV Duisburg
+
+Spieltag 32
+[Sa 28.4.]
+   1. FC Nürnberg  Eintracht Braunschweig
+   SV Darmstadt 98  1. FC Union Berlin
+   FC St. Pauli  SpVgg Greuther Fürth
+   1. FC Heidenheim 1846  SV Sandhausen
+   Dynamo Dresden  Fortuna Düsseldorf
+   Arminia Bielefeld  1. FC Kaiserslautern
+   VfL Bochum  Erzgebirge Aue
+   FC Ingolstadt 04  Holstein Kiel
+   MSV Duisburg  Jahn Regensburg
+
+Spieltag 33
+[So 6.5.]
+   Eintracht Braunschweig  FC Ingolstadt 04
+   Jahn Regensburg  SV Darmstadt 98
+   Erzgebirge Aue  Dynamo Dresden
+   1. FC Kaiserslautern  1. FC Heidenheim 1846
+   1. FC Union Berlin  VfL Bochum
+   SV Sandhausen  1. FC Nürnberg
+   FC St. Pauli  Arminia Bielefeld
+   SpVgg Greuther Fürth  MSV Duisburg
+   Fortuna Düsseldorf  Holstein Kiel
+
+Spieltag 34
+[So 13.5.]
+   Holstein Kiel  Eintracht Braunschweig
+   Dynamo Dresden  1. FC Union Berlin
+   MSV Duisburg  FC St. Pauli
+   1. FC Heidenheim 1846  SpVgg Greuther Fürth
+   Arminia Bielefeld  SV Sandhausen
+   1. FC Nürnberg  Fortuna Düsseldorf
+   FC Ingolstadt 04  1. FC Kaiserslautern
+   SV Darmstadt 98  Erzgebirge Aue
+   VfL Bochum  Jahn Regensburg

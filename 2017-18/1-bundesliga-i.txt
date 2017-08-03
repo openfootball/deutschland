@@ -1,0 +1,219 @@
+###############################
+# Deutsche Bundesliga 2017/18
+
+
+Spieltag 1
+[Fr 18.8.]
+ 20.30   Bayern München  Bayer Leverkusen
+[Sa 19.8.]
+ 15.30   1899 Hoffenheim  Werder Bremen
+ 15.30   Hertha BSC  VfB Stuttgart
+ 15.30   Hamburger SV  FC Augsburg
+ 15.30   1. FSV Mainz 05  Hannover 96
+ 15.30   VfL Wolfsburg  Borussia Dortmund
+ 18.30   FC Schalke 04  RB Leipzig
+[So 20.8.]
+ 15.30   SC Freiburg  Eintracht Frankfurt
+ 18.00   Bor. Mönchengladbach  1. FC Köln
+
+
+Spieltag 2
+[Fr 25.8.]
+ 20.30   1. FC Köln  Hamburger SV
+[Sa 26.8.]
+ 15.30   Werder Bremen  Bayern München
+ 15.30   Eintracht Frankfurt  VfL Wolfsburg
+ 15.30   Bayer Leverkusen  1899 Hoffenheim
+ 15.30   FC Augsburg  Bor. Mönchengladbach
+ 15.30   VfB Stuttgart  1. FSV Mainz 05
+ 18.30   Borussia Dortmund  Hertha BSC
+[So 27.8.]
+ 15.30   RB Leipzig  SC Freiburg
+ 18.00   Hannover 96  FC Schalke 04
+
+Spieltag 3
+[Fr 8.9.]
+ 20.30   Hamburger SV  RB Leipzig
+[Sa 9.9.]
+ 15.30   SC Freiburg  Borussia Dortmund
+ 15.30   Bor. Mönchengladbach  Eintracht Frankfurt
+ 15.30   FC Augsburg  1. FC Köln
+ 15.30   1. FSV Mainz 05  Bayer Leverkusen
+ 15.30   VfL Wolfsburg  Hannover 96
+ 18.30   1899 Hoffenheim  Bayern München
+[So 10.9.]
+ 15.30   Hertha BSC  Werder Bremen
+ 18.00   FC Schalke 04  VfB Stuttgart
+
+Spieltag 4
+[Fr 15.9.]
+ 20.30   Hannover 96  Hamburger SV
+[Sa 16.9.]
+ 15.30   Bayern München  1. FSV Mainz 05
+ 15.30   Werder Bremen  FC Schalke 04
+ 15.30   Eintracht Frankfurt  FC Augsburg
+ 15.30   VfB Stuttgart  VfL Wolfsburg
+ 18.30   RB Leipzig  Bor. Mönchengladbach
+[So 17.9.]
+ 13.30   1899 Hoffenheim  Hertha BSC
+ 15.30   Bayer Leverkusen  SC Freiburg
+ 18.00   Borussia Dortmund  1. FC Köln
+
+Spieltag 5
+[Di 19.9.]
+ 18.30   Bor. Mönchengladbach  VfB Stuttgart
+ 20.30   FC Schalke 04  Bayern München
+ 20.30   FC Augsburg  RB Leipzig
+ 20.30   VfL Wolfsburg  Werder Bremen
+[Mi 20.9.]
+ 18.30   1. FC Köln  Eintracht Frankfurt
+ 20.30   Hertha BSC  Bayer Leverkusen
+ 20.30   SC Freiburg  Hannover 96
+ 20.30   Hamburger SV  Borussia Dortmund
+ 20.30   1. FSV Mainz 05  1899 Hoffenheim
+
+Spieltag 6
+[Fr 22.9.]
+ 20.30   Bayern München  VfL Wolfsburg
+[Sa 23.9.]
+ 15.30   RB Leipzig  Eintracht Frankfurt
+ 15.30   1899 Hoffenheim  FC Schalke 04
+ 15.30   Werder Bremen  SC Freiburg
+ 15.30   1. FSV Mainz 05  Hertha BSC
+ 15.30   VfB Stuttgart  FC Augsburg
+ 18.30   Borussia Dortmund  Bor. Mönchengladbach
+[So 24.9.]
+ 15.30   Hannover 96  1. FC Köln
+ 18.00   Bayer Leverkusen  Hamburger SV
+
+Spieltag 7
+[Sa 30.9.]
+   1. FC Köln  RB Leipzig
+   Hertha BSC  Bayern München
+   SC Freiburg  1899 Hoffenheim
+   Bor. Mönchengladbach  Hannover 96
+   FC Schalke 04  Bayer Leverkusen
+   Eintracht Frankfurt  VfB Stuttgart
+   FC Augsburg  Borussia Dortmund
+   Hamburger SV  Werder Bremen
+   VfL Wolfsburg  1. FSV Mainz 05
+
+Spieltag 8
+[Sa 14.10.]
+   Bayern München  SC Freiburg
+   Borussia Dortmund  RB Leipzig
+   1899 Hoffenheim  FC Augsburg
+   Hertha BSC  FC Schalke 04
+   Werder Bremen  Bor. Mönchengladbach
+   Bayer Leverkusen  VfL Wolfsburg
+   1. FSV Mainz 05  Hamburger SV
+   Hannover 96  Eintracht Frankfurt
+   VfB Stuttgart  1. FC Köln
+
+Spieltag 9
+[Sa 21.10.]
+   RB Leipzig  VfB Stuttgart
+   1. FC Köln  Werder Bremen
+   SC Freiburg  Hertha BSC
+   Bor. Mönchengladbach  Bayer Leverkusen
+   FC Schalke 04  1. FSV Mainz 05
+   Eintracht Frankfurt  Borussia Dortmund
+   FC Augsburg  Hannover 96
+   Hamburger SV  Bayern München
+   VfL Wolfsburg  1899 Hoffenheim
+
+Spieltag 10
+[Sa 28.10.]
+   Bayern München  RB Leipzig
+   1899 Hoffenheim  Bor. Mönchengladbach
+   Hertha BSC  Hamburger SV
+   Werder Bremen  FC Augsburg
+   FC Schalke 04  VfL Wolfsburg
+   Bayer Leverkusen  1. FC Köln
+   1. FSV Mainz 05  Eintracht Frankfurt
+   Hannover 96  Borussia Dortmund
+   VfB Stuttgart  SC Freiburg
+
+Spieltag 11
+[Sa 4.11.]
+   Borussia Dortmund  Bayern München
+   RB Leipzig  Hannover 96
+   1. FC Köln  1899 Hoffenheim
+   SC Freiburg  FC Schalke 04
+   Bor. Mönchengladbach  1. FSV Mainz 05
+   Eintracht Frankfurt  Werder Bremen
+   FC Augsburg  Bayer Leverkusen
+   Hamburger SV  VfB Stuttgart
+   VfL Wolfsburg  Hertha BSC
+
+Spieltag 12
+[Sa 18.11.]
+   Bayern München  FC Augsburg
+   1899 Hoffenheim  Eintracht Frankfurt
+   Hertha BSC  Bor. Mönchengladbach
+   Werder Bremen  Hannover 96
+   FC Schalke 04  Hamburger SV
+   Bayer Leverkusen  RB Leipzig
+   1. FSV Mainz 05  1. FC Köln
+   VfL Wolfsburg  SC Freiburg
+   VfB Stuttgart  Borussia Dortmund
+
+Spieltag 13
+[Sa 25.11.]
+   Borussia Dortmund  FC Schalke 04
+   RB Leipzig  Werder Bremen
+   1. FC Köln  Hertha BSC
+   SC Freiburg  1. FSV Mainz 05
+   Bor. Mönchengladbach  Bayern München
+   Eintracht Frankfurt  Bayer Leverkusen
+   FC Augsburg  VfL Wolfsburg
+   Hamburger SV  1899 Hoffenheim
+   Hannover 96  VfB Stuttgart
+
+Spieltag 14
+[Sa 2.12.]
+   Bayern München  Hannover 96
+   1899 Hoffenheim  RB Leipzig
+   Hertha BSC  Eintracht Frankfurt
+   SC Freiburg  Hamburger SV
+   Werder Bremen  VfB Stuttgart
+   FC Schalke 04  1. FC Köln
+   Bayer Leverkusen  Borussia Dortmund
+   1. FSV Mainz 05  FC Augsburg
+   VfL Wolfsburg  Bor. Mönchengladbach
+
+Spieltag 15
+[Sa 9.12.]
+   Borussia Dortmund  Werder Bremen
+   RB Leipzig  1. FSV Mainz 05
+   1. FC Köln  SC Freiburg
+   Bor. Mönchengladbach  FC Schalke 04
+   Eintracht Frankfurt  Bayern München
+   FC Augsburg  Hertha BSC
+   Hamburger SV  VfL Wolfsburg
+   Hannover 96  1899 Hoffenheim
+   VfB Stuttgart  Bayer Leverkusen
+
+Spieltag 16
+[Mi 13.12.]
+   Bayern München  1. FC Köln
+   1899 Hoffenheim  VfB Stuttgart
+   Hertha BSC  Hannover 96
+   SC Freiburg  Bor. Mönchengladbach
+   FC Schalke 04  FC Augsburg
+   Bayer Leverkusen  Werder Bremen
+   Hamburger SV  Eintracht Frankfurt
+   1. FSV Mainz 05  Borussia Dortmund
+   VfL Wolfsburg  RB Leipzig
+
+Spieltag 17
+[Sa 16.12.]
+   Borussia Dortmund  1899 Hoffenheim
+   RB Leipzig  Hertha BSC
+   1. FC Köln  VfL Wolfsburg
+   Werder Bremen  1. FSV Mainz 05
+   Bor. Mönchengladbach  Hamburger SV
+   Eintracht Frankfurt  FC Schalke 04
+   FC Augsburg  SC Freiburg
+   Hannover 96  Bayer Leverkusen
+   VfB Stuttgart  Bayern München

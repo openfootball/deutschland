@@ -86,7 +86,7 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
 ## Build Your Own `deutschland.db` Copy
 
 Use the `sportdb` command line tool to build your own `deutschland.db` copy
-from the plain text datasets. [More »](http://openfootball.github.io/build.html)
+from the plain text datasets. [More »](https://github.com/openfootball/datafile)
 
 
 ### Examples

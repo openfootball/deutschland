@@ -1,0 +1,234 @@
+
+21. Spieltag
+[Sa 20.1.]
+Rot-Weiß Erfurt  -  1. FC Magdeburg
+SV Meppen  -  Preußen Münster
+Werder Bremen II  -  Würzburger Kickers
+Karlsruher SC  -  SpVgg Unterhaching
+SV Wehen Wiesbaden  -  VfL Osnabrück
+Fortuna Köln  -  FC Carl Zeiss Jena
+Hallescher FC  -  VfR Aalen
+Chemnitzer FC  -  SC Paderborn 07
+Sportfreunde Lotte  -  FSV Zwickau
+SG Sonnenhof Großaspach  -  Hansa Rostock
+
+22. Spieltag
+[Sa 27.1.]
+Karlsruher SC  -  Werder Bremen II
+Hansa Rostock  -  Rot-Weiß Erfurt
+FSV Zwickau  -  SG Sonnenhof Großaspach
+SC Paderborn 07  -  Sportfreunde Lotte
+VfR Aalen  -  Chemnitzer FC
+FC Carl Zeiss Jena  -  Hallescher FC
+VfL Osnabrück  -  Fortuna Köln
+SpVgg Unterhaching  -  SV Wehen Wiesbaden
+Preußen Münster  -  Würzburger Kickers
+1. FC Magdeburg  -  SV Meppen
+
+23. Spieltag
+[Sa 3.2.]
+Hallescher FC  -  VfL Osnabrück
+Chemnitzer FC  -  FC Carl Zeiss Jena
+Sportfreunde Lotte  -  VfR Aalen
+SG Sonnenhof Großaspach  -  SC Paderborn 07
+Rot-Weiß Erfurt  -  FSV Zwickau
+SV Meppen  -  Hansa Rostock
+Würzburger Kickers  -  1. FC Magdeburg
+Werder Bremen II  -  Preußen Münster
+SV Wehen Wiesbaden  -  Karlsruher SC
+Fortuna Köln  -  SpVgg Unterhaching
+
+24. Spieltag
+[Sa 10.2.]
+SV Wehen Wiesbaden  -  Werder Bremen II
+SC Paderborn 07  -  Rot-Weiß Erfurt
+VfR Aalen  -  SG Sonnenhof Großaspach
+FC Carl Zeiss Jena  -  Sportfreunde Lotte
+VfL Osnabrück  -  Chemnitzer FC
+SpVgg Unterhaching  -  Hallescher FC
+Karlsruher SC  -  Fortuna Köln
+1. FC Magdeburg  -  Preußen Münster
+Hansa Rostock  -  Würzburger Kickers
+FSV Zwickau  -  SV Meppen
+
+25. Spieltag
+[Sa 17.2.]
+Sportfreunde Lotte  -  VfL Osnabrück
+SG Sonnenhof Großaspach  -  FC Carl Zeiss Jena
+Rot-Weiß Erfurt  -  VfR Aalen
+SV Meppen  -  SC Paderborn 07
+Würzburger Kickers  -  FSV Zwickau
+Preußen Münster  -  Hansa Rostock
+Werder Bremen II  -  1. FC Magdeburg
+Fortuna Köln  -  SV Wehen Wiesbaden
+Hallescher FC  -  Karlsruher SC
+Chemnitzer FC  -  SpVgg Unterhaching
+
+26. Spieltag
+[Sa 24.2.]
+Fortuna Köln  -  Werder Bremen II
+FC Carl Zeiss Jena  -  Rot-Weiß Erfurt
+VfL Osnabrück  -  SG Sonnenhof Großaspach
+SpVgg Unterhaching  -  Sportfreunde Lotte
+Karlsruher SC  -  Chemnitzer FC
+SV Wehen Wiesbaden  -  Hallescher FC
+Hansa Rostock  -  1. FC Magdeburg
+FSV Zwickau  -  Preußen Münster
+SC Paderborn 07  -  Würzburger Kickers
+VfR Aalen  -  SV Meppen
+
+27. Spieltag
+[Sa 3.3.]
+Rot-Weiß Erfurt  -  VfL Osnabrück
+SV Meppen  -  FC Carl Zeiss Jena
+Würzburger Kickers  -  VfR Aalen
+Preußen Münster  -  SC Paderborn 07
+1. FC Magdeburg  -  FSV Zwickau
+Werder Bremen II  -  Hansa Rostock
+Hallescher FC  -  Fortuna Köln
+Chemnitzer FC  -  SV Wehen Wiesbaden
+Sportfreunde Lotte  -  Karlsruher SC
+SG Sonnenhof Großaspach  -  SpVgg Unterhaching
+
+28. Spieltag
+[Di 6.3.]
+Hallescher FC  -  Werder Bremen II
+SpVgg Unterhaching  -  Rot-Weiß Erfurt
+Karlsruher SC  -  SG Sonnenhof Großaspach
+SV Wehen Wiesbaden  -  Sportfreunde Lotte
+Fortuna Köln  -  Chemnitzer FC
+FSV Zwickau  -  Hansa Rostock
+SC Paderborn 07  -  1. FC Magdeburg
+VfR Aalen  -  Preußen Münster
+FC Carl Zeiss Jena  -  Würzburger Kickers
+VfL Osnabrück  -  SV Meppen
+
+29. Spieltag
+[Sa 10.3.]
+Würzburger Kickers  -  VfL Osnabrück
+Preußen Münster  -  FC Carl Zeiss Jena
+1. FC Magdeburg  -  VfR Aalen
+Hansa Rostock  -  SC Paderborn 07
+Werder Bremen II  -  FSV Zwickau
+Chemnitzer FC  -  Hallescher FC
+Sportfreunde Lotte  -  Fortuna Köln
+SG Sonnenhof Großaspach  -  SV Wehen Wiesbaden
+Rot-Weiß Erfurt  -  Karlsruher SC
+SV Meppen  -  SpVgg Unterhaching
+
+30. Spieltag
+[Sa 17.3.]
+Chemnitzer FC  -  Werder Bremen II
+SV Wehen Wiesbaden  -  Rot-Weiß Erfurt
+Fortuna Köln  -  SG Sonnenhof Großaspach
+Hallescher FC  -  Sportfreunde Lotte
+SC Paderborn 07  -  FSV Zwickau
+VfR Aalen  -  Hansa Rostock
+FC Carl Zeiss Jena  -  1. FC Magdeburg
+VfL Osnabrück  -  Preußen Münster
+SpVgg Unterhaching  -  Würzburger Kickers
+Karlsruher SC  -  SV Meppen
+
+31. Spieltag
+[Sa 24.3.]
+1. FC Magdeburg  -  VfL Osnabrück
+Hansa Rostock  -  FC Carl Zeiss Jena
+FSV Zwickau  -  VfR Aalen
+Werder Bremen II  -  SC Paderborn 07
+Sportfreunde Lotte  -  Chemnitzer FC
+SG Sonnenhof Großaspach  -  Hallescher FC
+Rot-Weiß Erfurt  -  Fortuna Köln
+SV Meppen  -  SV Wehen Wiesbaden
+Würzburger Kickers  -  Karlsruher SC
+Preußen Münster  -  SpVgg Unterhaching
+
+32. Spieltag
+[Sa 31.3.]
+Sportfreunde Lotte  -  Werder Bremen II
+Hallescher FC  -  Rot-Weiß Erfurt
+Chemnitzer FC  -  SG Sonnenhof Großaspach
+VfR Aalen  -  SC Paderborn 07
+FC Carl Zeiss Jena  -  FSV Zwickau
+VfL Osnabrück  -  Hansa Rostock
+SpVgg Unterhaching  -  1. FC Magdeburg
+Karlsruher SC  -  Preußen Münster
+SV Wehen Wiesbaden  -  Würzburger Kickers
+Fortuna Köln  -  SV Meppen
+
+33. Spieltag
+[Sa 7.4.]
+FSV Zwickau  -  VfL Osnabrück
+SC Paderborn 07  -  FC Carl Zeiss Jena
+Werder Bremen II  -  VfR Aalen
+SG Sonnenhof Großaspach  -  Sportfreunde Lotte
+Rot-Weiß Erfurt  -  Chemnitzer FC
+SV Meppen  -  Hallescher FC
+Würzburger Kickers  -  Fortuna Köln
+Preußen Münster  -  SV Wehen Wiesbaden
+1. FC Magdeburg  -  Karlsruher SC
+Hansa Rostock  -  SpVgg Unterhaching
+
+34. Spieltag
+[Sa 14.4.]
+SG Sonnenhof Großaspach  -  Werder Bremen II
+Sportfreunde Lotte  -  Rot-Weiß Erfurt
+FC Carl Zeiss Jena  -  VfR Aalen
+VfL Osnabrück  -  SC Paderborn 07
+SpVgg Unterhaching  -  FSV Zwickau
+Karlsruher SC  -  Hansa Rostock
+SV Wehen Wiesbaden  -  1. FC Magdeburg
+Fortuna Köln  -  Preußen Münster
+Hallescher FC  -  Würzburger Kickers
+Chemnitzer FC  -  SV Meppen
+
+35. Spieltag
+[Sa 21.4.]
+VfR Aalen  -  VfL Osnabrück
+Werder Bremen II  -  FC Carl Zeiss Jena
+Rot-Weiß Erfurt  -  SG Sonnenhof Großaspach
+SV Meppen  -  Sportfreunde Lotte
+Würzburger Kickers  -  Chemnitzer FC
+Preußen Münster  -  Hallescher FC
+1. FC Magdeburg  -  Fortuna Köln
+Hansa Rostock  -  SV Wehen Wiesbaden
+FSV Zwickau  -  Karlsruher SC
+SC Paderborn 07  -  SpVgg Unterhaching
+
+36. Spieltag
+[Sa 28.4.]
+Rot-Weiß Erfurt  -  Werder Bremen II
+VfL Osnabrück  -  FC Carl Zeiss Jena
+SpVgg Unterhaching  -  VfR Aalen
+Karlsruher SC  -  SC Paderborn 07
+SV Wehen Wiesbaden  -  FSV Zwickau
+Fortuna Köln  -  Hansa Rostock
+Hallescher FC  -  1. FC Magdeburg
+Chemnitzer FC  -  Preußen Münster
+Sportfreunde Lotte  -  Würzburger Kickers
+SG Sonnenhof Großaspach  -  SV Meppen
+
+37. Spieltag
+[Sa 5.5.]
+  VfL Osnabrück  -  Werder Bremen II
+  SV Meppen  -  Rot-Weiß Erfurt
+  Würzburger Kickers  -  SG Sonnenhof Großaspach
+  Preußen Münster  -  Sportfreunde Lotte
+  1. FC Magdeburg  -  Chemnitzer FC
+  Hansa Rostock  -  Hallescher FC
+  FSV Zwickau  -  Fortuna Köln
+  SC Paderborn 07  -  SV Wehen Wiesbaden
+  VfR Aalen  -  Karlsruher SC
+  FC Carl Zeiss Jena  -  SpVgg Unterhaching
+
+38. Spieltag
+[Sa 12.5.]
+  SpVgg Unterhaching  -  VfL Osnabrück
+  Karlsruher SC  -  FC Carl Zeiss Jena
+  SV Wehen Wiesbaden  -  VfR Aalen
+  Fortuna Köln  -  SC Paderborn 07
+  Hallescher FC  -  FSV Zwickau
+  Chemnitzer FC  -  Hansa Rostock
+  Sportfreunde Lotte  -  1. FC Magdeburg
+  SG Sonnenhof Großaspach  -  Preußen Münster
+  Rot-Weiß Erfurt  -  Würzburger Kickers
+  Werder Bremen II  -  SV Meppen

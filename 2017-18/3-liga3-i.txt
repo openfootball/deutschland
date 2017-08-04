@@ -5,48 +5,48 @@
 1. Spieltag
 
 [Fr 21.7.]
-    Karlsruher SC       2:2 (0:2)  VfL Osnabrück
+    Karlsruher SC             2:2 (0:2)  VfL Osnabrück
 [Sa 22.7.]
-    Werder Bremen II    3:0 (0:0)  SpVgg Unterhaching
-    Rot-Weiß Erfurt     1:1 (1:1)  Preußen Münster
-    Sportfreunde Lotte  0:2 (0:1)  Hansa Rostock
-    Hallescher FC       4:4 (1:3)  SC Paderborn 07
-    Fortuna Köln        1:0 (0:0)  VfR Aalen
-    SV Wehen Wiesbaden  1:0 (1:0)  FC Carl Zeiss Jena
-    SV Meppen           2:2 (1:0)  Würzburger Kickers
+    Werder Bremen II          3:0 (0:0)  SpVgg Unterhaching
+    Rot-Weiß Erfurt           1:1 (1:1)  Preußen Münster
+    Sportfreunde Lotte        0:2 (0:1)  Hansa Rostock
+    Hallescher FC             4:4 (1:3)  SC Paderborn 07
+    Fortuna Köln              1:0 (0:0)  VfR Aalen
+    SV Wehen Wiesbaden        1:0 (1:0)  FC Carl Zeiss Jena
+    SV Meppen                 2:2 (1:0)  Würzburger Kickers
 [So 23.7.]
-    SG Sonnenhof Großaspach  4:1 (1:0)  1. FC Magdeburg
-    Chemnitzer FC       1:0 (1:0)  FSV Zwickau
+    SG Sonnenhof Großaspach   4:1 (1:0)  1. FC Magdeburg
+    Chemnitzer FC             1:0 (1:0)  FSV Zwickau
 
 
 2. Spieltag
 [Fr 28.7.]
-    VfL Osnabrück          0-4  SV Wehen Wiesbaden
-    SpVgg Unterhaching     3-2  Karlsruher SC
+    VfL Osnabrück             0-4  SV Wehen Wiesbaden
+    SpVgg Unterhaching        3-2  Karlsruher SC
 [Sa 29.7.]
-    FC Carl Zeiss Jena     0-2  Fortuna Köln
-    VfR Aalen              2-1  Hallescher FC
-    SC Paderborn 07        3-2  Chemnitzer FC
-    FSV Zwickau            1-1  Sportfreunde Lotte
-    Hansa Rostock          0-0  SG Sonnenhof Großaspach
-    1. FC Magdeburg        3-0  Rot-Weiß Erfurt
-    Preußen Münster        3-0  SV Meppen
+    FC Carl Zeiss Jena        0-2  Fortuna Köln
+    VfR Aalen                 2-1  Hallescher FC
+    SC Paderborn 07           3-2  Chemnitzer FC
+    FSV Zwickau               1-1  Sportfreunde Lotte
+    Hansa Rostock             0-0  SG Sonnenhof Großaspach
+    1. FC Magdeburg           3-0  Rot-Weiß Erfurt
+    Preußen Münster           3-0  SV Meppen
 [So 30.7.]
-    Würzburger Kickers  -  Werder Bremen II
+    Würzburger Kickers        1-1  Werder Bremen II
 
 3. Spieltag
 [Di 1.8.]
-    Rot-Weiß Erfurt  -  Hansa Rostock
-    SG Sonnenhof Großaspach  -  FSV Zwickau
-    Sportfreunde Lotte  -  SC Paderborn 07
-    Hallescher FC  -  FC Carl Zeiss Jena
-    SV Wehen Wiesbaden  -  SpVgg Unterhaching
+    Rot-Weiß Erfurt           0-1  Hansa Rostock
+    SG Sonnenhof Großaspach   2-0  FSV Zwickau
+    Sportfreunde Lotte        1-2  SC Paderborn 07
+    Hallescher FC             0-2  FC Carl Zeiss Jena
+    SV Wehen Wiesbaden        1-0  SpVgg Unterhaching
 [Mi 2.8.]
-    Werder Bremen II  -  Karlsruher SC
-    Chemnitzer FC  -  VfR Aalen
-    Fortuna Köln  -  VfL Osnabrück
-    Würzburger Kickers  -  Preußen Münster
-    SV Meppen  -  1. FC Magdeburg
+    Werder Bremen II          2-0  Karlsruher SC
+    Chemnitzer FC             2-4  VfR Aalen
+    Fortuna Köln              3-0  VfL Osnabrück
+    Würzburger Kickers        0-1  Preußen Münster
+    SV Meppen                 1-2  1. FC Magdeburg
 
 4. Spieltag
 [Fr 4.8.]

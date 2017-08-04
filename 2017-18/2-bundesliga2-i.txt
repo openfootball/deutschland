@@ -10,12 +10,12 @@ Spieltag 1
    SV Darmstadt 98        1-0  SpVgg Greuther Fürth
    Arminia Bielefeld      2-1  Jahn Regensburg
 [So 30.7.]
-   1. FC Nürnberg  1. FC Kaiserslautern
-   Dynamo Dresden  MSV Duisburg
-   1. FC Heidenheim 1846  Erzgebirge Aue
-   Holstein Kiel  SV Sandhausen
+   1. FC Nürnberg         3-0  1. FC Kaiserslautern
+   Dynamo Dresden         1-0  MSV Duisburg
+   1. FC Heidenheim 1846  Erzgebirge Aue            vewrschoben auf 9.8.17
+   Holstein Kiel          2-2  SV Sandhausen
 [Mo 31.7.]
-   Fortuna Düsseldorf  Eintracht Braunschweig
+   Fortuna Düsseldorf     2-2  Eintracht Braunschweig
 
 
 Spieltag 2
@@ -32,6 +32,11 @@ Spieltag 2
    Erzgebirge Aue  Fortuna Düsseldorf
 [Mo 7.8.]
    FC St. Pauli  Dynamo Dresden
+   
+Nachtrag Spieltag 1
+
+[Mi 9.8.]
+   1. FC Heidenheim 1846    Erzgebirge Aue
 
 Spieltag 3
 [Fr 18.8.]

@@ -98,7 +98,7 @@
 [So 16.10.]
   15.30   1. FSV Mainz 05       2:1  SV Darmstadt 98
   17.30   VfL Wolfsburg         0:1  RB Leipzig
-  
+
 8. Spieltag
 [Fr 21.10.]
   20.30   Hamburger SV          0:3  Eintracht Frankfurt
@@ -112,7 +112,7 @@
 [So 23.10.]
   15.30   RB Leipzig            3:1  Werder Bremen
   17.30   FC Schalke 04         3:0  1. FSV Mainz 05
- 
+
 9. Spieltag
 [Fr 28.10.]
   20.30   Bor. Mönchengladbach  0:0  Eintracht Frankfurt
@@ -137,7 +137,7 @@
   15.30   Hamburger SV          2:5  Borussia Dortmund
   15.30   FC Ingolstadt 04      0:2  FC Augsburg
   18.30   Eintracht Frankfurt   1:0  1. FC Köln
-[So 6.11.] 
+[So 6.11.]
   15.30   RB Leipzig            3:1  1. FSV Mainz 05
   17.30   FC Schalke 04         3:1  Werder Bremen
 
@@ -182,7 +182,7 @@
 [So 4.12.]
   15.30   SV Darmstadt 98       0:2  Hamburger SV
   17.30   FC Augsburg           1:1  Eintracht Frankfurt
-  
+
 14. Spieltag
 [Fr 9.12.]
   20.30   Eintracht Frankfurt   0:0  1899 Hoffenheim
@@ -196,7 +196,7 @@
 [So 11.12.]
   15.30   Bor. Mönchengladbach  1:0  1. FSV Mainz 05
   17.30   FC Schalke 04         0:1  Bayer Leverkusen
-  
+
 15. Spieltag
 [Fr 16.12.]
   20.30   1899 Hoffenheim       2:2  Borussia Dortmund
@@ -224,4 +224,5 @@
   20.00   FC Ingolstadt 04      1:2  SC Freiburg
   20.00   1899 Hoffenheim       1:1  Werder Bremen
 
-Winterpause bis 20.01.2017
+
+# Winterpause bis 20.01.2017

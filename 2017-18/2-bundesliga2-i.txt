@@ -1,0 +1,242 @@
+#####################################
+# Deutsche 2. Bundesliga 2017/18
+
+Spieltag 1
+
+[Fr 28.7.]
+   VfL Bochum             0-1  FC St. Pauli
+[Sa 29.7.]
+   FC Ingolstadt 04       0-1  1. FC Union Berlin
+   SV Darmstadt 98        1-0  SpVgg Greuther Fürth
+   Arminia Bielefeld      2-1  Jahn Regensburg
+[So 30.7.]
+   1. FC Nürnberg  1. FC Kaiserslautern
+   Dynamo Dresden  MSV Duisburg
+   1. FC Heidenheim 1846  Erzgebirge Aue
+   Holstein Kiel  SV Sandhausen
+[Mo 31.7.]
+   Fortuna Düsseldorf  Eintracht Braunschweig
+
+
+Spieltag 2
+[Fr 4.8.]
+   1. FC Union Berlin  Holstein Kiel
+   SV Sandhausen  FC Ingolstadt 04
+   1. FC Kaiserslautern  SV Darmstadt 98
+[Sa 5.8.]
+   MSV Duisburg  VfL Bochum
+   Eintracht Braunschweig  1. FC Heidenheim 1846
+[So 6.8.]
+   Jahn Regensburg  1. FC Nürnberg
+   SpVgg Greuther Fürth  Arminia Bielefeld
+   Erzgebirge Aue  Fortuna Düsseldorf
+[Mo 7.8.]
+   FC St. Pauli  Dynamo Dresden
+
+Spieltag 3
+[Fr 18.8.]
+   SV Darmstadt 98  FC St. Pauli
+   Eintracht Braunschweig  Erzgebirge Aue
+[Sa 19.8.]
+   Dynamo Dresden  SV Sandhausen
+   1. FC Heidenheim 1846  MSV Duisburg
+   Fortuna Düsseldorf  1. FC Kaiserslautern
+[So 20.8.]
+   FC Ingolstadt 04  Jahn Regensburg
+   1. FC Nürnberg  1. FC Union Berlin
+   Holstein Kiel  SpVgg Greuther Fürth
+[Mo 21.8.]
+   Arminia Bielefeld  VfL Bochum
+
+Spieltag 4
+[Fr 25.8.]
+   SpVgg Greuther Fürth  FC Ingolstadt 04
+   MSV Duisburg  SV Darmstadt 98
+[Sa 26.8.]
+   FC St. Pauli  1. FC Heidenheim 1846
+   Erzgebirge Aue  1. FC Nürnberg
+   Jahn Regensburg  Holstein Kiel
+[So 27.8.]
+   1. FC Union Berlin  Arminia Bielefeld
+   VfL Bochum  Dynamo Dresden
+   SV Sandhausen  Fortuna Düsseldorf
+[Mo 28.8.]
+   1. FC Kaiserslautern  Eintracht Braunschweig
+
+Spieltag 5
+[Fr 8.9.]
+   Dynamo Dresden  SpVgg Greuther Fürth
+   1. FC Heidenheim 1846  Jahn Regensburg
+[Sa 9.9.]
+   FC Ingolstadt 04  Erzgebirge Aue
+   Arminia Bielefeld  MSV Duisburg
+   Holstein Kiel  1. FC Kaiserslautern
+[So 10.9.]
+   SV Darmstadt 98  VfL Bochum
+   Eintracht Braunschweig  SV Sandhausen
+   Fortuna Düsseldorf  1. FC Union Berlin
+[Mo 11.9.]
+   1. FC Nürnberg  FC St. Pauli
+
+Spieltag 6
+[Fr 15.9.]
+   1. FC Union Berlin  Eintracht Braunschweig
+   Erzgebirge Aue  Holstein Kiel
+[Sa 16.9.]
+   FC St. Pauli  FC Ingolstadt 04
+   SV Sandhausen  1. FC Kaiserslautern
+   MSV Duisburg  1. FC Nürnberg
+[So 17.9.]
+   SV Darmstadt 98  Arminia Bielefeld
+   SpVgg Greuther Fürth  Fortuna Düsseldorf
+   VfL Bochum  1. FC Heidenheim 1846
+   Jahn Regensburg  Dynamo Dresden
+
+Spieltag 7
+[Di 19.9.]
+   FC Ingolstadt 04  MSV Duisburg
+   SV Sandhausen  1. FC Union Berlin
+   1. FC Kaiserslautern  Erzgebirge Aue
+   Holstein Kiel  FC St. Pauli
+[Mi 20.9.]
+   Eintracht Braunschweig  SpVgg Greuther Fürth
+   Dynamo Dresden  Arminia Bielefeld
+   1. FC Heidenheim 1846  SV Darmstadt 98
+   Fortuna Düsseldorf  Jahn Regensburg
+[Do 21.9.]
+ (Do)  1. FC Nürnberg  VfL Bochum
+
+Spieltag 8
+[Fr 22.9.]
+   Erzgebirge Aue  SV Sandhausen
+   MSV Duisburg  Holstein Kiel
+[Sa 23.9.]
+   FC St. Pauli  Fortuna Düsseldorf
+   Arminia Bielefeld  1. FC Heidenheim 1846
+   Jahn Regensburg  Eintracht Braunschweig
+[So 24.9.]
+   SV Darmstadt 98  Dynamo Dresden
+   SpVgg Greuther Fürth  1. FC Nürnberg
+   VfL Bochum  FC Ingolstadt 04
+[Mo 25.9.]
+   1. FC Union Berlin  1. FC Kaiserslautern
+
+Spieltag 9
+[Sa 30.9.]
+   FC Ingolstadt 04  SV Darmstadt 98
+   Eintracht Braunschweig  FC St. Pauli
+   1. FC Heidenheim 1846  Dynamo Dresden
+   SV Sandhausen  Jahn Regensburg
+   Fortuna Düsseldorf  MSV Duisburg
+   1. FC Nürnberg  Arminia Bielefeld
+   1. FC Kaiserslautern  SpVgg Greuther Fürth
+   Erzgebirge Aue  1. FC Union Berlin
+   Holstein Kiel  VfL Bochum
+
+Spieltag 10
+[Sa 14.10.]
+   SV Darmstadt 98  1. FC Nürnberg
+   Dynamo Dresden  FC Ingolstadt 04
+   1. FC Heidenheim 1846  Holstein Kiel
+   FC St. Pauli  1. FC Kaiserslautern
+   SpVgg Greuther Fürth  Erzgebirge Aue
+   VfL Bochum  SV Sandhausen
+   Arminia Bielefeld  Fortuna Düsseldorf
+   MSV Duisburg  Eintracht Braunschweig
+   Jahn Regensburg  1. FC Union Berlin
+
+Spieltag 11
+[Sa 21.10.]
+   FC Ingolstadt 04  1. FC Heidenheim 1846
+   Eintracht Braunschweig  VfL Bochum
+   1. FC Union Berlin  SpVgg Greuther Fürth
+   SV Sandhausen  FC St. Pauli
+   Fortuna Düsseldorf  SV Darmstadt 98
+   1. FC Nürnberg  Dynamo Dresden
+   1. FC Kaiserslautern  MSV Duisburg
+   Erzgebirge Aue  Jahn Regensburg
+   Holstein Kiel  Arminia Bielefeld
+
+Spieltag 12
+[Sa 28.10.]
+   SV Darmstadt 98  Holstein Kiel
+   Dynamo Dresden  Eintracht Braunschweig
+   1. FC Heidenheim 1846  1. FC Nürnberg
+   FC St. Pauli  Erzgebirge Aue
+   SpVgg Greuther Fürth  SV Sandhausen
+   VfL Bochum  Fortuna Düsseldorf
+   Arminia Bielefeld  FC Ingolstadt 04
+   MSV Duisburg  1. FC Union Berlin
+   Jahn Regensburg  1. FC Kaiserslautern
+
+Spieltag 13
+[Sa 4.11.]
+   Eintracht Braunschweig  SV Darmstadt 98
+   1. FC Union Berlin  FC St. Pauli
+   SV Sandhausen  MSV Duisburg
+   Fortuna Düsseldorf  1. FC Heidenheim 1846
+   1. FC Nürnberg  FC Ingolstadt 04
+   1. FC Kaiserslautern  VfL Bochum
+   Erzgebirge Aue  Arminia Bielefeld
+   Holstein Kiel  Dynamo Dresden
+   Jahn Regensburg  SpVgg Greuther Fürth
+
+Spieltag 14
+[Sa 18.11.]
+   FC Ingolstadt 04  Fortuna Düsseldorf
+   SV Darmstadt 98  SV Sandhausen
+   Dynamo Dresden  1. FC Kaiserslautern
+   1. FC Heidenheim 1846  1. FC Union Berlin
+   FC St. Pauli  Jahn Regensburg
+   VfL Bochum  SpVgg Greuther Fürth
+   1. FC Nürnberg  Holstein Kiel
+   Arminia Bielefeld  Eintracht Braunschweig
+   MSV Duisburg  Erzgebirge Aue
+
+Spieltag 15
+[Sa 25.11.]
+   Eintracht Braunschweig  1. FC Nürnberg
+   1. FC Union Berlin  SV Darmstadt 98
+   SpVgg Greuther Fürth  FC St. Pauli
+   SV Sandhausen  1. FC Heidenheim 1846
+   Fortuna Düsseldorf  Dynamo Dresden
+   1. FC Kaiserslautern  Arminia Bielefeld
+   Erzgebirge Aue  VfL Bochum
+   Holstein Kiel  FC Ingolstadt 04
+   Jahn Regensburg  MSV Duisburg
+
+Spieltag 16
+[Sa 2.12.]
+   FC Ingolstadt 04  Eintracht Braunschweig
+   SV Darmstadt 98  Jahn Regensburg
+   Dynamo Dresden  Erzgebirge Aue
+   1. FC Heidenheim 1846  1. FC Kaiserslautern
+   VfL Bochum  1. FC Union Berlin
+   1. FC Nürnberg  SV Sandhausen
+   Arminia Bielefeld  FC St. Pauli
+   MSV Duisburg  SpVgg Greuther Fürth
+   Holstein Kiel  Fortuna Düsseldorf
+
+Spieltag 17
+[Sa 9.12.]
+   Eintracht Braunschweig  Holstein Kiel
+   1. FC Union Berlin  Dynamo Dresden
+   FC St. Pauli  MSV Duisburg
+   SpVgg Greuther Fürth  1. FC Heidenheim 1846
+   SV Sandhausen  Arminia Bielefeld
+   Fortuna Düsseldorf  1. FC Nürnberg
+   1. FC Kaiserslautern  FC Ingolstadt 04
+   Erzgebirge Aue  SV Darmstadt 98
+   Jahn Regensburg  VfL Bochum
+
+Spieltag 18
+[Sa 16.12.]
+   FC St. Pauli  VfL Bochum
+   1. FC Union Berlin  FC Ingolstadt 04
+   SpVgg Greuther Fürth  SV Darmstadt 98
+   MSV Duisburg  Dynamo Dresden
+   Erzgebirge Aue  1. FC Heidenheim 1846
+   Eintracht Braunschweig  Fortuna Düsseldorf
+   1. FC Kaiserslautern  1. FC Nürnberg
+   Jahn Regensburg  Arminia Bielefeld
+   SV Sandhausen  Holstein Kiel

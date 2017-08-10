@@ -12,7 +12,7 @@ Spieltag 1
 [So 30.7.]
    1. FC Nürnberg         3-0  1. FC Kaiserslautern
    Dynamo Dresden         1-0  MSV Duisburg
-   1. FC Heidenheim 1846  Erzgebirge Aue            vewrschoben auf 9.8.17
+   1. FC Heidenheim 1846  2-1  Erzgebirge Aue            
    Holstein Kiel          2-2  SV Sandhausen
 [Mo 31.7.]
    Fortuna Düsseldorf     2-2  Eintracht Braunschweig
@@ -35,7 +35,7 @@ Spieltag 2
    
 Nachtrag Spieltag 1
 [Mi 9.8.]
-   1. FC Heidenheim 1846    Erzgebirge Aue
+   1. FC Heidenheim 1846  2-1  Erzgebirge Aue
 
 Spieltag 3
 [Fr 18.8.]

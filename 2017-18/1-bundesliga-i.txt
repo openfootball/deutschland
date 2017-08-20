@@ -6,12 +6,12 @@ Spieltag 1
 [Fr 18.8.]
  20.30   Bayern München           3-1  Bayer Leverkusen
 [Sa 19.8.]
- 15.30   1899 Hoffenheim  Werder Bremen
- 15.30   Hertha BSC  VfB Stuttgart
- 15.30   Hamburger SV  FC Augsburg
- 15.30   1. FSV Mainz 05  Hannover 96
- 15.30   VfL Wolfsburg  Borussia Dortmund
- 18.30   FC Schalke 04  RB Leipzig
+ 15.30   1899 Hoffenheim          1-0  Werder Bremen
+ 15.30   Hertha BSC               2-0  VfB Stuttgart
+ 15.30   Hamburger SV             1-0  FC Augsburg
+ 15.30   1. FSV Mainz 05          0-1  Hannover 96
+ 15.30   VfL Wolfsburg            0-3  Borussia Dortmund
+ 18.30   FC Schalke 04            2-0  RB Leipzig
 [So 20.8.]
  15.30   SC Freiburg  Eintracht Frankfurt
  18.00   Bor. Mönchengladbach  1. FC Köln

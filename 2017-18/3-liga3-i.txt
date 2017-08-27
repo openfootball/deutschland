@@ -82,13 +82,13 @@
 [Fr 25.8.]
   SC Paderborn 07             1-0  SV Meppen
 [Sa 26.8.]
-    VfL Osnabrück  -  Sportfreunde Lotte
-    FC Carl Zeiss Jena  -  SG Sonnenhof Großaspach
-    VfR Aalen  -  Rot-Weiß Erfurt
-    1. FC Magdeburg  -  Werder Bremen II
-    SV Wehen Wiesbaden  -  Fortuna Köln
-    Karlsruher SC  -  Hallescher FC
-    SpVgg Unterhaching  -  Chemnitzer FC
+    VfL Osnabrück             1-0  Sportfreunde Lotte
+    FC Carl Zeiss Jena        0-0  SG Sonnenhof Großaspach
+    VfR Aalen                 1-1  Rot-Weiß Erfurt
+    1. FC Magdeburg           4-1  Werder Bremen II
+    SV Wehen Wiesbaden        1-1  Fortuna Köln
+    Karlsruher SC             1-1  Hallescher FC
+    SpVgg Unterhaching        4-2  Chemnitzer FC
 [So 27.8.]
     FSV Zwickau  -  Würzburger Kickers
     Hansa Rostock  -  Preußen Münster

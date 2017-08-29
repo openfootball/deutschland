@@ -4,47 +4,47 @@
 Spieltag 1
 
 [Fr 28.7.]
-   VfL Bochum             0-1  FC St. Pauli
+   VfL Bochum              0-1  FC St. Pauli
 [Sa 29.7.]
-   FC Ingolstadt 04       0-1  1. FC Union Berlin
-   SV Darmstadt 98        1-0  SpVgg Greuther Fürth
-   Arminia Bielefeld      2-1  Jahn Regensburg
+   FC Ingolstadt 04        0-1  1. FC Union Berlin
+   SV Darmstadt 98         1-0  SpVgg Greuther Fürth
+   Arminia Bielefeld       2-1  Jahn Regensburg
 [So 30.7.]
-   1. FC Nürnberg         3-0  1. FC Kaiserslautern
-   Dynamo Dresden         1-0  MSV Duisburg
-   1. FC Heidenheim 1846  2-1  Erzgebirge Aue            
-   Holstein Kiel          2-2  SV Sandhausen
+   1. FC Nürnberg          3-0  1. FC Kaiserslautern
+   Dynamo Dresden          1-0  MSV Duisburg
+   1. FC Heidenheim 1846   2-1  Erzgebirge Aue            
+   Holstein Kiel           2-2  SV Sandhausen
 [Mo 31.7.]
-   Fortuna Düsseldorf     2-2  Eintracht Braunschweig
+   Fortuna Düsseldorf      2-2  Eintracht Braunschweig
 
 
 Spieltag 2
 [Fr 4.8.]
-   1. FC Union Berlin     4-3  Holstein Kiel
-   SV Sandhausen          1-0  FC Ingolstadt 04
-   1. FC Kaiserslautern   1-1  SV Darmstadt 98
+   1. FC Union Berlin      4-3  Holstein Kiel
+   SV Sandhausen           1-0  FC Ingolstadt 04
+   1. FC Kaiserslautern    1-1  SV Darmstadt 98
 [Sa 5.8.]
-   MSV Duisburg           1-1  VfL Bochum
-   Eintracht Braunschweig 2-0  1. FC Heidenheim 1846
+   MSV Duisburg            1-1  VfL Bochum
+   Eintracht Braunschweig  2-0  1. FC Heidenheim 1846
 [So 6.8.]
-   Jahn Regensburg        0-1  1. FC Nürnberg
-   SpVgg Greuther Fürth   1-2  Arminia Bielefeld
-   Erzgebirge Aue         0-2  Fortuna Düsseldorf
+   Jahn Regensburg         0-1  1. FC Nürnberg
+   SpVgg Greuther Fürth    1-2  Arminia Bielefeld
+   Erzgebirge Aue          0-2  Fortuna Düsseldorf
 [Mo 7.8.]
-   FC St. Pauli           2-2  Dynamo Dresden
+   FC St. Pauli            2-2  Dynamo Dresden
    
 Nachtrag Spieltag 1
 [Mi 9.8.]
-   1. FC Heidenheim 1846  2-1  Erzgebirge Aue
+   1. FC Heidenheim 1846   2-1  Erzgebirge Aue
 
 Spieltag 3
 [Fr 18.8.]
-   SV Darmstadt 98        3-0  FC St. Pauli
-   Eintracht Braunschweig 1-1  Erzgebirge Aue
+   SV Darmstadt 98         3-0  FC St. Pauli
+   Eintracht Braunschweig  1-1  Erzgebirge Aue
 [Sa 19.8.]
-   Dynamo Dresden         0-4  SV Sandhausen
-   1. FC Heidenheim 1846  1-2  MSV Duisburg
-   Fortuna Düsseldorf     2-0  1. FC Kaiserslautern
+   Dynamo Dresden          0-4  SV Sandhausen
+   1. FC Heidenheim 1846   1-2  MSV Duisburg
+   Fortuna Düsseldorf      2-0  1. FC Kaiserslautern
 [So 20.8.]
    FC Ingolstadt 04        2-4  Jahn Regensburg
    1. FC Nürnberg          2-2  1. FC Union Berlin

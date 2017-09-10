@@ -4,46 +4,46 @@
 
 Spieltag 1
 [Fr 18.8.]
- 20.30   Bayern München  Bayer Leverkusen
+ 20.30   Bayern München           3:1  Bayer Leverkusen
 [Sa 19.8.]
- 15.30   1899 Hoffenheim  Werder Bremen
- 15.30   Hertha BSC  VfB Stuttgart
- 15.30   Hamburger SV  FC Augsburg
- 15.30   1. FSV Mainz 05  Hannover 96
- 15.30   VfL Wolfsburg  Borussia Dortmund
- 18.30   FC Schalke 04  RB Leipzig
+ 15.30   1899 Hoffenheim          1:0  Werder Bremen
+ 15.30   Hertha BSC               2:0  VfB Stuttgart
+ 15.30   Hamburger SV             1:0  FC Augsburg
+ 15.30   1. FSV Mainz 05          0:1  Hannover 96
+ 15.30   VfL Wolfsburg            0:3  Borussia Dortmund
+ 18.30   FC Schalke 04            2:0  RB Leipzig
 [So 20.8.]
- 15.30   SC Freiburg  Eintracht Frankfurt
- 18.00   Bor. Mönchengladbach  1. FC Köln
+ 15.30   SC Freiburg              0:0  Eintracht Frankfurt
+ 18.00   Bor. Mönchengladbach     1:0  1. FC Köln
 
 
 Spieltag 2
 [Fr 25.8.]
- 20.30   1. FC Köln  Hamburger SV
+ 20.30   1. FC Köln               1:3  Hamburger SV
 [Sa 26.8.]
- 15.30   Werder Bremen  Bayern München
- 15.30   Eintracht Frankfurt  VfL Wolfsburg
- 15.30   Bayer Leverkusen  1899 Hoffenheim
- 15.30   FC Augsburg  Bor. Mönchengladbach
- 15.30   VfB Stuttgart  1. FSV Mainz 05
- 18.30   Borussia Dortmund  Hertha BSC
+ 15.30   Werder Bremen            0:2  Bayern München
+ 15.30   Eintracht Frankfurt      0:1  VfL Wolfsburg
+ 15.30   Bayer Leverkusen         2:2  1899 Hoffenheim
+ 15.30   FC Augsburg              2:2  Bor. Mönchengladbach
+ 15.30   VfB Stuttgart            1:0  1. FSV Mainz 05
+ 18.30   Borussia Dortmund        2:0  Hertha BSC
 [So 27.8.]
- 15.30   RB Leipzig  SC Freiburg
- 18.00   Hannover 96  FC Schalke 04
+ 15.30   RB Leipzig               4:1  SC Freiburg
+ 18.00   Hannover 96              1:0  FC Schalke 04
 
 Spieltag 3
 [Fr 8.9.]
- 20.30   Hamburger SV  RB Leipzig
+ 20.30   Hamburger SV             0:2  RB Leipzig
 [Sa 9.9.]
- 15.30   SC Freiburg  Borussia Dortmund
- 15.30   Bor. Mönchengladbach  Eintracht Frankfurt
- 15.30   FC Augsburg  1. FC Köln
- 15.30   1. FSV Mainz 05  Bayer Leverkusen
- 15.30   VfL Wolfsburg  Hannover 96
- 18.30   1899 Hoffenheim  Bayern München
+ 15.30   SC Freiburg              0:0  Borussia Dortmund
+ 15.30   Bor. Mönchengladbach     0:1  Eintracht Frankfurt
+ 15.30   FC Augsburg              3:0  1. FC Köln
+ 15.30   1. FSV Mainz 05          3:1  Bayer Leverkusen
+ 15.30   VfL Wolfsburg            1:1  Hannover 96
+ 18.30   1899 Hoffenheim          2:0  Bayern München
 [So 10.9.]
- 15.30   Hertha BSC  Werder Bremen
- 18.00   FC Schalke 04  VfB Stuttgart
+ 15.30   Hertha BSC               1:1  Werder Bremen
+ 18.00   FC Schalke 04            3:1  VfB Stuttgart
 
 Spieltag 4
 [Fr 15.9.]

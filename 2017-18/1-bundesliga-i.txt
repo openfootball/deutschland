@@ -49,10 +49,10 @@ Spieltag 4
 [Fr 15.9.]
  20.30   Hannover 96              2:0  Hamburger SV
 [Sa 16.9.]
- 15.30   Bayern München  1. FSV Mainz 05
- 15.30   Werder Bremen  FC Schalke 04
- 15.30   Eintracht Frankfurt  FC Augsburg
- 15.30   VfB Stuttgart  VfL Wolfsburg
+ 15.30   Bayern München           4:0  1. FSV Mainz 05
+ 15.30   Werder Bremen            1:2  FC Schalke 04
+ 15.30   Eintracht Frankfurt      1:2  FC Augsburg
+ 15.30   VfB Stuttgart            1:0  VfL Wolfsburg
  18.30   RB Leipzig  Bor. Mönchengladbach
 [So 17.9.]
  13.30   1899 Hoffenheim  Hertha BSC

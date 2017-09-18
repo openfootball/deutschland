@@ -91,10 +91,10 @@ Spieltag 6
    SV Sandhausen           1-0  1. FC Kaiserslautern
    MSV Duisburg            1-6  1. FC Nürnberg
 [So 17.9.]
-   SV Darmstadt 98  Arminia Bielefeld
-   SpVgg Greuther Fürth  Fortuna Düsseldorf
-   VfL Bochum  1. FC Heidenheim 1846
-   Jahn Regensburg  Dynamo Dresden
+   SV Darmstadt 98         4-3  Arminia Bielefeld
+   SpVgg Greuther Fürth    3-1  Fortuna Düsseldorf
+   VfL Bochum              1-2  1. FC Heidenheim 1846
+   Jahn Regensburg         0-2  Dynamo Dresden
 
 Spieltag 7
 [Di 19.9.]
@@ -108,7 +108,7 @@ Spieltag 7
    1. FC Heidenheim 1846  SV Darmstadt 98
    Fortuna Düsseldorf  Jahn Regensburg
 [Do 21.9.]
- (Do)  1. FC Nürnberg  VfL Bochum
+   1. FC Nürnberg  VfL Bochum
 
 Spieltag 8
 [Fr 22.9.]

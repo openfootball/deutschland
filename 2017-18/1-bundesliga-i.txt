@@ -61,10 +61,10 @@ Spieltag 4
 
 Spieltag 5
 [Di 19.9.]
- 18.30   Bor. Mönchengladbach  VfB Stuttgart
- 20.30   FC Schalke 04  Bayern München
- 20.30   FC Augsburg  RB Leipzig
- 20.30   VfL Wolfsburg  Werder Bremen
+ 18.30   Bor. Mönchengladbach     2-0  VfB Stuttgart
+ 20.30   FC Schalke 04            0-3  Bayern München
+ 20.30   FC Augsburg              1-0  RB Leipzig
+ 20.30   VfL Wolfsburg            1-1  Werder Bremen
 [Mi 20.9.]
  18.30   1. FC Köln  Eintracht Frankfurt
  20.30   Hertha BSC  Bayer Leverkusen

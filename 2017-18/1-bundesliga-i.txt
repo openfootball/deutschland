@@ -67,10 +67,10 @@ Spieltag 5
  20.30   VfL Wolfsburg            1:1  Werder Bremen
 [Mi 20.9.]
  18.30   1. FC Köln               0:1  Eintracht Frankfurt
- 20.30   Hertha BSC  Bayer Leverkusen
- 20.30   SC Freiburg  Hannover 96
- 20.30   Hamburger SV  Borussia Dortmund
- 20.30   1. FSV Mainz 05  1899 Hoffenheim
+ 20.30   Hertha BSC               2:1  Bayer Leverkusen
+ 20.30   SC Freiburg              1:1  Hannover 96
+ 20.30   Hamburger SV             0:3  Borussia Dortmund
+ 20.30   1. FSV Mainz 05          2:3  1899 Hoffenheim
 
 Spieltag 6
 [Fr 22.9.]

@@ -76,44 +76,44 @@ Spieltag 5
    Arminia Bielefeld       0-4  MSV Duisburg
    Holstein Kiel           2-1  1. FC Kaiserslautern
 [So 10.9.]
-   SV Darmstadt 98  VfL Bochum
-   Eintracht Braunschweig  SV Sandhausen
-   Fortuna Düsseldorf  1. FC Union Berlin
+   SV Darmstadt 98         1-2  VfL Bochum
+   Eintracht Braunschweig  1-1  SV Sandhausen
+   Fortuna Düsseldorf      3-2  1. FC Union Berlin
 [Mo 11.9.]
-   1. FC Nürnberg  FC St. Pauli
+   1. FC Nürnberg          0-1  FC St. Pauli
 
 Spieltag 6
 [Fr 15.9.]
-   1. FC Union Berlin  Eintracht Braunschweig
-   Erzgebirge Aue  Holstein Kiel
+   1. FC Union Berlin      1-1  Eintracht Braunschweig
+   Erzgebirge Aue          0-3  Holstein Kiel
 [Sa 16.9.]
-   FC St. Pauli  FC Ingolstadt 04
-   SV Sandhausen  1. FC Kaiserslautern
-   MSV Duisburg  1. FC Nürnberg
+   FC St. Pauli            0-4  FC Ingolstadt 04
+   SV Sandhausen           1-0  1. FC Kaiserslautern
+   MSV Duisburg            1-6  1. FC Nürnberg
 [So 17.9.]
-   SV Darmstadt 98  Arminia Bielefeld
-   SpVgg Greuther Fürth  Fortuna Düsseldorf
-   VfL Bochum  1. FC Heidenheim 1846
-   Jahn Regensburg  Dynamo Dresden
+   SV Darmstadt 98         4-3  Arminia Bielefeld
+   SpVgg Greuther Fürth    3-1  Fortuna Düsseldorf
+   VfL Bochum              1-2  1. FC Heidenheim 1846
+   Jahn Regensburg         0-2  Dynamo Dresden
 
 Spieltag 7
 [Di 19.9.]
-   FC Ingolstadt 04  MSV Duisburg
-   SV Sandhausen  1. FC Union Berlin
-   1. FC Kaiserslautern  Erzgebirge Aue
-   Holstein Kiel  FC St. Pauli
+   FC Ingolstadt 04        2-2  MSV Duisburg
+   SV Sandhausen           1-0  1. FC Union Berlin
+   1. FC Kaiserslautern    0-2  Erzgebirge Aue
+   Holstein Kiel           0-1  FC St. Pauli
 [Mi 20.9.]
-   Eintracht Braunschweig  SpVgg Greuther Fürth
-   Dynamo Dresden  Arminia Bielefeld
-   1. FC Heidenheim 1846  SV Darmstadt 98
-   Fortuna Düsseldorf  Jahn Regensburg
+   Eintracht Braunschweig  3-0  SpVgg Greuther Fürth
+   Dynamo Dresden          0-2  Arminia Bielefeld
+   1. FC Heidenheim 1846   2-2  SV Darmstadt 98
+   Fortuna Düsseldorf      1-0  Jahn Regensburg
 [Do 21.9.]
- (Do)  1. FC Nürnberg  VfL Bochum
+   1. FC Nürnberg          3-1  VfL Bochum
 
 Spieltag 8
 [Fr 22.9.]
-   Erzgebirge Aue  SV Sandhausen
-   MSV Duisburg  Holstein Kiel
+   Erzgebirge Aue          1-0  SV Sandhausen
+   MSV Duisburg            1-3  Holstein Kiel
 [Sa 23.9.]
    FC St. Pauli  Fortuna Düsseldorf
    Arminia Bielefeld  1. FC Heidenheim 1846

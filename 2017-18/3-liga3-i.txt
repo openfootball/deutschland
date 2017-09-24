@@ -140,13 +140,13 @@
 [Fr 22.9.]
     SC Paderborn 07           2-1  Hansa Rostock
 [Sa 23.9.]
-    VfL Osnabrück  -  Würzburger Kickers
-    FC Carl Zeiss Jena  -  Preußen Münster
-    FSV Zwickau  -  Werder Bremen II
-    Hallescher FC  -  Chemnitzer FC
-    Fortuna Köln  -  Sportfreunde Lotte
-    SV Wehen Wiesbaden  -  SG Sonnenhof Großaspach
-    SpVgg Unterhaching  -  SV Meppen
+    VfL Osnabrück             1-1  Würzburger Kickers
+    FC Carl Zeiss Jena        2-0  Preußen Münster
+    FSV Zwickau               1-0  Werder Bremen II
+    Hallescher FC             0-3  Chemnitzer FC
+    Fortuna Köln              0-3  Sportfreunde Lotte
+    SV Wehen Wiesbaden        5-0  SG Sonnenhof Großaspach
+    SpVgg Unterhaching        4-0  SV Meppen
 [So 24.9.]
     VfR Aalen  -  1. FC Magdeburg
     Karlsruher SC  -  Rot-Weiß Erfurt

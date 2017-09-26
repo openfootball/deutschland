@@ -87,16 +87,18 @@ Spieltag 6
  18.00   Bayer Leverkusen         3-0  Hamburger SV
 
 Spieltag 7
-[Sa 30.9.]
-   1. FC Köln  RB Leipzig
-   Hertha BSC  Bayern München
-   SC Freiburg  1899 Hoffenheim
-   Bor. Mönchengladbach  Hannover 96
+[Fr 29.9.]
    FC Schalke 04  Bayer Leverkusen
+[Sa 30.9.]
+   Bor. Mönchengladbach  Hannover 96
    Eintracht Frankfurt  VfB Stuttgart
    FC Augsburg  Borussia Dortmund
    Hamburger SV  Werder Bremen
    VfL Wolfsburg  1. FSV Mainz 05
+[So 1.10.]
+   1. FC Köln  RB Leipzig
+   Hertha BSC  Bayern München
+   SC Freiburg  1899 Hoffenheim
 
 Spieltag 8
 [Sa 14.10.]

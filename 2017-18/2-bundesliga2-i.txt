@@ -126,16 +126,19 @@ Spieltag 8
    1. FC Union Berlin      5-0  1. FC Kaiserslautern
 
 Spieltag 9
-[Sa 30.9.]
+[Fr 29.9.]
    FC Ingolstadt 04  SV Darmstadt 98
-   Eintracht Braunschweig  FC St. Pauli
-   1. FC Heidenheim 1846  Dynamo Dresden
-   SV Sandhausen  Jahn Regensburg
-   Fortuna Düsseldorf  MSV Duisburg
+   Holstein Kiel  VfL Bochum
+[Sa 30.9.]
    1. FC Nürnberg  Arminia Bielefeld
    1. FC Kaiserslautern  SpVgg Greuther Fürth
    Erzgebirge Aue  1. FC Union Berlin
-   Holstein Kiel  VfL Bochum
+[So 1.10.]
+   Eintracht Braunschweig  FC St. Pauli
+   1. FC Heidenheim 1846  Dynamo Dresden
+   SV Sandhausen  Jahn Regensburg
+[Mo 2.10.]
+   Fortuna Düsseldorf  MSV Duisburg
 
 Spieltag 10
 [Sa 14.10.]

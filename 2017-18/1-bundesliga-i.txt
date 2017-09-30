@@ -102,17 +102,19 @@ Spieltag 7
 
 
 Spieltag 8
-[Sa 14.10.]
-   Bayern München  SC Freiburg
-   Borussia Dortmund  RB Leipzig
-   1899 Hoffenheim  FC Augsburg
-   Hertha BSC  FC Schalke 04
-   Werder Bremen  Bor. Mönchengladbach
-   Bayer Leverkusen  VfL Wolfsburg
-   1. FSV Mainz 05  Hamburger SV
-   Hannover 96  Eintracht Frankfurt
+[Fr 13.10.]
    VfB Stuttgart  1. FC Köln
-
+[Sa 14.10.]
+ 15.30   Bayern München  SC Freiburg
+ 15.30   1899 Hoffenheim  FC Augsburg
+ 15.30    Hertha BSC  FC Schalke 04
+ 15.30   1. FSV Mainz 05  Hamburger SV
+ 15.30   Hannover 96  Eintracht Frankfurt
+ 18.30   Borussia Dortmund  RB Leipzig
+[So 15.10.] 
+ 15.30   Bayer Leverkusen  VfL Wolfsburg
+ 18.00   Werder Bremen  Bor. Mönchengladbach
+ 
 Spieltag 9
 [Sa 21.10.]
    RB Leipzig  VfB Stuttgart

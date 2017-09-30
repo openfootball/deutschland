@@ -116,16 +116,18 @@ Spieltag 8
  18.00   Werder Bremen  Bor. Mönchengladbach
  
 Spieltag 9
+[Fr 20.10.]
+ 20.30  FC Schalke 04  1. FSV Mainz 05
 [Sa 21.10.]
-   RB Leipzig  VfB Stuttgart
-   1. FC Köln  Werder Bremen
-   SC Freiburg  Hertha BSC
-   Bor. Mönchengladbach  Bayer Leverkusen
-   FC Schalke 04  1. FSV Mainz 05
-   Eintracht Frankfurt  Borussia Dortmund
-   FC Augsburg  Hannover 96
-   Hamburger SV  Bayern München
-   VfL Wolfsburg  1899 Hoffenheim
+ 15.30  RB Leipzig  VfB Stuttgart
+ 15.30  Bor. Mönchengladbach  Bayer Leverkusen
+ 15.30  Eintracht Frankfurt  Borussia Dortmund
+ 15.30  FC Augsburg  Hannover 96
+ 18.00  Hamburger SV  Bayern München
+[So 22.10.] 
+ 13.30  1. FC Köln  Werder Bremen
+ 15.30  SC Freiburg  Hertha BSC
+ 18.00  VfL Wolfsburg  1899 Hoffenheim
 
 Spieltag 10
 [Sa 28.10.]

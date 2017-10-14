@@ -141,17 +141,19 @@ Spieltag 9
    Fortuna Düsseldorf      3-1  MSV Duisburg
 
 Spieltag 10
+[Fr 13.10.]
+   FC St. Pauli            1-1  1. FC Kaiserslautern
+   MSV Duisburg            0-0  Eintracht Braunschweig
 [Sa 14.10.]
+   Dynamo Dresden          2-2  FC Ingolstadt 04
+   VfL Bochum              2-0  SV Sandhausen
+   Arminia Bielefeld       0-2  Fortuna Düsseldorf
+[So 15.10.]
    SV Darmstadt 98  1. FC Nürnberg
-   Dynamo Dresden  FC Ingolstadt 04
    1. FC Heidenheim 1846  Holstein Kiel
-   FC St. Pauli  1. FC Kaiserslautern
    SpVgg Greuther Fürth  Erzgebirge Aue
-   VfL Bochum  SV Sandhausen
-   Arminia Bielefeld  Fortuna Düsseldorf
-   MSV Duisburg  Eintracht Braunschweig
    Jahn Regensburg  1. FC Union Berlin
-
+   
 Spieltag 11
 [Sa 21.10.]
    FC Ingolstadt 04  1. FC Heidenheim 1846

@@ -105,11 +105,11 @@ Spieltag 8
 [Fr 13.10.]
  20.30   VfB Stuttgart            2:1  1. FC Köln
 [Sa 14.10.]
- 15.30   Bayern München  SC Freiburg
- 15.30   1899 Hoffenheim  FC Augsburg
- 15.30    Hertha BSC  FC Schalke 04
- 15.30   1. FSV Mainz 05  Hamburger SV
- 15.30   Hannover 96  Eintracht Frankfurt
+ 15.30   Bayern München           5:0  SC Freiburg
+ 15.30   1899 Hoffenheim          2:2  FC Augsburg
+ 15.30    Hertha BSC              0:2  FC Schalke 04
+ 15.30   1. FSV Mainz 05          3:2  Hamburger SV
+ 15.30   Hannover 96              1:2  Eintracht Frankfurt
  18.30   Borussia Dortmund  RB Leipzig
 [So 15.10.] 
  15.30   Bayer Leverkusen  VfL Wolfsburg

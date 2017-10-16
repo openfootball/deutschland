@@ -149,9 +149,9 @@ Spieltag 10
    VfL Bochum              2-0  SV Sandhausen
    Arminia Bielefeld       0-2  Fortuna Düsseldorf
 [So 15.10.]
-   1. FC Heidenheim 1846  Holstein Kiel
-   SpVgg Greuther Fürth  Erzgebirge Aue
-   Jahn Regensburg  1. FC Union Berlin
+   1. FC Heidenheim 1846   3-5  Holstein Kiel
+   SpVgg Greuther Fürth    2-1  Erzgebirge Aue
+   Jahn Regensburg         0-2  1. FC Union Berlin
 [Mo 16.10.]
    SV Darmstadt 98  1. FC Nürnberg
    
@@ -178,11 +178,11 @@ Spieltag 12
    SV Darmstadt 98  Holstein Kiel
    SpVgg Greuther Fürth  SV Sandhausen
    Jahn Regensburg  1. FC Kaiserslautern
-   [So 29.10.]
+[So 29.10.]
    Dynamo Dresden  Eintracht Braunschweig
    1. FC Heidenheim 1846  1. FC Nürnberg
    MSV Duisburg  1. FC Union Berlin
-   [Mo 30.10.]
+[Mo 30.10.]
    VfL Bochum  Fortuna Düsseldorf
    
 Spieltag 13
@@ -193,7 +193,7 @@ Spieltag 13
    Eintracht Braunschweig  SV Darmstadt 98
    1. FC Union Berlin  FC St. Pauli
    Jahn Regensburg  SpVgg Greuther Fürth
-   [So 5.11.]
+[So 5.11.]
    Erzgebirge Aue  Arminia Bielefeld
    Holstein Kiel  Dynamo Dresden
    Fortuna Düsseldorf  1. FC Heidenheim 1846

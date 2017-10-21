@@ -185,13 +185,13 @@
     SG Sonnenhof Großaspach   3-1  Chemnitzer FC
     Hansa Rostock             2-0  VfL Osnabrück
 [Sa 21.10.]
-    Werder Bremen II  -  Sportfreunde Lotte
-    Rot-Weiß Erfurt  -  Hallescher FC
-    SC Paderborn 07  -  VfR Aalen
-    1. FC Magdeburg  -  SpVgg Unterhaching
-    Preußen Münster  -  Karlsruher SC
-    Würzburger Kickers  -  SV Wehen Wiesbaden
-    SV Meppen  -  Fortuna Köln
+    Werder Bremen II          1-1  Sportfreunde Lotte
+    Rot-Weiß Erfurt           1-1  Hallescher FC
+    SC Paderborn 07           3-0  VfR Aalen
+    1. FC Magdeburg           0-3  SpVgg Unterhaching
+    Preußen Münster           1-1  Karlsruher SC
+    Würzburger Kickers        0-5  SV Wehen Wiesbaden
+    SV Meppen                 1-0  Fortuna Köln
 [So 22.10.]
     FSV Zwickau  -  FC Carl Zeiss Jena
 

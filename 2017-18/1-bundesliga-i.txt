@@ -125,9 +125,9 @@ Spieltag 9
  15.30  FC Augsburg               1:2  Hannover 96
  18.00  Hamburger SV              0:1  Bayern München
 [So 22.10.] 
- 13.30  1. FC Köln  Werder Bremen
- 15.30  SC Freiburg  Hertha BSC
- 18.00  VfL Wolfsburg  1899 Hoffenheim
+ 13.30  1. FC Köln                0-0  Werder Bremen
+ 15.30  SC Freiburg               1-1  Hertha BSC
+ 18.00  VfL Wolfsburg             1-1  1899 Hoffenheim
 
 Spieltag 10
 [Sa 28.10.]

@@ -125,37 +125,37 @@ Spieltag 9
  15.30  FC Augsburg               1:2  Hannover 96
  18.00  Hamburger SV              0:1  Bayern München
 [So 22.10.] 
- 13.30  1. FC Köln                0-0  Werder Bremen
- 15.30  SC Freiburg               1-1  Hertha BSC
- 18.00  VfL Wolfsburg             1-1  1899 Hoffenheim
+ 13.30  1. FC Köln                0:0  Werder Bremen
+ 15.30  SC Freiburg               1:1  Hertha BSC
+ 18.00  VfL Wolfsburg             1:1  1899 Hoffenheim
 
 Spieltag 10
 [Fr 27.10.]
-   1. FSV Mainz 05  Eintracht Frankfurt
+ 20.30  1. FSV Mainz 05  Eintracht Frankfurt
 [Sa 28.10.]
-   Bayern München  RB Leipzig
-   1899 Hoffenheim  Bor. Mönchengladbach
-   Hertha BSC  Hamburger SV
-   FC Schalke 04  VfL Wolfsburg
-   Bayer Leverkusen  1. FC Köln
-   Hannover 96  Borussia Dortmund
+   15.30  1899 Hoffenheim  Bor. Mönchengladbach
+   15.30  Hertha BSC  Hamburger SV
+   15.30  FC Schalke 04  VfL Wolfsburg
+   15.30  Bayer Leverkusen  1. FC Köln
+   15.30  Hannover 96  Borussia Dortmund
+   18.30  Bayern München  RB Leipzig
 [So 29.10.]
-   Werder Bremen  FC Augsburg
-   VfB Stuttgart  SC Freiburg
+   15.30  Werder Bremen  FC Augsburg
+   18.00  VfB Stuttgart  SC Freiburg
 
 Spieltag 11
 [Fr 3.11.]
-Eintracht Frankfurt  Werder Bremen
+20.30  Eintracht Frankfurt  Werder Bremen
 [Sa 4.11.]
-   Borussia Dortmund  Bayern München
-   RB Leipzig  Hannover 96
-   SC Freiburg  FC Schalke 04
-   Bor. Mönchengladbach  1. FSV Mainz 05
-   FC Augsburg  Bayer Leverkusen
-   Hamburger SV  VfB Stuttgart
+   15.30  RB Leipzig  Hannover 96
+   15.30  SC Freiburg  FC Schalke 04
+   15.30  Bor. Mönchengladbach  1. FSV Mainz 05
+   15.30  FC Augsburg  Bayer Leverkusen
+   15.30  Hamburger SV  VfB Stuttgart
+   18.30  Borussia Dortmund  Bayern München
 [So 5.11.]
-   1. FC Köln  1899 Hoffenheim
-   VfL Wolfsburg  Hertha BSC
+   15.30  1. FC Köln  1899 Hoffenheim
+   18.00  VfL Wolfsburg  Hertha BSC
 
 Spieltag 12
 [Sa 18.11.]

@@ -130,27 +130,31 @@ Spieltag 9
  18.00  VfL Wolfsburg             1-1  1899 Hoffenheim
 
 Spieltag 10
+[Fr 27.10.]
+   1. FSV Mainz 05  Eintracht Frankfurt
 [Sa 28.10.]
    Bayern München  RB Leipzig
    1899 Hoffenheim  Bor. Mönchengladbach
    Hertha BSC  Hamburger SV
-   Werder Bremen  FC Augsburg
    FC Schalke 04  VfL Wolfsburg
    Bayer Leverkusen  1. FC Köln
-   1. FSV Mainz 05  Eintracht Frankfurt
    Hannover 96  Borussia Dortmund
+[So 29.10.]
+   Werder Bremen  FC Augsburg
    VfB Stuttgart  SC Freiburg
 
 Spieltag 11
+[Fr 3.11.]
+Eintracht Frankfurt  Werder Bremen
 [Sa 4.11.]
    Borussia Dortmund  Bayern München
    RB Leipzig  Hannover 96
-   1. FC Köln  1899 Hoffenheim
    SC Freiburg  FC Schalke 04
    Bor. Mönchengladbach  1. FSV Mainz 05
-   Eintracht Frankfurt  Werder Bremen
    FC Augsburg  Bayer Leverkusen
    Hamburger SV  VfB Stuttgart
+[So 5.11.]
+   1. FC Köln  1899 Hoffenheim
    VfL Wolfsburg  Hertha BSC
 
 Spieltag 12

@@ -138,7 +138,7 @@ Spieltag 10
   15.30   FC Schalke 04           1:1  VfL Wolfsburg
   15.30   Bayer Leverkusen        2:1  1. FC Köln
   15.30   Hannover 96             4:2  Borussia Dortmund
-  18.30   Bayern München  RB Leipzig
+  18.30   Bayern München          2:0  RB Leipzig
 [So 29.10.]
   15.30   Werder Bremen  FC Augsburg
   18.00   VfB Stuttgart  SC Freiburg

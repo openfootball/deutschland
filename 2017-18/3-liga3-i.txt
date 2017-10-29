@@ -201,12 +201,12 @@
     SpVgg Unterhaching        0-3  Hansa Rostock
 
 [Sa 28.10.]
-    VfL Osnabrück  -  FSV Zwickau
-    FC Carl Zeiss Jena  -  SC Paderborn 07
-    VfR Aalen  -  Werder Bremen II
-    Sportfreunde Lotte  -  SG Sonnenhof Großaspach
-    Hallescher FC  -  SV Meppen
-    Fortuna Köln  -  Würzburger Kickers
+    VfL Osnabrück             4-0  FSV Zwickau
+    FC Carl Zeiss Jena        3-1  SC Paderborn 07
+    VfR Aalen                 1-0  Werder Bremen II
+    Sportfreunde Lotte        0-2  SG Sonnenhof Großaspach
+    Hallescher FC             2-0  SV Meppen
+    Fortuna Köln              2-1  Würzburger Kickers
 [So 29.10.]
     SV Wehen Wiesbaden  -  Preußen Münster
     Karlsruher SC  -  1. FC Magdeburg

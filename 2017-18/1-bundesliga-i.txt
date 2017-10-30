@@ -83,68 +83,79 @@ Spieltag 6
  15.30   VfB Stuttgart            0:0  FC Augsburg
  18.30   Borussia Dortmund        6:1  Bor. Mönchengladbach
 [So 24.9.]
- 15.30   Hannover 96  1. FC Köln
- 18.00   Bayer Leverkusen  Hamburger SV
+ 15.30   Hannover 96              0:0  1. FC Köln
+ 18.00   Bayer Leverkusen         3:0  Hamburger SV
 
 Spieltag 7
+[Fr 29.9.]
+ 20.30   FC Schalke 04            1:1  Bayer Leverkusen
 [Sa 30.9.]
-   1. FC Köln  RB Leipzig
-   Hertha BSC  Bayern München
-   SC Freiburg  1899 Hoffenheim
-   Bor. Mönchengladbach  Hannover 96
-   FC Schalke 04  Bayer Leverkusen
-   Eintracht Frankfurt  VfB Stuttgart
-   FC Augsburg  Borussia Dortmund
-   Hamburger SV  Werder Bremen
-   VfL Wolfsburg  1. FSV Mainz 05
+ 15.30   Bor. Mönchengladbach     2:1  Hannover 96
+ 15.30   Eintracht Frankfurt      2:1  VfB Stuttgart
+ 15.30   FC Augsburg              1:2  Borussia Dortmund
+ 15.30   VfL Wolfsburg            1:1  1. FSV Mainz 05
+ 18.30   Hamburger SV             0:0  Werder Bremen
+[So 1.10.]
+ 13.30   SC Freiburg              3:2  1899 Hoffenheim
+ 15.30   Hertha BSC               2:2  Bayern München
+ 18.00   1. FC Köln               1:2  RB Leipzig
+
 
 Spieltag 8
+[Fr 13.10.]
+ 20.30   VfB Stuttgart            2:1  1. FC Köln
 [Sa 14.10.]
-   Bayern München  SC Freiburg
-   Borussia Dortmund  RB Leipzig
-   1899 Hoffenheim  FC Augsburg
-   Hertha BSC  FC Schalke 04
-   Werder Bremen  Bor. Mönchengladbach
-   Bayer Leverkusen  VfL Wolfsburg
-   1. FSV Mainz 05  Hamburger SV
-   Hannover 96  Eintracht Frankfurt
-   VfB Stuttgart  1. FC Köln
-
+ 15.30   Bayern München           5:0  SC Freiburg
+ 15.30   1899 Hoffenheim          2:2  FC Augsburg
+ 15.30    Hertha BSC              0:2  FC Schalke 04
+ 15.30   1. FSV Mainz 05          3:2  Hamburger SV
+ 15.30   Hannover 96              1:2  Eintracht Frankfurt
+ 18.30   Borussia Dortmund        2:3  RB Leipzig
+[So 15.10.] 
+ 15.30   Bayer Leverkusen         2:2  VfL Wolfsburg
+ 18.00   Werder Bremen            0:2  Bor. Mönchengladbach
+ 
 Spieltag 9
+[Fr 20.10.]
+ 20.30   FC Schalke 04            2:0  1. FSV Mainz 05
 [Sa 21.10.]
-   RB Leipzig  VfB Stuttgart
-   1. FC Köln  Werder Bremen
-   SC Freiburg  Hertha BSC
-   Bor. Mönchengladbach  Bayer Leverkusen
-   FC Schalke 04  1. FSV Mainz 05
-   Eintracht Frankfurt  Borussia Dortmund
-   FC Augsburg  Hannover 96
-   Hamburger SV  Bayern München
-   VfL Wolfsburg  1899 Hoffenheim
+ 15.30   RB Leipzig               1:0  VfB Stuttgart
+ 15.30   Bor. Mönchengladbach     1:5  Bayer Leverkusen
+ 15.30   Eintracht Frankfurt      2:2  Borussia Dortmund
+ 15.30   FC Augsburg              1:2  Hannover 96
+ 18.00   Hamburger SV             0:1  Bayern München
+[So 22.10.] 
+ 13.30   1. FC Köln               0:0  Werder Bremen
+ 15.30   SC Freiburg              1:1  Hertha BSC
+ 18.00   VfL Wolfsburg            1:1  1899 Hoffenheim
 
 Spieltag 10
+[Fr 27.10.]
+ 20.30   1. FSV Mainz 05          1:1  Eintracht Frankfurt
 [Sa 28.10.]
-   Bayern München  RB Leipzig
-   1899 Hoffenheim  Bor. Mönchengladbach
-   Hertha BSC  Hamburger SV
-   Werder Bremen  FC Augsburg
-   FC Schalke 04  VfL Wolfsburg
-   Bayer Leverkusen  1. FC Köln
-   1. FSV Mainz 05  Eintracht Frankfurt
-   Hannover 96  Borussia Dortmund
-   VfB Stuttgart  SC Freiburg
+  15.30   1899 Hoffenheim         1:3  Bor. Mönchengladbach
+  15.30   Hertha BSC              2:1  Hamburger SV
+  15.30   FC Schalke 04           1:1  VfL Wolfsburg
+  15.30   Bayer Leverkusen        2:1  1. FC Köln
+  15.30   Hannover 96             4:2  Borussia Dortmund
+  18.30   Bayern München          2:0  RB Leipzig
+[So 29.10.]
+  15.30   Werder Bremen           0:3  FC Augsburg
+  18.00   VfB Stuttgart           3:0  SC Freiburg
 
 Spieltag 11
+[Fr 3.11.]
+20.30   Eintracht Frankfurt  Werder Bremen
 [Sa 4.11.]
-   Borussia Dortmund  Bayern München
-   RB Leipzig  Hannover 96
-   1. FC Köln  1899 Hoffenheim
-   SC Freiburg  FC Schalke 04
-   Bor. Mönchengladbach  1. FSV Mainz 05
-   Eintracht Frankfurt  Werder Bremen
-   FC Augsburg  Bayer Leverkusen
-   Hamburger SV  VfB Stuttgart
-   VfL Wolfsburg  Hertha BSC
+15.30   RB Leipzig  Hannover 96
+15.30   SC Freiburg  FC Schalke 04
+15.30   Bor. Mönchengladbach  1. FSV Mainz 05
+15.30   FC Augsburg  Bayer Leverkusen
+15.30   Hamburger SV  VfB Stuttgart
+18.30   Borussia Dortmund  Bayern München
+[So 5.11.]
+ 15.30   1. FC Köln  1899 Hoffenheim
+ 18.00   VfL Wolfsburg  Hertha BSC
 
 Spieltag 12
 [Sa 18.11.]

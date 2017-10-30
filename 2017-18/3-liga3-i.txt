@@ -140,81 +140,92 @@
 [Fr 22.9.]
     SC Paderborn 07           2-1  Hansa Rostock
 [Sa 23.9.]
-    VfL Osnabrück  -  Würzburger Kickers
-    FC Carl Zeiss Jena  -  Preußen Münster
-    FSV Zwickau  -  Werder Bremen II
-    Hallescher FC  -  Chemnitzer FC
-    Fortuna Köln  -  Sportfreunde Lotte
-    SV Wehen Wiesbaden  -  SG Sonnenhof Großaspach
-    SpVgg Unterhaching  -  SV Meppen
+    VfL Osnabrück             1-1  Würzburger Kickers
+    FC Carl Zeiss Jena        2-0  Preußen Münster
+    FSV Zwickau               1-0  Werder Bremen II
+    Hallescher FC             0-3  Chemnitzer FC
+    Fortuna Köln              0-3  Sportfreunde Lotte
+    SV Wehen Wiesbaden        5-0  SG Sonnenhof Großaspach
+    SpVgg Unterhaching        4-0  SV Meppen
 [So 24.9.]
-    VfR Aalen  -  1. FC Magdeburg
-    Karlsruher SC  -  Rot-Weiß Erfurt
+    VfR Aalen                 0-1  1. FC Magdeburg
+    Karlsruher SC             2-0  Rot-Weiß Erfurt
 
 11. Spieltag
+[Fr 29.9.]
+    Sportfreunde Lotte        3-1  Hallescher FC
 [Sa 30.9.]
-Werder Bremen II  -  Chemnitzer FC
-Rot-Weiß Erfurt  -  SV Wehen Wiesbaden
-SG Sonnenhof Großaspach  -  Fortuna Köln
-Sportfreunde Lotte  -  Hallescher FC
-FSV Zwickau  -  SC Paderborn 07
-Hansa Rostock  -  VfR Aalen
-1. FC Magdeburg  -  FC Carl Zeiss Jena
-Preußen Münster  -  VfL Osnabrück
-Würzburger Kickers  -  SpVgg Unterhaching
-SV Meppen  -  Karlsruher SC
+    Werder Bremen II          1-1  Chemnitzer FC
+    Rot-Weiß Erfurt           1-3  SV Wehen Wiesbaden
+    SG Sonnenhof Großaspach   1-3  Fortuna Köln
+    Hansa Rostock             1-0  VfR Aalen
+    Preußen Münster           4-1  VfL Osnabrück
+    Würzburger Kickers        0-2  SpVgg Unterhaching
+[So 1.10.]
+    FSV Zwickau               1-3  SC Paderborn 07
+    1. FC Magdeburg           2-0  FC Carl Zeiss Jena
+    SV Meppen                 2-0  Karlsruher SC
 
 12. Spieltag
+[Fr 13.10.]
+    Hallescher FC             3-0  SG Sonnenhof Großaspach
+    Fortuna Köln              2-0  Rot-Weiß Erfurt
+    VfL Osnabrück             0-2  1. FC Magdeburg
 [Sa 14.10.]
-VfL Osnabrück  -  1. FC Magdeburg
-FC Carl Zeiss Jena  -  Hansa Rostock
-VfR Aalen  -  FSV Zwickau
-SC Paderborn 07  -  Werder Bremen II
-Chemnitzer FC  -  Sportfreunde Lotte
-Hallescher FC  -  SG Sonnenhof Großaspach
-Fortuna Köln  -  Rot-Weiß Erfurt
-SV Wehen Wiesbaden  -  SV Meppen
-Karlsruher SC  -  Würzburger Kickers
-SpVgg Unterhaching  -  Preußen Münster
+    FC Carl Zeiss Jena        1-0  Hansa Rostock
+    VfR Aalen                 2-2  FSV Zwickau
+    SC Paderborn 07           7-1  Werder Bremen II
+    Chemnitzer FC             3-1  Sportfreunde Lotte
+    SV Wehen Wiesbaden        0-1  SV Meppen
+    Karlsruher SC             2-0  Würzburger Kickers
+    SpVgg Unterhaching        1-0  Preußen Münster
 
 13. Spieltag
+[Fr 20.10.]
+    SG Sonnenhof Großaspach   3-1  Chemnitzer FC
+    Hansa Rostock             2-0  VfL Osnabrück
 [Sa 21.10.]
-Werder Bremen II  -  Sportfreunde Lotte
-Rot-Weiß Erfurt  -  Hallescher FC
-SG Sonnenhof Großaspach  -  Chemnitzer FC
-SC Paderborn 07  -  VfR Aalen
-FSV Zwickau  -  FC Carl Zeiss Jena
-Hansa Rostock  -  VfL Osnabrück
-1. FC Magdeburg  -  SpVgg Unterhaching
-Preußen Münster  -  Karlsruher SC
-Würzburger Kickers  -  SV Wehen Wiesbaden
-SV Meppen  -  Fortuna Köln
+    Werder Bremen II          1-1  Sportfreunde Lotte
+    Rot-Weiß Erfurt           1-1  Hallescher FC
+    SC Paderborn 07           3-0  VfR Aalen
+    1. FC Magdeburg           0-3  SpVgg Unterhaching
+    Preußen Münster           1-1  Karlsruher SC
+    Würzburger Kickers        0-5  SV Wehen Wiesbaden
+    SV Meppen                 1-0  Fortuna Köln
+[So 22.10.]
+    FSV Zwickau               2-1  FC Carl Zeiss Jena
 
 14. Spieltag
+[Fr 27.10.]
+    Chemnitzer FC             1-0  Rot-Weiß Erfurt
+    SpVgg Unterhaching        0-3  Hansa Rostock
+
 [Sa 28.10.]
-VfL Osnabrück  -  FSV Zwickau
-FC Carl Zeiss Jena  -  SC Paderborn 07
-VfR Aalen  -  Werder Bremen II
-Sportfreunde Lotte  -  SG Sonnenhof Großaspach
-Chemnitzer FC  -  Rot-Weiß Erfurt
-Hallescher FC  -  SV Meppen
-Fortuna Köln  -  Würzburger Kickers
-SV Wehen Wiesbaden  -  Preußen Münster
-Karlsruher SC  -  1. FC Magdeburg
-SpVgg Unterhaching  -  Hansa Rostock
+    VfL Osnabrück             4-0  FSV Zwickau
+    FC Carl Zeiss Jena        3-1  SC Paderborn 07
+    VfR Aalen                 1-0  Werder Bremen II
+    Sportfreunde Lotte        0-2  SG Sonnenhof Großaspach
+    Hallescher FC             2-0  SV Meppen
+    Fortuna Köln              2-1  Würzburger Kickers
+[So 29.10.]
+    SV Wehen Wiesbaden        6-2  Preußen Münster
+    Karlsruher SC             1-0  1. FC Magdeburg
+
 
 15. Spieltag
+[Fr 3.11.]
+    Werder Bremen II  -  SG Sonnenhof Großaspach
+    Preußen Münster  -  Fortuna Köln
 [Sa 4.11.]
-Werder Bremen II  -  SG Sonnenhof Großaspach
-Rot-Weiß Erfurt  -  Sportfreunde Lotte
-VfR Aalen  -  FC Carl Zeiss Jena
-SC Paderborn 07  -  VfL Osnabrück
-FSV Zwickau  -  SpVgg Unterhaching
-Hansa Rostock  -  Karlsruher SC
-1. FC Magdeburg  -  SV Wehen Wiesbaden
-Preußen Münster  -  Fortuna Köln
-Würzburger Kickers  -  Hallescher FC
-SV Meppen  -  Chemnitzer FC
+    VfR Aalen  -  FC Carl Zeiss Jena
+    SC Paderborn 07  -  VfL Osnabrück
+    FSV Zwickau  -  SpVgg Unterhaching
+    1. FC Magdeburg  -  SV Wehen Wiesbaden
+    Würzburger Kickers  -  Hallescher FC
+    SV Meppen  -  Chemnitzer FC
+[So 5.11.]
+    Rot-Weiß Erfurt  -  Sportfreunde Lotte
+    Hansa Rostock  -  Karlsruher SC
 
 16. Spieltag
 [Sa 18.11.]

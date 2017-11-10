@@ -186,49 +186,60 @@ Spieltag 13
    Hamburger SV  1899 Hoffenheim
    
 Spieltag 14
+[Fr 1.12.]
+   SC Freiburg  Hamburger SV
 [Sa 2.12.]
    Bayern München  Hannover 96
    1899 Hoffenheim  RB Leipzig
-   Hertha BSC  Eintracht Frankfurt
-   SC Freiburg  Hamburger SV
    Werder Bremen  VfB Stuttgart
    FC Schalke 04  1. FC Köln
    Bayer Leverkusen  Borussia Dortmund
    1. FSV Mainz 05  FC Augsburg
+[So 3.12.]
+   Hertha BSC  Eintracht Frankfurt
    VfL Wolfsburg  Bor. Mönchengladbach
 
 Spieltag 15
+[Fr 8.12.]
+   VfB Stuttgart  Bayer Leverkusen
 [Sa 9.12.]
    Borussia Dortmund  Werder Bremen
    RB Leipzig  1. FSV Mainz 05
-   1. FC Köln  SC Freiburg
    Bor. Mönchengladbach  FC Schalke 04
    Eintracht Frankfurt  Bayern München
-   FC Augsburg  Hertha BSC
    Hamburger SV  VfL Wolfsburg
+[So 10.12.]
+   1. FC Köln  SC Freiburg
+   FC Augsburg  Hertha BSC
    Hannover 96  1899 Hoffenheim
-   VfB Stuttgart  Bayer Leverkusen
 
 Spieltag 16
+[Di 12.12.]
+   Hamburger SV  Eintracht Frankfurt
+   1. FSV Mainz 05  Borussia Dortmund
+   VfL Wolfsburg  RB Leipzig
+   SC Freiburg  Bor. Mönchengladbach
 [Mi 13.12.]
    Bayern München  1. FC Köln
    1899 Hoffenheim  VfB Stuttgart
    Hertha BSC  Hannover 96
-   SC Freiburg  Bor. Mönchengladbach
    FC Schalke 04  FC Augsburg
    Bayer Leverkusen  Werder Bremen
-   Hamburger SV  Eintracht Frankfurt
-   1. FSV Mainz 05  Borussia Dortmund
-   VfL Wolfsburg  RB Leipzig
+   
 
 Spieltag 17
+[Fr 15.12.]
+   Bor. Mönchengladbach  Hamburger SV
 [Sa 16.12.]
    Borussia Dortmund  1899 Hoffenheim
    RB Leipzig  Hertha BSC
    1. FC Köln  VfL Wolfsburg
    Werder Bremen  1. FSV Mainz 05
-   Bor. Mönchengladbach  Hamburger SV
    Eintracht Frankfurt  FC Schalke 04
    FC Augsburg  SC Freiburg
-   Hannover 96  Bayer Leverkusen
    VfB Stuttgart  Bayern München
+[So 17.12.]
+   Hannover 96  Bayer Leverkusen
+   
+   Winterpause bis 12.1.18
+   

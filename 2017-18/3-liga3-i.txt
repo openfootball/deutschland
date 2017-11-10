@@ -228,30 +228,35 @@
     Hansa Rostock             0-3  Karlsruher SC
 
 16. Spieltag
+[Fr 17.11.]
+    VfL Osnabrück  -  VfR Aalen
+    Hallescher FC  -  Preußen Münster
+    SV Wehen Wiesbaden  -  Hansa Rostock
 [Sa 18.11.]
-VfL Osnabrück  -  VfR Aalen
-FC Carl Zeiss Jena  -  Werder Bremen II
-SG Sonnenhof Großaspach  -  Rot-Weiß Erfurt
-Sportfreunde Lotte  -  SV Meppen
-Chemnitzer FC  -  Würzburger Kickers
-Hallescher FC  -  Preußen Münster
-Fortuna Köln  -  1. FC Magdeburg
-SV Wehen Wiesbaden  -  Hansa Rostock
-Karlsruher SC  -  FSV Zwickau
-SpVgg Unterhaching  -  SC Paderborn 07
+    FC Carl Zeiss Jena  -  Werder Bremen II
+    SG Sonnenhof Großaspach  -  Rot-Weiß Erfurt
+    Sportfreunde Lotte  -  SV Meppen
+    Chemnitzer FC  -  Würzburger Kickers
+    Fortuna Köln  -  1. FC Magdeburg
+    Karlsruher SC  -  FSV Zwickau
+    Hallescher FC  -  Preußen Münster
+    SpVgg Unterhaching  -  SC Paderborn 07
 
 17. Spieltag
+[Fr 24.11.]
+    SV Wehen Wiesbaden  -  Hansa Rostock
+    Preußen Münster  -  Chemnitzer FC
+    SV Meppen  -  SG Sonnenhof Großaspach
 [Sa 25.11.]
-Werder Bremen II  -  Rot-Weiß Erfurt
-FC Carl Zeiss Jena  -  VfL Osnabrück
-VfR Aalen  -  SpVgg Unterhaching
-SC Paderborn 07  -  Karlsruher SC
-FSV Zwickau  -  SV Wehen Wiesbaden
-Hansa Rostock  -  Fortuna Köln
-1. FC Magdeburg  -  Hallescher FC
-Preußen Münster  -  Chemnitzer FC
-Würzburger Kickers  -  Sportfreunde Lotte
-SV Meppen  -  SG Sonnenhof Großaspach
+    Werder Bremen II  -  Rot-Weiß Erfurt
+    FC Carl Zeiss Jena  -  VfL Osnabrück
+    VfR Aalen  -  SpVgg Unterhaching
+    SC Paderborn 07  -  Karlsruher SC
+    FSV Zwickau  -  SV Wehen Wiesbaden
+    Hansa Rostock  -  Fortuna Köln
+    1. FC Magdeburg  -  Hallescher FC
+    Würzburger Kickers  -  Sportfreunde Lotte
+
 
 18. Spieltag
 [Sa 2.12.]

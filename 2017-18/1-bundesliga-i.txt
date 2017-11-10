@@ -145,42 +145,46 @@ Spieltag 10
 
 Spieltag 11
 [Fr 3.11.]
-  20.30   Eintracht Frankfurt    2:1  Werder Bremen
+  20.30   Eintracht Frankfurt     2:1  Werder Bremen
 [Sa 4.11.]
-  15.30   RB Leipzig             2:1  Hannover 96
-  15.30   SC Freiburg            0:1  FC Schalke 04
-  15.30   Bor. Mönchengladbach   1:1  1. FSV Mainz 05
-  15.30   FC Augsburg            1:1  Bayer Leverkusen
-  15.30   Hamburger SV           3:1  VfB Stuttgart
-  18.30   Borussia Dortmund      1:3  Bayern München
+  15.30   RB Leipzig              2:1  Hannover 96
+  15.30   SC Freiburg             0:1  FC Schalke 04
+  15.30   Bor. Mönchengladbach    1:1  1. FSV Mainz 05
+  15.30   FC Augsburg             1:1  Bayer Leverkusen
+  15.30   Hamburger SV            3:1  VfB Stuttgart
+  18.30   Borussia Dortmund       1:3  Bayern München
 [So 5.11.]
- 15.30   1. FC Köln              0:3  1899 Hoffenheim
- 18.00   VfL Wolfsburg           3:3  Hertha BSC
+ 15.30   1. FC Köln               0:3  1899 Hoffenheim
+ 18.00   VfL Wolfsburg            3:3  Hertha BSC
 
 Spieltag 12
+[Fr 17.11.]
+   VfB Stuttgart  Borussia Dortmund
 [Sa 18.11.]
    Bayern München  FC Augsburg
    1899 Hoffenheim  Eintracht Frankfurt
    Hertha BSC  Bor. Mönchengladbach
-   Werder Bremen  Hannover 96
-   FC Schalke 04  Hamburger SV
    Bayer Leverkusen  RB Leipzig
    1. FSV Mainz 05  1. FC Köln
    VfL Wolfsburg  SC Freiburg
-   VfB Stuttgart  Borussia Dortmund
-
+[So 19.11.] 
+   FC Schalke 04  Hamburger SV
+   Werder Bremen  Hannover 96
+   
 Spieltag 13
+[Fr 24.11.]
+   Hannover 96  VfB Stuttgart
 [Sa 25.11.]
    Borussia Dortmund  FC Schalke 04
    RB Leipzig  Werder Bremen
-   1. FC Köln  Hertha BSC
    SC Freiburg  1. FSV Mainz 05
    Bor. Mönchengladbach  Bayern München
    Eintracht Frankfurt  Bayer Leverkusen
    FC Augsburg  VfL Wolfsburg
+[So 26.11.]
+   1. FC Köln  Hertha BSC
    Hamburger SV  1899 Hoffenheim
-   Hannover 96  VfB Stuttgart
-
+   
 Spieltag 14
 [Sa 2.12.]
    Bayern München  Hannover 96

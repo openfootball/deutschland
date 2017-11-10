@@ -232,7 +232,6 @@ Spieltag 17
    Bor. Mönchengladbach  Hamburger SV
 [Sa 16.12.]
    Borussia Dortmund  1899 Hoffenheim
-   RB Leipzig  Hertha BSC
    1. FC Köln  VfL Wolfsburg
    Werder Bremen  1. FSV Mainz 05
    Eintracht Frankfurt  FC Schalke 04
@@ -240,6 +239,7 @@ Spieltag 17
    VfB Stuttgart  Bayern München
 [So 17.12.]
    Hannover 96  Bayer Leverkusen
+   RB Leipzig  Hertha BSC
    
-   Winterpause bis 12.1.18
+Winterpause bis 12.1.18
    

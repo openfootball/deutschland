@@ -257,42 +257,48 @@
     1. FC Magdeburg  -  Hallescher FC
     Würzburger Kickers  -  Sportfreunde Lotte
 
-
 18. Spieltag
+[Fr 1.12.]
+    Hallescher FC  -  Hansa Rostock
 [Sa 2.12.]
-Werder Bremen II  -  VfL Osnabrück
-Rot-Weiß Erfurt  -  SV Meppen
-SG Sonnenhof Großaspach  -  Würzburger Kickers
-Sportfreunde Lotte  -  Preußen Münster
-Chemnitzer FC  -  1. FC Magdeburg
-Hallescher FC  -  Hansa Rostock
-Fortuna Köln  -  FSV Zwickau
-SV Wehen Wiesbaden  -  SC Paderborn 07
-Karlsruher SC  -  VfR Aalen
-SpVgg Unterhaching  -  FC Carl Zeiss Jena
+    Rot-Weiß Erfurt  -  SV Meppen
+    Sportfreunde Lotte  -  Preußen Münster
+    Chemnitzer FC  -  1. FC Magdeburg
+    Fortuna Köln  -  FSV Zwickau
+    SV Wehen Wiesbaden  -  SC Paderborn 07
+    Karlsruher SC  -  VfR Aalen
+[So 3.12.]
+    Werder Bremen II  -  VfL Osnabrück
+    SG Sonnenhof Großaspach  -  Würzburger Kickers
+    SpVgg Unterhaching  -  FC Carl Zeiss Jena
 
 19. Spieltag
+[Fr.8.12.]
+    Würzburger Kickers  -  Rot-Weiß Erfurt
+    1. FC Magdeburg  -  Sportfreunde Lotte
 [Sa 9.12.]
-VfL Osnabrück  -  SpVgg Unterhaching
-FC Carl Zeiss Jena  -  Karlsruher SC
-VfR Aalen  -  SV Wehen Wiesbaden
-SC Paderborn 07  -  Fortuna Köln
-FSV Zwickau  -  Hallescher FC
-Hansa Rostock  -  Chemnitzer FC
-1. FC Magdeburg  -  Sportfreunde Lotte
-Preußen Münster  -  SG Sonnenhof Großaspach
-Würzburger Kickers  -  Rot-Weiß Erfurt
-SV Meppen  -  Werder Bremen II
-
+    VfL Osnabrück  -  SpVgg Unterhaching
+    FC Carl Zeiss Jena  -  Karlsruher SC
+    VfR Aalen  -  SV Wehen Wiesbaden
+    SC Paderborn 07  -  Fortuna Köln
+    Preußen Münster  -  SG Sonnenhof Großaspach
+    SV Meppen  -  Werder Bremen II
+[So 10.12.]
+    FSV Zwickau  -  Hallescher FC
+    Hansa Rostock  -  Chemnitzer FC
+    
 20. Spieltag
+[Fr 15.12.]
+    VfL Osnabrück  -  Karlsruher SC
+    SC Paderborn 07  -  Hallescher FC
+    1. FC Magdeburg  -  SG Sonnenhof Großaspach
 [Sa 16.12.]
-VfL Osnabrück  -  Karlsruher SC
-SpVgg Unterhaching  -  Werder Bremen II
-Preußen Münster  -  Rot-Weiß Erfurt
-1. FC Magdeburg  -  SG Sonnenhof Großaspach
-Hansa Rostock  -  Sportfreunde Lotte
-FSV Zwickau  -  Chemnitzer FC
-SC Paderborn 07  -  Hallescher FC
-VfR Aalen  -  Fortuna Köln
-FC Carl Zeiss Jena  -  SV Wehen Wiesbaden
-Würzburger Kickers  -  SV Meppen
+    SpVgg Unterhaching  -  Werder Bremen II
+    Preußen Münster  -  Rot-Weiß Erfurt
+    Hansa Rostock  -  Sportfreunde Lotte
+    FSV Zwickau  -  Chemnitzer FC
+    VfR Aalen  -  Fortuna Köln
+    FC Carl Zeiss Jena  -  SV Wehen Wiesbaden
+    Würzburger Kickers  -  SV Meppen
+
+Winterpause bis 20.1.18

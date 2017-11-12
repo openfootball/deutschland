@@ -246,25 +246,33 @@ Spieltag 16
    FC Ingolstadt 04  Eintracht Braunschweig
 
 Spieltag 17
-[Sa 9.12.]
+[Fr 8.12.]
    Eintracht Braunschweig  Holstein Kiel
-   1. FC Union Berlin  Dynamo Dresden
-   FC St. Pauli  MSV Duisburg
-   SpVgg Greuther Fürth  1. FC Heidenheim 1846
-   SV Sandhausen  Arminia Bielefeld
-   Fortuna Düsseldorf  1. FC Nürnberg
-   1. FC Kaiserslautern  FC Ingolstadt 04
    Erzgebirge Aue  SV Darmstadt 98
+[Sa 9.12.]
+   1. FC Union Berlin  Dynamo Dresden
+   SpVgg Greuther Fürth  1. FC Heidenheim 1846
    Jahn Regensburg  VfL Bochum
-
+[So 10.12.]
+   FC St. Pauli  MSV Duisburg
+   SV Sandhausen  Arminia Bielefeld
+   1. FC Kaiserslautern  FC Ingolstadt 04
+[Mo 11.12.]
+   Fortuna Düsseldorf  1. FC Nürnberg
+ 
 Spieltag 18
-[Sa 16.12.]
-   FC St. Pauli  VfL Bochum
+[Fr 15.12.]
    1. FC Union Berlin  FC Ingolstadt 04
-   SpVgg Greuther Fürth  SV Darmstadt 98
-   MSV Duisburg  Dynamo Dresden
-   Erzgebirge Aue  1. FC Heidenheim 1846
    Eintracht Braunschweig  Fortuna Düsseldorf
+[Sa 16.12.]
+   Erzgebirge Aue  1. FC Heidenheim 1846
    1. FC Kaiserslautern  1. FC Nürnberg
    Jahn Regensburg  Arminia Bielefeld
+[So 17.12.]
+   SpVgg Greuther Fürth  SV Darmstadt 98
+   MSV Duisburg  Dynamo Dresden
    SV Sandhausen  Holstein Kiel
+[Mo 18.12.]
+   FC St. Pauli  VfL Bochum
+
+Winterpause bis 23.1.18

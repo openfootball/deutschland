@@ -233,14 +233,13 @@
     Hallescher FC             3-0  Preußen Münster
     SV Wehen Wiesbaden        0-1  Hansa Rostock
 [Sa 18.11.]
-    FC Carl Zeiss Jena  -  Werder Bremen II
-    SG Sonnenhof Großaspach  -  Rot-Weiß Erfurt
-    Sportfreunde Lotte  -  SV Meppen
-    Chemnitzer FC  -  Würzburger Kickers
-    Fortuna Köln  -  1. FC Magdeburg
-    Karlsruher SC  -  FSV Zwickau
-    Hallescher FC  -  Preußen Münster
-    SpVgg Unterhaching  -  SC Paderborn 07
+    FC Carl Zeiss Jena        2-1  Werder Bremen II
+    SG Sonnenhof Großaspach   1-0  Rot-Weiß Erfurt
+    Sportfreunde Lotte        2-2  SV Meppen
+    Chemnitzer FC             0-3  Würzburger Kickers
+    Fortuna Köln              1-2  1. FC Magdeburg
+    Karlsruher SC             1-0  FSV Zwickau
+    SpVgg Unterhaching        0-3  SC Paderborn 07
 
 17. Spieltag
 [Fr 24.11.]

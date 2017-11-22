@@ -183,79 +183,96 @@ Spieltag 12
    1. FC Heidenheim 1846   1-0  1. FC Nürnberg
    MSV Duisburg            1-1  1. FC Union Berlin
 [Mo 30.10.]
-   VfL Bochum  Fortuna Düsseldorf
+   VfL Bochum              0-0  Fortuna Düsseldorf
    
 Spieltag 13
 [Fr 3.11.]
-   SV Sandhausen  MSV Duisburg
-   1. FC Kaiserslautern  VfL Bochum
+   SV Sandhausen           0-1  MSV Duisburg
+   1. FC Kaiserslautern    0-0  VfL Bochum
 [Sa 4.11.]
-   Eintracht Braunschweig  SV Darmstadt 98
-   1. FC Union Berlin  FC St. Pauli
-   Jahn Regensburg  SpVgg Greuther Fürth
+   Eintracht Braunschweig  2-2  SV Darmstadt 98
+   1. FC Union Berlin      1-0  FC St. Pauli
+   Jahn Regensburg         3-2  SpVgg Greuther Fürth
 [So 5.11.]
-   Erzgebirge Aue  Arminia Bielefeld
-   Holstein Kiel  Dynamo Dresden
-   Fortuna Düsseldorf  1. FC Heidenheim 1846
+   Erzgebirge Aue          1-1  Arminia Bielefeld
+   Holstein Kiel           3-0  Dynamo Dresden
+   Fortuna Düsseldorf      2-2  1. FC Heidenheim 1846
 [Mo 6.11.]
-   1. FC Nürnberg  FC Ingolstadt 04
+   1. FC Nürnberg          1-2  FC Ingolstadt 04
    
 Spieltag 14
+[Fr 17.11.]
+   SV Arminia Bielefeld    2-2  Eintracht Braunschweig
+   Darmstadt 98            1-2  SV Sandhausen
 [Sa 18.11.]
-   FC Ingolstadt 04  Fortuna Düsseldorf
-   SV Darmstadt 98  SV Sandhausen
-   Dynamo Dresden  1. FC Kaiserslautern
-   1. FC Heidenheim 1846  1. FC Union Berlin
-   FC St. Pauli  Jahn Regensburg
-   VfL Bochum  SpVgg Greuther Fürth
-   1. FC Nürnberg  Holstein Kiel
-   Arminia Bielefeld  Eintracht Braunschweig
-   MSV Duisburg  Erzgebirge Aue
+   VfL Bochum              1-1  SpVgg Greuther Fürth
+   1. FC Nürnberg          2-2  Holstein Kiel
+   1. FC Heidenheim 1846   4-3  1. FC Union Berlin
+[So 19.11.]
+   FC Ingolstadt 04        1-0  Fortuna Düsseldorf
+   FC St. Pauli            2-2  Jahn Regensburg
+   MSV Duisburg            3-0  Erzgebirge Aue
+[Mo 20.11.]
+   Dynamo Dresden          1-2  1. FC Kaiserslautern
 
 Spieltag 15
-[Sa 25.11.]
-   Eintracht Braunschweig  1. FC Nürnberg
+[Fr 24.11.]
    1. FC Union Berlin  SV Darmstadt 98
-   SpVgg Greuther Fürth  FC St. Pauli
    SV Sandhausen  1. FC Heidenheim 1846
-   Fortuna Düsseldorf  Dynamo Dresden
-   1. FC Kaiserslautern  Arminia Bielefeld
-   Erzgebirge Aue  VfL Bochum
+[Sa 25.11.]
    Holstein Kiel  FC Ingolstadt 04
    Jahn Regensburg  MSV Duisburg
-
+   Eintracht Braunschweig  1. FC Nürnberg
+[So 26.11.]
+   SpVgg Greuther Fürth  FC St. Pauli
+   1. FC Kaiserslautern  Arminia Bielefeld
+   Erzgebirge Aue  VfL Bochum
+[Mo 27.11.]
+   Fortuna Düsseldorf  Dynamo Dresden
+   
 Spieltag 16
-[Sa 2.12.]
-   FC Ingolstadt 04  Eintracht Braunschweig
-   SV Darmstadt 98  Jahn Regensburg
-   Dynamo Dresden  Erzgebirge Aue
+[Fr 1.12.]
    1. FC Heidenheim 1846  1. FC Kaiserslautern
-   VfL Bochum  1. FC Union Berlin
-   1. FC Nürnberg  SV Sandhausen
    Arminia Bielefeld  FC St. Pauli
+[Sa 2.12.]
+   1. FC Nürnberg  SV Sandhausen
    MSV Duisburg  SpVgg Greuther Fürth
    Holstein Kiel  Fortuna Düsseldorf
+[So 3.12.]
+   SV Darmstadt 98  Jahn Regensburg
+   Dynamo Dresden  Erzgebirge Aue
+   VfL Bochum  1. FC Union Berlin
+[Mo 4.12.]
+   FC Ingolstadt 04  Eintracht Braunschweig
 
 Spieltag 17
-[Sa 9.12.]
+[Fr 8.12.]
    Eintracht Braunschweig  Holstein Kiel
-   1. FC Union Berlin  Dynamo Dresden
-   FC St. Pauli  MSV Duisburg
-   SpVgg Greuther Fürth  1. FC Heidenheim 1846
-   SV Sandhausen  Arminia Bielefeld
-   Fortuna Düsseldorf  1. FC Nürnberg
-   1. FC Kaiserslautern  FC Ingolstadt 04
    Erzgebirge Aue  SV Darmstadt 98
+[Sa 9.12.]
+   1. FC Union Berlin  Dynamo Dresden
+   SpVgg Greuther Fürth  1. FC Heidenheim 1846
    Jahn Regensburg  VfL Bochum
-
+[So 10.12.]
+   FC St. Pauli  MSV Duisburg
+   SV Sandhausen  Arminia Bielefeld
+   1. FC Kaiserslautern  FC Ingolstadt 04
+[Mo 11.12.]
+   Fortuna Düsseldorf  1. FC Nürnberg
+ 
 Spieltag 18
-[Sa 16.12.]
-   FC St. Pauli  VfL Bochum
+[Fr 15.12.]
    1. FC Union Berlin  FC Ingolstadt 04
-   SpVgg Greuther Fürth  SV Darmstadt 98
-   MSV Duisburg  Dynamo Dresden
-   Erzgebirge Aue  1. FC Heidenheim 1846
    Eintracht Braunschweig  Fortuna Düsseldorf
+[Sa 16.12.]
+   Erzgebirge Aue  1. FC Heidenheim 1846
    1. FC Kaiserslautern  1. FC Nürnberg
    Jahn Regensburg  Arminia Bielefeld
+[So 17.12.]
+   SpVgg Greuther Fürth  SV Darmstadt 98
+   MSV Duisburg  Dynamo Dresden
    SV Sandhausen  Holstein Kiel
+[Mo 18.12.]
+   FC St. Pauli  VfL Bochum
+
+Winterpause bis 23.1.18

@@ -173,17 +173,18 @@ Spieltag 12
    
 Spieltag 13
 [Fr 24.11.]
-   Hannover 96  VfB Stuttgart
+ 20.30   Hannover 96              1:1  VfB Stuttgart
 [Sa 25.11.]
-   Borussia Dortmund  FC Schalke 04
-   RB Leipzig  Werder Bremen
-   SC Freiburg  1. FSV Mainz 05
-   Bor. Mönchengladbach  Bayern München
-   Eintracht Frankfurt  Bayer Leverkusen
-   FC Augsburg  VfL Wolfsburg
+ 15.30  Borussia Dortmund  FC Schalke 04
+ 15.30  RB Leipzig  Werder Bremen
+ 15.30   SC Freiburg  1. FSV Mainz 05
+ 15.30  Eintracht Frankfurt  Bayer Leverkusen
+ 15.30  FC Augsburg  VfL Wolfsburg
+ 18.30   Bor. Mönchengladbach  Bayern München
 [So 26.11.]
-   1. FC Köln  Hertha BSC
-   Hamburger SV  1899 Hoffenheim
+ 15.30  Hamburger SV  1899 Hoffenheim
+ 18.00  1. FC Köln  Hertha BSC
+
    
 Spieltag 14
 [Fr 1.12.]

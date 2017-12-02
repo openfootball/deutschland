@@ -188,14 +188,15 @@ Spieltag 13
    
 Spieltag 14
 [Fr 1.12.]
-   SC Freiburg                     0-0  Hamburger SV
+  20.30   SC Freiburg              0:0  Hamburger SV
 [Sa 2.12.]
-   Bayern München  Hannover 96
-   1899 Hoffenheim  RB Leipzig
-   Werder Bremen  VfB Stuttgart
-   FC Schalke 04  1. FC Köln
-   Bayer Leverkusen  Borussia Dortmund
-   1. FSV Mainz 05  FC Augsburg
+  15.30   Bayern München           3:1  Hannover 96
+  15.30   1899 Hoffenheim          4:0  RB Leipzig
+  15.30   Werder Bremen            1:0  VfB Stuttgart
+  15.30   Bayer Leverkusen         1:1  Borussia Dortmund
+  15.30   1. FSV Mainz 05          1:3  FC Augsburg
+  18.30   FC Schalke 04  1. FC Köln
+
 [So 3.12.]
    Hertha BSC  Eintracht Frankfurt
    VfL Wolfsburg  Bor. Mönchengladbach

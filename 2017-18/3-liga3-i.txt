@@ -259,12 +259,12 @@
 [Fr 1.12.]
     Hallescher FC             0-2  Hansa Rostock
 [Sa 2.12.]
-    Rot-Weiß Erfurt  -  SV Meppen
-    Sportfreunde Lotte  -  Preußen Münster
-    Chemnitzer FC  -  1. FC Magdeburg
-    Fortuna Köln  -  FSV Zwickau
-    SV Wehen Wiesbaden  -  SC Paderborn 07
-    Karlsruher SC  -  VfR Aalen
+    Rot-Weiß Erfurt           0-0  SV Meppen
+    Sportfreunde Lotte        0-0  Preußen Münster
+    Chemnitzer FC             2-3  1. FC Magdeburg
+    Fortuna Köln              1-1  FSV Zwickau
+    SV Wehen Wiesbaden        4-1  SC Paderborn 07
+    Karlsruher SC             0-0  VfR Aalen
 [So 3.12.]
     Werder Bremen II  -  VfL Osnabrück
     SG Sonnenhof Großaspach  -  Würzburger Kickers

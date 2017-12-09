@@ -203,17 +203,18 @@ Spieltag 14
 
 Spieltag 15
 [Fr 8.12.]
-   VfB Stuttgart  Bayer Leverkusen
+  20.30   VfB Stuttgart            0:2  Bayer Leverkusen
 [Sa 9.12.]
-   Borussia Dortmund  Werder Bremen
-   RB Leipzig  1. FSV Mainz 05
-   Bor. Mönchengladbach  FC Schalke 04
-   Eintracht Frankfurt  Bayern München
-   Hamburger SV  VfL Wolfsburg
+  15.30   Borussia Dortmund  Werder Bremen
+  15.30   RB Leipzig  1. FSV Mainz 05
+  15.30   Eintracht Frankfurt  Bayern München
+  15.30   Hamburger SV  VfL Wolfsburg
+  18.30   Bor. Mönchengladbach  FC Schalke 04
+
 [So 10.12.]
-   1. FC Köln  SC Freiburg
-   FC Augsburg  Hertha BSC
-   Hannover 96  1899 Hoffenheim
+  13.30   1. FC Köln  SC Freiburg
+  15.30   Hannover 96  1899 Hoffenheim
+  18.00   FC Augsburg  Hertha BSC
 
 Spieltag 16
 [Di 12.12.]

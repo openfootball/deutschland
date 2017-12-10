@@ -205,13 +205,13 @@ Spieltag 15
 [Fr 8.12.]
   20.30   VfB Stuttgart           0:2  Bayer Leverkusen
 [Sa 9.12.]
-  15.30   Borussia Dortmund       1-2  Werder Bremen
-  15.30   RB Leipzig              2-2  1. FSV Mainz 05
-  15.30   Eintracht Frankfurt     0-1  Bayern München
-  15.30   Hamburger SV            0-0  VfL Wolfsburg
-  18.30   Bor. Mönchengladbach    1-1  FC Schalke 04
+  15.30   Borussia Dortmund       1:2  Werder Bremen
+  15.30   RB Leipzig              2:2  1. FSV Mainz 05
+  15.30   Eintracht Frankfurt     0:1  Bayern München
+  15.30   Hamburger SV            0:0  VfL Wolfsburg
+  18.30   Bor. Mönchengladbach    1:1  FC Schalke 04
 [So 10.12.]
-  13.30   1. FC Köln  SC Freiburg
+  13.30   1. FC Köln              3:4  SC Freiburg
   15.30   Hannover 96  1899 Hoffenheim
   18.00   FC Augsburg  Hertha BSC
 

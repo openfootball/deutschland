@@ -217,48 +217,48 @@ Spieltag 14
 
 Spieltag 15
 [Fr 24.11.]
-   1. FC Union Berlin  SV Darmstadt 98
-   SV Sandhausen  1. FC Heidenheim 1846
+   1. FC Union Berlin      3-3  SV Darmstadt 98
+   SV Sandhausen           1-2  1. FC Heidenheim 1846
 [Sa 25.11.]
-   Holstein Kiel  FC Ingolstadt 04
-   Jahn Regensburg  MSV Duisburg
-   Eintracht Braunschweig  1. FC Nürnberg
+   Holstein Kiel           0-0  FC Ingolstadt 04
+   Jahn Regensburg         4-0  MSV Duisburg
+   Eintracht Braunschweig  2-3  1. FC Nürnberg
 [So 26.11.]
-   SpVgg Greuther Fürth  FC St. Pauli
-   1. FC Kaiserslautern  Arminia Bielefeld
-   Erzgebirge Aue  VfL Bochum
+   SpVgg Greuther Fürth    4-0  FC St. Pauli
+   1. FC Kaiserslautern    0-2  Arminia Bielefeld
+   Erzgebirge Aue          1-1  VfL Bochum
 [Mo 27.11.]
-   Fortuna Düsseldorf  Dynamo Dresden
+   Fortuna Düsseldorf      1-3  Dynamo Dresden
    
 Spieltag 16
 [Fr 1.12.]
-   1. FC Heidenheim 1846  1. FC Kaiserslautern
-   Arminia Bielefeld  FC St. Pauli
+   1. FC Heidenheim 1846   3-2  1. FC Kaiserslautern
+   Arminia Bielefeld       5-0  FC St. Pauli
 [Sa 2.12.]
-   1. FC Nürnberg  SV Sandhausen
-   MSV Duisburg  SpVgg Greuther Fürth
-   Holstein Kiel  Fortuna Düsseldorf
+   1. FC Nürnberg          1-0  SV Sandhausen
+   MSV Duisburg            2-0  SpVgg Greuther Fürth
+   Holstein Kiel           2-2  Fortuna Düsseldorf
 [So 3.12.]
-   SV Darmstadt 98  Jahn Regensburg
-   Dynamo Dresden  Erzgebirge Aue
-   VfL Bochum  1. FC Union Berlin
+   SV Darmstadt 98         0-1  Jahn Regensburg
+   Dynamo Dresden          4-0  Erzgebirge Aue
+   VfL Bochum              2-1  1. FC Union Berlin
 [Mo 4.12.]
-   FC Ingolstadt 04  Eintracht Braunschweig
+   FC Ingolstadt 04        0-2  Eintracht Braunschweig
 
 Spieltag 17
 [Fr 8.12.]
-   Eintracht Braunschweig  Holstein Kiel
-   Erzgebirge Aue  SV Darmstadt 98
+   Eintracht Braunschweig  0-0  Holstein Kiel
+   Erzgebirge Aue          1-0  SV Darmstadt 98
 [Sa 9.12.]
-   1. FC Union Berlin  Dynamo Dresden
-   SpVgg Greuther Fürth  1. FC Heidenheim 1846
-   Jahn Regensburg  VfL Bochum
+   1. FC Union Berlin      0-1  Dynamo Dresden
+   SpVgg Greuther Fürth    1-0  1. FC Heidenheim 1846
+   Jahn Regensburg         0-1  VfL Bochum
 [So 10.12.]
-   FC St. Pauli  MSV Duisburg
-   SV Sandhausen  Arminia Bielefeld
-   1. FC Kaiserslautern  FC Ingolstadt 04
+   FC St. Pauli            2-2  MSV Duisburg
+   SV Sandhausen           3-1  Arminia Bielefeld
+   1. FC Kaiserslautern    1-1  FC Ingolstadt 04
 [Mo 11.12.]
-   Fortuna Düsseldorf  1. FC Nürnberg
+   Fortuna Düsseldorf      0-2  1. FC Nürnberg
  
 Spieltag 18
 [Fr 15.12.]
@@ -275,4 +275,4 @@ Spieltag 18
 [Mo 18.12.]
    FC St. Pauli  VfL Bochum
 
-Winterpause bis 23.1.18
+Winterpause bis 20.1.18

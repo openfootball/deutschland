@@ -95,9 +95,9 @@ Build the database for all German clubs, leagues and seasons:
 
     $ sportdb new de
 
-Build the database for the 2015/16 season:
+Build the database for the 2017/18 season:
 
-    $ sportdb new de2015-16
+    $ sportdb new de2017-18
 
 
 

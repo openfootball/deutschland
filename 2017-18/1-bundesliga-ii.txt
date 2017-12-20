@@ -42,41 +42,48 @@ Spieltag 20
    Hannover 96  VfL Wolfsburg
    
 Spieltag 21
+[Fr 2.2.]
+   1. FC Köln  Borussia Dortmund
 [Sa 3.2.]
    1. FSV Mainz 05  Bayern München
-   1. FC Köln  Borussia Dortmund
    Bor. Mönchengladbach  RB Leipzig
    Hertha BSC  1899 Hoffenheim
    FC Schalke 04  Werder Bremen
-   FC Augsburg  Eintracht Frankfurt
    SC Freiburg  Bayer Leverkusen
-   Hamburger SV  Hannover 96
    VfL Wolfsburg  VfB Stuttgart
+[So 4.2.]
+   FC Augsburg  Eintracht Frankfurt
+   Hamburger SV  Hannover 96
 
 Spieltag 22
+[Fr 9.2.]
+   RB Leipzig  FC Augsburg
 [Sa 10.2.]
    Eintracht Frankfurt  1. FC Köln
    Bayer Leverkusen  Hertha BSC
    Hannover 96  SC Freiburg
-   VfB Stuttgart  Bor. Mönchengladbach
    Bayern München  FC Schalke 04
-   RB Leipzig  FC Augsburg
    Borussia Dortmund  Hamburger SV
    1899 Hoffenheim  1. FSV Mainz 05
+[So 11.2.]
+   VfB Stuttgart  Bor. Mönchengladbach
    Werder Bremen  VfL Wolfsburg
-
+   
 Spieltag 23
+[Fr 16.2.]
+   Hertha BSC  1. FSV Mainz 05
 [Sa 17.2.]
    VfL Wolfsburg  Bayern München
-   Bor. Mönchengladbach  Borussia Dortmund
-   Eintracht Frankfurt  RB Leipzig
    FC Schalke 04  1899 Hoffenheim
    SC Freiburg  Werder Bremen
    Hamburger SV  Bayer Leverkusen
-   Hertha BSC  1. FSV Mainz 05
    1. FC Köln  Hannover 96
+[So 18.2.]
    FC Augsburg  VfB Stuttgart
-
+   Bor. Mönchengladbach  Borussia Dortmund
+[Mo 19.2.]
+   Eintracht Frankfurt  RB Leipzig
+   
 Spieltag 24
 [Sa 24.2.]
    RB Leipzig  1. FC Köln

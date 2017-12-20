@@ -114,17 +114,20 @@ Spieltag 25
    SC Freiburg  Bayern München
    
 Spieltag 26
+[Fr 9.3.]
+   1. FSV Mainz 05  FC Schalke 04
 [Sa 10.3.]
-   VfB Stuttgart  RB Leipzig
-   Werder Bremen  1. FC Köln
    Hertha BSC  SC Freiburg
    Bayer Leverkusen  Bor. Mönchengladbach
-   1. FSV Mainz 05  FC Schalke 04
-   Borussia Dortmund  Eintracht Frankfurt
    Hannover 96  FC Augsburg
    Bayern München  Hamburger SV
    1899 Hoffenheim  VfL Wolfsburg
-
+[So 11.3.]
+   VfB Stuttgart  RB Leipzig
+   Borussia Dortmund  Eintracht Frankfurt
+[Mo 12.3.]
+   Werder Bremen  1. FC Köln
+   
 Spieltag 27
 [Sa 17.3.]
    RB Leipzig  Bayern München

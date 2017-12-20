@@ -129,17 +129,19 @@ Spieltag 26
    Werder Bremen  1. FC Köln
    
 Spieltag 27
+[Fr 16.3.]
+   SC Freiburg  VfB Stuttgart
 [Sa 17.3.]
-   RB Leipzig  Bayern München
    Bor. Mönchengladbach  1899 Hoffenheim
    Hamburger SV  Hertha BSC
    FC Augsburg  Werder Bremen
    VfL Wolfsburg  FC Schalke 04
-   1. FC Köln  Bayer Leverkusen
    Eintracht Frankfurt  1. FSV Mainz 05
+[So 18.3.]
    Borussia Dortmund  Hannover 96
-   SC Freiburg  VfB Stuttgart
-
+   1. FC Köln  Bayer Leverkusen
+   RB Leipzig  Bayern München
+   
 Spieltag 28
 [So 1.4.]
    Bayern München  Borussia Dortmund

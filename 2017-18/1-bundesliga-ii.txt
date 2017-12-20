@@ -85,29 +85,34 @@ Spieltag 23
    Eintracht Frankfurt  RB Leipzig
    
 Spieltag 24
+[Fr 23.2.]
+   1. FSV Mainz 05  VfL Wolfsburg
 [Sa 24.2.]
-   RB Leipzig  1. FC Köln
    Bayern München  Hertha BSC
    1899 Hoffenheim  SC Freiburg
    Hannover 96  Bor. Mönchengladbach
-   Bayer Leverkusen  FC Schalke 04
    VfB Stuttgart  Eintracht Frankfurt
-   Borussia Dortmund  FC Augsburg
    Werder Bremen  Hamburger SV
-   1. FSV Mainz 05  VfL Wolfsburg
-
+[So 25.2.]
+   Bayer Leverkusen  FC Schalke 04
+   RB Leipzig  1. FC Köln
+[Mo 26.2.]
+   Borussia Dortmund  FC Augsburg
+   
 Spieltag 25
+[Fr 2.3.]
+   Bor. Mönchengladbach  Werder Bremen
 [Sa 3.3.]
    RB Leipzig  Borussia Dortmund
-   1. FC Köln  VfB Stuttgart
-   SC Freiburg  Bayern München
-   Bor. Mönchengladbach  Werder Bremen
    FC Schalke 04  Hertha BSC
    Eintracht Frankfurt  Hannover 96
    FC Augsburg  1899 Hoffenheim
    Hamburger SV  1. FSV Mainz 05
    VfL Wolfsburg  Bayer Leverkusen
-
+[So 4.3.]
+   1. FC Köln  VfB Stuttgart
+   SC Freiburg  Bayern München
+   
 Spieltag 26
 [Sa 10.3.]
    VfB Stuttgart  RB Leipzig

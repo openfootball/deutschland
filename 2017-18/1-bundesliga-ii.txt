@@ -1,40 +1,46 @@
 
 Spieltag 18
-[Sa 13.1.]
+[Fr 12.1.]
    Bayer Leverkusen  Bayern München
+[Sa 13.1.]
    Werder Bremen  1899 Hoffenheim
    VfB Stuttgart  Hertha BSC
    Eintracht Frankfurt  SC Freiburg
-   1. FC Köln  Bor. Mönchengladbach
    RB Leipzig  FC Schalke 04
    FC Augsburg  Hamburger SV
    Hannover 96  1. FSV Mainz 05
+[So 14.1.]
+   1. FC Köln  Bor. Mönchengladbach
    Borussia Dortmund  VfL Wolfsburg
 
 Spieltag 19
-[Sa 20.1.]
+[Fr 19.1.]
    Hertha BSC  Borussia Dortmund
+[Sa 20.1.]
    SC Freiburg  RB Leipzig
    Hamburger SV  1. FC Köln
-   Bayern München  Werder Bremen
    VfL Wolfsburg  Eintracht Frankfurt
    1899 Hoffenheim  Bayer Leverkusen
    Bor. Mönchengladbach  FC Augsburg
-   FC Schalke 04  Hannover 96
    1. FSV Mainz 05  VfB Stuttgart
-
+[So 21.1.]
+  Bayern München  Werder Bremen
+  FC Schalke 04  Hannover 96
+  
 Spieltag 20
+[Fr 26.1.]
+   Eintracht Frankfurt  Bor. Mönchengladbach
 [Sa 27.1.]
    Bayern München  1899 Hoffenheim
    Werder Bremen  Hertha BSC
    Borussia Dortmund  SC Freiburg
-   Eintracht Frankfurt  Bor. Mönchengladbach
    VfB Stuttgart  FC Schalke 04
    1. FC Köln  FC Augsburg
    RB Leipzig  Hamburger SV
+[So 28.1.]
    Bayer Leverkusen  1. FSV Mainz 05
    Hannover 96  VfL Wolfsburg
-
+   
 Spieltag 21
 [Sa 3.2.]
    1. FSV Mainz 05  Bayern München

@@ -1,9 +1,6 @@
 
 21. Spieltag
 [Sa 20.1.]
-Rot-Weiß Erfurt  -  1. FC Magdeburg
-SV Meppen  -  Preußen Münster
-Werder Bremen II  -  Würzburger Kickers
 Karlsruher SC  -  SpVgg Unterhaching
 SV Wehen Wiesbaden  -  VfL Osnabrück
 Fortuna Köln  -  FC Carl Zeiss Jena
@@ -11,19 +8,26 @@ Hallescher FC  -  VfR Aalen
 Chemnitzer FC  -  SC Paderborn 07
 Sportfreunde Lotte  -  FSV Zwickau
 SG Sonnenhof Großaspach  -  Hansa Rostock
+[So 21.1.]
+SV Meppen  -  Preußen Münster
+Werder Bremen II  -  Würzburger Kickers
+[Mo 22.1.]
+Rot-Weiß Erfurt  -  1. FC Magdeburg
 
 22. Spieltag
+[Fr 26.1.]
+FSV Zwickau  -  SG Sonnenhof Großaspach
+Preußen Münster  -  Würzburger Kickers
 [Sa 27.1.]
 Karlsruher SC  -  Werder Bremen II
 Hansa Rostock  -  Rot-Weiß Erfurt
-FSV Zwickau  -  SG Sonnenhof Großaspach
 SC Paderborn 07  -  Sportfreunde Lotte
 VfR Aalen  -  Chemnitzer FC
-FC Carl Zeiss Jena  -  Hallescher FC
 VfL Osnabrück  -  Fortuna Köln
 SpVgg Unterhaching  -  SV Wehen Wiesbaden
-Preußen Münster  -  Würzburger Kickers
 1. FC Magdeburg  -  SV Meppen
+[So 28.1.]
+FC Carl Zeiss Jena  -  Hallescher FC
 
 23. Spieltag
 [Sa 3.2.]

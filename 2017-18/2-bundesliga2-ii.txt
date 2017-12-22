@@ -42,29 +42,34 @@ Spieltag 21
    Arminia Bielefeld  1. FC Union Berlin
    
 Spieltag 22
-[Sa 10.2.]
-   Erzgebirge Aue  FC Ingolstadt 04
+[Fr 9.2.]
    VfL Bochum  SV Darmstadt 98
-   SV Sandhausen  Eintracht Braunschweig
-   SpVgg Greuther Fürth  Dynamo Dresden
+   1. FC Kaiserslautern  Holstein Kiel
+[Sa 10.2.]
    Jahn Regensburg  1. FC Heidenheim 1846
    1. FC Union Berlin  Fortuna Düsseldorf
-   FC St. Pauli  1. FC Nürnberg
    MSV Duisburg  Arminia Bielefeld
-   1. FC Kaiserslautern  Holstein Kiel
+[So 11.2.]
+   Erzgebirge Aue  FC Ingolstadt 04
+   SV Sandhausen  Eintracht Braunschweig
+   SpVgg Greuther Fürth  Dynamo Dresden
+[Mo 12.2.]
+   FC St. Pauli  1. FC Nürnberg
 
 Spieltag 23
-[Sa 17.2.]
-   Arminia Bielefeld  SV Darmstadt 98
-   Eintracht Braunschweig  1. FC Union Berlin
-   FC Ingolstadt 04  FC St. Pauli
-   Fortuna Düsseldorf  SpVgg Greuther Fürth
+[Fr 16.2.]
    1. FC Heidenheim 1846  VfL Bochum
    1. FC Kaiserslautern  SV Sandhausen
+[Sa 17.2.]
+   Arminia Bielefeld  SV Darmstadt 98
+   FC Ingolstadt 04  FC St. Pauli
+   Fortuna Düsseldorf  SpVgg Greuther Fürth
    Holstein Kiel  Erzgebirge Aue
+[So 18.2.]
    1. FC Nürnberg  MSV Duisburg
    Dynamo Dresden  Jahn Regensburg
-
+   Eintracht Braunschweig  1. FC Union Berlin
+   
 Spieltag 24
 [Sa 24.2.]
    MSV Duisburg  FC Ingolstadt 04

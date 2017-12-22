@@ -12,29 +12,35 @@ Spieltag 19
    1. FC Nürnberg  Jahn Regensburg
 
 Spieltag 20
-[Sa 27.1.]
+[Fr 26.1.]
+   1. FC Union Berlin  1. FC Nürnberg
    Jahn Regensburg  FC Ingolstadt 04
+[Sa 27.1.]
+   MSV Duisburg  1. FC Heidenheim 1846
+   1. FC Kaiserslautern  Fortuna Düsseldorf
+   SpVgg Greuther Fürth  Holstein Kiel
+[So 28.1.]
    FC St. Pauli  SV Darmstadt 98
    Erzgebirge Aue  Eintracht Braunschweig
    SV Sandhausen  Dynamo Dresden
-   MSV Duisburg  1. FC Heidenheim 1846
-   1. FC Kaiserslautern  Fortuna Düsseldorf
-   1. FC Union Berlin  1. FC Nürnberg
+[Mo 29.1.]
    VfL Bochum  Arminia Bielefeld
-   SpVgg Greuther Fürth  Holstein Kiel
-
+   
 Spieltag 21
+[Fr 2.2.]
+   Fortuna Düsseldorf  SV Sandhausen
+   1. FC Nürnberg  Erzgebirge Aue
 [Sa 3.2.]
-   Arminia Bielefeld  1. FC Union Berlin
    1. FC Heidenheim 1846  FC St. Pauli
    FC Ingolstadt 04  SpVgg Greuther Fürth
-   Dynamo Dresden  VfL Bochum
-   Fortuna Düsseldorf  SV Sandhausen
-   Eintracht Braunschweig  1. FC Kaiserslautern
-   1. FC Nürnberg  Erzgebirge Aue
-   SV Darmstadt 98  MSV Duisburg
    Holstein Kiel  Jahn Regensburg
-
+[So 4.2.]
+   Dynamo Dresden  VfL Bochum
+   Eintracht Braunschweig  1. FC Kaiserslautern
+   SV Darmstadt 98  MSV Duisburg
+[Mo 5.2.]
+   Arminia Bielefeld  1. FC Union Berlin
+   
 Spieltag 22
 [Sa 10.2.]
    Erzgebirge Aue  FC Ingolstadt 04

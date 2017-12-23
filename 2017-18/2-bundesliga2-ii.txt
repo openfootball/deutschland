@@ -1,16 +1,18 @@
 
 Spieltag 19
-[Mi 24.1.]
-   1. FC Heidenheim 1846  Eintracht Braunschweig
-   Holstein Kiel  1. FC Union Berlin
-   Dynamo Dresden  FC St. Pauli
-   Arminia Bielefeld  SpVgg Greuther Fürth
-   FC Ingolstadt 04  SV Sandhausen
-   SV Darmstadt 98  1. FC Kaiserslautern
-   Fortuna Düsseldorf  Erzgebirge Aue
+[Di 23.1.]
    VfL Bochum  MSV Duisburg
    1. FC Nürnberg  Jahn Regensburg
-
+   Holstein Kiel  1. FC Union Berlin
+   FC Ingolstadt 04  SV Sandhausen
+[Mi 24.1.]
+   1. FC Heidenheim 1846  Eintracht Braunschweig
+   Arminia Bielefeld  SpVgg Greuther Fürth
+   SV Darmstadt 98  1. FC Kaiserslautern
+   Fortuna Düsseldorf  Erzgebirge Aue
+[Do 25.1.]  
+   Dynamo Dresden  FC St. Pauli
+   
 Spieltag 20
 [Fr 26.1.]
    1. FC Union Berlin  1. FC Nürnberg

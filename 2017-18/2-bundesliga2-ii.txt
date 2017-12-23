@@ -71,29 +71,34 @@ Spieltag 23
    Eintracht Braunschweig  1. FC Union Berlin
    
 Spieltag 24
+[Fr 23.2.]
+   Arminia Bielefeld  Dynamo Dresden
+   Jahn Regensburg  Fortuna Düsseldorf
 [Sa 24.2.]
    MSV Duisburg  FC Ingolstadt 04
    SpVgg Greuther Fürth  Eintracht Braunschweig
-   Arminia Bielefeld  Dynamo Dresden
-   SV Darmstadt 98  1. FC Heidenheim 1846
    1. FC Union Berlin  SV Sandhausen
-   Jahn Regensburg  Fortuna Düsseldorf
-   VfL Bochum  1. FC Nürnberg
    Erzgebirge Aue  1. FC Kaiserslautern
+[So 25.2.]
+   SV Darmstadt 98  1. FC Heidenheim 1846
+   VfL Bochum  1. FC Nürnberg
    FC St. Pauli  Holstein Kiel
-
+ 
 Spieltag 25
-[Sa 3.3.]
+[Fr 2.3.]
    Dynamo Dresden  SV Darmstadt 98
    1. FC Kaiserslautern  1. FC Union Berlin
-   Fortuna Düsseldorf  FC St. Pauli
+[Sa 3.3.]
    1. FC Nürnberg  SpVgg Greuther Fürth
-   FC Ingolstadt 04  VfL Bochum
    SV Sandhausen  Erzgebirge Aue
-   1. FC Heidenheim 1846  Arminia Bielefeld
    Holstein Kiel  MSV Duisburg
+[So 4.3.]
+   Fortuna Düsseldorf  FC St. Pauli
+   1. FC Heidenheim 1846  Arminia Bielefeld
    Eintracht Braunschweig  Jahn Regensburg
-
+[Mo 5.3.]
+   FC Ingolstadt 04  VfL Bochum
+   
 Spieltag 26
 [Sa 10.3.]
    SV Darmstadt 98  FC Ingolstadt 04

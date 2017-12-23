@@ -100,29 +100,34 @@ Spieltag 25
    FC Ingolstadt 04  VfL Bochum
    
 Spieltag 26
+[Fr 9.3.]
+   Dynamo Dresden  1. FC Heidenheim 1846
+   Arminia Bielefeld  1. FC Nürnberg
 [Sa 10.3.]
    SV Darmstadt 98  FC Ingolstadt 04
    FC St. Pauli  Eintracht Braunschweig
-   Dynamo Dresden  1. FC Heidenheim 1846
+   SpVgg Greuther Fürth  1. FC Kaiserslautern
+   VfL Bochum  Holstein Kiel
+[So 11.3.]
    Jahn Regensburg  SV Sandhausen
    MSV Duisburg  Fortuna Düsseldorf
-   Arminia Bielefeld  1. FC Nürnberg
-   SpVgg Greuther Fürth  1. FC Kaiserslautern
    1. FC Union Berlin  Erzgebirge Aue
-   VfL Bochum  Holstein Kiel
-
+   
 Spieltag 27
+[Fr 16.3.]
+   Holstein Kiel  1. FC Heidenheim 1846
+   Fortuna Düsseldorf  Arminia Bielefeld
 [Sa 17.3.]
+   1. FC Kaiserslautern  FC St. Pauli
+   SV Sandhausen  VfL Bochum
+   1. FC Union Berlin  Jahn Regensburg
+[So 18.3.]
    1. FC Nürnberg  SV Darmstadt 98
    FC Ingolstadt 04  Dynamo Dresden
-   Holstein Kiel  1. FC Heidenheim 1846
-   1. FC Kaiserslautern  FC St. Pauli
-   Erzgebirge Aue  SpVgg Greuther Fürth
-   SV Sandhausen  VfL Bochum
-   Fortuna Düsseldorf  Arminia Bielefeld
    Eintracht Braunschweig  MSV Duisburg
-   1. FC Union Berlin  Jahn Regensburg
-
+[Mo 19.3.]
+   Erzgebirge Aue  SpVgg Greuther Fürth
+   
 Spieltag 28
 [So 1.4.]
    1. FC Heidenheim 1846  FC Ingolstadt 04

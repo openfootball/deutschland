@@ -1,13 +1,13 @@
 
 Spieltag 18
 [Fr 12.1.]
-20.30   Bayer Leverkusen  1:3  Bayern München
+20.30   Bayer Leverkusen     1:3  Bayern München
 [Sa 13.1.]
-15.30   Werder Bremen  1899 Hoffenheim
-15.30   VfB Stuttgart  Hertha BSC
-15.30   Eintracht Frankfurt  SC Freiburg
-15.30   FC Augsburg  Hamburger SV
-15.30   Hannover 96  1. FSV Mainz 05
+15.30   Werder Bremen        1:1  1899 Hoffenheim
+15.30   VfB Stuttgart        1:0  Hertha BSC
+15.30   Eintracht Frankfurt  1:1 SC Freiburg
+15.30   FC Augsburg          1:0  Hamburger SV
+15.30   Hannover 96          3:2  1. FSV Mainz 05
 18.30   RB Leipzig  FC Schalke 04
 [So 14.1.]
 15.30   1. FC Köln  Bor. Mönchengladbach

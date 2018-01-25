@@ -1,15 +1,15 @@
 
 Spieltag 19
 [Di 23.1.]
-   VfL Bochum  MSV Duisburg
-   1. FC Nürnberg  Jahn Regensburg
-   Holstein Kiel  1. FC Union Berlin
-   FC Ingolstadt 04  SV Sandhausen
+   VfL Bochum             0-2  MSV Duisburg
+   1. FC Nürnber          2-2  Jahn Regensburg
+   Holstein Kiel          2-2  1. FC Union Berlin
+   FC Ingolstadt 04       0-0  SV Sandhausen
 [Mi 24.1.]
-   1. FC Heidenheim 1846  Eintracht Braunschweig
-   Arminia Bielefeld  SpVgg Greuther Fürth
-   SV Darmstadt 98  1. FC Kaiserslautern
-   Fortuna Düsseldorf  Erzgebirge Aue
+   1. FC Heidenheim 1846  2-0  Eintracht Braunschweig
+   Arminia Bielefeld      0-0  SpVgg Greuther Fürth
+   SV Darmstadt 98  1. FC Kaiserslautern        Spiel abgebrochen
+   Fortuna Düsseldorf     2-1  Erzgebirge Aue
 [Do 25.1.]  
    Dynamo Dresden  FC St. Pauli
    

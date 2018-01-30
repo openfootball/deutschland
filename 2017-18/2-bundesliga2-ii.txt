@@ -8,7 +8,7 @@ Spieltag 19
 [Mi 24.1.]
    1. FC Heidenheim 1846  2-0  Eintracht Braunschweig
    Arminia Bielefeld      0-0  SpVgg Greuther Fürth
-   SV Darmstadt 98  1. FC Kaiserslautern        Spiel abgebrochen
+   SV Darmstadt 98  1. FC Kaiserslautern        21.2.18
    Fortuna Düsseldorf     2-1  Erzgebirge Aue
 [Do 25.1.]  
    Dynamo Dresden         1-3  FC St. Pauli
@@ -26,7 +26,7 @@ Spieltag 20
    Erzgebirge Aue         1-3  Eintracht Braunschweig
    SV Sandhausen          1-0  Dynamo Dresden
 [Mo 29.1.]
-   VfL Bochum  Arminia Bielefeld
+   VfL Bochum             0-1  Arminia Bielefeld
    
 Spieltag 21
 [Fr 2.2.]
@@ -72,6 +72,10 @@ Spieltag 23
    Dynamo Dresden  Jahn Regensburg
    Eintracht Braunschweig  1. FC Union Berlin
    
+ ##Nachtrag Spieltag 19
+ [Mi 21.2.]
+    SV DFarmstadt 98  1. FC Kaiserslautern
+ 
 Spieltag 24
 [Fr 23.2.]
    Arminia Bielefeld  Dynamo Dresden

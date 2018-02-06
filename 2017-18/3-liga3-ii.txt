@@ -127,44 +127,50 @@ VfR Aalen  -  Preußen Münster
 [Sa 10.3.]
 Würzburger Kickers  -  VfL Osnabrück
 Preußen Münster  -  FC Carl Zeiss Jena
-1. FC Magdeburg  -  VfR Aalen
 Hansa Rostock  -  SC Paderborn 07
 Werder Bremen II  -  FSV Zwickau
-Chemnitzer FC  -  Hallescher FC
 Sportfreunde Lotte  -  Fortuna Köln
 SG Sonnenhof Großaspach  -  SV Wehen Wiesbaden
-Rot-Weiß Erfurt  -  Karlsruher SC
 SV Meppen  -  SpVgg Unterhaching
+[So 11.3.]
+1. FC Magdeburg  -  VfR Aalen
+Chemnitzer FC  -  Hallescher FC
+Rot-Weiß Erfurt  -  Karlsruher SC
 
 30. Spieltag
-[Sa 17.3.]
-Chemnitzer FC  -  Werder Bremen II
+[Fr 16.3.]
 SV Wehen Wiesbaden  -  Rot-Weiß Erfurt
 Fortuna Köln  -  SG Sonnenhof Großaspach
 Hallescher FC  -  Sportfreunde Lotte
+[Sa 17.3.]
+
 SC Paderborn 07  -  FSV Zwickau
 VfR Aalen  -  Hansa Rostock
 FC Carl Zeiss Jena  -  1. FC Magdeburg
 VfL Osnabrück  -  Preußen Münster
 SpVgg Unterhaching  -  Würzburger Kickers
 Karlsruher SC  -  SV Meppen
+[So 18.3.]
+Chemnitzer FC  -  Werder Bremen II
 
 ## Nachtrag 21. Spieltag
 [Di 20.3.]
 SG Sonnenhof Großaspach   Hansa Rostock
 
 31. Spieltag
-[Sa 24.3.]
-1. FC Magdeburg  -  VfL Osnabrück
-Hansa Rostock  -  FC Carl Zeiss Jena
+[Fr 23.3.]
 FSV Zwickau  -  VfR Aalen
 Werder Bremen II  -  SC Paderborn 07
+[Sa 24.3.]
+Hansa Rostock  -  FC Carl Zeiss Jena
 Sportfreunde Lotte  -  Chemnitzer FC
 SG Sonnenhof Großaspach  -  Hallescher FC
 Rot-Weiß Erfurt  -  Fortuna Köln
 SV Meppen  -  SV Wehen Wiesbaden
 Würzburger Kickers  -  Karlsruher SC
 Preußen Münster  -  SpVgg Unterhaching
+[So 25.3.]
+1. FC Magdeburg  -  VfL Osnabrück
 
 32. Spieltag
 [Sa 31.3.]

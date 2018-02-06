@@ -68,6 +68,7 @@ SpVgg Unterhaching  -  Hallescher FC
 Vfl Osnabrück    Karlsruher SC
 
 25. Spieltag
+
 [Sa 17.2.]
 Sportfreunde Lotte  -  VfL Osnabrück
 SG Sonnenhof Großaspach  -  FC Carl Zeiss Jena
@@ -94,30 +95,33 @@ SC Paderborn 07  -  Würzburger Kickers
 VfR Aalen  -  SV Meppen
 
 27. Spieltag
-[Sa 3.3.]
+[Fr 2.3.]
 Rot-Weiß Erfurt  -  VfL Osnabrück
+Werder Bremen II  -  Hansa Rostock
+[Sa 3.3.]
 SV Meppen  -  FC Carl Zeiss Jena
 Würzburger Kickers  -  VfR Aalen
 Preußen Münster  -  SC Paderborn 07
 1. FC Magdeburg  -  FSV Zwickau
-Werder Bremen II  -  Hansa Rostock
-Hallescher FC  -  Fortuna Köln
 Chemnitzer FC  -  SV Wehen Wiesbaden
 Sportfreunde Lotte  -  Karlsruher SC
 SG Sonnenhof Großaspach  -  SpVgg Unterhaching
+[So 4.3.]
+Hallescher FC  -  Fortuna Köln
 
 28. Spieltag
 [Di 6.3.]
-Hallescher FC  -  Werder Bremen II
 SpVgg Unterhaching  -  Rot-Weiß Erfurt
-Karlsruher SC  -  SG Sonnenhof Großaspach
 SV Wehen Wiesbaden  -  Sportfreunde Lotte
-Fortuna Köln  -  Chemnitzer FC
-FSV Zwickau  -  Hansa Rostock
 SC Paderborn 07  -  1. FC Magdeburg
-VfR Aalen  -  Preußen Münster
 FC Carl Zeiss Jena  -  Würzburger Kickers
 VfL Osnabrück  -  SV Meppen
+[Mi 7.3.]
+Hallescher FC  -  Werder Bremen II
+Karlsruher SC  -  SG Sonnenhof Großaspach
+Fortuna Köln  -  Chemnitzer FC
+FSV Zwickau  -  Hansa Rostock
+VfR Aalen  -  Preußen Münster
 
 29. Spieltag
 [Sa 10.3.]

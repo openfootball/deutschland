@@ -50,24 +50,24 @@ Spieltag 21
 15.30   FC Schalke 04         1:2  Werder Bremen
 15.30   SC Freiburg           0:0  Bayer Leverkusen
 15.30   VfL Wolfsburg         1:1  VfB Stuttgart
-18.30   Bor. Mönchengladbach  0-1  RB Leipzig
+18.30   Bor. Mönchengladbach  0:1  RB Leipzig
 [So 4.2.]
-15.30   FC Augsburg           3-0  Eintracht Frankfurt
-18.00   Hamburger SV          1-1  Hannover 96
+15.30   FC Augsburg           3:0  Eintracht Frankfurt
+18.00   Hamburger SV          1:1  Hannover 96
 
 Spieltag 22
 [Fr 9.2.]
-   RB Leipzig  FC Augsburg
+20.30   RB Leipzig            2:0  FC Augsburg
 [Sa 10.2.]
-   Eintracht Frankfurt  1. FC Köln
-   Bayer Leverkusen  Hertha BSC
-   Hannover 96  SC Freiburg
-   Bayern München  FC Schalke 04
-   Borussia Dortmund  Hamburger SV
-   1899 Hoffenheim  1. FSV Mainz 05
+15.30   Eintracht Frankfurt  1. FC Köln
+15.30   Bayer Leverkusen  Hertha BSC
+15.30   Hannover 96  SC Freiburg
+15.30   Borussia Dortmund  Hamburger SV
+15.30   1899 Hoffenheim  1. FSV Mainz 05
+18.30   Bayern München  FC Schalke 04
 [So 11.2.]
-   VfB Stuttgart  Bor. Mönchengladbach
-   Werder Bremen  VfL Wolfsburg
+15.30   VfB Stuttgart  Bor. Mönchengladbach
+18.00   Werder Bremen  VfL Wolfsburg
    
 Spieltag 23
 [Fr 16.2.]

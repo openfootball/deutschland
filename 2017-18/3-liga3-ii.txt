@@ -53,12 +53,12 @@ Rot-Weiß Erfurt           0-3  FSV Zwickau
 SC Paderborn 07           0-1  Rot-Weiß Erfurt
 VfL Osnabrück             6-1  Chemnitzer FC
 [Sa 10.2.]
-VfR Aalen  -  SG Sonnenhof Großaspach
-FC Carl Zeiss Jena  -  Sportfreunde Lotte
-Karlsruher SC  -  Fortuna Köln
-1. FC Magdeburg  -  Preußen Münster
-Hansa Rostock  -  Würzburger Kickers
-FSV Zwickau  -  SV Meppen
+VfR Aalen                 4-1  SG Sonnenhof Großaspach
+FC Carl Zeiss Jena        2-2  Sportfreunde Lotte
+Karlsruher SC             1-0  Fortuna Köln
+1. FC Magdeburg           3-1  Preußen Münster
+Hansa Rostock             3-1  Würzburger Kickers
+FSV Zwickau               0-1  SV Meppen
 [So 11.2.]
 SV Wehen Wiesbaden  -  Werder Bremen II
 SpVgg Unterhaching  -  Hallescher FC
@@ -146,7 +146,6 @@ SV Wehen Wiesbaden  -  Rot-Weiß Erfurt
 Fortuna Köln  -  SG Sonnenhof Großaspach
 Hallescher FC  -  Sportfreunde Lotte
 [Sa 17.3.]
-
 SC Paderborn 07  -  FSV Zwickau
 VfR Aalen  -  Hansa Rostock
 FC Carl Zeiss Jena  -  1. FC Magdeburg

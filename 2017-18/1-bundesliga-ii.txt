@@ -59,12 +59,12 @@ Spieltag 22
 [Fr 9.2.]
 20.30   RB Leipzig            2:0  FC Augsburg
 [Sa 10.2.]
-15.30   Eintracht Frankfurt  1. FC Köln
-15.30   Bayer Leverkusen  Hertha BSC
-15.30   Hannover 96  SC Freiburg
-15.30   Borussia Dortmund  Hamburger SV
-15.30   1899 Hoffenheim  1. FSV Mainz 05
-18.30   Bayern München  FC Schalke 04
+15.30   Eintracht Frankfurt   4-2  1. FC Köln
+15.30   Bayer Leverkusen      0-2  Hertha BSC
+15.30   Hannover 96           2-1  SC Freiburg
+15.30   Borussia Dortmund     2-0  Hamburger SV
+15.30   1899 Hoffenheim       4-2  1. FSV Mainz 05
+18.30   Bayern München        2-1  FC Schalke 04
 [So 11.2.]
 15.30   VfB Stuttgart  Bor. Mönchengladbach
 18.00   Werder Bremen  VfL Wolfsburg

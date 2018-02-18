@@ -73,11 +73,11 @@ Spieltag 23
 [Fr 16.2.]
 20.30   Hertha BSC            0-2  1. FSV Mainz 05
 [Sa 17.2.]
-15.30   VfL Wolfsburg  Bayern München
-15.30   SC Freiburg  Werder Bremen
-15.30   Hamburger SV  Bayer Leverkusen
-15.30   1. FC Köln  Hannover 96
-18.30   FC Schalke 04  1899 Hoffenheim
+15.30   VfL Wolfsburg         1-2  Bayern München
+15.30   SC Freiburg           1-0  Werder Bremen
+15.30   Hamburger SV          1-2  Bayer Leverkusen
+15.30   1. FC Köln            1-1  Hannover 96
+18.30   FC Schalke 04         2-1  1899 Hoffenheim
 [So 18.2.]
 15.30   FC Augsburg  VfB Stuttgart
 18.00   Bor. Mönchengladbach  Borussia Dortmund

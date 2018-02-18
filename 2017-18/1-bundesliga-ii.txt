@@ -71,13 +71,13 @@ Spieltag 22
    
 Spieltag 23
 [Fr 16.2.]
-20.30   Hertha BSC            0-2  1. FSV Mainz 05
+20.30   Hertha BSC            0:2  1. FSV Mainz 05
 [Sa 17.2.]
-15.30   VfL Wolfsburg         1-2  Bayern München
-15.30   SC Freiburg           1-0  Werder Bremen
-15.30   Hamburger SV          1-2  Bayer Leverkusen
-15.30   1. FC Köln            1-1  Hannover 96
-18.30   FC Schalke 04         2-1  1899 Hoffenheim
+15.30   VfL Wolfsburg         1:2  Bayern München
+15.30   SC Freiburg           1:0  Werder Bremen
+15.30   Hamburger SV          1:2  Bayer Leverkusen
+15.30   1. FC Köln            1:1  Hannover 96
+18.30   FC Schalke 04         2:1  1899 Hoffenheim
 [So 18.2.]
 15.30   FC Augsburg  VfB Stuttgart
 18.00   Bor. Mönchengladbach  Borussia Dortmund
@@ -86,18 +86,18 @@ Spieltag 23
    
 Spieltag 24
 [Fr 23.2.]
-   1. FSV Mainz 05  VfL Wolfsburg
+20.30   1. FSV Mainz 05  VfL Wolfsburg
 [Sa 24.2.]
-   Bayern München  Hertha BSC
-   1899 Hoffenheim  SC Freiburg
-   Hannover 96  Bor. Mönchengladbach
-   VfB Stuttgart  Eintracht Frankfurt
-   Werder Bremen  Hamburger SV
+15.30   Bayern München  Hertha BSC
+15.30   1899 Hoffenheim  SC Freiburg
+15.30   Hannover 96  Bor. Mönchengladbach
+15.30   VfB Stuttgart  Eintracht Frankfurt
+18.30   Werder Bremen  Hamburger SV
 [So 25.2.]
-   Bayer Leverkusen  FC Schalke 04
-   RB Leipzig  1. FC Köln
+15.30   Bayer Leverkusen  FC Schalke 04
+18.00   RB Leipzig  1. FC Köln
 [Mo 26.2.]
-   Borussia Dortmund  FC Augsburg
+20.30   Borussia Dortmund  FC Augsburg
    
 Spieltag 25
 [Fr 2.3.]

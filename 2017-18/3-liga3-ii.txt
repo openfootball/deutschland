@@ -86,13 +86,13 @@ Rot-Weiß Erfurt           0-1  VfR Aalen
 [Fr 23.2.]
 Fortuna Köln              2-1  Werder Bremen II
 [Sa 24.2.]
-VfL Osnabrück  -  SG Sonnenhof Großaspach
-SpVgg Unterhaching  -  Sportfreunde Lotte
-SV Wehen Wiesbaden  -  Hallescher FC
-Hansa Rostock  -  1. FC Magdeburg
-FSV Zwickau  -  Preußen Münster
-SC Paderborn 07  -  Würzburger Kickers
-VfR Aalen  -  SV Meppen
+VfL Osnabrück             2-1  SG Sonnenhof Großaspach
+SpVgg Unterhaching        3-0  Sportfreunde Lotte
+SV Wehen Wiesbaden        3-1  Hallescher FC
+Hansa Rostock             1-0  1. FC Magdeburg
+FSV Zwickau               1-0  Preußen Münster
+SC Paderborn 07           0-0  Würzburger Kickers
+VfR Aalen                 1-1  SV Meppen
 [So 25.2.]
 FC Carl Zeiss Jena  -  Rot-Weiß Erfurt
 Karlsruher SC  -  Chemnitzer FC

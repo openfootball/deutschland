@@ -88,11 +88,11 @@ Spieltag 24
 [Fr 23.2.]
 20.30   1. FSV Mainz 05       1-1  VfL Wolfsburg
 [Sa 24.2.]
-15.30   Bayern München  Hertha BSC
-15.30   1899 Hoffenheim  SC Freiburg
-15.30   Hannover 96  Bor. Mönchengladbach
-15.30   VfB Stuttgart  Eintracht Frankfurt
-18.30   Werder Bremen  Hamburger SV
+15.30   Bayern München        0-0  Hertha BSC
+15.30   1899 Hoffenheim       1-1  SC Freiburg
+15.30   Hannover 96           0-1  Bor. Mönchengladbach
+15.30   VfB Stuttgart         1-0  Eintracht Frankfurt
+18.30   Werder Bremen         1-0  Hamburger SV
 [So 25.2.]
 15.30   Bayer Leverkusen  FC Schalke 04
 18.00   RB Leipzig  1. FC Köln

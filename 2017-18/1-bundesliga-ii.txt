@@ -79,25 +79,25 @@ Spieltag 23
 15.30   1. FC Köln            1:1  Hannover 96
 18.30   FC Schalke 04         2:1  1899 Hoffenheim
 [So 18.2.]
-15.30   FC Augsburg           0-1  VfB Stuttgart
-18.00   Bor. Mönchengladbach  0-1  Borussia Dortmund
+15.30   FC Augsburg           0:1  VfB Stuttgart
+18.00   Bor. Mönchengladbach  0:1  Borussia Dortmund
 [Mo 19.2.]
-20.30   Eintracht Frankfurt   2-1  RB Leipzig
+20.30   Eintracht Frankfurt   2:1  RB Leipzig
    
 Spieltag 24
 [Fr 23.2.]
-20.30   1. FSV Mainz 05       1-1  VfL Wolfsburg
+20.30   1. FSV Mainz 05       1:1  VfL Wolfsburg
 [Sa 24.2.]
-15.30   Bayern München        0-0  Hertha BSC
-15.30   1899 Hoffenheim       1-1  SC Freiburg
-15.30   Hannover 96           0-1  Bor. Mönchengladbach
-15.30   VfB Stuttgart         1-0  Eintracht Frankfurt
-18.30   Werder Bremen         1-0  Hamburger SV
+15.30   Bayern München        0:0  Hertha BSC
+15.30   1899 Hoffenheim       1:1  SC Freiburg
+15.30   Hannover 96           0:1  Bor. Mönchengladbach
+15.30   VfB Stuttgart         1:0  Eintracht Frankfurt
+18.30   Werder Bremen         1:0  Hamburger SV
 [So 25.2.]
-15.30   Bayer Leverkusen      0-2  FC Schalke 04
-18.00   RB Leipzig            1-2  1. FC Köln
+15.30   Bayer Leverkusen      0:2  FC Schalke 04
+18.00   RB Leipzig            1:2  1. FC Köln
 [Mo 26.2.]
-20.30   Borussia Dortmund  FC Augsburg
+20.30   Borussia Dortmund     1:1  FC Augsburg
    
 Spieltag 25
 [Fr 2.3.]

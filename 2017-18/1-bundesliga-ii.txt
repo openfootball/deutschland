@@ -103,12 +103,12 @@ Spieltag 25
 [Fr 2.3.]
    Bor. Mönchengladbach       2-2  Werder Bremen
 [Sa 3.3.]
-   RB Leipzig  Borussia Dortmund
-   FC Schalke 04  Hertha BSC
-   Eintracht Frankfurt  Hannover 96
-   FC Augsburg  1899 Hoffenheim
-   Hamburger SV  1. FSV Mainz 05
-   VfL Wolfsburg  Bayer Leverkusen
+   RB Leipzig                 1-1  Borussia Dortmund
+   FC Schalke 04              1-0  Hertha BSC
+   Eintracht Frankfurt        1-0  Hannover 96
+   FC Augsburg                0-2  1899 Hoffenheim
+   Hamburger SV               0-0  1. FSV Mainz 05
+   VfL Wolfsburg              1-2  Bayer Leverkusen
 [So 4.3.]
    1. FC Köln  VfB Stuttgart
    SC Freiburg  Bayern München

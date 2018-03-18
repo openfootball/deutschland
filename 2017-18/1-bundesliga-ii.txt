@@ -132,11 +132,11 @@ Spieltag 27
 [Fr 16.3.]
    SC Freiburg                1-2  VfB Stuttgart
 [Sa 17.3.]
-   Bor. Mönchengladbach  1899 Hoffenheim
-   Hamburger SV  Hertha BSC
-   FC Augsburg  Werder Bremen
-   VfL Wolfsburg  FC Schalke 04
-   Eintracht Frankfurt  1. FSV Mainz 05
+   Bor. Mönchengladbach       3-3  1899 Hoffenheim
+   Hamburger SV               1-2  Hertha BSC
+   FC Augsburg                1-3  Werder Bremen
+   VfL Wolfsburg              0-1  FC Schalke 04
+   Eintracht Frankfurt        3-0  1. FSV Mainz 05
 [So 18.3.]
    Borussia Dortmund  Hannover 96
    1. FC Köln  Bayer Leverkusen

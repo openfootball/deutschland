@@ -148,7 +148,7 @@ Hallescher FC            1-0  Sportfreunde Lotte
 [Sa 17.3.]
 SC Paderborn 07          2-0  FSV Zwickau
 VfR Aalen                1-0  Hansa Rostock
-FC Carl Zeiss Jena  -  1. FC Magdeburg        Termin verschoben
+FC Carl Zeiss Jena  -  1. FC Magdeburg        17.4.
 SpVgg Unterhaching       3-2  Würzburger Kickers
 Karlsruher SC            2-0  SV Meppen
 [So 18.3.]
@@ -157,12 +157,12 @@ VfL Osnabrück            0-1  Preußen Münster
 
 ## Nachtrag 21. Spieltag
 [Di 20.3.]
-SG Sonnenhof Großaspach  0-0   Hansa Rostock
+SG Sonnenhof Großaspach  0-0  Hansa Rostock
 
 31. Spieltag
 [Fr 23.3.]
-FSV Zwickau  -  VfR Aalen
-Werder Bremen II  -  SC Paderborn 07
+FSV Zwickau              2-2  VfR Aalen
+Werder Bremen II         0-2  SC Paderborn 07
 [Sa 24.3.]
 Hansa Rostock  -  FC Carl Zeiss Jena
 Sportfreunde Lotte  -  Chemnitzer FC
@@ -216,6 +216,10 @@ SV Wehen Wiesbaden  -  1. FC Magdeburg
 Fortuna Köln  -  Preußen Münster
 Hallescher FC  -  Würzburger Kickers
 Chemnitzer FC  -  SV Meppen
+
+## Nachtrag 30. Spieltag
+[Di 17.4.]
+FC Carl Zeiss Jena 1. FC Magdeburg
 
 35. Spieltag
 [Sa 21.4.]

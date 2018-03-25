@@ -72,7 +72,7 @@ Vfl Osnabrück             0-0  Karlsruher SC
 Preußen Münster           2-0  Hansa Rostock
 [Sa 17.2.]
 SG Sonnenhof Großaspach   0-0  FC Carl Zeiss Jena
-SV Meppen  -  SC Paderborn 07      27.3.18
+SV Meppen  -  SC Paderborn 07              27.3.18
 Würzburger Kickers        1-1  FSV Zwickau
 Werder Bremen II          1-3  1. FC Magdeburg
 Fortuna Köln              1-0  SV Wehen Wiesbaden
@@ -99,15 +99,15 @@ Karlsruher SC             2-0  Chemnitzer FC
 
 27. Spieltag
 [Fr 2.3.]
-Rot-Weiß Erfurt  -  VfL Osnabrück      Termin verschoben
+Rot-Weiß Erfurt  -  VfL Osnabrück         28.3.18
 Werder Bremen II          1-1  Hansa Rostock
 Sportfreunde Lotte        1-1  Karlsruher SC
 [Sa 3.3.]
-SV Meppen  -  FC Carl Zeiss Jena       Termin verschoben
+SV Meppen  -  FC Carl Zeiss Jena           4.4.18
 Würzburger Kickers        2-2  VfR Aalen
 Preußen Münster           1-1  SC Paderborn 07
-1. FC Magdeburg  -  FSV Zwickau        Termin verschoben
-Chemnitzer FC  -  SV Wehen Wiesbaden   Termin verschoben
+1. FC Magdeburg  -  FSV Zwickau           28.3.18
+Chemnitzer FC  -  SV Wehen Wiesbaden      27.3.18
 SG Sonnenhof Großaspach   1-2  SpVgg Unterhaching
 [So 4.3.]
 Hallescher FC             0-3  Fortuna Köln
@@ -148,7 +148,7 @@ Hallescher FC            1-0  Sportfreunde Lotte
 [Sa 17.3.]
 SC Paderborn 07          2-0  FSV Zwickau
 VfR Aalen                1-0  Hansa Rostock
-FC Carl Zeiss Jena  -  1. FC Magdeburg        17.4.
+FC Carl Zeiss Jena  -  1. FC Magdeburg              17.4.18
 SpVgg Unterhaching       3-2  Würzburger Kickers
 Karlsruher SC            2-0  SV Meppen
 [So 18.3.]

@@ -177,29 +177,35 @@ Spieltag 30
    SV Darmstadt 98  Eintracht Braunschweig
 
 Spieltag 31
+[Fr 20.4.]
+   SpVgg Greuther Fürth  VfL Bochum
+   Eintracht Braunschweig  Arminia Bielefeld
 [Sa 21.4.]
-   Fortuna Düsseldorf  FC Ingolstadt 04
    SV Sandhausen  SV Darmstadt 98
-   1. FC Kaiserslautern  Dynamo Dresden
    1. FC Union Berlin  1. FC Heidenheim 1846
    Jahn Regensburg  FC St. Pauli
-   SpVgg Greuther Fürth  VfL Bochum
-   Holstein Kiel  1. FC Nürnberg
-   Eintracht Braunschweig  Arminia Bielefeld
+[So 22.4.]
+   Fortuna Düsseldorf  FC Ingolstadt 04
+   1. FC Kaiserslautern  Dynamo Dresden
    Erzgebirge Aue  MSV Duisburg
-
+[Mo 23.4.]
+   Holstein Kiel  1. FC Nürnberg
+ 
 Spieltag 32
-[Sa 28.4.]
-   1. FC Nürnberg  Eintracht Braunschweig
-   SV Darmstadt 98  1. FC Union Berlin
-   FC St. Pauli  SpVgg Greuther Fürth
-   1. FC Heidenheim 1846  SV Sandhausen
-   Dynamo Dresden  Fortuna Düsseldorf
+[Fr 27.4.]
    Arminia Bielefeld  1. FC Kaiserslautern
    VfL Bochum  Erzgebirge Aue
+[Sa 28.4.]
+   SV Darmstadt 98  1. FC Union Berlin
+   FC St. Pauli  SpVgg Greuther Fürth
+   Dynamo Dresden  Fortuna Düsseldorf
+[So 29.4.]
    FC Ingolstadt 04  Holstein Kiel
    MSV Duisburg  Jahn Regensburg
-
+   1. FC Heidenheim 1846  SV Sandhausen
+[Mo 30.4.]
+   1. FC Nürnberg  Eintracht Braunschweig
+   
 Spieltag 33
 [So 6.5.]
    Eintracht Braunschweig  FC Ingolstadt 04

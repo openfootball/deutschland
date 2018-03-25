@@ -186,29 +186,34 @@ Spieltag 30
    1. FSV Mainz 05  SC Freiburg
    
 Spieltag 31
+[Fr 20.4.]
+   Bor. Mönchengladbach  VfL Wolfsburg
 [Sa 21.4.]
    Hannover 96  Bayern München
    RB Leipzig  1899 Hoffenheim
    Eintracht Frankfurt  Hertha BSC
    Hamburger SV  SC Freiburg
    VfB Stuttgart  Werder Bremen
-   1. FC Köln  FC Schalke 04
    Borussia Dortmund  Bayer Leverkusen
+[So 22.4.]
    FC Augsburg  1. FSV Mainz 05
-   Bor. Mönchengladbach  VfL Wolfsburg
+   1. FC Köln  FC Schalke 04
+  
 
 Spieltag 32
+[Fr 27.4.]
+   1899 Hoffenheim  Hannover 96
 [Sa 28.4.]
-   Werder Bremen  Borussia Dortmund
-   1. FSV Mainz 05  RB Leipzig
    SC Freiburg  1. FC Köln
    FC Schalke 04  Bor. Mönchengladbach
    Bayern München  Eintracht Frankfurt
    Hertha BSC  FC Augsburg
    VfL Wolfsburg  Hamburger SV
-   1899 Hoffenheim  Hannover 96
    Bayer Leverkusen  VfB Stuttgart
-
+[So 29.4.]
+   Werder Bremen  Borussia Dortmund
+   1. FSV Mainz 05  RB Leipzig
+   
 Spieltag 33
 [Sa 5.5.]
  15.30   1. FC Köln  Bayern München

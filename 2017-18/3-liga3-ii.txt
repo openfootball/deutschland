@@ -187,9 +187,6 @@ Rot-Weiß Erfurt  Vfl Osnabrück
 
 32. Spieltag
 [Sa 31.3.]
-Sportfreunde Lotte  -  Werder Bremen II
-Hallescher FC  -  Rot-Weiß Erfurt
-Chemnitzer FC  -  SG Sonnenhof Großaspach
 VfR Aalen  -  SC Paderborn 07
 FC Carl Zeiss Jena  -  FSV Zwickau
 VfL Osnabrück  -  Hansa Rostock
@@ -197,65 +194,77 @@ SpVgg Unterhaching  -  1. FC Magdeburg
 Karlsruher SC  -  Preußen Münster
 SV Wehen Wiesbaden  -  Würzburger Kickers
 Fortuna Köln  -  SV Meppen
+[So 1.4.]
+Sportfreunde Lotte  -  Werder Bremen II
+Hallescher FC  -  Rot-Weiß Erfurt
+Chemnitzer FC  -  SG Sonnenhof Großaspach
 
 ## Nachtrag 27. Spieltag
 [Mi 4.4.]
 SV Meppen  FC Carl Zeiss Jena
 
 33. Spieltag
-[Sa 7.4.]
-FSV Zwickau  -  VfL Osnabrück
-SC Paderborn 07  -  FC Carl Zeiss Jena
+[Fr 6.4.]
 Werder Bremen II  -  VfR Aalen
+[Sa 7.4.]
+SC Paderborn 07  -  FC Carl Zeiss Jena
 SG Sonnenhof Großaspach  -  Sportfreunde Lotte
-Rot-Weiß Erfurt  -  Chemnitzer FC
-SV Meppen  -  Hallescher FC
 Würzburger Kickers  -  Fortuna Köln
 Preußen Münster  -  SV Wehen Wiesbaden
 1. FC Magdeburg  -  Karlsruher SC
 Hansa Rostock  -  SpVgg Unterhaching
+[So 8.4.]
+Rot-Weiß Erfurt  -  Chemnitzer FC
+SV Meppen  -  Hallescher FC
+FSV Zwickau  -  VfL Osnabrück
 
 34. Spieltag
+[Fr 13.4.]
+SV Wehen Wiesbaden  -  1. FC Magdeburg
 [Sa 14.4.]
 SG Sonnenhof Großaspach  -  Werder Bremen II
-Sportfreunde Lotte  -  Rot-Weiß Erfurt
 FC Carl Zeiss Jena  -  VfR Aalen
 VfL Osnabrück  -  SC Paderborn 07
 SpVgg Unterhaching  -  FSV Zwickau
-Karlsruher SC  -  Hansa Rostock
-SV Wehen Wiesbaden  -  1. FC Magdeburg
 Fortuna Köln  -  Preußen Münster
 Hallescher FC  -  Würzburger Kickers
+[So 15.4.]
+Sportfreunde Lotte  -  Rot-Weiß Erfurt
 Chemnitzer FC  -  SV Meppen
+Karlsruher SC  -  Hansa Rostock
 
 ## Nachtrag 30. Spieltag
 [Di 17.4.]
 FC Carl Zeiss Jena 1. FC Magdeburg
 
 35. Spieltag
+[Fr 20.4.]
+SV Meppen  -  Sportfreunde Lotte
 [Sa 21.4.]
-VfR Aalen  -  VfL Osnabrück
 Werder Bremen II  -  FC Carl Zeiss Jena
 Rot-Weiß Erfurt  -  SG Sonnenhof Großaspach
-SV Meppen  -  Sportfreunde Lotte
 Würzburger Kickers  -  Chemnitzer FC
 Preußen Münster  -  Hallescher FC
 1. FC Magdeburg  -  Fortuna Köln
-Hansa Rostock  -  SV Wehen Wiesbaden
 FSV Zwickau  -  Karlsruher SC
 SC Paderborn 07  -  SpVgg Unterhaching
+[So 22.4.]
+VfR Aalen  -  VfL Osnabrück
+Hansa Rostock  -  SV Wehen Wiesbaden
 
 36. Spieltag
-[Sa 28.4.]
-Rot-Weiß Erfurt  -  Werder Bremen II
-VfL Osnabrück  -  FC Carl Zeiss Jena
+[Fr 27.4.]
 SpVgg Unterhaching  -  VfR Aalen
+[Sa 28.4.]
+VfL Osnabrück  -  FC Carl Zeiss Jena
 Karlsruher SC  -  SC Paderborn 07
 SV Wehen Wiesbaden  -  FSV Zwickau
 Fortuna Köln  -  Hansa Rostock
 Hallescher FC  -  1. FC Magdeburg
-Chemnitzer FC  -  Preußen Münster
 Sportfreunde Lotte  -  Würzburger Kickers
+[So 29.4.]
+Rot-Weiß Erfurt  -  Werder Bremen II
+Chemnitzer FC  -  Preußen Münster
 SG Sonnenhof Großaspach  -  SV Meppen
 
 37. Spieltag

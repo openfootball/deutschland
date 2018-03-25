@@ -135,40 +135,46 @@ Spieltag 27
    Erzgebirge Aue           2-1  SpVgg Greuther Fürth
    
 Spieltag 28
-[So 1.4.]
+[Sa 31.3.]
+   Dynamo Dresden  1. FC Nürnberg
+   MSV Duisburg  1. FC Kaiserslautern
    1. FC Heidenheim 1846  FC Ingolstadt 04
+[So 1.4.]
    VfL Bochum  Eintracht Braunschweig
    SpVgg Greuther Fürth  1. FC Union Berlin
    FC St. Pauli  SV Sandhausen
-   SV Darmstadt 98  Fortuna Düsseldorf
-   Dynamo Dresden  1. FC Nürnberg
-   MSV Duisburg  1. FC Kaiserslautern
    Jahn Regensburg  Erzgebirge Aue
    Arminia Bielefeld  Holstein Kiel
-
+[Mo 2.4.]
+   SV Darmstadt 98  Fortuna Düsseldorf
+   
 Spieltag 29
-[Sa 7.4.]
-   Holstein Kiel  SV Darmstadt 98
-   Eintracht Braunschweig  Dynamo Dresden
-   1. FC Nürnberg  1. FC Heidenheim 1846
-   Erzgebirge Aue  FC St. Pauli
+[Fr 6.4.]
    SV Sandhausen  SpVgg Greuther Fürth
    Fortuna Düsseldorf  VfL Bochum
-   FC Ingolstadt 04  Arminia Bielefeld
+[Sa 7.4.]
+   Holstein Kiel  SV Darmstadt 98
+   1. FC Nürnberg  1. FC Heidenheim 1846
+   Erzgebirge Aue  FC St. Pauli
    1. FC Union Berlin  MSV Duisburg
+[So 8.4.]
+   Eintracht Braunschweig  Dynamo Dresden
+   FC Ingolstadt 04  Arminia Bielefeld
    1. FC Kaiserslautern  Jahn Regensburg
-
+  
 Spieltag 30
+[Fr 13.4.]
+   VfL Bochum  1. FC Kaiserslautern
+   SpVgg Greuther Fürth  Jahn Regensburg
 [Sa 14.4.]
-   SV Darmstadt 98  Eintracht Braunschweig
    FC St. Pauli  1. FC Union Berlin
    MSV Duisburg  SV Sandhausen
-   1. FC Heidenheim 1846  Fortuna Düsseldorf
-   FC Ingolstadt 04  1. FC Nürnberg
-   VfL Bochum  1. FC Kaiserslautern
    Arminia Bielefeld  Erzgebirge Aue
    Dynamo Dresden  Holstein Kiel
-   SpVgg Greuther Fürth  Jahn Regensburg
+ [So 15.4.]
+   1. FC Heidenheim 1846  Fortuna Düsseldorf
+   FC Ingolstadt 04  1. FC Nürnberg
+   SV Darmstadt 98  Eintracht Braunschweig
 
 Spieltag 31
 [Sa 21.4.]

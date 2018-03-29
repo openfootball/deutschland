@@ -99,14 +99,14 @@ Karlsruher SC             2-0  Chemnitzer FC
 
 27. Spieltag
 [Fr 2.3.]
-Rot-Weiß Erfurt  -  VfL Osnabrück         28.3.18
+Rot-Weiß Erfurt           4-4  VfL Osnabrück         
 Werder Bremen II          1-1  Hansa Rostock
 Sportfreunde Lotte        1-1  Karlsruher SC
 [Sa 3.3.]
 SV Meppen  -  FC Carl Zeiss Jena           4.4.18
 Würzburger Kickers        2-2  VfR Aalen
 Preußen Münster           1-1  SC Paderborn 07
-1. FC Magdeburg  -  FSV Zwickau           28.3.18
+1. FC Magdeburg           2-2  FSV Zwickau           
 Chemnitzer FC             1-4  SV Wehen Wiesbaden     
 SG Sonnenhof Großaspach   1-2  SpVgg Unterhaching
 [So 4.3.]
@@ -186,8 +186,8 @@ FC Carl Zeiss Jena        1-2 Würzburger Kickers
 
 ## Nachtrag 27. Spieltag
 [Mi 28.3.]
-Rot-Weiß Erfurt  Vfl Osnabrück
-1. FC Magdeburg  FSV Zwickau
+Rot-Weiß Erfurt           4-4  Vfl Osnabrück
+1. FC Magdeburg           2-2  FSV Zwickau
 
 32. Spieltag
 [Sa 31.3.]

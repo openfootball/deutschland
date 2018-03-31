@@ -144,11 +144,11 @@ Spieltag 27
    
 Spieltag 28
 [Sa 31.3.]
-15.30   Hannover 96  RB Leipzig
-15.30   1899 Hoffenheim  1. FC Köln
-15.30   FC Schalke 04  SC Freiburg
-15.30   Bayer Leverkusen  FC Augsburg
-15.30   VfB Stuttgart  Hamburger SV
+15.30   Hannover 96           2:3  RB Leipzig
+15.30   1899 Hoffenheim       6:0  1. FC Köln
+15.30   FC Schalke 04         2:0  SC Freiburg
+15.30   Bayer Leverkusen      0:0  FC Augsburg
+15.30   VfB Stuttgart         1:1  Hamburger SV
 18.30   Bayern München  Borussia Dortmund
 20.30   Hertha BSC  VfL Wolfsburg
 [So 1.4.]

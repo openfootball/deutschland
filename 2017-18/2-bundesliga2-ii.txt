@@ -140,11 +140,11 @@ Spieltag 28
    MSV Duisburg             1-4  1. FC Kaiserslautern
    1. FC Heidenheim 1846    1-2  FC Ingolstadt 04
 [So 1.4.]
-   VfL Bochum  Eintracht Braunschweig
-   SpVgg Greuther Fürth  1. FC Union Berlin
-   FC St. Pauli  SV Sandhausen
-   Jahn Regensburg  Erzgebirge Aue
-   Arminia Bielefeld  Holstein Kiel
+   VfL Bochum               2-0  Eintracht Braunschweig
+   SpVgg Greuther Fürth     2-1  1. FC Union Berlin
+   FC St. Pauli             1-1  SV Sandhausen
+   Jahn Regensburg          1-3  Erzgebirge Aue
+   Arminia Bielefeld        1-1  Holstein Kiel
 [Mo 2.4.]
    SV Darmstadt 98  Fortuna Düsseldorf
    

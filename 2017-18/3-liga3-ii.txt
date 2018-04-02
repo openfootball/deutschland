@@ -199,9 +199,9 @@ SV Wehen Wiesbaden        0-2  Würzburger Kickers
 Fortuna Köln              0-2  SV Meppen
 Chemnitzer FC             2-3  SG Sonnenhof Großaspach
 [So 1.4.]
-Sportfreunde Lotte  -  Werder Bremen II
-Hallescher FC  -  Rot-Weiß Erfurt
-SpVgg Unterhaching  -  1. FC Magdeburg
+Sportfreunde Lotte        3-2  Werder Bremen II
+Hallescher FC             3-0  Rot-Weiß Erfurt
+SpVgg Unterhaching        0-1  1. FC Magdeburg
 
 ## Nachtrag 27. Spieltag
 [Mi 4.4.]

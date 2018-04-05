@@ -229,3 +229,15 @@ Spieltag 34
    FC Ingolstadt 04  1. FC Kaiserslautern
    SV Darmstadt 98  Erzgebirge Aue
    VfL Bochum  Jahn Regensburg
+
+##Relegationsspiele für einen 1. Bundesligaplatz 2018/19:
+wahrscheinlich [Do 17.5.]
+Hinspiel
+wahrscheinlich [So 20.5.]
+Rückspiel
+
+##Relegationsspiel für einen 2. Bundesligaplatz 2018/19:
+[Fr 18.5.]
+Hinspiel
+[Mo 21.5.]
+Rückspiel

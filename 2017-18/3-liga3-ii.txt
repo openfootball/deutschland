@@ -103,7 +103,7 @@ Rot-Weiß Erfurt           4-4  VfL Osnabrück
 Werder Bremen II          1-1  Hansa Rostock
 Sportfreunde Lotte        1-1  Karlsruher SC
 [Sa 3.3.]
-SV Meppen  -  FC Carl Zeiss Jena           4.4.18
+SV Meppen                 2-1  FC Carl Zeiss Jena           
 Würzburger Kickers        2-2  VfR Aalen
 Preußen Münster           1-1  SC Paderborn 07
 1. FC Magdeburg           2-2  FSV Zwickau           
@@ -208,7 +208,7 @@ Rot-Weiß Erfurt
 
 ## Nachtrag 27. Spieltag
 [Mi 4.4.]
-SV Meppen  FC Carl Zeiss Jena
+SV Meppen                 2-1  FC Carl Zeiss Jena
 
 33. Spieltag
 [Fr 6.4.]

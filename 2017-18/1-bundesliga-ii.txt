@@ -159,14 +159,14 @@ Spieltag 29
 [Fr 6.4.]
    Hannover 96                2-1  Werder Bremen
 [Sa 7.4.]
-   FC Augsburg  Bayern München
-   Eintracht Frankfurt  1899 Hoffenheim
-   Bor. Mönchengladbach  Hertha BSC
-   Hamburger SV  FC Schalke 04
-   1. FC Köln  1. FSV Mainz 05
+   FC Augsburg                1-4  Bayern München
+   SC Freiburg                0-2  VfL Wolfsburg
+   Bor. Mönchengladbach       2-1  Hertha BSC
+   Hamburger SV               3-2  FC Schalke 04
+   1. FC Köln                 1-1  1. FSV Mainz 05
 [So 8.4.]
-   SC Freiburg  VfL Wolfsburg
    Borussia Dortmund  VfB Stuttgart
+   Eintracht Frankfurt  1899 Hoffenheim
 [Mo 9.4.]
    RB Leipzig  Bayer Leverkusen
    

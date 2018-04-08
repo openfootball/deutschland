@@ -214,12 +214,12 @@ SV Meppen                 2-1  FC Carl Zeiss Jena
 [Fr 6.4.]
 Werder Bremen II          1-0  VfR Aalen
 [Sa 7.4.]
-SC Paderborn 07  -  FC Carl Zeiss Jena
-SG Sonnenhof Großaspach  -  Sportfreunde Lotte
-Würzburger Kickers  -  Fortuna Köln
-Preußen Münster  -  SV Wehen Wiesbaden
-1. FC Magdeburg  -  Karlsruher SC
-Hansa Rostock  -  SpVgg Unterhaching
+SC Paderborn 07           6-0  FC Carl Zeiss Jena
+SG Sonnenhof Großaspach   1-1  Sportfreunde Lotte
+Würzburger Kickers        1-0  Fortuna Köln
+Preußen Münster           1-0  SV Wehen Wiesbaden
+1. FC Magdeburg           2-0  Karlsruher SC
+Hansa Rostock             1-1  SpVgg Unterhaching
 [So 8.4.]
 Rot-Weiß Erfurt  -  Chemnitzer FC
 SV Meppen  -  Hallescher FC

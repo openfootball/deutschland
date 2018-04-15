@@ -229,16 +229,16 @@ FSV Zwickau               1-1  VfL Osnabrück
 [Fr 13.4.]
 SV Wehen Wiesbaden        1-2  1. FC Magdeburg
 [Sa 14.4.]
-SG Sonnenhof Großaspach  -  Werder Bremen II
-FC Carl Zeiss Jena  -  VfR Aalen
-VfL Osnabrück  -  SC Paderborn 07
-SpVgg Unterhaching  -  FSV Zwickau
-Fortuna Köln  -  Preußen Münster
-Hallescher FC  -  Würzburger Kickers
+SG Sonnenhof Großaspach   2-2  Werder Bremen II
+FC Carl Zeiss Jena        3-2  VfR Aalen
+VfL Osnabrück             0-5  SC Paderborn 07
+Chemnitzer FC             1-2  SV Meppen
+Fortuna Köln              2-4  Preußen Münster
+Hallescher FC             1-3  Würzburger Kickers
 [So 15.4.]
 Sportfreunde Lotte  -  Rot-Weiß Erfurt
-Chemnitzer FC  -  SV Meppen
 Karlsruher SC  -  Hansa Rostock
+SpVgg Unterhaching  -  FSV Zwickau
 
 ## Nachtrag 30. Spieltag
 [Di 17.4.]

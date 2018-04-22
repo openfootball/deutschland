@@ -157,50 +157,50 @@ Spieltag 28
    
 Spieltag 29
 [Fr 6.4.]
-   Hannover 96                2:1  Werder Bremen
+20.30   Hannover 96           2:1  Werder Bremen
 [Sa 7.4.]
-   FC Augsburg                1:4  Bayern München
-   SC Freiburg                0:2  VfL Wolfsburg
-   Bor. Mönchengladbach       2:1  Hertha BSC
-   Hamburger SV               3:2  FC Schalke 04
-   1. FC Köln                 1:1  1. FSV Mainz 05
+15.30   FC Augsburg           1:4  Bayern München
+15.30   SC Freiburg           0:2  VfL Wolfsburg
+15.30   Bor. Mönchengladbach  2:1  Hertha BSC
+18.30   Hamburger SV          3:2  FC Schalke 04
+15.30   1. FC Köln            1:1  1. FSV Mainz 05
 [So 8.4.]
-   Borussia Dortmund          3:0  VfB Stuttgart
-   Eintracht Frankfurt        1:1  1899 Hoffenheim
+15.30   Borussia Dortmund     3:0  VfB Stuttgart
+18.00   Eintracht Frankfurt   1:1  1899 Hoffenheim
 [Mo 9.4.]
-   RB Leipzig                 1:4  Bayer Leverkusen
+20.30   RB Leipzig            1:4  Bayer Leverkusen
    
 Spieltag 30
 [Fr 13.4.]
-   VfL Wolfsburg              0:0  FC Augsburg
+20.30   VfL Wolfsburg         0:0  FC Augsburg
 [Sa 14.4.]
-   Hertha BSC                 2:1  1. FC Köln
-   Bayern München             5:1  Bor. Mönchengladbach
-   Bayer Leverkusen           4:1  Eintracht Frankfurt
-   1899 Hoffenheim            2:0  Hamburger SV
-   VfB Stuttgart              1:1  Hannover 96
+15.30   Hertha BSC            2:1  1. FC Köln
+18.30   Bayern München        5:1  Bor. Mönchengladbach
+15.30   Bayer Leverkusen      4:1  Eintracht Frankfurt
+15.30   1899 Hoffenheim       2:0  Hamburger SV
+15.30   VfB Stuttgart         1:1  Hannover 96
 [So 15.4.]
-   FC Schalke 04              2:0  Borussia Dortmund
-   Werder Bremen              1:1  RB Leipzig
+15.30   FC Schalke 04         2:0  Borussia Dortmund
+18.00   Werder Bremen         1:1  RB Leipzig
 [Mo 16.4.]
-   1. FSV Mainz 05            2:0  SC Freiburg
+20.30   1. FSV Mainz 05       2:0  SC Freiburg
  
  ## Meister 1. Bundesliga 2017/18:
    Bayern München
    
 Spieltag 31
 [Fr 20.4.]
-   Bor. Mönchengladbach       3-0  VfL Wolfsburg
+20.30   Bor. Mönchengladbach  3:0  VfL Wolfsburg
 [Sa 21.4.]
-   Hannover 96                0-3  Bayern München
-   RB Leipzig                 2-5  1899 Hoffenheim
-   Eintracht Frankfurt        0-3  Hertha BSC
-   Hamburger SV               1-0  SC Freiburg
-   VfB Stuttgart              2-0  Werder Bremen
-   Borussia Dortmund          4-0  Bayer Leverkusen
+15.30   Hannover 96           0:3  Bayern München
+15.30   RB Leipzig            2:5  1899 Hoffenheim
+15.30   Eintracht Frankfurt   0:3  Hertha BSC
+15.30   Hamburger SV          1:0  SC Freiburg
+15.30   VfB Stuttgart         2:0  Werder Bremen
+18.30   Borussia Dortmund          4:0  Bayer Leverkusen
 [So 22.4.]
-   FC Augsburg  1. FSV Mainz 05
-   1. FC Köln  FC Schalke 04
+15.30   FC Augsburg                2:0  1. FSV Mainz 05
+18.00   1. FC Köln  FC Schalke 04
   
 
 Spieltag 32

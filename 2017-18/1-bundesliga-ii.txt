@@ -192,12 +192,12 @@ Spieltag 31
 [Fr 20.4.]
    Bor. Mönchengladbach       3-0  VfL Wolfsburg
 [Sa 21.4.]
-   Hannover 96  Bayern München
-   RB Leipzig  1899 Hoffenheim
-   Eintracht Frankfurt  Hertha BSC
-   Hamburger SV  SC Freiburg
-   VfB Stuttgart  Werder Bremen
-   Borussia Dortmund  Bayer Leverkusen
+   Hannover 96                0-3  Bayern München
+   RB Leipzig                 2-5  1899 Hoffenheim
+   Eintracht Frankfurt        0-3  Hertha BSC
+   Hamburger SV               1-0  SC Freiburg
+   VfB Stuttgart              2-0  Werder Bremen
+   Borussia Dortmund          4-0  Bayer Leverkusen
 [So 22.4.]
    FC Augsburg  1. FSV Mainz 05
    1. FC Köln  FC Schalke 04

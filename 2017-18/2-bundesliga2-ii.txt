@@ -193,8 +193,8 @@ Spieltag 31
  
 Spieltag 32
 [Fr 27.4.]
-   Arminia Bielefeld  1. FC Kaiserslautern
-   VfL Bochum  Erzgebirge Aue
+   Arminia Bielefeld        3-2  1. FC Kaiserslautern
+   VfL Bochum               2-1  Erzgebirge Aue
 [Sa 28.4.]
    SV Darmstadt 98  1. FC Union Berlin
    FC St. Pauli  SpVgg Greuther Fürth
@@ -205,6 +205,9 @@ Spieltag 32
    1. FC Heidenheim 1846  SV Sandhausen
 [Mo 30.4.]
    1. FC Nürnberg  Eintracht Braunschweig
+
+## 1. Absteiger in 3. Liga 2018/19:
+   1. FC Kaiserslautern
    
 Spieltag 33
 [So 6.5.]

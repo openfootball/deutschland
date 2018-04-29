@@ -196,9 +196,9 @@ Spieltag 32
    Arminia Bielefeld        3-2  1. FC Kaiserslautern
    VfL Bochum               2-1  Erzgebirge Aue
 [Sa 28.4.]
-   SV Darmstadt 98  1. FC Union Berlin
-   FC St. Pauli  SpVgg Greuther Fürth
-   Dynamo Dresden  Fortuna Düsseldorf
+   SV Darmstadt 98          3-1  1. FC Union Berlin
+   FC St. Pauli             3-0  SpVgg Greuther Fürth
+   Dynamo Dresden           1-2  Fortuna Düsseldorf
 [So 29.4.]
    FC Ingolstadt 04  Holstein Kiel
    MSV Duisburg  Jahn Regensburg
@@ -208,6 +208,9 @@ Spieltag 32
 
 ## 1. Absteiger in 3. Liga 2018/19:
    1. FC Kaiserslautern
+   
+## 1. Aufsteiger in 1. Bundesliga 2018/19:
+   Fortuna Düsseldorf
    
 Spieltag 33
 [So 6.5.]

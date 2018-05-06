@@ -287,16 +287,16 @@ SG Sonnenhof Großaspach    2-3  SV Meppen
 
 37. Spieltag
 [Sa 5.5.]
-  VfL Osnabrück  -  Werder Bremen II
-  SV Meppen  -  Rot-Weiß Erfurt
-  Würzburger Kickers  -  SG Sonnenhof Großaspach
-  Preußen Münster  -  Sportfreunde Lotte
-  1. FC Magdeburg  -  Chemnitzer FC
-  Hansa Rostock  -  Hallescher FC
-  FSV Zwickau  -  Fortuna Köln
-  SC Paderborn 07  -  SV Wehen Wiesbaden
-  VfR Aalen  -  Karlsruher SC
-  FC Carl Zeiss Jena  -  SpVgg Unterhaching
+  VfL Osnabrück            1-1  Werder Bremen II
+  SV Meppen                3-0  Rot-Weiß Erfurt
+  Würzburger Kickers       1-1  SG Sonnenhof Großaspach
+  Preußen Münster          3-0  Sportfreunde Lotte
+  1. FC Magdeburg          3-1  Chemnitzer FC
+  Hansa Rostock            4-2  Hallescher FC
+  FSV Zwickau              1-0  Fortuna Köln
+  SC Paderborn 07          3-1  SV Wehen Wiesbaden
+  VfR Aalen                0-2  Karlsruher SC
+  FC Carl Zeiss Jena       2-1  SpVgg Unterhaching
 
 38. Spieltag
 [Sa 12.5.]
@@ -313,19 +313,19 @@ SG Sonnenhof Großaspach    2-3  SV Meppen
   
   ##Relegationsspiele um einen 2. Bundesligaplatz 2018/19:
   [Fr 18.5.]
-  Karlsruher SC or SV Wehen Wiesbaden - 16. 2.Bundesliga
+  Karlsruher SC - 16. 2.Bundesliga
   [Mo 21.5.]
-  16. 2.Bundesliga - Karlsruher SC or SV Wehen Wiesbaden
+  16. 2.Bundesliga - Karlsruher SC
   
   ##Aufstiegsspiele Sieger in 3. Liga 2018/19:
   [Do 24.5.]  
-  Sieger Nord - Energie Cottbus
-  wahrscheinlich 1. FC Saarbrücken or Zweiter Südwest - wahrscheinlich TSV 1860 München
-  wahrscheinlich KFC Uerdingen - wahrscheinlich 1. FC Saarbrücken or Zweiter Südwest
+  Flensburg or HSV II - Energie Cottbus
+  1. FC Saarbrücken or SV Waldhof Mannheim -  TSV 1860 München
+  KFC Uerdingen or Viktoria Köln - 1. FC Saarbrücken or SV Waldhof Mannheim
   
   [So 27.5.]
-  Energie Cottbus - Sieger Nord
-  wahrscheinlich TSV 1860 München - Zweiter Südwest or 1. FC Saarbrücken 
-  wahrscheinlich 1. FC Saarbrücken or Zweiter Südwest - wahrscheinlich KFC Uerdingen
+  Energie Cottbus - Flensburg or HSV II
+  TSV 1860 München - SV Waldhof Mannheim or 1. FC Saarbrücken 
+  1. FC Saarbrücken or SV Waldhof Mannheim - KFC Uerdingen or Viktoria Köln
   
   

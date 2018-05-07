@@ -214,16 +214,19 @@ Spieltag 32
    
 Spieltag 33
 [So 6.5.]
-   Eintracht Braunschweig  FC Ingolstadt 04
-   Jahn Regensburg  SV Darmstadt 98
-   Erzgebirge Aue  Dynamo Dresden
-   1. FC Kaiserslautern  1. FC Heidenheim 1846
-   1. FC Union Berlin  VfL Bochum
-   SV Sandhausen  1. FC Nürnberg
-   FC St. Pauli  Arminia Bielefeld
-   SpVgg Greuther Fürth  MSV Duisburg
-   Fortuna Düsseldorf  Holstein Kiel
+   Eintracht Braunschweig    0-2  FC Ingolstadt 04
+   Jahn Regensburg           0-3  SV Darmstadt 98
+   Erzgebirge Aue            0-0  Dynamo Dresden
+   1. FC Kaiserslautern      1-0  1. FC Heidenheim 1846
+   1. FC Union Berlin        3-1  VfL Bochum
+   SV Sandhausen             0-2  1. FC Nürnberg
+   FC St. Pauli              1-0  Arminia Bielefeld
+   SpVgg Greuther Fürth      2-2  MSV Duisburg
+   Fortuna Düsseldorf        1-1  Holstein Kiel
 
+## 2. Aufsteiger in 1. Bundesliga 2018/19:
+   1. FC Nürnberg
+   
 Spieltag 34
 [So 13.5.]
    Holstein Kiel  Eintracht Braunschweig
@@ -238,12 +241,12 @@ Spieltag 34
 
 ##Relegationsspiele für einen 1. Bundesligaplatz 2018/19:
 [Do 17.5.]
-16. 1. Bundesliga - wahrscheinlich Holstein Kiel
+16. 1. Bundesliga - Holstein Kiel
 [Mo 21.5.]
-wahrscheinlich Holstein Kiel - 16. 1. Bundesliga
+Holstein Kiel - 16. 1. Bundesliga
 
 ##Relegationsspiel für einen 2. Bundesligaplatz 2018/19:
 [Fr 18.5.]
-Karlsruher SC or SV Wehen Wiesbaden - 16. 2. Bundesliga
+Karlsruher SC - 16. 2. Bundesliga
 [Mo 21.5.]
-16. 2. Bundesliga - Karlsruher SC or SV Wehen Wiesbaden
+16. 2. Bundesliga - Karlsruher SC 

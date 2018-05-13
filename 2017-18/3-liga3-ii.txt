@@ -300,17 +300,20 @@ SG Sonnenhof Großaspach    2-3  SV Meppen
 
 38. Spieltag
 [Sa 12.5.]
-  SpVgg Unterhaching  -  VfL Osnabrück
-  Karlsruher SC  -  FC Carl Zeiss Jena
-  SV Wehen Wiesbaden  -  VfR Aalen
-  Fortuna Köln  -  SC Paderborn 07
-  Hallescher FC  -  FSV Zwickau
-  Chemnitzer FC  -  Hansa Rostock
-  Sportfreunde Lotte  -  1. FC Magdeburg
-  SG Sonnenhof Großaspach  -  Preußen Münster
-  Rot-Weiß Erfurt  -  Würzburger Kickers
-  Werder Bremen II  -  SV Meppen
+  SpVgg Unterhaching       4-1  VfL Osnabrück
+  Karlsruher SC            2-3  FC Carl Zeiss Jena
+  SV Wehen Wiesbaden       2-0  VfR Aalen
+  Fortuna Köln             2-4  SC Paderborn 07
+  Hallescher FC            2-0  FSV Zwickau
+  Chemnitzer FC            1-1  Hansa Rostock
+  Sportfreunde Lotte       0-1  1. FC Magdeburg
+  SG Sonnenhof Großaspach  2-2  Preußen Münster
+  Rot-Weiß Erfurt          1-3  Würzburger Kickers
+  Werder Bremen II         2-1  SV Meppen
   
+  ## Absteiger von 2. Bundesliga 2017/18:
+     1. FC Kaiserslautern
+     
   ##Relegationsspiele um einen 2. Bundesligaplatz 2018/19:
   [Fr 18.5.]
   Karlsruher SC - 16. 2.Bundesliga
@@ -329,3 +332,5 @@ SG Sonnenhof Großaspach    2-3  SV Meppen
   SV Waldhof Mannheim - KFC Uerdingen or Viktoria Köln
   
   
+## Sommerpause bis 27.7.18
+

@@ -229,30 +229,33 @@ Spieltag 33
    
 Spieltag 34
 [So 13.5.]
-   Holstein Kiel  Eintracht Braunschweig
-   Dynamo Dresden  1. FC Union Berlin
-   MSV Duisburg  FC St. Pauli
-   1. FC Heidenheim 1846  SpVgg Greuther Fürth
-   Arminia Bielefeld  SV Sandhausen
-   1. FC Nürnberg  Fortuna Düsseldorf
-   FC Ingolstadt 04  1. FC Kaiserslautern
-   SV Darmstadt 98  Erzgebirge Aue
-   VfL Bochum  Jahn Regensburg
+   Holstein Kiel             6-2  Eintracht Braunschweig
+   Dynamo Dresden            0-1  1. FC Union Berlin
+   MSV Duisburg              2-0  FC St. Pauli
+   1. FC Heidenheim 1846     1-1  SpVgg Greuther Fürth
+   Arminia Bielefeld         0-0  SV Sandhausen
+   1. FC Nürnberg            2-3  Fortuna Düsseldorf
+   FC Ingolstadt 04          1-3  1. FC Kaiserslautern
+   SV Darmstadt 98           1-0  Erzgebirge Aue
+   VfL Bochum                1-1  Jahn Regensburg
    
 ## Absteiger 1. Bundesliga 2017/18:
    1.  FC Köln
    Hamburger SV
 
-##Relegationsspiele für einen 1. Bundesligaplatz 2018/19:
+## 2. Absteiger 2. Bundesliga 2017/18:
+   Eintracht Braunschweig
+   
+## Relegationsspiele für einen 1. Bundesligaplatz 2018/19:
 [Do 17.5.]
 Vfl Wolfsburg - Holstein Kiel
 [Mo 21.5.]
 Holstein Kiel - Vfl Wolfsburg
 
-##Relegationsspiele für einen 2. Bundesligaplatz 2018/19:
+## Relegationsspiele für einen 2. Bundesligaplatz 2018/19:
 [Fr 18.5.]
-Karlsruher SC - 16. 2. Bundesliga
+Karlsruher SC - Erzgebirge Aue
 [Di 22.5.]
-16. 2. Bundesliga - Karlsruher SC 
+Erzgebirge Aue - Karlsruher SC 
 
-## Sommerpause bis 07.8.18
+## Sommerpause bis 07.08.18

@@ -4,25 +4,25 @@
 
 Spieltag 1
 [Fr 3.8.]
-  Hamburger SV            - Holstein Kiel
+  Hamburger SV            0-3 Holstein Kiel
 [Sa 4.8.]
-  VfL Bochum              - 1. FC Köln
-  Jahn Regensburg         - FC Ingolstadt 04
-  SpVgg Greuther Fürth    - SV Sandhausen
+  VfL Bochum              0-2 1. FC Köln
+  Jahn Regensburg         2-1 FC Ingolstadt 04
+  SpVgg Greuther Fürth    3-1 SV Sandhausen
 [So 5.8.]
-  1. FC Magdeburg         - FC St. Pauli
-  1. FC Union Berlin      - Erzgebirge Aue
-  SV Darmstadt 98         - SC Paderborn 07
-  1. FC Heidenheim 1846   - Arminia Bielefeld
+  1. FC Magdeburg         1-2 FC St. Pauli
+  1. FC Union Berlin      1-0 Erzgebirge Aue
+  SV Darmstadt 98         1-0 SC Paderborn 07
+  1. FC Heidenheim 1846   1-1 Arminia Bielefeld
 [Mo 6.8.]
-  Dynamo Dresden          - MSV Duisburg
+  Dynamo Dresden          1-0 MSV Duisburg
 
 
 Spieltag 2
 [Fr 10.8.]
-  FC Ingolstadt 04        - SpVgg Greuther Fürth
-  SC Paderborn 07         - Jahn Regensburg
-  FC St. Pauli            - SV Darmstadt 98
+  FC Ingolstadt 04        1-1 SpVgg Greuther Fürth
+  SC Paderborn 07         2-0 Jahn Regensburg
+  FC St. Pauli            2-0 SV Darmstadt 98
 [Sa 11.8.]
   MSV Duisburg            - VfL Bochum
   Arminia Bielefeld       - Dynamo Dresden

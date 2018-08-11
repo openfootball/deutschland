@@ -1,0 +1,466 @@
+###################################
+# Deutsche 2. Bundesliga 2018/19
+
+
+Spieltag 1
+[Fr 3.8.]
+  Hamburger SV            0-3 Holstein Kiel
+[Sa 4.8.]
+  VfL Bochum              0-2 1. FC Köln
+  Jahn Regensburg         2-1 FC Ingolstadt 04
+  SpVgg Greuther Fürth    3-1 SV Sandhausen
+[So 5.8.]
+  1. FC Magdeburg         1-2 FC St. Pauli
+  1. FC Union Berlin      1-0 Erzgebirge Aue
+  SV Darmstadt 98         1-0 SC Paderborn 07
+  1. FC Heidenheim 1846   1-1 Arminia Bielefeld
+[Mo 6.8.]
+  Dynamo Dresden          1-0 MSV Duisburg
+
+
+Spieltag 2
+[Fr 10.8.]
+  FC Ingolstadt 04        1-1 SpVgg Greuther Fürth
+  SC Paderborn 07         2-0 Jahn Regensburg
+  FC St. Pauli            2-0 SV Darmstadt 98
+[Sa 11.8.]
+  MSV Duisburg            - VfL Bochum
+  Arminia Bielefeld       - Dynamo Dresden
+[So 12.8.]
+  SV Sandhausen           - Hamburger SV
+  Holstein Kiel           - 1. FC Heidenheim 1846
+  Erzgebirge Aue          - 1. FC Magdeburg
+[Mo 13.8.]
+  1. FC Köln              - 1. FC Union Berlin
+
+
+Spieltag 3
+[Fr 24.8.]
+  VfL Bochum              - SV Sandhausen
+  SV Darmstadt 98         - MSV Duisburg
+[Sa 25.8.]
+  1. FC Köln              - Erzgebirge Aue
+  SpVgg Greuther Fürth    - SC Paderborn 07
+  1. FC Magdeburg         - FC Ingolstadt 04
+[So 26.8.]
+  Jahn Regensburg         - Holstein Kiel
+  1. FC Union Berlin      - FC St. Pauli
+  Dynamo Dresden          - 1. FC Heidenheim 1846
+[Mo 27.8.]
+  Hamburger SV            - Arminia Bielefeld
+
+
+Spieltag 4
+[Fr 31.8.]
+  FC Ingolstadt 04        - Erzgebirge Aue
+  SC Paderborn 07         - VfL Bochum
+[Sa 1.9.]
+  Arminia Bielefeld       - Jahn Regensburg
+  MSV Duisburg            - SpVgg Greuther Fürth
+  Dynamo Dresden          - Hamburger SV
+[So 2.9.]
+  SV Sandhausen           - 1. FC Union Berlin
+  FC St. Pauli            - 1. FC Köln
+  1. FC Heidenheim 1846   - SV Darmstadt 98
+[Mo 3.9.]
+  Holstein Kiel           - 1. FC Magdeburg
+
+
+Spieltag 5
+[Fr 14.9.]
+  Jahn Regensburg         - Dynamo Dresden
+  1. FC Union Berlin      - MSV Duisburg
+[Sa 15.9.]
+  Hamburger SV            - 1. FC Heidenheim 1846
+  SV Darmstadt 98         - SV Sandhausen
+  SpVgg Greuther Fürth    - Holstein Kiel
+[So 16.9.]
+  1. FC Köln              - SC Paderborn 07
+  VfL Bochum              - FC Ingolstadt 04
+  Erzgebirge Aue          - FC St. Pauli
+[Mo 17.9.]
+  1. FC Magdeburg         - Arminia Bielefeld
+
+
+Spieltag 6
+[Fr 21.9.]
+  FC Ingolstadt 04        - FC St. Pauli
+  SV Sandhausen           - 1. FC Köln
+[Sa 22.9.]
+  Holstein Kiel           - VfL Bochum
+  Arminia Bielefeld       - 1. FC Union Berlin
+  Dynamo Dresden          - SV Darmstadt 98
+[So 23.9.]
+  Hamburger SV            - Jahn Regensburg
+  MSV Duisburg            - Erzgebirge Aue
+  1. FC Heidenheim 1846   - SpVgg Greuther Fürth
+  SC Paderborn 07         - 1. FC Magdeburg
+
+
+Spieltag 7
+[Di 25.9.]
+  1. FC Köln              - FC Ingolstadt 04
+  VfL Bochum              - Dynamo Dresden
+  1. FC Union Berlin      - Holstein Kiel
+  SV Darmstadt 98         - Arminia Bielefeld
+[Mi 26.9.]
+  Jahn Regensburg         - 1. FC Heidenheim 1846
+  FC St. Pauli            - SC Paderborn 07
+  Erzgebirge Aue          - SV Sandhausen
+  1. FC Magdeburg         - MSV Duisburg
+[Do 27.9.]
+  SpVgg Greuther Fürth    - Hamburger SV
+
+
+Spieltag 8
+[Fr 28.9.]
+  Holstein Kiel           - SV Darmstadt 98
+  Arminia Bielefeld       - 1. FC Köln
+[Sa 29.9.]
+  MSV Duisburg            - Jahn Regensburg
+  1. FC Heidenheim 1846   - VfL Bochum
+  SC Paderborn 07         - Erzgebirge Aue
+[So 30.9.]
+  Hamburger SV            - FC St. Pauli
+  SV Sandhausen           - 1. FC Magdeburg
+  Dynamo Dresden          - SpVgg Greuther Fürth
+[Mo 1.10.]
+  FC Ingolstadt 04        - 1. FC Union Berlin
+
+
+Spieltag 9
+[So 7.10.]
+  1. FC Köln              - MSV Duisburg
+  VfL Bochum              - Arminia Bielefeld
+  1. FC Union Berlin      - 1. FC Heidenheim 1846
+  FC Ingolstadt 04        - SC Paderborn 07
+  SV Darmstadt 98         - Hamburger SV
+  FC St. Pauli            - SV Sandhausen
+  SpVgg Greuther Fürth    - Jahn Regensburg
+  Erzgebirge Aue          - Holstein Kiel
+  1. FC Magdeburg         - Dynamo Dresden
+
+
+Spieltag 10
+[So 21.10.]
+  Hamburger SV            - VfL Bochum
+  Holstein Kiel           - 1. FC Köln
+  Arminia Bielefeld       - SpVgg Greuther Fürth
+  Jahn Regensburg         - SV Darmstadt 98
+  MSV Duisburg            - FC St. Pauli
+  SV Sandhausen           - FC Ingolstadt 04
+  1. FC Heidenheim 1846   - 1. FC Magdeburg
+  Dynamo Dresden          - Erzgebirge Aue
+  SC Paderborn 07         - 1. FC Union Berlin
+
+
+Spieltag 11
+[So 28.10.]
+  1. FC Köln              - 1. FC Heidenheim 1846
+  VfL Bochum              - Jahn Regensburg
+  1. FC Union Berlin      - Dynamo Dresden
+  FC Ingolstadt 04        - MSV Duisburg
+  SV Darmstadt 98         - SpVgg Greuther Fürth
+  FC St. Pauli            - Holstein Kiel
+  Erzgebirge Aue          - Arminia Bielefeld
+  1. FC Magdeburg         - Hamburger SV
+  SC Paderborn 07         - SV Sandhausen
+
+
+Spieltag 12
+[So 4.11.]
+  Hamburger SV            - 1. FC Köln
+  Holstein Kiel           - FC Ingolstadt 04
+  Arminia Bielefeld       - FC St. Pauli
+  Jahn Regensburg         - 1. FC Union Berlin
+  MSV Duisburg            - SC Paderborn 07
+  SV Darmstadt 98         - 1. FC Magdeburg
+  1. FC Heidenheim 1846   - Erzgebirge Aue
+  Dynamo Dresden          - SV Sandhausen
+  SpVgg Greuther Fürth    - VfL Bochum
+
+
+Spieltag 13
+[So 11.11.]
+  1. FC Köln              - Dynamo Dresden
+  VfL Bochum              - SV Darmstadt 98
+  1. FC Union Berlin      - SpVgg Greuther Fürth
+  FC Ingolstadt 04        - Arminia Bielefeld
+  SV Sandhausen           - MSV Duisburg
+  FC St. Pauli            - 1. FC Heidenheim 1846
+  Erzgebirge Aue          - Hamburger SV
+  1. FC Magdeburg         - Jahn Regensburg
+  SC Paderborn 07         - Holstein Kiel
+
+
+Spieltag 14
+[So 25.11.]
+  Hamburger SV            - 1. FC Union Berlin
+  Holstein Kiel           - SV Sandhausen
+  Arminia Bielefeld       - MSV Duisburg
+  Jahn Regensburg         - FC St. Pauli
+  VfL Bochum              - Erzgebirge Aue
+  SV Darmstadt 98         - 1. FC Köln
+  1. FC Heidenheim 1846   - SC Paderborn 07
+  Dynamo Dresden          - FC Ingolstadt 04
+  SpVgg Greuther Fürth    - 1. FC Magdeburg
+
+
+Spieltag 15
+[So 2.12.]
+  1. FC Köln              - SpVgg Greuther Fürth
+  MSV Duisburg            - Holstein Kiel
+  1. FC Union Berlin      - SV Darmstadt 98
+  FC Ingolstadt 04        - Hamburger SV
+  SV Sandhausen           - 1. FC Heidenheim 1846
+  FC St. Pauli            - Dynamo Dresden
+  Erzgebirge Aue          - Jahn Regensburg
+  1. FC Magdeburg         - VfL Bochum
+  SC Paderborn 07         - Arminia Bielefeld
+
+
+Spieltag 16
+[So 9.12.]
+  Hamburger SV            - SC Paderborn 07
+  Arminia Bielefeld       - SV Sandhausen
+  Jahn Regensburg         - 1. FC Köln
+  VfL Bochum              - FC St. Pauli
+  SV Darmstadt 98         - FC Ingolstadt 04
+  1. FC Heidenheim 1846   - MSV Duisburg
+  Dynamo Dresden          - Holstein Kiel
+  SpVgg Greuther Fürth    - Erzgebirge Aue
+  1. FC Magdeburg         - 1. FC Union Berlin
+
+
+Spieltag 17
+[So 16.12.]
+  1. FC Köln              - 1. FC Magdeburg
+  Holstein Kiel           - Arminia Bielefeld
+  MSV Duisburg            - Hamburger SV
+  1. FC Union Berlin      - VfL Bochum
+  FC Ingolstadt 04        - 1. FC Heidenheim 1846
+  SV Sandhausen           - Jahn Regensburg
+  FC St. Pauli            - SpVgg Greuther Fürth
+  Erzgebirge Aue          - SV Darmstadt 98
+  SC Paderborn 07         - Dynamo Dresden
+
+
+Spieltag 18
+[So 23.12.]
+  Holstein Kiel           - Hamburger SV
+  FC Ingolstadt 04        - Jahn Regensburg
+  1. FC Köln              - VfL Bochum
+  Erzgebirge Aue          - 1. FC Union Berlin
+  SC Paderborn 07         - SV Darmstadt 98
+  Arminia Bielefeld       - 1. FC Heidenheim 1846
+  MSV Duisburg            - Dynamo Dresden
+  SV Sandhausen           - SpVgg Greuther Fürth
+  FC St. Pauli            - 1. FC Magdeburg
+
+
+Spieltag 19
+[Mi 30.1.]
+  1. FC Union Berlin      - 1. FC Köln
+  1. FC Heidenheim 1846   - Holstein Kiel
+  Dynamo Dresden          - Arminia Bielefeld
+  VfL Bochum              - MSV Duisburg
+  SpVgg Greuther Fürth    - FC Ingolstadt 04
+  Hamburger SV            - SV Sandhausen
+  SV Darmstadt 98         - FC St. Pauli
+  1. FC Magdeburg         - Erzgebirge Aue
+  Jahn Regensburg         - SC Paderborn 07
+
+
+Spieltag 20
+[So 3.2.]
+  Arminia Bielefeld       - Hamburger SV
+  Erzgebirge Aue          - 1. FC Köln
+  Holstein Kiel           - Jahn Regensburg
+  SV Sandhausen           - VfL Bochum
+  FC St. Pauli            - 1. FC Union Berlin
+  MSV Duisburg            - SV Darmstadt 98
+  1. FC Heidenheim 1846   - Dynamo Dresden
+  SC Paderborn 07         - SpVgg Greuther Fürth
+  FC Ingolstadt 04        - 1. FC Magdeburg
+
+
+Spieltag 21
+[So 10.2.]
+  1. FC Magdeburg         - Holstein Kiel
+  Jahn Regensburg         - Arminia Bielefeld
+  SpVgg Greuther Fürth    - MSV Duisburg
+  Erzgebirge Aue          - FC Ingolstadt 04
+  1. FC Union Berlin      - SV Sandhausen
+  1. FC Köln              - FC St. Pauli
+  SV Darmstadt 98         - 1. FC Heidenheim 1846
+  Hamburger SV            - Dynamo Dresden
+  VfL Bochum              - SC Paderborn 07
+
+
+Spieltag 22
+[So 17.2.]
+  1. FC Heidenheim 1846   - Hamburger SV
+  SC Paderborn 07         - 1. FC Köln
+  Dynamo Dresden          - Jahn Regensburg
+  FC Ingolstadt 04        - VfL Bochum
+  MSV Duisburg            - 1. FC Union Berlin
+  SV Sandhausen           - SV Darmstadt 98
+  Holstein Kiel           - SpVgg Greuther Fürth
+  FC St. Pauli            - Erzgebirge Aue
+  Arminia Bielefeld       - 1. FC Magdeburg
+
+
+Spieltag 23
+[So 24.2.]
+  Jahn Regensburg         - Hamburger SV
+  VfL Bochum              - Holstein Kiel
+  1. FC Union Berlin      - Arminia Bielefeld
+  Erzgebirge Aue          - MSV Duisburg
+  FC St. Pauli            - FC Ingolstadt 04
+  1. FC Köln              - SV Sandhausen
+  SpVgg Greuther Fürth    - 1. FC Heidenheim 1846
+  SV Darmstadt 98         - Dynamo Dresden
+  1. FC Magdeburg         - SC Paderborn 07
+
+
+Spieltag 24
+[So 3.3.]
+  FC Ingolstadt 04        - 1. FC Köln
+  1. FC Heidenheim 1846   - Jahn Regensburg
+  Dynamo Dresden          - VfL Bochum
+  Holstein Kiel           - 1. FC Union Berlin
+  Arminia Bielefeld       - SV Darmstadt 98
+  SC Paderborn 07         - FC St. Pauli
+  Hamburger SV            - SpVgg Greuther Fürth
+  SV Sandhausen           - Erzgebirge Aue
+  MSV Duisburg            - 1. FC Magdeburg
+
+
+Spieltag 25
+[So 10.3.]
+  FC St. Pauli            - Hamburger SV
+  SV Darmstadt 98         - Holstein Kiel
+  1. FC Köln              - Arminia Bielefeld
+  Jahn Regensburg         - MSV Duisburg
+  1. FC Union Berlin      - FC Ingolstadt 04
+  1. FC Magdeburg         - SV Sandhausen
+  VfL Bochum              - 1. FC Heidenheim 1846
+  SpVgg Greuther Fürth    - Dynamo Dresden
+  Erzgebirge Aue          - SC Paderborn 07
+
+
+Spieltag 26
+[So 17.3.]
+  MSV Duisburg            - 1. FC Köln
+  Arminia Bielefeld       - VfL Bochum
+  1. FC Heidenheim 1846   - 1. FC Union Berlin
+  SC Paderborn 07         - FC Ingolstadt 04
+  Hamburger SV            - SV Darmstadt 98
+  SV Sandhausen           - FC St. Pauli
+  Jahn Regensburg         - SpVgg Greuther Fürth
+  Holstein Kiel           - Erzgebirge Aue
+  Dynamo Dresden          - 1. FC Magdeburg
+
+
+Spieltag 27
+[So 31.3.]
+  VfL Bochum              - Hamburger SV
+  1. FC Köln              - Holstein Kiel
+  SpVgg Greuther Fürth    - Arminia Bielefeld
+  SV Darmstadt 98         - Jahn Regensburg
+  FC St. Pauli            - MSV Duisburg
+  FC Ingolstadt 04        - SV Sandhausen
+  1. FC Magdeburg         - 1. FC Heidenheim 1846
+  Erzgebirge Aue          - Dynamo Dresden
+  1. FC Union Berlin      - SC Paderborn 07
+
+
+Spieltag 28
+[So 7.4.]
+  1. FC Heidenheim 1846   - 1. FC Köln
+  Jahn Regensburg         - VfL Bochum
+  Dynamo Dresden          - 1. FC Union Berlin
+  MSV Duisburg            - FC Ingolstadt 04
+  SpVgg Greuther Fürth    - SV Darmstadt 98
+  Holstein Kiel           - FC St. Pauli
+  Arminia Bielefeld       - Erzgebirge Aue
+  Hamburger SV            - 1. FC Magdeburg
+  SV Sandhausen           - SC Paderborn 07
+
+
+Spieltag 29
+[So 14.4.]
+  1. FC Köln              - Hamburger SV
+  FC Ingolstadt 04        - Holstein Kiel
+  FC St. Pauli            - Arminia Bielefeld
+  1. FC Union Berlin      - Jahn Regensburg
+  SC Paderborn 07         - MSV Duisburg
+  1. FC Magdeburg         - SV Darmstadt 98
+  Erzgebirge Aue          - 1. FC Heidenheim 1846
+  SV Sandhausen           - Dynamo Dresden
+  VfL Bochum              - SpVgg Greuther Fürth
+
+
+Spieltag 30
+[So 21.4.]
+  Dynamo Dresden          - 1. FC Köln
+  SV Darmstadt 98         - VfL Bochum
+  SpVgg Greuther Fürth    - 1. FC Union Berlin
+  Arminia Bielefeld       - FC Ingolstadt 04
+  MSV Duisburg            - SV Sandhausen
+  1. FC Heidenheim 1846   - FC St. Pauli
+  Hamburger SV            - Erzgebirge Aue
+  Jahn Regensburg         - 1. FC Magdeburg
+  Holstein Kiel           - SC Paderborn 07
+
+
+Spieltag 31
+[So 28.4.]
+  1. FC Union Berlin      - Hamburger SV
+  SV Sandhausen           - Holstein Kiel
+  MSV Duisburg            - Arminia Bielefeld
+  FC St. Pauli            - Jahn Regensburg
+  Erzgebirge Aue          - VfL Bochum
+  1. FC Köln              - SV Darmstadt 98
+  SC Paderborn 07         - 1. FC Heidenheim 1846
+  FC Ingolstadt 04        - Dynamo Dresden
+  1. FC Magdeburg         - SpVgg Greuther Fürth
+
+
+Spieltag 32
+[So 5.5.]
+  SpVgg Greuther Fürth    - 1. FC Köln
+  Holstein Kiel           - MSV Duisburg
+  SV Darmstadt 98         - 1. FC Union Berlin
+  Hamburger SV            - FC Ingolstadt 04
+  1. FC Heidenheim 1846   - SV Sandhausen
+  Dynamo Dresden          - FC St. Pauli
+  Jahn Regensburg         - Erzgebirge Aue
+  VfL Bochum              - 1. FC Magdeburg
+  Arminia Bielefeld       - SC Paderborn 07
+
+
+Spieltag 33
+[So 12.5.]
+  SC Paderborn 07         - Hamburger SV
+  SV Sandhausen           - Arminia Bielefeld
+  1. FC Köln              - Jahn Regensburg
+  FC St. Pauli            - VfL Bochum
+  FC Ingolstadt 04        - SV Darmstadt 98
+  MSV Duisburg            - 1. FC Heidenheim 1846
+  Holstein Kiel           - Dynamo Dresden
+  Erzgebirge Aue          - SpVgg Greuther Fürth
+  1. FC Union Berlin      - 1. FC Magdeburg
+
+
+Spieltag 34
+[So 19.5.]
+  1. FC Magdeburg         - 1. FC Köln
+  Arminia Bielefeld       - Holstein Kiel
+  Hamburger SV            - MSV Duisburg
+  VfL Bochum              - 1. FC Union Berlin
+  1. FC Heidenheim 1846   - FC Ingolstadt 04
+  Jahn Regensburg         - SV Sandhausen
+  SpVgg Greuther Fürth    - FC St. Pauli
+  SV Darmstadt 98         - Erzgebirge Aue
+  Dynamo Dresden          - SC Paderborn 07

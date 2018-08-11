@@ -1,0 +1,455 @@
+###################################
+# Deutsche Bundesliga 2018/19
+
+
+Spieltag 1
+[Fr 24.8.]
+  Bayern München          - 1899 Hoffenheim
+[Sa 25.8.]
+  Hertha BSC              - 1. FC Nürnberg
+  Werder Bremen           - Hannover 96
+  SC Freiburg             - Eintracht Frankfurt
+  VfL Wolfsburg           - FC Schalke 04
+  Fortuna Düsseldorf      - FC Augsburg
+  Bor. Mönchengladbach    - Bayer Leverkusen
+[So 26.8.]
+  1. FSV Mainz 05         - VfB Stuttgart
+  Borussia Dortmund       - RB Leipzig
+
+
+Spieltag 2
+[Fr 31.8.]
+  Hannover 96             - Borussia Dortmund
+[Sa 1.9.]
+  1899 Hoffenheim         - SC Freiburg
+  Bayer Leverkusen        - VfL Wolfsburg
+  Eintracht Frankfurt     - Werder Bremen
+  FC Augsburg             - Bor. Mönchengladbach
+  1. FC Nürnberg          - 1. FSV Mainz 05
+  VfB Stuttgart           - Bayern München
+[So 2.9.]
+  RB Leipzig              - Fortuna Düsseldorf
+  FC Schalke 04           - Hertha BSC
+
+
+Spieltag 3
+[Fr 14.9.]
+  Borussia Dortmund       - Eintracht Frankfurt
+[Sa 15.9.]
+  RB Leipzig              - Hannover 96
+  1. FSV Mainz 05         - FC Augsburg
+  VfL Wolfsburg           - Hertha BSC
+  Fortuna Düsseldorf      - 1899 Hoffenheim
+  Bayern München          - Bayer Leverkusen
+  Bor. Mönchengladbach    - FC Schalke 04
+[So 16.9.]
+  Werder Bremen           - 1. FC Nürnberg
+  SC Freiburg             - VfB Stuttgart
+
+
+Spieltag 4
+[Fr 21.9.]
+  VfB Stuttgart           - Fortuna Düsseldorf
+[Sa 22.9.]
+  1899 Hoffenheim         - Borussia Dortmund
+  Hertha BSC              - Bor. Mönchengladbach
+  FC Augsburg             - Werder Bremen
+  VfL Wolfsburg           - SC Freiburg
+  1. FC Nürnberg          - Hannover 96
+  FC Schalke 04           - Bayern München
+[So 23.9.]
+  Bayer Leverkusen        - 1. FSV Mainz 05
+  Eintracht Frankfurt     - RB Leipzig
+
+
+Spieltag 5
+[Di 25.9.]
+  Werder Bremen           - Hertha BSC
+  Bayern München          - FC Augsburg
+  Hannover 96             - 1899 Hoffenheim
+  SC Freiburg             - FC Schalke 04
+[Mi 26.9.]
+  Fortuna Düsseldorf      - Bayer Leverkusen
+  Borussia Dortmund       - 1. FC Nürnberg
+  RB Leipzig              - VfB Stuttgart
+  Bor. Mönchengladbach    - Eintracht Frankfurt
+  1. FSV Mainz 05         - VfL Wolfsburg
+
+
+Spieltag 6
+[Fr 28.9.]
+  Hertha BSC              - Bayern München
+[Sa 29.9.]
+  FC Schalke 04           - 1. FSV Mainz 05
+  1899 Hoffenheim         - RB Leipzig
+  VfB Stuttgart           - Werder Bremen
+  VfL Wolfsburg           - Bor. Mönchengladbach
+  1. FC Nürnberg          - Fortuna Düsseldorf
+  Bayer Leverkusen        - Borussia Dortmund
+[So 30.9.]
+  Eintracht Frankfurt     - Hannover 96
+  FC Augsburg             - SC Freiburg
+
+
+Spieltag 7
+[Sa 6.10.]
+  Bayern München          - Bor. Mönchengladbach
+  1899 Hoffenheim         - Eintracht Frankfurt
+  Borussia Dortmund       - FC Augsburg
+  RB Leipzig              - 1. FC Nürnberg
+  Werder Bremen           - VfL Wolfsburg
+  Hannover 96             - VfB Stuttgart
+  SC Freiburg             - Bayer Leverkusen
+  1. FSV Mainz 05         - Hertha BSC
+  Fortuna Düsseldorf      - FC Schalke 04
+
+
+Spieltag 8
+[Sa 20.10.]
+  FC Schalke 04           - Werder Bremen
+  Bayer Leverkusen        - Hannover 96
+  VfB Stuttgart           - Borussia Dortmund
+  Eintracht Frankfurt     - Fortuna Düsseldorf
+  Bor. Mönchengladbach    - 1. FSV Mainz 05
+  Hertha BSC              - SC Freiburg
+  FC Augsburg             - RB Leipzig
+  VfL Wolfsburg           - Bayern München
+  1. FC Nürnberg          - 1899 Hoffenheim
+
+
+Spieltag 9
+[Sa 27.10.]
+  1899 Hoffenheim         - VfB Stuttgart
+  Borussia Dortmund       - Hertha BSC
+  RB Leipzig              - FC Schalke 04
+  Werder Bremen           - Bayer Leverkusen
+  Hannover 96             - FC Augsburg
+  SC Freiburg             - Bor. Mönchengladbach
+  1. FSV Mainz 05         - Bayern München
+  Fortuna Düsseldorf      - VfL Wolfsburg
+  1. FC Nürnberg          - Eintracht Frankfurt
+
+
+Spieltag 10
+[Sa 3.11.]
+  Bayern München          - SC Freiburg
+  FC Schalke 04           - Hannover 96
+  Bayer Leverkusen        - 1899 Hoffenheim
+  VfB Stuttgart           - Eintracht Frankfurt
+  Bor. Mönchengladbach    - Fortuna Düsseldorf
+  Hertha BSC              - RB Leipzig
+  FC Augsburg             - 1. FC Nürnberg
+  1. FSV Mainz 05         - Werder Bremen
+  VfL Wolfsburg           - Borussia Dortmund
+
+
+Spieltag 11
+[Sa 10.11.]
+  1899 Hoffenheim         - FC Augsburg
+  Borussia Dortmund       - Bayern München
+  RB Leipzig              - Bayer Leverkusen
+  Eintracht Frankfurt     - FC Schalke 04
+  Werder Bremen           - Bor. Mönchengladbach
+  Hannover 96             - VfL Wolfsburg
+  SC Freiburg             - 1. FSV Mainz 05
+  Fortuna Düsseldorf      - Hertha BSC
+  1. FC Nürnberg          - VfB Stuttgart
+
+
+Spieltag 12
+[Sa 24.11.]
+  Bayern München          - Fortuna Düsseldorf
+  FC Schalke 04           - 1. FC Nürnberg
+  Bayer Leverkusen        - VfB Stuttgart
+  Bor. Mönchengladbach    - Hannover 96
+  Hertha BSC              - 1899 Hoffenheim
+  FC Augsburg             - Eintracht Frankfurt
+  SC Freiburg             - Werder Bremen
+  1. FSV Mainz 05         - Borussia Dortmund
+  VfL Wolfsburg           - RB Leipzig
+
+
+Spieltag 13
+[Sa 1.12.]
+  1899 Hoffenheim         - FC Schalke 04
+  Borussia Dortmund       - SC Freiburg
+  RB Leipzig              - Bor. Mönchengladbach
+  VfB Stuttgart           - FC Augsburg
+  Eintracht Frankfurt     - VfL Wolfsburg
+  Werder Bremen           - Bayern München
+  Hannover 96             - Hertha BSC
+  Fortuna Düsseldorf      - 1. FSV Mainz 05
+  1. FC Nürnberg          - Bayer Leverkusen
+
+
+Spieltag 14
+[Sa 8.12.]
+  Bayern München          - 1. FC Nürnberg
+  FC Schalke 04           - Borussia Dortmund
+  Bayer Leverkusen        - FC Augsburg
+  Bor. Mönchengladbach    - VfB Stuttgart
+  Hertha BSC              - Eintracht Frankfurt
+  Werder Bremen           - Fortuna Düsseldorf
+  SC Freiburg             - RB Leipzig
+  1. FSV Mainz 05         - Hannover 96
+  VfL Wolfsburg           - 1899 Hoffenheim
+
+
+Spieltag 15
+[Sa 15.12.]
+  1899 Hoffenheim         - Bor. Mönchengladbach
+  Borussia Dortmund       - Werder Bremen
+  RB Leipzig              - 1. FSV Mainz 05
+  VfB Stuttgart           - Hertha BSC
+  Eintracht Frankfurt     - Bayer Leverkusen
+  FC Augsburg             - FC Schalke 04
+  Hannover 96             - Bayern München
+  Fortuna Düsseldorf      - SC Freiburg
+  1. FC Nürnberg          - VfL Wolfsburg
+
+
+Spieltag 16
+[Di 18.12.]
+  Bayern München          - RB Leipzig
+  FC Schalke 04           - Bayer Leverkusen
+  Bor. Mönchengladbach    - 1. FC Nürnberg
+  Hertha BSC              - FC Augsburg
+  Werder Bremen           - 1899 Hoffenheim
+  SC Freiburg             - Hannover 96
+  1. FSV Mainz 05         - Eintracht Frankfurt
+  VfL Wolfsburg           - VfB Stuttgart
+  Fortuna Düsseldorf      - Borussia Dortmund
+
+
+Spieltag 17
+[Sa 22.12.]
+  1899 Hoffenheim         - 1. FSV Mainz 05
+  Borussia Dortmund       - Bor. Mönchengladbach
+  Bayer Leverkusen        - Hertha BSC
+  RB Leipzig              - Werder Bremen
+  VfB Stuttgart           - FC Schalke 04
+  Eintracht Frankfurt     - Bayern München
+  FC Augsburg             - VfL Wolfsburg
+  Hannover 96             - Fortuna Düsseldorf
+  1. FC Nürnberg          - SC Freiburg
+
+
+Spieltag 18
+[Sa 19.1.]
+  1899 Hoffenheim         - Bayern München
+  RB Leipzig              - Borussia Dortmund
+  Bayer Leverkusen        - Bor. Mönchengladbach
+  1. FC Nürnberg          - Hertha BSC
+  Hannover 96             - Werder Bremen
+  Eintracht Frankfurt     - SC Freiburg
+  VfB Stuttgart           - 1. FSV Mainz 05
+  FC Schalke 04           - VfL Wolfsburg
+  FC Augsburg             - Fortuna Düsseldorf
+
+
+Spieltag 19
+[Sa 26.1.]
+  Hertha BSC              - FC Schalke 04
+  SC Freiburg             - 1899 Hoffenheim
+  VfL Wolfsburg           - Bayer Leverkusen
+  Fortuna Düsseldorf      - RB Leipzig
+  Bayern München          - VfB Stuttgart
+  Werder Bremen           - Eintracht Frankfurt
+  Bor. Mönchengladbach    - FC Augsburg
+  Borussia Dortmund       - Hannover 96
+  1. FSV Mainz 05         - 1. FC Nürnberg
+
+
+Spieltag 20
+[Sa 2.2.]
+  Eintracht Frankfurt     - Borussia Dortmund
+  Hannover 96             - RB Leipzig
+  FC Schalke 04           - Bor. Mönchengladbach
+  1. FC Nürnberg          - Werder Bremen
+  VfB Stuttgart           - SC Freiburg
+  FC Augsburg             - 1. FSV Mainz 05
+  Hertha BSC              - VfL Wolfsburg
+  1899 Hoffenheim         - Fortuna Düsseldorf
+  Bayer Leverkusen        - Bayern München
+
+
+Spieltag 21
+[Sa 9.2.]
+  Bayern München          - FC Schalke 04
+  Borussia Dortmund       - 1899 Hoffenheim
+  1. FSV Mainz 05         - Bayer Leverkusen
+  Fortuna Düsseldorf      - VfB Stuttgart
+  RB Leipzig              - Eintracht Frankfurt
+  Bor. Mönchengladbach    - Hertha BSC
+  Werder Bremen           - FC Augsburg
+  SC Freiburg             - VfL Wolfsburg
+  Hannover 96             - 1. FC Nürnberg
+
+
+Spieltag 22
+[Sa 16.2.]
+  FC Augsburg             - Bayern München
+  1. FC Nürnberg          - Borussia Dortmund
+  VfB Stuttgart           - RB Leipzig
+  Eintracht Frankfurt     - Bor. Mönchengladbach
+  Hertha BSC              - Werder Bremen
+  1899 Hoffenheim         - Hannover 96
+  FC Schalke 04           - SC Freiburg
+  VfL Wolfsburg           - 1. FSV Mainz 05
+  Bayer Leverkusen        - Fortuna Düsseldorf
+
+
+Spieltag 23
+[Sa 23.2.]
+  1. FSV Mainz 05         - FC Schalke 04
+  RB Leipzig              - 1899 Hoffenheim
+  Borussia Dortmund       - Bayer Leverkusen
+  Werder Bremen           - VfB Stuttgart
+  Hannover 96             - Eintracht Frankfurt
+  Bayern München          - Hertha BSC
+  SC Freiburg             - FC Augsburg
+  Bor. Mönchengladbach    - VfL Wolfsburg
+  Fortuna Düsseldorf      - 1. FC Nürnberg
+
+
+Spieltag 24
+[Sa 2.3.]
+  Bor. Mönchengladbach    - Bayern München
+  Eintracht Frankfurt     - 1899 Hoffenheim
+  FC Augsburg             - Borussia Dortmund
+  1. FC Nürnberg          - RB Leipzig
+  VfL Wolfsburg           - Werder Bremen
+  VfB Stuttgart           - Hannover 96
+  Bayer Leverkusen        - SC Freiburg
+  Hertha BSC              - 1. FSV Mainz 05
+  FC Schalke 04           - Fortuna Düsseldorf
+
+
+Spieltag 25
+[Sa 9.3.]
+  Werder Bremen           - FC Schalke 04
+  Hannover 96             - Bayer Leverkusen
+  Borussia Dortmund       - VfB Stuttgart
+  Fortuna Düsseldorf      - Eintracht Frankfurt
+  1. FSV Mainz 05         - Bor. Mönchengladbach
+  SC Freiburg             - Hertha BSC
+  RB Leipzig              - FC Augsburg
+  Bayern München          - VfL Wolfsburg
+  1899 Hoffenheim         - 1. FC Nürnberg
+
+
+Spieltag 26
+[Sa 16.3.]
+  VfB Stuttgart           - 1899 Hoffenheim
+  Hertha BSC              - Borussia Dortmund
+  FC Schalke 04           - RB Leipzig
+  Bayer Leverkusen        - Werder Bremen
+  FC Augsburg             - Hannover 96
+  Bor. Mönchengladbach    - SC Freiburg
+  Bayern München          - 1. FSV Mainz 05
+  VfL Wolfsburg           - Fortuna Düsseldorf
+  Eintracht Frankfurt     - 1. FC Nürnberg
+
+
+Spieltag 27
+[Sa 30.3.]
+  SC Freiburg             - Bayern München
+  Hannover 96             - FC Schalke 04
+  1899 Hoffenheim         - Bayer Leverkusen
+  Eintracht Frankfurt     - VfB Stuttgart
+  Fortuna Düsseldorf      - Bor. Mönchengladbach
+  RB Leipzig              - Hertha BSC
+  1. FC Nürnberg          - FC Augsburg
+  Werder Bremen           - 1. FSV Mainz 05
+  Borussia Dortmund       - VfL Wolfsburg
+
+
+Spieltag 28
+[Sa 6.4.]
+  FC Augsburg             - 1899 Hoffenheim
+  Bayern München          - Borussia Dortmund
+  Bayer Leverkusen        - RB Leipzig
+  FC Schalke 04           - Eintracht Frankfurt
+  Bor. Mönchengladbach    - Werder Bremen
+  VfL Wolfsburg           - Hannover 96
+  1. FSV Mainz 05         - SC Freiburg
+  Hertha BSC              - Fortuna Düsseldorf
+  VfB Stuttgart           - 1. FC Nürnberg
+
+
+Spieltag 29
+[Sa 13.4.]
+  Fortuna Düsseldorf      - Bayern München
+  1. FC Nürnberg          - FC Schalke 04
+  VfB Stuttgart           - Bayer Leverkusen
+  Hannover 96             - Bor. Mönchengladbach
+  1899 Hoffenheim         - Hertha BSC
+  Eintracht Frankfurt     - FC Augsburg
+  Werder Bremen           - SC Freiburg
+  Borussia Dortmund       - 1. FSV Mainz 05
+  RB Leipzig              - VfL Wolfsburg
+
+
+Spieltag 30
+[Sa 20.4.]
+  FC Schalke 04           - 1899 Hoffenheim
+  SC Freiburg             - Borussia Dortmund
+  Bor. Mönchengladbach    - RB Leipzig
+  FC Augsburg             - VfB Stuttgart
+  VfL Wolfsburg           - Eintracht Frankfurt
+  Bayern München          - Werder Bremen
+  Hertha BSC              - Hannover 96
+  1. FSV Mainz 05         - Fortuna Düsseldorf
+  Bayer Leverkusen        - 1. FC Nürnberg
+
+
+Spieltag 31
+[Sa 27.4.]
+  1. FC Nürnberg          - Bayern München
+  Borussia Dortmund       - FC Schalke 04
+  FC Augsburg             - Bayer Leverkusen
+  VfB Stuttgart           - Bor. Mönchengladbach
+  Eintracht Frankfurt     - Hertha BSC
+  Fortuna Düsseldorf      - Werder Bremen
+  RB Leipzig              - SC Freiburg
+  Hannover 96             - 1. FSV Mainz 05
+  1899 Hoffenheim         - VfL Wolfsburg
+
+
+Spieltag 32
+[Sa 4.5.]
+  Bor. Mönchengladbach    - 1899 Hoffenheim
+  Werder Bremen           - Borussia Dortmund
+  1. FSV Mainz 05         - RB Leipzig
+  Hertha BSC              - VfB Stuttgart
+  Bayer Leverkusen        - Eintracht Frankfurt
+  FC Schalke 04           - FC Augsburg
+  Bayern München          - Hannover 96
+  SC Freiburg             - Fortuna Düsseldorf
+  VfL Wolfsburg           - 1. FC Nürnberg
+
+
+Spieltag 33
+[Sa 11.5.]
+  RB Leipzig              - Bayern München
+  Bayer Leverkusen        - FC Schalke 04
+  1. FC Nürnberg          - Bor. Mönchengladbach
+  FC Augsburg             - Hertha BSC
+  1899 Hoffenheim         - Werder Bremen
+  Hannover 96             - SC Freiburg
+  Eintracht Frankfurt     - 1. FSV Mainz 05
+  VfB Stuttgart           - VfL Wolfsburg
+  Borussia Dortmund       - Fortuna Düsseldorf
+
+
+Spieltag 34
+[Sa 18.5.]
+  1. FSV Mainz 05         - 1899 Hoffenheim
+  Bor. Mönchengladbach    - Borussia Dortmund
+  Hertha BSC              - Bayer Leverkusen
+  Werder Bremen           - RB Leipzig
+  FC Schalke 04           - VfB Stuttgart
+  Bayern München          - Eintracht Frankfurt
+  VfL Wolfsburg           - FC Augsburg
+  Fortuna Düsseldorf      - Hannover 96
+  SC Freiburg             - 1. FC Nürnberg

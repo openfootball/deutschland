@@ -1,234 +1,343 @@
 
 21. Spieltag
 [Sa 20.1.]
-Rot-Weiß Erfurt  -  1. FC Magdeburg
-SV Meppen  -  Preußen Münster
-Werder Bremen II  -  Würzburger Kickers
-Karlsruher SC  -  SpVgg Unterhaching
-SV Wehen Wiesbaden  -  VfL Osnabrück
-Fortuna Köln  -  FC Carl Zeiss Jena
-Hallescher FC  -  VfR Aalen
-Chemnitzer FC  -  SC Paderborn 07
-Sportfreunde Lotte  -  FSV Zwickau
-SG Sonnenhof Großaspach  -  Hansa Rostock
+Karlsruher SC             3-1  SpVgg Unterhaching
+SV Wehen Wiesbaden        5-1  VfL Osnabrück
+Fortuna Köln              1-0  FC Carl Zeiss Jena
+Hallescher FC             3-2  VfR Aalen
+Chemnitzer FC             0-2  SC Paderborn 07
+Sportfreunde Lotte        1-0  FSV Zwickau
+SG Sonnenhof Großaspach   0-0  Hansa Rostock    
+[So 21.1.]
+SV Meppen                 2-0  Preußen Münster
+Werder Bremen II          0-1  Würzburger Kickers
+[Mo 22.1.]
+Rot-Weiß Erfurt           3-1  1. FC Magdeburg
 
 22. Spieltag
+[Fr 26.1.]
+FSV Zwickau               2-0  SG Sonnenhof Großaspach
+Preußen Münster           1-0  Würzburger Kickers
 [Sa 27.1.]
-Karlsruher SC  -  Werder Bremen II
-Hansa Rostock  -  Rot-Weiß Erfurt
-FSV Zwickau  -  SG Sonnenhof Großaspach
-SC Paderborn 07  -  Sportfreunde Lotte
-VfR Aalen  -  Chemnitzer FC
-FC Carl Zeiss Jena  -  Hallescher FC
-VfL Osnabrück  -  Fortuna Köln
-SpVgg Unterhaching  -  SV Wehen Wiesbaden
-Preußen Münster  -  Würzburger Kickers
-1. FC Magdeburg  -  SV Meppen
+Karlsruher SC             1-0  Werder Bremen II
+Hansa Rostock             3-1  Rot-Weiß Erfurt
+SC Paderborn 07           5-0  Sportfreunde Lotte
+VfR Aalen                 3-2  Chemnitzer FC
+VfL Osnabrück             2-2  Fortuna Köln
+SpVgg Unterhaching        0-1  SV Wehen Wiesbaden
+1. FC Magdeburg           0-0  SV Meppen
+[So 28.1.]
+FC Carl Zeiss Jena        2-1  Hallescher FC
+
+##Nachtrag 20. Spieltag
+[Di 30.1.]
+Preußen Münster           5-0  Rot-Weiß Erfurt
 
 23. Spieltag
+[Fr 2.2.]
+Sportfreunde Lotte        2-0  VfR Aalen
 [Sa 3.2.]
-Hallescher FC  -  VfL Osnabrück
-Chemnitzer FC  -  FC Carl Zeiss Jena
-Sportfreunde Lotte  -  VfR Aalen
-SG Sonnenhof Großaspach  -  SC Paderborn 07
-Rot-Weiß Erfurt  -  FSV Zwickau
-SV Meppen  -  Hansa Rostock
-Würzburger Kickers  -  1. FC Magdeburg
-Werder Bremen II  -  Preußen Münster
-SV Wehen Wiesbaden  -  Karlsruher SC
-Fortuna Köln  -  SpVgg Unterhaching
+Hallescher FC             1-0  VfL Osnabrück
+Chemnitzer FC             1-0  FC Carl Zeiss Jena
+SV Meppen                 0-2  Hansa Rostock
+Würzburger Kickers        1-0  1. FC Magdeburg
+Werder Bremen II          2-4  Preußen Münster
+Fortuna Köln              0-0  SpVgg Unterhaching
+SG Sonnenhof Großaspach   1-1  SC Paderborn 07
+SV Wehen Wiesbaden        1-1  Karlsruher SC
+[So 4.2.]
+Rot-Weiß Erfurt           0-3  FSV Zwickau
 
 24. Spieltag
+[Fr 9.2.]
+SC Paderborn 07           0-1  Rot-Weiß Erfurt
+VfL Osnabrück             6-1  Chemnitzer FC
 [Sa 10.2.]
-SV Wehen Wiesbaden  -  Werder Bremen II
-SC Paderborn 07  -  Rot-Weiß Erfurt
-VfR Aalen  -  SG Sonnenhof Großaspach
-FC Carl Zeiss Jena  -  Sportfreunde Lotte
-VfL Osnabrück  -  Chemnitzer FC
-SpVgg Unterhaching  -  Hallescher FC
-Karlsruher SC  -  Fortuna Köln
-1. FC Magdeburg  -  Preußen Münster
-Hansa Rostock  -  Würzburger Kickers
-FSV Zwickau  -  SV Meppen
+VfR Aalen                 4-1  SG Sonnenhof Großaspach
+FC Carl Zeiss Jena        2-2  Sportfreunde Lotte
+Karlsruher SC             1-0  Fortuna Köln
+1. FC Magdeburg           3-1  Preußen Münster
+Hansa Rostock             3-1  Würzburger Kickers
+FSV Zwickau               0-1  SV Meppen
+[So 11.2.]
+SV Wehen Wiesbaden        2-2  Werder Bremen II
+SpVgg Unterhaching        1-1  Hallescher FC
+
+## Nachtrag 20. Spieltag
+[Mi 14.2.]
+Vfl Osnabrück             0-0  Karlsruher SC
 
 25. Spieltag
+[Fr 16.2.]
+Preußen Münster           2-0  Hansa Rostock
 [Sa 17.2.]
-Sportfreunde Lotte  -  VfL Osnabrück
-SG Sonnenhof Großaspach  -  FC Carl Zeiss Jena
-Rot-Weiß Erfurt  -  VfR Aalen
-SV Meppen  -  SC Paderborn 07
-Würzburger Kickers  -  FSV Zwickau
-Preußen Münster  -  Hansa Rostock
-Werder Bremen II  -  1. FC Magdeburg
-Fortuna Köln  -  SV Wehen Wiesbaden
-Hallescher FC  -  Karlsruher SC
-Chemnitzer FC  -  SpVgg Unterhaching
+SG Sonnenhof Großaspach   0-0  FC Carl Zeiss Jena
+SV Meppen                 0-0  SC Paderborn 07             
+Würzburger Kickers        1-1  FSV Zwickau
+Werder Bremen II          1-3  1. FC Magdeburg
+Fortuna Köln              1-0  SV Wehen Wiesbaden
+Hallescher FC             0-1  Karlsruher SC
+Chemnitzer FC             2-1  SpVgg Unterhaching
+[So 18.2.]
+Sportfreunde Lotte        2-3  VfL Osnabrück
+Rot-Weiß Erfurt           0-1  VfR Aalen
 
 26. Spieltag
+[Fr 23.2.]
+Fortuna Köln              2-1  Werder Bremen II
 [Sa 24.2.]
-Fortuna Köln  -  Werder Bremen II
-FC Carl Zeiss Jena  -  Rot-Weiß Erfurt
-VfL Osnabrück  -  SG Sonnenhof Großaspach
-SpVgg Unterhaching  -  Sportfreunde Lotte
-Karlsruher SC  -  Chemnitzer FC
-SV Wehen Wiesbaden  -  Hallescher FC
-Hansa Rostock  -  1. FC Magdeburg
-FSV Zwickau  -  Preußen Münster
-SC Paderborn 07  -  Würzburger Kickers
-VfR Aalen  -  SV Meppen
+VfL Osnabrück             2-1  SG Sonnenhof Großaspach
+SpVgg Unterhaching        3-0  Sportfreunde Lotte
+SV Wehen Wiesbaden        3-1  Hallescher FC
+Hansa Rostock             1-0  1. FC Magdeburg
+FSV Zwickau               1-0  Preußen Münster
+SC Paderborn 07           0-0  Würzburger Kickers
+VfR Aalen                 1-1  SV Meppen
+[So 25.2.]
+FC Carl Zeiss Jena        1-0  Rot-Weiß Erfurt
+Karlsruher SC             2-0  Chemnitzer FC
 
 27. Spieltag
+[Fr 2.3.]
+Rot-Weiß Erfurt           4-4  VfL Osnabrück         
+Werder Bremen II          1-1  Hansa Rostock
+Sportfreunde Lotte        1-1  Karlsruher SC
 [Sa 3.3.]
-Rot-Weiß Erfurt  -  VfL Osnabrück
-SV Meppen  -  FC Carl Zeiss Jena
-Würzburger Kickers  -  VfR Aalen
-Preußen Münster  -  SC Paderborn 07
-1. FC Magdeburg  -  FSV Zwickau
-Werder Bremen II  -  Hansa Rostock
-Hallescher FC  -  Fortuna Köln
-Chemnitzer FC  -  SV Wehen Wiesbaden
-Sportfreunde Lotte  -  Karlsruher SC
-SG Sonnenhof Großaspach  -  SpVgg Unterhaching
+SV Meppen                 2-1  FC Carl Zeiss Jena           
+Würzburger Kickers        2-2  VfR Aalen
+Preußen Münster           1-1  SC Paderborn 07
+1. FC Magdeburg           2-2  FSV Zwickau           
+Chemnitzer FC             1-4  SV Wehen Wiesbaden     
+SG Sonnenhof Großaspach   1-2  SpVgg Unterhaching
+[So 4.3.]
+Hallescher FC             0-3  Fortuna Köln
 
 28. Spieltag
 [Di 6.3.]
-Hallescher FC  -  Werder Bremen II
-SpVgg Unterhaching  -  Rot-Weiß Erfurt
-Karlsruher SC  -  SG Sonnenhof Großaspach
-SV Wehen Wiesbaden  -  Sportfreunde Lotte
-Fortuna Köln  -  Chemnitzer FC
-FSV Zwickau  -  Hansa Rostock
-SC Paderborn 07  -  1. FC Magdeburg
-VfR Aalen  -  Preußen Münster
-FC Carl Zeiss Jena  -  Würzburger Kickers
-VfL Osnabrück  -  SV Meppen
+SpVgg Unterhaching        1-1  Rot-Weiß Erfurt
+SV Wehen Wiesbaden        3-1  Sportfreunde Lotte
+SC Paderborn 07           1-1  1. FC Magdeburg
+FC Carl Zeiss Jena        1-2  Würzburger Kickers     
+VfL Osnabrück             2-2  SV Meppen
+[Mi 7.3.]
+Hallescher FC             1-0  Werder Bremen II
+Karlsruher SC             3-1  SG Sonnenhof Großaspach
+Fortuna Köln              3-0  Chemnitzer FC
+FSV Zwickau               1-0  Hansa Rostock
+VfR Aalen                 0-0  Preußen Münster
 
 29. Spieltag
 [Sa 10.3.]
-Würzburger Kickers  -  VfL Osnabrück
-Preußen Münster  -  FC Carl Zeiss Jena
-1. FC Magdeburg  -  VfR Aalen
-Hansa Rostock  -  SC Paderborn 07
-Werder Bremen II  -  FSV Zwickau
-Chemnitzer FC  -  Hallescher FC
-Sportfreunde Lotte  -  Fortuna Köln
-SG Sonnenhof Großaspach  -  SV Wehen Wiesbaden
-Rot-Weiß Erfurt  -  Karlsruher SC
-SV Meppen  -  SpVgg Unterhaching
+Würzburger Kickers        1-0  VfL Osnabrück
+Preußen Münster           2-2  FC Carl Zeiss Jena
+Hansa Rostock             2-3  SC Paderborn 07
+Werder Bremen II          0-0  FSV Zwickau
+Sportfreunde Lotte        0-2  Fortuna Köln
+SG Sonnenhof Großaspach   1-3  SV Wehen Wiesbaden
+SV Meppen                 1-1  SpVgg Unterhaching
+[So 11.3.]
+1. FC Magdeburg           6-1  VfR Aalen
+Chemnitzer FC             1-1  Hallescher FC
+Rot-Weiß Erfurt           1-3  Karlsruher SC
 
 30. Spieltag
+[Fr 16.3.]
+SV Wehen Wiesbaden        4-2  Rot-Weiß Erfurt
+Fortuna Köln              1-3  SG Sonnenhof Großaspach
+Hallescher FC             1-0  Sportfreunde Lotte
 [Sa 17.3.]
-Chemnitzer FC  -  Werder Bremen II
-SV Wehen Wiesbaden  -  Rot-Weiß Erfurt
-Fortuna Köln  -  SG Sonnenhof Großaspach
-Hallescher FC  -  Sportfreunde Lotte
-SC Paderborn 07  -  FSV Zwickau
-VfR Aalen  -  Hansa Rostock
-FC Carl Zeiss Jena  -  1. FC Magdeburg
-VfL Osnabrück  -  Preußen Münster
-SpVgg Unterhaching  -  Würzburger Kickers
-Karlsruher SC  -  SV Meppen
+SC Paderborn 07           2-0  FSV Zwickau
+VfR Aalen                 1-0  Hansa Rostock
+FC Carl Zeiss Jena        1-5  1. FC Magdeburg             
+SpVgg Unterhaching        3-2  Würzburger Kickers
+Karlsruher SC             2-0  SV Meppen
+[So 18.3.]
+Chemnitzer FC             2-1  Werder Bremen II
+VfL Osnabrück             0-1  Preußen Münster
+
+## Nachtrag 21. Spieltag
+[Di 20.3.]
+SG Sonnenhof Großaspach   0-0  Hansa Rostock
 
 31. Spieltag
+[Fr 23.3.]
+FSV Zwickau               2-2  VfR Aalen
+Werder Bremen II          0-2  SC Paderborn 07
 [Sa 24.3.]
-1. FC Magdeburg  -  VfL Osnabrück
-Hansa Rostock  -  FC Carl Zeiss Jena
-FSV Zwickau  -  VfR Aalen
-Werder Bremen II  -  SC Paderborn 07
-Sportfreunde Lotte  -  Chemnitzer FC
-SG Sonnenhof Großaspach  -  Hallescher FC
-Rot-Weiß Erfurt  -  Fortuna Köln
-SV Meppen  -  SV Wehen Wiesbaden
-Würzburger Kickers  -  Karlsruher SC
-Preußen Münster  -  SpVgg Unterhaching
+Hansa Rostock             0-0  FC Carl Zeiss Jena
+Sportfreunde Lotte        3-1  Chemnitzer FC
+SG Sonnenhof Großaspach   0-3  Hallescher FC
+Rot-Weiß Erfurt           2-1  Fortuna Köln
+SV Meppen                 1-3  SV Wehen Wiesbaden
+Würzburger Kickers        0-0  Karlsruher SC
+Preußen Münster           2-0  SpVgg Unterhaching
+[So 25.3.]
+1. FC Magdeburg           2-0  VfL Osnabrück
+
+## Nachtrag 25. Spieltag
+[Di 27.3.]
+SV Meppen                 0-0  SC Paderborn 07  
+## Nachtrag 27. Spieltag
+[Di 27.3.]
+Chemitzer FC              1-4  SV Wehen Wiesbaden
+## Nachtrag 28. Spieltag
+[Di 27.3.]
+FC Carl Zeiss Jena        1-2 Würzburger Kickers
+
+## Nachtrag 27. Spieltag
+[Mi 28.3.]
+Rot-Weiß Erfurt           4-4  Vfl Osnabrück
+1. FC Magdeburg           2-2  FSV Zwickau
 
 32. Spieltag
 [Sa 31.3.]
-Sportfreunde Lotte  -  Werder Bremen II
-Hallescher FC  -  Rot-Weiß Erfurt
-Chemnitzer FC  -  SG Sonnenhof Großaspach
-VfR Aalen  -  SC Paderborn 07
-FC Carl Zeiss Jena  -  FSV Zwickau
-VfL Osnabrück  -  Hansa Rostock
-SpVgg Unterhaching  -  1. FC Magdeburg
-Karlsruher SC  -  Preußen Münster
-SV Wehen Wiesbaden  -  Würzburger Kickers
-Fortuna Köln  -  SV Meppen
+VfR Aalen                 0-5  SC Paderborn 07
+FC Carl Zeiss Jena        2-1  FSV Zwickau
+VfL Osnabrück             1-1  Hansa Rostock
+Karlsruher SC             3-0  Preußen Münster
+SV Wehen Wiesbaden        0-2  Würzburger Kickers
+Fortuna Köln              0-2  SV Meppen
+Chemnitzer FC             2-3  SG Sonnenhof Großaspach
+[So 1.4.]
+Sportfreunde Lotte        3-2  Werder Bremen II
+Hallescher FC             3-0  Rot-Weiß Erfurt
+SpVgg Unterhaching        0-1  1. FC Magdeburg
+
+## 1. Absteiger in Regionalliga Nordost 2018/19:
+Rot-Weiß Erfurt
+
+## Nachtrag 27. Spieltag
+[Mi 4.4.]
+SV Meppen                 2-1  FC Carl Zeiss Jena
 
 33. Spieltag
+[Fr 6.4.]
+Werder Bremen II          1-0  VfR Aalen
 [Sa 7.4.]
-FSV Zwickau  -  VfL Osnabrück
-SC Paderborn 07  -  FC Carl Zeiss Jena
-Werder Bremen II  -  VfR Aalen
-SG Sonnenhof Großaspach  -  Sportfreunde Lotte
-Rot-Weiß Erfurt  -  Chemnitzer FC
-SV Meppen  -  Hallescher FC
-Würzburger Kickers  -  Fortuna Köln
-Preußen Münster  -  SV Wehen Wiesbaden
-1. FC Magdeburg  -  Karlsruher SC
-Hansa Rostock  -  SpVgg Unterhaching
+SC Paderborn 07           6-0  FC Carl Zeiss Jena
+SG Sonnenhof Großaspach   1-1  Sportfreunde Lotte
+Würzburger Kickers        1-0  Fortuna Köln
+Preußen Münster           1-0  SV Wehen Wiesbaden
+1. FC Magdeburg           2-0  Karlsruher SC
+Hansa Rostock             1-1  SpVgg Unterhaching
+[So 8.4.]
+Rot-Weiß Erfurt           0-5  Chemnitzer FC
+SV Meppen                 2-2  Hallescher FC
+FSV Zwickau               1-1  VfL Osnabrück
 
 34. Spieltag
+[Fr 13.4.]
+SV Wehen Wiesbaden        1-2  1. FC Magdeburg
 [Sa 14.4.]
-SG Sonnenhof Großaspach  -  Werder Bremen II
-Sportfreunde Lotte  -  Rot-Weiß Erfurt
-FC Carl Zeiss Jena  -  VfR Aalen
-VfL Osnabrück  -  SC Paderborn 07
-SpVgg Unterhaching  -  FSV Zwickau
-Karlsruher SC  -  Hansa Rostock
-SV Wehen Wiesbaden  -  1. FC Magdeburg
-Fortuna Köln  -  Preußen Münster
-Hallescher FC  -  Würzburger Kickers
-Chemnitzer FC  -  SV Meppen
+SG Sonnenhof Großaspach   2-2  Werder Bremen II
+FC Carl Zeiss Jena        3-2  VfR Aalen
+VfL Osnabrück             0-5  SC Paderborn 07
+Chemnitzer FC             1-2  SV Meppen
+Fortuna Köln              2-4  Preußen Münster
+Hallescher FC             1-3  Würzburger Kickers
+[So 15.4.]
+Sportfreunde Lotte        1-0  Rot-Weiß Erfurt
+Karlsruher SC             0-0  Hansa Rostock
+SpVgg Unterhaching        2-1  FSV Zwickau
+
+## Nachtrag 30. Spieltag
+[Di 17.4.]
+FC Carl Zeiss Jena        1-5 1. FC Magdeburg
 
 35. Spieltag
+[Fr 20.4.]
+SV Meppen                 2-1  Sportfreunde Lotte
 [Sa 21.4.]
-VfR Aalen  -  VfL Osnabrück
-Werder Bremen II  -  FC Carl Zeiss Jena
-Rot-Weiß Erfurt  -  SG Sonnenhof Großaspach
-SV Meppen  -  Sportfreunde Lotte
-Würzburger Kickers  -  Chemnitzer FC
-Preußen Münster  -  Hallescher FC
-1. FC Magdeburg  -  Fortuna Köln
-Hansa Rostock  -  SV Wehen Wiesbaden
-FSV Zwickau  -  Karlsruher SC
-SC Paderborn 07  -  SpVgg Unterhaching
+Werder Bremen II          2-4  FC Carl Zeiss Jena
+Rot-Weiß Erfurt           0-6  SG Sonnenhof Großaspach
+Würzburger Kickers        0-0  Chemnitzer FC
+1. FC Magdeburg           2-0  Fortuna Köln
+SC Paderborn 07           3-0  SpVgg Unterhaching
+Hansa Rostock             2-0  SV Wehen Wiesbaden
+[So 22.4.]
+VfR Aalen                 2-1  VfL Osnabrück
+Preußen Münster           1-2  Hallescher FC
+[Mo 23.4.]
+FSV Zwickau               2-4  Karlsruher SC
 
+## Aufsteiger in 2. Bundesliga 2018/19:
+   SC Padeborn 07
+   1. FC Magdeburg
+   
+## 2. Absteiger in Regionalliga Nord 2018/19:
+   Werder Bremen II
+   
+## 3. Absteiger in Regionalliga Nordost 2018/19:
+   Chemnitzer FC
+   
 36. Spieltag
+[Fr 27.4.]
+SpVgg Unterhaching         0-1  VfR Aalen
 [Sa 28.4.]
-Rot-Weiß Erfurt  -  Werder Bremen II
-VfL Osnabrück  -  FC Carl Zeiss Jena
-SpVgg Unterhaching  -  VfR Aalen
-Karlsruher SC  -  SC Paderborn 07
-SV Wehen Wiesbaden  -  FSV Zwickau
-Fortuna Köln  -  Hansa Rostock
-Hallescher FC  -  1. FC Magdeburg
-Chemnitzer FC  -  Preußen Münster
-Sportfreunde Lotte  -  Würzburger Kickers
-SG Sonnenhof Großaspach  -  SV Meppen
+VfL Osnabrück              1-2  FC Carl Zeiss Jena
+Karlsruher SC              0-0  SC Paderborn 07
+SV Wehen Wiesbaden         3-0  FSV Zwickau
+Fortuna Köln               0-0  Hansa Rostock
+Hallescher FC              0-2  1. FC Magdeburg
+Sportfreunde Lotte         1-3  Würzburger Kickers
+[So 29.4.]
+Rot-Weiß Erfurt            0-3  Werder Bremen II
+Chemnitzer FC              1-2  Preußen Münster
+SG Sonnenhof Großaspach    2-3  SV Meppen
 
 37. Spieltag
 [Sa 5.5.]
-  VfL Osnabrück  -  Werder Bremen II
-  SV Meppen  -  Rot-Weiß Erfurt
-  Würzburger Kickers  -  SG Sonnenhof Großaspach
-  Preußen Münster  -  Sportfreunde Lotte
-  1. FC Magdeburg  -  Chemnitzer FC
-  Hansa Rostock  -  Hallescher FC
-  FSV Zwickau  -  Fortuna Köln
-  SC Paderborn 07  -  SV Wehen Wiesbaden
-  VfR Aalen  -  Karlsruher SC
-  FC Carl Zeiss Jena  -  SpVgg Unterhaching
+  VfL Osnabrück            1-1  Werder Bremen II
+  SV Meppen                3-0  Rot-Weiß Erfurt
+  Würzburger Kickers       1-1  SG Sonnenhof Großaspach
+  Preußen Münster          3-0  Sportfreunde Lotte
+  1. FC Magdeburg          3-1  Chemnitzer FC
+  Hansa Rostock            4-2  Hallescher FC
+  FSV Zwickau              1-0  Fortuna Köln
+  SC Paderborn 07          3-1  SV Wehen Wiesbaden
+  VfR Aalen                0-2  Karlsruher SC
+  FC Carl Zeiss Jena       2-1  SpVgg Unterhaching
 
 38. Spieltag
 [Sa 12.5.]
-  SpVgg Unterhaching  -  VfL Osnabrück
-  Karlsruher SC  -  FC Carl Zeiss Jena
-  SV Wehen Wiesbaden  -  VfR Aalen
-  Fortuna Köln  -  SC Paderborn 07
-  Hallescher FC  -  FSV Zwickau
-  Chemnitzer FC  -  Hansa Rostock
-  Sportfreunde Lotte  -  1. FC Magdeburg
-  SG Sonnenhof Großaspach  -  Preußen Münster
-  Rot-Weiß Erfurt  -  Würzburger Kickers
-  Werder Bremen II  -  SV Meppen
+  SpVgg Unterhaching       4-1  VfL Osnabrück
+  Karlsruher SC            2-3  FC Carl Zeiss Jena
+  SV Wehen Wiesbaden       2-0  VfR Aalen
+  Fortuna Köln             2-4  SC Paderborn 07
+  Hallescher FC            2-0  FSV Zwickau
+  Chemnitzer FC            1-1  Hansa Rostock
+  Sportfreunde Lotte       0-1  1. FC Magdeburg
+  SG Sonnenhof Großaspach  2-2  Preußen Münster
+  Rot-Weiß Erfurt          1-3  Würzburger Kickers
+  Werder Bremen II         2-1  SV Meppen
+  
+  ## Absteiger 2. Bundesliga 2017/18:
+     1. FC Kaiserslautern
+     
+  ## Relegationsspiele um einen 2. Bundesligaplatz 2018/19:
+  [Fr 18.5.]
+  Karlsruher SC           0-0  Erzgebirge Aue
+  [Di 22.5.]
+  Erzgebirge Aue          3-1  Karlsruher SC
+  
+  Erzgebirge Aue in 2. Bundesliga 2018/19
+  
+  ## Aufstiegsspiele Sieger in 3. Liga 2018/19:
+  [Do 24.5.]  
+  FC Weiche Flensburg 08  2-3  Energie Cottbus
+  1. FC Saarbrücken       2-3  TSV 1860 München
+  KFC Uerdingen           1-0  SV Waldhof Mannheim
+  
+  [So 27.5.]
+  Energie Cottbus         0-0  FC Weiche Flensburg 08 
+  TSV 1860 München        2-2  1. FC Saarbrücken 
+  SV Waldhof Mannheim     0-2  KFC Uerdingen     strafverifiziert
+  
+  Aufsteiger in 3. Liga 2018/19:
+  Energie Cottbus
+  TSV 1860 München
+  KFC Uerdingen 
+  
+  
+  ## Sommerpause bis 27.07.18
+

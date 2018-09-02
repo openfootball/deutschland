@@ -19,16 +19,16 @@ Spieltag 1
 
 Spieltag 2
 [Fr 31.8.]
-  Hannover 96             - Borussia Dortmund
+  Hannover 96             0-0 Borussia Dortmund
 [Sa 1.9.]
-  1899 Hoffenheim         - SC Freiburg
-  Bayer Leverkusen        - VfL Wolfsburg
-  Eintracht Frankfurt     - Werder Bremen
-  FC Augsburg             - Bor. Mönchengladbach
-  1. FC Nürnberg          - 1. FSV Mainz 05
-  VfB Stuttgart           - Bayern München
+  1899 Hoffenheim         3-1 SC Freiburg
+  Bayer Leverkusen        1-3 VfL Wolfsburg
+  Eintracht Frankfurt     1-2 Werder Bremen
+  FC Augsburg             1-1 Bor. Mönchengladbach
+  1. FC Nürnberg          1-1 1. FSV Mainz 05
+  VfB Stuttgart           0-3 Bayern München
 [So 2.9.]
-  RB Leipzig              - Fortuna Düsseldorf
+  RB Leipzig              1-1 Fortuna Düsseldorf
   FC Schalke 04           - Hertha BSC
 
 

@@ -52,16 +52,16 @@ Spieltag 3
 
 Spieltag 4
 [Fr 31.8.]
-  FC Ingolstadt 04        - Erzgebirge Aue
-  SC Paderborn 07         - VfL Bochum
+  FC Ingolstadt 04        3-2 Erzgebirge Aue
+  SC Paderborn 07         2-2 VfL Bochum
 [Sa 1.9.]
-  Arminia Bielefeld       - Jahn Regensburg
-  MSV Duisburg            - SpVgg Greuther Fürth
-  Dynamo Dresden          - Hamburger SV
+  Arminia Bielefeld       5-3 Jahn Regensburg
+  MSV Duisburg            0-1 SpVgg Greuther Fürth
+  Dynamo Dresden          - Hamburger SV       verschoben
 [So 2.9.]
-  SV Sandhausen           - 1. FC Union Berlin
-  FC St. Pauli            - 1. FC Köln
-  1. FC Heidenheim 1846   - SV Darmstadt 98
+  SV Sandhausen           0-0 1. FC Union Berlin
+  FC St. Pauli            3-5 1. FC Köln
+  1. FC Heidenheim 1846   0-1 SV Darmstadt 98
 [Mo 3.9.]
   Holstein Kiel           - 1. FC Magdeburg
 

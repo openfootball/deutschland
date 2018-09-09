@@ -57,7 +57,7 @@ Spieltag 4
 [Sa 1.9.]
   Arminia Bielefeld       5-3 Jahn Regensburg
   MSV Duisburg            0-1 SpVgg Greuther Fürth
-  Dynamo Dresden          - Hamburger SV       verschoben
+  Dynamo Dresden          - Hamburger SV       verschoben auf 18.9.
 [So 2.9.]
   SV Sandhausen           0-0 1. FC Union Berlin
   FC St. Pauli            3-5 1. FC Köln
@@ -80,8 +80,9 @@ Spieltag 5
   Erzgebirge Aue          - FC St. Pauli
 [Mo 17.9.]
   1. FC Magdeburg         - Arminia Bielefeld
-
-
+### Nachtrag Spieltag 4
+(Di 18.9.)
+  Dynamo Dresden          - Hamburger SV
 Spieltag 6
 [Fr 21.9.]
   FC Ingolstadt 04        - FC St. Pauli

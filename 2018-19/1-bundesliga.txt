@@ -34,14 +34,14 @@ Spieltag 2
 
 Spieltag 3
 [Fr 14.9.]
-  Borussia Dortmund       - Eintracht Frankfurt
+  Borussia Dortmund       3-1 Eintracht Frankfurt
 [Sa 15.9.]
-  RB Leipzig              - Hannover 96
-  1. FSV Mainz 05         - FC Augsburg
-  VfL Wolfsburg           - Hertha BSC
-  Fortuna Düsseldorf      - 1899 Hoffenheim
-  Bayern München          - Bayer Leverkusen
-  Bor. Mönchengladbach    - FC Schalke 04
+  RB Leipzig              3-2 Hannover 96
+  1. FSV Mainz 05         2-1 FC Augsburg
+  VfL Wolfsburg           2-2 Hertha BSC
+  Fortuna Düsseldorf      2-1 1899 Hoffenheim
+  Bayern München          3-1 Bayer Leverkusen
+  Bor. Mönchengladbach    2-1 FC Schalke 04
 [So 16.9.]
   Werder Bremen           - 1. FC Nürnberg
   SC Freiburg             - VfB Stuttgart

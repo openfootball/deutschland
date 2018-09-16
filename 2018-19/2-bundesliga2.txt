@@ -68,21 +68,23 @@ Spieltag 4
 
 Spieltag 5
 [Fr 14.9.]
-  Jahn Regensburg         - Dynamo Dresden
-  1. FC Union Berlin      - MSV Duisburg
+  Jahn Regensburg         0-2 Dynamo Dresden
+  1. FC Union Berlin      2-2 MSV Duisburg
 [Sa 15.9.]
-  Hamburger SV            - 1. FC Heidenheim 1846
-  SV Darmstadt 98         - SV Sandhausen
-  SpVgg Greuther Fürth    - Holstein Kiel
+  Hamburger SV            3-2 1. FC Heidenheim 1846
+  SV Darmstadt 98         1-1 SV Sandhausen
+  SpVgg Greuther Fürth    4-1 Holstein Kiel
 [So 16.9.]
   1. FC Köln              - SC Paderborn 07
   VfL Bochum              - FC Ingolstadt 04
   Erzgebirge Aue          - FC St. Pauli
 [Mo 17.9.]
   1. FC Magdeburg         - Arminia Bielefeld
+  
 ## Nachtrag Spieltag 4
 (Di 18.9.)
   Dynamo Dresden          - Hamburger SV
+  
 Spieltag 6
 [Fr 21.9.]
   FC Ingolstadt 04        - FC St. Pauli

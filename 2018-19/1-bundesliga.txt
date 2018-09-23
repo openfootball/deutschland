@@ -49,14 +49,14 @@ Spieltag 3
 
 Spieltag 4
 [Fr 21.9.]
-  VfB Stuttgart           - Fortuna Düsseldorf
+  VfB Stuttgart           0-0 Fortuna Düsseldorf
 [Sa 22.9.]
-  1899 Hoffenheim         - Borussia Dortmund
-  Hertha BSC              - Bor. Mönchengladbach
-  FC Augsburg             - Werder Bremen
-  VfL Wolfsburg           - SC Freiburg
-  1. FC Nürnberg          - Hannover 96
-  FC Schalke 04           - Bayern München
+  1899 Hoffenheim         1-1 Borussia Dortmund
+  Hertha BSC              4-2 Bor. Mönchengladbach
+  FC Augsburg             2-3 Werder Bremen
+  VfL Wolfsburg           1-3 SC Freiburg
+  1. FC Nürnberg          2-0 Hannover 96
+  FC Schalke 04           0-2 Bayern München
 [So 23.9.]
   Bayer Leverkusen        - 1. FSV Mainz 05
   Eintracht Frankfurt     - RB Leipzig

@@ -132,42 +132,52 @@ Spieltag 8
 
 
 Spieltag 9
-[So 7.10.]
-  1. FC Köln              - MSV Duisburg
+[Fr 5.10.]
   VfL Bochum              - Arminia Bielefeld
-  1. FC Union Berlin      - 1. FC Heidenheim 1846
-  FC Ingolstadt 04        - SC Paderborn 07
   SV Darmstadt 98         - Hamburger SV
-  FC St. Pauli            - SV Sandhausen
+[Sa 6.10.]
   SpVgg Greuther Fürth    - Jahn Regensburg
   Erzgebirge Aue          - Holstein Kiel
   1. FC Magdeburg         - Dynamo Dresden
+[So 7.10.]
+  1. FC Union Berlin      - 1. FC Heidenheim 1846
+  FC Ingolstadt 04        - SC Paderborn 07
+  FC St. Pauli            - SV Sandhausen
+[Mo 8.10.]
+  1. FC Köln              - MSV Duisburg
 
 
 Spieltag 10
-[So 21.10.]
-  Hamburger SV            - VfL Bochum
+[Fr 19.10.]
+  SV Sandhausen           - FC Ingolstadt 04
+  Dynamo Dresden          - Erzgebirge Aue
+[Sa 20.10.]
   Holstein Kiel           - 1. FC Köln
   Arminia Bielefeld       - SpVgg Greuther Fürth
-  Jahn Regensburg         - SV Darmstadt 98
-  MSV Duisburg            - FC St. Pauli
-  SV Sandhausen           - FC Ingolstadt 04
   1. FC Heidenheim 1846   - 1. FC Magdeburg
-  Dynamo Dresden          - Erzgebirge Aue
+[So 21.10.]
+  Hamburger SV            - VfL Bochum
   SC Paderborn 07         - 1. FC Union Berlin
-
+  Jahn Regensburg         - SV Darmstadt 98
+[Mo 22.10.]
+  MSV Duisburg            - FC St. Pauli
+  
+ 
 
 Spieltag 11
-[So 28.10.]
+[Fr 26.10.]
+  SV Darmstadt 98         - SpVgg Greuther Fürth
+  1. FC Magdeburg         - Hamburger SV
+[Sa 27.10.]
+Erzgebirge Aue          - Arminia Bielefeld
+  SC Paderborn 07         - SV Sandhausen
   1. FC Köln              - 1. FC Heidenheim 1846
-  VfL Bochum              - Jahn Regensburg
+[So 28.10.]
   1. FC Union Berlin      - Dynamo Dresden
   FC Ingolstadt 04        - MSV Duisburg
-  SV Darmstadt 98         - SpVgg Greuther Fürth
   FC St. Pauli            - Holstein Kiel
-  Erzgebirge Aue          - Arminia Bielefeld
-  1. FC Magdeburg         - Hamburger SV
-  SC Paderborn 07         - SV Sandhausen
+[Mo 29.10.]
+  VfL Bochum              - Jahn Regensburg
 
 
 Spieltag 12

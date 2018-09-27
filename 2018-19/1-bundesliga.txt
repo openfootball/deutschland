@@ -148,56 +148,61 @@ Spieltag 10
   1. FSV Mainz 05         - Werder Bremen
   
 Spieltag 11
+[Fr 9.11.]
+  Hannover 96             - VfL Wolfsburg
 [Sa 10.11.]
   1899 Hoffenheim         - FC Augsburg
   Borussia Dortmund       - Bayern München
-  RB Leipzig              - Bayer Leverkusen
-  Eintracht Frankfurt     - FC Schalke 04
   Werder Bremen           - Bor. Mönchengladbach
-  Hannover 96             - VfL Wolfsburg
   SC Freiburg             - 1. FSV Mainz 05
   Fortuna Düsseldorf      - Hertha BSC
   1. FC Nürnberg          - VfB Stuttgart
-
+[So 11.11.]
+  RB Leipzig              - Bayer Leverkusen
+  Eintracht Frankfurt     - FC Schalke 04
 
 Spieltag 12
+[Fr 23.11.]
+  Bayer Leverkusen        - VfB Stuttgart
 [Sa 24.11.]
   Bayern München          - Fortuna Düsseldorf
   FC Schalke 04           - 1. FC Nürnberg
-  Bayer Leverkusen        - VfB Stuttgart
-  Bor. Mönchengladbach    - Hannover 96
   Hertha BSC              - 1899 Hoffenheim
   FC Augsburg             - Eintracht Frankfurt
-  SC Freiburg             - Werder Bremen
   1. FSV Mainz 05         - Borussia Dortmund
   VfL Wolfsburg           - RB Leipzig
-
+[So 25.11.]
+  SC Freiburg             - Werder Bremen
+  Bor. Mönchengladbach    - Hannover 96
 
 Spieltag 13
+[Fr 30.11.]
+  Fortuna Düsseldorf      - 1. FSV Mainz 05
 [Sa 1.12.]
   1899 Hoffenheim         - FC Schalke 04
   Borussia Dortmund       - SC Freiburg
-  RB Leipzig              - Bor. Mönchengladbach
   VfB Stuttgart           - FC Augsburg
-  Eintracht Frankfurt     - VfL Wolfsburg
   Werder Bremen           - Bayern München
   Hannover 96             - Hertha BSC
-  Fortuna Düsseldorf      - 1. FSV Mainz 05
+[So 2.12.]
+  RB Leipzig              - Bor. Mönchengladbach
+  Eintracht Frankfurt     - VfL Wolfsburg
+[Mo 3.12.]
   1. FC Nürnberg          - Bayer Leverkusen
-
-
+  
 Spieltag 14
+[Fr 7.12.]
+  Werder Bremen           - Fortuna Düsseldorf
 [Sa 8.12.]
   Bayern München          - 1. FC Nürnberg
   FC Schalke 04           - Borussia Dortmund
   Bayer Leverkusen        - FC Augsburg
-  Bor. Mönchengladbach    - VfB Stuttgart
   Hertha BSC              - Eintracht Frankfurt
-  Werder Bremen           - Fortuna Düsseldorf
   SC Freiburg             - RB Leipzig
-  1. FSV Mainz 05         - Hannover 96
   VfL Wolfsburg           - 1899 Hoffenheim
-
+[So 9.12.]
+  Bor. Mönchengladbach    - VfB Stuttgart
+  1. FSV Mainz 05         - Hannover 96
 
 Spieltag 15
 [Sa 15.12.]

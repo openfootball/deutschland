@@ -92,57 +92,61 @@ Spieltag 6
 
 
 Spieltag 7
+[Fr 5.10.]
+  Werder Bremen           - VfL Wolfsburg
 [Sa 6.10.]
   Bayern München          - Bor. Mönchengladbach
-  1899 Hoffenheim         - Eintracht Frankfurt
   Borussia Dortmund       - FC Augsburg
-  RB Leipzig              - 1. FC Nürnberg
-  Werder Bremen           - VfL Wolfsburg
   Hannover 96             - VfB Stuttgart
-  SC Freiburg             - Bayer Leverkusen
   1. FSV Mainz 05         - Hertha BSC
   Fortuna Düsseldorf      - FC Schalke 04
-
+[So 7.10.]
+  SC Freiburg             - Bayer Leverkusen
+  RB Leipzig              - 1. FC Nürnberg
+  1899 Hoffenheim         - Eintracht Frankfurt
 
 Spieltag 8
+[Fr 19.10.]
+  Eintracht Frankfurt     - Fortuna Düsseldorf
 [Sa 20.10.]
   FC Schalke 04           - Werder Bremen
   Bayer Leverkusen        - Hannover 96
   VfB Stuttgart           - Borussia Dortmund
-  Eintracht Frankfurt     - Fortuna Düsseldorf
-  Bor. Mönchengladbach    - 1. FSV Mainz 05
-  Hertha BSC              - SC Freiburg
   FC Augsburg             - RB Leipzig
   VfL Wolfsburg           - Bayern München
   1. FC Nürnberg          - 1899 Hoffenheim
-
+[So 21.10.]
+  Bor. Mönchengladbach    - 1. FSV Mainz 05
+  Hertha BSC              - SC Freiburg
 
 Spieltag 9
+[Fr 26.10.]
+  SC Freiburg             - Bor. Mönchengladbach
 [Sa 27.10.]
   1899 Hoffenheim         - VfB Stuttgart
   Borussia Dortmund       - Hertha BSC
-  RB Leipzig              - FC Schalke 04
-  Werder Bremen           - Bayer Leverkusen
   Hannover 96             - FC Augsburg
-  SC Freiburg             - Bor. Mönchengladbach
   1. FSV Mainz 05         - Bayern München
   Fortuna Düsseldorf      - VfL Wolfsburg
+[So 28.10.]
+  RB Leipzig              - FC Schalke 04
+  Werder Bremen           - Bayer Leverkusen
   1. FC Nürnberg          - Eintracht Frankfurt
-
-
+  
 Spieltag 10
+[Fr 2.11.]
+  VfB Stuttgart           - Eintracht Frankfurt
 [Sa 3.11.]
   Bayern München          - SC Freiburg
   FC Schalke 04           - Hannover 96
   Bayer Leverkusen        - 1899 Hoffenheim
-  VfB Stuttgart           - Eintracht Frankfurt
-  Bor. Mönchengladbach    - Fortuna Düsseldorf
   Hertha BSC              - RB Leipzig
   FC Augsburg             - 1. FC Nürnberg
-  1. FSV Mainz 05         - Werder Bremen
   VfL Wolfsburg           - Borussia Dortmund
-
-
+[So 4.11.]
+  Bor. Mönchengladbach    - Fortuna Düsseldorf
+  1. FSV Mainz 05         - Werder Bremen
+  
 Spieltag 11
 [Sa 10.11.]
   1899 Hoffenheim         - FC Augsburg

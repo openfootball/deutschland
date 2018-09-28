@@ -213,43 +213,51 @@ Spieltag 13
 
 
 Spieltag 14
-[So 25.11.]
-  Hamburger SV            - 1. FC Union Berlin
-  Holstein Kiel           - SV Sandhausen
+[Fr 23.11.]
   Arminia Bielefeld       - MSV Duisburg
-  Jahn Regensburg         - FC St. Pauli
+  SpVgg Greuther Fürth    - 1. FC Magdeburg
+[Sa 24.11.]
+  Holstein Kiel           - SV Sandhausen
   VfL Bochum              - Erzgebirge Aue
   SV Darmstadt 98         - 1. FC Köln
+[So 25.11.]
+  Jahn Regensburg         - FC St. Pauli
   1. FC Heidenheim 1846   - SC Paderborn 07
   Dynamo Dresden          - FC Ingolstadt 04
-  SpVgg Greuther Fürth    - 1. FC Magdeburg
+[Mo 26.11.]
+  Hamburger SV            - 1. FC Union Berlin
 
 
 Spieltag 15
-[So 2.12.]
+[Fr 30.11.]
+  Erzgebirge Aue          - Jahn Regensburg
+  SC Paderborn 07         - Arminia Bielefeld
+[Sa 1.12.]
   1. FC Köln              - SpVgg Greuther Fürth
-  MSV Duisburg            - Holstein Kiel
   1. FC Union Berlin      - SV Darmstadt 98
   FC Ingolstadt 04        - Hamburger SV
-  SV Sandhausen           - 1. FC Heidenheim 1846
   FC St. Pauli            - Dynamo Dresden
-  Erzgebirge Aue          - Jahn Regensburg
+[So 2.12.]
+  MSV Duisburg            - Holstein Kiel
+  SV Sandhausen           - 1. FC Heidenheim 1846
   1. FC Magdeburg         - VfL Bochum
-  SC Paderborn 07         - Arminia Bielefeld
-
+  
 
 Spieltag 16
-[So 9.12.]
+[Fr 7.12.]
   Hamburger SV            - SC Paderborn 07
-  Arminia Bielefeld       - SV Sandhausen
   Jahn Regensburg         - 1. FC Köln
-  VfL Bochum              - FC St. Pauli
+[Sa 8.12.]
   SV Darmstadt 98         - FC Ingolstadt 04
   1. FC Heidenheim 1846   - MSV Duisburg
-  Dynamo Dresden          - Holstein Kiel
   SpVgg Greuther Fürth    - Erzgebirge Aue
+[So 9.12.]
+  Arminia Bielefeld       - SV Sandhausen
+  Dynamo Dresden          - Holstein Kiel
   1. FC Magdeburg         - 1. FC Union Berlin
-
+[Mo 10.12.]
+  VfL Bochum              - FC St. Pauli
+  
 
 Spieltag 17
 [So 16.12.]

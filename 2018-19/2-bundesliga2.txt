@@ -112,7 +112,7 @@ Spieltag 7
   Erzgebirge Aue          0-2 SV Sandhausen
   1. FC Magdeburg         3-3 MSV Duisburg
 [Do 27.9.]
-  SpVgg Greuther Fürth    - Hamburger SV
+  SpVgg Greuther Fürth    0-0 Hamburger SV
 
 
 Spieltag 8
@@ -181,29 +181,35 @@ Erzgebirge Aue          - Arminia Bielefeld
 
 
 Spieltag 12
-[So 4.11.]
-  Hamburger SV            - 1. FC Köln
-  Holstein Kiel           - FC Ingolstadt 04
-  Arminia Bielefeld       - FC St. Pauli
-  Jahn Regensburg         - 1. FC Union Berlin
-  MSV Duisburg            - SC Paderborn 07
-  SV Darmstadt 98         - 1. FC Magdeburg
-  1. FC Heidenheim 1846   - Erzgebirge Aue
+[Fr 2.11.]
   Dynamo Dresden          - SV Sandhausen
   SpVgg Greuther Fürth    - VfL Bochum
+[Sa 3.11.]
+  Holstein Kiel           - FC Ingolstadt 04
+  MSV Duisburg            - SC Paderborn 07
+  SV Darmstadt 98         - 1. FC Magdeburg
+[So 4.11.]
+  Arminia Bielefeld       - FC St. Pauli
+  Jahn Regensburg         - 1. FC Union Berlin
+  1. FC Heidenheim 1846   - Erzgebirge Aue
+[Mo 5.11.]
+  Hamburger SV            - 1. FC Köln
 
 
 Spieltag 13
-[So 11.11.]
-  1. FC Köln              - Dynamo Dresden
-  VfL Bochum              - SV Darmstadt 98
-  1. FC Union Berlin      - SpVgg Greuther Fürth
-  FC Ingolstadt 04        - Arminia Bielefeld
+[Fr 9.11.]
   SV Sandhausen           - MSV Duisburg
+  SC Paderborn 07         - Holstein Kiel
+[Sa 10.11.]
   FC St. Pauli            - 1. FC Heidenheim 1846
   Erzgebirge Aue          - Hamburger SV
+  1. FC Köln              - Dynamo Dresden
+[So 11.11.]
+  1. FC Union Berlin      - SpVgg Greuther Fürth
+  FC Ingolstadt 04        - Arminia Bielefeld
   1. FC Magdeburg         - Jahn Regensburg
-  SC Paderborn 07         - Holstein Kiel
+[Mo 12.11.]
+  VfL Bochum              - SV Darmstadt 98
 
 
 Spieltag 14

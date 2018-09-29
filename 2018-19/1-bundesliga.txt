@@ -78,7 +78,7 @@ Spieltag 5
 
 Spieltag 6
 [Fr 28.9.]
-  Hertha BSC              - Bayern München
+  Hertha BSC              2-0 Bayern München
 [Sa 29.9.]
   FC Schalke 04           - 1. FSV Mainz 05
   1899 Hoffenheim         - RB Leipzig
@@ -89,7 +89,6 @@ Spieltag 6
 [So 30.9.]
   Eintracht Frankfurt     - Hannover 96
   FC Augsburg             - SC Freiburg
-
 
 Spieltag 7
 [Fr 5.10.]

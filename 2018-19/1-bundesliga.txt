@@ -80,12 +80,12 @@ Spieltag 6
 [Fr 28.9.]
   Hertha BSC              2-0 Bayern München
 [Sa 29.9.]
-  FC Schalke 04           - 1. FSV Mainz 05
-  1899 Hoffenheim         - RB Leipzig
-  VfB Stuttgart           - Werder Bremen
-  VfL Wolfsburg           - Bor. Mönchengladbach
-  1. FC Nürnberg          - Fortuna Düsseldorf
-  Bayer Leverkusen        - Borussia Dortmund
+  FC Schalke 04           1-0 1. FSV Mainz 05
+  1899 Hoffenheim         1-2 RB Leipzig
+  VfB Stuttgart           2-1 Werder Bremen
+  VfL Wolfsburg           2-2 Bor. Mönchengladbach
+  1. FC Nürnberg          3-0 Fortuna Düsseldorf
+  Bayer Leverkusen        2-4 Borussia Dortmund
 [So 30.9.]
   Eintracht Frankfurt     - Hannover 96
   FC Augsburg             - SC Freiburg

@@ -94,11 +94,11 @@ Spieltag 7
 [Fr 5.10.]
   Werder Bremen           2-0 VfL Wolfsburg
 [Sa 6.10.]
-  Bayern München          - Bor. Mönchengladbach
-  Borussia Dortmund       - FC Augsburg
-  Hannover 96             - VfB Stuttgart
-  1. FSV Mainz 05         - Hertha BSC
-  Fortuna Düsseldorf      - FC Schalke 04
+  Bayern München          0-3 Bor. Mönchengladbach
+  Borussia Dortmund       4-3 FC Augsburg
+  Hannover 96             3-1 VfB Stuttgart
+  1. FSV Mainz 05         0-0 Hertha BSC
+  Fortuna Düsseldorf      0-2 FC Schalke 04
 [So 7.10.]
   SC Freiburg             - Bayer Leverkusen
   RB Leipzig              - 1. FC Nürnberg

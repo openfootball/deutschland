@@ -160,7 +160,7 @@ Spieltag 10
   SC Paderborn 07         0-0 1. FC Union Berlin
   Jahn Regensburg         1-1 SV Darmstadt 98
 [Mo 22.10.]
-  MSV Duisburg            - FC St. Pauli
+  MSV Duisburg            0-1 FC St. Pauli
   
  
 
@@ -169,7 +169,7 @@ Spieltag 11
   SV Darmstadt 98         - SpVgg Greuther Fürth
   1. FC Magdeburg         - Hamburger SV
 [Sa 27.10.]
-Erzgebirge Aue          - Arminia Bielefeld
+  Erzgebirge Aue          - Arminia Bielefeld
   SC Paderborn 07         - SV Sandhausen
   1. FC Köln              - 1. FC Heidenheim 1846
 [So 28.10.]

@@ -136,12 +136,12 @@ Spieltag 10
 [Fr 2.11.]
   VfB Stuttgart           0-3 Eintracht Frankfurt
 [Sa 3.11.]
-  Bayern München          - SC Freiburg
-  FC Schalke 04           - Hannover 96
-  Bayer Leverkusen        - 1899 Hoffenheim
-  Hertha BSC              - RB Leipzig
-  FC Augsburg             - 1. FC Nürnberg
-  VfL Wolfsburg           - Borussia Dortmund
+  Bayern München          1-1 SC Freiburg
+  FC Schalke 04           3-1 Hannover 96
+  Bayer Leverkusen        1-4 1899 Hoffenheim
+  Hertha BSC              0-1 RB Leipzig
+  FC Augsburg             2-2 1. FC Nürnberg
+  VfL Wolfsburg           0-1 Borussia Dortmund
 [So 4.11.]
   Bor. Mönchengladbach    - Fortuna Düsseldorf
   1. FSV Mainz 05         - Werder Bremen

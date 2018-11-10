@@ -150,12 +150,12 @@ Spieltag 11
 [Fr 9.11.]
   Hannover 96             2-1 VfL Wolfsburg
 [Sa 10.11.]
-  1899 Hoffenheim         - FC Augsburg
-  Borussia Dortmund       - Bayern München
-  Werder Bremen           - Bor. Mönchengladbach
-  SC Freiburg             - 1. FSV Mainz 05
-  Fortuna Düsseldorf      - Hertha BSC
-  1. FC Nürnberg          - VfB Stuttgart
+  1899 Hoffenheim         2-1 FC Augsburg
+  Borussia Dortmund       3-2 Bayern München
+  Werder Bremen           1-3 Bor. Mönchengladbach
+  SC Freiburg             1-3 1. FSV Mainz 05
+  Fortuna Düsseldorf      4-1 Hertha BSC
+  1. FC Nürnberg          0-2 VfB Stuttgart
 [So 11.11.]
   RB Leipzig              - Bayer Leverkusen
   Eintracht Frankfurt     - FC Schalke 04

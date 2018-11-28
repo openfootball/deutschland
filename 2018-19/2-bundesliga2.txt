@@ -260,30 +260,35 @@ Spieltag 16
   
 
 Spieltag 17
-[So 16.12.]
-  1. FC Köln              - 1. FC Magdeburg
+[Fr 14.12.]
   Holstein Kiel           - Arminia Bielefeld
   MSV Duisburg            - Hamburger SV
+[Sa 15.12.]
   1. FC Union Berlin      - VfL Bochum
+  FC St. Pauli            - SpVgg Greuther Fürth
+  SC Paderborn 07         - Dynamo Dresden
+[So 16.12.]
   FC Ingolstadt 04        - 1. FC Heidenheim 1846
   SV Sandhausen           - Jahn Regensburg
-  FC St. Pauli            - SpVgg Greuther Fürth
   Erzgebirge Aue          - SV Darmstadt 98
-  SC Paderborn 07         - Dynamo Dresden
+[Mo 17.12.] 
+  1. FC Köln              - 1. FC Magdeburg
 
 
 Spieltag 18
+[Fr 21.12.]
+  1. FC Köln              - VfL Bochum
+  SV Sandhausen           - SpVgg Greuther Fürth
+[Sa 22.12.]
+  FC Ingolstadt 04        - Jahn Regensburg
+  Arminia Bielefeld       - 1. FC Heidenheim 1846
+  FC St. Pauli            - 1. FC Magdeburg
 [So 23.12.]
   Holstein Kiel           - Hamburger SV
-  FC Ingolstadt 04        - Jahn Regensburg
-  1. FC Köln              - VfL Bochum
   Erzgebirge Aue          - 1. FC Union Berlin
   SC Paderborn 07         - SV Darmstadt 98
-  Arminia Bielefeld       - 1. FC Heidenheim 1846
   MSV Duisburg            - Dynamo Dresden
-  SV Sandhausen           - SpVgg Greuther Fürth
-  FC St. Pauli            - 1. FC Magdeburg
-
+ 
 
 Spieltag 19
 [Mi 30.1.]

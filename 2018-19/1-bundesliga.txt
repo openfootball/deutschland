@@ -204,44 +204,46 @@ Spieltag 14
   1. FSV Mainz 05         - Hannover 96
 
 Spieltag 15
+[Fr 14.12.]
+  1. FC Nürnberg          - VfL Wolfsburg
 [Sa 15.12.]
   1899 Hoffenheim         - Bor. Mönchengladbach
   Borussia Dortmund       - Werder Bremen
-  RB Leipzig              - 1. FSV Mainz 05
   VfB Stuttgart           - Hertha BSC
-  Eintracht Frankfurt     - Bayer Leverkusen
   FC Augsburg             - FC Schalke 04
   Hannover 96             - Bayern München
   Fortuna Düsseldorf      - SC Freiburg
-  1. FC Nürnberg          - VfL Wolfsburg
-
-
+[So 16.12.]  
+  RB Leipzig              - 1. FSV Mainz 05
+  Eintracht Frankfurt     - Bayer Leverkusen
+  
 Spieltag 16
 [Di 18.12.]
-  Bayern München          - RB Leipzig
-  FC Schalke 04           - Bayer Leverkusen
   Bor. Mönchengladbach    - 1. FC Nürnberg
   Hertha BSC              - FC Augsburg
-  Werder Bremen           - 1899 Hoffenheim
-  SC Freiburg             - Hannover 96
-  1. FSV Mainz 05         - Eintracht Frankfurt
   VfL Wolfsburg           - VfB Stuttgart
   Fortuna Düsseldorf      - Borussia Dortmund
-
-
+[Mi 19.12.]
+ Bayern München          - RB Leipzig
+  FC Schalke 04           - Bayer Leverkusen
+ Werder Bremen           - 1899 Hoffenheim
+  SC Freiburg             - Hannover 96
+  1. FSV Mainz 05         - Eintracht Frankfurt
+  
 Spieltag 17
-[Sa 22.12.]
-  1899 Hoffenheim         - 1. FSV Mainz 05
+[Fr 21.12.]
   Borussia Dortmund       - Bor. Mönchengladbach
+[Sa 22.12.]
   Bayer Leverkusen        - Hertha BSC
   RB Leipzig              - Werder Bremen
   VfB Stuttgart           - FC Schalke 04
   Eintracht Frankfurt     - Bayern München
-  FC Augsburg             - VfL Wolfsburg
   Hannover 96             - Fortuna Düsseldorf
   1. FC Nürnberg          - SC Freiburg
-
-
+[So 23.12.]
+  1899 Hoffenheim         - 1. FSV Mainz 05
+  FC Augsburg             - VfL Wolfsburg
+  
 Spieltag 18
 [Sa 19.1.]
   1899 Hoffenheim         - Bayern München

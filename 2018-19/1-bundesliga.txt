@@ -176,13 +176,13 @@ Spieltag 12
 
 Spieltag 13
 [Fr 30.11.]
-  Fortuna Düsseldorf      - 1. FSV Mainz 05
+  Fortuna Düsseldorf      0-1 1. FSV Mainz 05
 [Sa 1.12.]
   1899 Hoffenheim         - FC Schalke 04
-  Borussia Dortmund       - SC Freiburg
-  VfB Stuttgart           - FC Augsburg
-  Werder Bremen           - Bayern München
-  Hannover 96             - Hertha BSC
+  Borussia Dortmund       2-0 SC Freiburg
+  VfB Stuttgart           1-0 FC Augsburg
+  Werder Bremen           1-2 Bayern München
+  Hannover 96             0-2 Hertha BSC
 [So 2.12.]
   RB Leipzig              - Bor. Mönchengladbach
   Eintracht Frankfurt     - VfL Wolfsburg

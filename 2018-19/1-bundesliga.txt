@@ -207,12 +207,12 @@ Spieltag 15
 [Fr 14.12.]
   1. FC Nürnberg          0-2 VfL Wolfsburg
 [Sa 15.12.]
-  1899 Hoffenheim         - Bor. Mönchengladbach
-  Borussia Dortmund       - Werder Bremen
-  VfB Stuttgart           - Hertha BSC
-  FC Augsburg             - FC Schalke 04
-  Hannover 96             - Bayern München
-  Fortuna Düsseldorf      - SC Freiburg
+  1899 Hoffenheim         0-0 Bor. Mönchengladbach
+  Borussia Dortmund       2-1 Werder Bremen
+  VfB Stuttgart           2-1 Hertha BSC
+  FC Augsburg             1-1 FC Schalke 04
+  Hannover 96             0-4 Bayern München
+  Fortuna Düsseldorf      2-0 SC Freiburg
 [So 16.12.]  
   RB Leipzig              - 1. FSV Mainz 05
   Eintracht Frankfurt     - Bayer Leverkusen

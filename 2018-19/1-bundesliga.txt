@@ -219,10 +219,10 @@ Spieltag 15
   
 Spieltag 16
 [Di 18.12.]
-  Bor. Mönchengladbach    - 1. FC Nürnberg
-  Hertha BSC              - FC Augsburg
-  VfL Wolfsburg           - VfB Stuttgart
-  Fortuna Düsseldorf      - Borussia Dortmund
+  Bor. Mönchengladbach    2-0 1. FC Nürnberg
+  Hertha BSC              2-2 FC Augsburg
+  VfL Wolfsburg           2-0 VfB Stuttgart
+  Fortuna Düsseldorf      2-1 Borussia Dortmund
 [Mi 19.12.]
  Bayern München          - RB Leipzig
   FC Schalke 04           - Bayer Leverkusen

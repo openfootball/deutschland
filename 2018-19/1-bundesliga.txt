@@ -232,14 +232,14 @@ Spieltag 16
   
 Spieltag 17
 [Fr 21.12.]
-  Borussia Dortmund       - Bor. Mönchengladbach
+  Borussia Dortmund       2-1 Bor. Mönchengladbach
 [Sa 22.12.]
-  Bayer Leverkusen        - Hertha BSC
-  RB Leipzig              - Werder Bremen
-  VfB Stuttgart           - FC Schalke 04
-  Eintracht Frankfurt     - Bayern München
-  Hannover 96             - Fortuna Düsseldorf
-  1. FC Nürnberg          - SC Freiburg
+  Bayer Leverkusen        3-1 Hertha BSC
+  RB Leipzig              3-2 Werder Bremen
+  VfB Stuttgart           1-3 FC Schalke 04
+  Eintracht Frankfurt     0-3 Bayern München
+  Hannover 96             0-1 Fortuna Düsseldorf
+  1. FC Nürnberg          0-1 SC Freiburg
 [So 23.12.]
   1899 Hoffenheim         - 1. FSV Mainz 05
   FC Augsburg             - VfL Wolfsburg

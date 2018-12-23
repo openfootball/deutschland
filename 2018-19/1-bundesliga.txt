@@ -241,12 +241,15 @@ Spieltag 17
   Hannover 96             0-1 Fortuna Düsseldorf
   1. FC Nürnberg          0-1 SC Freiburg
 [So 23.12.]
-  1899 Hoffenheim         - 1. FSV Mainz 05
-  FC Augsburg             - VfL Wolfsburg
+  1899 Hoffenheim         1-1 1. FSV Mainz 05
+  FC Augsburg             2-3 VfL Wolfsburg
   
+# Winterpause bis Fr. 18.1.2019
+
 Spieltag 18
-[Sa 19.1.]
+[Fr 18.1.]
   1899 Hoffenheim         - Bayern München
+[Sa 19.1.]
   RB Leipzig              - Borussia Dortmund
   Bayer Leverkusen        - Bor. Mönchengladbach
   1. FC Nürnberg          - Hertha BSC

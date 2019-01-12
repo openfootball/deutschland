@@ -307,57 +307,68 @@ Spieltag 21
   
   
 Spieltag 22
-[Sa 16.2.]
+[Fr 15.2.]
   FC Augsburg             - Bayern München
-  1. FC Nürnberg          - Borussia Dortmund
+[Sa 16.2.]
   VfB Stuttgart           - RB Leipzig
-  Eintracht Frankfurt     - Bor. Mönchengladbach
   Hertha BSC              - Werder Bremen
   1899 Hoffenheim         - Hannover 96
   FC Schalke 04           - SC Freiburg
   VfL Wolfsburg           - 1. FSV Mainz 05
+[So 17.2.]
+  Eintracht Frankfurt     - Bor. Mönchengladbach
   Bayer Leverkusen        - Fortuna Düsseldorf
-
-
+[Mo 18.2.]
+  1. FC Nürnberg          - Borussia Dortmund
+  
+  
 Spieltag 23
+[Fr 22.2.]
+  Werder Bremen           - VfB Stuttgart
 [Sa 23.2.]
   1. FSV Mainz 05         - FC Schalke 04
-  RB Leipzig              - 1899 Hoffenheim
-  Borussia Dortmund       - Bayer Leverkusen
-  Werder Bremen           - VfB Stuttgart
-  Hannover 96             - Eintracht Frankfurt
+  
   Bayern München          - Hertha BSC
   SC Freiburg             - FC Augsburg
   Bor. Mönchengladbach    - VfL Wolfsburg
   Fortuna Düsseldorf      - 1. FC Nürnberg
-
-
+[So 24.2.]
+  Borussia Dortmund       - Bayer Leverkusen
+  Hannover 96             - Eintracht Frankfurt
+[Mo 25.2.]
+  RB Leipzig              - 1899 Hoffenheim
+  
+  
 Spieltag 24
+[Fr 1.3.]
+  FC Augsburg             - Borussia Dortmund
 [Sa 2.3.]
   Bor. Mönchengladbach    - Bayern München
   Eintracht Frankfurt     - 1899 Hoffenheim
-  FC Augsburg             - Borussia Dortmund
   1. FC Nürnberg          - RB Leipzig
-  VfL Wolfsburg           - Werder Bremen
-  VfB Stuttgart           - Hannover 96
   Bayer Leverkusen        - SC Freiburg
   Hertha BSC              - 1. FSV Mainz 05
   FC Schalke 04           - Fortuna Düsseldorf
-
+[So 3.3.]
+  VfL Wolfsburg           - Werder Bremen
+  VfB Stuttgart           - Hannover 96
 
 Spieltag 25
-[Sa 9.3.]
+[Fr 8.3.]
   Werder Bremen           - FC Schalke 04
-  Hannover 96             - Bayer Leverkusen
+[Sa 9.3.]
   Borussia Dortmund       - VfB Stuttgart
-  Fortuna Düsseldorf      - Eintracht Frankfurt
   1. FSV Mainz 05         - Bor. Mönchengladbach
   SC Freiburg             - Hertha BSC
   RB Leipzig              - FC Augsburg
   Bayern München          - VfL Wolfsburg
+[So 10.3.]
   1899 Hoffenheim         - 1. FC Nürnberg
-
-
+  Hannover 96             - Bayer Leverkusen
+[Mo 11.3.]
+  Fortuna Düsseldorf      - Eintracht Frankfurt
+  
+  
 Spieltag 26
 [Sa 16.3.]
   VfB Stuttgart           - 1899 Hoffenheim

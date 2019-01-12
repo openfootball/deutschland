@@ -370,44 +370,50 @@ Spieltag 25
   
   
 Spieltag 26
+[Fr 15.3.]
+  Bor. Mönchengladbach    - SC Freiburg
 [Sa 16.3.]
   VfB Stuttgart           - 1899 Hoffenheim
   Hertha BSC              - Borussia Dortmund
   FC Schalke 04           - RB Leipzig
-  Bayer Leverkusen        - Werder Bremen
   FC Augsburg             - Hannover 96
-  Bor. Mönchengladbach    - SC Freiburg
-  Bayern München          - 1. FSV Mainz 05
   VfL Wolfsburg           - Fortuna Düsseldorf
+[So 17.3.]
+  Bayer Leverkusen        - Werder Bremen
   Eintracht Frankfurt     - 1. FC Nürnberg
-
-
+  Bayern München          - 1. FSV Mainz 05
+  
+  
 Spieltag 27
+[Fr 29.3.]
+  1899 Hoffenheim         - Bayer Leverkusen
 [Sa 30.3.]
   SC Freiburg             - Bayern München
-  Hannover 96             - FC Schalke 04
-  1899 Hoffenheim         - Bayer Leverkusen
-  Eintracht Frankfurt     - VfB Stuttgart
   Fortuna Düsseldorf      - Bor. Mönchengladbach
   RB Leipzig              - Hertha BSC
   1. FC Nürnberg          - FC Augsburg
   Werder Bremen           - 1. FSV Mainz 05
   Borussia Dortmund       - VfL Wolfsburg
+[So 31.3.]
+  Hannover 96             - FC Schalke 04
+  Eintracht Frankfurt     - VfB Stuttgart
 
 
 Spieltag 28
+[Fr 5.4.]
+  1. FSV Mainz 05         - SC Freiburg
 [Sa 6.4.]
-  FC Augsburg             - 1899 Hoffenheim
   Bayern München          - Borussia Dortmund
   Bayer Leverkusen        - RB Leipzig
   FC Schalke 04           - Eintracht Frankfurt
-  Bor. Mönchengladbach    - Werder Bremen
   VfL Wolfsburg           - Hannover 96
-  1. FSV Mainz 05         - SC Freiburg
   Hertha BSC              - Fortuna Düsseldorf
   VfB Stuttgart           - 1. FC Nürnberg
-
-
+[So 7.4..]
+  FC Augsburg             - 1899 Hoffenheim
+  Bor. Mönchengladbach    - Werder Bremen
+  
+  
 Spieltag 29
 [Sa 13.4.]
   Fortuna Düsseldorf      - Bayern München

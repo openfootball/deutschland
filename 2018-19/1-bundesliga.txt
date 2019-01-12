@@ -252,53 +252,60 @@ Spieltag 18
 [Sa 19.1.]
   RB Leipzig              - Borussia Dortmund
   Bayer Leverkusen        - Bor. Mönchengladbach
-  1. FC Nürnberg          - Hertha BSC
   Hannover 96             - Werder Bremen
   Eintracht Frankfurt     - SC Freiburg
   VfB Stuttgart           - 1. FSV Mainz 05
-  FC Schalke 04           - VfL Wolfsburg
   FC Augsburg             - Fortuna Düsseldorf
+[So 20.1.]
+  1. FC Nürnberg          - Hertha BSC
+  FC Schalke 04           - VfL Wolfsburg
 
 
 Spieltag 19
-[Sa 26.1.]
+[Fr 25.1.]
   Hertha BSC              - FC Schalke 04
+[Sa 26.1.]
   SC Freiburg             - 1899 Hoffenheim
   VfL Wolfsburg           - Bayer Leverkusen
-  Fortuna Düsseldorf      - RB Leipzig
-  Bayern München          - VfB Stuttgart
   Werder Bremen           - Eintracht Frankfurt
   Bor. Mönchengladbach    - FC Augsburg
   Borussia Dortmund       - Hannover 96
   1. FSV Mainz 05         - 1. FC Nürnberg
+[So 27.1.]
+  Fortuna Düsseldorf      - RB Leipzig
+  Bayern München          - VfB Stuttgart
 
 
 Spieltag 20
+[Fr 1.2.]
+  Hannover 96             - RB Leipzig
 [Sa 2.2.]
   Eintracht Frankfurt     - Borussia Dortmund
-  Hannover 96             - RB Leipzig
   FC Schalke 04           - Bor. Mönchengladbach
   1. FC Nürnberg          - Werder Bremen
-  VfB Stuttgart           - SC Freiburg
-  FC Augsburg             - 1. FSV Mainz 05
   Hertha BSC              - VfL Wolfsburg
   1899 Hoffenheim         - Fortuna Düsseldorf
   Bayer Leverkusen        - Bayern München
+[So 3.2.]
+  VfB Stuttgart           - SC Freiburg
+  FC Augsburg             - 1. FSV Mainz 05
 
 
 Spieltag 21
+[Fr 8.2.]
+  1. FSV Mainz 05         - Bayer Leverkusen
 [Sa 9.2.]
   Bayern München          - FC Schalke 04
   Borussia Dortmund       - 1899 Hoffenheim
-  1. FSV Mainz 05         - Bayer Leverkusen
-  Fortuna Düsseldorf      - VfB Stuttgart
   RB Leipzig              - Eintracht Frankfurt
   Bor. Mönchengladbach    - Hertha BSC
-  Werder Bremen           - FC Augsburg
   SC Freiburg             - VfL Wolfsburg
   Hannover 96             - 1. FC Nürnberg
-
-
+[So 10.2.]
+  Werder Bremen           - FC Augsburg
+  Fortuna Düsseldorf      - VfB Stuttgart
+  
+  
 Spieltag 22
 [Sa 16.2.]
   FC Augsburg             - Bayern München

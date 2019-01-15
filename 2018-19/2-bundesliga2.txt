@@ -400,43 +400,52 @@ Spieltag 25
   
 
 Spieltag 26
+[Fr 15.3.]
+  1. FC Heidenheim 1846   - 1. FC Union Berlin
+  Holstein Kiel           - Erzgebirge Aue
+[Sa 16.3.]
+  Hamburger SV            - SV Darmstadt 98
+  SV Sandhausen           - FC St. Pauli
+  Dynamo Dresden          - 1. FC Magdeburg
 [So 17.3.]
   MSV Duisburg            - 1. FC Köln
   Arminia Bielefeld       - VfL Bochum
-  1. FC Heidenheim 1846   - 1. FC Union Berlin
   SC Paderborn 07         - FC Ingolstadt 04
-  Hamburger SV            - SV Darmstadt 98
-  SV Sandhausen           - FC St. Pauli
+ [Mo 18.3.] 
   Jahn Regensburg         - SpVgg Greuther Fürth
-  Holstein Kiel           - Erzgebirge Aue
-  Dynamo Dresden          - 1. FC Magdeburg
-
-
+  
+ 
 Spieltag 27
-[So 31.3.]
+[Fr 29.3.]
+  FC St. Pauli            - MSV Duisburg
+  1. FC Magdeburg         - 1. FC Heidenheim 1846
+[Sa 30.3.]
   VfL Bochum              - Hamburger SV
+  SV Darmstadt 98         - Jahn Regensburg
+  1. FC Union Berlin      - SC Paderborn 07
+[So 31.3.]
   1. FC Köln              - Holstein Kiel
   SpVgg Greuther Fürth    - Arminia Bielefeld
-  SV Darmstadt 98         - Jahn Regensburg
-  FC St. Pauli            - MSV Duisburg
   FC Ingolstadt 04        - SV Sandhausen
-  1. FC Magdeburg         - 1. FC Heidenheim 1846
+[Mo 1.4.] 
   Erzgebirge Aue          - Dynamo Dresden
-  1. FC Union Berlin      - SC Paderborn 07
-
+ 
 
 Spieltag 28
+[Fr 5.4.]
+  Jahn Regensburg         - VfL Bochum
+  Arminia Bielefeld       - Erzgebirge Aue
+[Sa 6.4.]
+  MSV Duisburg            - FC Ingolstadt 04
+  Holstein Kiel           - FC St. Pauli
+  SV Sandhausen           - SC Paderborn 07
 [So 7.4.]
   1. FC Heidenheim 1846   - 1. FC Köln
-  Jahn Regensburg         - VfL Bochum
   Dynamo Dresden          - 1. FC Union Berlin
-  MSV Duisburg            - FC Ingolstadt 04
   SpVgg Greuther Fürth    - SV Darmstadt 98
-  Holstein Kiel           - FC St. Pauli
-  Arminia Bielefeld       - Erzgebirge Aue
+[Mo 8.4.] 
   Hamburger SV            - 1. FC Magdeburg
-  SV Sandhausen           - SC Paderborn 07
-
+  
 
 Spieltag 29
 [So 14.4.]

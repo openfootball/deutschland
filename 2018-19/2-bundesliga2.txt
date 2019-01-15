@@ -339,28 +339,32 @@ Spieltag 21
   
 
 Spieltag 22
-[So 17.2.]
-  1. FC Heidenheim 1846   - Hamburger SV
+[Fr 15.2.]
   SC Paderborn 07         - 1. FC Köln
-  Dynamo Dresden          - Jahn Regensburg
+  SV Sandhausen           - SV Darmstadt 98
+[Sa 16.2.]
   FC Ingolstadt 04        - VfL Bochum
   MSV Duisburg            - 1. FC Union Berlin
-  SV Sandhausen           - SV Darmstadt 98
-  Holstein Kiel           - SpVgg Greuther Fürth
+  1. FC Heidenheim 1846   - Hamburger SV
   FC St. Pauli            - Erzgebirge Aue
+[So 17.2.]
+  Dynamo Dresden          - Jahn Regensburg
+  Holstein Kiel           - SpVgg Greuther Fürth
   Arminia Bielefeld       - 1. FC Magdeburg
 
 
 Spieltag 23
-[So 24.2.]
-  Jahn Regensburg         - Hamburger SV
-  VfL Bochum              - Holstein Kiel
+[Fr 22.2.]
   1. FC Union Berlin      - Arminia Bielefeld
-  Erzgebirge Aue          - MSV Duisburg
+  SpVgg Greuther Fürth    - 1. FC Heidenheim 1846
+[Sa 23.2.]
   FC St. Pauli            - FC Ingolstadt 04
   1. FC Köln              - SV Sandhausen
-  SpVgg Greuther Fürth    - 1. FC Heidenheim 1846
+  VfL Bochum              - Holstein Kiel
   SV Darmstadt 98         - Dynamo Dresden
+[So 24.2.]
+  Jahn Regensburg         - Hamburger SV
+  Erzgebirge Aue          - MSV Duisburg
   1. FC Magdeburg         - SC Paderborn 07
 
 

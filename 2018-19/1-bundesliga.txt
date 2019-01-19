@@ -251,11 +251,11 @@ Spieltag 18
   1899 Hoffenheim         1-3 Bayern München
 [Sa 19.1.]
   RB Leipzig              - Borussia Dortmund
-  Bayer Leverkusen        - Bor. Mönchengladbach
-  Hannover 96             - Werder Bremen
-  Eintracht Frankfurt     - SC Freiburg
-  VfB Stuttgart           - 1. FSV Mainz 05
-  FC Augsburg             - Fortuna Düsseldorf
+  Bayer Leverkusen        0-1 Bor. Mönchengladbach
+  Hannover 96             0-1 Werder Bremen
+  Eintracht Frankfurt     3-1 SC Freiburg
+  VfB Stuttgart           2-3 1. FSV Mainz 05
+  FC Augsburg             1-2 Fortuna Düsseldorf
 [So 20.1.]
   1. FC Nürnberg          - Hertha BSC
   FC Schalke 04           - VfL Wolfsburg

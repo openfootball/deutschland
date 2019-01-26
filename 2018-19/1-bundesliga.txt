@@ -265,12 +265,12 @@ Spieltag 19
 [Fr 25.1.]
   Hertha BSC              2-2 FC Schalke 04
 [Sa 26.1.]
-  SC Freiburg             - 1899 Hoffenheim
-  VfL Wolfsburg           - Bayer Leverkusen
+  SC Freiburg             2-4 1899 Hoffenheim
+  VfL Wolfsburg           0-3 Bayer Leverkusen
   Werder Bremen           - Eintracht Frankfurt
-  Bor. Mönchengladbach    - FC Augsburg
-  Borussia Dortmund       - Hannover 96
-  1. FSV Mainz 05         - 1. FC Nürnberg
+  Bor. Mönchengladbach    2-0 FC Augsburg
+  Borussia Dortmund       5-1 Hannover 96
+  1. FSV Mainz 05         2-1 1. FC Nürnberg
 [So 27.1.]
   Fortuna Düsseldorf      - RB Leipzig
   Bayern München          - VfB Stuttgart

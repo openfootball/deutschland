@@ -298,10 +298,10 @@ Spieltag 19
   SV Darmstadt 98         2-1 FC St. Pauli
   1. FC Magdeburg         1-0 Erzgebirge Aue
 [Mi 30.1.]
-  1. FC Heidenheim 1846   - Holstein Kiel
-  Dynamo Dresden          - Arminia Bielefeld
-  Hamburger SV            - SV Sandhausen
-  Jahn Regensburg         - SC Paderborn 07
+  1. FC Heidenheim 1846   2-2 Holstein Kiel
+  Dynamo Dresden          3-4 Arminia Bielefeld
+  Hamburger SV            2-1 SV Sandhausen
+  Jahn Regensburg         2-0 SC Paderborn 07
 [Do 31.1.]
   1. FC Union Berlin      - 1. FC Köln
 

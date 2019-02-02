@@ -278,14 +278,14 @@ Spieltag 19
 
 Spieltag 20
 [Fr 1.2.]
-  Hannover 96             - RB Leipzig
+  Hannover 96             0-3 RB Leipzig
 [Sa 2.2.]
-  Eintracht Frankfurt     - Borussia Dortmund
+  Eintracht Frankfurt     1-1 Borussia Dortmund
   FC Schalke 04           - Bor. Mönchengladbach
-  1. FC Nürnberg          - Werder Bremen
-  Hertha BSC              - VfL Wolfsburg
-  1899 Hoffenheim         - Fortuna Düsseldorf
-  Bayer Leverkusen        - Bayern München
+  1. FC Nürnberg          1-1 Werder Bremen
+  Hertha BSC              0-1 VfL Wolfsburg
+  1899 Hoffenheim         1-1 Fortuna Düsseldorf
+  Bayer Leverkusen        3-1 Bayern München
 [So 3.2.]
   VfB Stuttgart           - SC Freiburg
   FC Augsburg             - 1. FSV Mainz 05

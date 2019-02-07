@@ -315,7 +315,7 @@ Spieltag 20
   SC Paderborn 07         6-0 SpVgg Greuther Fürth
   Arminia Bielefeld       2-0 Hamburger SV
 [So 3.2.]
-  Erzgebirge Aue          - 1. FC Köln      Termin abgesagt
+  Erzgebirge Aue          - 1. FC Köln      27.2.
   Holstein Kiel           2-0 Jahn Regensburg
   SV Sandhausen           3-0 VfL Bochum
 [Mo 4.2.]
@@ -366,6 +366,11 @@ Spieltag 23
   Jahn Regensburg         - Hamburger SV
   Erzgebirge Aue          - MSV Duisburg
   1. FC Magdeburg         - SC Paderborn 07
+
+
+Spieltag 20
+[Mi 27.2.]
+ Erzgebirge Aue          - 1. FC Köln
 
 
 Spieltag 24

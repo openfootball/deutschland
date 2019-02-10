@@ -295,12 +295,12 @@ Spieltag 21
 [Fr 8.2.]
   1. FSV Mainz 05         1-5 Bayer Leverkusen
 [Sa 9.2.]
-  Bayern München          - FC Schalke 04
-  Borussia Dortmund       - 1899 Hoffenheim
-  RB Leipzig              - Eintracht Frankfurt
-  Bor. Mönchengladbach    - Hertha BSC
-  SC Freiburg             - VfL Wolfsburg
-  Hannover 96             - 1. FC Nürnberg
+  Bayern München          3-1 FC Schalke 04
+  Borussia Dortmund       3-3 1899 Hoffenheim
+  RB Leipzig              0-0 Eintracht Frankfurt
+  Bor. Mönchengladbach    0-3 Hertha BSC
+  SC Freiburg             3-3 VfL Wolfsburg
+  Hannover 96             2-0 1. FC Nürnberg
 [So 10.2.]
   Werder Bremen           - FC Augsburg
   Fortuna Düsseldorf      - VfB Stuttgart

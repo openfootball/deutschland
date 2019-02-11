@@ -302,8 +302,8 @@ Spieltag 21
   SC Freiburg             3-3 VfL Wolfsburg
   Hannover 96             2-0 1. FC Nürnberg
 [So 10.2.]
-  Werder Bremen           - FC Augsburg
-  Fortuna Düsseldorf      - VfB Stuttgart
+  Werder Bremen           4-0 FC Augsburg
+  Fortuna Düsseldorf      3-0 VfB Stuttgart
   
   
 Spieltag 22
@@ -327,7 +327,6 @@ Spieltag 23
   Werder Bremen           - VfB Stuttgart
 [Sa 23.2.]
   1. FSV Mainz 05         - FC Schalke 04
-  
   Bayern München          - Hertha BSC
   SC Freiburg             - FC Augsburg
   Bor. Mönchengladbach    - VfL Wolfsburg

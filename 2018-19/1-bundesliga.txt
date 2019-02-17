@@ -310,11 +310,11 @@ Spieltag 22
 [Fr 15.2.]
   FC Augsburg             2-3 Bayern München
 [Sa 16.2.]
-  VfB Stuttgart           - RB Leipzig
-  Hertha BSC              - Werder Bremen
-  1899 Hoffenheim         - Hannover 96
-  FC Schalke 04           - SC Freiburg
-  VfL Wolfsburg           - 1. FSV Mainz 05
+  VfB Stuttgart           1-3 RB Leipzig
+  Hertha BSC              1-1 Werder Bremen
+  1899 Hoffenheim         3-0 Hannover 96
+  FC Schalke 04           0-0 SC Freiburg
+  VfL Wolfsburg           3-0 1. FSV Mainz 05
 [So 17.2.]
   Eintracht Frankfurt     - Bor. Mönchengladbach
   Bayer Leverkusen        - Fortuna Düsseldorf

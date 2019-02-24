@@ -326,11 +326,11 @@ Spieltag 23
 [Fr 22.2.]
   Werder Bremen           1-1 VfB Stuttgart
 [Sa 23.2.]
-  1. FSV Mainz 05         - FC Schalke 04
-  Bayern München          - Hertha BSC
-  SC Freiburg             - FC Augsburg
-  Bor. Mönchengladbach    - VfL Wolfsburg
-  Fortuna Düsseldorf      - 1. FC Nürnberg
+  1. FSV Mainz 05         3-0 FC Schalke 04
+  Bayern München          1-0 Hertha BSC
+  SC Freiburg             5-1 FC Augsburg
+  Bor. Mönchengladbach    3-0 VfL Wolfsburg
+  Fortuna Düsseldorf      2-1 1. FC Nürnberg
 [So 24.2.]
   Borussia Dortmund       - Bayer Leverkusen
   Hannover 96             - Eintracht Frankfurt
@@ -351,6 +351,7 @@ Spieltag 24
 [So 3.3.]
   VfL Wolfsburg           - Werder Bremen
   VfB Stuttgart           - Hannover 96
+
 
 Spieltag 25
 [Fr 8.3.]

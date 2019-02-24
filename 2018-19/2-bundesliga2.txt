@@ -358,10 +358,10 @@ Spieltag 23
   1. FC Union Berlin      1-1 Arminia Bielefeld
   SpVgg Greuther Fürth    0-0 1. FC Heidenheim 1846
 [Sa 23.2.]
-  FC St. Pauli            - FC Ingolstadt 04
-  1. FC Köln              - SV Sandhausen
-  VfL Bochum              - Holstein Kiel
-  SV Darmstadt 98         - Dynamo Dresden
+  FC St. Pauli            1-0 FC Ingolstadt 04
+  1. FC Köln              3-1 SV Sandhausen
+  VfL Bochum              1-3 Holstein Kiel
+  SV Darmstadt 98         2-0 Dynamo Dresden
 [So 24.2.]
   Jahn Regensburg         - Hamburger SV
   Erzgebirge Aue          - MSV Duisburg

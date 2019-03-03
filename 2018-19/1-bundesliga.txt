@@ -340,14 +340,14 @@ Spieltag 23
   
 Spieltag 24
 [Fr 1.3.]
-  FC Augsburg             - Borussia Dortmund
+  FC Augsburg             2-1 Borussia Dortmund
 [Sa 2.3.]
-  Bor. Mönchengladbach    - Bayern München
-  Eintracht Frankfurt     - 1899 Hoffenheim
-  1. FC Nürnberg          - RB Leipzig
-  Bayer Leverkusen        - SC Freiburg
-  Hertha BSC              - 1. FSV Mainz 05
-  FC Schalke 04           - Fortuna Düsseldorf
+  Bor. Mönchengladbach    1-5 Bayern München
+  Eintracht Frankfurt     3-2 1899 Hoffenheim
+  1. FC Nürnberg          0-1 RB Leipzig
+  Bayer Leverkusen        2-0 SC Freiburg
+  Hertha BSC              2-1 1. FSV Mainz 05
+  FC Schalke 04           0-4 Fortuna Düsseldorf
 [So 3.3.]
   VfL Wolfsburg           - Werder Bremen
   VfB Stuttgart           - Hannover 96

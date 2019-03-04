@@ -382,9 +382,9 @@ Spieltag 24
   SC Paderborn 07         0-1 FC St. Pauli
   SV Sandhausen           0-3 Erzgebirge Aue
 [So 3.3.]
-  FC Ingolstadt 04        - 1. FC Köln
-  Dynamo Dresden          - VfL Bochum
-  Arminia Bielefeld       - SV Darmstadt 98
+  FC Ingolstadt 04        1-2 1. FC Köln
+  Dynamo Dresden          2-2 VfL Bochum
+  Arminia Bielefeld       1-0 SV Darmstadt 98
 [Mo 4.3.]  
   Hamburger SV            - SpVgg Greuther Fürth
   

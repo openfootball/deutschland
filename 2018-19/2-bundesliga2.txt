@@ -401,13 +401,13 @@ Spieltag 25
 [So 10.3.]
   FC St. Pauli            0-4 Hamburger SV
   1. FC Magdeburg         0-1 SV Sandhausen
-  SpVgg Greuther Fürth    - Dynamo Dresden  verschoben
+  SpVgg Greuther Fürth    - Dynamo Dresden  verschoben  4.4.19
   
 
 Spieltag 26
 [Fr 15.3.]
-  1. FC Heidenheim 1846   - 1. FC Union Berlin
-  Holstein Kiel           - Erzgebirge Aue
+  1. FC Heidenheim 1846   2-1 1. FC Union Berlin
+  Holstein Kiel           5-1 Erzgebirge Aue
 [Sa 16.3.]
   Hamburger SV            - SV Darmstadt 98
   SV Sandhausen           - FC St. Pauli
@@ -435,6 +435,11 @@ Spieltag 27
 [Mo 1.4.] 
   Erzgebirge Aue          - Dynamo Dresden
  
+ 
+## Nachtrag Spieltag 25
+[Do 4.4.]
+SpVgg Greuther Fürth    - Dynamo Dresden  
+
 
 Spieltag 28
 [Fr 5.4.]

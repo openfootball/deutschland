@@ -413,7 +413,7 @@ Spieltag 26
   SV Sandhausen           4-0 FC St. Pauli
   Dynamo Dresden          1-1 1. FC Magdeburg
 [So 17.3.]
-  MSV Duisburg            - 1. FC Köln      verschoben
+  MSV Duisburg            - 1. FC Köln      verschoben 10.4.19
   Arminia Bielefeld       3-1 VfL Bochum
   SC Paderborn 07         3-1 FC Ingolstadt 04
  [Mo 18.3.] 
@@ -422,8 +422,8 @@ Spieltag 26
  
 Spieltag 27
 [Fr 29.3.]
-  FC St. Pauli            - MSV Duisburg
-  1. FC Magdeburg         - 1. FC Heidenheim 1846
+  FC St. Pauli            0-0 MSV Duisburg
+  1. FC Magdeburg         0-0 1. FC Heidenheim 1846
 [Sa 30.3.]
   VfL Bochum              - Hamburger SV
   SV Darmstadt 98         - Jahn Regensburg
@@ -458,6 +458,7 @@ Spieltag 28
   
   
 ## Nachtrag Spieltag 26
+[Mi 10.4.]
    MSV Duisburg            - 1. FC Köln 
    
    

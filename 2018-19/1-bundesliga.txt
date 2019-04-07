@@ -403,12 +403,12 @@ Spieltag 28
 [Fr 5.4.]
   1. FSV Mainz 05         5-0 SC Freiburg
 [Sa 6.4.]
-  Bayern München          - Borussia Dortmund
-  Bayer Leverkusen        - RB Leipzig
-  FC Schalke 04           - Eintracht Frankfurt
-  VfL Wolfsburg           - Hannover 96
-  Hertha BSC              - Fortuna Düsseldorf
-  VfB Stuttgart           - 1. FC Nürnberg
+  Bayern München          5-0 Borussia Dortmund
+  Bayer Leverkusen        2-4 RB Leipzig
+  FC Schalke 04           1-2 Eintracht Frankfurt
+  VfL Wolfsburg           3-1 Hannover 96
+  Hertha BSC              1-2 Fortuna Düsseldorf
+  VfB Stuttgart           1-1 1. FC Nürnberg
 [So 7.4..]
   FC Augsburg             - 1899 Hoffenheim
   Bor. Mönchengladbach    - Werder Bremen

@@ -413,19 +413,19 @@ Spieltag 28
   FC Augsburg             0-4 1899 Hoffenheim
   Bor. Mönchengladbach    1-1 Werder Bremen
   
-  
 Spieltag 29
+[Fr 12.4.]
+  1. FC Nürnberg          1-1 FC Schalke 04
 [Sa 13.4.]
-  Fortuna Düsseldorf      - Bayern München
-  1. FC Nürnberg          - FC Schalke 04
-  VfB Stuttgart           - Bayer Leverkusen
-  Hannover 96             - Bor. Mönchengladbach
-  1899 Hoffenheim         - Hertha BSC
-  Eintracht Frankfurt     - FC Augsburg
-  Werder Bremen           - SC Freiburg
+  RB Leipzig              2-0 VfL Wolfsburg
+  VfB Stuttgart           0-1 Bayer Leverkusen
+  Werder Bremen           2-1 SC Freiburg
+  Hannover 96             0-1 Bor. Mönchengladbach
   Borussia Dortmund       - 1. FSV Mainz 05
-  RB Leipzig              - VfL Wolfsburg
-
+[So 14.4.]
+  1899 Hoffenheim         - Hertha BSC
+  Fortuna Düsseldorf      - Bayern München
+  Eintracht Frankfurt     - FC Augsburg
 
 Spieltag 30
 [Sa 20.4.]

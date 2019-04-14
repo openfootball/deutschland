@@ -423,9 +423,9 @@ Spieltag 29
   Hannover 96             0-1 Bor. Mönchengladbach
   Borussia Dortmund       2-1 1. FSV Mainz 05
 [So 14.4.]
-  1899 Hoffenheim         - Hertha BSC
-  Fortuna Düsseldorf      - Bayern München
-  Eintracht Frankfurt     - FC Augsburg
+  1899 Hoffenheim         2-0 Hertha BSC
+  Fortuna Düsseldorf      1-4 Bayern München
+  Eintracht Frankfurt     1-3 FC Augsburg
 
 Spieltag 30
 [Sa 20.4.]

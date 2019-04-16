@@ -429,43 +429,46 @@ Spieltag 29
 
 Spieltag 30
 [Sa 20.4.]
-  FC Schalke 04           - 1899 Hoffenheim
-  SC Freiburg             - Borussia Dortmund
-  Bor. Mönchengladbach    - RB Leipzig
-  FC Augsburg             - VfB Stuttgart
-  VfL Wolfsburg           - Eintracht Frankfurt
   Bayern München          - Werder Bremen
-  Hertha BSC              - Hannover 96
-  1. FSV Mainz 05         - Fortuna Düsseldorf
   Bayer Leverkusen        - 1. FC Nürnberg
-
+  FC Augsburg             - VfB Stuttgart
+  1. FSV Mainz 05         - Fortuna Düsseldorf
+  Bor. Mönchengladbach    - RB Leipzig
+  FC Schalke 04           - 1899 Hoffenheim
+[So 21.4.]  
+  SC Freiburg             - Borussia Dortmund
+  Hertha BSC              - Hannover 96
+[Mo 22.4.]  
+  VfL Wolfsburg           - Eintracht Frankfurt
 
 Spieltag 31
-[Sa 27.4.]
-  1. FC Nürnberg          - Bayern München
-  Borussia Dortmund       - FC Schalke 04
+[Fr 26.4.]
   FC Augsburg             - Bayer Leverkusen
-  VfB Stuttgart           - Bor. Mönchengladbach
-  Eintracht Frankfurt     - Hertha BSC
-  Fortuna Düsseldorf      - Werder Bremen
+[Sa 27.4.]
+  Borussia Dortmund       - FC Schalke 04
   RB Leipzig              - SC Freiburg
+  Eintracht Frankfurt     - Hertha BSC
   Hannover 96             - 1. FSV Mainz 05
+  Fortuna Düsseldorf      - Werder Bremen
+  VfB Stuttgart           - Bor. Mönchengladbach
+[So 28.4.]
   1899 Hoffenheim         - VfL Wolfsburg
-
+  1. FC Nürnberg          - Bayern München
 
 Spieltag 32
-[Sa 4.5.]
-  Bor. Mönchengladbach    - 1899 Hoffenheim
-  Werder Bremen           - Borussia Dortmund
+[Fr 3.5.]
   1. FSV Mainz 05         - RB Leipzig
-  Hertha BSC              - VfB Stuttgart
-  Bayer Leverkusen        - Eintracht Frankfurt
-  FC Schalke 04           - FC Augsburg
+[Sa 4.5.]
   Bayern München          - Hannover 96
-  SC Freiburg             - Fortuna Düsseldorf
+  Bor. Mönchengladbach    - 1899 Hoffenheim
+  Hertha BSC              - VfB Stuttgart
   VfL Wolfsburg           - 1. FC Nürnberg
-
-
+  Werder Bremen           - Borussia Dortmund
+[So 5.5.]
+  FC Schalke 04           - FC Augsburg
+  SC Freiburg             - Fortuna Düsseldorf
+  Bayer Leverkusen        - Eintracht Frankfurt
+ 
 Spieltag 33
 [Sa 11.5.]
   RB Leipzig              - Bayern München
@@ -477,7 +480,6 @@ Spieltag 33
   Eintracht Frankfurt     - 1. FSV Mainz 05
   VfB Stuttgart           - VfL Wolfsburg
   Borussia Dortmund       - Fortuna Düsseldorf
-
 
 Spieltag 34
 [Sa 18.5.]

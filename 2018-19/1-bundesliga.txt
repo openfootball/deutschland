@@ -429,12 +429,12 @@ Spieltag 29
 
 Spieltag 30
 [Sa 20.4.]
-  Bayern München          - Werder Bremen
-  Bayer Leverkusen        - 1. FC Nürnberg
-  FC Augsburg             - VfB Stuttgart
-  1. FSV Mainz 05         - Fortuna Düsseldorf
-  Bor. Mönchengladbach    - RB Leipzig
-  FC Schalke 04           - 1899 Hoffenheim
+  Bayern München          1-0 Werder Bremen
+  Bayer Leverkusen        2-0 1. FC Nürnberg
+  FC Augsburg             6-0 VfB Stuttgart
+  1. FSV Mainz 05         3-1 Fortuna Düsseldorf
+  Bor. Mönchengladbach    1-2 RB Leipzig
+  FC Schalke 04           2-5 1899 Hoffenheim
 [So 21.4.]  
   SC Freiburg             - Borussia Dortmund
   Hertha BSC              - Hannover 96

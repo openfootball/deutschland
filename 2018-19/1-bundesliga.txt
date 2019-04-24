@@ -477,9 +477,10 @@ Spieltag 33
   FC Augsburg             - Hertha BSC
   1899 Hoffenheim         - Werder Bremen
   Hannover 96             - SC Freiburg
-  Eintracht Frankfurt     - 1. FSV Mainz 05
   VfB Stuttgart           - VfL Wolfsburg
   Borussia Dortmund       - Fortuna Düsseldorf
+[So 12.5.]
+  Eintracht Frankfurt     - 1. FSV Mainz 05
 
 Spieltag 34
 [Sa 18.5.]

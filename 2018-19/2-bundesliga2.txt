@@ -459,46 +459,55 @@ Spieltag 28
   
 ## Nachtrag Spieltag 26
 [Mi 10.4.]
-   MSV Duisburg            4-4 1. FC Köln 
+   MSV Duisburg           4-4 1. FC Köln 
    
    
 Spieltag 29
+[Fr 12.4.]
+  1. FC Union Berlin      2-2 Jahn Regensburg
+  Erzgebirge Aue          0-1 1. FC Heidenheim 1846
+[Sa 13.4.]
+  SC Paderborn 07         4-0 MSV Duisburg
+  1. FC Magdeburg         0-1 SV Darmstadt 98
+  SV Sandhausen           3-1 Dynamo Dresden
 [So 14.4.]
-  1. FC Köln              - Hamburger SV
-  FC Ingolstadt 04        - Holstein Kiel
-  FC St. Pauli            - Arminia Bielefeld
-  1. FC Union Berlin      - Jahn Regensburg
-  SC Paderborn 07         - MSV Duisburg
-  1. FC Magdeburg         - SV Darmstadt 98
-  Erzgebirge Aue          - 1. FC Heidenheim 1846
-  SV Sandhausen           - Dynamo Dresden
-  VfL Bochum              - SpVgg Greuther Fürth
+  FC Ingolstadt 04        1-1 Holstein Kiel
+  FC St. Pauli            1-1 Arminia Bielefeld
+  VfL Bochum              3-2 SpVgg Greuther Fürth
+   [Mo 15.4.]
+  1. FC Köln              1-1 Hamburger SV
 
 
 Spieltag 30
+[Sa 20.4.]
+  SpVgg Greuther Fürth    1-1 1. FC Union Berlin
+  MSV Duisburg            2-2 SV Sandhausen
+  Hamburger SV            1-1 Erzgebirge Aue
+  Holstein Kiel           1-2 SC Paderborn 07
 [So 21.4.]
-  Dynamo Dresden          - 1. FC Köln
-  SV Darmstadt 98         - VfL Bochum
-  SpVgg Greuther Fürth    - 1. FC Union Berlin
-  Arminia Bielefeld       - FC Ingolstadt 04
-  MSV Duisburg            - SV Sandhausen
-  1. FC Heidenheim 1846   - FC St. Pauli
-  Hamburger SV            - Erzgebirge Aue
-  Jahn Regensburg         - 1. FC Magdeburg
-  Holstein Kiel           - SC Paderborn 07
+  Dynamo Dresden          3-0 1. FC Köln
+  SV Darmstadt 98         0-0 VfL Bochum
+  Arminia Bielefeld       1-3 FC Ingolstadt 04
+  1. FC Heidenheim 1846   3-0 FC St. Pauli
+  Jahn Regensburg         1-0 1. FC Magdeburg
+  
 
 
 Spieltag 31
+[Fr 26.4.]
+  1. FC Köln              1-2 SV Darmstadt 98
+  FC Ingolstadt 04        1-0 Dynamo Dresden
+  [Sa 27.4.]
+  SV Sandhausen          3-2 Holstein Kiel
+  FC St. Pauli           4-3 Jahn Regensburg
+  1. FC Magdeburg        2-1 SpVgg Greuther Fürth
 [So 28.4.]
   1. FC Union Berlin      - Hamburger SV
-  SV Sandhausen           3-2 Holstein Kiel
   MSV Duisburg            - Arminia Bielefeld
-  FC St. Pauli            4-3 Jahn Regensburg
   Erzgebirge Aue          - VfL Bochum
-  1. FC Köln              1-2 SV Darmstadt 98
   SC Paderborn 07         - 1. FC Heidenheim 1846
-  FC Ingolstadt 04        1-0 Dynamo Dresden
-  1. FC Magdeburg         2-1 SpVgg Greuther Fürth
+  
+ 
 
 
 Spieltag 32

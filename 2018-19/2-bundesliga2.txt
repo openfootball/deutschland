@@ -401,7 +401,7 @@ Spieltag 25
 [So 10.3.]
   FC St. Pauli            0-4 Hamburger SV
   1. FC Magdeburg         0-1 SV Sandhausen
-  SpVgg Greuther Fürth    - Dynamo Dresden  verschoben  4.4.19
+  SpVgg Greuther Fürth    0-0 Dynamo Dresden  
   
 
 Spieltag 26
@@ -413,7 +413,7 @@ Spieltag 26
   SV Sandhausen           4-0 FC St. Pauli
   Dynamo Dresden          1-1 1. FC Magdeburg
 [So 17.3.]
-  MSV Duisburg            - 1. FC Köln      verschoben 10.4.19
+  MSV Duisburg            4-4 1. FC Köln      
   Arminia Bielefeld       3-1 VfL Bochum
   SC Paderborn 07         3-1 FC Ingolstadt 04
  [Mo 18.3.] 
@@ -429,37 +429,37 @@ Spieltag 27
   SV Darmstadt 98         1-1 Jahn Regensburg
   1. FC Union Berlin      1-3 SC Paderborn 07
 [So 31.3.]
-  1. FC Köln              - Holstein Kiel
-  SpVgg Greuther Fürth    - Arminia Bielefeld
-  FC Ingolstadt 04        - SV Sandhausen
+  1. FC Köln              4-0 Holstein Kiel
+  SpVgg Greuther Fürth    2-2 Arminia Bielefeld
+  FC Ingolstadt 04        1-2 SV Sandhausen
 [Mo 1.4.] 
-  Erzgebirge Aue          - Dynamo Dresden
+  Erzgebirge Aue          1-3 Dynamo Dresden
  
  
 ## Nachtrag Spieltag 25
 [Do 4.4.]
-SpVgg Greuther Fürth    - Dynamo Dresden  
+SpVgg Greuther Fürth      0-0 Dynamo Dresden  
 
 
 Spieltag 28
 [Fr 5.4.]
-  Jahn Regensburg         - VfL Bochum
-  Arminia Bielefeld       - Erzgebirge Aue
+  Jahn Regensburg         2-1 VfL Bochum
+  Arminia Bielefeld       2-1 Erzgebirge Aue
 [Sa 6.4.]
-  MSV Duisburg            - FC Ingolstadt 04
-  Holstein Kiel           - FC St. Pauli
-  SV Sandhausen           - SC Paderborn 07
+  MSV Duisburg            2-4 FC Ingolstadt 04
+  Holstein Kiel           2-1 FC St. Pauli
+  SV Sandhausen           1-1 SC Paderborn 07
 [So 7.4.]
-  1. FC Heidenheim 1846   - 1. FC Köln
-  Dynamo Dresden          - 1. FC Union Berlin
-  SpVgg Greuther Fürth    - SV Darmstadt 98
+  1. FC Heidenheim 1846   0-2 1. FC Köln
+  Dynamo Dresden          0-0 1. FC Union Berlin
+  SpVgg Greuther Fürth    2-1 SV Darmstadt 98
 [Mo 8.4.] 
-  Hamburger SV            - 1. FC Magdeburg
+  Hamburger SV            1-2 1. FC Magdeburg
   
   
 ## Nachtrag Spieltag 26
 [Mi 10.4.]
-   MSV Duisburg            - 1. FC Köln 
+   MSV Duisburg            4-4 1. FC Köln 
    
    
 Spieltag 29
@@ -491,14 +491,14 @@ Spieltag 30
 Spieltag 31
 [So 28.4.]
   1. FC Union Berlin      - Hamburger SV
-  SV Sandhausen           - Holstein Kiel
+  SV Sandhausen           3-2 Holstein Kiel
   MSV Duisburg            - Arminia Bielefeld
-  FC St. Pauli            - Jahn Regensburg
+  FC St. Pauli            4-3 Jahn Regensburg
   Erzgebirge Aue          - VfL Bochum
-  1. FC Köln              - SV Darmstadt 98
+  1. FC Köln              1-2 SV Darmstadt 98
   SC Paderborn 07         - 1. FC Heidenheim 1846
-  FC Ingolstadt 04        - Dynamo Dresden
-  1. FC Magdeburg         - SpVgg Greuther Fürth
+  FC Ingolstadt 04        1-0 Dynamo Dresden
+  1. FC Magdeburg         2-1 SpVgg Greuther Fürth
 
 
 Spieltag 32

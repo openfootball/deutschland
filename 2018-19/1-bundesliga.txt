@@ -493,3 +493,5 @@ Spieltag 34
   VfL Wolfsburg           - FC Augsburg
   Fortuna Düsseldorf      - Hannover 96
   SC Freiburg             - 1. FC Nürnberg
+
+# Ende 1. Bundesliga 2018/19

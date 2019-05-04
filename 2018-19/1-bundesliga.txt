@@ -459,11 +459,11 @@ Spieltag 32
 [Fr 3.5.]
   1. FSV Mainz 05         3-3 RB Leipzig
 [Sa 4.5.]
-  Bayern München          - Hannover 96
-  Bor. Mönchengladbach    - 1899 Hoffenheim
-  Hertha BSC              - VfB Stuttgart
-  VfL Wolfsburg           - 1. FC Nürnberg
-  Werder Bremen           - Borussia Dortmund
+  Bayern München          3-1 Hannover 96
+  Bor. Mönchengladbach    2-2 1899 Hoffenheim
+  Hertha BSC              3-1 VfB Stuttgart
+  VfL Wolfsburg           2-0 1. FC Nürnberg
+  Werder Bremen           2-2 Borussia Dortmund
 [So 5.5.]
   FC Schalke 04           - FC Augsburg
   SC Freiburg             - Fortuna Düsseldorf

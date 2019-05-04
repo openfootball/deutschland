@@ -512,12 +512,12 @@ Spieltag 31
 
 Spieltag 32
 [Fr 3.5.]
-  Dynamo Dresden          - FC St. Pauli
-  Arminia Bielefeld       - SC Paderborn 07
+  Dynamo Dresden          2-1 FC St. Pauli
+  Arminia Bielefeld       2-0 SC Paderborn 07
 [Sa 4.5.]
-  Hamburger SV            - FC Ingolstadt 04
-  1. FC Heidenheim 1846   - SV Sandhausen
-  VfL Bochum              - 1. FC Magdeburg
+  Hamburger SV            0-3 FC Ingolstadt 04
+  1. FC Heidenheim 1846   2-3 SV Sandhausen
+  VfL Bochum              4-2 1. FC Magdeburg
 [So 5.5.]
   Holstein Kiel           - MSV Duisburg
   SV Darmstadt 98         - 1. FC Union Berlin
@@ -525,6 +525,9 @@ Spieltag 32
 [Mo 6.5.]
   SpVgg Greuther Fürth    - 1. FC Köln
  
+ 
+# 2. Aufsteiger in 2. Bundesliga 2019/20:
+  Karlsruher SC 
 
 
 Spieltag 33

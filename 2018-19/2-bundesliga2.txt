@@ -523,11 +523,14 @@ Spieltag 32
   SV Darmstadt 98         2-1 1. FC Union Berlin
   Jahn Regensburg         1-3 Erzgebirge Aue
 [Mo 6.5.]
-  SpVgg Greuther Fürth    - 1. FC Köln
+  SpVgg Greuther Fürth    0-4 1. FC Köln
  
  
 # 2. Aufsteiger in 2. Bundesliga 2019/20:
   Karlsruher SC 
+
+# 1. Aufsteiger in 1. Bundesliga 2019/20:
+  1. FC Köln
 
 
 Spieltag 33

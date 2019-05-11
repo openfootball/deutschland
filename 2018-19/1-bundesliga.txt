@@ -471,14 +471,14 @@ Spieltag 32
  
 Spieltag 33
 [Sa 11.5.]
-  RB Leipzig              - Bayern München
-  Bayer Leverkusen        - FC Schalke 04
-  1. FC Nürnberg          - Bor. Mönchengladbach
-  FC Augsburg             - Hertha BSC
-  1899 Hoffenheim         - Werder Bremen
-  Hannover 96             - SC Freiburg
-  VfB Stuttgart           - VfL Wolfsburg
-  Borussia Dortmund       - Fortuna Düsseldorf
+  RB Leipzig              0-0 Bayern München
+  Bayer Leverkusen        1-1 FC Schalke 04
+  1. FC Nürnberg          0-4 Bor. Mönchengladbach
+  FC Augsburg             3-4 Hertha BSC
+  1899 Hoffenheim         0-1 Werder Bremen
+  Hannover 96             3-0 SC Freiburg
+  VfB Stuttgart           3-0 VfL Wolfsburg
+  Borussia Dortmund       3-2 Fortuna Düsseldorf
 [So 12.5.]
   Eintracht Frankfurt     - 1. FSV Mainz 05
 

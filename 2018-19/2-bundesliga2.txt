@@ -532,6 +532,10 @@ Spieltag 32
 # 1. Aufsteiger in 1. Bundesliga 2019/20:
   1. FC Köln
 
+# Play-off um 2. Bundesligaplatz 2019/20:
+16. 2.Bundesliga - SV Wehen Wiesbaden
+SV Wehen Wiesbaden - 16. 2.Bundesliga
+
 
 Spieltag 33
 [So 12.5.]

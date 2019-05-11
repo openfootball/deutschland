@@ -482,6 +482,16 @@ Spieltag 33
 [So 12.5.]
   Eintracht Frankfurt     - 1. FSV Mainz 05
 
+
+# Absteiger 1. Bundesliga 2018/19:
+  1. FC Nürnberg
+  Hannover 96
+ 
+# Play-off um 1. Bundesligaplatz 2019/20:
+  VfB Stuttgart - Padeborn/ Union Berlin/ Hamburger SV
+  Padebor/ Union Berlin/ Hamburger SV - VfB Stuttgart
+
+
 Spieltag 34
 [Sa 18.5.]
   1. FSV Mainz 05         - 1899 Hoffenheim

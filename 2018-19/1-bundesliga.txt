@@ -491,8 +491,8 @@ Spieltag 33
   Hannover 96
  
 # Play-off um 1. Bundesligaplatz 2019/20:
-  VfB Stuttgart - Padeborn/ Union Berlin/ Hamburger SV
-  Padeborn/ Union Berlin/ Hamburger SV - VfB Stuttgart
+  VfB Stuttgart - SC Paderborn 07/ 1. FC Union Berlin/ Hamburger SV
+  SC Paderborn 07/ 1. FC Union Berlin/ Hamburger SV - VfB Stuttgart
 
 
 Spieltag 34
@@ -512,12 +512,12 @@ Spieltag 34
   Bayern München oder Borussia Dortmund
 
 # 2. Aufsteiger 1. Bundesliga 2019/20:
-  SC Padeborn oder 1. FC Union Berlin
+  SC Paderborn 07 oder 1. FC Union Berlin
   
 # Play-off um 1. Bundesligaplatz 2019/20:
 [Do  23.5.]  
-  SC Padeborn/ 1. FC Union Berlin/ - VfB Stuttgart
+  SC Paderborn 07/ 1. FC Union Berlin/ - VfB Stuttgart
 [Mo 27.5.]
-  VfB Stuttgart - SC Padeborn/ 1. FC Union Berlin
+  VfB Stuttgart - SC Paderborn 07/ 1. FC Union Berlin
   
 # Ende 1. Bundesliga 2018/19

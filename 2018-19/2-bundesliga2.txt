@@ -539,15 +539,15 @@ SV Wehen Wiesbaden - 16. 2.Bundesliga
 
 Spieltag 33
 [So 12.5.]
-  SC Paderborn 07         - Hamburger SV
-  SV Sandhausen           - Arminia Bielefeld
-  1. FC Köln              - Jahn Regensburg
-  FC St. Pauli            - VfL Bochum
-  FC Ingolstadt 04        - SV Darmstadt 98
-  MSV Duisburg            - 1. FC Heidenheim 1846
-  Holstein Kiel           - Dynamo Dresden
-  Erzgebirge Aue          - SpVgg Greuther Fürth
-  1. FC Union Berlin      - 1. FC Magdeburg
+  SC Paderborn 07         4-1 Hamburger SV
+  SV Sandhausen           0-3 Arminia Bielefeld
+  1. FC Köln              3-5 Jahn Regensburg
+  FC St. Pauli            0-0 VfL Bochum
+  FC Ingolstadt 04        3-0 SV Darmstadt 98
+  MSV Duisburg            3-4 1. FC Heidenheim 1846
+  Holstein Kiel           3-0 Dynamo Dresden
+  Erzgebirge Aue          1-1 SpVgg Greuther Fürth
+  1. FC Union Berlin      3-0 1. FC Magdeburg
 
 
 Spieltag 34
@@ -562,5 +562,16 @@ Spieltag 34
   SV Darmstadt 98         - Erzgebirge Aue
   Dynamo Dresden          - SC Paderborn 07
 
+
+# 2. Aufsteiger in 1. Bundesliga 2019/20:
+  SC Padeborn oder 1. FC Union Berlin
+  
+# Play.off um 1. Bundesligaplatz 2019/20:
+  VfB Stuttgart - SC Padeborn/ 1. FC Union Berlin
+  SC Padeborn/ 1. FC Union Berlin - VfB Stuttgart
+
+# Play-off um 2. Bundesligaplatz 2019/20:
+SV Sandhausen/ FC Ingoldstadt - SV Wehen Wiesbaden
+SV Wehen Wiesbaden - SV Sandhausen/ FC Ingoldstadt
 
 #Ende 2. Bundesliga 2018/19

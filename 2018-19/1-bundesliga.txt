@@ -483,13 +483,16 @@ Spieltag 33
   Eintracht Frankfurt     0-2 1. FSV Mainz 05
 
 
+# 1. Aufsteiger 1. Bundesliga 2019/20:
+  1. FC Köln
+
 # Absteiger 1. Bundesliga 2018/19:
   1. FC Nürnberg
   Hannover 96
  
 # Play-off um 1. Bundesligaplatz 2019/20:
   VfB Stuttgart - Padeborn/ Union Berlin/ Hamburger SV
-  Padebor/ Union Berlin/ Hamburger SV - VfB Stuttgart
+  Padeborn/ Union Berlin/ Hamburger SV - VfB Stuttgart
 
 
 Spieltag 34
@@ -503,5 +506,16 @@ Spieltag 34
   VfL Wolfsburg           - FC Augsburg
   Fortuna Düsseldorf      - Hannover 96
   SC Freiburg             - 1. FC Nürnberg
+
+
+# Meister 1. Bundesliga 2018/19:
+  Bayern München oder Borussia Dortmund
+
+# 2. Aufsteiger 1. Bundesliga 2019/20:
+  SC Padeborn oder 1. FC Union Berlin
+  
+# Play-off um 1. Bundesligaplatz 2019/20:
+  VfB Stuttgart - Padeborn/ Union Berlin
+  Padeborn/ Union Berlin/ - VfB Stuttgart
 
 # Ende 1. Bundesliga 2018/19

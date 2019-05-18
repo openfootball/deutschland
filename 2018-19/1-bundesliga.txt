@@ -497,19 +497,19 @@ Spieltag 33
 
 Spieltag 34
 [Sa 18.5.]
-  1. FSV Mainz 05         - 1899 Hoffenheim
-  Bor. Mönchengladbach    - Borussia Dortmund
-  Hertha BSC              - Bayer Leverkusen
-  Werder Bremen           - RB Leipzig
-  FC Schalke 04           - VfB Stuttgart
-  Bayern München          - Eintracht Frankfurt
-  VfL Wolfsburg           - FC Augsburg
-  Fortuna Düsseldorf      - Hannover 96
-  SC Freiburg             - 1. FC Nürnberg
+  1. FSV Mainz 05         4-2 1899 Hoffenheim
+  Bor. Mönchengladbach    0-2 Borussia Dortmund
+  Hertha BSC              1-5 Bayer Leverkusen
+  Werder Bremen           2-1 RB Leipzig
+  FC Schalke 04           0-0 VfB Stuttgart
+  Bayern München          5-1 Eintracht Frankfurt
+  VfL Wolfsburg           8-1 FC Augsburg
+  Fortuna Düsseldorf      2-1 Hannover 96
+  SC Freiburg             5-1 1. FC Nürnberg
 
 
 # Meister 1. Bundesliga 2018/19:
-  Bayern München oder Borussia Dortmund
+  Bayern München
 
 # 2. Aufsteiger 1. Bundesliga 2019/20:
   SC Paderborn 07 oder 1. FC Union Berlin

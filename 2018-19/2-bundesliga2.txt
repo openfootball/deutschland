@@ -533,8 +533,8 @@ Spieltag 32
   1. FC Köln
 
 # Play-off um 2. Bundesligaplatz 2019/20:
-16. 2.Bundesliga - SV Wehen Wiesbaden
-SV Wehen Wiesbaden - 16. 2.Bundesliga
+SV Sandhausen - SV Wehen Wiesbaden
+SV Wehen Wiesbaden - SV Sandhausen
 
 
 Spieltag 33
@@ -557,33 +557,33 @@ Spieltag 33
   
 Spieltag 34
 [So 19.5.]
-  1. FC Magdeburg         - 1. FC Köln
-  Arminia Bielefeld       - Holstein Kiel
-  Hamburger SV            - MSV Duisburg
-  VfL Bochum              - 1. FC Union Berlin
-  1. FC Heidenheim 1846   - FC Ingolstadt 04
-  Jahn Regensburg         - SV Sandhausen
-  SpVgg Greuther Fürth    - FC St. Pauli
-  SV Darmstadt 98         - Erzgebirge Aue
-  Dynamo Dresden          - SC Paderborn 07
+  1. FC Magdeburg         1-1 1. FC Köln
+  Arminia Bielefeld       1-0 Holstein Kiel
+  Hamburger SV            3-0 MSV Duisburg
+  VfL Bochum              2-2 1. FC Union Berlin
+  1. FC Heidenheim 1846   4-2 FC Ingolstadt 04
+  Jahn Regensburg         2-2 SV Sandhausen
+  SpVgg Greuther Fürth    2-1 FC St. Pauli
+  SV Darmstadt 98         3-1 Erzgebirge Aue
+  Dynamo Dresden          3-1 SC Paderborn 07
 
 
 # 2. Aufsteiger in 1. Bundesliga 2019/20:
-  SC Paderborn 07 oder 1. FC Union Berlin
+  SC Paderborn 07 
   
 # Play.off um 1. Bundesligaplatz 2019/20:
 
 [Do 23.5.]  
-  SC Paderborn 07/ 1. FC Union Berlin - VfB Stuttgart
+  1. FC Union Berlin - VfB Stuttgart
 [Mo 27.5.]
-VfB Stuttgart - SC Paderborn 07/ 1. FC Union Berlin
+  VfB Stuttgart - 1. FC Union Berlin
 
 
 # Play-off um 2. Bundesligaplatz 2019/20:
 
 [Fr 24.5.]
-  SV Wehen Wiesbaden - SV Sandhausen/ FC Ingoldstadt 04
+  SV Wehen Wiesbaden - SV Sandhausen
 [Di 28.5.]
-  SV Sandhausen/ FC Ingoldstadt 04 - SV Wehen Wiesbaden
+  SV Sandhausen - SV Wehen Wiesbaden
 
 #Ende 2. Bundesliga 2018/19

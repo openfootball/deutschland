@@ -515,9 +515,9 @@ Spieltag 34
   SC Paderborn 07 
   
 # Play-off um 1. Bundesligaplatz 2019/20:
-[Do  23.5.]  
-   1. FC Union Berlin - VfB Stuttgart
+[Do 23.5.]  
+  VfB Stuttgart - 1. FC Union Berlin
 [Mo 27.5.]
-   VfB Stuttgart - 1. FC Union Berlin
+  1. FC Union Berlin - VfB Stuttgart
   
 # Ende 1. Bundesliga 2018/19

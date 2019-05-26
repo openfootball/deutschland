@@ -533,8 +533,8 @@ Spieltag 32
   1. FC Köln
 
 # Play-off um 2. Bundesligaplatz 2019/20:
-SV Sandhausen - SV Wehen Wiesbaden
-SV Wehen Wiesbaden - SV Sandhausen
+FC Ingoldstadt 04 - SV Wehen Wiesbaden
+SV Wehen Wiesbaden - FC Ingoldstadt 04
 
 
 Spieltag 33
@@ -574,15 +574,15 @@ Spieltag 34
 # Play.off um 1. Bundesligaplatz 2019/20:
 
 [Do 23.5.]  
-  VfB Stuttgart - 1. FC Union Berlin
+  VfB Stuttgart           2-2 1. FC Union Berlin
 [Mo 27.5.]
   1. FC Union Berlin - VfB Stuttgart
 
 # Play-off um 2. Bundesligaplatz 2019/20:
 
 [Fr 24.5.]
-  SV Wehen Wiesbaden - SV Sandhausen
+  SV Wehen Wiesbaden       1-2 FC Ingoldstadt 04
 [Di 28.5.]
-  SV Sandhausen - SV Wehen Wiesbaden
+  FC Ingoldstadt 04 - SV Wehen Wiesbaden
 
 #Ende 2. Bundesliga 2018/19

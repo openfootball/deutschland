@@ -490,9 +490,6 @@ Spieltag 33
   1. FC Nürnberg
   Hannover 96
  
-# Play-off um 1. Bundesligaplatz 2019/20:
-  VfB Stuttgart - 1. FC Union Berlin
-  1. FC Union Berlin - VfB Stuttgart
 
 
 Spieltag 34
@@ -520,8 +517,11 @@ Spieltag 34
 [Mo 27.5.]
   1. FC Union Berlin     0-0 VfB Stuttgart
  
-# 1. Bundesligaplatz 2019/20:
+# Play-off Sieger 1. Bundesliga 2019/20:
   1. FC Union Berlin
+
+# Play-off Verlierer 2. Bundesliga 2019/20:
+  VfB Stuttgart
   
   
 # Ende 1. Bundesliga 2018/19

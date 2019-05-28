@@ -518,6 +518,10 @@ Spieltag 34
 [Do 23.5.]  
   VfB Stuttgart          2-2 1. FC Union Berlin
 [Mo 27.5.]
-  1. FC Union Berlin - VfB Stuttgart
+  1. FC Union Berlin     0-0 VfB Stuttgart
+ 
+# 1. Bundesligaplatz 2019/20:
+  1. FC Union Berlin
+  
   
 # Ende 1. Bundesliga 2018/19

@@ -571,13 +571,20 @@ Spieltag 34
 # 2. Aufsteiger in 1. Bundesliga 2019/20:
   SC Paderborn 07 
   
-# Play.off um 1. Bundesligaplatz 2019/20:
+# Play-off um 1. Bundesligaplatz 2019/20:
 
 [Do 23.5.]  
   VfB Stuttgart           2-2 1. FC Union Berlin
 [Mo 27.5.]
-  1. FC Union Berlin - VfB Stuttgart
-
+  1. FC Union Berlin      0-0 VfB Stuttgart
+  
+# Play-off Sieger 1. Bundesliga 2019/20:
+  1. FC Union Berlin
+  
+# Play-off Verlierer 2. Bundesliga 2019/20:
+  VfB Stuttgart
+  
+  
 # Play-off um 2. Bundesligaplatz 2019/20:
 
 [Fr 24.5.]

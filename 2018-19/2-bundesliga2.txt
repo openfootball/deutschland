@@ -578,10 +578,10 @@ Spieltag 34
 [Mo 27.5.]
   1. FC Union Berlin      0-0 VfB Stuttgart
   
-# Play-off Sieger 1. Bundesliga 2019/20:
+# Play-off Sieger in 1. Bundesliga 2019/20:
   1. FC Union Berlin
   
-# Play-off Verlierer 2. Bundesliga 2019/20:
+# Play-off Verlierer in 2. Bundesliga 2019/20:
   VfB Stuttgart
   
   
@@ -590,6 +590,10 @@ Spieltag 34
 [Fr 24.5.]
   SV Wehen Wiesbaden       1-2 FC Ingoldstadt 04
 [Di 28.5.]
-  FC Ingoldstadt 04 - SV Wehen Wiesbaden
+  FC Ingoldstadt 04        2-3 SV Wehen Wiesbaden
 
+# Play-off Sieger in 2. Bundesliga 2019/20:
+  SV Wehen Wiesbaden
+  
+  
 #Ende 2. Bundesliga 2018/19

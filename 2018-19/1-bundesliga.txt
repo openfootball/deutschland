@@ -517,10 +517,10 @@ Spieltag 34
 [Mo 27.5.]
   1. FC Union Berlin     0-0 VfB Stuttgart
  
-# Play-off Sieger 1. Bundesliga 2019/20:
+# Play-off Sieger in 1. Bundesliga 2019/20:
   1. FC Union Berlin
 
-# Play-off Verlierer 2. Bundesliga 2019/20:
+# Play-off Verlierer in 2. Bundesliga 2019/20:
   VfB Stuttgart
   
   

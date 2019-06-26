@@ -41,6 +41,21 @@ Official site - [`www.bundesliga.de/de/liga2` (de)](http://www.bundesliga.de/de/
 - [DFB-Pokal_2012/13 (de)](http://de.wikipedia.org/wiki/DFB-Pokal_2012/13)
 
 
+## Ups / Downs
+
+2015/16:
+
+(++) FC Ingolstadt 04, SV Darmstadt 98
+
+(--) SC Freiburg, SC Paderborn 07
+
+2014/15:
+
+(++)  1. FC Köln, SC Paderborn 07
+
+(--)  1. FC Nürnberg, Eintracht Braunschweig
+
+
 
 ## More / General
 

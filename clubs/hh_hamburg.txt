@@ -1,9 +1,0 @@
-###########################
-#   Hamburg (hh)
-
-
-victoriahamburg,   SC Victoria Hamburg|Victoria Hamburg    ## de.wikipedia: SC_Victoria_Hamburg
-palomahamburg,     USC Paloma Hamburg                      ## de.wikipedia: USC_Paloma_Hamburg
-
-barmbekuhlenhorst, HSV Barmbek-Uhlenhorst                  ## de.wikipedia: HSV_Barmbek-Uhlenhorst
-

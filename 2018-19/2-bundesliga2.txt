@@ -1,0 +1,601 @@
+###################################
+# Deutsche 2. Bundesliga 2018/19
+
+
+Spieltag 1
+[Fr 3.8.]
+  Hamburger SV            0-3 Holstein Kiel
+[Sa 4.8.]
+  VfL Bochum              0-2 1. FC Köln
+  Jahn Regensburg         2-1 FC Ingolstadt 04
+  SpVgg Greuther Fürth    3-1 SV Sandhausen
+[So 5.8.]
+  1. FC Magdeburg         1-2 FC St. Pauli
+  1. FC Union Berlin      1-0 Erzgebirge Aue
+  SV Darmstadt 98         1-0 SC Paderborn 07
+  1. FC Heidenheim 1846   1-1 Arminia Bielefeld
+[Mo 6.8.]
+  Dynamo Dresden          1-0 MSV Duisburg
+
+
+Spieltag 2
+[Fr 10.8.]
+  FC Ingolstadt 04        1-1 SpVgg Greuther Fürth
+  SC Paderborn 07         2-0 Jahn Regensburg
+  FC St. Pauli            2-0 SV Darmstadt 98
+[Sa 11.8.]
+  MSV Duisburg            0-2 VfL Bochum
+  Arminia Bielefeld       2-1 Dynamo Dresden
+[So 12.8.]
+  SV Sandhausen           0-3 Hamburger SV
+  Holstein Kiel           1-1 1. FC Heidenheim 1846
+  Erzgebirge Aue          0-0 1. FC Magdeburg
+[Mo 13.8.]
+  1. FC Köln              1-1 1. FC Union Berlin
+
+
+Spieltag 3
+[Fr 24.8.]
+  VfL Bochum              1-0 SV Sandhausen
+  SV Darmstadt 98         3-0 MSV Duisburg
+[Sa 25.8.]
+  1. FC Köln              3-1 Erzgebirge Aue
+  SpVgg Greuther Fürth    2-2 SC Paderborn 07
+  1. FC Magdeburg         1-1 FC Ingolstadt 04
+[So 26.8.]
+  Jahn Regensburg         0-0 Holstein Kiel
+  1. FC Union Berlin      4-1 FC St. Pauli
+  Dynamo Dresden          1-3 1. FC Heidenheim 1846
+[Mo 27.8.]
+  Hamburger SV            3-0 Arminia Bielefeld
+
+
+Spieltag 4
+[Fr 31.8.]
+  FC Ingolstadt 04        3-2 Erzgebirge Aue
+  SC Paderborn 07         2-2 VfL Bochum
+[Sa 1.9.]
+  Arminia Bielefeld       5-3 Jahn Regensburg
+  MSV Duisburg            0-1 SpVgg Greuther Fürth
+  Dynamo Dresden          0-1 Hamburger SV       
+[So 2.9.]
+  SV Sandhausen           0-0 1. FC Union Berlin
+  FC St. Pauli            3-5 1. FC Köln
+  1. FC Heidenheim 1846   0-1 SV Darmstadt 98
+[Mo 3.9.]
+  Holstein Kiel           2-1 1. FC Magdeburg
+
+
+Spieltag 5
+[Fr 14.9.]
+  Jahn Regensburg         0-2 Dynamo Dresden
+  1. FC Union Berlin      2-2 MSV Duisburg
+[Sa 15.9.]
+  Hamburger SV            3-2 1. FC Heidenheim 1846
+  SV Darmstadt 98         1-1 SV Sandhausen
+  SpVgg Greuther Fürth    4-1 Holstein Kiel
+[So 16.9.]
+  1. FC Köln              3-5 SC Paderborn 07
+  VfL Bochum              6-0 FC Ingolstadt 04
+  Erzgebirge Aue          3-1 FC St. Pauli
+[Mo 17.9.]
+  1. FC Magdeburg         0-0 Arminia Bielefeld
+  
+## Nachtrag Spieltag 4
+(Di 18.9.)
+  Dynamo Dresden          0-1 Hamburger SV
+  
+Spieltag 6
+[Fr 21.9.]
+  FC Ingolstadt 04        0-1 FC St. Pauli
+  SV Sandhausen           0-2 1. FC Köln
+[Sa 22.9.]
+  Holstein Kiel           2-2 VfL Bochum
+  Arminia Bielefeld       1-1 1. FC Union Berlin
+  Dynamo Dresden          4-1 SV Darmstadt 98
+[So 23.9.]
+  Hamburger SV            0-5 Jahn Regensburg
+  MSV Duisburg            1-2 Erzgebirge Aue
+  1. FC Heidenheim 1846   2-0 SpVgg Greuther Fürth
+  SC Paderborn 07         4-4 1. FC Magdeburg
+
+
+Spieltag 7
+[Di 25.9.]
+  1. FC Köln              2-1 FC Ingolstadt 04
+  VfL Bochum              0-1 Dynamo Dresden
+  1. FC Union Berlin      2-0 Holstein Kiel
+  SV Darmstadt 98         1-2 Arminia Bielefeld
+[Mi 26.9.]
+  Jahn Regensburg         2-1 1. FC Heidenheim 1846
+  FC St. Pauli            2-1 SC Paderborn 07
+  Erzgebirge Aue          0-2 SV Sandhausen
+  1. FC Magdeburg         3-3 MSV Duisburg
+[Do 27.9.]
+  SpVgg Greuther Fürth    0-0 Hamburger SV
+
+
+Spieltag 8
+[Fr 28.9.]
+  Holstein Kiel           4-2 SV Darmstadt 98
+  Arminia Bielefeld       1-3 1. FC Köln
+[Sa 29.9.]
+  MSV Duisburg            1-3 Jahn Regensburg
+  1. FC Heidenheim 1846   3-2 VfL Bochum
+  SC Paderborn 07         1-0 Erzgebirge Aue
+[So 30.9.]
+  Hamburger SV            0-0 FC St. Pauli
+  SV Sandhausen           0-1 1. FC Magdeburg
+  Dynamo Dresden          0-1 SpVgg Greuther Fürth
+[Mo 1.10.]
+  FC Ingolstadt 04        1-2 1. FC Union Berlin
+
+
+Spieltag 9
+[Fr 5.10.]
+  VfL Bochum              1-0 Arminia Bielefeld
+  SV Darmstadt 98         1-2 Hamburger SV
+[Sa 6.10.]
+  SpVgg Greuther Fürth    1-1 Jahn Regensburg
+  Erzgebirge Aue          2-1 Holstein Kiel
+  1. FC Magdeburg         2-2 Dynamo Dresden
+[So 7.10.]
+  1. FC Union Berlin      1-1 1. FC Heidenheim 1846
+  FC Ingolstadt 04        1-2 SC Paderborn 07
+  FC St. Pauli            3-1 SV Sandhausen
+[Mo 8.10.]
+  1. FC Köln              1-2 MSV Duisburg
+
+
+Spieltag 10
+[Fr 19.10.]
+  SV Sandhausen           4-0 FC Ingolstadt 04
+  Dynamo Dresden          1-1 Erzgebirge Aue
+[Sa 20.10.]
+  Holstein Kiel           1-1 1. FC Köln
+  Arminia Bielefeld       2-3 SpVgg Greuther Fürth
+  1. FC Heidenheim 1846   3-0 1. FC Magdeburg
+[So 21.10.]
+  Hamburger SV            0-0 VfL Bochum
+  SC Paderborn 07         0-0 1. FC Union Berlin
+  Jahn Regensburg         1-1 SV Darmstadt 98
+[Mo 22.10.]
+  MSV Duisburg            0-1 FC St. Pauli
+  
+ 
+
+Spieltag 11
+[Fr 26.10.]
+  SV Darmstadt 98         2-0 SpVgg Greuther Fürth
+  1. FC Magdeburg         0-1 Hamburger SV
+[Sa 27.10.]
+  Erzgebirge Aue          1-0 Arminia Bielefeld
+  SC Paderborn 07         3-3 SV Sandhausen
+  1. FC Köln              1-1 1. FC Heidenheim 1846
+[So 28.10.]
+  1. FC Union Berlin      0-0 Dynamo Dresden
+  FC Ingolstadt 04        1-1 MSV Duisburg
+  FC St. Pauli            0-1 Holstein Kiel
+[Mo 29.10.]
+  VfL Bochum              3-3 Jahn Regensburg
+
+
+Spieltag 12
+[Fr 2.11.]
+  Dynamo Dresden          3-1 SV Sandhausen
+  SpVgg Greuther Fürth    2-2 VfL Bochum
+[Sa 3.11.]
+  Holstein Kiel           2-2 FC Ingolstadt 04
+  MSV Duisburg            2-0 SC Paderborn 07
+  SV Darmstadt 98         3-1 1. FC Magdeburg
+[So 4.11.]
+  Arminia Bielefeld       1-2 FC St. Pauli
+  Jahn Regensburg         1-1 1. FC Union Berlin
+  1. FC Heidenheim 1846   1-0 Erzgebirge Aue
+[Mo 5.11.]
+  Hamburger SV            1-0 1. FC Köln
+
+
+Spieltag 13
+[Fr 9.11.]
+  SV Sandhausen           0-0 MSV Duisburg
+  SC Paderborn 07         4-4 Holstein Kiel
+[Sa 10.11.]
+  FC St. Pauli            1-1 1. FC Heidenheim 1846
+  Erzgebirge Aue          1-3 Hamburger SV
+  1. FC Köln              8-1 Dynamo Dresden
+[So 11.11.]
+  1. FC Union Berlin      4-0 SpVgg Greuther Fürth
+  FC Ingolstadt 04        1-1 Arminia Bielefeld
+  1. FC Magdeburg         2-3 Jahn Regensburg
+[Mo 12.11.]
+  VfL Bochum              1-0 SV Darmstadt 98
+
+
+Spieltag 14
+[Fr 23.11.]
+  Arminia Bielefeld       0-1 MSV Duisburg
+  SpVgg Greuther Fürth    3-3 1. FC Magdeburg
+[Sa 24.11.]
+  Holstein Kiel           2-1 SV Sandhausen
+  VfL Bochum              2-1 Erzgebirge Aue
+  SV Darmstadt 98         0-3 1. FC Köln
+[So 25.11.]
+  Jahn Regensburg         1-1 FC St. Pauli
+  1. FC Heidenheim 1846   1-5 SC Paderborn 07
+  Dynamo Dresden          2-0 FC Ingolstadt 04
+[Mo 26.11.]
+  Hamburger SV            2-2 1. FC Union Berlin
+
+
+Spieltag 15
+[Fr 30.11.]
+  Erzgebirge Aue          1-1 Jahn Regensburg
+  SC Paderborn 07         2-2 Arminia Bielefeld
+[Sa 1.12.]
+  1. FC Köln              4-0 SpVgg Greuther Fürth
+  1. FC Union Berlin      3-1 SV Darmstadt 98
+  FC Ingolstadt 04        1-2 Hamburger SV
+  FC St. Pauli            1-1 Dynamo Dresden
+[So 2.12.]
+  MSV Duisburg            0-4 Holstein Kiel
+  SV Sandhausen           1-2 1. FC Heidenheim 1846
+  1. FC Magdeburg         0-0 VfL Bochum
+  
+
+Spieltag 16
+[Fr 7.12.]
+  Hamburger SV            1-0 SC Paderborn 07
+  Jahn Regensburg         1-3 1. FC Köln
+[Sa 8.12.]
+  SV Darmstadt 98         1-1 FC Ingolstadt 04
+  1. FC Heidenheim 1846   4-1 MSV Duisburg
+  SpVgg Greuther Fürth    0-5 Erzgebirge Aue
+[So 9.12.]
+  Arminia Bielefeld       1-1 SV Sandhausen
+  Dynamo Dresden          0-2 Holstein Kiel
+  1. FC Magdeburg         1-1 1. FC Union Berlin
+[Mo 10.12.]
+  VfL Bochum              1-3 FC St. Pauli
+  
+
+Spieltag 17
+[Fr 14.12.]
+  Holstein Kiel           1-2 Arminia Bielefeld
+  MSV Duisburg            1-2 Hamburger SV
+[Sa 15.12.]
+  1. FC Union Berlin      2-0 VfL Bochum
+  FC St. Pauli            2-0 SpVgg Greuther Fürth
+  SC Paderborn 07         3-0 Dynamo Dresden
+[So 16.12.]
+  FC Ingolstadt 04        1-1 1. FC Heidenheim 1846
+  SV Sandhausen           2-2 Jahn Regensburg
+  Erzgebirge Aue          2-2 SV Darmstadt 98
+[Mo 17.12.] 
+  1. FC Köln              3-0 1. FC Magdeburg
+
+
+Spieltag 18
+[Fr 21.12.]
+  1. FC Köln              2-3 VfL Bochum
+  SV Sandhausen           0-0 SpVgg Greuther Fürth
+[Sa 22.12.]
+  FC Ingolstadt 04        1-2 Jahn Regensburg
+  Arminia Bielefeld       1-2 1. FC Heidenheim 1846
+  FC St. Pauli            4-1 1. FC Magdeburg
+[So 23.12.]
+  Holstein Kiel           3-1 Hamburger SV
+  Erzgebirge Aue          3-0 1. FC Union Berlin
+  SC Paderborn 07         6-2 SV Darmstadt 98
+  MSV Duisburg            1-3 Dynamo Dresden
+ 
+ # Winterpause bis Mi. 30.1.2019
+
+Spieltag 19
+[Di 29.1.]
+  VfL Bochum              2-1 MSV Duisburg
+  SpVgg Greuther Fürth    0-1 FC Ingolstadt 04
+  SV Darmstadt 98         2-1 FC St. Pauli
+  1. FC Magdeburg         1-0 Erzgebirge Aue
+[Mi 30.1.]
+  1. FC Heidenheim 1846   2-2 Holstein Kiel
+  Dynamo Dresden          3-4 Arminia Bielefeld
+  Hamburger SV            2-1 SV Sandhausen
+  Jahn Regensburg         2-0 SC Paderborn 07
+[Do 31.1.]
+  1. FC Union Berlin      2-0 1. FC Köln
+
+
+Spieltag 20
+[Fr 1.2.]
+  MSV Duisburg            3-2 SV Darmstadt 98
+  FC Ingolstadt 04        0-1 1. FC Magdeburg
+[Sa 2.2.]
+  1. FC Heidenheim 1846   1-0 Dynamo Dresden
+  SC Paderborn 07         6-0 SpVgg Greuther Fürth
+  Arminia Bielefeld       2-0 Hamburger SV
+[So 3.2.]
+  Erzgebirge Aue          0-1 1. FC Köln      
+  Holstein Kiel           2-0 Jahn Regensburg
+  SV Sandhausen           3-0 VfL Bochum
+[Mo 4.2.]
+  FC St. Pauli            3-2 1. FC Union Berlin
+  
+ 
+Spieltag 21
+[Fr 8.2.]
+  Jahn Regensburg         0-3 Arminia Bielefeld
+  1. FC Köln              4-1 FC St. Pauli
+[Sa 9.2.]
+  SpVgg Greuther Fürth    1-0 MSV Duisburg
+  1. FC Union Berlin      2-0 SV Sandhausen
+  VfL Bochum              1-2 SC Paderborn 07
+[So 10.2.]
+  1. FC Magdeburg         1-1 Holstein Kiel
+  Erzgebirge Aue          0-3 FC Ingolstadt 04
+  SV Darmstadt 98         1-2 1. FC Heidenheim 1846
+[Mo 11.2.]
+  Hamburger SV            1-0 Dynamo Dresden
+  
+
+Spieltag 22
+[Fr 15.2.]
+  SC Paderborn 07         3-2 1. FC Köln
+  SV Sandhausen           1-1 SV Darmstadt 98
+[Sa 16.2.]
+  FC Ingolstadt 04        2-1 VfL Bochum
+  MSV Duisburg            2-3 1. FC Union Berlin
+  1. FC Heidenheim 1846   2-2 Hamburger SV
+  FC St. Pauli            1-2 Erzgebirge Aue
+[So 17.2.]
+  Dynamo Dresden          0-0 Jahn Regensburg
+  Holstein Kiel           2-2 SpVgg Greuther Fürth
+  Arminia Bielefeld       1-3 1. FC Magdeburg
+
+
+Spieltag 23
+[Fr 22.2.]
+  1. FC Union Berlin      1-1 Arminia Bielefeld
+  SpVgg Greuther Fürth    0-0 1. FC Heidenheim 1846
+[Sa 23.2.]
+  FC St. Pauli            1-0 FC Ingolstadt 04
+  1. FC Köln              3-1 SV Sandhausen
+  VfL Bochum              1-3 Holstein Kiel
+  SV Darmstadt 98         2-0 Dynamo Dresden
+[So 24.2.]
+  Jahn Regensburg         2-1 Hamburger SV
+  Erzgebirge Aue          0-0 MSV Duisburg
+  1. FC Magdeburg         1-1 SC Paderborn 07
+
+
+Spieltag 20
+[Mi 27.2.]
+ Erzgebirge Aue           0-1 1. FC Köln
+
+
+Spieltag 24
+[Fr 1.3.]
+  Holstein Kiel           0-2 1. FC Union Berlin
+  MSV Duisburg            1-0 1. FC Magdeburg
+[Sa 2.3.]
+  1. FC Heidenheim 1846   1-2 Jahn Regensburg
+  SC Paderborn 07         0-1 FC St. Pauli
+  SV Sandhausen           0-3 Erzgebirge Aue
+[So 3.3.]
+  FC Ingolstadt 04        1-2 1. FC Köln
+  Dynamo Dresden          2-2 VfL Bochum
+  Arminia Bielefeld       1-0 SV Darmstadt 98
+[Mo 4.3.]  
+  Hamburger SV            1-0 SpVgg Greuther Fürth
+  
+ 
+Spieltag 25
+[Fr 8.3.]
+  1. FC Union Berlin      2-0 FC Ingolstadt 04
+  VfL Bochum              1-0 1. FC Heidenheim 1846
+[Sa 9.3.]
+  SV Darmstadt 98         3-2 Holstein Kiel
+  1. FC Köln              5-1 Arminia Bielefeld
+  Jahn Regensburg         1-1 MSV Duisburg
+  Erzgebirge Aue          2-1 SC Paderborn 07
+[So 10.3.]
+  FC St. Pauli            0-4 Hamburger SV
+  1. FC Magdeburg         0-1 SV Sandhausen
+  SpVgg Greuther Fürth    0-0 Dynamo Dresden  
+  
+
+Spieltag 26
+[Fr 15.3.]
+  1. FC Heidenheim 1846   2-1 1. FC Union Berlin
+  Holstein Kiel           5-1 Erzgebirge Aue
+[Sa 16.3.]
+  Hamburger SV            2-3 SV Darmstadt 98
+  SV Sandhausen           4-0 FC St. Pauli
+  Dynamo Dresden          1-1 1. FC Magdeburg
+[So 17.3.]
+  MSV Duisburg            4-4 1. FC Köln      
+  Arminia Bielefeld       3-1 VfL Bochum
+  SC Paderborn 07         3-1 FC Ingolstadt 04
+ [Mo 18.3.] 
+  Jahn Regensburg         0-2 SpVgg Greuther Fürth
+  
+ 
+Spieltag 27
+[Fr 29.3.]
+  FC St. Pauli            0-0 MSV Duisburg
+  1. FC Magdeburg         0-0 1. FC Heidenheim 1846
+[Sa 30.3.]
+  VfL Bochum              0-0 Hamburger SV
+  SV Darmstadt 98         1-1 Jahn Regensburg
+  1. FC Union Berlin      1-3 SC Paderborn 07
+[So 31.3.]
+  1. FC Köln              4-0 Holstein Kiel
+  SpVgg Greuther Fürth    2-2 Arminia Bielefeld
+  FC Ingolstadt 04        1-2 SV Sandhausen
+[Mo 1.4.] 
+  Erzgebirge Aue          1-3 Dynamo Dresden
+ 
+ 
+## Nachtrag Spieltag 25
+[Do 4.4.]
+SpVgg Greuther Fürth      0-0 Dynamo Dresden  
+
+
+Spieltag 28
+[Fr 5.4.]
+  Jahn Regensburg         2-1 VfL Bochum
+  Arminia Bielefeld       2-1 Erzgebirge Aue
+[Sa 6.4.]
+  MSV Duisburg            2-4 FC Ingolstadt 04
+  Holstein Kiel           2-1 FC St. Pauli
+  SV Sandhausen           1-1 SC Paderborn 07
+[So 7.4.]
+  1. FC Heidenheim 1846   0-2 1. FC Köln
+  Dynamo Dresden          0-0 1. FC Union Berlin
+  SpVgg Greuther Fürth    2-1 SV Darmstadt 98
+[Mo 8.4.] 
+  Hamburger SV            1-2 1. FC Magdeburg
+  
+  
+## Nachtrag Spieltag 26
+[Mi 10.4.]
+   MSV Duisburg           4-4 1. FC Köln 
+   
+   
+Spieltag 29
+[Fr 12.4.]
+  1. FC Union Berlin      2-2 Jahn Regensburg
+  Erzgebirge Aue          0-1 1. FC Heidenheim 1846
+[Sa 13.4.]
+  SC Paderborn 07         4-0 MSV Duisburg
+  1. FC Magdeburg         0-1 SV Darmstadt 98
+  SV Sandhausen           3-1 Dynamo Dresden
+[So 14.4.]
+  FC Ingolstadt 04        1-1 Holstein Kiel
+  FC St. Pauli            1-1 Arminia Bielefeld
+  VfL Bochum              3-2 SpVgg Greuther Fürth
+   [Mo 15.4.]
+  1. FC Köln              1-1 Hamburger SV
+
+
+Spieltag 30
+[Sa 20.4.]
+  SpVgg Greuther Fürth    1-1 1. FC Union Berlin
+  MSV Duisburg            2-2 SV Sandhausen
+  Hamburger SV            1-1 Erzgebirge Aue
+  Holstein Kiel           1-2 SC Paderborn 07
+[So 21.4.]
+  Dynamo Dresden          3-0 1. FC Köln
+  SV Darmstadt 98         0-0 VfL Bochum
+  Arminia Bielefeld       1-3 FC Ingolstadt 04
+  1. FC Heidenheim 1846   3-0 FC St. Pauli
+  Jahn Regensburg         1-0 1. FC Magdeburg
+  
+
+Spieltag 31
+[Fr 26.4.]
+  1. FC Köln              1-2 SV Darmstadt 98
+  FC Ingolstadt 04        1-0 Dynamo Dresden
+  [Sa 27.4.]
+  SV Sandhausen           3-2 Holstein Kiel
+  FC St. Pauli            4-3 Jahn Regensburg
+  1. FC Magdeburg         2-1 SpVgg Greuther Fürth
+[So 28.4.]
+  1. FC Union Berlin      2-0 Hamburger SV
+  Erzgebirge Aue          3-2 VfL Bochum
+  SC Paderborn 07         3-1 1. FC Heidenheim 1846
+[Mo 29.4.]  
+  MSV Duisburg            2-2 Arminia Bielefeld
+
+# 1. Aufsteiger in 2. Bundesliga 2019/20:
+  Vfl Osnabrück
+
+Spieltag 32
+[Fr 3.5.]
+  Dynamo Dresden          2-1 FC St. Pauli
+  Arminia Bielefeld       2-0 SC Paderborn 07
+[Sa 4.5.]
+  Hamburger SV            0-3 FC Ingolstadt 04
+  1. FC Heidenheim 1846   2-3 SV Sandhausen
+  VfL Bochum              4-2 1. FC Magdeburg
+[So 5.5.]
+  Holstein Kiel           0-2 MSV Duisburg
+  SV Darmstadt 98         2-1 1. FC Union Berlin
+  Jahn Regensburg         1-3 Erzgebirge Aue
+[Mo 6.5.]
+  SpVgg Greuther Fürth    0-4 1. FC Köln
+ 
+ 
+# 2. Aufsteiger in 2. Bundesliga 2019/20:
+  Karlsruher SC 
+
+# 1. Aufsteiger in 1. Bundesliga 2019/20:
+  1. FC Köln
+
+# Play-off um 2. Bundesligaplatz 2019/20:
+FC Ingoldstadt 04 - SV Wehen Wiesbaden
+SV Wehen Wiesbaden - FC Ingoldstadt 04
+
+
+Spieltag 33
+[So 12.5.]
+  SC Paderborn 07         4-1 Hamburger SV
+  SV Sandhausen           0-3 Arminia Bielefeld
+  1. FC Köln              3-5 Jahn Regensburg
+  FC St. Pauli            0-0 VfL Bochum
+  FC Ingolstadt 04        3-0 SV Darmstadt 98
+  MSV Duisburg            3-4 1. FC Heidenheim 1846
+  Holstein Kiel           3-0 Dynamo Dresden
+  Erzgebirge Aue          1-1 SpVgg Greuther Fürth
+  1. FC Union Berlin      3-0 1. FC Magdeburg
+
+
+# Absteiger in 3. Liga 2019/20:
+  MSV Duisburg
+  1. FC Magdeburg
+  
+  
+Spieltag 34
+[So 19.5.]
+  1. FC Magdeburg         1-1 1. FC Köln
+  Arminia Bielefeld       1-0 Holstein Kiel
+  Hamburger SV            3-0 MSV Duisburg
+  VfL Bochum              2-2 1. FC Union Berlin
+  1. FC Heidenheim 1846   4-2 FC Ingolstadt 04
+  Jahn Regensburg         2-2 SV Sandhausen
+  SpVgg Greuther Fürth    2-1 FC St. Pauli
+  SV Darmstadt 98         3-1 Erzgebirge Aue
+  Dynamo Dresden          3-1 SC Paderborn 07
+
+
+# 2. Aufsteiger in 1. Bundesliga 2019/20:
+  SC Paderborn 07 
+  
+# Play-off um 1. Bundesligaplatz 2019/20:
+
+[Do 23.5.]  
+  VfB Stuttgart           2-2 1. FC Union Berlin
+[Mo 27.5.]
+  1. FC Union Berlin      0-0 VfB Stuttgart
+  
+# Play-off Sieger in 1. Bundesliga 2019/20:
+  1. FC Union Berlin
+  
+# Play-off Verlierer in 2. Bundesliga 2019/20:
+  VfB Stuttgart
+  
+  
+# Play-off um 2. Bundesligaplatz 2019/20:
+
+[Fr 24.5.]
+  SV Wehen Wiesbaden       1-2 FC Ingoldstadt 04
+[Di 28.5.]
+  FC Ingoldstadt 04        2-3 SV Wehen Wiesbaden
+
+# Play-off Sieger in 2. Bundesliga 2019/20:
+  SV Wehen Wiesbaden
+  
+  
+#Ende 2. Bundesliga 2018/19
+
+# 26.7. Start 2. Bundesliga 2019/20 

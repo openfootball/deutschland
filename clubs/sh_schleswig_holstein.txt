@@ -1,7 +1,0 @@
-###############################
-#   Schleswig-Holstein (sh)
-
-
-kiel,         Holstein Kiel|Kiel
-neumuenster,  VfR Neumünster     ## de.wikipedia: VfR_Neumünster
-luebeck,      VfB Lübeck         ## de.wikipedia: VfB_Lübeck

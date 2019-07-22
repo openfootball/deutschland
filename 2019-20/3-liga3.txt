@@ -1,0 +1,561 @@
+###################################
+# Deutsche 3. Liga 2019/20
+
+
+Spieltag 1
+[Fr 19.7.]
+  1860 München            - Preußen Münster
+[Sa 20.7.]
+  MSV Duisburg            - SG Sonnenhof Großaspach
+  Hansa Rostock           - FC Viktoria Köln
+  SV Meppen               - FSV Zwickau
+  1. FC Kaiserslautern    - SpVgg Unterhaching
+  Würzburger Kickers      - Bayern München II
+  1. FC Magdeburg         - Eintracht Braunschweig
+[So 21.7.]
+  Chemnitzer FC           - Waldhof Mannheim
+  KFC Uerdingen 05        - Hallescher FC
+[Mo 22.7.]
+  Carl Zeiss Jena         - FC Ingolstadt 04
+
+
+Spieltag 2
+[Fr 26.7.]
+  Bayern München II       - KFC Uerdingen 05
+[Sa 27.7.]
+  Waldhof Mannheim        - SV Meppen
+  SpVgg Unterhaching      - Würzburger Kickers
+  Eintracht Braunschweig  - 1860 München
+  Preußen Münster         - Carl Zeiss Jena
+  Hallescher FC           - Hansa Rostock
+  SG Sonnenhof Großaspach - 1. FC Kaiserslautern
+  FC Ingolstadt 04        - MSV Duisburg
+[So 28.7.]
+  FC Viktoria Köln        - Chemnitzer FC
+  FSV Zwickau             - 1. FC Magdeburg
+
+
+Spieltag 3
+[Di 30.7.]
+  Hansa Rostock           - Bayern München II
+  KFC Uerdingen 05        - SpVgg Unterhaching
+  Carl Zeiss Jena         - Eintracht Braunschweig
+  1. FC Kaiserslautern    - FC Ingolstadt 04
+  Würzburger Kickers      - SG Sonnenhof Großaspach
+[Mi 31.7.]
+  MSV Duisburg            - Preußen Münster
+  1860 München            - FSV Zwickau
+  Chemnitzer FC           - SV Meppen
+  1. FC Magdeburg         - Waldhof Mannheim
+  FC Viktoria Köln        - Hallescher FC
+
+
+Spieltag 4
+[Fr 2.8.]
+  FC Ingolstadt 04        - Würzburger Kickers
+[Sa 3.8.]
+  SV Meppen               - 1. FC Magdeburg
+  SpVgg Unterhaching      - Hansa Rostock
+  Bayern München II       - FC Viktoria Köln
+  Preußen Münster         - 1. FC Kaiserslautern
+  Hallescher FC           - Chemnitzer FC
+  SG Sonnenhof Großaspach - KFC Uerdingen 05
+[So 4.8.]
+  Eintracht Braunschweig  - MSV Duisburg
+  FSV Zwickau             - Carl Zeiss Jena
+[Mo 5.8.]
+  Waldhof Mannheim        - 1860 München
+
+
+Spieltag 5
+[Fr 16.8.]
+  Chemnitzer FC           - 1. FC Magdeburg
+[Sa 17.8.]
+  MSV Duisburg            - FSV Zwickau
+  Hansa Rostock           - SG Sonnenhof Großaspach
+  1860 München            - SV Meppen
+  KFC Uerdingen 05        - FC Ingolstadt 04
+  Würzburger Kickers      - Preußen Münster
+  FC Viktoria Köln        - SpVgg Unterhaching
+[So 18.8.]
+  1. FC Kaiserslautern    - Eintracht Braunschweig
+  Carl Zeiss Jena         - Waldhof Mannheim
+[Mo 19.8.]
+  Hallescher FC           - Bayern München II
+
+
+Spieltag 6
+[Fr 23.8.]
+  FC Ingolstadt 04        - Hansa Rostock
+[Sa 24.8.]
+  SV Meppen               - Carl Zeiss Jena
+  Eintracht Braunschweig  - Würzburger Kickers
+  Bayern München II       - Chemnitzer FC
+  Preußen Münster         - KFC Uerdingen 05
+  1. FC Magdeburg         - 1860 München
+  SG Sonnenhof Großaspach - FC Viktoria Köln
+[So 25.8.]
+  SpVgg Unterhaching      - Hallescher FC
+  Waldhof Mannheim        - MSV Duisburg
+[Mo 26.8.]
+  FSV Zwickau             - 1. FC Kaiserslautern
+
+
+Spieltag 7
+[Fr 30.8.]
+  Chemnitzer FC           - 1860 München
+[Sa 31.8.]
+  MSV Duisburg            - SV Meppen
+  Hansa Rostock           - Preußen Münster
+  Bayern München II       - SpVgg Unterhaching
+  Hallescher FC           - SG Sonnenhof Großaspach
+  Würzburger Kickers      - FSV Zwickau
+  FC Viktoria Köln        - FC Ingolstadt 04
+[So 1.9.]
+  1. FC Kaiserslautern    - Waldhof Mannheim
+  KFC Uerdingen 05        - Eintracht Braunschweig
+[Mo 2.9.]
+  Carl Zeiss Jena         - 1. FC Magdeburg
+
+
+Spieltag 8
+[Fr 13.9.]
+  1. FC Magdeburg         - MSV Duisburg
+[Sa 14.9.]
+  1860 München            - Carl Zeiss Jena
+  FSV Zwickau             - KFC Uerdingen 05
+  Waldhof Mannheim        - Würzburger Kickers
+  SV Meppen               - 1. FC Kaiserslautern
+  Preußen Münster         - FC Viktoria Köln
+  SG Sonnenhof Großaspach - Bayern München II
+[So 15.9.]
+  FC Ingolstadt 04        - Hallescher FC
+  Eintracht Braunschweig  - Hansa Rostock
+[Mo 16.9.]
+  SpVgg Unterhaching      - Chemnitzer FC
+
+
+Spieltag 9
+[Fr 20.9.]
+  Würzburger Kickers      - SV Meppen
+[Sa 21.9.]
+  MSV Duisburg            - 1860 München
+  1. FC Kaiserslautern    - 1. FC Magdeburg
+  SpVgg Unterhaching      - SG Sonnenhof Großaspach
+  Chemnitzer FC           - Carl Zeiss Jena
+  Hallescher FC           - Preußen Münster
+  FC Viktoria Köln        - Eintracht Braunschweig
+[So 22.9.]
+  Hansa Rostock           - FSV Zwickau
+  Bayern München II       - FC Ingolstadt 04
+[Mo 23.9.]
+  KFC Uerdingen 05        - Waldhof Mannheim
+
+
+Spieltag 10
+[Fr 27.9.]
+  1. FC Magdeburg         - Würzburger Kickers
+[Sa 28.9.]
+  1860 München            - 1. FC Kaiserslautern
+  FSV Zwickau             - FC Viktoria Köln
+  Carl Zeiss Jena         - MSV Duisburg
+  Eintracht Braunschweig  - Hallescher FC
+  Preußen Münster         - Bayern München II
+  SG Sonnenhof Großaspach - Chemnitzer FC
+[So 29.9.]
+  Waldhof Mannheim        - Hansa Rostock
+  SV Meppen               - KFC Uerdingen 05
+[Mo 30.9.]
+  FC Ingolstadt 04        - SpVgg Unterhaching
+
+
+Spieltag 11
+[Sa 5.10.]
+  Hansa Rostock           - SV Meppen
+  KFC Uerdingen 05        - 1. FC Magdeburg
+  1. FC Kaiserslautern    - Carl Zeiss Jena
+  SpVgg Unterhaching      - Preußen Münster
+  Chemnitzer FC           - MSV Duisburg
+  Bayern München II       - Eintracht Braunschweig
+  Hallescher FC           - FSV Zwickau
+  SG Sonnenhof Großaspach - FC Ingolstadt 04
+  Würzburger Kickers      - 1860 München
+  FC Viktoria Köln        - Waldhof Mannheim
+
+
+Spieltag 12
+[Sa 19.10.]
+  MSV Duisburg            - 1. FC Kaiserslautern
+  1860 München            - KFC Uerdingen 05
+  FSV Zwickau             - Bayern München II
+  Waldhof Mannheim        - Hallescher FC
+  SV Meppen               - FC Viktoria Köln
+  Carl Zeiss Jena         - Würzburger Kickers
+  Eintracht Braunschweig  - SpVgg Unterhaching
+  Preußen Münster         - SG Sonnenhof Großaspach
+  1. FC Magdeburg         - Hansa Rostock
+  FC Ingolstadt 04        - Chemnitzer FC
+
+
+Spieltag 13
+[Sa 26.10.]
+  Hansa Rostock           - 1860 München
+  KFC Uerdingen 05        - Carl Zeiss Jena
+  SpVgg Unterhaching      - FSV Zwickau
+  Chemnitzer FC           - 1. FC Kaiserslautern
+  Bayern München II       - Waldhof Mannheim
+  Hallescher FC           - SV Meppen
+  SG Sonnenhof Großaspach - Eintracht Braunschweig
+  Würzburger Kickers      - MSV Duisburg
+  FC Ingolstadt 04        - Preußen Münster
+  FC Viktoria Köln        - 1. FC Magdeburg
+
+
+Spieltag 14
+[Sa 2.11.]
+  MSV Duisburg            - KFC Uerdingen 05
+  1860 München            - FC Viktoria Köln
+  FSV Zwickau             - SG Sonnenhof Großaspach
+  Waldhof Mannheim        - SpVgg Unterhaching
+  SV Meppen               - Bayern München II
+  Carl Zeiss Jena         - Hansa Rostock
+  1. FC Kaiserslautern    - Würzburger Kickers
+  Eintracht Braunschweig  - FC Ingolstadt 04
+  Preußen Münster         - Chemnitzer FC
+  1. FC Magdeburg         - Hallescher FC
+
+
+Spieltag 15
+[Sa 9.11.]
+  Hansa Rostock           - MSV Duisburg
+  KFC Uerdingen 05        - 1. FC Kaiserslautern
+  SpVgg Unterhaching      - SV Meppen
+  Chemnitzer FC           - Würzburger Kickers
+  Bayern München II       - 1. FC Magdeburg
+  Preußen Münster         - Eintracht Braunschweig
+  Hallescher FC           - 1860 München
+  SG Sonnenhof Großaspach - Waldhof Mannheim
+  FC Ingolstadt 04        - FSV Zwickau
+  FC Viktoria Köln        - Carl Zeiss Jena
+
+
+Spieltag 16
+[Sa 23.11.]
+  MSV Duisburg            - FC Viktoria Köln
+  1860 München            - Bayern München II
+  FSV Zwickau             - Preußen Münster
+  Waldhof Mannheim        - FC Ingolstadt 04
+  SV Meppen               - SG Sonnenhof Großaspach
+  Carl Zeiss Jena         - Hallescher FC
+  1. FC Kaiserslautern    - Hansa Rostock
+  Eintracht Braunschweig  - Chemnitzer FC
+  1. FC Magdeburg         - SpVgg Unterhaching
+  Würzburger Kickers      - KFC Uerdingen 05
+
+
+Spieltag 17
+[Sa 30.11.]
+  Hansa Rostock           - Würzburger Kickers
+  SpVgg Unterhaching      - 1860 München
+  Eintracht Braunschweig  - FSV Zwickau
+  Chemnitzer FC           - KFC Uerdingen 05
+  Bayern München II       - Carl Zeiss Jena
+  Preußen Münster         - Waldhof Mannheim
+  Hallescher FC           - MSV Duisburg
+  SG Sonnenhof Großaspach - 1. FC Magdeburg
+  FC Ingolstadt 04        - SV Meppen
+  FC Viktoria Köln        - 1. FC Kaiserslautern
+
+
+Spieltag 18
+[Sa 7.12.]
+  MSV Duisburg            - Bayern München II
+  1860 München            - SG Sonnenhof Großaspach
+  Waldhof Mannheim        - Eintracht Braunschweig
+  KFC Uerdingen 05        - Hansa Rostock
+  SV Meppen               - Preußen Münster
+  Carl Zeiss Jena         - SpVgg Unterhaching
+  1. FC Kaiserslautern    - Hallescher FC
+  Chemnitzer FC           - FSV Zwickau
+  1. FC Magdeburg         - FC Ingolstadt 04
+  Würzburger Kickers      - FC Viktoria Köln
+
+
+Spieltag 19
+[Sa 14.12.]
+  Hansa Rostock           - Chemnitzer FC
+  FSV Zwickau             - Waldhof Mannheim
+  SpVgg Unterhaching      - MSV Duisburg
+  Eintracht Braunschweig  - SV Meppen
+  Bayern München II       - 1. FC Kaiserslautern
+  Preußen Münster         - 1. FC Magdeburg
+  Hallescher FC           - Würzburger Kickers
+  SG Sonnenhof Großaspach - Carl Zeiss Jena
+  FC Ingolstadt 04        - 1860 München
+  FC Viktoria Köln        - KFC Uerdingen 05
+
+
+Spieltag 20
+[Sa 21.12.]
+  FSV Zwickau             - SV Meppen
+  Waldhof Mannheim        - Chemnitzer FC
+  SpVgg Unterhaching      - 1. FC Kaiserslautern
+  Eintracht Braunschweig  - 1. FC Magdeburg
+  Bayern München II       - Würzburger Kickers
+  Preußen Münster         - 1860 München
+  Hallescher FC           - KFC Uerdingen 05
+  SG Sonnenhof Großaspach - MSV Duisburg
+  FC Ingolstadt 04        - Carl Zeiss Jena
+  FC Viktoria Köln        - Hansa Rostock
+
+
+Spieltag 21
+[Sa 25.1.]
+  MSV Duisburg            - FC Ingolstadt 04
+  Hansa Rostock           - Hallescher FC
+  1860 München            - Eintracht Braunschweig
+  KFC Uerdingen 05        - Bayern München II
+  SV Meppen               - Waldhof Mannheim
+  Carl Zeiss Jena         - Preußen Münster
+  1. FC Kaiserslautern    - SG Sonnenhof Großaspach
+  Chemnitzer FC           - FC Viktoria Köln
+  1. FC Magdeburg         - FSV Zwickau
+  Würzburger Kickers      - SpVgg Unterhaching
+
+
+Spieltag 22
+[Sa 1.2.]
+  FSV Zwickau             - 1860 München
+  Waldhof Mannheim        - 1. FC Magdeburg
+  SV Meppen               - Chemnitzer FC
+  SpVgg Unterhaching      - KFC Uerdingen 05
+  Eintracht Braunschweig  - Carl Zeiss Jena
+  Bayern München II       - Hansa Rostock
+  Preußen Münster         - MSV Duisburg
+  Hallescher FC           - FC Viktoria Köln
+  SG Sonnenhof Großaspach - Würzburger Kickers
+  FC Ingolstadt 04        - 1. FC Kaiserslautern
+
+
+Spieltag 23
+[Sa 8.2.]
+  MSV Duisburg            - Eintracht Braunschweig
+  Hansa Rostock           - SpVgg Unterhaching
+  1860 München            - Waldhof Mannheim
+  KFC Uerdingen 05        - SG Sonnenhof Großaspach
+  Carl Zeiss Jena         - FSV Zwickau
+  1. FC Kaiserslautern    - Preußen Münster
+  Chemnitzer FC           - Hallescher FC
+  1. FC Magdeburg         - SV Meppen
+  Würzburger Kickers      - FC Ingolstadt 04
+  FC Viktoria Köln        - Bayern München II
+
+
+Spieltag 24
+[Sa 15.2.]
+  FSV Zwickau             - MSV Duisburg
+  Waldhof Mannheim        - Carl Zeiss Jena
+  SV Meppen               - 1860 München
+  SpVgg Unterhaching      - FC Viktoria Köln
+  Eintracht Braunschweig  - 1. FC Kaiserslautern
+  Bayern München II       - Hallescher FC
+  Preußen Münster         - Würzburger Kickers
+  1. FC Magdeburg         - Chemnitzer FC
+  SG Sonnenhof Großaspach - Hansa Rostock
+  FC Ingolstadt 04        - KFC Uerdingen 05
+
+
+Spieltag 25
+[Sa 22.2.]
+  MSV Duisburg            - Waldhof Mannheim
+  Hansa Rostock           - FC Ingolstadt 04
+  1860 München            - 1. FC Magdeburg
+  KFC Uerdingen 05        - Preußen Münster
+  Carl Zeiss Jena         - SV Meppen
+  1. FC Kaiserslautern    - FSV Zwickau
+  Chemnitzer FC           - Bayern München II
+  Hallescher FC           - SpVgg Unterhaching
+  Würzburger Kickers      - Eintracht Braunschweig
+  FC Viktoria Köln        - SG Sonnenhof Großaspach
+
+
+Spieltag 26
+[Sa 29.2.]
+  1860 München            - Chemnitzer FC
+  FSV Zwickau             - Würzburger Kickers
+  Waldhof Mannheim        - 1. FC Kaiserslautern
+  SV Meppen               - MSV Duisburg
+  SpVgg Unterhaching      - Bayern München II
+  Eintracht Braunschweig  - KFC Uerdingen 05
+  Preußen Münster         - Hansa Rostock
+  1. FC Magdeburg         - Carl Zeiss Jena
+  SG Sonnenhof Großaspach - Hallescher FC
+  FC Ingolstadt 04        - FC Viktoria Köln
+
+
+Spieltag 27
+[Sa 7.3.]
+  MSV Duisburg            - 1. FC Magdeburg
+  Hansa Rostock           - Eintracht Braunschweig
+  KFC Uerdingen 05        - FSV Zwickau
+  Carl Zeiss Jena         - 1860 München
+  1. FC Kaiserslautern    - SV Meppen
+  Chemnitzer FC           - SpVgg Unterhaching
+  Bayern München II       - SG Sonnenhof Großaspach
+  Hallescher FC           - FC Ingolstadt 04
+  Würzburger Kickers      - Waldhof Mannheim
+  FC Viktoria Köln        - Preußen Münster
+
+
+Spieltag 28
+[Sa 14.3.]
+  1860 München            - MSV Duisburg
+  FSV Zwickau             - Hansa Rostock
+  Waldhof Mannheim        - KFC Uerdingen 05
+  SV Meppen               - Würzburger Kickers
+  Carl Zeiss Jena         - Chemnitzer FC
+  Eintracht Braunschweig  - FC Viktoria Köln
+  Preußen Münster         - Hallescher FC
+  1. FC Magdeburg         - 1. FC Kaiserslautern
+  SG Sonnenhof Großaspach - SpVgg Unterhaching
+  FC Ingolstadt 04        - Bayern München II
+
+
+Spieltag 29
+[Mi 18.3.]
+  MSV Duisburg            - Carl Zeiss Jena
+  Hansa Rostock           - Waldhof Mannheim
+  KFC Uerdingen 05        - SV Meppen
+  1. FC Kaiserslautern    - 1860 München
+  SpVgg Unterhaching      - FC Ingolstadt 04
+  Chemnitzer FC           - SG Sonnenhof Großaspach
+  Bayern München II       - Preußen Münster
+  Hallescher FC           - Eintracht Braunschweig
+  Würzburger Kickers      - 1. FC Magdeburg
+  FC Viktoria Köln        - FSV Zwickau
+
+
+Spieltag 30
+[Sa 21.3.]
+  MSV Duisburg            - Chemnitzer FC
+  1860 München            - Würzburger Kickers
+  FSV Zwickau             - Hallescher FC
+  Waldhof Mannheim        - FC Viktoria Köln
+  SV Meppen               - Hansa Rostock
+  Carl Zeiss Jena         - 1. FC Kaiserslautern
+  Eintracht Braunschweig  - Bayern München II
+  Preußen Münster         - SpVgg Unterhaching
+  1. FC Magdeburg         - KFC Uerdingen 05
+  FC Ingolstadt 04        - SG Sonnenhof Großaspach
+
+
+Spieltag 31
+[Sa 28.3.]
+  Hansa Rostock           - 1. FC Magdeburg
+  KFC Uerdingen 05        - 1860 München
+  1. FC Kaiserslautern    - MSV Duisburg
+  SpVgg Unterhaching      - Eintracht Braunschweig
+  Chemnitzer FC           - FC Ingolstadt 04
+  Bayern München II       - FSV Zwickau
+  Hallescher FC           - Waldhof Mannheim
+  SG Sonnenhof Großaspach - Preußen Münster
+  Würzburger Kickers      - Carl Zeiss Jena
+  FC Viktoria Köln        - SV Meppen
+
+
+Spieltag 32
+[Sa 4.4.]
+  MSV Duisburg            - Würzburger Kickers
+  1860 München            - Hansa Rostock
+  FSV Zwickau             - SpVgg Unterhaching
+  Waldhof Mannheim        - Bayern München II
+  SV Meppen               - Hallescher FC
+  Carl Zeiss Jena         - KFC Uerdingen 05
+  1. FC Kaiserslautern    - Chemnitzer FC
+  Eintracht Braunschweig  - SG Sonnenhof Großaspach
+  Preußen Münster         - FC Ingolstadt 04
+  1. FC Magdeburg         - FC Viktoria Köln
+
+
+Spieltag 33
+[Sa 11.4.]
+  Hansa Rostock           - Carl Zeiss Jena
+  KFC Uerdingen 05        - MSV Duisburg
+  SpVgg Unterhaching      - Waldhof Mannheim
+  Chemnitzer FC           - Preußen Münster
+  Bayern München II       - SV Meppen
+  Hallescher FC           - 1. FC Magdeburg
+  SG Sonnenhof Großaspach - FSV Zwickau
+  Würzburger Kickers      - 1. FC Kaiserslautern
+  FC Ingolstadt 04        - Eintracht Braunschweig
+  FC Viktoria Köln        - 1860 München
+
+
+Spieltag 34
+[Sa 18.4.]
+  MSV Duisburg            - Hansa Rostock
+  1860 München            - Hallescher FC
+  FSV Zwickau             - FC Ingolstadt 04
+  Waldhof Mannheim        - SG Sonnenhof Großaspach
+  SV Meppen               - SpVgg Unterhaching
+  Carl Zeiss Jena         - FC Viktoria Köln
+  1. FC Kaiserslautern    - KFC Uerdingen 05
+  Eintracht Braunschweig  - Preußen Münster
+  1. FC Magdeburg         - Bayern München II
+  Würzburger Kickers      - Chemnitzer FC
+
+
+Spieltag 35
+[Sa 25.4.]
+  Hansa Rostock           - 1. FC Kaiserslautern
+  KFC Uerdingen 05        - Würzburger Kickers
+  SpVgg Unterhaching      - 1. FC Magdeburg
+  Chemnitzer FC           - Eintracht Braunschweig
+  Bayern München II       - 1860 München
+  Preußen Münster         - FSV Zwickau
+  Hallescher FC           - Carl Zeiss Jena
+  SG Sonnenhof Großaspach - SV Meppen
+  FC Ingolstadt 04        - Waldhof Mannheim
+  FC Viktoria Köln        - MSV Duisburg
+
+
+Spieltag 36
+[Sa 2.5.]
+  MSV Duisburg            - Hallescher FC
+  1860 München            - SpVgg Unterhaching
+  FSV Zwickau             - Eintracht Braunschweig
+  Waldhof Mannheim        - Preußen Münster
+  KFC Uerdingen 05        - Chemnitzer FC
+  SV Meppen               - FC Ingolstadt 04
+  Carl Zeiss Jena         - Bayern München II
+  1. FC Kaiserslautern    - FC Viktoria Köln
+  1. FC Magdeburg         - SG Sonnenhof Großaspach
+  Würzburger Kickers      - Hansa Rostock
+
+
+Spieltag 37
+[Sa 9.5.]
+  Hansa Rostock           - KFC Uerdingen 05
+  FSV Zwickau             - Chemnitzer FC
+  SpVgg Unterhaching      - Carl Zeiss Jena
+  Eintracht Braunschweig  - Waldhof Mannheim
+  Bayern München II       - MSV Duisburg
+  Preußen Münster         - SV Meppen
+  Hallescher FC           - 1. FC Kaiserslautern
+  SG Sonnenhof Großaspach - 1860 München
+  FC Ingolstadt 04        - 1. FC Magdeburg
+  FC Viktoria Köln        - Würzburger Kickers
+
+
+Spieltag 38
+[Sa 16.5.]
+  Chemnitzer FC           - Hansa Rostock
+  MSV Duisburg            - SpVgg Unterhaching
+  1860 München            - FC Ingolstadt 04
+  Waldhof Mannheim        - FSV Zwickau
+  KFC Uerdingen 05        - FC Viktoria Köln
+  SV Meppen               - Eintracht Braunschweig
+  Carl Zeiss Jena         - SG Sonnenhof Großaspach
+  1. FC Kaiserslautern    - Bayern München II
+  1. FC Magdeburg         - Preußen Münster
+  Würzburger Kickers      - Hallescher FC

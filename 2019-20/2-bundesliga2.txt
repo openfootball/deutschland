@@ -1,0 +1,467 @@
+###################################
+# Deutsche 2. Bundesliga 2019/20
+
+
+Spieltag 1
+[Fr 26.7.]
+  VfB Stuttgart           - Hannover 96
+[Sa 27.7.]
+  Dynamo Dresden          - 1. FC Nürnberg
+  VfL Osnabrück           - 1. FC Heidenheim
+  Holstein Kiel           - SV Sandhausen
+[So 28.7.]
+  Hamburger SV            - SV Darmstadt 98
+  SpVgg Greuther Fürth    - Erzgebirge Aue
+  SV Wehen Wiesbaden      - Karlsruher SC
+  Jahn Regensburg         - VfL Bochum
+[Mo 29.7.]
+  Arminia Bielefeld       - FC St. Pauli
+
+
+Spieltag 2
+[Fr 2.8.]
+  VfL Bochum              - Arminia Bielefeld
+  SV Sandhausen           - VfL Osnabrück
+  FC St. Pauli            - SpVgg Greuther Fürth
+[Sa 3.8.]
+  Karlsruher SC           - Dynamo Dresden
+  Hannover 96             - Jahn Regensburg
+[So 4.8.]
+  1. FC Heidenheim        - VfB Stuttgart
+  Erzgebirge Aue          - SV Wehen Wiesbaden
+  SV Darmstadt 98         - Holstein Kiel
+[Mo 5.8.]
+  1. FC Nürnberg          - Hamburger SV
+
+
+Spieltag 3
+[Fr 16.8.]
+  Hamburger SV            - VfL Bochum
+  SV Sandhausen           - 1. FC Nürnberg
+[Sa 17.8.]
+  Arminia Bielefeld       - Erzgebirge Aue
+  VfB Stuttgart           - FC St. Pauli
+  SV Wehen Wiesbaden      - Hannover 96
+[So 18.8.]
+  Dynamo Dresden          - 1. FC Heidenheim
+  SpVgg Greuther Fürth    - Jahn Regensburg
+  Holstein Kiel           - Karlsruher SC
+[Mo 19.8.]
+  VfL Osnabrück           - SV Darmstadt 98
+
+
+Spieltag 4
+[Fr 23.8.]
+  Erzgebirge Aue          - VfB Stuttgart
+  SV Darmstadt 98         - Dynamo Dresden
+[Sa 24.8.]
+  VfL Bochum              - SV Wehen Wiesbaden
+  Hannover 96             - SpVgg Greuther Fürth
+  Jahn Regensburg         - Arminia Bielefeld
+[So 25.8.]
+  Karlsruher SC           - Hamburger SV
+  1. FC Nürnberg          - VfL Osnabrück
+  1. FC Heidenheim        - SV Sandhausen
+[Mo 26.8.]
+  FC St. Pauli            - Holstein Kiel
+
+
+Spieltag 5
+[Fr 30.8.]
+  1. FC Nürnberg          - 1. FC Heidenheim
+  SV Sandhausen           - SV Darmstadt 98
+[Sa 31.8.]
+  Arminia Bielefeld       - SpVgg Greuther Fürth
+  Dynamo Dresden          - FC St. Pauli
+  SV Wehen Wiesbaden      - Jahn Regensburg
+[So 1.9.]
+  Hamburger SV            - Hannover 96
+  VfL Osnabrück           - Karlsruher SC
+  Holstein Kiel           - Erzgebirge Aue
+[Mo 2.9.]
+  VfB Stuttgart           - VfL Bochum
+
+
+Spieltag 6
+[Fr 13.9.]
+  Karlsruher SC           - SV Sandhausen
+  SpVgg Greuther Fürth    - SV Wehen Wiesbaden
+[Sa 14.9.]
+  Hannover 96             - Arminia Bielefeld
+  Jahn Regensburg         - VfB Stuttgart
+  1. FC Heidenheim        - Holstein Kiel
+[So 15.9.]
+  VfL Bochum              - Dynamo Dresden
+  Erzgebirge Aue          - VfL Osnabrück
+  SV Darmstadt 98         - 1. FC Nürnberg
+[Mo 16.9.]
+  FC St. Pauli            - Hamburger SV
+
+
+Spieltag 7
+[Fr 20.9.]
+  Holstein Kiel           - Hannover 96
+  1. FC Heidenheim        - SV Darmstadt 98
+[Sa 21.9.]
+  VfB Stuttgart           - SpVgg Greuther Fürth
+  1. FC Nürnberg          - Karlsruher SC
+  SV Wehen Wiesbaden      - Arminia Bielefeld
+  SV Sandhausen           - VfL Bochum
+[So 22.9.]
+  Hamburger SV            - Erzgebirge Aue
+  VfL Osnabrück           - FC St. Pauli
+  Dynamo Dresden          - Jahn Regensburg
+
+
+Spieltag 8
+[Fr 27.9.]
+  Arminia Bielefeld       - VfB Stuttgart
+  SV Wehen Wiesbaden      - VfL Osnabrück
+[Sa 28.9.]
+  Karlsruher SC           - 1. FC Heidenheim
+  VfL Bochum              - SV Darmstadt 98
+  Jahn Regensburg         - Hamburger SV
+[So 29.9.]
+  FC St. Pauli            - SV Sandhausen
+  Erzgebirge Aue          - Dynamo Dresden
+  SpVgg Greuther Fürth    - Holstein Kiel
+[Mo 30.9.]
+  Hannover 96             - 1. FC Nürnberg
+
+
+Spieltag 9
+[So 6.10.]
+  VfB Stuttgart           - SV Wehen Wiesbaden
+  Hamburger SV            - SpVgg Greuther Fürth
+  VfL Osnabrück           - Arminia Bielefeld
+  Dynamo Dresden          - Hannover 96
+  1. FC Nürnberg          - FC St. Pauli
+  SV Darmstadt 98         - Karlsruher SC
+  Holstein Kiel           - Jahn Regensburg
+  SV Sandhausen           - Erzgebirge Aue
+  1. FC Heidenheim        - VfL Bochum
+
+
+Spieltag 10
+[So 20.10.]
+  VfL Bochum              - Karlsruher SC
+  Arminia Bielefeld       - Hamburger SV
+  VfB Stuttgart           - Holstein Kiel
+  FC St. Pauli            - SV Darmstadt 98
+  Hannover 96             - VfL Osnabrück
+  Erzgebirge Aue          - 1. FC Nürnberg
+  SpVgg Greuther Fürth    - Dynamo Dresden
+  SV Wehen Wiesbaden      - 1. FC Heidenheim
+  Jahn Regensburg         - SV Sandhausen
+
+
+Spieltag 11
+[So 27.10.]
+  Karlsruher SC           - Hannover 96
+  Hamburger SV            - VfB Stuttgart
+  VfL Osnabrück           - SpVgg Greuther Fürth
+  Dynamo Dresden          - Arminia Bielefeld
+  1. FC Nürnberg          - Jahn Regensburg
+  SV Darmstadt 98         - Erzgebirge Aue
+  Holstein Kiel           - VfL Bochum
+  SV Sandhausen           - SV Wehen Wiesbaden
+  1. FC Heidenheim        - FC St. Pauli
+
+
+Spieltag 12
+[So 3.11.]
+  VfL Bochum              - 1. FC Nürnberg
+  Arminia Bielefeld       - Holstein Kiel
+  VfB Stuttgart           - Dynamo Dresden
+  FC St. Pauli            - Karlsruher SC
+  Hannover 96             - SV Sandhausen
+  Erzgebirge Aue          - 1. FC Heidenheim
+  SpVgg Greuther Fürth    - SV Darmstadt 98
+  SV Wehen Wiesbaden      - Hamburger SV
+  Jahn Regensburg         - VfL Osnabrück
+
+
+Spieltag 13
+[So 10.11.]
+  Karlsruher SC           - Erzgebirge Aue
+  FC St. Pauli            - VfL Bochum
+  VfL Osnabrück           - VfB Stuttgart
+  Dynamo Dresden          - SV Wehen Wiesbaden
+  1. FC Nürnberg          - Arminia Bielefeld
+  SV Darmstadt 98         - Jahn Regensburg
+  Holstein Kiel           - Hamburger SV
+  SV Sandhausen           - SpVgg Greuther Fürth
+  1. FC Heidenheim        - Hannover 96
+
+
+Spieltag 14
+[So 24.11.]
+  VfL Bochum              - VfL Osnabrück
+  Arminia Bielefeld       - SV Sandhausen
+  VfB Stuttgart           - Karlsruher SC
+  Hamburger SV            - Dynamo Dresden
+  Hannover 96             - SV Darmstadt 98
+  Erzgebirge Aue          - FC St. Pauli
+  SpVgg Greuther Fürth    - 1. FC Nürnberg
+  SV Wehen Wiesbaden      - Holstein Kiel
+  Jahn Regensburg         - 1. FC Heidenheim
+
+
+Spieltag 15
+[So 1.12.]
+  Karlsruher SC           - Jahn Regensburg
+  VfL Bochum              - Erzgebirge Aue
+  FC St. Pauli            - Hannover 96
+  VfL Osnabrück           - Hamburger SV
+  Dynamo Dresden          - Holstein Kiel
+  1. FC Nürnberg          - SV Wehen Wiesbaden
+  SV Darmstadt 98         - Arminia Bielefeld
+  SV Sandhausen           - VfB Stuttgart
+  1. FC Heidenheim        - SpVgg Greuther Fürth
+
+
+Spieltag 16
+[So 8.12.]
+  Arminia Bielefeld       - Karlsruher SC
+  VfB Stuttgart           - 1. FC Nürnberg
+  Hamburger SV            - 1. FC Heidenheim
+  Hannover 96             - Erzgebirge Aue
+  Dynamo Dresden          - SV Sandhausen
+  SpVgg Greuther Fürth    - VfL Bochum
+  SV Wehen Wiesbaden      - SV Darmstadt 98
+  Holstein Kiel           - VfL Osnabrück
+  Jahn Regensburg         - FC St. Pauli
+
+
+Spieltag 17
+[So 15.12.]
+  Karlsruher SC           - SpVgg Greuther Fürth
+  VfL Bochum              - Hannover 96
+  FC St. Pauli            - SV Wehen Wiesbaden
+  VfL Osnabrück           - Dynamo Dresden
+  Erzgebirge Aue          - Jahn Regensburg
+  1. FC Nürnberg          - Holstein Kiel
+  SV Darmstadt 98         - VfB Stuttgart
+  SV Sandhausen           - Hamburger SV
+  1. FC Heidenheim        - Arminia Bielefeld
+
+
+Spieltag 18
+[So 22.12.]
+  Karlsruher SC           - SV Wehen Wiesbaden
+  VfL Bochum              - Jahn Regensburg
+  FC St. Pauli            - Arminia Bielefeld
+  Hannover 96             - VfB Stuttgart
+  Erzgebirge Aue          - SpVgg Greuther Fürth
+  1. FC Nürnberg          - Dynamo Dresden
+  SV Darmstadt 98         - Hamburger SV
+  SV Sandhausen           - Holstein Kiel
+  1. FC Heidenheim        - VfL Osnabrück
+
+
+Spieltag 19
+[Mi 29.1.]
+  Arminia Bielefeld       - VfL Bochum
+  VfB Stuttgart           - 1. FC Heidenheim
+  Hamburger SV            - 1. FC Nürnberg
+  VfL Osnabrück           - SV Sandhausen
+  Dynamo Dresden          - Karlsruher SC
+  SpVgg Greuther Fürth    - FC St. Pauli
+  SV Wehen Wiesbaden      - Erzgebirge Aue
+  Holstein Kiel           - SV Darmstadt 98
+  Jahn Regensburg         - Hannover 96
+
+
+Spieltag 20
+[So 2.2.]
+  Karlsruher SC           - Holstein Kiel
+  VfL Bochum              - Hamburger SV
+  FC St. Pauli            - VfB Stuttgart
+  Hannover 96             - SV Wehen Wiesbaden
+  Erzgebirge Aue          - Arminia Bielefeld
+  1. FC Nürnberg          - SV Sandhausen
+  SV Darmstadt 98         - VfL Osnabrück
+  Jahn Regensburg         - SpVgg Greuther Fürth
+  1. FC Heidenheim        - Dynamo Dresden
+
+
+Spieltag 21
+[So 9.2.]
+  Arminia Bielefeld       - Jahn Regensburg
+  VfB Stuttgart           - Erzgebirge Aue
+  Hamburger SV            - Karlsruher SC
+  VfL Osnabrück           - 1. FC Nürnberg
+  Dynamo Dresden          - SV Darmstadt 98
+  SpVgg Greuther Fürth    - Hannover 96
+  SV Wehen Wiesbaden      - VfL Bochum
+  Holstein Kiel           - FC St. Pauli
+  SV Sandhausen           - 1. FC Heidenheim
+
+
+Spieltag 22
+[So 16.2.]
+  Karlsruher SC           - VfL Osnabrück
+  VfL Bochum              - VfB Stuttgart
+  FC St. Pauli            - Dynamo Dresden
+  Hannover 96             - Hamburger SV
+  Erzgebirge Aue          - Holstein Kiel
+  SpVgg Greuther Fürth    - Arminia Bielefeld
+  SV Darmstadt 98         - SV Sandhausen
+  Jahn Regensburg         - SV Wehen Wiesbaden
+  1. FC Heidenheim        - 1. FC Nürnberg
+
+
+Spieltag 23
+[So 23.2.]
+  Arminia Bielefeld       - Hannover 96
+  VfB Stuttgart           - Jahn Regensburg
+  Hamburger SV            - FC St. Pauli
+  VfL Osnabrück           - Erzgebirge Aue
+  Dynamo Dresden          - VfL Bochum
+  1. FC Nürnberg          - SV Darmstadt 98
+  SV Wehen Wiesbaden      - SpVgg Greuther Fürth
+  Holstein Kiel           - 1. FC Heidenheim
+  SV Sandhausen           - Karlsruher SC
+
+
+Spieltag 24
+[So 1.3.]
+  Karlsruher SC           - 1. FC Nürnberg
+  VfL Bochum              - SV Sandhausen
+  Arminia Bielefeld       - SV Wehen Wiesbaden
+  FC St. Pauli            - VfL Osnabrück
+  Hannover 96             - Holstein Kiel
+  Erzgebirge Aue          - Hamburger SV
+  SpVgg Greuther Fürth    - VfB Stuttgart
+  SV Darmstadt 98         - 1. FC Heidenheim
+  Jahn Regensburg         - Dynamo Dresden
+
+
+Spieltag 25
+[So 8.3.]
+  VfB Stuttgart           - Arminia Bielefeld
+  Hamburger SV            - Jahn Regensburg
+  VfL Osnabrück           - SV Wehen Wiesbaden
+  Dynamo Dresden          - Erzgebirge Aue
+  1. FC Nürnberg          - Hannover 96
+  SV Darmstadt 98         - VfL Bochum
+  Holstein Kiel           - SpVgg Greuther Fürth
+  SV Sandhausen           - FC St. Pauli
+  1. FC Heidenheim        - Karlsruher SC
+
+
+Spieltag 26
+[So 15.3.]
+  Karlsruher SC           - SV Darmstadt 98
+  VfL Bochum              - 1. FC Heidenheim
+  Arminia Bielefeld       - VfL Osnabrück
+  FC St. Pauli            - 1. FC Nürnberg
+  Hannover 96             - Dynamo Dresden
+  Erzgebirge Aue          - SV Sandhausen
+  SpVgg Greuther Fürth    - Hamburger SV
+  SV Wehen Wiesbaden      - VfB Stuttgart
+  Jahn Regensburg         - Holstein Kiel
+
+
+Spieltag 27
+[So 22.3.]
+  Karlsruher SC           - VfL Bochum
+  Hamburger SV            - Arminia Bielefeld
+  VfL Osnabrück           - Hannover 96
+  Dynamo Dresden          - SpVgg Greuther Fürth
+  1. FC Nürnberg          - Erzgebirge Aue
+  SV Darmstadt 98         - FC St. Pauli
+  Holstein Kiel           - VfB Stuttgart
+  SV Sandhausen           - Jahn Regensburg
+  1. FC Heidenheim        - SV Wehen Wiesbaden
+
+
+Spieltag 28
+[So 5.4.]
+  VfL Bochum              - Holstein Kiel
+  Arminia Bielefeld       - Dynamo Dresden
+  VfB Stuttgart           - Hamburger SV
+  FC St. Pauli            - 1. FC Heidenheim
+  Hannover 96             - Karlsruher SC
+  Erzgebirge Aue          - SV Darmstadt 98
+  SpVgg Greuther Fürth    - VfL Osnabrück
+  SV Wehen Wiesbaden      - SV Sandhausen
+  Jahn Regensburg         - 1. FC Nürnberg
+
+
+Spieltag 29
+[So 12.4.]
+  Karlsruher SC           - FC St. Pauli
+  Hamburger SV            - SV Wehen Wiesbaden
+  VfL Osnabrück           - Jahn Regensburg
+  Dynamo Dresden          - VfB Stuttgart
+  1. FC Nürnberg          - VfL Bochum
+  SV Darmstadt 98         - SpVgg Greuther Fürth
+  Holstein Kiel           - Arminia Bielefeld
+  SV Sandhausen           - Hannover 96
+  1. FC Heidenheim        - Erzgebirge Aue
+
+
+Spieltag 30
+[So 19.4.]
+  VfL Bochum              - FC St. Pauli
+  Arminia Bielefeld       - 1. FC Nürnberg
+  VfB Stuttgart           - VfL Osnabrück
+  Hamburger SV            - Holstein Kiel
+  Hannover 96             - 1. FC Heidenheim
+  Erzgebirge Aue          - Karlsruher SC
+  SpVgg Greuther Fürth    - SV Sandhausen
+  SV Wehen Wiesbaden      - Dynamo Dresden
+  Jahn Regensburg         - SV Darmstadt 98
+
+
+Spieltag 31
+[So 26.4.]
+  Karlsruher SC           - VfB Stuttgart
+  FC St. Pauli            - Erzgebirge Aue
+  VfL Osnabrück           - VfL Bochum
+  Dynamo Dresden          - Hamburger SV
+  1. FC Nürnberg          - SpVgg Greuther Fürth
+  SV Darmstadt 98         - Hannover 96
+  Holstein Kiel           - SV Wehen Wiesbaden
+  SV Sandhausen           - Arminia Bielefeld
+  1. FC Heidenheim        - Jahn Regensburg
+
+
+Spieltag 32
+[So 3.5.]
+  Arminia Bielefeld       - SV Darmstadt 98
+  VfB Stuttgart           - SV Sandhausen
+  Hamburger SV            - VfL Osnabrück
+  Hannover 96             - FC St. Pauli
+  Erzgebirge Aue          - VfL Bochum
+  SpVgg Greuther Fürth    - 1. FC Heidenheim
+  SV Wehen Wiesbaden      - 1. FC Nürnberg
+  Holstein Kiel           - Dynamo Dresden
+  Jahn Regensburg         - Karlsruher SC
+
+
+Spieltag 33
+[So 10.5.]
+  Karlsruher SC           - Arminia Bielefeld
+  VfL Bochum              - SpVgg Greuther Fürth
+  FC St. Pauli            - Jahn Regensburg
+  VfL Osnabrück           - Holstein Kiel
+  Erzgebirge Aue          - Hannover 96
+  1. FC Nürnberg          - VfB Stuttgart
+  SV Darmstadt 98         - SV Wehen Wiesbaden
+  SV Sandhausen           - Dynamo Dresden
+  1. FC Heidenheim        - Hamburger SV
+
+
+Spieltag 34
+[So 17.5.]
+  Arminia Bielefeld       - 1. FC Heidenheim
+  VfB Stuttgart           - SV Darmstadt 98
+  Hamburger SV            - SV Sandhausen
+  Hannover 96             - VfL Bochum
+  Dynamo Dresden          - VfL Osnabrück
+  SpVgg Greuther Fürth    - Karlsruher SC
+  SV Wehen Wiesbaden      - FC St. Pauli
+  Holstein Kiel           - 1. FC Nürnberg
+  Jahn Regensburg         - Erzgebirge Aue

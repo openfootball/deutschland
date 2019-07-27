@@ -1,7 +1,0 @@
-############################
-#   Sachsen-Anhalt (st)
-
-halle, Hallescher FC|Halle    ## de.wikipedia: Hallescher_FC 
-
-magdeburg, 1. FC Magdeburg    ## de.wikipedia: 1._FC_Magdeburg
-

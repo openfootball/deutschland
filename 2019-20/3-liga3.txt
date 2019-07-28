@@ -21,15 +21,15 @@ Spieltag 1
 
 Spieltag 2
 [Fr 26.7.]
-  Bayern München II       - KFC Uerdingen 05
+  Bayern München II       2-1 KFC Uerdingen 05
 [Sa 27.7.]
-  Waldhof Mannheim        - SV Meppen
-  SpVgg Unterhaching      - Würzburger Kickers
-  Eintracht Braunschweig  - 1860 München
-  Preußen Münster         - Carl Zeiss Jena
-  Hallescher FC           - Hansa Rostock
-  SG Sonnenhof Großaspach - 1. FC Kaiserslautern
-  FC Ingolstadt 04        - MSV Duisburg
+  Waldhof Mannheim        0-0 SV Meppen
+  SpVgg Unterhaching      5-4 Würzburger Kickers
+  Eintracht Braunschweig  2-1 1860 München
+  Preußen Münster         2-0 Carl Zeiss Jena
+  Hallescher FC           1-0 Hansa Rostock
+  SG Sonnenhof Großaspach 1-3 1. FC Kaiserslautern
+  FC Ingolstadt 04        3-2 MSV Duisburg
 [So 28.7.]
   FC Viktoria Köln        - Chemnitzer FC
   FSV Zwickau             - 1. FC Magdeburg

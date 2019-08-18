@@ -71,12 +71,12 @@ Spieltag 5
 [Fr 16.8.]
   Chemnitzer FC           0-0 1. FC Magdeburg
 [Sa 17.8.]
-  MSV Duisburg            - FSV Zwickau
-  Hansa Rostock           - SG Sonnenhof Großaspach
-  1860 München            - SV Meppen
-  KFC Uerdingen 05        - FC Ingolstadt 04
-  Würzburger Kickers      - Preußen Münster
-  FC Viktoria Köln        - SpVgg Unterhaching
+  MSV Duisburg            3-1 FSV Zwickau
+  Hansa Rostock           0-1 SG Sonnenhof Großaspach
+  1860 München            0-0 SV Meppen
+  KFC Uerdingen 05        0-3 FC Ingolstadt 04
+  Würzburger Kickers      3-2 Preußen Münster
+  FC Viktoria Köln        0-2 SpVgg Unterhaching
 [So 18.8.]
   1. FC Kaiserslautern    - Eintracht Braunschweig
   Carl Zeiss Jena         - Waldhof Mannheim

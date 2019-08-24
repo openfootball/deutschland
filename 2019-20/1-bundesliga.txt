@@ -21,11 +21,11 @@ Spieltag 2
 [Fr 23.8.]
   1. FC Köln              1-3 Borussia Dortmund
 [Sa 24.8.]
-  Fortuna Düsseldorf      - Bayer 04 Leverkusen
-  1. FSV Mainz 05         - Bor. Mönchengladbach
-  FC Augsburg             - 1. FC Union Berlin
-  SC Paderborn 07         - SC Freiburg
-  TSG Hoffenheim          - Werder Bremen
+  Fortuna Düsseldorf      1-3 Bayer 04 Leverkusen
+  1. FSV Mainz 05         1-3 Bor. Mönchengladbach
+  FC Augsburg             1-1 1. FC Union Berlin
+  SC Paderborn 07         1-3 SC Freiburg
+  TSG Hoffenheim          3-2 Werder Bremen
   FC Schalke 04           - Bayern München
 [So 25.8.]
   RB Leipzig              - Eintracht Frankfurt

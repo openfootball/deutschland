@@ -88,12 +88,12 @@ Spieltag 6
 [Fr 23.8.]
   FC Ingolstadt 04        2-2 Hansa Rostock
 [Sa 24.8.]
-  SV Meppen               - Carl Zeiss Jena
-  Eintracht Braunschweig  - Würzburger Kickers
-  Bayern München II       - Chemnitzer FC
-  Preußen Münster         - KFC Uerdingen 05
-  1. FC Magdeburg         - 1860 München
-  SG Sonnenhof Großaspach - FC Viktoria Köln
+  SV Meppen               3-0 Carl Zeiss Jena
+  Eintracht Braunschweig  5-2 Würzburger Kickers
+  Bayern München II       2-2 Chemnitzer FC
+  Preußen Münster         1-1 KFC Uerdingen 05
+  1. FC Magdeburg         5-1 1860 München
+  SG Sonnenhof Großaspach 0-3 FC Viktoria Köln
 [So 25.8.]
   SpVgg Unterhaching      - Hallescher FC
   Waldhof Mannheim        - MSV Duisburg

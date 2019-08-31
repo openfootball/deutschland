@@ -103,15 +103,15 @@ Spieltag 6
 
 Spieltag 7
 [Fr 30.8.]
-  Chemnitzer FC           - 1860 München
+  Chemnitzer FC           0-1 1860 München
 [Sa 31.8.]
-  MSV Duisburg            - SV Meppen
-  Hansa Rostock           - Preußen Münster
-  Bayern München II       - SpVgg Unterhaching
-  Hallescher FC           - SG Sonnenhof Großaspach
-  Würzburger Kickers      - FSV Zwickau
-  FC Viktoria Köln        - FC Ingolstadt 04
+  Hansa Rostock           1-0 Preußen Münster
+  Bayern München II       1-2 SpVgg Unterhaching
+  Hallescher FC           4-0 SG Sonnenhof Großaspach
+  Würzburger Kickers      0-2 FSV Zwickau
+  FC Viktoria Köln        3-0 FC Ingolstadt 04
 [So 1.9.]
+  MSV Duisburg            - SV Meppen
   1. FC Kaiserslautern    - Waldhof Mannheim
   KFC Uerdingen 05        - Eintracht Braunschweig
 [Mo 2.9.]

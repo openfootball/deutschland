@@ -75,9 +75,9 @@ Spieltag 5
   Dynamo Dresden          3-3 FC St. Pauli
   SV Wehen Wiesbaden      0-5 Jahn Regensburg
 [So 1.9.]
-  Hamburger SV            - Hannover 96
-  VfL Osnabrück           - Karlsruher SC
-  Holstein Kiel           - Erzgebirge Aue
+  Hamburger SV            3-0 Hannover 96
+  VfL Osnabrück           3-0 Karlsruher SC
+  Holstein Kiel           1-1 Erzgebirge Aue
 [Mo 2.9.]
   VfB Stuttgart           - VfL Bochum
 

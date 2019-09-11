@@ -16,7 +16,6 @@ Spieltag 1
   Eintracht Frankfurt     1-0 TSG Hoffenheim
   1. FC Union Berlin      0-4 RB Leipzig
 
-
 Spieltag 2
 [Fr 23.8.]
   1. FC Köln              1-3 Borussia Dortmund
@@ -31,7 +30,6 @@ Spieltag 2
   RB Leipzig              2-1 Eintracht Frankfurt
   Hertha BSC              0-3 VfL Wolfsburg
 
-
 Spieltag 3
 [Fr 30.8.]
   Bor. Mönchengladbach    1-3 RB Leipzig
@@ -45,7 +43,6 @@ Spieltag 3
 [So 1.9.]
   Werder Bremen           3-2 FC Augsburg
   Eintracht Frankfurt     2-1 Fortuna Düsseldorf
-
 
 Spieltag 4
 [Fr 13.9.]
@@ -108,30 +105,32 @@ Spieltag 7
   Eintracht Frankfurt     - Werder Bremen
 
 Spieltag 8
+[FR 18.10.]
+  Eintracht Frankfurt     - Bayer 04 Leverkusen
 [Sa 19.10.]
   Werder Bremen           - Hertha BSC
   Fortuna Düsseldorf      - 1. FSV Mainz 05
-  1. FC Köln              - SC Paderborn 07
   Borussia Dortmund       - Bor. Mönchengladbach
-  Eintracht Frankfurt     - Bayer 04 Leverkusen
+  RB Leipzig              - VfL Wolfsburg
   1. FC Union Berlin      - SC Freiburg
   FC Augsburg             - Bayern München
+[So 20.10.]
+  1. FC Köln              - SC Paderborn 07
   TSG Hoffenheim          - FC Schalke 04
-  RB Leipzig              - VfL Wolfsburg
-
 
 Spieltag 9
+[Fr 25.10.]
+  1. FSV Mainz 05         - 1. FC Köln
 [Sa 26.10.]
+  Hertha BSC              - TSG Hoffenheim
+  SC Paderborn 07         - Fortuna Düsseldorf
   FC Schalke 04           - Borussia Dortmund
   SC Freiburg             - RB Leipzig
   Bayer 04 Leverkusen     - Werder Bremen
-  Bayern München          - 1. FC Union Berlin
+  Bayern München          - 1. FC Union Berlin  
+[So 27.10.]
   Bor. Mönchengladbach    - Eintracht Frankfurt
   VfL Wolfsburg           - FC Augsburg
-  Hertha BSC              - TSG Hoffenheim
-  1. FSV Mainz 05         - 1. FC Köln
-  SC Paderborn 07         - Fortuna Düsseldorf
-
 
 Spieltag 10
 [Sa 2.11.]

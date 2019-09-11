@@ -94,17 +94,18 @@ Spieltag 6
 
 
 Spieltag 7
+[Fr 4.10.]
+  Hertha BSC              - Fortuna Düsseldorf
 [Sa 5.10.]
   FC Schalke 04           - 1. FC Köln
   SC Freiburg             - Borussia Dortmund
   Bayer 04 Leverkusen     - RB Leipzig
   Bayern München          - TSG Hoffenheim
+  SC Paderborn 07         - 1. FSV Mainz 05
+[So 6.10.]
   Bor. Mönchengladbach    - FC Augsburg
   VfL Wolfsburg           - 1. FC Union Berlin
-  Hertha BSC              - Fortuna Düsseldorf
   Eintracht Frankfurt     - Werder Bremen
-  SC Paderborn 07         - 1. FSV Mainz 05
-
 
 Spieltag 8
 [Sa 19.10.]

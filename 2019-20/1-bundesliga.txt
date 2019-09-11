@@ -133,43 +133,46 @@ Spieltag 9
   VfL Wolfsburg           - FC Augsburg
 
 Spieltag 10
+[Fr 1.11.]
+  TSG Hoffenheim          - SC Paderborn 07
 [Sa 2.11.]
+  RB Leipzig              - 1. FSV Mainz 05
   Werder Bremen           - SC Freiburg
   Bayer 04 Leverkusen     - Bor. Mönchengladbach
-  Fortuna Düsseldorf      - 1. FC Köln
   Borussia Dortmund       - VfL Wolfsburg
   Eintracht Frankfurt     - Bayern München
   1. FC Union Berlin      - Hertha BSC
+[So 3.11.]
+  Fortuna Düsseldorf      - 1. FC Köln
   FC Augsburg             - FC Schalke 04
-  TSG Hoffenheim          - SC Paderborn 07
-  RB Leipzig              - 1. FSV Mainz 05
-
 
 Spieltag 11
+[Fr 8.11.]
+  1. FC Köln              - TSG Hoffenheim
 [Sa 9.11.]
   FC Schalke 04           - Fortuna Düsseldorf
-  SC Freiburg             - Eintracht Frankfurt
-  Bayern München          - Borussia Dortmund
-  Bor. Mönchengladbach    - Werder Bremen
-  1. FC Köln              - TSG Hoffenheim
-  VfL Wolfsburg           - Bayer 04 Leverkusen
+  Bayern München          - Borussia Dortmund  
   Hertha BSC              - RB Leipzig
   1. FSV Mainz 05         - 1. FC Union Berlin
-  SC Paderborn 07         - FC Augsburg
-
+  SC Paderborn 07         - FC Augsburg  
+[So 10.11.]
+  SC Freiburg             - Eintracht Frankfurt
+  VfL Wolfsburg           - Bayer 04 Leverkusen
+  Bor. Mönchengladbach    - Werder Bremen
 
 Spieltag 12
+[Fr 22.11.]
+  Borussia Dortmund       - SC Paderborn 07
 [Sa 23.11.]
+  RB Leipzig              - 1. FC Köln
   Werder Bremen           - FC Schalke 04
   Bayer 04 Leverkusen     - SC Freiburg
   Fortuna Düsseldorf      - Bayern München
-  Borussia Dortmund       - SC Paderborn 07
   Eintracht Frankfurt     - VfL Wolfsburg
   1. FC Union Berlin      - Bor. Mönchengladbach
+[So 24.11.]
   FC Augsburg             - Hertha BSC
   TSG Hoffenheim          - 1. FSV Mainz 05
-  RB Leipzig              - 1. FC Köln
-
 
 Spieltag 13
 [Sa 30.11.]

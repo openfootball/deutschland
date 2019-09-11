@@ -74,7 +74,6 @@ Spieltag 5
 [Mo 23.9.]
   VfL Wolfsburg           - TSG Hoffenheim
 
-
 Spieltag 6
 [Fr 27.9.]
   1. FC Union Berlin      - Eintracht Frankfurt
@@ -88,7 +87,6 @@ Spieltag 6
 [So 29.9.]
   Fortuna Düsseldorf      - SC Freiburg
   1. FC Köln              - Hertha BSC
-
 
 Spieltag 7
 [Fr 4.10.]
@@ -175,17 +173,19 @@ Spieltag 12
   TSG Hoffenheim          - 1. FSV Mainz 05
 
 Spieltag 13
-[Sa 30.11.]
+[Fr 29.11.]
   FC Schalke 04           - 1. FC Union Berlin
-  Bayern München          - Bayer 04 Leverkusen
-  Bor. Mönchengladbach    - SC Freiburg
-  1. FC Köln              - FC Augsburg
+[Sa 30.11.]
   VfL Wolfsburg           - Werder Bremen
+  Bor. Mönchengladbach    - SC Freiburg
+[So 1.12.]
+  Bayern München          - Bayer 04 Leverkusen
+  1. FC Köln              - FC Augsburg
   Hertha BSC              - Borussia Dortmund
-  1. FSV Mainz 05         - Eintracht Frankfurt
   SC Paderborn 07         - RB Leipzig
   TSG Hoffenheim          - Fortuna Düsseldorf
-
+[Mo 2.12.]
+  1. FSV Mainz 05         - Eintracht Frankfurt
 
 Spieltag 14
 [Sa 7.12.]

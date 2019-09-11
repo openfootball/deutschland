@@ -176,14 +176,14 @@ Spieltag 13
 [Fr 29.11.]
   FC Schalke 04           - 1. FC Union Berlin
 [Sa 30.11.]
+  TSG Hoffenheim          - Fortuna Düsseldorf
+  Hertha BSC              - Borussia Dortmund  
+  1. FC Köln              - FC Augsburg
+  SC Paderborn 07         - RB Leipzig
+  Bayern München          - Bayer 04 Leverkusen
+[So 1.12.]
   VfL Wolfsburg           - Werder Bremen
   Bor. Mönchengladbach    - SC Freiburg
-[So 1.12.]
-  Bayern München          - Bayer 04 Leverkusen
-  1. FC Köln              - FC Augsburg
-  Hertha BSC              - Borussia Dortmund
-  SC Paderborn 07         - RB Leipzig
-  TSG Hoffenheim          - Fortuna Düsseldorf
 [Mo 2.12.]
   1. FSV Mainz 05         - Eintracht Frankfurt
 

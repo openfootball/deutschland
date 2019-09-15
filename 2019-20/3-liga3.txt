@@ -122,12 +122,12 @@ Spieltag 8
 [Fr 13.9.]
   1. FC Magdeburg         1-1 MSV Duisburg
 [Sa 14.9.]
-  1860 München            - Carl Zeiss Jena
-  FSV Zwickau             - KFC Uerdingen 05
-  Waldhof Mannheim        - Würzburger Kickers
-  SV Meppen               - 1. FC Kaiserslautern
-  Preußen Münster         - FC Viktoria Köln
-  SG Sonnenhof Großaspach - Bayern München II
+  1860 München            3-1 Carl Zeiss Jena
+  FSV Zwickau             1-2 KFC Uerdingen 05
+  Waldhof Mannheim        1-2 Würzburger Kickers
+  SV Meppen               6-1 1. FC Kaiserslautern
+  Preußen Münster         2-3 FC Viktoria Köln
+  SG Sonnenhof Großaspach 2-2 Bayern München II
 [So 15.9.]
   FC Ingolstadt 04        - Hallescher FC
   Eintracht Braunschweig  - Hansa Rostock

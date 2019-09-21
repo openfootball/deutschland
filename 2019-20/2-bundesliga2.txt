@@ -3,169 +3,178 @@
 
 
 Spieltag 1
-[Fr 26.7.]
+[Fr. 26.7.]
   VfB Stuttgart           2-1 Hannover 96
-[Sa 27.7.]
+[Sa. 27.7.]
   Dynamo Dresden          0-1 1. FC Nürnberg
   VfL Osnabrück           1-3 1. FC Heidenheim
   Holstein Kiel           1-1 SV Sandhausen
-[So 28.7.]
+[So. 28.7.]
   Hamburger SV            1-1 SV Darmstadt 98
   SpVgg Greuther Fürth    0-2 Erzgebirge Aue
   SV Wehen Wiesbaden      1-2 Karlsruher SC
   Jahn Regensburg         3-1 VfL Bochum
-[Mo 29.7.]
+[Mo. 29.7.]
   Arminia Bielefeld       1-1 FC St. Pauli
 
 
 Spieltag 2
-[Fr 2.8.]
+[Fr. 2.8.]
   VfL Bochum              3-3 Arminia Bielefeld
   SV Sandhausen           0-1 VfL Osnabrück
   FC St. Pauli            1-3 SpVgg Greuther Fürth
-[Sa 3.8.]
+[Sa. 3.8.]
   Karlsruher SC           4-2 Dynamo Dresden
   Hannover 96             1-1 Jahn Regensburg
-[So 4.8.]
+[So. 4.8.]
   1. FC Heidenheim        2-2 VfB Stuttgart
   Erzgebirge Aue          3-2 SV Wehen Wiesbaden
   SV Darmstadt 98         2-0 Holstein Kiel
-[Mo 5.8.]
+[Mo. 5.8.]
   1. FC Nürnberg          0-4 Hamburger SV               
 
 
 Spieltag 3
-[Fr 16.8.]
+[Fr. 16.8.]
   Hamburger SV            1-0 VfL Bochum                
   SV Sandhausen           3-2 1. FC Nürnberg
-[Sa 17.8.]
+[Sa. 17.8.]
   Arminia Bielefeld       3-1 Erzgebirge Aue
   VfB Stuttgart           2-1 FC St. Pauli
   SV Wehen Wiesbaden      0-3 Hannover 96
-[So 18.8.]
+[So. 18.8.]
   Dynamo Dresden          2-1 1. FC Heidenheim
   SpVgg Greuther Fürth    1-0 Jahn Regensburg
   Holstein Kiel           2-1 Karlsruher SC
-[Mo 19.8.]
+[Mo. 19.8.]
   VfL Osnabrück           4-0 SV Darmstadt 98
 
 
 Spieltag 4
-[Fr 23.8.]
+[Fr. 23.8.]
   Erzgebirge Aue          0-0 VfB Stuttgart
   SV Darmstadt 98         0-0 Dynamo Dresden
-[Sa 24.8.]
+[Sa. 24.8.]
   VfL Bochum              3-3 SV Wehen Wiesbaden
   Hannover 96             1-1 SpVgg Greuther Fürth
   Jahn Regensburg         1-3 Arminia Bielefeld
-[So 25.8.]
+[So. 25.8.]
   Karlsruher SC           2-4 Hamburger SV                  
   1. FC Nürnberg          1-0 VfL Osnabrück
   1. FC Heidenheim        0-2 SV Sandhausen
-[Mo 26.8.]
+[Mo. 26.8.]
   FC St. Pauli            2-1 Holstein Kiel
 
 
 Spieltag 5
-[Fr 30.8.]
+[Fr. 30.8.]
   1. FC Nürnberg          2-2 1. FC Heidenheim
   SV Sandhausen           1-0 SV Darmstadt 98
-[Sa 31.8.]
+[Sa. 31.8.]
   Arminia Bielefeld       2-2 SpVgg Greuther Fürth
   Dynamo Dresden          3-3 FC St. Pauli
   SV Wehen Wiesbaden      0-5 Jahn Regensburg
-[So 1.9.]
+[So. 1.9.]
   Hamburger SV            3-0 Hannover 96
   VfL Osnabrück           3-0 Karlsruher SC
   Holstein Kiel           1-1 Erzgebirge Aue
-[Mo 2.9.]
+[Mo. 2.9.]
   VfB Stuttgart           2-1 VfL Bochum
 
 
 Spieltag 6
-[Fr 13.9.]
+[Fr. 13.9.]
   Karlsruher SC           1-0 SV Sandhausen
   SpVgg Greuther Fürth    2-1 SV Wehen Wiesbaden
-[Sa 14.9.]
+[Sa. 14.9.]
   Hannover 96             0-2 Arminia Bielefeld
   Jahn Regensburg         2-3 VfB Stuttgart
   1. FC Heidenheim        3-0 Holstein Kiel
-[So 15.9.]
+[So. 15.9.]
   VfL Bochum              2-2 Dynamo Dresden
   Erzgebirge Aue          1-0 VfL Osnabrück
   SV Darmstadt 98         3-3 1. FC Nürnberg
-[Mo 16.9.]
+[Mo. 16.9.]
   FC St. Pauli            2-0 Hamburger SV
 
 
 Spieltag 7
-[Fr 20.9.]
+[Fr. 20.9.]
   Holstein Kiel           1-2 Hannover 96
   1. FC Heidenheim        1-0 SV Darmstadt 98
-[Sa 21.9.]
+[Sa. 21.9.]
   VfB Stuttgart           - SpVgg Greuther Fürth
   1. FC Nürnberg          - Karlsruher SC
   SV Wehen Wiesbaden      - Arminia Bielefeld
   SV Sandhausen           - VfL Bochum
-[So 22.9.]
+[So. 22.9.]
   Hamburger SV            - Erzgebirge Aue
   VfL Osnabrück           - FC St. Pauli
   Dynamo Dresden          - Jahn Regensburg
 
 
 Spieltag 8
-[Fr 27.9.]
+[Fr. 27.9.]
   Arminia Bielefeld       - VfB Stuttgart
   SV Wehen Wiesbaden      - VfL Osnabrück
-[Sa 28.9.]
+[Sa. 28.9.]
   Karlsruher SC           - 1. FC Heidenheim
   VfL Bochum              - SV Darmstadt 98
   Jahn Regensburg         - Hamburger SV
-[So 29.9.]
+[So. 29.9.]
   FC St. Pauli            - SV Sandhausen
   Erzgebirge Aue          - Dynamo Dresden
   SpVgg Greuther Fürth    - Holstein Kiel
-[Mo 30.9.]
+[Mo. 30.9.]
   Hannover 96             - 1. FC Nürnberg
 
 
 Spieltag 9
-[So 6.10.]
+[Fr. 4.10.]
   VfB Stuttgart           - SV Wehen Wiesbaden
-  Hamburger SV            - SpVgg Greuther Fürth
-  VfL Osnabrück           - Arminia Bielefeld
-  Dynamo Dresden          - Hannover 96
-  1. FC Nürnberg          - FC St. Pauli
   SV Darmstadt 98         - Karlsruher SC
-  Holstein Kiel           - Jahn Regensburg
+[Sa. 5.10.]
   SV Sandhausen           - Erzgebirge Aue
+  Dynamo Dresden          - Hannover 96
+  Hamburger SV            - SpVgg Greuther Fürth
+[So. 6.10.]
+  1. FC Nürnberg          - FC St. Pauli
+  Holstein Kiel           - Jahn Regensburg
   1. FC Heidenheim        - VfL Bochum
+[Mo. 7.10.]
+  VfL Osnabrück           - Arminia Bielefeld
 
 
 Spieltag 10
-[So 20.10.]
-  VfL Bochum              - Karlsruher SC
-  Arminia Bielefeld       - Hamburger SV
-  VfB Stuttgart           - Holstein Kiel
-  FC St. Pauli            - SV Darmstadt 98
-  Hannover 96             - VfL Osnabrück
+[Fr. 18.10.]
   Erzgebirge Aue          - 1. FC Nürnberg
   SpVgg Greuther Fürth    - Dynamo Dresden
+[Sa. 19.10.]
+  FC St. Pauli            - SV Darmstadt 98
   SV Wehen Wiesbaden      - 1. FC Heidenheim
   Jahn Regensburg         - SV Sandhausen
-
+[So. 20.10.]
+  VfL Bochum              - Karlsruher SC
+  VfB Stuttgart           - Holstein Kiel
+  Hannover 96             - VfL Osnabrück
+[Mo. 21.10.]
+  Arminia Bielefeld       - Hamburger SV
+ 
 
 Spieltag 11
-[So 27.10.]
-  Karlsruher SC           - Hannover 96
-  Hamburger SV            - VfB Stuttgart
-  VfL Osnabrück           - SpVgg Greuther Fürth
-  Dynamo Dresden          - Arminia Bielefeld
-  1. FC Nürnberg          - Jahn Regensburg
+[Fr. 25.10.]
   SV Darmstadt 98         - Erzgebirge Aue
   Holstein Kiel           - VfL Bochum
-  SV Sandhausen           - SV Wehen Wiesbaden
+[Sa. 26.10.]
+ Dynamo Dresden          - Arminia Bielefeld
+ Karlsruher SC           - Hannover 96
+  Hamburger SV            - VfB Stuttgart
+[So. 27.10.]
+  VfL Osnabrück           - SpVgg Greuther Fürth
+  1. FC Nürnberg          - Jahn Regensburg
   1. FC Heidenheim        - FC St. Pauli
+[Mo. 28.10.]
+  SV Sandhausen           - SV Wehen Wiesbaden
 
 
 Spieltag 12

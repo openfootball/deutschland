@@ -178,52 +178,63 @@ Spieltag 11
 
 
 Spieltag 12
-[So 3.11.]
-  VfL Bochum              - 1. FC Nürnberg
-  Arminia Bielefeld       - Holstein Kiel
-  VfB Stuttgart           - Dynamo Dresden
-  FC St. Pauli            - Karlsruher SC
+[Fr. 1.11.]
   Hannover 96             - SV Sandhausen
+  Jahn Regensburg         - VfL Osnabrück
+[Sa. 2.11.]
+  FC St. Pauli            - Karlsruher SC
   Erzgebirge Aue          - 1. FC Heidenheim
   SpVgg Greuther Fürth    - SV Darmstadt 98
+[So. 3.11.]
+  Arminia Bielefeld       - Holstein Kiel
+  VfB Stuttgart           - Dynamo Dresden
   SV Wehen Wiesbaden      - Hamburger SV
-  Jahn Regensburg         - VfL Osnabrück
+[Mo. 4.11.]
+  VfL Bochum              - 1. FC Nürnberg
 
 
 Spieltag 13
-[So 10.11.]
-  Karlsruher SC           - Erzgebirge Aue
+[Fr. 8.11.]
   FC St. Pauli            - VfL Bochum
-  VfL Osnabrück           - VfB Stuttgart
   Dynamo Dresden          - SV Wehen Wiesbaden
-  1. FC Nürnberg          - Arminia Bielefeld
-  SV Darmstadt 98         - Jahn Regensburg
+[Sa. 9.11.]
+  VfL Osnabrück           - VfB Stuttgart
   Holstein Kiel           - Hamburger SV
   SV Sandhausen           - SpVgg Greuther Fürth
+[So. 10.11.]
+  1. FC Nürnberg          - Arminia Bielefeld
+  SV Darmstadt 98         - Jahn Regensburg
   1. FC Heidenheim        - Hannover 96
+[Mo. 11.11.]
+  Karlsruher SC           - Erzgebirge Aue
 
 
 Spieltag 14
-[So 24.11.]
+[Fr. 22.11.]
   VfL Bochum              - VfL Osnabrück
-  Arminia Bielefeld       - SV Sandhausen
-  VfB Stuttgart           - Karlsruher SC
-  Hamburger SV            - Dynamo Dresden
-  Hannover 96             - SV Darmstadt 98
   Erzgebirge Aue          - FC St. Pauli
-  SpVgg Greuther Fürth    - 1. FC Nürnberg
+[Sa. 23.11.]
+  Arminia Bielefeld       - SV Sandhausen
+  Hamburger SV            - Dynamo Dresden
   SV Wehen Wiesbaden      - Holstein Kiel
+[So. 24.11.]
+  VfB Stuttgart           - Karlsruher SC
+  SpVgg Greuther Fürth    - 1. FC Nürnberg
   Jahn Regensburg         - 1. FC Heidenheim
-
-
+[Mo. 25.11.]
+  Hannover 96             - SV Darmstadt 98
+  
+  
 Spieltag 15
-[So 1.12.]
+[Fr. 29.11.]
   Karlsruher SC           - Jahn Regensburg
   VfL Bochum              - Erzgebirge Aue
+[Sa. 30.11.]
   FC St. Pauli            - Hannover 96
   VfL Osnabrück           - Hamburger SV
   Dynamo Dresden          - Holstein Kiel
   1. FC Nürnberg          - SV Wehen Wiesbaden
+[So 1.12.]
   SV Darmstadt 98         - Arminia Bielefeld
   SV Sandhausen           - VfB Stuttgart
   1. FC Heidenheim        - SpVgg Greuther Fürth

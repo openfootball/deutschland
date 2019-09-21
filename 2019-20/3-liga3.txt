@@ -221,61 +221,73 @@ Spieltag 13
 
 
 Spieltag 14
-[Sa 2.11.]
-  MSV Duisburg            - KFC Uerdingen 05
-  1860 München            - FC Viktoria Köln
+[Fr. 1.11.]
   FSV Zwickau             - SG Sonnenhof Großaspach
+[Sa. 2.11.]
+  1860 München            - FC Viktoria Köln
   Waldhof Mannheim        - SpVgg Unterhaching
-  SV Meppen               - Bayern München II
-  Carl Zeiss Jena         - Hansa Rostock
   1. FC Kaiserslautern    - Würzburger Kickers
   Eintracht Braunschweig  - FC Ingolstadt 04
   Preußen Münster         - Chemnitzer FC
   1. FC Magdeburg         - Hallescher FC
-
-
+[So. 3.11.]
+  SV Meppen               - Bayern München II
+  Carl Zeiss Jena         - Hansa Rostock
+[Mo. 4.11.]
+  MSV Duisburg            - KFC Uerdingen 05
+  
+  
 Spieltag 15
-[Sa 9.11.]
+[Fr. 8.11.]
+  FC Viktoria Köln        - Carl Zeiss Jena
+[Sa. 9.11.]
   Hansa Rostock           - MSV Duisburg
   KFC Uerdingen 05        - 1. FC Kaiserslautern
   SpVgg Unterhaching      - SV Meppen
-  Chemnitzer FC           - Würzburger Kickers
-  Bayern München II       - 1. FC Magdeburg
-  Preußen Münster         - Eintracht Braunschweig
   Hallescher FC           - 1860 München
   SG Sonnenhof Großaspach - Waldhof Mannheim
   FC Ingolstadt 04        - FSV Zwickau
-  FC Viktoria Köln        - Carl Zeiss Jena
+[So. 10.11.]
+  Chemnitzer FC           - Würzburger Kickers
+  Bayern München II       - 1. FC Magdeburg
+[Mo. 11.11.]
+  Preußen Münster         - Eintracht Braunschweig
 
 
 Spieltag 16
-[Sa 23.11.]
-  MSV Duisburg            - FC Viktoria Köln
-  1860 München            - Bayern München II
+[Fr. 22.11.]
+  Carl Zeiss Jena         - Hallescher FC
+[Sa. 23.11.]
   FSV Zwickau             - Preußen Münster
   Waldhof Mannheim        - FC Ingolstadt 04
   SV Meppen               - SG Sonnenhof Großaspach
-  Carl Zeiss Jena         - Hallescher FC
-  1. FC Kaiserslautern    - Hansa Rostock
   Eintracht Braunschweig  - Chemnitzer FC
   1. FC Magdeburg         - SpVgg Unterhaching
   Würzburger Kickers      - KFC Uerdingen 05
-
-
+[So. 24.11.]
+  1860 München            - Bayern München II
+  1. FC Kaiserslautern    - Hansa Rostock
+[Mo. 25.11.]
+  MSV Duisburg            - FC Viktoria Köln
+  
+  
 Spieltag 17
-[Sa 30.11.]
-  Hansa Rostock           - Würzburger Kickers
-  SpVgg Unterhaching      - 1860 München
-  Eintracht Braunschweig  - FSV Zwickau
-  Chemnitzer FC           - KFC Uerdingen 05
+[Fr. 29.11.]
   Bayern München II       - Carl Zeiss Jena
+[Sa. 30.11.]
+  Hansa Rostock           - Würzburger Kickers
+  Chemnitzer FC           - KFC Uerdingen 05
   Preußen Münster         - Waldhof Mannheim
   Hallescher FC           - MSV Duisburg
   SG Sonnenhof Großaspach - 1. FC Magdeburg
-  FC Ingolstadt 04        - SV Meppen
   FC Viktoria Köln        - 1. FC Kaiserslautern
-
-
+[So. 1.12.]
+  FC Ingolstadt 04        - SV Meppen
+  SpVgg Unterhaching      - 1860 München
+ [Mo. 2.12.]
+  Eintracht Braunschweig  - FSV Zwickau
+  
+  
 Spieltag 18
 [Sa 7.12.]
   MSV Duisburg            - Bayern München II

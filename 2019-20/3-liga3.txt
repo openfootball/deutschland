@@ -111,7 +111,7 @@ Spieltag 7
   Würzburger Kickers      0-2 FSV Zwickau
   FC Viktoria Köln        3-0 FC Ingolstadt 04
 [So. 1.9.]
-  MSV Duisburg            - SV Meppen                Termin verschoben  Stadiondach teilweise eingestürzt.
+  MSV Duisburg            - SV Meppen                2.10.
   1. FC Kaiserslautern    1-1 Waldhof Mannheim
   KFC Uerdingen 05        1-2 Eintracht Braunschweig
 [Mo. 2.9.]
@@ -169,6 +169,11 @@ Spieltag 10
   FC Ingolstadt 04        - SpVgg Unterhaching
 
 
+# Nachtrag Spieltag 7
+[Mi. 2.10.]
+  MSV Duisburg            - SV Meppen
+  
+  
 Spieltag 11
 [Fr. 4.10.]
   KFC Uerdingen 05        - 1. FC Magdeburg

@@ -156,12 +156,12 @@ Spieltag 10
 [Fr. 27.9.]
   1. FC Magdeburg         3-0 Würzburger Kickers
 [Sa. 28.9.]
-  1860 München            - 1. FC Kaiserslautern
-  FSV Zwickau             - FC Viktoria Köln
-  Carl Zeiss Jena         - MSV Duisburg
-  Eintracht Braunschweig  - Hallescher FC
-  Preußen Münster         - Bayern München II
-  SG Sonnenhof Großaspach - Chemnitzer FC
+  1860 München            3-1 1. FC Kaiserslautern
+  FSV Zwickau             4-0 FC Viktoria Köln
+  Carl Zeiss Jena         1-2 MSV Duisburg
+  Eintracht Braunschweig  1-1 Hallescher FC
+  Preußen Münster         1-4 Bayern München II
+  SG Sonnenhof Großaspach 2-0 Chemnitzer FC
 [So. 29.9.]
   Waldhof Mannheim        - Hansa Rostock
   SV Meppen               - KFC Uerdingen 05

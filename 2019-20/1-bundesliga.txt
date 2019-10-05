@@ -92,10 +92,10 @@ Spieltag 7
 [Fr. 4.10.]
   Hertha BSC              3-1 Fortuna Düsseldorf
 [Sa. 5.10.]
-  FC Schalke 04           - 1. FC Köln
-  SC Freiburg             - Borussia Dortmund
-  Bayer 04 Leverkusen     - RB Leipzig
-  Bayern München          - TSG Hoffenheim
+  FC Schalke 04           1-1 1. FC Köln
+  SC Freiburg             2-2 Borussia Dortmund
+  Bayer 04 Leverkusen     1-1 RB Leipzig
+  Bayern München          1-2 TSG Hoffenheim
   SC Paderborn 07         - 1. FSV Mainz 05
 [So. 6.10.]
   Bor. Mönchengladbach    - FC Augsburg

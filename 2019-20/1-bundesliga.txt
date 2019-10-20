@@ -106,12 +106,12 @@ Spieltag 8
 [Fr. 18.10.]
   Eintracht Frankfurt     3-0 Bayer 04 Leverkusen
 [Sa. 19.10.]
-  Werder Bremen           - Hertha BSC
-  Fortuna Düsseldorf      - 1. FSV Mainz 05
-  Borussia Dortmund       - Bor. Mönchengladbach
-  RB Leipzig              - VfL Wolfsburg
-  1. FC Union Berlin      - SC Freiburg
-  FC Augsburg             - Bayern München
+  Werder Bremen           1-1 Hertha BSC
+  Fortuna Düsseldorf      1-0 1. FSV Mainz 05
+  Borussia Dortmund       1-0 Bor. Mönchengladbach
+  RB Leipzig              1-1 VfL Wolfsburg
+  1. FC Union Berlin      2-0 SC Freiburg
+  FC Augsburg             2-2 Bayern München
 [So. 20.10.]
   1. FC Köln              - SC Paderborn 07
   TSG Hoffenheim          - FC Schalke 04

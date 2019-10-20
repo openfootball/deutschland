@@ -195,12 +195,12 @@ Spieltag 12
 [Fr. 18.10.]
   MSV Duisburg            3-1 1. FC Kaiserslautern
 [Sa. 19.10.]
-  1860 München            - KFC Uerdingen 05
-  Waldhof Mannheim        - Hallescher FC
-  Eintracht Braunschweig  - SpVgg Unterhaching
-  Preußen Münster         - SG Sonnenhof Großaspach
-  1. FC Magdeburg         - Hansa Rostock
-  FC Ingolstadt 04        - Chemnitzer FC
+  1860 München            0-1 KFC Uerdingen 05
+  Waldhof Mannheim        0-4 Hallescher FC
+  Eintracht Braunschweig  0-0 SpVgg Unterhaching
+  Preußen Münster         1-1 SG Sonnenhof Großaspach
+  1. FC Magdeburg         0-1 Hansa Rostock
+  FC Ingolstadt 04        1-1 Chemnitzer FC
 [So. 20.10.]
   Carl Zeiss Jena         - Würzburger Kickers
   FSV Zwickau             - Bayern München II

@@ -1,5 +1,4 @@
-###################################
-# Deutsche Bundesliga 2019/20
+= Deutsche Bundesliga 2019/20
 
 
 Spieltag 1
@@ -125,7 +124,7 @@ Spieltag 9
   FC Schalke 04           - Borussia Dortmund
   SC Freiburg             - RB Leipzig
   Bayer 04 Leverkusen     - Werder Bremen
-  Bayern München          - 1. FC Union Berlin  
+  Bayern München          - 1. FC Union Berlin
 [So. 27.10.]
   Bor. Mönchengladbach    - Eintracht Frankfurt
   VfL Wolfsburg           - FC Augsburg
@@ -149,10 +148,10 @@ Spieltag 11
   1. FC Köln              - TSG Hoffenheim
 [Sa. 9.11.]
   FC Schalke 04           - Fortuna Düsseldorf
-  Bayern München          - Borussia Dortmund  
+  Bayern München          - Borussia Dortmund
   Hertha BSC              - RB Leipzig
   1. FSV Mainz 05         - 1. FC Union Berlin
-  SC Paderborn 07         - FC Augsburg  
+  SC Paderborn 07         - FC Augsburg
 [So. 10.11.]
   SC Freiburg             - Eintracht Frankfurt
   VfL Wolfsburg           - Bayer 04 Leverkusen
@@ -177,7 +176,7 @@ Spieltag 13
   FC Schalke 04           - 1. FC Union Berlin
 [Sa. 30.11.]
   TSG Hoffenheim          - Fortuna Düsseldorf
-  Hertha BSC              - Borussia Dortmund  
+  Hertha BSC              - Borussia Dortmund
   1. FC Köln              - FC Augsburg
   SC Paderborn 07         - RB Leipzig
   Bayern München          - Bayer 04 Leverkusen

@@ -23,16 +23,8 @@ National club leagues and cup tournaments include:
 
 Example:
 
-~~~
-### Deutsche Bundesliga Teams
-
-bayern,      FC Bayern München|Bayern München,  1900,  FCB
-dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
-...
-~~~
-
-~~~
-### Deutsche Bundesliga
+```
+= Deutsche Bundesliga
 
 1. Spieltag
 
@@ -49,11 +41,10 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
   15.30  SC Paderborn 07       -  1. FSV Mainz 05
   17.30  Bor. Mönchengladbach  -  VfB Stuttgart
 ...
-~~~
+```
 
-~~~
-###############################
-# Bayern München
+```
+= Bayern München
 
  1  Manuel Neuer                GK  2011-
 22  Tom Starke                  GK  2012-
@@ -81,7 +72,8 @@ dortmund,    Borussia Dortmund|Bor. Dortmund,   1909,  BVB
  9  Robert Lewandowski (POL)    FW  2014-
 14  Claudio Pizarro (PER)       FW  2012-
 25  Thomas Müller               FW  2000-
-~~~
+```
+
 
 ## Build Your Own `deutschland.db` Copy
 
@@ -95,9 +87,9 @@ Build the database for all German clubs, leagues and seasons:
 
     $ sportdb new de
 
-Build the database for the 2017/18 season:
+Build the database for the 2019/20 season:
 
-    $ sportdb new de2017-18
+    $ sportdb new de2019-20
 
 
 

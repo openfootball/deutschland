@@ -1,5 +1,4 @@
-###################################
-# Deutsche 3. Liga 2019/20
+= Deutsche 3. Liga 2019/20
 
 
 Spieltag 1
@@ -111,7 +110,7 @@ Spieltag 7
   Würzburger Kickers      0-2 FSV Zwickau
   FC Viktoria Köln        3-0 FC Ingolstadt 04
 [So. 1.9.]
-  MSV Duisburg            1-3 SV Meppen               
+  MSV Duisburg            1-3 SV Meppen
   1. FC Kaiserslautern    1-1 Waldhof Mannheim
   KFC Uerdingen 05        1-2 Eintracht Braunschweig
 [Mo. 2.9.]
@@ -172,8 +171,8 @@ Spieltag 10
 # Spieltag 7
 [Mi. 2.10.]
   MSV Duisburg            1-3 SV Meppen
-  
-  
+
+
 Spieltag 11
 [Fr. 4.10.]
   KFC Uerdingen 05        0-0 1. FC Magdeburg
@@ -189,8 +188,8 @@ Spieltag 11
   Bayern München II       2-0 Eintracht Braunschweig
 [Mo. 7.10.]
  Würzburger Kickers       2-1 1860 München
- 
- 
+
+
 Spieltag 12
 [Fr. 18.10.]
   MSV Duisburg            3-1 1. FC Kaiserslautern
@@ -206,8 +205,8 @@ Spieltag 12
   FSV Zwickau             3-0 Bayern München II
 [Mo. 21.10.]
   SV Meppen               - FC Viktoria Köln
-  
-  
+
+
 Spieltag 13
 [Fr. 25.10.]
   FC Viktoria Köln        - 1. FC Magdeburg
@@ -240,8 +239,8 @@ Spieltag 14
   Carl Zeiss Jena         - Hansa Rostock
 [Mo. 4.11.]
   MSV Duisburg            - KFC Uerdingen 05
-  
-  
+
+
 Spieltag 15
 [Fr. 8.11.]
   FC Viktoria Köln        - Carl Zeiss Jena
@@ -274,8 +273,8 @@ Spieltag 16
   1. FC Kaiserslautern    - Hansa Rostock
 [Mo. 25.11.]
   MSV Duisburg            - FC Viktoria Köln
-  
-  
+
+
 Spieltag 17
 [Fr. 29.11.]
   Bayern München II       - Carl Zeiss Jena
@@ -291,8 +290,8 @@ Spieltag 17
   SpVgg Unterhaching      - 1860 München
  [Mo. 2.12.]
   Eintracht Braunschweig  - FSV Zwickau
-  
-  
+
+
 Spieltag 18
 [Sa 7.12.]
   MSV Duisburg            - Bayern München II

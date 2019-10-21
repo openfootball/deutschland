@@ -1,5 +1,4 @@
-###################################
-# Deutsche Bundesliga 2018/19
+= Deutsche Bundesliga 2018/19
 
 
 Spieltag 1
@@ -131,7 +130,7 @@ Spieltag 9
   RB Leipzig              0-0 FC Schalke 04
   Werder Bremen           2-6 Bayer Leverkusen
   1. FC Nürnberg          1-1 Eintracht Frankfurt
-  
+
 Spieltag 10
 [Fr 2.11.]
   VfB Stuttgart           0-3 Eintracht Frankfurt
@@ -145,7 +144,7 @@ Spieltag 10
 [So 4.11.]
   Bor. Mönchengladbach    3-0 Fortuna Düsseldorf
   1. FSV Mainz 05         2-1 Werder Bremen
-  
+
 Spieltag 11
 [Fr 9.11.]
   Hannover 96             2-1 VfL Wolfsburg
@@ -188,7 +187,7 @@ Spieltag 13
   Eintracht Frankfurt     1-2 VfL Wolfsburg
 [Mo 3.12.]
   1. FC Nürnberg          1-1 Bayer Leverkusen
-  
+
 Spieltag 14
 [Fr 7.12.]
   Werder Bremen           3-1 Fortuna Düsseldorf
@@ -213,10 +212,10 @@ Spieltag 15
   FC Augsburg             1-1 FC Schalke 04
   Hannover 96             0-4 Bayern München
   Fortuna Düsseldorf      2-0 SC Freiburg
-[So 16.12.]  
+[So 16.12.]
   RB Leipzig              4-1 1. FSV Mainz 05
   Eintracht Frankfurt     2-1 Bayer Leverkusen
-  
+
 Spieltag 16
 [Di 18.12.]
   Bor. Mönchengladbach    2-0 1. FC Nürnberg
@@ -229,7 +228,7 @@ Spieltag 16
   Werder Bremen           1-1 1899 Hoffenheim
   SC Freiburg             1-1 Hannover 96
   1. FSV Mainz 05         2-2 Eintracht Frankfurt
-  
+
 Spieltag 17
 [Fr 21.12.]
   Borussia Dortmund       2-1 Bor. Mönchengladbach
@@ -243,7 +242,7 @@ Spieltag 17
 [So 23.12.]
   1899 Hoffenheim         1-1 1. FSV Mainz 05
   FC Augsburg             2-3 VfL Wolfsburg
-  
+
 # Winterpause bis Fr. 18.1.2019
 
 Spieltag 18
@@ -304,8 +303,8 @@ Spieltag 21
 [So 10.2.]
   Werder Bremen           4-0 FC Augsburg
   Fortuna Düsseldorf      3-0 VfB Stuttgart
-  
-  
+
+
 Spieltag 22
 [Fr 15.2.]
   FC Augsburg             2-3 Bayern München
@@ -320,8 +319,8 @@ Spieltag 22
   Bayer Leverkusen        2-0 Fortuna Düsseldorf
 [Mo 18.2.]
   1. FC Nürnberg          0-0 Borussia Dortmund
-  
-  
+
+
 Spieltag 23
 [Fr 22.2.]
   Werder Bremen           1-1 VfB Stuttgart
@@ -336,8 +335,8 @@ Spieltag 23
   Hannover 96             0-3 Eintracht Frankfurt
 [Mo 25.2.]
   RB Leipzig              1-1 1899 Hoffenheim
-  
-  
+
+
 Spieltag 24
 [Fr 1.3.]
   FC Augsburg             2-1 Borussia Dortmund
@@ -367,8 +366,8 @@ Spieltag 25
   Hannover 96             2-3 Bayer Leverkusen
 [Mo 11.3.]
   Fortuna Düsseldorf      0-3 Eintracht Frankfurt
-  
-  
+
+
 Spieltag 26
 [Fr 15.3.]
   Bor. Mönchengladbach    1-1 SC Freiburg
@@ -382,8 +381,8 @@ Spieltag 26
   Bayer Leverkusen        1-3 Werder Bremen
   Eintracht Frankfurt     1-0 1. FC Nürnberg
   Bayern München          6-0 1. FSV Mainz 05
-  
-  
+
+
 Spieltag 27
 [Fr 29.3.]
   1899 Hoffenheim         4-1 Bayer Leverkusen
@@ -412,7 +411,7 @@ Spieltag 28
 [So 7.4.]
   FC Augsburg             0-4 1899 Hoffenheim
   Bor. Mönchengladbach    1-1 Werder Bremen
-  
+
 Spieltag 29
 [Fr 12.4.]
   1. FC Nürnberg          1-1 FC Schalke 04
@@ -435,10 +434,10 @@ Spieltag 30
   1. FSV Mainz 05         3-1 Fortuna Düsseldorf
   Bor. Mönchengladbach    1-2 RB Leipzig
   FC Schalke 04           2-5 1899 Hoffenheim
-[So 21.4.]  
+[So 21.4.]
   SC Freiburg             0-4 Borussia Dortmund
   Hertha BSC              0-0 Hannover 96
-[Mo 22.4.]  
+[Mo 22.4.]
   VfL Wolfsburg           1-1 Eintracht Frankfurt
 
 Spieltag 31
@@ -468,7 +467,7 @@ Spieltag 32
   FC Schalke 04           0-0 FC Augsburg
   SC Freiburg             1-1 Fortuna Düsseldorf
   Bayer Leverkusen        6-1 Eintracht Frankfurt
- 
+
 Spieltag 33
 [Sa 11.5.]
   RB Leipzig              0-0 Bayern München
@@ -484,12 +483,12 @@ Spieltag 33
 
 
 # 1. Aufsteiger 1. Bundesliga 2019/20:
-  1. FC Köln
+#  1. FC Köln
 
 # Absteiger 1. Bundesliga 2018/19:
-  1. FC Nürnberg
-  Hannover 96
- 
+#  1. FC Nürnberg
+#  Hannover 96
+
 
 
 Spieltag 34
@@ -506,24 +505,25 @@ Spieltag 34
 
 
 # Meister 1. Bundesliga 2018/19:
-  Bayern München
+#  Bayern München
 
 # 2. Aufsteiger 1. Bundesliga 2019/20:
-  SC Paderborn 07 
-  
+#  SC Paderborn 07
+
+__END__
 # Play-off um 1. Bundesligaplatz 2019/20:
-[Do 23.5.]  
+[Do 23.5.]
   VfB Stuttgart          2-2 1. FC Union Berlin
 [Mo 27.5.]
   1. FC Union Berlin     0-0 VfB Stuttgart
- 
+
 # Play-off Sieger in 1. Bundesliga 2019/20:
   1. FC Union Berlin
 
 # Play-off Verlierer in 2. Bundesliga 2019/20:
   VfB Stuttgart
-  
-  
+
+
 # Ende 1. Bundesliga 2018/19
 
 # 16.8. Start 1. Bundesliga 2019/20

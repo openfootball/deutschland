@@ -1,5 +1,4 @@
-##############################
-# Deutsche Bundesliga 2012/13 
+= Deutsche Bundesliga 2012/13 
 
 
 1. Spieltag

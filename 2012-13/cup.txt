@@ -1,5 +1,4 @@
-########################
-# DFB Pokal 2012/13
+= DFB Pokal 2012/13
 
 
 (1) Achtelfinale

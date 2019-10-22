@@ -157,7 +157,7 @@ Spieltag 10
   VfB Stuttgart           0-1 Holstein Kiel
   Hannover 96             0-0 VfL Osnabrück
 [Mo. 21.10.]
-  Arminia Bielefeld       - Hamburger SV
+  Arminia Bielefeld       1-1 Hamburger SV
 
 
 Spieltag 11
@@ -165,8 +165,8 @@ Spieltag 11
   SV Darmstadt 98         - Erzgebirge Aue
   Holstein Kiel           - VfL Bochum
 [Sa. 26.10.]
- Dynamo Dresden          - Arminia Bielefeld
- Karlsruher SC           - Hannover 96
+  Dynamo Dresden          - Arminia Bielefeld
+  Karlsruher SC           - Hannover 96
   Hamburger SV            - VfB Stuttgart
 [So. 27.10.]
   VfL Osnabrück           - SpVgg Greuther Fürth

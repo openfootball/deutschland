@@ -211,12 +211,12 @@ Spieltag 13
 [Fr. 25.10.]
   FC Viktoria Köln        1-1 1. FC Magdeburg
 [Sa. 26.10.]
-  Hansa Rostock           - 1860 München
-  KFC Uerdingen 05        - Carl Zeiss Jena
-  SpVgg Unterhaching      - FSV Zwickau
-  Hallescher FC           - SV Meppen
-  Würzburger Kickers      - MSV Duisburg
-  FC Ingolstadt 04        - Preußen Münster
+  Hansa Rostock           2-1 1860 München
+  KFC Uerdingen 05        2-0 Carl Zeiss Jena
+  SpVgg Unterhaching      0-0 FSV Zwickau
+  Hallescher FC           3-3 SV Meppen
+  Würzburger Kickers      0-2 MSV Duisburg
+  FC Ingolstadt 04        3-2 Preußen Münster
 [So. 27.10.]
   SG Sonnenhof Großaspach - Eintracht Braunschweig
   Chemnitzer FC           - 1. FC Kaiserslautern

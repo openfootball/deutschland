@@ -133,11 +133,11 @@ Spieltag 10
 [Fr. 1.11.]
   TSG Hoffenheim          3-0 SC Paderborn 07
 [Sa. 2.11.]
-  RB Leipzig              - 1. FSV Mainz 05
-  Werder Bremen           - SC Freiburg
-  Bayer 04 Leverkusen     - Bor. Mönchengladbach
-  Borussia Dortmund       - VfL Wolfsburg
-  Eintracht Frankfurt     - Bayern München
+  RB Leipzig              8-0 1. FSV Mainz 05
+  Werder Bremen           2-2 SC Freiburg
+  Bayer 04 Leverkusen     1-2 Bor. Mönchengladbach
+  Borussia Dortmund       3-0 VfL Wolfsburg
+  Eintracht Frankfurt     5-1 Bayern München
   1. FC Union Berlin      - Hertha BSC
 [So. 3.11.]
   Fortuna Düsseldorf      - 1. FC Köln

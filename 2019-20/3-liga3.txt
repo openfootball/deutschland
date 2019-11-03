@@ -228,12 +228,12 @@ Spieltag 14
 [Fr. 1.11.]
   FSV Zwickau             0-1 SG Sonnenhof Großaspach
 [Sa. 2.11.]
-  1860 München            - FC Viktoria Köln
-  Waldhof Mannheim        - SpVgg Unterhaching
-  1. FC Kaiserslautern    - Würzburger Kickers
-  Eintracht Braunschweig  - FC Ingolstadt 04
-  Preußen Münster         - Chemnitzer FC
-  1. FC Magdeburg         - Hallescher FC
+  1860 München            4-2 FC Viktoria Köln
+  Waldhof Mannheim        0-3 SpVgg Unterhaching
+  1. FC Kaiserslautern    2-3 Würzburger Kickers
+  Eintracht Braunschweig  0-3 FC Ingolstadt 04
+  Preußen Münster         3-3 Chemnitzer FC
+  1. FC Magdeburg         1-0 Hallescher FC
 [So. 3.11.]
   SV Meppen               - Bayern München II
   Carl Zeiss Jena         - Hansa Rostock

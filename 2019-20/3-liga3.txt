@@ -245,12 +245,12 @@ Spieltag 15
 [Fr. 8.11.]
   FC Viktoria Köln        2-2 Carl Zeiss Jena
 [Sa. 9.11.]
-  Hansa Rostock           - MSV Duisburg
-  KFC Uerdingen 05        - 1. FC Kaiserslautern
-  SpVgg Unterhaching      - SV Meppen
-  Hallescher FC           - 1860 München
-  SG Sonnenhof Großaspach - Waldhof Mannheim
-  FC Ingolstadt 04        - FSV Zwickau
+  Hansa Rostock           1-2 MSV Duisburg
+  KFC Uerdingen 05        0-3 1. FC Kaiserslautern
+  SpVgg Unterhaching      0-0 SV Meppen
+  Hallescher FC           0-1 1860 München
+  SG Sonnenhof Großaspach 0-3 Waldhof Mannheim
+  FC Ingolstadt 04        4-2 FSV Zwickau
 [So. 10.11.]
   Chemnitzer FC           - Würzburger Kickers
   Bayern München II       - 1. FC Magdeburg

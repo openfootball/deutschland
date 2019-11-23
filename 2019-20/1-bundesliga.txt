@@ -161,12 +161,12 @@ Spieltag 12
 [Fr. 22.11.]
   Borussia Dortmund       3-3 SC Paderborn 07
 [Sa. 23.11.]
-  RB Leipzig              - 1. FC Köln
-  Werder Bremen           - FC Schalke 04
-  Bayer 04 Leverkusen     - SC Freiburg
-  Fortuna Düsseldorf      - Bayern München
-  Eintracht Frankfurt     - VfL Wolfsburg
-  1. FC Union Berlin      - Bor. Mönchengladbach
+  RB Leipzig              4-1 1. FC Köln
+  Werder Bremen           1-2 FC Schalke 04
+  Bayer 04 Leverkusen     1-1 SC Freiburg
+  Fortuna Düsseldorf      0-4 Bayern München
+  Eintracht Frankfurt     0-2 VfL Wolfsburg
+  1. FC Union Berlin      2-0 Bor. Mönchengladbach
 [So. 24.11.]
   FC Augsburg             - Hertha BSC
   TSG Hoffenheim          - 1. FSV Mainz 05

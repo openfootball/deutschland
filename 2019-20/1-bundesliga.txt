@@ -187,43 +187,45 @@ Spieltag 13
   1. FSV Mainz 05         - Eintracht Frankfurt
 
 Spieltag 14
-[Sa. 7.12.]
-  Werder Bremen           - SC Paderborn 07
-  SC Freiburg             - VfL Wolfsburg
-  Bayer 04 Leverkusen     - FC Schalke 04
-  Bor. Mönchengladbach    - Bayern München
-  Borussia Dortmund       - Fortuna Düsseldorf
+[Fr. 6.12.]
   Eintracht Frankfurt     - Hertha BSC
-  1. FC Union Berlin      - 1. FC Köln
-  FC Augsburg             - 1. FSV Mainz 05
+[Sa. 7.12.]
+  Borussia Dortmund       - Fortuna Düsseldorf
   RB Leipzig              - TSG Hoffenheim
-
+  Bor. Mönchengladbach    - Bayern München
+  SC Freiburg             - VfL Wolfsburg
+  FC Augsburg             - 1. FSV Mainz 05
+  Bayer 04 Leverkusen     - FC Schalke 04
+[So. 8.12.]
+  1. FC Union Berlin      - 1. FC Köln
+  Werder Bremen           - SC Paderborn 07
 
 Spieltag 15
+[Fr. 13.12.]
+  TSG Hoffenheim          - FC Augsburg
 [Sa. 14.12.]
-  FC Schalke 04           - Eintracht Frankfurt
-  Fortuna Düsseldorf      - RB Leipzig
   Bayern München          - Werder Bremen
-  1. FC Köln              - Bayer 04 Leverkusen
-  VfL Wolfsburg           - Bor. Mönchengladbach
   Hertha BSC              - SC Freiburg
   1. FSV Mainz 05         - Borussia Dortmund
+  1. FC Köln              - Bayer 04 Leverkusen
   SC Paderborn 07         - 1. FC Union Berlin
-  TSG Hoffenheim          - FC Augsburg
-
+  Fortuna Düsseldorf      - RB Leipzig
+[So. 15.12.]
+  VfL Wolfsburg           - Bor. Mönchengladbach
+  FC Schalke 04           - Eintracht Frankfurt
 
 Spieltag 16
-[Mi. 18.12.]
+[Di. 17.12.]
   Werder Bremen           - 1. FSV Mainz 05
-  SC Freiburg             - Bayern München
+  Borussia Dortmund       - RB Leipzig 
+  FC Augsburg             - Fortuna Düsseldorf
+  1. FC Union Berlin      - TSG Hoffenheim
+[Mi. 18.12.]
   Bayer 04 Leverkusen     - Hertha BSC
+  SC Freiburg             - Bayern München
   Bor. Mönchengladbach    - SC Paderborn 07
-  Borussia Dortmund       - RB Leipzig
   VfL Wolfsburg           - FC Schalke 04
   Eintracht Frankfurt     - 1. FC Köln
-  1. FC Union Berlin      - TSG Hoffenheim
-  FC Augsburg             - Fortuna Düsseldorf
-
 
 Spieltag 17
 [Sa. 21.12.]

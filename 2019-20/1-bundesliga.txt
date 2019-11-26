@@ -57,7 +57,6 @@ Spieltag 4
   TSG Hoffenheim          0-3 SC Freiburg
   SC Paderborn 07         1-5 FC Schalke 04
 
-
 Spieltag 5
 [Fr. 20.9.]
   FC Schalke 04           2-1 1. FSV Mainz 05
@@ -228,30 +227,32 @@ Spieltag 16
   Eintracht Frankfurt     - 1. FC Köln
 
 Spieltag 17
+[Fr. 20.12.]
+  TSG Hoffenheim          - Borussia Dortmund
 [Sa. 21.12.]
-  FC Schalke 04           - SC Freiburg
-  Fortuna Düsseldorf      - 1. FC Union Berlin
   Bayern München          - VfL Wolfsburg
+  RB Leipzig              - FC Augsburg
+  1. FSV Mainz 05         - Bayer 04 Leverkusen
+  FC Schalke 04           - SC Freiburg
   1. FC Köln              - Werder Bremen
   Hertha BSC              - Bor. Mönchengladbach
-  1. FSV Mainz 05         - Bayer 04 Leverkusen
+[So. 22.12.]
+  Fortuna Düsseldorf      - 1. FC Union Berlin
   SC Paderborn 07         - Eintracht Frankfurt
-  TSG Hoffenheim          - Borussia Dortmund
-  RB Leipzig              - FC Augsburg
-
 
 Spieltag 18
-[Sa. 18.1.]
+[Fr. 18.1.]
   FC Schalke 04           - Bor. Mönchengladbach
+[Sa. 18.1.]
+  TSG Hoffenheim          - Eintracht Frankfurt
   Fortuna Düsseldorf      - Werder Bremen
-  1. FC Köln              - VfL Wolfsburg
-  Hertha BSC              - Bayern München
   1. FSV Mainz 05         - SC Freiburg
   FC Augsburg             - Borussia Dortmund
-  SC Paderborn 07         - Bayer 04 Leverkusen
-  TSG Hoffenheim          - Eintracht Frankfurt
+  1. FC Köln              - VfL Wolfsburg
   RB Leipzig              - 1. FC Union Berlin
-
+[So. 19.1.]
+  Hertha BSC              - Bayern München
+  SC Paderborn 07         - Bayer 04 Leverkusen
 
 Spieltag 19
 [Sa. 25.1.]

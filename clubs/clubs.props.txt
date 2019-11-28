@@ -130,7 +130,7 @@ hennef,        FC Hennef 05
 erndtebrueck,  TuS Erndtebrück
 
 ## Rheinland-Pfalz (rp)
-trier,        Eintracht Trie
+trier,        Eintracht Trier
 pfeddersheim, TSG Pfeddersheim
 rossbach,      SV Roßbach/Verscheid
 wormatiaworms, Wormatia Worms

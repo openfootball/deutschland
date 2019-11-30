@@ -290,43 +290,51 @@ Spieltag 18
 
 
 Spieltag 19
-[Mi. 29.1.]
-  Arminia Bielefeld       - VfL Bochum
-  VfB Stuttgart           - 1. FC Heidenheim
-  Hamburger SV            - 1. FC Nürnberg
-  VfL Osnabrück           - SV Sandhausen
-  Dynamo Dresden          - Karlsruher SC
+[Di. 28.1.]
   SpVgg Greuther Fürth    - FC St. Pauli
   SV Wehen Wiesbaden      - Erzgebirge Aue
-  Holstein Kiel           - SV Darmstadt 98
+  Arminia Bielefeld       - VfL Bochum
   Jahn Regensburg         - Hannover 96
+[Mi. 29.1.]
+  VfB Stuttgart           - 1. FC Heidenheim
+  VfL Osnabrück           - SV Sandhausen
+  Dynamo Dresden          - Karlsruher SC
+  Holstein Kiel           - SV Darmstadt 98
+[Do. 30.1.]
+  Hamburger SV            - 1. FC Nürnberg
 
 
 Spieltag 20
-[So. 2.2.]
+[Fr. 31.1.]
+  Erzgebirge Aue          - Arminia Bielefeld
+  Jahn Regensburg         - SpVgg Greuther Fürth
+[Sa. 1.2.]
   Karlsruher SC           - Holstein Kiel
-  VfL Bochum              - Hamburger SV
   FC St. Pauli            - VfB Stuttgart
   Hannover 96             - SV Wehen Wiesbaden
-  Erzgebirge Aue          - Arminia Bielefeld
+[So. 2.2.]
   1. FC Nürnberg          - SV Sandhausen
   SV Darmstadt 98         - VfL Osnabrück
-  Jahn Regensburg         - SpVgg Greuther Fürth
   1. FC Heidenheim        - Dynamo Dresden
-
+[Mo. 2.2.]
+  VfL Bochum              - Hamburger SV
+  
 
 Spieltag 21
-[So. 9.2.]
-  Arminia Bielefeld       - Jahn Regensburg
+[Fr. 7.2.]
+  Dynamo Dresden          - SV Darmstadt 98
+  SV Sandhausen           - 1. FC Heidenheim
+[Sa. 8.2.]
   VfB Stuttgart           - Erzgebirge Aue
   Hamburger SV            - Karlsruher SC
   VfL Osnabrück           - 1. FC Nürnberg
-  Dynamo Dresden          - SV Darmstadt 98
+[So. 9.2.]
+  Arminia Bielefeld       - Jahn Regensburg
   SpVgg Greuther Fürth    - Hannover 96
   SV Wehen Wiesbaden      - VfL Bochum
+[Mo. 10.2.]
   Holstein Kiel           - FC St. Pauli
-  SV Sandhausen           - 1. FC Heidenheim
-
+ 
 
 Spieltag 22
 [So. 16.2.]

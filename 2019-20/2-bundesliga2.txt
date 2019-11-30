@@ -240,42 +240,53 @@ Spieltag 15
 
 
 Spieltag 16
-[So. 8.12.]
-  Arminia Bielefeld       - Karlsruher SC
-  VfB Stuttgart           - 1. FC Nürnberg
+[Fr. 6.12.]
   Hamburger SV            - 1. FC Heidenheim
-  Hannover 96             - Erzgebirge Aue
-  Dynamo Dresden          - SV Sandhausen
+  Arminia Bielefeld       - Karlsruher SC
+[Sa. 7.12.]
   SpVgg Greuther Fürth    - VfL Bochum
-  SV Wehen Wiesbaden      - SV Darmstadt 98
   Holstein Kiel           - VfL Osnabrück
+  Hannover 96             - Erzgebirge Aue
+[So. 8.12.]
+  Dynamo Dresden          - SV Sandhausen
+  SV Wehen Wiesbaden      - SV Darmstadt 98
   Jahn Regensburg         - FC St. Pauli
+[Mo. 9.12.]
+  VfB Stuttgart           - 1. FC Nürnberg
 
 
 Spieltag 17
-[So. 15.12.]
-  Karlsruher SC           - SpVgg Greuther Fürth
+[Fr. 13.12.]
   VfL Bochum              - Hannover 96
-  FC St. Pauli            - SV Wehen Wiesbaden
-  VfL Osnabrück           - Dynamo Dresden
   Erzgebirge Aue          - Jahn Regensburg
-  1. FC Nürnberg          - Holstein Kiel
-  SV Darmstadt 98         - VfB Stuttgart
-  SV Sandhausen           - Hamburger SV
+[Sa. 14.12.]
+  Karlsruher SC           - SpVgg Greuther Fürth
+  FC St. Pauli            - SV Wehen Wiesbaden
   1. FC Heidenheim        - Arminia Bielefeld
+[So. 15.12.]
+  VfL Osnabrück           - Dynamo Dresden
+  1. FC Nürnberg          - Holstein Kiel
+  SV Sandhausen           - Hamburger SV
+[Mo. 16.12.] 
+  SV Darmstadt 98         - VfB Stuttgart
 
 
 Spieltag 18
-[So. 22.12.]
+[Fr. 20.12.]
   Karlsruher SC           - SV Wehen Wiesbaden
-  VfL Bochum              - Jahn Regensburg
+  1. FC Nürnberg          - Dynamo Dresden
+[Sa. 21.12.]
   FC St. Pauli            - Arminia Bielefeld
   Hannover 96             - VfB Stuttgart
   Erzgebirge Aue          - SpVgg Greuther Fürth
-  1. FC Nürnberg          - Dynamo Dresden
   SV Darmstadt 98         - Hamburger SV
+[So. 22.12.]
+  VfL Bochum              - Jahn Regensburg
   SV Sandhausen           - Holstein Kiel
   1. FC Heidenheim        - VfL Osnabrück
+
+
+# Winterpause incl. 28.1.20.]
 
 
 Spieltag 19

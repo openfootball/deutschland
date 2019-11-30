@@ -293,87 +293,107 @@ Spieltag 17
 
 
 Spieltag 18
-[Sa 7.12.]
-  MSV Duisburg            - Bayern München II
+[Fr. 6.12.]
+  Chemnitzer FC           - FSV Zwickau
+[Sa. 7.12.]
   1860 München            - SG Sonnenhof Großaspach
-  Waldhof Mannheim        - Eintracht Braunschweig
   KFC Uerdingen 05        - Hansa Rostock
-  SV Meppen               - Preußen Münster
   Carl Zeiss Jena         - SpVgg Unterhaching
   1. FC Kaiserslautern    - Hallescher FC
-  Chemnitzer FC           - FSV Zwickau
   1. FC Magdeburg         - FC Ingolstadt 04
   Würzburger Kickers      - FC Viktoria Köln
+[So. 8.12.]
+  Waldhof Mannheim        - Eintracht Braunschweig
+  MSV Duisburg            - Bayern München II 
+[Mo. 9.12.]
+  SV Meppen               - Preußen Münster
 
 
 Spieltag 19
-[Sa 14.12.]
+[Fr. 13.12.]
+  Preußen Münster         - 1. FC Magdeburg
+[Sa. 14.12.]
   Hansa Rostock           - Chemnitzer FC
   FSV Zwickau             - Waldhof Mannheim
-  SpVgg Unterhaching      - MSV Duisburg
   Eintracht Braunschweig  - SV Meppen
   Bayern München II       - 1. FC Kaiserslautern
-  Preußen Münster         - 1. FC Magdeburg
   Hallescher FC           - Würzburger Kickers
-  SG Sonnenhof Großaspach - Carl Zeiss Jena
-  FC Ingolstadt 04        - 1860 München
   FC Viktoria Köln        - KFC Uerdingen 05
+[So.15.12.]
+  SpVgg Unterhaching      - MSV Duisburg
+  SG Sonnenhof Großaspach - Carl Zeiss Jena
+[Mo. 16.12.]
+  FC Ingolstadt 04        - 1860 München
 
 
 Spieltag 20
+[Fr. 20.12.]
+  FC Viktoria Köln        - Hansa Rostock
 [Sa 21.12.]
   FSV Zwickau             - SV Meppen
   Waldhof Mannheim        - Chemnitzer FC
   SpVgg Unterhaching      - 1. FC Kaiserslautern
   Eintracht Braunschweig  - 1. FC Magdeburg
-  Bayern München II       - Würzburger Kickers
   Preußen Münster         - 1860 München
-  Hallescher FC           - KFC Uerdingen 05
   SG Sonnenhof Großaspach - MSV Duisburg
+[So. 22.12.]
   FC Ingolstadt 04        - Carl Zeiss Jena
-  FC Viktoria Köln        - Hansa Rostock
-
-
+  Bayern München II       - Würzburger Kickers
+  Hallescher FC           - KFC Uerdingen 05
+  
+  
+ # Winterpause incl. 24.1.20.
+  
+  
 Spieltag 21
-[Sa 25.1.]
-  MSV Duisburg            - FC Ingolstadt 04
+[Fr. 24.1.]
   Hansa Rostock           - Hallescher FC
-  1860 München            - Eintracht Braunschweig
-  KFC Uerdingen 05        - Bayern München II
+[Sa. 25.1.]
+  MSV Duisburg            - FC Ingolstadt 04
   SV Meppen               - Waldhof Mannheim
   Carl Zeiss Jena         - Preußen Münster
-  1. FC Kaiserslautern    - SG Sonnenhof Großaspach
   Chemnitzer FC           - FC Viktoria Köln
   1. FC Magdeburg         - FSV Zwickau
   Würzburger Kickers      - SpVgg Unterhaching
+[So. 26.1.]
+  1860 München            - Eintracht Braunschweig
+  KFC Uerdingen 05        - Bayern München II
+[Mo. 27.1.]
+  1. FC Kaiserslautern    - SG Sonnenhof Großaspach
 
 
 Spieltag 22
-[Sa 1.2.]
-  FSV Zwickau             - 1860 München
-  Waldhof Mannheim        - 1. FC Magdeburg
+[Fr. 31.1.]
+  Hallescher FC           - FC Viktoria Köln
+[Sa. 1.2.]
   SV Meppen               - Chemnitzer FC
   SpVgg Unterhaching      - KFC Uerdingen 05
   Eintracht Braunschweig  - Carl Zeiss Jena
   Bayern München II       - Hansa Rostock
   Preußen Münster         - MSV Duisburg
-  Hallescher FC           - FC Viktoria Köln
-  SG Sonnenhof Großaspach - Würzburger Kickers
   FC Ingolstadt 04        - 1. FC Kaiserslautern
+[So. 2.2.]
+  FSV Zwickau             - 1860 München
+  Waldhof Mannheim        - 1. FC Magdeburg
+[Mo. 3.2.]
+  SG Sonnenhof Großaspach - Würzburger Kickers
 
 
 Spieltag 23
-[Sa 8.2.]
+[Fr. 7.2.]
   MSV Duisburg            - Eintracht Braunschweig
+[Sa. 8.2.]
   Hansa Rostock           - SpVgg Unterhaching
   1860 München            - Waldhof Mannheim
   KFC Uerdingen 05        - SG Sonnenhof Großaspach
-  Carl Zeiss Jena         - FSV Zwickau
   1. FC Kaiserslautern    - Preußen Münster
-  Chemnitzer FC           - Hallescher FC
   1. FC Magdeburg         - SV Meppen
-  Würzburger Kickers      - FC Ingolstadt 04
   FC Viktoria Köln        - Bayern München II
+[So. 9.2.]
+  Chemnitzer FC           - Hallescher FC
+  Würzburger Kickers      - FC Ingolstadt 04
+[Mo. 10.2.]
+  Carl Zeiss Jena         - FSV Zwickau
 
 
 Spieltag 24

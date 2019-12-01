@@ -279,12 +279,12 @@ Spieltag 17
 [Fr. 29.11.]
   Bayern München II       2-3 Carl Zeiss Jena
 [Sa. 30.11.]
-  Hansa Rostock           - Würzburger Kickers
-  Chemnitzer FC           - KFC Uerdingen 05
-  Preußen Münster         - Waldhof Mannheim
-  Hallescher FC           - MSV Duisburg
-  SG Sonnenhof Großaspach - 1. FC Magdeburg
-  FC Viktoria Köln        - 1. FC Kaiserslautern
+  Hansa Rostock           1-0 Würzburger Kickers
+  Chemnitzer FC           1-1 KFC Uerdingen 05
+  Preußen Münster         1-3 Waldhof Mannheim
+  Hallescher FC           1-0 MSV Duisburg
+  SG Sonnenhof Großaspach 1-2 1. FC Magdeburg
+  FC Viktoria Köln        2-4 1. FC Kaiserslautern
 [So. 1.12.]
   FC Ingolstadt 04        - SV Meppen
   SpVgg Unterhaching      - 1860 München

@@ -229,10 +229,10 @@ Spieltag 15
   Karlsruher SC           4-1 Jahn Regensburg
   VfL Osnabrück           2-1 Hamburger SV
 [Sa. 30.11.]
-  FC St. Pauli            - Hannover 96
-  VfL Bochum              - Erzgebirge Aue
-  Dynamo Dresden          - Holstein Kiel
-  1. FC Nürnberg          - SV Wehen Wiesbaden
+  FC St. Pauli            0-1 Hannover 96
+  VfL Bochum              2-0 Erzgebirge Aue
+  Dynamo Dresden          1-2 Holstein Kiel
+  1. FC Nürnberg          0-2 SV Wehen Wiesbaden
 [So 1.12.]
   SV Darmstadt 98         - Arminia Bielefeld
   SV Sandhausen           - VfB Stuttgart

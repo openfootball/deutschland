@@ -5,236 +5,234 @@
 18. Spieltag
 
 [Sa 31.1.]
-  VfL Wolfsburg           4-1 Bayern München 
-  Bayer Leverkusen        0-0 Borussia Dortmund 
-  VfB Stuttgart           0-1 Bor. Mönchengladbach 
-  FC Augsburg             3-1 1899 Hoffenheim 
-  FC Schalke 04           1-0 Hannover 96 
-  Werder Bremen           2-0 Hertha BSC 
-  SC Freiburg             4-1 Eintracht Frankfurt 
-  Hamburger SV            0-2 1. FC Köln 
-  1. FSV Mainz 05         5-0 SC Paderborn 07 
+  VfL Wolfsburg           4-1 Bayern München
+  Bayer Leverkusen        0-0 Borussia Dortmund
+  VfB Stuttgart           0-1 Bor. Mönchengladbach
+  FC Augsburg             3-1 1899 Hoffenheim
+  FC Schalke 04           1-0 Hannover 96
+  Werder Bremen           2-0 Hertha BSC
+  SC Freiburg             4-1 Eintracht Frankfurt
+  Hamburger SV            0-2 1. FC Köln
+  1. FSV Mainz 05         5-0 SC Paderborn 07
 
 19. Spieltag
 
 [Di 3.2.]
-  Bayern München          1-1 FC Schalke 04 
-  Hertha BSC              0-1 Bayer Leverkusen 
-  Eintracht Frankfurt     1-1 VfL Wolfsburg 
-  Hannover 96             1-1 1. FSV Mainz 05 
-  Borussia Dortmund       0-1 FC Augsburg 
-  1899 Hoffenheim         1-2 Werder Bremen 
-  Bor. Mönchengladbach    1-0 SC Freiburg 
-  1. FC Köln              0-0 VfB Stuttgart 
-  SC Paderborn 07         0-3 Hamburger SV 
+  Bayern München          1-1 FC Schalke 04
+  Hertha BSC              0-1 Bayer Leverkusen
+  Eintracht Frankfurt     1-1 VfL Wolfsburg
+  Hannover 96             1-1 1. FSV Mainz 05
+  Borussia Dortmund       0-1 FC Augsburg
+  1899 Hoffenheim         1-2 Werder Bremen
+  Bor. Mönchengladbach    1-0 SC Freiburg
+  1. FC Köln              0-0 VfB Stuttgart
+  SC Paderborn 07         0-3 Hamburger SV
 
 20. Spieltag
 
 [Sa 7.2.]
-  VfB Stuttgart           0-2 Bayern München 
-  SC Freiburg             0-3 Borussia Dortmund 
-  Werder Bremen           2-1 Bayer Leverkusen 
-  FC Schalke 04           1-0 Bor. Mönchengladbach 
-  VfL Wolfsburg           3-0 1899 Hoffenheim 
-  Hamburger SV            2-1 Hannover 96 
-  1. FSV Mainz 05         0-2 Hertha BSC 
-  FC Augsburg             2-2 Eintracht Frankfurt 
-  1. FC Köln              0-0 SC Paderborn 07 
+  VfB Stuttgart           0-2 Bayern München
+  SC Freiburg             0-3 Borussia Dortmund
+  Werder Bremen           2-1 Bayer Leverkusen
+  FC Schalke 04           1-0 Bor. Mönchengladbach
+  VfL Wolfsburg           3-0 1899 Hoffenheim
+  Hamburger SV            2-1 Hannover 96
+  1. FSV Mainz 05         0-2 Hertha BSC
+  FC Augsburg             2-2 Eintracht Frankfurt
+  1. FC Köln              0-0 SC Paderborn 07
 
 21. Spieltag
 
 [Sa 14.2.]
-  Eintracht Frankfurt     1-0 FC Schalke 04 
-  Bayer Leverkusen        4-5 VfL Wolfsburg 
-  Borussia Dortmund       4-2 1. FSV Mainz 05 
-  Werder Bremen           3-2 FC Augsburg 
-  Hertha BSC              0-2 SC Freiburg 
-  1899 Hoffenheim         2-1 VfB Stuttgart 
-  Bayern München          8-0 Hamburger SV 
-  Bor. Mönchengladbach    1-0 1. FC Köln 
-  Hannover 96             1-2 SC Paderborn 07 
+  Eintracht Frankfurt     1-0 FC Schalke 04
+  Bayer Leverkusen        4-5 VfL Wolfsburg
+  Borussia Dortmund       4-2 1. FSV Mainz 05
+  Werder Bremen           3-2 FC Augsburg
+  Hertha BSC              0-2 SC Freiburg
+  1899 Hoffenheim         2-1 VfB Stuttgart
+  Bayern München          8-0 Hamburger SV
+  Bor. Mönchengladbach    1-0 1. FC Köln
+  Hannover 96             1-2 SC Paderborn 07
 
 22. Spieltag
 
 [Sa 21.2.]
-  SC Paderborn 07         0-6 Bayern München 
-  VfB Stuttgart           2-3 Borussia Dortmund 
-  FC Augsburg             2-2 Bayer Leverkusen 
-  Hamburger SV            1-1 Bor. Mönchengladbach 
-  SC Freiburg             1-1 1899 Hoffenheim 
-  1. FC Köln              1-1 Hannover 96 
-  VfL Wolfsburg           2-1 Hertha BSC 
-  FC Schalke 04           1-1 Werder Bremen 
-  1. FSV Mainz 05         3-1 Eintracht Frankfurt 
+  SC Paderborn 07         0-6 Bayern München
+  VfB Stuttgart           2-3 Borussia Dortmund
+  FC Augsburg             2-2 Bayer Leverkusen
+  Hamburger SV            1-1 Bor. Mönchengladbach
+  SC Freiburg             1-1 1899 Hoffenheim
+  1. FC Köln              1-1 Hannover 96
+  VfL Wolfsburg           2-1 Hertha BSC
+  FC Schalke 04           1-1 Werder Bremen
+  1. FSV Mainz 05         3-1 Eintracht Frankfurt
 
 23. Spieltag
 
 [Sa 28.2.]
-  Borussia Dortmund       3-0 FC Schalke 04 
-  Werder Bremen           3-5 VfL Wolfsburg 
-  1899 Hoffenheim         2-0 1. FSV Mainz 05 
-  Hertha BSC              1-0 FC Augsburg 
-  Bayer Leverkusen        1-0 SC Freiburg 
-  Hannover 96             1-1 VfB Stuttgart 
-  Eintracht Frankfurt     2-1 Hamburger SV 
-  Bayern München          4-1 1. FC Köln 
-  Bor. Mönchengladbach    2-0 SC Paderborn 07 
+  Borussia Dortmund       3-0 FC Schalke 04
+  Werder Bremen           3-5 VfL Wolfsburg
+  1899 Hoffenheim         2-0 1. FSV Mainz 05
+  Hertha BSC              1-0 FC Augsburg
+  Bayer Leverkusen        1-0 SC Freiburg
+  Hannover 96             1-1 VfB Stuttgart
+  Eintracht Frankfurt     2-1 Hamburger SV
+  Bayern München          4-1 1. FC Köln
+  Bor. Mönchengladbach    2-0 SC Paderborn 07
 
 24. Spieltag
 
 [Sa 7.3.]
-  Hannover 96             1-3 Bayern München 
-  Hamburger SV            0-0 Borussia Dortmund 
-  SC Paderborn 07         0-3 Bayer Leverkusen 
-  FC Augsburg             1-0 VfL Wolfsburg 
-  1. FSV Mainz 05         2-2 Bor. Mönchengladbach 
-  FC Schalke 04           3-1 1899 Hoffenheim 
-  VfB Stuttgart           0-0 Hertha BSC 
-  SC Freiburg             0-1 Werder Bremen 
-  1. FC Köln              4-2 Eintracht Frankfurt 
+  Hannover 96             1-3 Bayern München
+  Hamburger SV            0-0 Borussia Dortmund
+  SC Paderborn 07         0-3 Bayer Leverkusen
+  FC Augsburg             1-0 VfL Wolfsburg
+  1. FSV Mainz 05         2-2 Bor. Mönchengladbach
+  FC Schalke 04           3-1 1899 Hoffenheim
+  VfB Stuttgart           0-0 Hertha BSC
+  SC Freiburg             0-1 Werder Bremen
+  1. FC Köln              4-2 Eintracht Frankfurt
 
 25. Spieltag
 
 [Sa 14.3.]
-  Werder Bremen           0-4 Bayern München 
-  Hertha BSC              2-2 FC Schalke 04 
-  FC Augsburg             0-2 1. FSV Mainz 05 
-  Bor. Mönchengladbach    2-0 Hannover 96 
-  VfL Wolfsburg           3-0 SC Freiburg 
-  Bayer Leverkusen        4-0 VfB Stuttgart 
-  1899 Hoffenheim         3-0 Hamburger SV 
-  Borussia Dortmund       0-0 1. FC Köln 
-  Eintracht Frankfurt     4-0 SC Paderborn 07 
+  Werder Bremen           0-4 Bayern München
+  Hertha BSC              2-2 FC Schalke 04
+  FC Augsburg             0-2 1. FSV Mainz 05
+  Bor. Mönchengladbach    2-0 Hannover 96
+  VfL Wolfsburg           3-0 SC Freiburg
+  Bayer Leverkusen        4-0 VfB Stuttgart
+  1899 Hoffenheim         3-0 Hamburger SV
+  Borussia Dortmund       0-0 1. FC Köln
+  Eintracht Frankfurt     4-0 SC Paderborn 07
 
 26. Spieltag
 
 [Sa 21.3.]
-  Hannover 96             2-3 Borussia Dortmund 
-  FC Schalke 04           0-1 Bayer Leverkusen 
-  1. FSV Mainz 05         1-1 VfL Wolfsburg 
-  Bayern München          0-2 Bor. Mönchengladbach 
-  SC Freiburg             2-0 FC Augsburg 
-  SC Paderborn 07         0-0 1899 Hoffenheim 
-  Hamburger SV            0-1 Hertha BSC 
-  1. FC Köln              1-1 Werder Bremen 
-  VfB Stuttgart           3-1 Eintracht Frankfurt 
+  Hannover 96             2-3 Borussia Dortmund
+  FC Schalke 04           0-1 Bayer Leverkusen
+  1. FSV Mainz 05         1-1 VfL Wolfsburg
+  Bayern München          0-2 Bor. Mönchengladbach
+  SC Freiburg             2-0 FC Augsburg
+  SC Paderborn 07         0-0 1899 Hoffenheim
+  Hamburger SV            0-1 Hertha BSC
+  1. FC Köln              1-1 Werder Bremen
+  VfB Stuttgart           3-1 Eintracht Frankfurt
 
 27. Spieltag
 
 [Sa 4.4.]
-  Borussia Dortmund       0-1 Bayern München 
-  FC Augsburg             0-0 FC Schalke 04 
-  1899 Hoffenheim         1-4 Bor. Mönchengladbach 
-  Werder Bremen           0-0 1. FSV Mainz 05 
-  Eintracht Frankfurt     2-2 Hannover 96 
-  VfL Wolfsburg           3-1 VfB Stuttgart 
-  Bayer Leverkusen        4-0 Hamburger SV 
-  SC Freiburg             1-0 1. FC Köln 
-  Hertha BSC SC           2-0 Paderborn 07 
+  Borussia Dortmund       0-1 Bayern München
+  FC Augsburg             0-0 FC Schalke 04
+  1899 Hoffenheim         1-4 Bor. Mönchengladbach
+  Werder Bremen           0-0 1. FSV Mainz 05
+  Eintracht Frankfurt     2-2 Hannover 96
+  VfL Wolfsburg           3-1 VfB Stuttgart
+  Bayer Leverkusen        4-0 Hamburger SV
+  SC Freiburg             1-0 1. FC Köln
+  Hertha BSC SC           2-0 Paderborn 07
 
 28. Spieltag
 
 [Sa 11.4.]
-  Bor. Mönchengladbach    3-1 Borussia Dortmund 
-  1. FSV Mainz 05         2-3 Bayer Leverkusen 
-  Hamburger SV            0-2 VfL Wolfsburg 
-  SC Paderborn 07         2-1 FC Augsburg 
-  1. FC Köln              3-2 1899 Hoffenheim 
-  Hannover 96             1-1 Hertha BSC 
-  VfB Stuttgart           3-2 Werder Bremen 
-  Bayern München          3-0 Eintracht Frankfurt 
-  FC Schalke 04           0-0 SC Freiburg 
+  Bor. Mönchengladbach    3-1 Borussia Dortmund
+  1. FSV Mainz 05         2-3 Bayer Leverkusen
+  Hamburger SV            0-2 VfL Wolfsburg
+  SC Paderborn 07         2-1 FC Augsburg
+  1. FC Köln              3-2 1899 Hoffenheim
+  Hannover 96             1-1 Hertha BSC
+  VfB Stuttgart           3-2 Werder Bremen
+  Bayern München          3-0 Eintracht Frankfurt
+  FC Schalke 04           0-0 SC Freiburg
 
 29. Spieltag
 
 [Sa 18.4.]
-  1899 Hoffenheim         0-2 Bayern München 
-  VfL Wolfsburg           1-1 FC Schalke 04 
-  Eintracht Frankfurt     0-0 Bor. Mönchengladbach 
-  SC Freiburg             2-3 1. FSV Mainz 05 
-  Bayer Leverkusen        4-0 Hannover 96 
-  FC Augsburg             2-1 VfB Stuttgart 
-  Werder Bremen           1-0 Hamburger SV 
-  Hertha BSC              0-0 1. FC Köln 
-  Borussia Dortmund       3-0 SC Paderborn 07 
+  1899 Hoffenheim         0-2 Bayern München
+  VfL Wolfsburg           1-1 FC Schalke 04
+  Eintracht Frankfurt     0-0 Bor. Mönchengladbach
+  SC Freiburg             2-3 1. FSV Mainz 05
+  Bayer Leverkusen        4-0 Hannover 96
+  FC Augsburg             2-1 VfB Stuttgart
+  Werder Bremen           1-0 Hamburger SV
+  Hertha BSC              0-0 1. FC Köln
+  Borussia Dortmund       3-0 SC Paderborn 07
 
 30. Spieltag
 
 [Sa 25.4.]
-  1. FSV Mainz 05         2-0 FC Schalke 04 
-  1. FC Köln              1-1 Bayer Leverkusen 
-  Bor. Mönchengladbach    1-0 VfL Wolfsburg 
-  Hamburger SV            3-2 FC Augsburg 
-  Hannover 96             1-2 1899 Hoffenheim 
-  Bayern München          1-0 Hertha BSC 
-  SC Paderborn 07         2-2 Werder Bremen 
-  Borussia Dortmund       2-0 Eintracht Frankfurt 
-  VfB Stuttgart           2-2 SC Freiburg 
+  1. FSV Mainz 05         2-0 FC Schalke 04
+  1. FC Köln              1-1 Bayer Leverkusen
+  Bor. Mönchengladbach    1-0 VfL Wolfsburg
+  Hamburger SV            3-2 FC Augsburg
+  Hannover 96             1-2 1899 Hoffenheim
+  Bayern München          1-0 Hertha BSC
+  SC Paderborn 07         2-2 Werder Bremen
+  Borussia Dortmund       2-0 Eintracht Frankfurt
+  VfB Stuttgart           2-2 SC Freiburg
 
 31. Spieltag
 
 [Sa 2.5.]
-  Bayer Leverkusen        2-0 Bayern München 
-  1899 Hoffenheim         1-1 Borussia Dortmund 
-  Hertha BSC              1-2 Bor. Mönchengladbach 
-  VfL Wolfsburg           2-2 Hannover 96 
-  Werder Bremen           1-0 Eintracht Frankfurt 
-  FC Schalke 04           3-2 VfB Stuttgart 
-  1. FSV Mainz 05         1-2 Hamburger SV 
-  FC Augsburg             0-0 1. FC Köln 
-  SC Freiburg             1-2 SC Paderborn 07 
+  Bayer Leverkusen        2-0 Bayern München
+  1899 Hoffenheim         1-1 Borussia Dortmund
+  Hertha BSC              1-2 Bor. Mönchengladbach
+  VfL Wolfsburg           2-2 Hannover 96
+  Werder Bremen           1-0 Eintracht Frankfurt
+  FC Schalke 04           3-2 VfB Stuttgart
+  1. FSV Mainz 05         1-2 Hamburger SV
+  FC Augsburg             0-0 1. FC Köln
+  SC Freiburg             1-2 SC Paderborn 07
 
 32. Spieltag
 
 [Sa 9.5.]
-  1. FC Köln             2-0 FC Schalke 04 
-  Bor. Mönchengladbach   3-0 Bayer Leverkusen 
-  SC Paderborn 07        1-3 VfL Wolfsburg 
-  VfB Stuttgart          2-0 1. FSV Mainz 05 
-  Bayern München         0-1 FC Augsburg 
-  Eintracht Frankfurt    3-1 1899 Hoffenheim 
-  Borussia Dortmund      2-0 Hertha BSC 
-  Hannover 96            1-1 Werder Bremen 
-  Hamburger SV           1-1 SC Freiburg 
+  1. FC Köln             2-0 FC Schalke 04
+  Bor. Mönchengladbach   3-0 Bayer Leverkusen
+  SC Paderborn 07        1-3 VfL Wolfsburg
+  VfB Stuttgart          2-0 1. FSV Mainz 05
+  Bayern München         0-1 FC Augsburg
+  Eintracht Frankfurt    3-1 1899 Hoffenheim
+  Borussia Dortmund      2-0 Hertha BSC
+  Hannover 96            1-1 Werder Bremen
+  Hamburger SV           1-1 SC Freiburg
 
 33. Spieltag
 
 [Sa 16.5.]
-  SC Freiburg            2-1 Bayern München 
-  VfL Wolfsburg          2-1 Borussia Dortmund 
-  Werder Bremen          0-2 Bor. Mönchengladbach 
-  Bayer Leverkusen       2-0 1899 Hoffenheim 
-  FC Augsburg            1-2 Hannover 96 
-  Hertha BSC             0-0 Eintracht Frankfurt 
-  VfB Stuttgart          2-1 Hamburger SV 
-  1. FSV Mainz 05        2-0 1. FC Köln 
-  FC Schalke 04          1-0 SC Paderborn 07 
+  SC Freiburg            2-1 Bayern München
+  VfL Wolfsburg          2-1 Borussia Dortmund
+  Werder Bremen          0-2 Bor. Mönchengladbach
+  Bayer Leverkusen       2-0 1899 Hoffenheim
+  FC Augsburg            1-2 Hannover 96
+  Hertha BSC             0-0 Eintracht Frankfurt
+  VfB Stuttgart          2-1 Hamburger SV
+  1. FSV Mainz 05        2-0 1. FC Köln
+  FC Schalke 04          1-0 SC Paderborn 07
 
 34. Spieltag
 
 [Sa 23.5.]
-  Hamburger SV           2-0 FC Schalke 04 
-  Eintracht Frankfurt    2-1 Bayer Leverkusen 
-  1. FC Köln             2-2 VfL Wolfsburg 
-  Bayern München         2-0 1. FSV Mainz 05 
-  Bor. Mönchengladbach   1-3 FC Augsburg 
-  1899 Hoffenheim        2-1 Hertha BSC 
-  Borussia Dortmund      3-2 Werder Bremen 
-  Hannover 96            2-1 SC Freiburg 
-  SC Paderborn 07        1-2 VfB Stuttgart 
+  Hamburger SV           2-0 FC Schalke 04
+  Eintracht Frankfurt    2-1 Bayer Leverkusen
+  1. FC Köln             2-2 VfL Wolfsburg
+  Bayern München         2-0 1. FSV Mainz 05
+  Bor. Mönchengladbach   1-3 FC Augsburg
+  1899 Hoffenheim        2-1 Hertha BSC
+  Borussia Dortmund      3-2 Werder Bremen
+  Hannover 96            2-1 SC Freiburg
+  SC Paderborn 07        1-2 VfB Stuttgart
 
 
 
-Aufsteiger 1. Bundesliga
-
-FC Ingolstadt 04
-SV Darmstadt 98
-
-Relegationsspiele 1. Bundesliga
-
-Hamburger SV  1-1    Karlsruher SC
-Karlsruher SC 1-2 nV Hamburger SV
-
-Start 14.08.15
-
-
+# Aufsteiger 1. Bundesliga
+#
+# FC Ingolstadt 04
+# SV Darmstadt 98
+#
+# Relegationsspiele 1. Bundesliga
+#
+# Hamburger SV  1-1    Karlsruher SC
+# Karlsruher SC 1-2 nV Hamburger SV
+#
+# Start 14.08.15

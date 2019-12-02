@@ -1,5 +1,4 @@
-##############################################
-# Deutsche Bundesliga 2015/16 - Frühjahr
+= Deutsche Bundesliga 2015/16       ## Frühjahr
 
 18. Spieltag
 

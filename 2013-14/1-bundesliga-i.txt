@@ -1,5 +1,6 @@
-###############################
-# Deutsche Bundesliga 2013/14
+= Deutsche Bundesliga 2013/14     ## no. 51
+
+# start_at: 2013-08-09
 
 
 1. Spieltag

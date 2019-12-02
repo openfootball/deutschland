@@ -1,15 +1,14 @@
-###############################
-# Deutsche Bundesliga 2015/16
+= Deutsche Bundesliga 2015/16
 
 1. Spieltag
 [Fr 14.8.]
   20.30  Bayern München        5-0  Hamburger SV
 [Sa 15.8.]
   15.30  1. FSV Mainz 05       0-1  FC Ingolstadt 04
-  15.30  SV Darmstadt 98       2-2  Hannover 96
-  15.30  Werder Bremen         0-3  FC Schalke 04
-  15.30  FC Augsburg           0-1  Hertha BSC
-  15.30  Bayer Leverkusen      2-1  1899 Hoffenheim
+         SV Darmstadt 98       2-2  Hannover 96
+         Werder Bremen         0-3  FC Schalke 04
+         FC Augsburg           0-1  Hertha BSC
+         Bayer Leverkusen      2-1  1899 Hoffenheim
   18.30  Borussia Dortmund     4-0  Bor. Mönchengladbach
 [So 16.8.]
   15.30  VfL Wolfsburg         2-1  Eintracht Frankfurt
@@ -20,10 +19,10 @@
   20.30  Hertha BSC            1-1  Werder Bremen
 [Sa 22.8.]
   15.30  FC Schalke 04         1-1  SV Darmstadt 98
-  15.30  Eintracht Frankfurt   1-1  FC Augsburg
-  15.30  1. FC Köln            1-1  VfL Wolfsburg
-  15.30  Hannover 96           0-1  Bayer Leverkusen
-  15.30  1899 Hoffenheim       1-2  Bayern München
+         Eintracht Frankfurt   1-1  FC Augsburg
+         1. FC Köln            1-1  VfL Wolfsburg
+         Hannover 96           0-1  Bayer Leverkusen
+         1899 Hoffenheim       1-2  Bayern München
   18.30  Hamburger SV          3-2  VfB Stuttgart
 [So 23.8.]
   15.30  FC Ingolstadt 04      0-4  Borussia Dortmund
@@ -34,10 +33,10 @@
   20.30  VfL Wolfsburg         3-0  FC Schalke 04
 [Sa 29.8.]
   15.30  VfB Stuttgart         1-4  Eintracht Frankfurt
-  15.30  FC Augsburg           0-1  FC Ingolstadt 04
-  15.30  1. FC Köln            2-1  Hamburger SV
-  15.30  1. FSV Mainz 05       3-0  Hannover 96
-  15.30  SV Darmstadt 98       0-0  1899 Hoffenheim
+         FC Augsburg           0-1  FC Ingolstadt 04
+         1. FC Köln            2-1  Hamburger SV
+         1. FSV Mainz 05       3-0  Hannover 96
+         SV Darmstadt 98       0-0  1899 Hoffenheim
   18.30  Bayern München        3-0  Bayer Leverkusen
 [So 30.8.]
   15.30  Borussia Dortmund     3-1  Hertha BSC
@@ -48,10 +47,10 @@
   20.30  Bor. Mönchengladbach  0-3  Hamburger SV
 [Sa 12.9.]
   15.30  Bayern München        2-1  FC Augsburg
-  15.30  Bayer Leverkusen      0-1  SV Darmstadt 98
-  15.30  Hannover 96           2-4  Borussia Dortmund
-  15.30  Hertha BSC            2-1  VfB Stuttgart
-  15.30  FC Ingolstadt 04      0-0  VfL Wolfsburg
+         Bayer Leverkusen      0-1  SV Darmstadt 98
+         Hannover 96           2-4  Borussia Dortmund
+         Hertha BSC            2-1  VfB Stuttgart
+         FC Ingolstadt 04      0-0  VfL Wolfsburg
   18.30  Eintracht Frankfurt   6-2  1. FC Köln
 [So 13.9.]
   15.30  1899 Hoffenheim       1-3  Werder Bremen

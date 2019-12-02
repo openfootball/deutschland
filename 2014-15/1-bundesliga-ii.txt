@@ -1,5 +1,4 @@
-#########################################
-# Deutsche Bundesliga 2014/15 Rückrunde
+= Deutsche Bundesliga 2014/15              ## Rückrunde
 
 
 18. Spieltag

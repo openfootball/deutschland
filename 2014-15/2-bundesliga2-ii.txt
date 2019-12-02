@@ -1,5 +1,4 @@
-#############################################
-# Deutsche 2. Bundesliga 2014/15 Rückrunde
+= Deutsche 2. Bundesliga 2014/15        ## Rückrunde
 
 17. Spieltag
 

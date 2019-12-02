@@ -1,13 +1,11 @@
-#######################
-# DFB Pokal 2013/14
+= DFB Pokal 2013/14        ## no. 71
 
 
+(1) Achtelfinale   //   (Di./Mi.) 3./4. Dez 2013
 
-(1) Achtelfinale   //  (Di./Mi.) 3./4. Dez 2013
+(2) Viertelfinale  //   (Di./Mi.) 11./12. Feb 2014
 
-(2) Viertelfinale  //  (Di./Mi.) 11./12. Feb 2014
+(3) Halbfinale     //   (Di./Mi.) 15./16. Apr 2014
 
-(3) Halbfinale     //  (Di./Mi.) 15./16. Apr 2014
-
-(4) Finale         //  (Sa.) 17. Mai 2014 (in Berlin)
+(4) Finale         //   (Sa.) 17. Mai 2014    @ Berlin
 

@@ -1,5 +1,4 @@
-###############################################
-# Deutsche 2. Bundesliga 2015/16 - Frühjahr
+= Deutsche 2. Bundesliga 2015/16      ## Frühjahr
 
 
 20. Spieltag

@@ -1,0 +1,465 @@
+39 datafiles:
+[1/39] >2012-13/1-bundesliga-i.txt<
+  1 section(s):
+    216 lines - league: >Bundesliga< (de.1), season: >2012/13<
+      18 clubs:
+        1. FC Nürnberg x17
+        1. FSV Mainz 05 x17
+        1899 Hoffenheim x17
+        Bay. Leverkusen x17
+        Bayern München x17
+        Bor. Dortmund x17
+        Bor. M'gladbach x17
+        E. Frankfurt x17
+        F. Düsseldorf x17
+        FC Augsburg x17
+        FC Schalke 04 x17
+        Greuther Fürth x17
+        Hamburger SV x17
+        Hannover 96 x17
+        SC Freiburg x17
+        VfB Stuttgart x17
+        VfL Wolfsburg x17
+        Werder Bremen x17
+      17 rounds:
+        1. Spieltag, 9 matches
+        2. Spieltag, 9 matches
+        3. Spieltag, 9 matches
+        4. Spieltag, 9 matches
+        5. Spieltag, 9 matches
+        6. Spieltag, 9 matches
+        7. Spieltag, 9 matches
+        8. Spieltag, 9 matches
+        9. Spieltag, 9 matches
+        10. Spieltag, 9 matches
+        11. Spieltag, 9 matches
+        12. Spieltag, 9 matches
+        13. Spieltag, 9 matches
+        14. Spieltag, 9 matches
+        15. Spieltag, 9 matches
+        16. Spieltag, 9 matches
+        17. Spieltag, 9 matches
+[2/39] >2012-13/1-bundesliga-ii.txt<
+  1 section(s):
+    209 lines - league: >Bundesliga< (de.1), season: >2012/13<
+      18 clubs:
+        1. FC Nürnberg x17
+        1. FSV Mainz 05 x17
+        1899 Hoffenheim x17
+        Bayer Leverkusen x17
+        Bayern München x17
+        Bor. Mönchengladbach x17
+        Borussia Dortmund x17
+        Eintracht Frankfurt x17
+        FC Augsburg x17
+        FC Schalke 04 x17
+        Fortuna Düsseldorf x17
+        Hamburger SV x17
+        Hannover 96 x17
+        SC Freiburg x17
+        SpVgg Greuther Fürth x17
+        VfB Stuttgart x17
+        VfL Wolfsburg x17
+        Werder Bremen x17
+      17 rounds:
+        18. Spieltag, 9 matches
+        19. Spieltag, 9 matches
+        20. Spieltag, 9 matches
+        21. Spieltag, 9 matches
+        22. Spieltag, 9 matches
+        23. Spieltag, 9 matches
+        24. Spieltag, 9 matches
+        25. Spieltag, 9 matches
+        26. Spieltag, 9 matches
+        27. Spieltag, 9 matches
+        28. Spieltag, 9 matches
+        29. Spieltag, 9 matches
+        30. Spieltag, 9 matches
+        31. Spieltag, 9 matches
+        32. Spieltag, 9 matches
+        33. Spieltag, 9 matches
+        34. Spieltag, 9 matches
+[3/39] >2012-13/2-bundesliga2.txt<
+  1 section(s):
+    0 lines - league: >2. Bundesliga< (de.2), season: >2012/13<
+      0 clubs:
+      0 rounds:
+[4/39] >2012-13/3-liga3.txt<
+  1 section(s):
+    0 lines - league: >3. Liga< (de.3), season: >2012/13<
+      0 clubs:
+      0 rounds:
+[5/39] >2012-13/cup.txt<
+  1 section(s):
+    26 lines - league: >DFB Pokal< (de.cup), season: >2012/13<
+      16 clubs:
+        Bayern München x4
+        VfB Stuttgart x4
+        SC Freiburg x3
+        VfL Wolfsburg x3
+        1. FSV Mainz 05 x2
+        Borussia Dortmund x2
+        Kickers Offenbach x2
+        VfL Bochum x2
+        1. FC Köln
+        Bayer Leverkusen
+        FC Augsburg
+        FC Schalke 04
+        Fortuna Düsseldorf
+        Hannover 96
+        Karlsruher SC
+        TSV 1860 München
+      4 rounds:
+        (1) Achtelfinale, 8 matches
+        (2) Viertelfinale, 4 matches
+        (3) Halbfinale, 2 matches
+        (4) Finale, 1 matches
+[6/39] >2013-14/1-bundesliga-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[7/39] >2013-14/1-bundesliga-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[8/39] >2013-14/2-bundesliga2-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[9/39] >2013-14/2-bundesliga2-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[10/39] >2013-14/3-liga3-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[11/39] >2013-14/3-liga3-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[12/39] >2013-14/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[13/39] >2014-15/1-bundesliga-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[14/39] >2014-15/1-bundesliga-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[15/39] >2014-15/2-bundesliga2-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[16/39] >2014-15/2-bundesliga2-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[17/39] >2015-16/1-bundesliga-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[18/39] >2015-16/1-bundesliga-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[19/39] >2015-16/2-bundesliga2-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[20/39] >2015-16/2-bundesliga2-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[21/39] >2015-16/3-liga3-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[22/39] >2015-16/3-liga3-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[23/39] >2016-17/1-bundesliga-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[24/39] >2016-17/1-bundesliga-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[25/39] >2016-17/2-bundesliga2-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[26/39] >2016-17/2-bundesliga2-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[27/39] >2016-17/3-liga3-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[28/39] >2016-17/3-liga3-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[29/39] >2017-18/1-bundesliga-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[30/39] >2017-18/1-bundesliga-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[31/39] >2017-18/2-bundesliga2-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[32/39] >2017-18/2-bundesliga2-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[33/39] >2017-18/3-liga3-i.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[34/39] >2017-18/3-liga3-ii.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[35/39] >2018-19/1-bundesliga.txt<
+  1 section(s):
+    441 lines - league: >Bundesliga< (de.1), season: >2018/19<
+      18 clubs:
+        1. FC Nürnberg x34
+        1. FSV Mainz 05 x34
+        1899 Hoffenheim x34
+        Bayer Leverkusen x34
+        Bayern München x34
+        Bor. Mönchengladbach x34
+        Borussia Dortmund x34
+        Eintracht Frankfurt x34
+        FC Augsburg x34
+        FC Schalke 04 x34
+        Fortuna Düsseldorf x34
+        Hannover 96 x34
+        Hertha BSC x34
+        RB Leipzig x34
+        SC Freiburg x34
+        VfB Stuttgart x34
+        VfL Wolfsburg x34
+        Werder Bremen x34
+      34 rounds:
+        Spieltag 1, 9 matches
+        Spieltag 2, 9 matches
+        Spieltag 3, 9 matches
+        Spieltag 4, 9 matches
+        Spieltag 5, 9 matches
+        Spieltag 6, 9 matches
+        Spieltag 7, 9 matches
+        Spieltag 8, 9 matches
+        Spieltag 9, 9 matches
+        Spieltag 10, 9 matches
+        Spieltag 11, 9 matches
+        Spieltag 12, 9 matches
+        Spieltag 13, 9 matches
+        Spieltag 14, 9 matches
+        Spieltag 15, 9 matches
+        Spieltag 16, 9 matches
+        Spieltag 17, 9 matches
+        Spieltag 18, 9 matches
+        Spieltag 19, 9 matches
+        Spieltag 20, 9 matches
+        Spieltag 21, 9 matches
+        Spieltag 22, 9 matches
+        Spieltag 23, 9 matches
+        Spieltag 24, 9 matches
+        Spieltag 25, 9 matches
+        Spieltag 26, 9 matches
+        Spieltag 27, 9 matches
+        Spieltag 28, 9 matches
+        Spieltag 29, 9 matches
+        Spieltag 30, 9 matches
+        Spieltag 31, 9 matches
+        Spieltag 32, 9 matches
+        Spieltag 33, 9 matches
+        Spieltag 34, 9 matches
+[36/39] >2018-19/2-bundesliga2.txt<
+  1 section(s):
+    469 lines - league: >2. Bundesliga< (de.2), season: >2018/19<
+      18 clubs:
+        1. FC Köln x36
+        Dynamo Dresden x36
+        Erzgebirge Aue x35
+        Hamburger SV x35
+        MSV Duisburg x35
+        SpVgg Greuther Fürth x35
+        1. FC Heidenheim 1846 x34
+        1. FC Magdeburg x34
+        1. FC Union Berlin x34
+        Arminia Bielefeld x34
+        FC Ingolstadt 04 x34
+        FC St. Pauli x34
+        Holstein Kiel x34
+        Jahn Regensburg x34
+        SC Paderborn 07 x34
+        SV Darmstadt 98 x34
+        SV Sandhausen x34
+        VfL Bochum x34
+      34 rounds:
+        Spieltag 1, 9 matches
+        Spieltag 2, 9 matches
+        Spieltag 3, 9 matches
+        Spieltag 4, 9 matches
+        Spieltag 5, 10 matches
+        Spieltag 6, 9 matches
+        Spieltag 7, 9 matches
+        Spieltag 8, 9 matches
+        Spieltag 9, 9 matches
+        Spieltag 10, 9 matches
+        Spieltag 11, 9 matches
+        Spieltag 12, 9 matches
+        Spieltag 13, 9 matches
+        Spieltag 14, 9 matches
+        Spieltag 15, 9 matches
+        Spieltag 16, 9 matches
+        Spieltag 17, 9 matches
+        Spieltag 18, 9 matches
+        Spieltag 19, 9 matches
+        Spieltag 20 x2, 10 matches
+        Spieltag 21, 9 matches
+        Spieltag 22, 9 matches
+        Spieltag 23, 9 matches
+        Spieltag 24, 9 matches
+        Spieltag 25, 9 matches
+        Spieltag 26, 9 matches
+        Spieltag 27, 10 matches
+        Spieltag 28, 10 matches
+        Spieltag 29, 9 matches
+        Spieltag 30, 9 matches
+        Spieltag 31, 9 matches
+        Spieltag 32, 9 matches
+        Spieltag 33, 9 matches
+        Spieltag 34, 9 matches
+[37/39] >2019-20/1-bundesliga.txt<
+  1 section(s):
+    411 lines - league: >Bundesliga< (de.1), season: >2019/20<
+      18 clubs:
+        1. FC Köln x34
+        1. FC Union Berlin x34
+        1. FSV Mainz 05 x34
+        Bayer 04 Leverkusen x34
+        Bayern München x34
+        Bor. Mönchengladbach x34
+        Borussia Dortmund x34
+        Eintracht Frankfurt x34
+        FC Augsburg x34
+        FC Schalke 04 x34
+        Fortuna Düsseldorf x34
+        Hertha BSC x34
+        RB Leipzig x34
+        SC Freiburg x34
+        SC Paderborn 07 x34
+        TSG Hoffenheim x34
+        VfL Wolfsburg x34
+        Werder Bremen x34
+      34 rounds:
+        Spieltag 1, 9 matches
+        Spieltag 2, 9 matches
+        Spieltag 3, 9 matches
+        Spieltag 4, 9 matches
+        Spieltag 5, 9 matches
+        Spieltag 6, 9 matches
+        Spieltag 7, 9 matches
+        Spieltag 8, 9 matches
+        Spieltag 9, 9 matches
+        Spieltag 10, 9 matches
+        Spieltag 11, 9 matches
+        Spieltag 12, 9 matches
+        Spieltag 13, 9 matches
+        Spieltag 14, 9 matches
+        Spieltag 15, 9 matches
+        Spieltag 16, 9 matches
+        Spieltag 17, 9 matches
+        Spieltag 18, 9 matches
+        Spieltag 19, 9 matches
+        Spieltag 20, 9 matches
+        Spieltag 21, 9 matches
+        Spieltag 22, 9 matches
+        Spieltag 23, 9 matches
+        Spieltag 24, 9 matches
+        Spieltag 25, 9 matches
+        Spieltag 26, 9 matches
+        Spieltag 27, 9 matches
+        Spieltag 28, 9 matches
+        Spieltag 29, 9 matches
+        Spieltag 30, 9 matches
+        Spieltag 31, 9 matches
+        Spieltag 32, 9 matches
+        Spieltag 33, 9 matches
+        Spieltag 34, 9 matches
+[38/39] >2019-20/2-bundesliga2.txt<
+  1 section(s):
+    433 lines - league: >2. Bundesliga< (de.2), season: >2019/20<
+      18 clubs:
+        1. FC Heidenheim x34
+        1. FC Nürnberg x34
+        Arminia Bielefeld x34
+        Dynamo Dresden x34
+        Erzgebirge Aue x34
+        FC St. Pauli x34
+        Hamburger SV x34
+        Hannover 96 x34
+        Holstein Kiel x34
+        Jahn Regensburg x34
+        Karlsruher SC x34
+        SV Darmstadt 98 x34
+        SV Sandhausen x34
+        SV Wehen Wiesbaden x34
+        SpVgg Greuther Fürth x34
+        VfB Stuttgart x34
+        VfL Bochum x34
+        VfL Osnabrück x34
+      34 rounds:
+        Spieltag 1, 9 matches
+        Spieltag 2, 9 matches
+        Spieltag 3, 9 matches
+        Spieltag 4, 9 matches
+        Spieltag 5, 9 matches
+        Spieltag 6, 9 matches
+        Spieltag 7, 9 matches
+        Spieltag 8, 9 matches
+        Spieltag 9, 9 matches
+        Spieltag 10, 9 matches
+        Spieltag 11, 9 matches
+        Spieltag 12, 9 matches
+        Spieltag 13, 9 matches
+        Spieltag 14, 9 matches
+        Spieltag 15, 9 matches
+        Spieltag 16, 9 matches
+        Spieltag 17, 9 matches
+        Spieltag 18, 9 matches
+        Spieltag 19, 9 matches
+        Spieltag 20, 9 matches
+        Spieltag 21, 9 matches
+        Spieltag 22, 9 matches
+        Spieltag 23, 9 matches
+        Spieltag 24, 9 matches
+        Spieltag 25, 9 matches
+        Spieltag 26, 9 matches
+        Spieltag 27, 9 matches
+        Spieltag 28, 9 matches
+        Spieltag 29, 9 matches
+        Spieltag 30, 9 matches
+        Spieltag 31, 9 matches
+        Spieltag 32, 9 matches
+        Spieltag 33, 9 matches
+        Spieltag 34, 9 matches
+[39/39] >2019-20/3-liga3.txt<
+  1 section(s):
+    523 lines - league: >3. Liga< (de.3), season: >2019/20<
+      20 clubs:
+        MSV Duisburg x39
+        SV Meppen x39
+        1. FC Kaiserslautern x38
+        1. FC Magdeburg x38
+        1860 München x38
+        Bayern München II x38
+        Carl Zeiss Jena x38
+        Chemnitzer FC x38
+        Eintracht Braunschweig x38
+        FC Ingolstadt 04 x38
+        FC Viktoria Köln x38
+        FSV Zwickau x38
+        Hallescher FC x38
+        Hansa Rostock x38
+        KFC Uerdingen 05 x38
+        Preußen Münster x38
+        SG Sonnenhof Großaspach x38
+        SpVgg Unterhaching x38
+        Waldhof Mannheim x38
+        Würzburger Kickers x38
+      38 rounds:
+        Spieltag 1, 10 matches
+        Spieltag 2, 10 matches
+        Spieltag 3, 10 matches
+        Spieltag 4, 10 matches
+        Spieltag 5, 10 matches
+        Spieltag 6, 10 matches
+        Spieltag 7, 10 matches
+        Spieltag 8, 10 matches
+        Spieltag 9, 10 matches
+        Spieltag 10, 11 matches
+        Spieltag 11, 10 matches
+        Spieltag 12, 10 matches
+        Spieltag 13, 10 matches
+        Spieltag 14, 10 matches
+        Spieltag 15, 10 matches
+        Spieltag 16, 10 matches
+        Spieltag 17, 10 matches
+        Spieltag 18, 10 matches
+        Spieltag 19, 10 matches
+        Spieltag 20, 10 matches
+        Spieltag 21, 10 matches
+        Spieltag 22, 10 matches
+        Spieltag 23, 10 matches
+        Spieltag 24, 10 matches
+        Spieltag 25, 10 matches
+        Spieltag 26, 10 matches
+        Spieltag 27, 10 matches
+        Spieltag 28, 10 matches
+        Spieltag 29, 10 matches
+        Spieltag 30, 10 matches
+        Spieltag 31, 10 matches
+        Spieltag 32, 10 matches
+        Spieltag 33, 10 matches
+        Spieltag 34, 10 matches
+        Spieltag 35, 10 matches
+        Spieltag 36, 10 matches
+        Spieltag 37, 10 matches
+        Spieltag 38, 10 matches

@@ -1,5 +1,4 @@
-#######################################
-# Deutsche 3. Liga 2015/16  Frühjahr
+= Deutsche 3. Liga 2015/16       ## Frühjahr
 
 22. Spieltag
 

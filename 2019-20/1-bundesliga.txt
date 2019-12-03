@@ -15,6 +15,7 @@ Spieltag 1
   Eintracht Frankfurt     1-0 TSG Hoffenheim
   1. FC Union Berlin      0-4 RB Leipzig
 
+
 Spieltag 2
 [Fr. 23.8.]
   1. FC Köln              1-3 Borussia Dortmund
@@ -28,6 +29,7 @@ Spieltag 2
 [So. 25.8.]
   RB Leipzig              2-1 Eintracht Frankfurt
   Hertha BSC              0-3 VfL Wolfsburg
+
 
 Spieltag 3
 [Fr. 30.8.]
@@ -43,6 +45,7 @@ Spieltag 3
   Werder Bremen           3-2 FC Augsburg
   Eintracht Frankfurt     2-1 Fortuna Düsseldorf
 
+
 Spieltag 4
 [Fr. 13.9.]
   Fortuna Düsseldorf      1-1 VfL Wolfsburg
@@ -56,6 +59,7 @@ Spieltag 4
 [So. 15.9.]
   TSG Hoffenheim          0-3 SC Freiburg
   SC Paderborn 07         1-5 FC Schalke 04
+
 
 Spieltag 5
 [Fr. 20.9.]
@@ -72,6 +76,7 @@ Spieltag 5
 [Mo. 23.9.]
   VfL Wolfsburg           1-1 TSG Hoffenheim
 
+
 Spieltag 6
 [Fr. 27.9.]
   1. FC Union Berlin      1-2 Eintracht Frankfurt
@@ -85,6 +90,7 @@ Spieltag 6
 [So. 29.9.]
   Fortuna Düsseldorf      1-2 SC Freiburg
   1. FC Köln              0-4 Hertha BSC
+
 
 Spieltag 7
 [Fr. 4.10.]
@@ -100,6 +106,7 @@ Spieltag 7
   VfL Wolfsburg           1-0 1. FC Union Berlin
   Eintracht Frankfurt     2-2 Werder Bremen
 
+
 Spieltag 8
 [Fr. 18.10.]
   Eintracht Frankfurt     3-0 Bayer 04 Leverkusen
@@ -113,6 +120,7 @@ Spieltag 8
 [So. 20.10.]
   1. FC Köln              3-0 SC Paderborn 07
   TSG Hoffenheim          2-0 FC Schalke 04
+
 
 Spieltag 9
 [Fr. 25.10.]
@@ -128,6 +136,7 @@ Spieltag 9
   Bor. Mönchengladbach    4-2 Eintracht Frankfurt
   VfL Wolfsburg           0-0 FC Augsburg
 
+
 Spieltag 10
 [Fr. 1.11.]
   TSG Hoffenheim          3-0 SC Paderborn 07
@@ -141,6 +150,7 @@ Spieltag 10
 [So. 3.11.]
   Fortuna Düsseldorf      2-0 1. FC Köln
   FC Augsburg             2-3 FC Schalke 04
+
 
 Spieltag 11
 [Fr. 8.11.]
@@ -156,6 +166,7 @@ Spieltag 11
   VfL Wolfsburg           0-2 Bayer 04 Leverkusen
   Bor. Mönchengladbach    3-1 Werder Bremen
 
+
 Spieltag 12
 [Fr. 22.11.]
   Borussia Dortmund       3-3 SC Paderborn 07
@@ -169,6 +180,7 @@ Spieltag 12
 [So. 24.11.]
   FC Augsburg             4-0 Hertha BSC
   TSG Hoffenheim          1-5 1. FSV Mainz 05
+
 
 Spieltag 13
 [Fr. 29.11.]
@@ -185,6 +197,7 @@ Spieltag 13
 [Mo. 2.12.]
   1. FSV Mainz 05         2-1 Eintracht Frankfurt
 
+
 Spieltag 14
 [Fr. 6.12.]
   Eintracht Frankfurt     - Hertha BSC
@@ -198,6 +211,7 @@ Spieltag 14
 [So. 8.12.]
   1. FC Union Berlin      - 1. FC Köln
   Werder Bremen           - SC Paderborn 07
+
 
 Spieltag 15
 [Fr. 13.12.]
@@ -213,6 +227,7 @@ Spieltag 15
   VfL Wolfsburg           - Bor. Mönchengladbach
   FC Schalke 04           - Eintracht Frankfurt
 
+
 Spieltag 16
 [Di. 17.12.]
   Werder Bremen           - 1. FSV Mainz 05
@@ -225,6 +240,7 @@ Spieltag 16
   Bor. Mönchengladbach    - SC Paderborn 07
   VfL Wolfsburg           - FC Schalke 04
   Eintracht Frankfurt     - 1. FC Köln
+
 
 Spieltag 17
 [Fr. 20.12.]
@@ -239,6 +255,10 @@ Spieltag 17
 [So. 22.12.]
   Fortuna Düsseldorf      - 1. FC Union Berlin
   SC Paderborn 07         - Eintracht Frankfurt
+
+
+# Winterpause incl. 17.1.20
+
 
 Spieltag 18
 [Fr. 17.1.]

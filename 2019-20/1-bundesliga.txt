@@ -202,11 +202,11 @@ Spieltag 14
 [Fr. 6.12.]
   Eintracht Frankfurt     2-2 Hertha BSC
 [Sa. 7.12.]
-  Borussia Dortmund       - Fortuna Düsseldorf
-  RB Leipzig              - TSG Hoffenheim
-  Bor. Mönchengladbach    - Bayern München
-  SC Freiburg             - VfL Wolfsburg
-  FC Augsburg             - 1. FSV Mainz 05
+  Borussia Dortmund       5-0 Fortuna Düsseldorf
+  RB Leipzig              3-1 TSG Hoffenheim
+  Bor. Mönchengladbach    2-1 Bayern München
+  SC Freiburg             1-0 VfL Wolfsburg
+  FC Augsburg             2-1 1. FSV Mainz 05
   Bayer 04 Leverkusen     - FC Schalke 04
 [So. 8.12.]
   1. FC Union Berlin      - 1. FC Köln

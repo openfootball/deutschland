@@ -1,5 +1,5 @@
 #####################################
-# Deutsche 3. Liga 2017/18
+= Deutsche 3. Liga 2017/18
 
 
 1. Spieltag
@@ -295,7 +295,6 @@
     Preußen Münster           5-0  Rot-Weiß Erfurt      
     Hansa Rostock             0-3  Sportfreunde Lotte
     FSV Zwickau               3-2  Chemnitzer FC
-    
     FC Carl Zeiss Jena        4-3  SV Wehen Wiesbaden
     Würzburger Kickers        2-0  SV Meppen
     1. FC Magdeburg           3-0  SG Sonnenhof Großaspach

@@ -1,5 +1,5 @@
 ###############################
-# Deutsche Bundesliga 2016/17
+= Deutsche Bundesliga 2016/17
 
 1. Spieltag
 [Fr 26.8.]

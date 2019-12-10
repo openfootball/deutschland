@@ -1,5 +1,5 @@
 ###############################
-# Deutsche Bundesliga 2017/18
+= Deutsche Bundesliga 2017/18
 
 
 Spieltag 1
@@ -15,7 +15,6 @@ Spieltag 1
 [So 20.8.]
  15.30   SC Freiburg              0:0  Eintracht Frankfurt
  18.00   Bor. Mönchengladbach     1:0  1. FC Köln
-
 
 Spieltag 2
 [Fr 25.8.]
@@ -184,7 +183,6 @@ Spieltag 13
 [So 26.11.]
  15.30   Hamburger SV             3:0  1899 Hoffenheim
  18.00   1. FC Köln               0:2  Hertha BSC
-
    
 Spieltag 14
 [Fr 1.12.]
@@ -227,7 +225,6 @@ Spieltag 16
   20.30   Hertha BSC              3:1  Hannover 96
   20.30   FC Schalke 04           3:2  FC Augsburg
   20.30   Bayer Leverkusen        1:0  Werder Bremen
-   
 
 Spieltag 17
 [Fr 15.12.]
@@ -243,5 +240,4 @@ Spieltag 17
   15.30   Hannover 96             4:4  Bayer Leverkusen
   18.00   RB Leipzig              2:3  Hertha BSC
    
-Winterpause bis 12.1.18
-   
+#Winterpause bis 12.1.18

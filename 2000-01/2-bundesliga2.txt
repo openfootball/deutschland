@@ -1,0 +1,508 @@
+= Deutsche 2. Bundesliga 2000/01
+
+
+Spieltag 1
+[Fr 11.08.]
+  Hannover 1-1 Nürnberg
+  Stuttgarter K 1-0 Oberhausen
+[Sa 12.08.]
+  Aalen 3-6 St Pauli
+  Bor. Mönchengladbach 0-0 Saarbrücken
+[So 13.08.]
+  Bielefeld 3-1 Osnabrück
+  Greuther Fürth 4-1 Chemnitz
+  SV Waldhof Mannheim 3-0 Aachen
+  Reutlingen 3-2 Mainz
+[Mo 14.08.]
+  Duisburg 1-2 Ulm
+
+Spieltag 2
+[Fr 18.08.]
+  Chemnitz 0-2 Hannover
+  St Pauli 5-0 SV Waldhof Mannheim
+[Sa 19.08.]
+  Aachen 4-1 Reutlingen
+  Osnabrück 1-3 Bor. Mönchengladbach
+[So 20.08.]
+  Mainz 2-2 Stuttgarter K
+  Nürnberg 2-0 Aalen
+  Oberhausen 1-0 Duisburg
+  Saarbrücken 2-1 Greuther Fürth
+[Mo 21.08.]
+  Ulm 0-1 Bielefeld
+
+Spieltag 3
+[Mo 04.09.]
+  Bor. Mönchengladbach 5-0 Ulm
+[Di 05.09.]
+  Bielefeld 2-0 Oberhausen
+  Chemnitz 1-3 Saarbrücken
+  Duisburg 0-0 Mainz
+  Hannover 1-1 Aalen
+  Reutlingen 2-0 St Pauli
+[Mi 06.09.]
+  Greuther Fürth 2-0 Osnabrück
+  SV Waldhof Mannheim 1-4 Nürnberg
+  Stuttgarter K 0-3 Aachen
+
+Spieltag 4
+[Fr 08.09.]
+  Mainz 2-4 Bielefeld
+  Saarbrücken 2-1 Hannover
+[Sa 09.09.]
+  Aalen 1-2 SV Waldhof Mannheim
+  Nürnberg 2-0 Reutlingen
+[So 10.09.]
+  Oberhausen 1-1 Bor. Mönchengladbach
+  Osnabrück 1-1 Chemnitz
+  St Pauli 4-0 Stuttgarter K
+  Ulm 2-2 Greuther Fürth
+[Mo 11.09.]
+  Aachen 1-0 Duisburg
+
+Spieltag 5
+[Fr 15.09.]
+  Duisburg 4-1 St Pauli
+  Hannover 3-0 SV Waldhof Mannheim
+[Sa 16.09.]
+  Bor. Mönchengladbach 1-1 Mainz
+  Reutlingen 5-1 Aalen
+[So 17.09.]
+  Chemnitz 1-0 Ulm
+  Greuther Fürth 1-2 Oberhausen
+  Saarbrücken 2-1 Osnabrück
+  Stuttgarter K 0-2 Nürnberg
+[Mo 18.09.]
+  Bielefeld 1-1 Aachen
+
+Spieltag 6
+[Fr 22.09.]
+  Nürnberg 3-1 Duisburg
+  Ulm 3-1 Saarbrücken
+[Sa 23.09.]
+  SV Waldhof Mannheim 1-1 Reutlingen
+  St Pauli 2-0 Bielefeld
+[So 24.09.]
+  Aalen 1-1 Stuttgarter K
+  Mainz 1-0 Greuther Fürth
+  Oberhausen 4-1 Chemnitz
+  Osnabrück 0-1 Hannover
+[Mo 25.09.]
+  Aachen 1-1 Bor. Mönchengladbach
+
+Spieltag 7
+[Fr 29.09.]
+  Duisburg 3-3 Aalen
+  Saarbrücken 3-2 Oberhausen
+[Sa 30.09.]
+  Bor. Mönchengladbach 4-2 St Pauli
+  Stuttgarter K 2-2 SV Waldhof Mannheim
+[So 01.10.]
+  Chemnitz 0-2 Mainz
+  Greuther Fürth 3-0 Aachen
+  Hannover 5-1 Reutlingen
+  Osnabrück 2-1 Ulm
+[Mo 02.10.]
+  Bielefeld 1-2 Nürnberg
+
+Spieltag 8
+[Fr 13.10.]
+  Aachen 1-2 Chemnitz
+  SV Waldhof Mannheim 1-0 Duisburg
+[Sa 14.10.]
+  Aalen 1-1 Bielefeld
+  Mainz 1-0 Saarbrücken
+[So 15.10.]
+  Oberhausen 5-2 Osnabrück
+  Reutlingen 1-0 Stuttgarter K
+  St Pauli 3-3 Greuther Fürth
+  Ulm 3-3 Hannover
+[Mo 16.10.]
+  Nürnberg 2-1 Bor. Mönchengladbach
+
+Spieltag 9
+[Fr 20.10.]
+  Bielefeld 0-0 SV Waldhof Mannheim
+  Chemnitz 1-3 St Pauli
+[Sa 21.10.]
+  Greuther Fürth 0-0 Nürnberg
+  Hannover 1-0 Stuttgarter K
+[So 22.10.]
+  Duisburg 4-3 Reutlingen
+  Osnabrück 2-1 Mainz
+  Saarbrücken 1-3 Aachen
+  Ulm 0-1 Oberhausen
+[Mo 23.10.]
+  Bor. Mönchengladbach 1-2 Aalen
+
+Spieltag 10
+[Fr 27.10.]
+  Nürnberg 3-1 Chemnitz
+  Reutlingen 3-2 Bielefeld
+[Sa 28.10.]
+  Aachen 0-0 Osnabrück
+  Mainz 0-3 Ulm
+[So 29.10.]
+  Aalen 2-0 Greuther Fürth
+  SV Waldhof Mannheim 4-0 Bor. Mönchengladbach
+  Oberhausen 0-0 Hannover
+  St Pauli 2-2 Saarbrücken
+  Stuttgarter K 0-0 Duisburg
+
+Spieltag 11
+[Fr 03.11.]
+  Bielefeld 0-0 Stuttgarter K
+  Chemnitz 2-2 Aalen
+[Sa 04.11.]
+  Hannover 0-2 Duisburg
+  Oberhausen 1-0 Mainz
+[So 05.11.]
+  Greuther Fürth 2-1 SV Waldhof Mannheim
+  Bor. Mönchengladbach 1-1 Reutlingen
+  Osnabrück 0-0 St Pauli
+  Ulm 3-1 Aachen
+[Mo 06.11.]
+  Saarbrücken 2-2 Nürnberg
+
+Spieltag 12
+[Fr 10.11.]
+  Duisburg 2-1 Bielefeld
+  SV Waldhof Mannheim 0-0 Chemnitz
+[Sa 11.11.]
+  Mainz 0-2 Hannover
+  St Pauli 1-0 Ulm
+[So 12.11.]
+  Aachen 3-1 Oberhausen
+  Aalen 2-0 Saarbrücken
+  Reutlingen 2-2 Greuther Fürth
+  Stuttgarter K 1-1 Bor. Mönchengladbach
+[Mo 13.11.]
+  Nürnberg 3-1 Osnabrück
+
+Spieltag 13
+[Fr 17.11.]
+  Mainz 1-1 Aachen
+  Ulm 0-1 Nürnberg
+[Sa 18.11.]
+  Osnabrück 1-1 Aalen
+[So 19.11.]
+  Chemnitz 1-3 Reutlingen
+  Greuther Fürth 2-0 Stuttgarter K
+  Bor. Mönchengladbach 1-1 Duisburg
+  Oberhausen 2-3 St Pauli
+[Mo 20.11.]
+  Hannover 4-2 Bielefeld
+  Saarbrücken 3-3 SV Waldhof Mannheim
+
+Spieltag 14
+[Fr 24.11.]
+  Aachen 0-4 Hannover
+  Duisburg 0-0 Greuther Fürth
+[Sa 25.11.]
+  Aalen 1-0 Ulm
+  Bielefeld 1-2 Bor. Mönchengladbach
+[So 26.11.]
+  SV Waldhof Mannheim 2-0 Osnabrück
+  Nürnberg 2-1 Oberhausen
+  Reutlingen 8-2 Saarbrücken
+  Stuttgarter K 4-0 Chemnitz
+[Mo 27.11.]
+  St Pauli 2-2 Mainz
+
+Spieltag 15
+[Fr 01.12.]
+  Chemnitz 1-3 Duisburg
+  Greuther Fürth 1-0 Bielefeld
+[Sa 02.12.]
+  Osnabrück 0-2 Reutlingen
+  Saarbrücken 1-0 Stuttgarter K
+[So 03.12.]
+  Mainz 2-0 Nürnberg
+  Oberhausen 1-0 Aalen
+  St Pauli 3-3 Aachen
+  Ulm 1-0 SV Waldhof Mannheim
+[Mo 04.12.]
+  Bor. Mönchengladbach 2-0 Hannover
+
+Spieltag 16
+[Fr 08.12.]
+  Duisburg 2-1 Saarbrücken
+  Reutlingen 2-2 Ulm
+[Sa 09.12.]
+  Bielefeld 5-1 Chemnitz
+  Stuttgarter K 2-1 Osnabrück
+[So 10.12.]
+  Aalen 1-0 Mainz
+  Bor. Mönchengladbach 3-1 Greuther Fürth
+  SV Waldhof Mannheim 5-0 Oberhausen
+  Nürnberg 6-1 Aachen
+[Mo 11.12.]
+  Hannover 1-1 St Pauli
+
+Spieltag 17
+[Di 12.12.]
+  Osnabrück 1-3 Duisburg
+  Saarbrücken 1-0 Bielefeld
+  Ulm 1-1 Stuttgarter K
+[Mi 13.12.]
+  Aachen 4-3 Aalen
+  Chemnitz 0-3 Bor. Mönchengladbach
+  Mainz 0-1 SV Waldhof Mannheim
+  Oberhausen 2-0 Reutlingen
+[Do 14.12.]
+  Greuther Fürth 2-1 Hannover
+  St Pauli 1-0 Nürnberg
+
+Spieltag 18
+[Fr 15.12.]
+  Osnabrück 1-0 Bielefeld
+  Ulm 1-3 Duisburg
+[Sa 16.12.]
+  Mainz 1-1 Reutlingen
+  Oberhausen 1-3 Stuttgarter K
+[So 17.12.]
+  Chemnitz 0-2 Greuther Fürth
+  Nürnberg 4-2 Hannover
+  Saarbrücken 0-4 Bor. Mönchengladbach
+  St Pauli 3-2 Aalen
+[Mo 18.12.]
+  Aachen 0-1 SV Waldhof Mannheim
+
+Spieltag 19
+[Fr 26.01.]
+  Hannover 0-0 Chemnitz
+  SV Waldhof Mannheim 2-1 St Pauli
+[Sa 27.01.]
+  Bor. Mönchengladbach 0-0 Osnabrück
+  Reutlingen 3-1 Aachen
+[So 28.01.]
+  Aalen 0-1 Nürnberg
+  Duisburg 1-2 Oberhausen
+  Greuther Fürth 0-1 Saarbrücken
+  Stuttgarter K 0-0 Mainz
+[Mo 29.01.]
+  Bielefeld 1-1 Ulm
+
+Spieltag 20
+[Fr 02.02.]
+  Aalen 2-1 Hannover
+  Nürnberg 1-0 SV Waldhof Mannheim
+[So 04.02.]
+  Osnabrück 2-1 Greuther Fürth
+[Fr 09.02.]
+  Hannover 3-0 Saarbrücken
+  Stuttgarter K 0-2 St Pauli
+[Sa 10.02.]
+  Chemnitz 1-2 Osnabrück
+  Bor. Mönchengladbach 1-0 Oberhausen
+[So 11.02.]
+  Bielefeld 4-1 Mainz
+  Greuther Fürth 1-0 Ulm
+
+Spieltag 21
+  SV Waldhof Mannheim 0-3 Aalen
+  Reutlingen 3-2 Nürnberg
+[Mo 12.02.]
+  Duisburg 4-0 Aachen
+[Mi 14.02.]
+  Oberhausen 0-0 Bielefeld
+  Saarbrücken 4-1 Chemnitz
+  Ulm 2-4 Bor. Mönchengladbach
+[Fr 16.02.]
+  SV Waldhof Mannheim 2-1 Hannover
+  Nürnberg 2-1 Stuttgarter K
+[Sa 17.02.]
+  Mainz 0-1 Bor. Mönchengladbach
+
+Spieltag 22
+  Oberhausen 2-2 Greuther Fürth
+[So 18.02.]
+  Aalen 3-1 Reutlingen
+  Osnabrück 2-2 Saarbrücken
+  St Pauli 1-0 Duisburg
+  Ulm 3-0 Chemnitz
+[Mo 19.02.]
+  Aachen 1-0 Bielefeld
+[Fr 23.02.]
+  Duisburg 3-2 Nürnberg
+  Saarbrücken 1-1 Ulm
+[Sa 24.02.]
+  Bielefeld 3-3 St Pauli
+
+Spieltag 23
+  Bor. Mönchengladbach 6-1 Aachen
+[So 25.02.]
+  Greuther Fürth 3-1 Mainz
+  Reutlingen 1-1 SV Waldhof Mannheim
+[Mo 26.02.]
+  Hannover 1-1 Osnabrück
+[Mi 28.02.]
+  Aachen 3-0 Stuttgarter K
+  Mainz 1-0 Duisburg
+[Do 01.03.]
+  St Pauli 1-0 Reutlingen
+[Fr 02.03.]
+  Ulm 1-1 Osnabrück
+[Sa 03.03.]
+  Mainz 3-1 Chemnitz
+
+Spieltag 24
+  Nürnberg 2-1 Bielefeld
+[So 04.03.]
+  Aachen 0-0 Greuther Fürth
+  Aalen 3-2 Duisburg
+  SV Waldhof Mannheim 4-2 Stuttgarter K
+  Reutlingen 3-0 Hannover
+[Mo 05.03.]
+  St Pauli 0-2 Bor. Mönchengladbach
+[Fr 09.03.]
+  Duisburg 0-1 SV Waldhof Mannheim
+  Osnabrück 0-0 Oberhausen
+[Sa 10.03.]
+  Bielefeld 1-1 Aalen
+
+Spieltag 25
+  Saarbrücken 1-1 Mainz
+[So 11.03.]
+  Chemnitz 2-3 Aachen
+  Greuther Fürth 5-1 St Pauli
+  Hannover 2-0 Ulm
+  Stuttgarter K 1-0 Reutlingen
+[Mo 12.03.]
+  Bor. Mönchengladbach 1-1 Nürnberg
+[Fr 16.03.]
+  Aachen 1-0 Saarbrücken
+  Stuttgarter K 2-0 Hannover
+[Sa 17.03.]
+  Nürnberg 0-1 Greuther Fürth
+
+Spieltag 26
+  Oberhausen 3-1 Ulm
+[So 18.03.]
+  Aalen 2-1 Bor. Mönchengladbach
+  Mainz 2-0 Osnabrück
+  Reutlingen 0-1 Duisburg
+  St Pauli 3-0 Chemnitz
+[Mo 19.03.]
+  SV Waldhof Mannheim 3-3 Bielefeld
+[Mi 21.03.]
+  Chemnitz 0-1 Oberhausen
+  Stuttgarter K 1-1 Aalen
+[Fr 30.03.]
+  Chemnitz 1-1 Nürnberg
+
+Spieltag 27
+  Saarbrücken 1-0 St Pauli
+[Sa 31.03.]
+  Bielefeld 3-1 Reutlingen
+  Hannover 3-0 Oberhausen
+[So 01.04.]
+  Duisburg 0-0 Stuttgarter K
+  Greuther Fürth 2-4 Aalen
+  Osnabrück 5-1 Aachen
+  Ulm 0-2 Mainz
+[Mo 02.04.]
+  Bor. Mönchengladbach 3-0 SV Waldhof Mannheim
+[Fr 06.04.]
+  Duisburg 2-1 Hannover
+
+Spieltag 28
+  Nürnberg 0-1 Saarbrücken
+[Sa 07.04.]
+  Aalen 5-2 Chemnitz
+  SV Waldhof Mannheim 2-1 Greuther Fürth
+[So 08.04.]
+  Aachen 1-0 Ulm
+  Mainz 1-0 Oberhausen
+  St Pauli 2-4 Osnabrück
+  Stuttgarter K 2-1 Bielefeld
+[Mo 09.04.]
+  Reutlingen 3-1 Bor. Mönchengladbach
+[Mi 11.04.]
+  Oberhausen 4-1 Saarbrücken
+
+Spieltag 29
+[Do 12.04.]
+  Bielefeld 1-1 Duisburg
+  Chemnitz 0-0 SV Waldhof Mannheim
+[Sa 14.04.]
+  Hannover 2-4 Mainz
+  Oberhausen 3-0 Aachen
+[So 15.04.]
+  Greuther Fürth 1-0 Reutlingen
+  Bor. Mönchengladbach 1-0 Stuttgarter K
+  Ulm 1-4 St Pauli
+[Mo 16.04.]
+  Osnabrück 2-1 Nürnberg
+[Fr 20.04.]
+  Aachen 1-0 Mainz
+
+Spieltag 30
+  SV Waldhof Mannheim 2-3 Saarbrücken
+[Sa 21.04.]
+  St Pauli 4-1 Oberhausen
+[So 22.04.]
+  Aalen 1-0 Osnabrück
+  Bielefeld 5-2 Hannover
+  Nürnberg 1-2 Ulm
+  Stuttgarter K 0-5 Greuther Fürth
+[Mo 23.04.]
+  Duisburg 0-2 Bor. Mönchengladbach
+[Mi 25.04.]
+  Reutlingen 2-0 Chemnitz
+  Saarbrücken 1-2 Aalen
+
+Spieltag 31
+[Fr 27.04.]
+  Hannover 0-0 Aachen
+  Bor. Mönchengladbach 0-1 Bielefeld
+[Sa 28.04.]
+  Chemnitz 0-2 Stuttgarter K
+  Mainz 1-1 St Pauli
+[So 29.04.]
+  Oberhausen 1-2 Nürnberg
+  Osnabrück 0-2 SV Waldhof Mannheim
+  Saarbrücken 2-2 Reutlingen
+  Ulm 2-0 Aalen
+[Mo 30.04.]
+  Greuther Fürth 1-0 Duisburg
+
+Spieltag 32
+[Fr 04.05.]
+  Duisburg 1-1 Chemnitz
+  Stuttgarter K 0-1 Saarbrücken
+[Sa 05.05.]
+  Aachen 0-1 St Pauli
+[So 06.05.]
+  Bielefeld 1-1 Greuther Fürth
+  Nürnberg 1-0 Mainz
+  Reutlingen 2-0 Osnabrück
+[Mo 07.05.]
+  Hannover 0-0 Bor. Mönchengladbach
+[Mi 09.05.]
+  Aalen 4-1 Oberhausen
+  SV Waldhof Mannheim 5-0 Ulm
+
+Spieltag 33
+[So 13.05.]
+  Aachen 0-1 Nürnberg
+  Chemnitz 1-0 Bielefeld
+  Greuther Fürth 2-2 Bor. Mönchengladbach
+  Mainz 2-2 Aalen
+  Oberhausen 1-2 SV Waldhof Mannheim
+  Osnabrück 4-1 Stuttgarter K
+  Saarbrücken 1-0 Duisburg
+  St Pauli 2-2 Hannover
+  Ulm 2-3 Reutlingen
+
+Spieltag 34
+[So 20.05.]
+  Aalen 1-2 Aachen
+  Bielefeld 4-2 Saarbrücken
+  Duisburg 2-2 Osnabrück
+  Hannover 2-1 Greuther Fürth
+  Bor. Mönchengladbach 3-0 Chemnitz
+  SV Waldhof Mannheim 4-0 Mainz
+  Nürnberg 1-2 St Pauli
+  Reutlingen 1-1 Oberhausen
+  Stuttgarter K 2-4 Ulm

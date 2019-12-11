@@ -1,0 +1,471 @@
+= Deutsche 2. Bundesliga 2008/09
+
+
+Spieltag 1
+[Fr 15.08.]
+  Aachen 2-1 Wehen
+  Mainz 3-3 Kaiserslautern 
+  St Pauli 2-2 Osnabrück
+[So 17.08.]
+  Aalen 2-1 Frankfurt FSV
+  Freiburg 2-1 TSV 1860 München
+  Ingolstadt 3-2 Greuther Fürth
+  Koblenz 3-0 Oberhausen
+  Nürnberg 2-1 Augsburg
+[Mo 18.08.]
+  Duisburg 2-2 Hansa Rostock
+
+Spieltag 2
+[Fr 22.08.]
+  Frankfurt FSV 0-0 Koblenz
+  Greuther Fürth 5-2 St Pauli
+  Osnabrück 2-2 Freiburg
+[So 24.08.]
+  Augsburg 3-0 Aalen
+  Hansa Rostock 1-0 Aachen
+  TSV 1860 München 1-2 Mainz
+  Oberhausen 2-1 Ingolstadt
+  Wehen 1-1 Duisburg
+[Mo 25.08.]
+  Kaiserslautern 2-1 Nürnberg
+
+Spieltag 3
+[Fr 29.08.]
+  Duisburg 2-0 Augsburg
+  Ingolstadt 1-3 Kaiserslautern 
+  Mainz 4-2 Osnabrück
+[So 31.08.]
+  Aalen 2-1 TSV 1860 München
+  Frankfurt FSV 1-1 Greuther Fürth
+  Koblenz 0-0 Wehen
+  Nürnberg 2-2 Aachen
+  St Pauli 4-1 Oberhausen
+[Mo 01.09.]
+  Freiburg 1-0 Hansa Rostock
+
+Spieltag 4
+[Fr 12.09.]
+  Aachen 1-0 Ingolstadt
+  Kaiserslautern 4-1 St Pauli
+  Oberhausen 1-3 Aalen
+[So 14.09.]
+  Augsburg 1-3 Freiburg
+  Greuther Fürth 4-3 Koblenz
+  Hansa Rostock 2-2 Mainz
+  Osnabrück 3-2 Frankfurt FSV
+  Wehen 2-2 Nürnberg
+[Mo 15.09.]
+  TSV 1860 München 2-0 Duisburg
+
+Spieltag 5
+[Fr 19.09.]
+  Aalen 2-2 Hansa Rostock
+  Duisburg 3-2 Aachen
+  Koblenz 2-1 Augsburg
+  Mainz 2-0 Nürnberg
+  St Pauli 1-0 TSV 1860 München
+[So 21.09.]
+  Frankfurt FSV 3-1 Oberhausen
+  Freiburg 5-0 Wehen
+  Ingolstadt 2-1 Osnabrück
+[Mo 22.09.]
+  Greuther Fürth 0-1 Kaiserslautern 
+
+Spieltag 6
+[Fr 26.09.]
+  Hansa Rostock 3-0 St Pauli
+  Oberhausen 0-4 Greuther Fürth
+  Osnabrück 1-0 Koblenz
+[So 28.09.]
+  Aachen 1-0 Freiburg
+  Augsburg 0-2 Mainz
+  Kaiserslautern 2-1 Frankfurt FSV
+  TSV 1860 München 1-1 Ingolstadt
+  Wehen 1-3 Aalen
+[Mo 29.09.]
+  Nürnberg 0-1 Duisburg
+
+Spieltag 7
+[Fr 03.10.]
+  Frankfurt FSV 0-3 TSV 1860 München
+  Freiburg 2-0 Duisburg
+  Oberhausen 2-1 Augsburg
+[So 05.10.]
+  Aalen 1-1 Nürnberg
+  Greuther Fürth 4-2 Osnabrück
+  Ingolstadt 4-2 Hansa Rostock
+  Koblenz 5-0 Kaiserslautern 
+  St Pauli 3-2 Aachen
+[Mo 06.10.]
+  Mainz 5-0 Wehen
+
+Spieltag 8
+[Fr 17.10.]
+  Kaiserslautern 4-1 Aalen
+  Nürnberg 2-0 Freiburg
+  Osnabrück 2-1 Oberhausen
+[So 19.10.]
+  Augsburg 3-2 St Pauli
+  Duisburg 6-1 Ingolstadt
+  Hansa Rostock 9-0 Koblenz
+  TSV 1860 München 3-1 Greuther Fürth
+  Wehen 3-1 Frankfurt FSV
+[Mo 20.10.]
+  Aachen 2-0 Mainz
+
+Spieltag 9
+[Fr 24.10.]
+  Aalen 0-3 Freiburg
+  Frankfurt FSV 0-0 Hansa Rostock
+  Greuther Fürth 1-1 Aachen
+  Ingolstadt 1-2 Augsburg
+  St Pauli 2-0 Wehen
+[So 26.10.]
+  Koblenz 1-1 Nürnberg
+  Mainz 0-0 Duisburg
+  Oberhausen 2-1 Kaiserslautern 
+  Osnabrück 0-2 TSV 1860 München
+
+Spieltag 10
+[Di 28.10.]
+  Aachen 0-2 Aalen
+  Augsburg 2-2 Frankfurt FSV
+  Hansa Rostock 1-2 Greuther Fürth
+  Wehen 0-0 Ingolstadt
+[Mi 29.10.]
+  Duisburg 1-2 St Pauli
+  Freiburg 0-1 Mainz
+  Kaiserslautern 2-0 Osnabrück
+  TSV 1860 München 1-0 Koblenz
+  Nürnberg 2-1 Oberhausen
+
+Spieltag 11
+[Fr 31.10.]
+  Frankfurt FSV 0-3 Aachen
+  Greuther Fürth 1-1 Wehen
+[So 02.11.]
+  Aalen 0-2 Mainz
+  Ingolstadt 4-0 Freiburg
+  Koblenz 1-1 Duisburg
+  Oberhausen 1-0 Hansa Rostock
+  Osnabrück 1-1 Augsburg
+  St Pauli 1-0 Nürnberg
+[Mo 03.11.]
+  Kaiserslautern 0-0 TSV 1860 München
+
+Spieltag 12
+[Fr 07.11.]
+  Aachen 2-0 Koblenz
+  Nürnberg 0-0 Frankfurt FSV
+  Wehen 4-2 Kaiserslautern 
+[So 09.11.]
+  Augsburg 1-1 Greuther Fürth
+  Duisburg 0-1 Aalen
+  Hansa Rostock 2-2 Osnabrück
+  Mainz 0-3 Ingolstadt
+  TSV 1860 München 0-1 Oberhausen
+[Mo 10.11.]
+  Freiburg 2-0 St Pauli
+
+Spieltag 13
+[Fr 14.11.]
+  TSV 1860 München 0-1 Augsburg
+  Osnabrück 1-1 Wehen
+  St Pauli 2-2 Aalen
+[So 16.11.]
+  Frankfurt FSV 1-2 Freiburg
+  Greuther Fürth 4-3 Duisburg
+  Ingolstadt 0-3 Nürnberg
+  Koblenz 0-3 Mainz
+  Oberhausen 1-1 Aachen
+[Mo 17.11.]
+  Kaiserslautern 6-0 Hansa Rostock
+
+Spieltag 14
+[Fr 21.11.]
+  Aachen 3-1 Osnabrück
+  Aalen 3-0 Ingolstadt
+  Duisburg 0-0 Frankfurt FSV
+[So 23.11.]
+  Augsburg 1-0 Kaiserslautern 
+  Freiburg 1-1 Koblenz
+  Mainz 2-2 St Pauli
+  Nürnberg 2-1 Greuther Fürth
+  Wehen 0-0 Oberhausen
+[Mo 24.11.]
+  Hansa Rostock 0-1 TSV 1860 München
+
+Spieltag 15
+[Fr 28.11.]
+  Kaiserslautern 1-1 Aachen
+  Koblenz 4-1 Aalen
+  Osnabrück 1-1 Nürnberg
+[So 30.11.]
+  Augsburg 2-0 Hansa Rostock
+  Greuther Fürth 1-1 Freiburg
+  TSV 1860 München 3-3 Wehen
+  Oberhausen 0-3 Duisburg
+  St Pauli 1-0 Ingolstadt
+[Mo 01.12.]
+  Frankfurt FSV 1-4 Mainz
+
+Spieltag 16
+[Fr 05.12.]
+  Aachen 2-0 TSV 1860 München
+  Ingolstadt 1-1 Frankfurt FSV
+  Mainz 0-1 Greuther Fürth
+[So 07.12.]
+  Aalen 1-2 Osnabrück
+  Duisburg 0-0 Kaiserslautern 
+  Freiburg 2-1 Oberhausen
+  St Pauli 3-2 Koblenz
+  Wehen 1-2 Augsburg
+[Mo 08.12.]
+  Nürnberg 4-0 Hansa Rostock
+
+Spieltag 17
+[Fr 12.12.]
+  Frankfurt FSV 1-0 St Pauli
+  Koblenz 0-1 Ingolstadt
+  Osnabrück 1-1 Duisburg
+[So 14.12.]
+  Augsburg 3-1 Aachen
+  Greuther Fürth 3-0 Aalen
+  Hansa Rostock 1-0 Wehen
+  TSV 1860 München 1-1 Nürnberg
+  Oberhausen 2-1 Mainz
+[Mo 15.12.]
+  Kaiserslautern  2-0 Freiburg
+
+Spieltag 18
+[Fr 30.01.]
+  Augsburg 0-0 Nürnberg
+  Oberhausen 0-0 Koblenz
+  Osnabrück 2-2 St Pauli
+[So 01.02.]
+  Frankfurt FSV 4-0 Aalen
+  Greuther Fürth 6-1 Ingolstadt
+  Hansa Rostock 0-1 Duisburg
+  TSV 1860 München 0-2 Freiburg
+  Wehen 1-0 Aachen
+[Mo 02.02.]
+  Kaiserslautern 1-1 Mainz
+
+Spieltag 19
+[Fr 06.02.]
+  Aachen 3-3 Hansa Rostock
+  Freiburg 4-1 Osnabrück
+  Koblenz 1-3 Frankfurt FSV
+[So 08.02.]
+  Aalen 2-1 Augsburg
+  Duisburg 2-1 Wehen
+  Ingolstadt 0-0 Oberhausen
+  Mainz 2-2 TSV 1860 München
+  St Pauli 0-3 Greuther Fürth
+[Mo 09.02.]
+  Nürnberg 3-0 Kaiserslautern 
+
+Spieltag 20
+[Fr 13.02.]
+  Greuther Fürth 0-0 Frankfurt FSV
+  Oberhausen 3-2 St Pauli
+  Wehen 1-3 Koblenz
+[So 15.02.]
+  Aachen 6-2 Nürnberg
+  Augsburg 1-1 Duisburg
+  Kaiserslautern 2-0 Ingolstadt
+  TSV 1860 München 2-1 Aalen
+  Osnabrück 1-3 Mainz
+[Mo 16.02.]
+  Hansa Rostock 1-3 Freiburg
+
+Spieltag 21
+[Fr 20.02.]
+  Freiburg 1-0 Augsburg
+  Ingolstadt 0-0 Aachen
+  Mainz 3-1 Hansa Rostock
+[So 22.02.]
+  Aalen 1-3 Oberhausen
+  Duisburg 4-1 TSV 1860 München
+  Frankfurt FSV 1-0 Osnabrück
+  Koblenz 3-0 Greuther Fürth
+  Nürnberg 1-0 Wehen
+[Mo 23.02.]
+  St Pauli 2-0 Kaiserslautern 
+
+Spieltag 22
+[Fr 27.02.]
+  Hansa Rostock 0-0 Aalen
+  Nürnberg 0-0 Mainz
+  Wehen 0-1 Freiburg
+[So 01.03.]
+  Augsburg 0-2 Koblenz
+  Kaiserslautern 1-2 Greuther Fürth
+  TSV 1860 München 5-1 St Pauli
+  Oberhausen 2-0 Frankfurt FSV
+  Osnabrück 1-0 Ingolstadt
+[Mo 02.03.]
+  Aachen 1-2 Duisburg
+
+Spieltag 23
+[Fr 06.03.]
+  Frankfurt FSV 1-0 Kaiserslautern 
+  Koblenz 3-0 Osnabrück
+  St Pauli 3-2 Hansa Rostock
+[So 08.03.]
+  Aalen 1-0 Wehen
+  Freiburg 2-1 Aachen
+  Greuther Fürth 3-1 Oberhausen
+  Ingolstadt 2-3 TSV 1860 München
+  Mainz 1-1 Augsburg
+[Mo 09.03.]
+  Duisburg 2-2 Nürnberg
+
+Spieltag 24
+[Fr 13.03.]
+  Kaiserslautern 2-1 Koblenz
+  TSV 1860 München 1-1 Frankfurt FSV
+  Nürnberg 4-0 Aalen
+[So 15.03.]
+  Aachen 1-3 St Pauli
+  Augsburg 1-2 Oberhausen
+  Duisburg 2-0 Freiburg
+  Hansa Rostock 1-1 Ingolstadt
+  Osnabrück 5-1 Greuther Fürth
+[Mo 16.03.]
+  Wehen 0-2 Mainz
+
+Spieltag 25
+[Fr 20.03.]
+  Frankfurt FSV 2-1 Wehen
+  Koblenz 1-1 Hansa Rostock
+  Oberhausen 0-0 Osnabrück
+[So 22.03.]
+  Aalen 0-1 Kaiserslautern 
+  Greuther Fürth 1-0 TSV 1860 München
+  Ingolstadt 0-0 Duisburg
+  Mainz 1-4 Aachen
+  St Pauli 1-1 Augsburg
+[Mo 23.03.]
+  Freiburg 0-1 Nürnberg
+
+Spieltag 26
+[Fr 03.04.]
+  Augsburg 1-1 Ingolstadt
+  Duisburg 0-1 Mainz
+  Nürnberg 2-0 Koblenz
+[So 05.04.]
+  Aachen 1-0 Greuther Fürth
+  Hansa Rostock 2-0 Frankfurt FSV
+  Kaiserslautern 1-1 Oberhausen
+  TSV 1860 München 1-1 Osnabrück
+  Wehen 3-1 St Pauli
+[Mo 06.04.]
+  Freiburg 1-1 Aalen
+
+Spieltag 27
+[Do 09.04.]
+  Greuther Fürth 0-1 Hansa Rostock
+  Ingolstadt 0-0 Wehen
+  Oberhausen 0-3 Nürnberg
+[So 12.04.]
+  Aalen 0-2 Aachen
+  Frankfurt FSV 2-1 Augsburg
+  Koblenz 3-2 TSV 1860 München
+  Osnabrück 0-2 Kaiserslautern 
+  St Pauli 2-2 Duisburg
+[Mo 13.04.]
+  Mainz 1-2 Freiburg
+
+Spieltag 28
+[Fr 17.04.]
+  Augsburg 3-0 Osnabrück
+  Hansa Rostock 3-1 Oberhausen
+  Mainz 0-0 Aalen
+[So 19.04.]
+  Aachen 2-0 Frankfurt FSV
+  Duisburg 2-3 Koblenz
+  Freiburg 3-2 Ingolstadt
+  Nürnberg 2-0 St Pauli
+  Wehen 0-1 Greuther Fürth
+[Mo 20.04.]
+  TSV 1860 München 1-1 Kaiserslautern 
+
+Spieltag 29
+[Fr 24.04.]
+  Aalen 0-2 Duisburg
+  Greuther Fürth 2-1 Augsburg
+  St Pauli 1-2 Freiburg
+[So 26.04.]
+  Frankfurt FSV 2-1 Nürnberg
+  Ingolstadt 3-4 Mainz
+  Kaiserslautern 1-0 Wehen
+  Koblenz 0-2 Aachen
+  Oberhausen 1-1 TSV 1860 München
+[Mo 27.04.]
+  Osnabrück 0-0 Hansa Rostock
+
+Spieltag 30
+[Fr 01.05.]
+  Augsburg 3-0 TSV 1860 München
+  Hansa Rostock 5-1 Kaiserslautern 
+  Wehen 0-1 Osnabrück
+[So 03.05.]
+  Aachen 2-2 Oberhausen
+  Aalen 1-0 St Pauli
+  Freiburg 4-1 Frankfurt FSV
+  Mainz 2-0 Koblenz
+  Nürnberg 1-0 Ingolstadt
+[Mo 04.05.]
+  Duisburg 2-0 Greuther Fürth
+
+Spieltag 31
+[Fr 08.05.]
+  Frankfurt FSV 0-0 Duisburg
+  Kaiserslautern 1-0 Augsburg
+  TSV 1860 München 3-3 Hansa Rostock
+  Oberhausen 0-1 Wehen
+  Osnabrück 2-1 Aachen
+[So 10.05.]
+  Greuther Fürth 1-1 Nürnberg
+  Ingolstadt 0-2 Aalen
+  Koblenz 2-5 Freiburg
+  St Pauli 2-0 Mainz
+
+Spieltag 32
+[Di 12.05.]
+  Aachen 1-0 Kaiserslautern 
+  Duisburg 1-1 Oberhausen
+  Hansa Rostock 3-3 Augsburg
+  Wehen 0-0 TSV 1860 München
+[Mi 13.05.]
+  Aalen 1-1 Koblenz
+  Freiburg 0-0 Greuther Fürth
+  Mainz 2-1 Frankfurt FSV
+  Nürnberg 2-0 Osnabrück
+[Do 14.05.]
+  Ingolstadt 0-1 St Pauli
+
+Spieltag 33
+[So 17.05.]
+  Augsburg 1-1 Wehen
+  Frankfurt FSV 1-1 Ingolstadt
+  Greuther Fürth 0-2 Mainz
+  Hansa Rostock 0-0 Nürnberg
+  Kaiserslautern 3-5 Duisburg
+  Koblenz 2-1 St Pauli
+  TSV 1860 München 1-1 Aachen
+  Oberhausen 1-0 Freiburg
+  Osnabrück 2-2 Aalen
+
+Spieltag 34
+[So 24.05.]
+  Aachen 4-0 Augsburg
+  Aalen 2-4 Greuther Fürth
+  Duisburg 4-1 Osnabrück
+  Freiburg 4-3 Kaiserslautern 
+  Ingolstadt 4-0 Koblenz
+  Mainz 4-0 Oberhausen
+  Nürnberg 2-1 TSV 1860 München
+  St Pauli 2-0 Frankfurt FSV
+  Wehen 1-1 Hansa Rostock

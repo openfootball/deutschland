@@ -1,0 +1,471 @@
+= Deutsche Bundesliga 2010/11
+
+
+Spieltag 1
+[Fr 20.08.]
+  Bayern Munich 2-1 Wolfsburg
+[Sa 21.08.]
+  FC Köln 1-3 Kaiserslautern
+  Freiburg 1-3 St Pauli
+  Hamburg 2-1 Schalke 04
+  Hannover 2-1 Ein Frankfurt
+  Hoffenheim 4-1 Werder Bremen
+  Bor. Mönchengladbach 1-1 Nürnberg
+[So 22.08.]
+  Dortmund 0-2 Leverkusen
+  Mainz 2-0 Stuttgart
+
+Spieltag 2
+[Fr 27.08.]
+  Kaiserslautern 2-0 Bayern Munich
+[Sa 28.08.]
+  Ein Frankfurt 1-3 Hamburg
+  Nürnberg 1-2 Freiburg
+  Schalke 04 1-2 Hannover
+  St Pauli 0-1 Hoffenheim
+  Werder Bremen 4-2 FC Köln
+  Wolfsburg 3-4 Mainz
+[So 29.08.]
+  Leverkusen 3-6 Bor. Mönchengladbach
+  Stuttgart 1-3 Dortmund
+
+Spieltag 3
+[Fr 10.09.]
+  Hoffenheim 2-0 Schalke 04
+[Sa 11.09.]
+  Bayern Munich 0-0 Werder Bremen
+  Dortmund 2-0 Wolfsburg
+  Freiburg 2-1 Stuttgart
+  Hamburg 1-1 Nürnberg
+  Hannover 2-2 Leverkusen
+  Bor. Mönchengladbach 0-4 Ein Frankfurt
+[So 12.09.]
+  FC Köln 1-0 St Pauli
+  Mainz 2-1 Kaiserslautern
+
+Spieltag 4
+[Fr 17.09.]
+  Ein Frankfurt 0-1 Freiburg
+[Sa 18.09.]
+  Bayern Munich 0-0 FC Köln
+  Kaiserslautern 2-2 Hoffenheim
+  Stuttgart 7-0 Bor. Mönchengladbach
+  Werder Bremen 0-2 Mainz
+  Wolfsburg 2-0 Hannover
+[So 19.09.]
+  Leverkusen 0-0 Nürnberg
+  Schalke 04 1-3 Dortmund
+  St Pauli 1-1 Hamburg
+
+Spieltag 5
+[Di 21.09.]
+  Hannover 4-1 Werder Bremen
+  Hoffenheim 1-2 Bayern Munich
+  Mainz 2-0 FC Köln
+[Mi 22.09.]
+  Dortmund 5-0 Kaiserslautern
+  Freiburg 1-2 Schalke 04
+  Hamburg 1-3 Wolfsburg
+  Leverkusen 2-1 Ein Frankfurt
+  Bor. Mönchengladbach 1-2 St Pauli
+  Nürnberg 2-1 Stuttgart
+
+Spieltag 6
+[Fr 24.09.]
+  FC Köln 1-1 Hoffenheim
+[Sa 25.09.]
+  Bayern Munich 1-2 Mainz
+  Ein Frankfurt 2-0 Nürnberg
+  Schalke 04 2-2 Bor. Mönchengladbach
+  St Pauli 1-3 Dortmund
+  Stuttgart 1-4 Leverkusen
+  Werder Bremen 3-2 Hamburg
+[So 26.09.]
+  Kaiserslautern 0-1 Hannover
+  Wolfsburg 2-1 Freiburg
+
+Spieltag 7
+[Fr 01.10.]
+  Hannover 0-1 St Pauli
+[Sa 02.10.]
+  Freiburg 3-2 FC Köln
+  Hamburg 2-1 Kaiserslautern
+  Mainz 4-2 Hoffenheim
+  Bor. Mönchengladbach 1-1 Wolfsburg
+  Nürnberg 2-1 Schalke 04
+[So 03.10.]
+  Dortmund 2-0 Bayern Munich
+  Leverkusen 2-2 Werder Bremen
+  Stuttgart 1-2 Ein Frankfurt
+
+Spieltag 8
+[Fr 15.10.]
+  FC Köln 1-2 Dortmund
+[Sa 16.10.]
+  Bayern Munich 3-0 Hannover
+  Mainz 0-1 Hamburg
+  Schalke 04 2-2 Stuttgart
+  St Pauli 3-2 Nürnberg
+  Werder Bremen 2-1 Freiburg
+  Wolfsburg 2-3 Leverkusen
+[So 17.10.]
+  Hoffenheim 3-2 Bor. Mönchengladbach
+  Kaiserslautern 0-3 Ein Frankfurt
+
+Spieltag 9
+[Fr 22.10.]
+  Hamburg 0-0 Bayern Munich
+[Sa 23.10.]
+  Ein Frankfurt 0-0 Schalke 04
+  Freiburg 2-1 Kaiserslautern
+  Hannover 2-1 FC Köln
+  Bor. Mönchengladbach 1-4 Werder Bremen
+  Nürnberg 2-1 Wolfsburg
+[So 24.10.]
+  Dortmund 1-1 Hoffenheim
+  Leverkusen 0-1 Mainz
+  Stuttgart 2-0 St Pauli
+
+Spieltag 10
+[Fr 29.10.]
+  Bayern Munich 4-2 Freiburg
+[Sa 30.10.]
+  FC Köln 3-2 Hamburg
+  Kaiserslautern 3-0 Bor. Mönchengladbach
+  Schalke 04 0-1 Leverkusen
+  St Pauli 1-3 Ein Frankfurt
+  Werder Bremen 2-3 Nürnberg
+  Wolfsburg 2-0 Stuttgart
+[So 31.10.]
+  Hoffenheim 4-0 Hannover
+  Mainz 0-2 Dortmund
+
+Spieltag 11
+[Fr 05.11.]
+  Schalke 04 3-0 St Pauli
+[Sa 06.11.]
+  Ein Frankfurt 3-1 Wolfsburg
+  Freiburg 1-0 Mainz
+  Hamburg 2-1 Hoffenheim
+  Bor. Mönchengladbach 3-3 Bayern Munich
+  Nürnberg 3-1 FC Köln
+[So 07.11.]
+  Hannover 0-4 Dortmund
+  Leverkusen 3-1 Kaiserslautern
+  Stuttgart 6-0 Werder Bremen
+
+Spieltag 12
+[Fr 12.11.]
+  Dortmund 2-0 Hamburg
+[Sa 13.11.]
+  FC Köln 0-4 Bor. Mönchengladbach
+  Kaiserslautern 3-3 Stuttgart
+  Mainz 0-1 Hannover
+  St Pauli 0-1 Leverkusen
+  Werder Bremen 0-0 Ein Frankfurt
+  Wolfsburg 2-2 Schalke 04
+[So 14.11.]
+  Bayern Munich 3-0 Nürnberg
+  Hoffenheim 0-1 Freiburg
+
+Spieltag 13
+[Sa 20.11.]
+  Ein Frankfurt 0-4 Hoffenheim
+  Freiburg 1-2 Dortmund
+  Hannover 3-2 Hamburg
+  Leverkusen 1-1 Bayern Munich
+  Bor. Mönchengladbach 2-3 Mainz
+  Nürnberg 1-3 Kaiserslautern
+  Schalke 04 4-0 Werder Bremen
+[So 21.11.]
+  St Pauli 1-1 Wolfsburg
+  Stuttgart 0-1 FC Köln
+
+Spieltag 14
+[Fr 26.11.]
+  Mainz 3-0 Nürnberg
+[Sa 27.11.]
+  Bayern Munich 4-1 Ein Frankfurt
+  Dortmund 4-1 Bor. Mönchengladbach
+  Hamburg 4-2 Stuttgart
+  Hannover 3-0 Freiburg
+  Hoffenheim 2-2 Leverkusen
+  Kaiserslautern 5-0 Schalke 04
+[So 28.11.]
+  FC Köln 1-1 Wolfsburg
+  Werder Bremen 3-0 St Pauli
+
+Spieltag 15
+[Fr 03.12.]
+  St Pauli 1-0 Kaiserslautern
+[Sa 04.12.]
+  Ein Frankfurt 2-1 Mainz
+  Freiburg 1-0 Hamburg
+  Bor. Mönchengladbach 1-2 Hannover
+  Schalke 04 2-0 Bayern Munich
+  Stuttgart 1-1 Hoffenheim
+  Wolfsburg 0-0 Werder Bremen
+[So 05.12.]
+  Leverkusen 3-2 FC Köln
+  Nürnberg 0-2 Dortmund
+
+Spieltag 16
+[Fr 10.12.]
+  Hannover 2-1 Stuttgart
+[Sa 11.12.]
+  Bayern Munich 3-0 St Pauli
+  Dortmund 2-0 Werder Bremen
+  FC Köln 1-0 Ein Frankfurt
+  Hamburg 2-4 Leverkusen
+  Hoffenheim 1-1 Nürnberg
+  Kaiserslautern 0-0 Wolfsburg
+[So 12.12.]
+  Freiburg 3-0 Bor. Mönchengladbach
+  Mainz 0-1 Schalke 04
+
+Spieltag 17
+[Fr 17.12.]
+  Bor. Mönchengladbach 1-2 Hamburg
+[Sa 18.12.]
+  Ein Frankfurt 1-0 Dortmund
+  Nürnberg 3-1 Hannover
+  Schalke 04 3-0 FC Köln
+  St Pauli 2-4 Mainz
+  Werder Bremen 1-2 Kaiserslautern
+  Wolfsburg 2-2 Hoffenheim
+[So 19.12.]
+  Leverkusen 2-2 Freiburg
+  Stuttgart 3-5 Bayern Munich
+
+Spieltag 18
+[Fr 14.01.]
+  Leverkusen 1-3 Dortmund
+[Sa 15.01.]
+  Nürnberg 0-1 Bor. Mönchengladbach
+  Schalke 04 0-1 Hamburg
+  St Pauli 2-2 Freiburg
+  Stuttgart 1-0 Mainz
+  Werder Bremen 2-1 Hoffenheim
+  Wolfsburg 1-1 Bayern Munich
+[So 16.01.]
+  Ein Frankfurt 0-3 Hannover
+  Kaiserslautern 1-1 FC Köln
+
+Spieltag 19
+[Fr 21.01.]
+  Hamburg 1-0 Ein Frankfurt
+[Sa 22.01.]
+  Bayern Munich 5-1 Kaiserslautern
+  Dortmund 1-1 Stuttgart
+  FC Köln 3-0 Werder Bremen
+  Freiburg 1-1 Nürnberg
+  Hannover 0-1 Schalke 04
+  Mainz 0-1 Wolfsburg
+[So 23.01.]
+  Hoffenheim 2-2 St Pauli
+  Bor. Mönchengladbach 1-3 Leverkusen
+
+Spieltag 20
+[Fr 28.01.]
+  Leverkusen 2-0 Hannover
+[Sa 29.01.]
+  Kaiserslautern 0-1 Mainz
+  Nürnberg 2-0 Hamburg
+  Schalke 04 0-1 Hoffenheim
+  St Pauli 3-0 FC Köln
+  Werder Bremen 1-3 Bayern Munich
+  Wolfsburg 0-3 Dortmund
+[So 30.01.]
+  Ein Frankfurt 0-1 Bor. Mönchengladbach
+  Stuttgart 0-1 Freiburg
+
+Spieltag 21
+[Fr 04.02.]
+  Dortmund 0-0 Schalke 04
+[Sa 05.02.]
+  FC Köln 3-2 Bayern Munich
+  Hannover 1-0 Wolfsburg
+  Hoffenheim 3-2 Kaiserslautern
+  Mainz 1-1 Werder Bremen
+  Bor. Mönchengladbach 2-3 Stuttgart
+  Nürnberg 1-0 Leverkusen
+[So 06.02.]
+  Freiburg 0-0 Ein Frankfurt
+[Sa 12.02.]
+  Bayern Munich 4-0 Hoffenheim
+
+Spieltag 22
+  Ein Frankfurt 0-3 Leverkusen
+  Kaiserslautern 1-1 Dortmund
+  Schalke 04 1-0 Freiburg
+  St Pauli 3-1 Bor. Mönchengladbach
+  Stuttgart 1-4 Nürnberg
+  Wolfsburg 0-1 Hamburg
+[So 13.02.]
+  FC Köln 4-2 Mainz
+  Werder Bremen 1-1 Hannover
+[Mi 16.02.]
+  Hamburg 0-1 St Pauli
+
+Spieltag 23
+[Fr 18.02.]
+  Nürnberg 3-0 Ein Frankfurt
+[Sa 19.02.]
+  Dortmund 2-0 St Pauli
+  Freiburg 2-1 Wolfsburg
+  Hamburg 4-0 Werder Bremen
+  Hannover 3-0 Kaiserslautern
+  Hoffenheim 1-1 FC Köln
+  Mainz 1-3 Bayern Munich
+[So 20.02.]
+  Leverkusen 4-2 Stuttgart
+  Bor. Mönchengladbach 2-1 Schalke 04
+
+Spieltag 24
+[Fr 25.02.]
+  Wolfsburg 2-1 Bor. Mönchengladbach
+[Sa 26.02.]
+  Bayern Munich 1-3 Dortmund
+  FC Köln 1-0 Freiburg
+  Hoffenheim 1-2 Mainz
+  Kaiserslautern 1-1 Hamburg
+  Schalke 04 1-1 Nürnberg
+  St Pauli 0-1 Hannover
+[So 27.02.]
+  Ein Frankfurt 0-2 Stuttgart
+  Werder Bremen 2-2 Leverkusen
+
+Spieltag 25
+[Fr 04.03.]
+  Dortmund 1-0 FC Köln
+[Sa 05.03.]
+  Ein Frankfurt 0-0 Kaiserslautern
+  Hannover 3-1 Bayern Munich
+  Leverkusen 3-0 Wolfsburg
+  Bor. Mönchengladbach 2-0 Hoffenheim
+  Nürnberg 5-0 St Pauli
+  Stuttgart 1-0 Schalke 04
+[So 06.03.]
+  Freiburg 1-3 Werder Bremen
+  Hamburg 2-4 Mainz
+
+Spieltag 26
+[Fr 11.03.]
+  FC Köln 4-0 Hannover
+[Sa 12.03.]
+  Bayern Munich 6-0 Hamburg
+  Hoffenheim 1-0 Dortmund
+  Kaiserslautern 2-1 Freiburg
+  Schalke 04 2-1 Ein Frankfurt
+  Werder Bremen 1-1 Bor. Mönchengladbach
+  Wolfsburg 1-2 Nürnberg
+[So 13.03.]
+  Mainz 0-1 Leverkusen
+  St Pauli 1-2 Stuttgart
+
+Spieltag 27
+[Fr 18.03.]
+  Bor. Mönchengladbach 0-1 Kaiserslautern
+[Sa 19.03.]
+  Dortmund 1-1 Mainz
+  Ein Frankfurt 2-1 St Pauli
+  Freiburg 1-2 Bayern Munich
+  Hamburg 6-2 FC Köln
+  Hannover 2-0 Hoffenheim
+  Nürnberg 1-3 Werder Bremen
+[So 20.03.]
+  Leverkusen 2-0 Schalke 04
+  Stuttgart 1-1 Wolfsburg
+
+Spieltag 28
+[Fr 01.04.]
+  St Pauli 0-2 Schalke 04
+[Sa 02.04.]
+  Bayern Munich 1-0 Bor. Mönchengladbach
+  Dortmund 4-1 Hannover
+  Hoffenheim 0-0 Hamburg
+  Kaiserslautern 0-1 Leverkusen
+  Mainz 1-1 Freiburg
+  Werder Bremen 1-1 Stuttgart
+[So 03.04.]
+  FC Köln 1-0 Nürnberg
+  Wolfsburg 1-1 Ein Frankfurt
+
+Spieltag 29
+[Fr 08.04.]
+  Ein Frankfurt 1-1 Werder Bremen
+[Sa 09.04.]
+  Freiburg 3-2 Hoffenheim
+  Hamburg 1-1 Dortmund
+  Hannover 2-0 Mainz
+  Nürnberg 1-1 Bayern Munich
+  Schalke 04 1-0 Wolfsburg
+  Stuttgart 2-4 Kaiserslautern
+[So 10.04.]
+  Leverkusen 2-1 St Pauli
+  Bor. Mönchengladbach 5-1 FC Köln
+
+Spieltag 30
+[Fr 15.04.]
+  Mainz 1-0 Bor. Mönchengladbach
+[Sa 16.04.]
+  FC Köln 1-3 Stuttgart
+  Hamburg 0-0 Hannover
+  Hoffenheim 1-0 Ein Frankfurt
+  Kaiserslautern 0-2 Nürnberg
+  Werder Bremen 1-1 Schalke 04
+  Wolfsburg 2-2 St Pauli
+[So 17.04.]
+  Bayern Munich 5-1 Leverkusen
+  Dortmund 3-0 Freiburg
+
+Spieltag 31
+[Do 21.04.]
+  Freiburg 1-3 Hannover
+[Sa 23.04.]
+  Ein Frankfurt 1-1 Bayern Munich
+  Leverkusen 2-1 Hoffenheim
+  Bor. Mönchengladbach 1-0 Dortmund
+  Schalke 04 0-1 Kaiserslautern
+  St Pauli 1-3 Werder Bremen
+  Stuttgart 3-0 Hamburg
+[So 24.04.]
+  Nürnberg 0-0 Mainz
+  Wolfsburg 4-1 FC Köln
+
+Spieltag 32
+[Fr 29.04.]
+  Kaiserslautern 2-0 St Pauli
+  Werder Bremen 0-1 Wolfsburg
+[Sa 30.04.]
+  Bayern Munich 4-1 Schalke 04
+  Dortmund 2-0 Nürnberg
+  FC Köln 2-0 Leverkusen
+  Hamburg 0-2 Freiburg
+  Hannover 0-1 Bor. Mönchengladbach
+  Hoffenheim 1-2 Stuttgart
+  Mainz 3-0 Ein Frankfurt
+
+Spieltag 33
+[Sa 07.05.]
+  Ein Frankfurt 0-2 FC Köln
+  Leverkusen 1-1 Hamburg
+  Bor. Mönchengladbach 2-0 Freiburg
+  Nürnberg 1-2 Hoffenheim
+  Schalke 04 1-3 Mainz
+  St Pauli 1-8 Bayern Munich
+  Stuttgart 2-1 Hannover
+  Werder Bremen 2-0 Dortmund
+  Wolfsburg 1-2 Kaiserslautern
+
+Spieltag 34
+[Sa 14.05.]
+  Bayern Munich 2-1 Stuttgart
+  Dortmund 3-1 Ein Frankfurt
+  FC Köln 2-1 Schalke 04
+  Freiburg 0-1 Leverkusen
+  Hamburg 1-1 Bor. Mönchengladbach
+  Hannover 3-1 Nürnberg
+  Hoffenheim 1-3 Wolfsburg
+  Kaiserslautern 3-2 Werder Bremen
+  Mainz 2-1 St Pauli

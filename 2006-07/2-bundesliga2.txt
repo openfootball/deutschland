@@ -1,0 +1,473 @@
+= Deutsche 2. Bundesliga 2006/07
+
+
+Spieltag 1
+[Fr 11.08.]
+  Burghausen 0-4 Karlsruhe
+  Kaiserslautern 1-0 Essen
+  Offenbach 2-2 CZ Jena
+[So 13.08.]
+  Braunschweig 0-0 Paderborn
+  Duisburg 2-1 Koblenz
+  Erzgebirge Aue 1-0 Unterhaching
+  Freiburg 0-0 Hansa Rostock
+  Greuther Fürth 1-1 TSV 1860 München
+[Mo 14.08.]
+  Augsburg 0-2 FC Köln
+
+Spieltag 2
+[Fr 18.08.]
+  CZ Jena 0-0 Braunschweig
+  Hansa Rostock 1-0 Erzgebirge Aue
+  TSV 1860 München 3-0 Offenbach
+[So 20.08.]
+  Essen 2-0 Freiburg
+  FC Köln 5-1 Burghausen
+  Koblenz 1-0 Greuther Fürth
+  Paderborn 1-0 Augsburg
+  Unterhaching 0-1 Duisburg
+[Mo 21.08.]
+  Karlsruhe 2-0 Kaiserslautern
+
+Spieltag 3
+[Fr 25.08.]
+  CZ Jena 3-2 FC Köln
+  Freiburg 1-1 Unterhaching
+  Offenbach 0-1 Karlsruhe
+[So 27.08.]
+  Augsburg 0-0 Essen
+  Braunschweig 0-2 Koblenz
+  Duisburg 4-2 Erzgebirge Aue
+  Greuther Fürth 1-3 Hansa Rostock
+  Kaiserslautern 2-0 Paderborn
+[Mo 28.08.]
+  Burghausen 0-2 TSV 1860 München
+
+Spieltag 4
+[Fr 15.09.]
+  Essen 4-4 CZ Jena
+  FC Köln 4-1 Braunschweig
+  Unterhaching 0-1 Augsburg
+[So 17.09.]
+  Erzgebirge Aue 0-3 Greuther Fürth
+  Karlsruhe 3-3 Duisburg
+  Koblenz 1-2 Burghausen
+  TSV 1860 München 1-1 Freiburg
+  Paderborn 2-1 Offenbach
+[Mo 18.09.]
+  Hansa Rostock 2-0 Kaiserslautern
+
+Spieltag 5
+[Fr 22.09.]
+  Braunschweig 2-2 Karlsruhe
+  Freiburg 3-3 Greuther Fürth
+  Kaiserslautern 4-3 Koblenz
+[So 24.09.]
+  Augsburg 1-1 Hansa Rostock
+  Burghausen 1-1 Erzgebirge Aue
+  CZ Jena 1-1 Paderborn
+  Duisburg 0-0 TSV 1860 München
+  Offenbach 1-1 Unterhaching
+[Mo 25.09.]
+  FC Köln 1-0 Essen
+
+Spieltag 6
+[Fr 29.09.]
+  Koblenz 1-1 Offenbach
+  Paderborn 2-0 FC Köln
+  Unterhaching 1-1 Kaiserslautern
+[So 01.10.]
+  Erzgebirge Aue 3-1 Freiburg
+  Essen 2-0 Braunschweig
+  Greuther Fürth 4-1 Burghausen
+  Karlsruhe 3-2 Augsburg
+  TSV 1860 München 2-0 CZ Jena
+[Mo 02.10.]
+  Hansa Rostock 1-0 Duisburg
+
+Spieltag 7
+[Fr 13.10.]
+  Augsburg 1-0 Greuther Fürth
+  Braunschweig 2-0 TSV 1860 München
+  Duisburg 1-1 Freiburg
+[So 15.10.]
+  Burghausen 0-1 Hansa Rostock
+  CZ Jena 0-2 Unterhaching
+  Kaiserslautern 4-0 Erzgebirge Aue
+  Offenbach 1-0 Essen
+  Paderborn 1-2 Koblenz
+[Mo 16.10.]
+  FC Köln 1-1 Karlsruhe
+
+Spieltag 8
+[Fr 20.10.]
+  Freiburg 2-0 Burghausen
+  Greuther Fürth 3-5 Duisburg
+  Karlsruhe 4-1 CZ Jena
+  Unterhaching 0-0 FC Köln
+[So 22.10.]
+  Erzgebirge Aue 3-0 Braunschweig
+  Essen 2-2 Paderborn
+  Hansa Rostock 2-1 Offenbach
+  TSV 1860 München 0-1 Kaiserslautern
+[Mo 23.10.]
+  Koblenz 1-1 Augsburg
+
+Spieltag 9
+[Fr 27.10.]
+  Augsburg 3-0 TSV 1860 München
+  Braunschweig 0-2 Greuther Fürth
+  CZ Jena 2-0 Koblenz
+[So 29.10.]
+  Burghausen 1-1 Duisburg
+  Essen 1-2 Karlsruhe
+  FC Köln 2-2 Hansa Rostock
+  Offenbach 3-1 Erzgebirge Aue
+  Paderborn 2-0 Unterhaching
+[Mo 30.10.]
+  Kaiserslautern 1-3 Freiburg
+
+Spieltag 10
+[Fr 03.11.]
+  Freiburg 1-0 Braunschweig
+  Hansa Rostock 1-1 CZ Jena
+  Karlsruhe 3-0 Paderborn
+  Koblenz 3-1 FC Köln
+  TSV 1860 München 2-0 Essen
+  Unterhaching 0-2 Burghausen
+[So 05.11.]
+  Duisburg 1-1 Kaiserslautern
+  Erzgebirge Aue 1-1 Augsburg
+  Greuther Fürth 2-0 Offenbach
+
+Spieltag 11
+[Di 07.11.]
+  Braunschweig 2-3 Unterhaching
+  Essen 0-1 Koblenz
+  Karlsruhe 4-1 TSV 1860 München
+  Paderborn 0-2 Hansa Rostock
+[Mi 08.11.]
+  Augsburg 2-0 Freiburg
+  CZ Jena 1-1 Greuther Fürth
+  FC Köln 0-1 Erzgebirge Aue
+  Kaiserslautern 4-0 Burghausen
+  Offenbach 0-0 Duisburg
+
+Spieltag 12
+[Fr 10.11.]
+  Hansa Rostock 4-0 Braunschweig
+  Koblenz 1-1 Karlsruhe
+  TSV 1860 München 1-0 Paderborn
+[So 12.11.]
+  Burghausen 4-1 Offenbach
+  Duisburg 3-0 Augsburg
+  Erzgebirge Aue 5-1 CZ Jena
+  Freiburg 0-0 FC Köln
+  Unterhaching 2-1 Essen
+[Mo 13.11.]
+  Greuther Fürth 2-2 Kaiserslautern
+
+Spieltag 13
+[Fr 17.11.]
+  Braunschweig 1-1 Duisburg
+  CZ Jena 2-1 Freiburg
+  Offenbach 0-1 Kaiserslautern
+[So 19.11.]
+  Augsburg 1-0 Burghausen
+  Essen 0-1 Erzgebirge Aue
+  FC Köln 1-2 TSV 1860 München
+  Koblenz 0-0 Unterhaching
+  Paderborn 0-0 Greuther Fürth
+[Mo 20.11.]
+  Karlsruhe 4-4 Hansa Rostock
+
+Spieltag 14
+[Fr 24.11.]
+  Duisburg 4-0 CZ Jena
+  Hansa Rostock 2-0 Essen
+  Kaiserslautern 0-0 Augsburg
+[So 26.11.]
+  Burghausen 1-1 Braunschweig
+  Erzgebirge Aue 1-0 Paderborn
+  Freiburg 1-3 Offenbach
+  Greuther Fürth 1-2 FC Köln
+  Unterhaching 0-1 Karlsruhe
+[Mo 27.11.]
+  TSV 1860 München 2-1 Koblenz
+
+Spieltag 15
+[Fr 01.12.]
+  Essen 1-0 Greuther Fürth
+  Koblenz 0-3 Hansa Rostock
+  Paderborn 1-1 Freiburg
+[So 03.12.]
+  Braunschweig 0-1 Kaiserslautern
+  CZ Jena 0-2 Burghausen
+  Karlsruhe 0-1 Erzgebirge Aue
+  Offenbach 3-2 Augsburg
+  Unterhaching 5-1 TSV 1860 München
+[Mo 04.12.]
+  FC Köln 1-3 Duisburg
+
+Spieltag 16
+[Fr 08.12.]
+  Burghausen 1-1 Essen
+  Erzgebirge Aue 4-1 Koblenz
+  Kaiserslautern 0-0 CZ Jena
+[So 10.12.]
+  Augsburg 0-0 Braunschweig
+  Duisburg 1-1 Paderborn
+  Greuther Fürth 1-0 Unterhaching
+  Hansa Rostock 1-1 TSV 1860 München
+  Offenbach 2-0 FC Köln
+[Mo 11.12.]
+  Freiburg 0-4 Karlsruhe
+
+Spieltag 17
+[Fr 15.12.]
+  CZ Jena 0-2 Augsburg
+  FC Köln 2-2 Kaiserslautern
+  Unterhaching 0-0 Hansa Rostock
+[So 17.12.]
+  Braunschweig 1-2 Offenbach
+  Essen 1-2 Duisburg
+  Karlsruhe 2-0 Greuther Fürth
+  Koblenz 0-1 Freiburg
+  Paderborn 1-1 Burghausen
+[Mo 18.12.]
+  TSV 1860 München 4-0 Erzgebirge Aue
+
+Spieltag 18
+[Fr 19.01.]
+  CZ Jena 2-3 Offenbach
+  Essen 0-0 Kaiserslautern
+  Unterhaching 1-1 Erzgebirge Aue
+[So 21.01.]
+  FC Köln 1-1 Augsburg
+  Karlsruhe 2-1 Burghausen
+  Koblenz 1-1 Duisburg
+  TSV 1860 München 0-3 Greuther Fürth
+  Paderborn 0-0 Braunschweig
+[Mo 22.01.]
+  Hansa Rostock 0-1 Freiburg
+
+Spieltag 19
+[Fr 26.01.]
+  Braunschweig 1-0 CZ Jena
+  Burghausen 1-3 FC Köln
+[So 28.01.]
+  Duisburg 4-2 Unterhaching
+  Erzgebirge Aue 3-0 Hansa Rostock
+  Freiburg 3-1 Essen
+  Greuther Fürth 2-0 Koblenz
+  Offenbach 2-1 TSV 1860 München
+[Mo 29.01.]
+  Kaiserslautern 1-1 Karlsruhe
+[Di 30.01.]
+  Augsburg 0-1 Paderborn
+
+Spieltag 20
+[Fr 02.02.]
+  Erzgebirge Aue 0-1 Duisburg
+  Karlsruhe 2-1 Offenbach
+  Koblenz 1-0 Braunschweig
+[So 04.02.]
+  Essen 0-0 Augsburg
+  FC Köln 1-0 CZ Jena
+  Hansa Rostock 1-0 Greuther Fürth
+  Paderborn 0-1 Kaiserslautern
+  Unterhaching 0-2 Freiburg
+[Mo 05.02.]
+  TSV 1860 München 5-1 Burghausen
+
+Spieltag 21
+[Fr 09.02.]
+  Augsburg 2-1 Unterhaching
+  Braunschweig 0-1 FC Köln
+  Kaiserslautern 1-1 Hansa Rostock
+[So 11.02.]
+  Burghausen 0-0 Koblenz
+  CZ Jena 2-0 Essen
+  Freiburg 3-0 TSV 1860 München
+  Greuther Fürth 2-1 Erzgebirge Aue
+  Offenbach 0-2 Paderborn
+[Mo 12.02.]
+  Duisburg 2-1 Karlsruhe
+
+Spieltag 22
+[Fr 16.02.]
+  Erzgebirge Aue 3-0 Burghausen
+  Koblenz 0-0 Kaiserslautern
+  Unterhaching 2-0 Offenbach
+[So 18.02.]
+  Essen 5-0 FC Köln
+  Hansa Rostock 2-2 Augsburg
+  Karlsruhe 2-0 Braunschweig
+  TSV 1860 München 2-2 Duisburg
+  Paderborn 0-1 CZ Jena
+[Mo 19.02.]
+  Greuther Fürth 0-0 Freiburg
+
+Spieltag 23
+[Fr 23.02.]
+  Braunschweig 0-1 Essen
+  CZ Jena 3-1 TSV 1860 München
+  Offenbach 2-3 Koblenz
+[So 25.02.]
+  Augsburg 3-1 Karlsruhe
+  Burghausen 3-4 Greuther Fürth
+  FC Köln 1-1 Paderborn
+  Freiburg 5-4 Erzgebirge Aue
+  Kaiserslautern 4-0 Unterhaching
+[Mo 26.02.]
+  Duisburg 1-2 Hansa Rostock
+
+Spieltag 24
+[Fr 02.03.]
+  Erzgebirge Aue 1-0 Kaiserslautern
+  Greuther Fürth 2-1 Augsburg
+  Unterhaching 2-0 CZ Jena
+[So 04.03.]
+  Essen 2-2 Offenbach
+  Freiburg 2-1 Duisburg
+  Hansa Rostock 0-0 Burghausen
+  Koblenz 3-1 Paderborn
+  TSV 1860 München 2-0 Braunschweig
+[Mo 05.03.]
+  Karlsruhe 2-1 FC Köln
+
+Spieltag 25
+[Fr 09.03.]
+  Augsburg 2-0 Koblenz
+  Braunschweig 1-0 Erzgebirge Aue
+  Burghausen 2-2 Freiburg
+[So 11.03.]
+  CZ Jena 1-3 Karlsruhe
+  Duisburg 0-2 Greuther Fürth
+  FC Köln 4-1 Unterhaching
+  Offenbach 1-1 Hansa Rostock
+  Paderborn 3-2 Essen
+[Mo 12.03.]
+  Kaiserslautern 2-1 TSV 1860 München
+
+Spieltag 26
+[Fr 16.03.]
+  Karlsruhe 1-3 Essen
+  Koblenz 0-0 CZ Jena
+  TSV 1860 München 0-3 Augsburg
+[So 18.03.]
+  Duisburg 3-4 Burghausen
+  Erzgebirge Aue 2-1 Offenbach
+  Freiburg 4-1 Kaiserslautern
+  Greuther Fürth 3-0 Braunschweig
+  Unterhaching 0-3 Paderborn
+[Mo 19.03.]
+  Hansa Rostock 1-1 FC Köln
+
+Spieltag 27
+[Fr 30.03.]
+  Burghausen 4-1 Unterhaching
+  CZ Jena 1-2 Hansa Rostock
+  Paderborn 1-2 Karlsruhe
+[So 01.04.]
+  Augsburg 3-0 Erzgebirge Aue
+  Braunschweig 0-2 Freiburg
+  Essen 0-2 TSV 1860 München
+  FC Köln 3-1 Koblenz
+  Offenbach 1-2 Greuther Fürth
+[Mo 02.04.]
+  Kaiserslautern 0-3 Duisburg
+
+Spieltag 28
+[Do 05.04.]
+  Erzgebirge Aue 0-1 FC Köln
+  Hansa Rostock 2-0 Paderborn
+  Koblenz 0-1 Essen
+[So 08.04.]
+  Burghausen 0-0 Kaiserslautern
+  Duisburg 4-0 Offenbach
+  Freiburg 2-0 Augsburg
+  Greuther Fürth 2-0 CZ Jena
+  Unterhaching 3-2 Braunschweig
+[Mo 09.04.]
+  TSV 1860 München 2-0 Karlsruhe
+
+Spieltag 29
+[Fr 13.04.]
+  Augsburg 1-2 Duisburg
+  Braunschweig 1-1 Hansa Rostock
+  Paderborn 3-0 TSV 1860 München
+[So 15.04.]
+  Essen 1-1 Unterhaching
+  FC Köln 0-3 Freiburg
+  Kaiserslautern 3-0 Greuther Fürth
+  Karlsruhe 3-1 Koblenz
+  Offenbach 2-1 Burghausen
+[Mo 16.04.]
+  CZ Jena 2-1 Erzgebirge Aue
+
+Spieltag 30
+[Fr 20.04.]
+  Erzgebirge Aue 0-0 Essen
+  Kaiserslautern 4-0 Offenbach
+  TSV 1860 München 3-1 FC Köln
+[So 22.04.]
+  Burghausen 0-2 Augsburg
+  Duisburg 0-0 Braunschweig
+  Freiburg 1-3 CZ Jena
+  Greuther Fürth 3-0 Paderborn
+  Unterhaching 1-0 Koblenz
+[Mo 23.04.]
+  Hansa Rostock 1-2 Karlsruhe
+
+Spieltag 31
+[Fr 27.04.]
+  Braunschweig 3-1 Burghausen
+  CZ Jena 3-3 Duisburg
+  Paderborn 1-0 Erzgebirge Aue
+[So 29.04.]
+  Augsburg 3-2 Kaiserslautern
+  FC Köln 0-2 Greuther Fürth
+  Karlsruhe 1-0 Unterhaching
+  Koblenz 2-1 TSV 1860 München
+  Offenbach 2-3 Freiburg
+[Mo 30.04.]
+  Essen 0-0 Hansa Rostock
+
+Spieltag 32
+[Fr 04.05.]
+  Augsburg 1-1 Offenbach
+  Erzgebirge Aue 2-2 Karlsruhe
+  Freiburg 0-1 Paderborn
+[So 06.05.]
+  Burghausen 1-1 CZ Jena
+  Greuther Fürth 0-2 Essen
+  Hansa Rostock 0-3 Koblenz
+  Kaiserslautern 1-1 Braunschweig
+  TSV 1860 München 1-0 Unterhaching
+[Mo 07.05.]
+  Duisburg 1-3 FC Köln
+
+Spieltag 33
+[So 13.05.]
+  Braunschweig 0-1 Augsburg
+  CZ Jena 1-1 Kaiserslautern
+  Essen 1-1 Burghausen
+  FC Köln 2-2 Offenbach
+  Karlsruhe 0-3 Freiburg
+  Koblenz 2-1 Erzgebirge Aue
+  TSV 1860 München 1-2 Hansa Rostock
+  Paderborn 0-3 Duisburg
+  Unterhaching 2-1 Greuther Fürth
+
+Spieltag 34
+[So 20.05.]
+  Augsburg 1-2 CZ Jena
+  Burghausen 5-1 Paderborn
+  Duisburg 3-0 Essen
+  Erzgebirge Aue 2-2 TSV 1860 München
+  Freiburg 2-0 Koblenz
+  Greuther Fürth 1-3 Karlsruhe
+  Hansa Rostock 3-1 Unterhaching
+  Kaiserslautern 2-2 FC Köln
+  Offenbach 1-1 Braunschweig

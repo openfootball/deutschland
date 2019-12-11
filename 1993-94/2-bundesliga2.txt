@@ -1,0 +1,501 @@
+= Deutsche 2. Bundesliga 1993/94
+
+
+Spieltag 1
+[Mi 28.07.]
+  Chemnitz 0-0 Wuppertaler
+  CZ Jena 1-1 Hertha
+  Hansa Rostock 4-0 TSV 1860 München
+  Homburg 2-1 St Pauli
+  SV Waldhof Mannheim 1-1 F Köln
+  Meppen 0-1 Bochum
+  RW Essen 3-1 Saarbrücken
+  Stuttgarter K 0-0 Hannover
+  TB Berlin 0-1 Mainz
+  Wolfsburg 3-0 Uerdingen
+
+Spieltag 2
+[Sa 31.07.]
+  Bochum 2-0 Hansa Rostock
+  F Köln 2-0 Wolfsburg
+  Hannover 0-1 TB Berlin
+  Hertha 1-0 SV Waldhof Mannheim
+  Mainz 2-0 CZ Jena
+  TSV 1860 München 1-0 RW Essen
+  Saarbrücken 3-0 Stuttgarter K
+  St Pauli 3-0 Chemnitz
+  Uerdingen 0-1 Homburg
+  Wuppertaler 0-1 Meppen
+
+Spieltag 3
+[Sa 07.08.]
+  Chemnitz 1-4 Uerdingen
+  CZ Jena 2-2 SV Waldhof Mannheim
+  Hansa Rostock 0-1 Wuppertaler
+  Homburg 1-2 F Köln
+  Mainz 1-0 Hannover
+  Meppen 1-1 St Pauli
+  RW Essen 0-2 Bochum
+  Stuttgarter K 0-2 TSV 1860 München
+  TB Berlin 0-4 Saarbrücken
+  Wolfsburg 1-0 Hertha
+
+Spieltag 4
+[Sa 14.08.]
+  Bochum 3-1 Stuttgarter K
+  F Köln 0-1 Chemnitz
+  Hannover 1-0 CZ Jena
+  Hertha 1-0 Homburg
+  SV Waldhof Mannheim 1-1 Wolfsburg
+  TSV 1860 München 2-1 TB Berlin
+  Saarbrücken 2-0 Mainz
+  St Pauli 2-4 Hansa Rostock
+  Uerdingen 1-0 Meppen
+  Wuppertaler 0-0 RW Essen
+
+Spieltag 5
+[Sa 21.08.]
+  Chemnitz 1-1 Hertha
+  CZ Jena 2-0 Wolfsburg
+  Hannover 4-1 Saarbrücken
+  Hansa Rostock 2-0 Uerdingen
+  Homburg 3-0 SV Waldhof Mannheim
+  Mainz 1-1 TSV 1860 München
+  Meppen 4-2 F Köln
+  RW Essen 0-0 St Pauli
+  Stuttgarter K 1-0 Wuppertaler
+  TB Berlin 1-1 Bochum
+
+Spieltag 6
+[Sa 28.08.]
+  Bochum 2-0 Mainz
+  F Köln 0-0 Hansa Rostock
+  Hertha 1-1 Meppen
+  SV Waldhof Mannheim 1-0 Chemnitz
+  TSV 1860 München 2-2 Hannover
+  Saarbrücken 2-1 CZ Jena
+  St Pauli 3-0 Stuttgarter K
+  Uerdingen 2-0 RW Essen
+  Wolfsburg 2-0 Homburg
+  Wuppertaler 1-0 TB Berlin
+
+Spieltag 7
+[Sa 04.09.]
+  Chemnitz 1-1 Wolfsburg
+  CZ Jena 2-1 Homburg
+  Hannover 0-0 Bochum
+  Hansa Rostock 2-2 Hertha
+  Mainz 1-1 Wuppertaler
+  Meppen 1-0 SV Waldhof Mannheim
+  RW Essen 3-0 F Köln
+  Saarbrücken 0-2 TSV 1860 München
+  Stuttgarter K 0-2 Uerdingen
+  TB Berlin 0-0 St Pauli
+
+Spieltag 8
+[Sa 18.09.]
+  Bochum 4-0 Saarbrücken
+  F Köln 2-1 Stuttgarter K
+  Hertha 3-4 RW Essen
+  Homburg 4-0 Chemnitz
+  SV Waldhof Mannheim 3-3 Hansa Rostock
+  TSV 1860 München 2-0 CZ Jena
+  St Pauli 1-0 Mainz
+  Uerdingen 3-1 TB Berlin
+  Wolfsburg 3-2 Meppen
+  Wuppertaler 0-0 Hannover
+
+Spieltag 9
+[Sa 25.09.]
+  CZ Jena 0-2 Chemnitz
+  Hannover 4-1 St Pauli
+  Hansa Rostock 2-0 Wolfsburg
+  Mainz 1-1 Uerdingen
+  Meppen 2-1 Homburg
+  TSV 1860 München 4-1 Bochum
+  RW Essen 2-0 SV Waldhof Mannheim
+  Saarbrücken 1-0 Wuppertaler
+  Stuttgarter K 1-1 Hertha
+  TB Berlin 0-1 F Köln
+
+Spieltag 10
+[Sa 02.10.]
+  Bochum 3-0 CZ Jena
+  Chemnitz 2-1 Meppen
+  F Köln 1-2 Mainz
+  Hertha 3-0 TB Berlin
+  Homburg 0-2 Hansa Rostock
+  SV Waldhof Mannheim 0-1 Stuttgarter K
+  St Pauli 1-1 Saarbrücken
+  Uerdingen 3-2 Hannover
+  Wolfsburg 2-2 RW Essen
+  Wuppertaler 5-2 TSV 1860 München
+
+Spieltag 11
+[Sa 09.10.]
+  Bochum 1-0 Wuppertaler
+  CZ Jena 0-0 Meppen
+  Hannover 0-2 F Köln
+  Hansa Rostock 2-0 Chemnitz
+  Mainz 1-1 Hertha
+  TSV 1860 München 1-0 St Pauli
+  RW Essen 3-3 Homburg
+  Saarbrücken 2-1 Uerdingen
+  Stuttgarter K 0-0 Wolfsburg
+  TB Berlin 0-1 SV Waldhof Mannheim
+
+Spieltag 12
+[Sa 16.10.]
+  Chemnitz 2-1 RW Essen
+  F Köln 7-4 Saarbrücken
+  Hertha 0-0 Hannover
+  Homburg 3-2 Stuttgarter K
+  SV Waldhof Mannheim 1-0 Mainz
+  Meppen 4-1 Hansa Rostock
+  St Pauli 1-1 Bochum
+  Uerdingen 1-0 TSV 1860 München
+  Wolfsburg 2-1 TB Berlin
+  Wuppertaler 0-5 CZ Jena
+
+Spieltag 13
+[Sa 23.10.]
+  Bochum 0-0 Uerdingen
+  CZ Jena 0-0 Hansa Rostock
+  Hannover 1-1 SV Waldhof Mannheim
+  Mainz 1-2 Wolfsburg
+  TSV 1860 München 2-1 F Köln
+  RW Essen 4-1 Meppen
+  Saarbrücken 4-2 Hertha
+  Stuttgarter K 2-0 Chemnitz
+  TB Berlin 0-1 Homburg
+  Wuppertaler 2-1 St Pauli
+
+Spieltag 14
+[Sa 30.10.]
+  Chemnitz 1-0 TB Berlin
+  F Köln 1-2 Bochum
+  Hansa Rostock 0-2 RW Essen
+  Hertha 0-1 TSV 1860 München
+  Homburg 1-0 Mainz
+  SV Waldhof Mannheim 3-0 Saarbrücken
+  Meppen 2-2 Stuttgarter K
+  St Pauli 2-1 CZ Jena
+  Uerdingen 1-1 Wuppertaler
+  Wolfsburg 0-0 Hannover
+
+Spieltag 15
+[Sa 06.11.]
+  Bochum 3-1 Hertha
+  CZ Jena 2-0 RW Essen
+  Hannover 1-3 Homburg
+  Mainz 5-1 Chemnitz
+  TSV 1860 München 3-1 SV Waldhof Mannheim
+  Saarbrücken 2-1 Wolfsburg
+  St Pauli 0-0 Uerdingen
+  Stuttgarter K 3-2 Hansa Rostock
+  TB Berlin 1-1 Meppen
+  Wuppertaler 1-2 F Köln
+
+Spieltag 16
+[Sa 13.11.]
+  Chemnitz 1-0 Hannover
+  F Köln 1-2 St Pauli
+  Hansa Rostock 2-1 TB Berlin
+  Hertha 0-3 Wuppertaler
+  Homburg 2-2 Saarbrücken
+  SV Waldhof Mannheim 1-0 Bochum
+  Meppen 1-1 Mainz
+  RW Essen 0-0 Stuttgarter K
+  Uerdingen 0-0 CZ Jena
+  Wolfsburg 0-0 TSV 1860 München
+
+Spieltag 17
+[Sa 20.11.]
+  Bochum 2-0 Wolfsburg
+  Hannover 1-1 Meppen
+  Mainz 3-1 Hansa Rostock
+  TSV 1860 München 1-0 Homburg
+  Saarbrücken 1-0 Chemnitz
+  St Pauli 1-0 Hertha
+  Stuttgarter K 0-2 CZ Jena
+  TB Berlin 2-2 RW Essen
+  Uerdingen 0-2 F Köln
+  Wuppertaler 1-1 SV Waldhof Mannheim
+
+Spieltag 18
+[Sa 27.11.]
+  Chemnitz 1-1 TSV 1860 München
+  CZ Jena 2-2 F Köln
+  Hansa Rostock 3-1 Hannover
+  Hertha 1-1 Uerdingen
+  Homburg 0-0 Bochum
+  SV Waldhof Mannheim 0-0 St Pauli
+  Meppen 3-0 Saarbrücken
+  RW Essen 0-0 Mainz
+  Stuttgarter K 3-1 TB Berlin
+  Wolfsburg 2-1 Wuppertaler
+
+Spieltag 19
+[Sa 04.12.]
+  Bochum 3-2 Chemnitz
+  F Köln 1-3 Hertha
+  Hannover 2-0 RW Essen
+  Mainz 4-0 Stuttgarter K
+  TSV 1860 München 1-2 Meppen
+  Saarbrücken 4-0 Hansa Rostock
+  St Pauli 1-0 Wolfsburg
+  TB Berlin 0-0 CZ Jena
+  Uerdingen 1-2 SV Waldhof Mannheim
+  Wuppertaler 1-1 Homburg
+
+Spieltag 20
+[Sa 19.02.]
+  Bochum 4-0 Meppen
+  F Köln 0-0 SV Waldhof Mannheim
+  Hannover 1-0 Stuttgarter K
+  Hertha 0-0 CZ Jena
+  Mainz 1-4 TB Berlin
+  TSV 1860 München 1-2 Hansa Rostock
+  Saarbrücken 3-1 RW Essen
+  St Pauli 3-0 Homburg
+  Uerdingen 0-0 Wolfsburg
+  Wuppertaler 2-2 Chemnitz
+
+Spieltag 21
+[Sa 26.02.]
+  Chemnitz 0-0 St Pauli
+  CZ Jena 2-0 Mainz
+  Hansa Rostock 2-1 Bochum
+  Homburg 0-1 Uerdingen
+  SV Waldhof Mannheim 2-2 Hertha
+  Stuttgarter K 2-2 Saarbrücken
+  TB Berlin 1-2 Hannover
+[Sa 05.03.]
+  Bochum 2-0 RW Essen
+  F Köln 2-1 Homburg
+  Hannover 1-1 Mainz
+
+Spieltag 22
+  Hertha 4-0 Wolfsburg
+  SV Waldhof Mannheim 2-0 CZ Jena
+  TSV 1860 München 1-3 Stuttgarter K
+  Saarbrücken 2-2 TB Berlin
+  St Pauli 1-0 Meppen
+  Uerdingen 2-0 Chemnitz
+  Wuppertaler 4-1 Hansa Rostock
+[Sa 12.03.]
+  Chemnitz 1-0 F Köln
+  CZ Jena 2-2 Hannover
+  Homburg 1-1 Hertha
+
+Spieltag 23
+  Mainz 1-1 Saarbrücken
+  Meppen 0-2 Uerdingen
+  RW Essen 0-0 Wuppertaler
+  Stuttgarter K 0-0 Bochum
+  TB Berlin 1-0 TSV 1860 München
+  Wolfsburg 2-2 SV Waldhof Mannheim
+[Sa 19.03.]
+  Bochum 5-1 TB Berlin
+  F Köln 1-1 Meppen
+  Hertha 1-2 Chemnitz
+  SV Waldhof Mannheim 2-1 Homburg
+
+Spieltag 24
+  TSV 1860 München 0-2 Mainz
+  Saarbrücken 0-4 Hannover
+  St Pauli 1-0 RW Essen
+  Uerdingen 2-1 Hansa Rostock
+  Wolfsburg 5-1 CZ Jena
+[Sa 26.03.]
+  Chemnitz 0-0 SV Waldhof Mannheim
+  CZ Jena 1-2 Saarbrücken
+  Hannover 1-4 TSV 1860 München
+  Hansa Rostock 1-1 F Köln
+  Homburg 0-0 Wolfsburg
+
+Spieltag 25
+  Mainz 3-2 Bochum
+  Meppen 1-0 Hertha
+  RW Essen 0-2 Uerdingen
+  Stuttgarter K 1-1 St Pauli
+  TB Berlin 1-1 Wuppertaler
+[Sa 02.04.]
+  Bochum 2-2 Hannover
+  F Köln 0-1 RW Essen
+  Hertha 0-1 Hansa Rostock
+  Homburg 2-1 CZ Jena
+  SV Waldhof Mannheim 2-1 Meppen
+
+Spieltag 26
+  TSV 1860 München 2-0 Saarbrücken
+  St Pauli 2-1 TB Berlin
+  Uerdingen 1-1 Stuttgarter K
+  Wolfsburg 2-0 Chemnitz
+  Wuppertaler 1-3 Mainz
+[Mi 06.04.]
+  Chemnitz 2-1 Homburg
+  CZ Jena 1-1 TSV 1860 München
+  Hannover 2-0 Wuppertaler
+  Hansa Rostock 1-0 SV Waldhof Mannheim
+  Mainz 0-1 St Pauli
+
+Spieltag 27
+  Meppen 2-1 Wolfsburg
+  RW Essen 2-0 Hertha
+  Saarbrücken 0-1 Bochum
+  Stuttgarter K 0-0 F Köln
+  TB Berlin 1-1 Uerdingen
+[Sa 09.04.]
+  Bochum 2-0 TSV 1860 München
+  Chemnitz 0-0 CZ Jena
+  F Köln 3-1 TB Berlin
+  Hertha 0-0 Stuttgarter K
+  Homburg 5-0 Meppen
+
+Spieltag 28
+  SV Waldhof Mannheim 2-2 RW Essen
+  St Pauli 2-1 Hannover
+  Uerdingen 3-0 Mainz
+  Wolfsburg 1-1 Hansa Rostock
+  Wuppertaler 4-0 Saarbrücken
+[Sa 16.04.]
+  Hannover 2-1 Uerdingen
+  Hansa Rostock 3-2 Homburg
+  Mainz 0-3 F Köln
+  Meppen 2-1 Chemnitz
+  TSV 1860 München 3-1 Wuppertaler
+
+Spieltag 29
+  RW Essen 0-1 Wolfsburg
+  Saarbrücken 1-1 St Pauli
+  Stuttgarter K 4-2 SV Waldhof Mannheim
+[Mo 18.04.]
+  Hansa Rostock 0-1 St Pauli
+  RW Essen 1-4 TSV 1860 München
+  Wolfsburg 2-1 F Köln
+[Sa 23.04.]
+  Chemnitz 3-0 Hansa Rostock
+  F Köln 4-1 Hannover
+  Hertha 5-0 Mainz
+  Homburg 1-1 RW Essen
+
+Spieltag 30
+  SV Waldhof Mannheim 2-2 TB Berlin
+  Meppen 1-1 CZ Jena
+  St Pauli 2-1 TSV 1860 München
+  Uerdingen 1-3 Saarbrücken
+  Wolfsburg 1-0 Stuttgarter K
+  Wuppertaler 3-1 Bochum
+[Sa 30.04.]
+  Bochum 1-1 St Pauli
+  CZ Jena 2-1 Wuppertaler
+  Hannover 0-2 Hertha
+  Hansa Rostock 1-1 Meppen
+
+Spieltag 31
+  Mainz 2-1 SV Waldhof Mannheim
+  TSV 1860 München 0-0 Uerdingen
+  RW Essen 0-1 Chemnitz
+  Saarbrücken 4-1 F Köln
+  Stuttgarter K 2-3 Homburg
+  TB Berlin 3-2 Wolfsburg
+[Mo 02.05.]
+  TB Berlin 1-2 Hertha
+  Wuppertaler 0-1 Stuttgarter K
+[Sa 07.05.]
+  Chemnitz 1-0 Stuttgarter K
+  F Köln 0-0 TSV 1860 München
+
+Spieltag 32
+  Hansa Rostock 0-0 CZ Jena
+  Hertha 3-1 Saarbrücken
+  Homburg 0-2 TB Berlin
+  Meppen 2-1 RW Essen
+  St Pauli 1-2 Wuppertaler
+  Wolfsburg 2-0 Mainz
+[Mo 09.05.]
+  SV Waldhof Mannheim 1-1 Hannover
+  Meppen 2-1 Wuppertaler
+[Sa 14.05.]
+  Bochum 1-0 F Köln
+  CZ Jena 1-0 St Pauli
+
+Spieltag 33
+  Hannover 2-0 Wolfsburg
+  Mainz 1-1 Homburg
+  RW Essen 2-0 Hansa Rostock
+  Saarbrücken 1-1 SV Waldhof Mannheim
+  Stuttgarter K 1-0 Meppen
+  TB Berlin 0-0 Chemnitz
+  Wuppertaler 1-3 Uerdingen
+[Mo 16.05.]
+  CZ Jena 0-0 Bochum
+  TSV 1860 München 1-0 Hertha
+[Sa 21.05.]
+  Chemnitz 0-0 Mainz
+
+Spieltag 34
+  F Köln 3-0 Wuppertaler
+  Hansa Rostock 2-0 Stuttgarter K
+  Hertha 1-1 Bochum
+  Homburg 2-0 Hannover
+  SV Waldhof Mannheim 1-1 TSV 1860 München
+  Meppen 2-1 TB Berlin
+  RW Essen 0-5 CZ Jena
+  Uerdingen 3-0 St Pauli
+  Wolfsburg 3-1 Saarbrücken
+[Mi 25.05.]
+  Bochum 0-1 SV Waldhof Mannheim
+
+Spieltag 35
+  CZ Jena 0-2 Uerdingen
+  Hannover 0-0 Chemnitz
+  Mainz 3-0 Meppen
+  TSV 1860 München 4-0 Wolfsburg
+  Saarbrücken 0-0 Homburg
+  St Pauli 3-2 F Köln
+  Stuttgarter K 4-2 RW Essen
+  TB Berlin 0-0 Hansa Rostock
+  Wuppertaler 1-2 Hertha
+[Sa 28.05.]
+  Chemnitz 3-1 Saarbrücken
+
+Spieltag 36
+  CZ Jena 0-0 Stuttgarter K
+  F Köln 0-1 Uerdingen
+  Hansa Rostock 2-3 Mainz
+  Hertha 2-1 St Pauli
+  Homburg 0-0 TSV 1860 München
+  SV Waldhof Mannheim 2-0 Wuppertaler
+  Meppen 4-1 Hannover
+  RW Essen 4-6 TB Berlin
+  Wolfsburg 0-1 Bochum
+[Mo 30.05.]
+  Uerdingen 3-0 Bochum
+
+Spieltag 37
+[Sa 04.06.]
+  Bochum 1-4 Homburg
+  F Köln 1-1 CZ Jena
+  Hannover 5-0 Hansa Rostock
+  Mainz 1-1 RW Essen
+  TSV 1860 München 3-1 Chemnitz
+  Saarbrücken 1-1 Meppen
+  St Pauli 4-1 SV Waldhof Mannheim
+  TB Berlin 2-2 Stuttgarter K
+  Uerdingen 0-0 Hertha
+  Wuppertaler 2-1 Wolfsburg
+
+Spieltag 38
+[Sa 11.06.]
+  Chemnitz 1-0 Bochum
+  CZ Jena 0-2 TB Berlin
+  Hansa Rostock 3-1 Saarbrücken
+  Hertha 1-1 F Köln
+  Homburg 2-2 Wuppertaler
+  SV Waldhof Mannheim 2-0 Uerdingen
+  Meppen 0-1 TSV 1860 München
+  RW Essen 0-2 Hannover
+  Stuttgarter K 4-1 Mainz
+  Wolfsburg 4-1 St Pauli

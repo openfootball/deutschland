@@ -1,0 +1,487 @@
+= Deutsche 2. Bundesliga 1998/99
+
+
+Spieltag 1
+[Do 30.07.]
+  Hannover 1-0 Karlsruhe
+[Fr 31.07.]
+  Cottbus 2-0 Stuttgarter K
+  F Köln 2-1 Düsseldorf
+  St Pauli 1-0 TB Berlin
+[So 02.08.]
+  Gütersloh 0-1 FC Köln
+  Mainz 3-0 Greuther Fürth
+  Oberhausen 0-0 Uerdingen
+  Ulm 2-0 Wattenscheid
+  Unterhaching 0-2 Bielefeld
+
+Spieltag 2
+[Fr 07.08.]
+  FC Köln 0-1 Unterhaching
+  Stuttgarter K 2-0 Oberhausen
+  Uerdingen 1-2 F Köln
+[So 09.08.]
+  Düsseldorf 3-1 Gütersloh
+  Greuther Fürth 1-0 St Pauli
+  Karlsruhe 1-2 Ulm
+  TB Berlin 1-0 Cottbus
+  Wattenscheid 1-1 Mainz
+[Mo 10.08.]
+  Bielefeld 0-1 Hannover
+
+Spieltag 3
+[Di 11.08.]
+  F Köln 2-1 Stuttgarter K
+[Mi 12.08.]
+  Oberhausen 0-2 TB Berlin
+[Do 13.08.]
+  Cottbus 1-1 Greuther Fürth
+  Düsseldorf 2-2 Uerdingen
+  Gütersloh 1-1 Unterhaching
+  Mainz 4-1 Karlsruhe
+  St Pauli 1-0 Wattenscheid
+  Ulm 6-2 Bielefeld
+[Sa 15.08.]
+  TB Berlin 3-2 F Köln
+
+Spieltag 4
+[So 16.08.]
+  Bielefeld 1-0 Mainz
+  FC Köln 1-1 Ulm
+  Greuther Fürth 1-1 Oberhausen
+  Stuttgarter K 1-0 Düsseldorf
+  Uerdingen 2-0 Gütersloh
+  Unterhaching 3-1 Hannover
+  Wattenscheid 1-1 Cottbus
+[Mo 17.08.]
+  Karlsruhe 3-0 St Pauli
+[Fr 21.08.]
+  Mainz 2-1 FC Köln
+
+Spieltag 5
+  Uerdingen 0-1 Stuttgarter K
+  Ulm 3-1 Unterhaching
+[So 23.08.]
+  Cottbus 4-0 Karlsruhe
+  F Köln 1-4 Greuther Fürth
+  Gütersloh 2-1 Hannover
+  Oberhausen 1-0 Wattenscheid
+[Mo 24.08.]
+  St Pauli 1-2 Bielefeld
+[Mi 09.09.]
+  Düsseldorf 2-2 TB Berlin
+[Do 10.09.]
+  Hannover 6-1 FC Köln
+
+Spieltag 6
+[Fr 11.09.]
+  Bielefeld 2-0 Cottbus
+  Karlsruhe 3-1 Oberhausen
+  Wattenscheid 0-0 F Köln
+[So 13.09.]
+  Greuther Fürth 1-0 Düsseldorf
+  Hannover 1-1 Ulm
+  Stuttgarter K 2-1 Gütersloh
+  TB Berlin 3-1 Uerdingen
+  Unterhaching 1-0 Mainz
+[Mo 14.09.]
+  FC Köln 1-4 St Pauli
+
+Spieltag 7
+[Fr 18.09.]
+  Oberhausen 1-5 Bielefeld
+  Stuttgarter K 1-0 TB Berlin
+[Sa 19.09.]
+  Düsseldorf 1-1 Wattenscheid
+[So 20.09.]
+  F Köln 0-1 Karlsruhe
+  Gütersloh 1-1 Ulm
+  Mainz 1-0 Hannover
+  St Pauli 1-1 Unterhaching
+[Mo 21.09.]
+  Cottbus 2-3 FC Köln
+[Fr 25.09.]
+  Karlsruhe 3-1 Düsseldorf
+
+Spieltag 8
+  TB Berlin 2-0 Gütersloh
+[Sa 26.09.]
+  Bielefeld 2-1 F Köln
+[So 27.09.]
+  FC Köln 2-1 Oberhausen
+  Greuther Fürth 1-0 Stuttgarter K
+  Hannover 3-0 St Pauli
+  Unterhaching 1-0 Cottbus
+  Wattenscheid 2-1 Uerdingen
+[Mo 28.09.]
+  Ulm 4-2 Mainz
+[Fr 02.10.]
+  Düsseldorf 2-2 Bielefeld
+
+Spieltag 9
+  Oberhausen 0-2 Unterhaching
+  St Pauli 0-1 Ulm
+  Uerdingen 1-3 Karlsruhe
+[So 04.10.]
+  Cottbus 1-0 Hannover
+  Gütersloh 6-1 Mainz
+  Stuttgarter K 0-2 Wattenscheid
+  TB Berlin 2-1 Greuther Fürth
+[Mo 05.10.]
+  F Köln 4-2 FC Köln
+[Fr 16.10.]
+  Hannover 1-1 Oberhausen
+
+Spieltag 10
+  Karlsruhe 6-0 Stuttgarter K
+  Wattenscheid 0-1 TB Berlin
+[So 18.10.]
+  Bielefeld 1-0 Uerdingen
+  Greuther Fürth 3-2 Gütersloh
+  Mainz 3-0 St Pauli
+  Ulm 2-2 Cottbus
+  Unterhaching 3-0 F Köln
+[Mo 19.10.]
+  FC Köln 1-0 Düsseldorf
+[Mi 21.10.]
+  Uerdingen 0-2 Greuther Fürth
+
+Spieltag 11
+[Fr 23.10.]
+  Cottbus 2-2 Mainz
+  Oberhausen 2-2 Ulm
+  Stuttgarter K 2-2 Bielefeld
+[So 25.10.]
+  Düsseldorf 1-3 Unterhaching
+  Greuther Fürth 2-1 Wattenscheid
+  Gütersloh 1-4 St Pauli
+  TB Berlin 3-2 Karlsruhe
+  Uerdingen 2-2 FC Köln
+[Mo 26.10.]
+  F Köln 3-0 Hannover
+
+Spieltag 12
+[Fr 30.10.]
+  FC Köln 0-1 Stuttgarter K
+  Mainz 0-0 Oberhausen
+  Wattenscheid 1-1 Gütersloh
+[Sa 31.10.]
+  Unterhaching 2-0 Uerdingen
+[So 01.11.]
+  Hannover 0-2 Düsseldorf
+  Karlsruhe 1-0 Greuther Fürth
+  St Pauli 1-1 Cottbus
+  Ulm 3-3 F Köln
+[Mo 02.11.]
+  Bielefeld 3-1 TB Berlin
+
+Spieltag 13
+[Fr 06.11.]
+  Stuttgarter K 1-0 Unterhaching
+  Wattenscheid 0-0 Karlsruhe
+[So 08.11.]
+  Düsseldorf 1-3 Ulm
+  F Köln 2-0 Mainz
+  Greuther Fürth 2-0 Bielefeld
+  Gütersloh 1-1 Cottbus
+  Oberhausen 3-2 St Pauli
+[Mo 09.11.]
+  TB Berlin 1-1 FC Köln
+[Fr 13.11.]
+  Cottbus 0-2 Oberhausen
+
+Spieltag 14
+  Hannover 2-1 Stuttgarter K
+  Mainz 0-0 Düsseldorf
+  Unterhaching 3-1 TB Berlin
+[So 15.11.]
+  Bielefeld 1-0 Wattenscheid
+  FC Köln 1-0 Greuther Fürth
+  St Pauli 0-0 F Köln
+  Ulm 2-2 Uerdingen
+[Mo 16.11.]
+  Karlsruhe 2-3 Gütersloh
+[Fr 20.11.]
+  Düsseldorf 2-2 St Pauli
+
+Spieltag 15
+  F Köln 3-0 Cottbus
+  Oberhausen 3-0 Gütersloh
+  Uerdingen 1-2 Mainz
+  Wattenscheid 1-1 FC Köln
+[So 22.11.]
+  Greuther Fürth 0-0 Unterhaching
+  Stuttgarter K 1-2 Ulm
+  TB Berlin 3-1 Hannover
+[Mo 23.11.]
+  Bielefeld 0-1 Karlsruhe
+[Fr 27.11.]
+  Cottbus 0-1 Düsseldorf
+
+Spieltag 16
+[So 29.11.]
+  Gütersloh 0-2 Bielefeld
+  Hannover 1-1 Greuther Fürth
+  Oberhausen 0-0 F Köln
+  Ulm 2-0 TB Berlin
+  Unterhaching 1-0 Wattenscheid
+[Mo 30.11.]
+  FC Köln 4-1 Karlsruhe
+[Di 01.12.]
+  St Pauli 2-3 Uerdingen
+[Mi 02.12.]
+  Mainz 2-2 Stuttgarter K
+[Fr 04.12.]
+  F Köln 3-2 Gütersloh
+
+Spieltag 17
+  Karlsruhe 1-0 Unterhaching
+  Uerdingen 0-0 Cottbus
+[So 06.12.]
+  Düsseldorf 2-2 Oberhausen
+  Greuther Fürth 2-0 Ulm
+  TB Berlin 3-0 Mainz
+  Wattenscheid 0-3 Hannover
+[Mo 07.12.]
+  Bielefeld 0-0 FC Köln
+[Fr 11.12.]
+  Düsseldorf 2-2 F Köln
+  Stuttgarter K 1-0 Cottbus
+
+Spieltag 18
+[So 13.12.]
+  FC Köln 1-1 Gütersloh
+  Greuther Fürth 3-1 Mainz
+  Wattenscheid 0-3 Ulm
+[Di 15.12.]
+  Bielefeld 2-0 Unterhaching
+  Karlsruhe 1-0 Hannover
+  Uerdingen 2-2 Oberhausen
+[Fr 18.12.]
+  Cottbus 2-2 TB Berlin
+  Hannover 2-1 Bielefeld
+  Mainz 2-0 Wattenscheid
+
+Spieltag 19
+[So 20.12.]
+  F Köln 1-1 Uerdingen
+  Gütersloh 2-2 Düsseldorf
+  Oberhausen 1-1 Stuttgarter K
+  St Pauli 0-2 Greuther Fürth
+  Unterhaching 2-0 FC Köln
+[Mo 21.12.]
+  Ulm 1-5 Karlsruhe
+[So 21.02.]
+  Uerdingen 0-1 Hannover
+[Mo 22.02.]
+  Stuttgarter K 1-3 St Pauli
+[Fr 26.02.]
+  FC Köln 0-2 Hannover
+
+Spieltag 20
+  Karlsruhe 0-1 Mainz
+  Wattenscheid 4-2 St Pauli
+[So 28.02.]
+  Greuther Fürth 0-0 Cottbus
+  Stuttgarter K 2-2 F Köln
+  TB Berlin 2-2 Oberhausen
+  Uerdingen 4-1 Düsseldorf
+  Unterhaching 2-0 Gütersloh
+[Mo 01.03.]
+  Bielefeld 5-0 Ulm
+[Do 04.03.]
+  TB Berlin 0-2 St Pauli
+
+Spieltag 21
+[Fr 05.03.]
+  Cottbus 2-0 Wattenscheid
+  Hannover 0-1 Unterhaching
+  Oberhausen 0-2 Greuther Fürth
+[So 07.03.]
+  Düsseldorf 0-0 Stuttgarter K
+  F Köln 1-3 TB Berlin
+  Gütersloh 2-0 Uerdingen
+  St Pauli 1-0 Karlsruhe
+  Ulm 2-2 FC Köln
+[Mo 08.03.]
+  Mainz 3-1 Bielefeld
+
+Spieltag 22
+[Fr 12.03.]
+  Bielefeld 0-0 St Pauli
+  Karlsruhe 3-2 Cottbus
+  Stuttgarter K 0-1 Uerdingen
+[So 14.03.]
+  FC Köln 2-1 Mainz
+  Greuther Fürth 4-0 F Köln
+  Hannover 4-1 Gütersloh
+  TB Berlin 1-1 Düsseldorf
+  Wattenscheid 2-4 Oberhausen
+[Mo 15.03.]
+  Unterhaching 2-0 Ulm
+
+Spieltag 23
+[Fr 19.03.]
+  Cottbus 0-2 Bielefeld
+  Uerdingen 2-3 TB Berlin
+  Ulm 1-1 Hannover
+[So 21.03.]
+  Düsseldorf 0-0 Greuther Fürth
+  F Köln 1-2 Wattenscheid
+  Gütersloh 1-0 Stuttgarter K
+  Mainz 1-0 Unterhaching
+  Oberhausen 2-0 Karlsruhe
+[Mo 22.03.]
+  St Pauli 0-0 FC Köln
+
+Spieltag 24
+[Do 01.04.]
+  Bielefeld 2-0 Oberhausen
+  TB Berlin 0-2 Stuttgarter K
+  Unterhaching 2-1 St Pauli
+[So 04.04.]
+  FC Köln 2-2 Cottbus
+  Greuther Fürth 0-0 Uerdingen
+  Hannover 3-2 Mainz
+  Ulm 1-1 Gütersloh
+  Wattenscheid 2-0 Düsseldorf
+[Mo 05.04.]
+  Karlsruhe 4-2 F Köln
+
+Spieltag 25
+[Fr 09.04.]
+  Oberhausen 0-4 FC Köln
+  Stuttgarter K 2-2 Greuther Fürth
+  Uerdingen 0-0 Wattenscheid
+[So 11.04.]
+  Cottbus 4-2 Unterhaching
+  F Köln 1-1 Bielefeld
+  Gütersloh 1-0 TB Berlin
+  Mainz 1-1 Ulm
+[Mo 12.04.]
+  Düsseldorf 0-1 Karlsruhe
+  St Pauli 0-2 Hannover
+
+Spieltag 26
+[Fr 16.04.]
+  Bielefeld 2-0 Düsseldorf
+  Hannover 2-0 Cottbus
+  Ulm 4-1 St Pauli
+[So 18.04.]
+  Greuther Fürth 1-2 TB Berlin
+  Karlsruhe 0-1 Uerdingen
+  Mainz 1-0 Gütersloh
+  Unterhaching 0-0 Oberhausen
+  Wattenscheid 2-0 Stuttgarter K
+[Mo 19.04.]
+  FC Köln 0-3 F Köln
+
+Spieltag 27
+[Fr 23.04.]
+  Cottbus 3-0 Ulm
+  Düsseldorf 2-1 FC Köln
+  St Pauli 2-1 Mainz
+[So 25.04.]
+  F Köln 0-2 Unterhaching
+  Oberhausen 1-1 Hannover
+  Stuttgarter K 2-2 Karlsruhe
+  TB Berlin 1-0 Wattenscheid
+  Uerdingen 0-4 Bielefeld
+[Mo 26.04.]
+  Gütersloh 1-0 Greuther Fürth
+
+Spieltag 28
+[Fr 30.04.]
+  FC Köln 4-0 Uerdingen
+  St Pauli 1-0 Gütersloh
+  Ulm 1-0 Oberhausen
+[So 02.05.]
+  Bielefeld 1-2 Stuttgarter K
+  Hannover 3-3 F Köln
+  Mainz 0-0 Cottbus
+  Unterhaching 1-0 Düsseldorf
+  Wattenscheid 1-1 Greuther Fürth
+[Mo 03.05.]
+  Karlsruhe 0-0 TB Berlin
+
+Spieltag 29
+[Fr 07.05.]
+  Düsseldorf 1-1 Hannover
+  F Köln 2-2 Ulm
+  Stuttgarter K 2-0 FC Köln
+[So 09.05.]
+  Cottbus 0-3 St Pauli
+  Greuther Fürth 1-2 Karlsruhe
+  Gütersloh 2-1 Wattenscheid
+  Oberhausen 2-1 Mainz
+  Uerdingen 3-0 Unterhaching
+[Mo 10.05.]
+  TB Berlin 1-1 Bielefeld
+
+Spieltag 30
+[Mi 12.05.]
+  Hannover 3-1 Uerdingen
+[Fr 14.05.]
+  St Pauli 1-1 Oberhausen
+  Ulm 4-2 Düsseldorf
+  Unterhaching 2-0 Stuttgarter K
+[So 16.05.]
+  Cottbus 5-1 Gütersloh
+  FC Köln 1-0 TB Berlin
+  Karlsruhe 2-1 Wattenscheid
+  Mainz 1-1 F Köln
+[Mo 17.05.]
+  Bielefeld 2-1 Greuther Fürth
+
+Spieltag 31
+[Fr 21.05.]
+  Gütersloh 2-0 Karlsruhe
+  Oberhausen 3-1 Cottbus
+  Wattenscheid 0-2 Bielefeld
+[So 23.05.]
+  Düsseldorf 0-3 Mainz
+  F Köln 1-1 St Pauli
+  Greuther Fürth 0-1 FC Köln
+  Stuttgarter K 2-2 Hannover
+  Uerdingen 2-1 Ulm
+[Mo 24.05.]
+  TB Berlin 1-1 Unterhaching
+
+Spieltag 32
+[Do 27.05.]
+  Karlsruhe 1-1 Bielefeld
+[Fr 28.05.]
+  FC Köln 2-1 Wattenscheid
+  Mainz 3-0 Uerdingen
+  St Pauli 5-0 Düsseldorf
+  Ulm 3-2 Stuttgarter K
+[So 30.05.]
+  Cottbus 2-0 F Köln
+  Gütersloh 0-3 Oberhausen
+  Hannover 0-0 TB Berlin
+[Mo 31.05.]
+  Unterhaching 4-1 Greuther Fürth
+
+Spieltag 33
+[So 13.06.]
+  Bielefeld 3-0 Gütersloh
+  Düsseldorf 0-3 Cottbus
+  F Köln 0-0 Oberhausen
+  Greuther Fürth 0-1 Hannover
+  Karlsruhe 3-1 FC Köln
+  Stuttgarter K 1-3 Mainz
+  TB Berlin 0-2 Ulm
+  Uerdingen 1-1 St Pauli
+  Wattenscheid 4-2 Unterhaching
+
+Spieltag 34
+[Do 17.06.]
+  Cottbus 5-0 Uerdingen
+  FC Köln 3-5 Bielefeld
+  Gütersloh 2-1 F Köln
+  Hannover 2-1 Wattenscheid
+  Mainz 0-3 TB Berlin
+  Oberhausen 1-3 Düsseldorf
+  St Pauli 6-2 Stuttgarter K
+  Ulm 0-0 Greuther Fürth
+  Unterhaching 1-1 Karlsruhe

@@ -1,0 +1,503 @@
+= Deutsche 2. Bundesliga 2011/12
+
+
+Spieltag 1
+[Fr 15.07.]
+  Cottbus 2-1 Dresden
+  Frankfurt FSV 1-1 Union Berlin
+  Greuther Fürth 2-3 Ein Frankfurt
+[Sa 16.07.]
+  Erzgebirge Aue 1-0 Aachen
+  St Pauli 2-0 Ingolstadt
+[So 17.07.]
+  Braunschweig 3-1 TSV 1860 München
+  Hansa Rostock 1-2 Paderborn
+  Karlsruhe 3-2 Duisburg
+[Mo 18.07.]
+  Fortuna Düsseldorf 2-0 Bochum
+
+Spieltag 2
+[Fr 22.07.]
+  Bochum 1-0 Frankfurt FSV
+  Duisburg 1-2 Cottbus
+  Ingolstadt 0-0 Erzgebirge Aue
+[Sa 23.07.]
+  TSV 1860 München 2-1 Karlsruhe
+  Union Berlin 0-4 Greuther Fürth
+[So 24.07.]
+  Aachen 0-2 Braunschweig
+  Dresden 1-1 Hansa Rostock
+  Paderborn 1-1 Fortuna Düsseldorf
+[Mo 25.07.]
+  Ein Frankfurt 1-1 St Pauli
+
+Spieltag 3
+[Fr 05.08.]
+  Fortuna Düsseldorf 4-1 Ingolstadt
+  St Pauli 3-1 Aachen
+  Union Berlin 3-0 Paderborn
+[Sa 06.08.]
+  Cottbus 0-5 TSV 1860 München
+  Greuther Fürth 1-0 Dresden
+[So 07.08.]
+  Braunschweig 0-3 Ein Frankfurt
+  Erzgebirge Aue 0-2 Karlsruhe
+  Frankfurt FSV 0-0 Duisburg
+[Mo 08.08.]
+  Hansa Rostock 0-0 Bochum
+
+Spieltag 4
+[Fr 12.08.]
+  Bochum 1-2 St Pauli
+  Dresden 4-0 Union Berlin
+  Karlsruhe 1-3 Braunschweig
+[Sa 13.08.]
+  Aachen 0-2 Cottbus
+  Paderborn 0-1 Greuther Fürth
+[So 14.08.]
+  Duisburg 0-0 Hansa Rostock
+  Ingolstadt 1-1 Frankfurt FSV
+  TSV 1860 München 4-0 Erzgebirge Aue
+[Mo 15.08.]
+  Ein Frankfurt 1-1 Fortuna Düsseldorf
+
+Spieltag 5
+[Fr 19.08.]
+  Fortuna Düsseldorf 3-1 TSV 1860 München
+  Greuther Fürth 3-0 Ingolstadt
+  Hansa Rostock 0-0 Aachen
+[Sa 20.08.]
+  Braunschweig 1-1 Erzgebirge Aue
+  Union Berlin 2-1 Bochum
+[So 21.08.]
+  Cottbus 2-0 Karlsruhe
+  Dresden 1-2 Paderborn
+  Frankfurt FSV 0-4 Ein Frankfurt
+[Mo 22.08.]
+  St Pauli 2-1 Duisburg
+
+Spieltag 6
+[Fr 26.08.]
+  Bochum 1-4 Greuther Fürth
+  Duisburg 3-0 Dresden
+  Ingolstadt 3-1 Hansa Rostock
+[Sa 27.08.]
+  Aachen 0-0 Fortuna Düsseldorf
+  Karlsruhe 0-4 Frankfurt FSV
+[So 28.08.]
+  Braunschweig 1-0 St Pauli
+  Ein Frankfurt 0-0 Paderborn
+  TSV 1860 München 3-1 Union Berlin
+[Mo 29.08.]
+  Erzgebirge Aue 0-0 Cottbus
+
+Spieltag 7
+[Fr 09.09.]
+  Greuther Fürth 2-1 Duisburg
+  Hansa Rostock 0-0 Braunschweig
+  Paderborn 0-0 Aachen
+[Sa 10.09.]
+  Cottbus 3-3 Ein Frankfurt
+  Fortuna Düsseldorf 4-2 Karlsruhe
+[So 11.09.]
+  Frankfurt FSV 1-1 Erzgebirge Aue
+  St Pauli 4-2 TSV 1860 München
+  Union Berlin 4-1 Ingolstadt
+[Mo 12.09.]
+  Dresden 2-1 Bochum
+
+Spieltag 8
+[Fr 16.09.]
+  Ein Frankfurt 4-1 Hansa Rostock
+  Erzgebirge Aue 2-4 Fortuna Düsseldorf
+  Ingolstadt 4-2 Dresden
+[Sa 17.09.]
+  Braunschweig 3-1 Cottbus
+  Duisburg 1-1 Union Berlin
+[So 18.09.]
+  Aachen 0-0 Greuther Fürth
+  Bochum 0-4 Paderborn
+  TSV 1860 München 4-0 Frankfurt FSV
+[Mo 19.09.]
+  Karlsruhe 0-2 St Pauli
+
+Spieltag 9
+[Fr 23.09.]
+  Frankfurt FSV 1-1 Braunschweig
+  Paderborn 4-1 Ingolstadt
+  St Pauli 2-3 Erzgebirge Aue
+[Sa 24.09.]
+  Fortuna Düsseldorf 4-2 Cottbus
+  Union Berlin 2-0 Aachen
+[So 25.09.]
+  Bochum 2-1 Duisburg
+  Greuther Fürth 2-0 TSV 1860 München
+  Hansa Rostock 1-1 Karlsruhe
+[Mo 26.09.]
+  Dresden 1-4 Ein Frankfurt
+
+Spieltag 10
+[Fr 30.09.]
+  Aachen 1-3 Frankfurt FSV
+  Ein Frankfurt 3-1 Union Berlin
+  Erzgebirge Aue 1-0 Hansa Rostock
+[Sa 01.10.]
+  Cottbus 1-4 St Pauli
+  Ingolstadt 3-5 Bochum
+[So 02.10.]
+  Duisburg 0-1 Paderborn
+  Karlsruhe 2-2 Greuther Fürth
+  TSV 1860 München 2-4 Dresden
+[Mo 03.10.]
+  Braunschweig 1-1 Fortuna Düsseldorf
+
+Spieltag 11
+[Fr 14.10.]
+  Bochum 0-2 Ein Frankfurt
+  Hansa Rostock 2-0 TSV 1860 München
+  Paderborn 1-0 Braunschweig
+[Sa 15.10.]
+  Duisburg 3-1 Ingolstadt
+  Union Berlin 2-0 Karlsruhe
+[So 16.10.]
+  Dresden 1-1 Aachen
+  Frankfurt FSV 0-1 Cottbus
+  Greuther Fürth 2-0 Erzgebirge Aue
+[Mo 17.10.]
+  St Pauli 1-3 Fortuna Düsseldorf
+
+Spieltag 12
+[Fr 21.10.]
+  Fortuna Düsseldorf 2-0 Hansa Rostock
+  Karlsruhe 0-0 Bochum
+  TSV 1860 München 1-1 Paderborn
+[Sa 22.10.]
+  Braunschweig 0-2 Dresden
+  Cottbus 0-2 Greuther Fürth
+[So 23.10.]
+  Aachen 3-1 Ingolstadt
+  Ein Frankfurt 3-0 Duisburg
+  Erzgebirge Aue 1-1 Union Berlin
+  St Pauli 2-1 Frankfurt FSV
+
+Spieltag 13
+[Fr 28.10.]
+  Bochum 1-0 Aachen
+  Hansa Rostock 1-1 Cottbus
+  Union Berlin 0-2 St Pauli
+[Sa 29.10.]
+  Dresden 5-1 Karlsruhe
+  Paderborn 1-0 Erzgebirge Aue
+[So 30.10.]
+  Duisburg 0-3 TSV 1860 München
+  Frankfurt FSV 2-5 Fortuna Düsseldorf
+  Ingolstadt 1-1 Ein Frankfurt
+[Mo 31.10.]
+  Greuther Fürth 1-3 Braunschweig
+
+Spieltag 14
+[Fr 04.11.]
+  Braunschweig 1-2 Union Berlin
+  Fortuna Düsseldorf 2-1 Dresden
+  Karlsruhe 3-2 Ingolstadt
+[Sa 05.11.]
+  TSV 1860 München 1-3 Bochum
+  St Pauli 2-2 Greuther Fürth
+[So 06.11.]
+  Aachen 2-2 Duisburg
+  Cottbus 0-2 Paderborn
+  Frankfurt FSV 0-0 Hansa Rostock
+[Mo 07.11.]
+  Erzgebirge Aue 1-2 Ein Frankfurt
+
+Spieltag 15
+[Fr 18.11.]
+  Duisburg 3-0 Braunschweig
+  Ingolstadt 0-1 TSV 1860 München
+  Paderborn 2-1 Karlsruhe
+[Sa 19.11.]
+  Hansa Rostock 1-3 St Pauli
+  Union Berlin 0-0 Fortuna Düsseldorf
+[So 20.11.]
+  Dresden 1-2 Erzgebirge Aue
+  Ein Frankfurt 4-3 Aachen
+  Greuther Fürth 4-0 Frankfurt FSV
+[Mo 21.11.]
+  Bochum 0-1 Cottbus
+
+Spieltag 16
+[Fr 25.11.]
+  Erzgebirge Aue 1-2 Duisburg
+  Frankfurt FSV 2-2 Paderborn
+  Hansa Rostock 2-5 Union Berlin
+[Sa 26.11.]
+  Karlsruhe 0-2 Aachen
+  TSV 1860 München 2-1 Ein Frankfurt
+[So 27.11.]
+  Braunschweig 4-0 Bochum
+  Cottbus 0-0 Ingolstadt
+  St Pauli 3-1 Dresden
+[Mo 28.11.]
+  Fortuna Düsseldorf 2-1 Greuther Fürth
+
+Spieltag 17
+[Fr 02.12.]
+  Ingolstadt 0-1 Braunschweig
+  Paderborn 1-1 St Pauli
+  Union Berlin 1-0 Cottbus
+[Sa 03.12.]
+  Ein Frankfurt 2-0 Karlsruhe
+  Greuther Fürth 3-0 Hansa Rostock
+[So 04.12.]
+  Aachen 2-2 TSV 1860 München
+  Bochum 6-0 Erzgebirge Aue
+  Dresden 2-2 Frankfurt FSV
+[Mo 05.12.]
+  Duisburg 0-2 Fortuna Düsseldorf
+
+Spieltag 18
+[Fr 09.12.]
+  Duisburg 3-1 Karlsruhe
+  TSV 1860 München 3-0 Braunschweig
+  Paderborn 2-0 Hansa Rostock
+[Sa 10.12.]
+  Bochum 1-1 Fortuna Düsseldorf
+  Union Berlin 4-0 Frankfurt FSV
+[So 11.12.]
+  Aachen 1-1 Erzgebirge Aue
+  Dresden 2-1 Cottbus
+  Ingolstadt 1-0 St Pauli
+[Mo 12.12.]
+  Ein Frankfurt 0-0 Greuther Fürth
+
+Spieltag 19
+[Fr 16.12.]
+  Erzgebirge Aue 1-1 Ingolstadt
+  Fortuna Düsseldorf 2-3 Paderborn
+  Greuther Fürth 5-0 Union Berlin
+[Sa 17.12.]
+  Frankfurt FSV 0-2 Bochum
+  Karlsruhe 1-3 TSV 1860 München
+[So 18.12.]
+  Braunschweig 1-1 Aachen
+  Cottbus 1-1 Duisburg
+  Hansa Rostock 2-2 Dresden
+[Mo 19.12.]
+  St Pauli 2-0 Ein Frankfurt
+
+Spieltag 20
+[Fr 03.02.]
+  Dresden 3-1 Greuther Fürth
+  Duisburg 1-2 Frankfurt FSV
+  Paderborn 3-2 Union Berlin
+[Sa 04.02.]
+  Aachen 2-1 St Pauli
+  Ingolstadt 1-1 Fortuna Düsseldorf
+[So 05.02.]
+  Bochum 2-1 Hansa Rostock
+  Ein Frankfurt 2-1 Braunschweig
+  Karlsruhe 2-1 Erzgebirge Aue
+[Mo 06.02.]
+  TSV 1860 München 2-0 Cottbus
+
+Spieltag 21
+[Fr 10.02.]
+  Cottbus 1-1 Aachen
+  Frankfurt FSV 1-1 Ingolstadt
+[Sa 11.02.]
+  Braunschweig 0-0 Karlsruhe
+  Union Berlin 4-0 Dresden
+[So 12.02.]
+  Greuther Fürth 5-1 Paderborn
+  Hansa Rostock 4-2 Duisburg
+  St Pauli 2-1 Bochum
+[Mo 13.02.]
+  Fortuna Düsseldorf 1-1 Ein Frankfurt
+[Fr 17.02.]
+  Duisburg 0-1 St Pauli
+
+Spieltag 22
+  Karlsruhe 2-0 Cottbus
+  Paderborn 2-2 Dresden
+[Sa 18.02.]
+  Bochum 4-2 Union Berlin
+  Ein Frankfurt 6-1 Frankfurt FSV
+[So 19.02.]
+  Aachen 0-0 Hansa Rostock
+  Ingolstadt 0-0 Greuther Fürth
+  TSV 1860 München 2-1 Fortuna Düsseldorf
+[Mo 20.02.]
+  Erzgebirge Aue 1-1 Braunschweig
+[Fr 24.02.]
+  Dresden 2-0 Duisburg
+
+Spieltag 23
+  Hansa Rostock 1-2 Ingolstadt
+  Union Berlin 0-1 TSV 1860 München
+[Sa 25.02.]
+  Cottbus 2-0 Erzgebirge Aue
+  Greuther Fürth 6-2 Bochum
+[So 26.02.]
+  Frankfurt FSV 2-1 Karlsruhe
+  Paderborn 4-2 Ein Frankfurt
+  St Pauli 0-0 Braunschweig
+[Mo 27.02.]
+  Fortuna Düsseldorf 0-0 Aachen
+[Fr 02.03.]
+  Bochum 0-2 Dresden
+
+Spieltag 24
+  Duisburg 0-2 Greuther Fürth
+  Ingolstadt 3-3 Union Berlin
+[Sa 03.03.]
+  Aachen 0-3 Paderborn
+  Karlsruhe 0-5 Fortuna Düsseldorf
+[So 04.03.]
+  Braunschweig 3-2 Hansa Rostock
+  Ein Frankfurt 1-0 Cottbus
+  Erzgebirge Aue 4-3 Frankfurt FSV
+[Mo 05.03.]
+  TSV 1860 München 1-1 St Pauli
+[Fr 09.03.]
+  Greuther Fürth 1-0 Aachen
+
+Spieltag 25
+  Paderborn 0-0 Bochum
+  Union Berlin 1-1 Duisburg
+[Sa 10.03.]
+  Fortuna Düsseldorf 3-1 Erzgebirge Aue
+  Frankfurt FSV 3-1 TSV 1860 München
+[So 11.03.]
+  Cottbus 1-1 Braunschweig
+  Dresden 0-0 Ingolstadt
+  Hansa Rostock 1-5 Ein Frankfurt
+[Mo 12.03.]
+  St Pauli 1-0 Karlsruhe
+[Mi 14.03.]
+  Erzgebirge Aue 0-0 TSV 1860 München
+
+Spieltag 26
+[Fr 16.03.]
+  Aachen 1-3 Union Berlin
+  Braunschweig 0-0 Frankfurt FSV
+  Ein Frankfurt 3-0 Dresden
+[Sa 17.03.]
+  Ingolstadt 4-0 Paderborn
+  TSV 1860 München 1-4 Greuther Fürth
+[So 18.03.]
+  Duisburg 2-1 Bochum
+  Erzgebirge Aue 2-1 St Pauli
+  Karlsruhe 2-2 Hansa Rostock
+[Mo 19.03.]
+  Cottbus 1-1 Fortuna Düsseldorf
+
+Spieltag 27
+[Fr 23.03.]
+  Bochum 0-1 Ingolstadt
+  Dresden 0-1 TSV 1860 München
+  Frankfurt FSV 2-1 Aachen
+[Sa 24.03.]
+  Fortuna Düsseldorf 1-1 Braunschweig
+  Greuther Fürth 3-0 Karlsruhe
+[So 25.03.]
+  Hansa Rostock 0-1 Erzgebirge Aue
+  Paderborn 1-2 Duisburg
+  St Pauli 0-0 Cottbus
+[Mo 26.03.]
+  Union Berlin 0-4 Ein Frankfurt
+
+Spieltag 28
+[Fr 30.03.]
+  Aachen 0-1 Dresden
+  Braunschweig 0-0 Paderborn
+  Ein Frankfurt 3-0 Bochum
+[Sa 31.03.]
+  Erzgebirge Aue 1-1 Greuther Fürth
+  TSV 1860 München 0-1 Hansa Rostock
+[So 01.04.]
+  Cottbus 1-1 Frankfurt FSV
+  Ingolstadt 1-1 Duisburg
+  Karlsruhe 2-0 Union Berlin
+[Mo 02.04.]
+  Fortuna Düsseldorf 0-0 St Pauli
+
+Spieltag 29
+[Do 05.04.]
+  Greuther Fürth 3-0 Cottbus
+  Hansa Rostock 2-1 Fortuna Düsseldorf
+  Union Berlin 1-0 Erzgebirge Aue
+[Sa 07.04.]
+  Dresden 2-2 Braunschweig
+  Duisburg 2-0 Ein Frankfurt
+  Frankfurt FSV 3-3 St Pauli
+[So 08.04.]
+  Bochum 0-0 Karlsruhe
+  Ingolstadt 3-3 Aachen
+  Paderborn 2-2 TSV 1860 München
+
+Spieltag 30
+[Di 10.04.]
+  Braunschweig 0-0 Greuther Fürth
+  Cottbus 0-1 Hansa Rostock
+  Fortuna Düsseldorf 1-0 Frankfurt FSV
+  St Pauli 2-1 Union Berlin
+[Mi 11.04.]
+  Aachen 2-0 Bochum
+  Ein Frankfurt 1-1 Ingolstadt
+  Erzgebirge Aue 0-2 Paderborn
+  Karlsruhe 2-0 Dresden
+  TSV 1860 München 2-1 Duisburg
+
+Spieltag 31
+[Fr 13.04.]
+  Greuther Fürth 2-1 St Pauli
+  Hansa Rostock 0-5 Frankfurt FSV
+  Union Berlin 1-0 Braunschweig
+[Sa 14.04.]
+  Duisburg 2-0 Aachen
+  Ein Frankfurt 4-0 Erzgebirge Aue
+[So 15.04.]
+  Bochum 2-2 TSV 1860 München
+  Ingolstadt 2-1 Karlsruhe
+  Paderborn 3-1 Cottbus
+[Mo 16.04.]
+  Dresden 2-1 Fortuna Düsseldorf
+
+Spieltag 32
+[Fr 20.04.]
+  Braunschweig 0-0 Duisburg
+  Cottbus 1-1 Bochum
+  Frankfurt FSV 1-1 Greuther Fürth
+[Sa 21.04.]
+  Erzgebirge Aue 1-1 Dresden
+  TSV 1860 München 4-1 Ingolstadt
+[So 22.04.]
+  Fortuna Düsseldorf 2-1 Union Berlin
+  Karlsruhe 2-0 Paderborn
+  St Pauli 3-0 Hansa Rostock
+[Mo 23.04.]
+  Aachen 0-3 Ein Frankfurt
+
+Spieltag 33
+[So 29.04.]
+  Aachen 1-0 Karlsruhe
+  Bochum 2-0 Braunschweig
+  Dresden 1-0 St Pauli
+  Duisburg 2-1 Erzgebirge Aue
+  Ein Frankfurt 0-2 TSV 1860 München
+  Greuther Fürth 1-1 Fortuna Düsseldorf
+  Ingolstadt 1-0 Cottbus
+  Paderborn 1-0 Frankfurt FSV
+  Union Berlin 5-4 Hansa Rostock
+
+Spieltag 34
+[So 06.05.]
+  Braunschweig 3-1 Ingolstadt
+  Cottbus 2-1 Union Berlin
+  Erzgebirge Aue 2-1 Bochum
+  Fortuna Düsseldorf 2-2 Duisburg
+  Frankfurt FSV 1-1 Dresden
+  Hansa Rostock 2-2 Greuther Fürth
+  Karlsruhe 1-0 Ein Frankfurt
+  TSV 1860 München 1-2 Aachen
+  St Pauli 5-0 Paderborn

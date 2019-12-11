@@ -1,0 +1,506 @@
+= Deutsche 2. Bundesliga 2009/10
+
+
+Spieltag 1
+[Fr 07.08.]
+  Karlsruhe 1-1 Aachen
+  Oberhausen 0-3 Union Berlin
+  St Pauli 2-1 Aalen
+[Sa 08.08.]
+  Fortuna Düsseldorf 3-0 Paderborn
+  Kaiserslautern 2-1 Greuther Fürth
+[So 09.08.]
+  Cottbus 3-1 Augsburg
+  Frankfurt FSV 1-2 Duisburg
+  TSV 1860 München 2-0 Koblenz
+[Mo 10.08.]
+  Bielefeld 3-1 Hansa Rostock
+
+Spieltag 2
+[Fr 14.08.]
+  Duisburg 2-2 Cottbus
+  Greuther Fürth 4-0 Frankfurt FSV
+  Paderborn 2-0 Karlsruhe
+[Sa 15.08.]
+  Hansa Rostock 2-1 TSV 1860 München
+  Union Berlin 1-0 Fortuna Düsseldorf
+[So 16.08.]
+  Aalen 0-1 Kaiserslautern
+  Augsburg 2-2 Oberhausen
+  Koblenz 3-2 Bielefeld
+[Mo 17.08.]
+  Aachen 0-5 St Pauli
+
+Spieltag 3
+[Fr 21.08.]
+  Fortuna Düsseldorf 1-0 Koblenz
+  Frankfurt FSV 0-0 Paderborn
+  Union Berlin 1-0 Hansa Rostock
+[Sa 22.08.]
+  Bielefeld 1-2 Augsburg
+  St Pauli 2-2 Duisburg
+[So 23.08.]
+  Cottbus 1-3 Greuther Fürth
+  Kaiserslautern 1-1 Aachen
+  Oberhausen 2-0 Aalen
+[Mo 24.08.]
+  TSV 1860 München 1-3 Karlsruhe
+
+Spieltag 4
+[Fr 28.08.]
+  Aalen 0-0 TSV 1860 München
+  Karlsruhe 0-4 St Pauli
+  Koblenz 0-2 Cottbus
+[Sa 29.08.]
+  Greuther Fürth 2-4 Bielefeld
+  Hansa Rostock 0-2 Oberhausen
+[So 30.08.]
+  Aachen 3-0 Frankfurt FSV
+  Augsburg 1-1 Union Berlin
+  Paderborn 0-0 Kaiserslautern
+[Mo 31.08.]
+  Duisburg 3-0 Fortuna Düsseldorf
+
+Spieltag 5
+[Fr 11.09.]
+  Bielefeld 2-0 Aalen
+  Fortuna Düsseldorf 1-1 Augsburg
+  Kaiserslautern 4-1 Duisburg
+[Sa 12.09.]
+  Hansa Rostock 2-1 Koblenz
+  TSV 1860 München 3-1 Greuther Fürth
+[So 13.09.]
+  Frankfurt FSV 2-3 St Pauli
+  Oberhausen 1-0 Aachen
+  Union Berlin 5-4 Paderborn
+[Mo 14.09.]
+  Cottbus 2-4 Karlsruhe
+
+Spieltag 6
+[Fr 18.09.]
+  Duisburg 0-3 Bielefeld
+  Karlsruhe 2-0 Frankfurt FSV
+  Koblenz 1-1 Union Berlin
+  Paderborn 5-1 Cottbus
+[Sa 19.09.]
+  Aalen 1-4 Fortuna Düsseldorf
+  Greuther Fürth 4-0 Oberhausen
+[So 20.09.]
+  Aachen 2-0 TSV 1860 München
+  Augsburg 5-2 Hansa Rostock
+  St Pauli 1-2 Kaiserslautern
+
+Spieltag 7
+[Fr 25.09.]
+  Cottbus 3-0 Frankfurt FSV
+  Oberhausen 1-0 Duisburg
+  Union Berlin 2-1 Aalen
+[Sa 26.09.]
+  Bielefeld 1-0 St Pauli
+  Kaiserslautern 2-0 Karlsruhe
+[So 27.09.]
+  Augsburg 1-1 Koblenz
+  Hansa Rostock 4-0 Greuther Fürth
+  TSV 1860 München 0-0 Paderborn
+[Mo 28.09.]
+  Fortuna Düsseldorf 0-0 Aachen
+
+Spieltag 8
+[Fr 02.10.]
+  Aachen 1-1 Cottbus
+  Duisburg 3-1 Union Berlin
+  Koblenz 0-1 Oberhausen
+[Sa 03.10.]
+  Greuther Fürth 2-1 Fortuna Düsseldorf
+  Paderborn 2-2 Augsburg
+[So 04.10.]
+  Aalen 0-2 Hansa Rostock
+  Frankfurt FSV 1-1 Kaiserslautern
+  St Pauli 3-1 TSV 1860 München
+[Mo 05.10.]
+  Karlsruhe 0-1 Bielefeld
+
+Spieltag 9
+[Fr 16.10.]
+  Bielefeld 1-0 Aachen
+  Cottbus 1-2 Kaiserslautern
+  Oberhausen 1-3 St Pauli
+[Sa 17.10.]
+  Hansa Rostock 1-2 Paderborn
+  TSV 1860 München 3-1 Duisburg
+[So 18.10.]
+  Augsburg 1-1 Karlsruhe
+  Fortuna Düsseldorf 4-1 Frankfurt FSV
+  Koblenz 1-1 Aalen
+[Mo 19.10.]
+  Union Berlin 1-2 Greuther Fürth
+
+Spieltag 10
+[Fr 23.10.]
+  Aalen 1-3 Augsburg
+  Greuther Fürth 1-2 Koblenz
+  Kaiserslautern 0-2 Fortuna Düsseldorf
+[Sa 24.10.]
+  Duisburg 3-1 Hansa Rostock
+  Frankfurt FSV 3-2 TSV 1860 München
+[So 25.10.]
+  Aachen 1-4 Union Berlin
+  Karlsruhe 1-1 Oberhausen
+  St Pauli 1-1 Cottbus
+[Mo 26.10.]
+  Paderborn 0-2 Bielefeld
+
+Spieltag 11
+[Fr 30.10.]
+  Fortuna Düsseldorf 1-0 Karlsruhe
+  Oberhausen 3-2 Paderborn
+  Union Berlin 1-0 Frankfurt FSV
+[Sa 31.10.]
+  Aalen 0-1 Greuther Fürth
+  Bielefeld 2-0 Cottbus
+[So 01.11.]
+  Augsburg 0-1 Aachen
+  Koblenz 0-3 Duisburg
+  TSV 1860 München 0-1 Kaiserslautern
+[Mo 02.11.]
+  Hansa Rostock 0-2 St Pauli
+
+Spieltag 12
+[Fr 06.11.]
+  Kaiserslautern 3-1 Oberhausen
+  Paderborn 2-1 Koblenz
+  St Pauli 2-1 Fortuna Düsseldorf
+[Sa 07.11.]
+  Frankfurt FSV 0-0 Bielefeld
+  Greuther Fürth 4-5 Augsburg
+[So 08.11.]
+  Cottbus 1-0 TSV 1860 München
+  Duisburg 2-2 Aalen
+  Karlsruhe 3-2 Union Berlin
+[Mo 09.11.]
+  Aachen 1-0 Hansa Rostock
+
+Spieltag 13
+[Fr 20.11.]
+  Aalen 0-0 Paderborn
+  Bielefeld 0-1 TSV 1860 München
+  Fortuna Düsseldorf 2-1 Cottbus
+[Sa 21.11.]
+  Hansa Rostock 2-1 Karlsruhe
+  Oberhausen 1-3 Frankfurt FSV
+[So 22.11.]
+  Augsburg 3-2 St Pauli
+  Greuther Fürth 0-1 Duisburg
+  Koblenz 1-0 Aachen
+[Mo 23.11.]
+  Union Berlin 0-2 Kaiserslautern
+
+Spieltag 14
+[Fr 27.11.]
+  Aachen 0-2 Aalen
+  Frankfurt FSV 0-1 Hansa Rostock
+  Karlsruhe 2-1 Koblenz
+[Sa 28.11.]
+  Duisburg 2-2 Augsburg
+  Paderborn 1-0 Greuther Fürth
+[So 29.11.]
+  Cottbus 3-0 Oberhausen
+  TSV 1860 München 2-2 Fortuna Düsseldorf
+  St Pauli 3-0 Union Berlin
+[Mo 30.11.]
+  Kaiserslautern 1-0 Bielefeld
+
+Spieltag 15
+[Fr 04.12.]
+  Augsburg 2-0 Frankfurt FSV
+  Fortuna Düsseldorf 3-2 Bielefeld
+  Union Berlin 1-1 Cottbus
+[Sa 05.12.]
+  Hansa Rostock 0-1 Kaiserslautern
+  Koblenz 1-5 St Pauli
+[So 06.12.]
+  Aalen 1-3 Karlsruhe
+  Oberhausen 0-1 TSV 1860 München
+  Paderborn 1-3 Duisburg
+[Mo 07.12.]
+  Greuther Fürth 0-2 Aachen
+
+Spieltag 16
+[Fr 11.12.]
+  Aachen 1-1 Paderborn
+  Kaiserslautern 3-0 Koblenz
+  Karlsruhe 0-1 Duisburg
+[Sa 12.12.]
+  Frankfurt FSV 0-0 Aalen
+  TSV 1860 München 1-0 Augsburg
+[So 13.12.]
+  Bielefeld 1-1 Union Berlin
+  Fortuna Düsseldorf 2-0 Oberhausen
+  St Pauli 2-2 Greuther Fürth
+[Mo 14.12.]
+  Cottbus 0-0 Hansa Rostock
+
+Spieltag 17
+[Fr 18.12.]
+  Aalen 0-4 Cottbus
+  Duisburg 0-2 Aachen
+  Koblenz 0-1 Frankfurt FSV
+[Sa 19.12.]
+  Greuther Fürth 1-4 Karlsruhe
+  Hansa Rostock 2-1 Fortuna Düsseldorf
+[So 20.12.]
+  Oberhausen 0-0 Bielefeld
+  Paderborn 2-1 St Pauli
+  Union Berlin 1-1 TSV 1860 München
+[Mo 21.12.]
+  Augsburg 4-1 Kaiserslautern
+
+Spieltag 18
+[Fr 15.01.]
+  Aachen 3-1 Karlsruhe
+  Paderborn 1-1 Fortuna Düsseldorf
+  Union Berlin 1-0 Oberhausen
+[Sa 16.01.]
+  Aalen 0-2 St Pauli
+  Greuther Fürth 3-0 Kaiserslautern
+[So 17.01.]
+  Augsburg 3-1 Cottbus
+  Duisburg 5-0 Frankfurt FSV
+  Koblenz 2-2 TSV 1860 München
+[Mo 18.01.]
+  Hansa Rostock 1-1 Bielefeld
+
+Spieltag 19
+[Fr 22.01.]
+  Fortuna Düsseldorf 1-0 Union Berlin
+  Frankfurt FSV 0-5 Greuther Fürth
+  TSV 1860 München 3-0 Hansa Rostock
+[Sa 23.01.]
+  Kaiserslautern 0-0 Aalen
+  St Pauli 1-0 Aachen
+[So 24.01.]
+  Bielefeld 4-2 Koblenz
+  Karlsruhe 1-2 Paderborn
+  Oberhausen 0-3 Augsburg
+[Mo 25.01.]
+  Cottbus 0-1 Duisburg
+
+Spieltag 20
+[Fr 29.01.]
+  Duisburg 0-2 St Pauli
+  Greuther Fürth 1-0 Cottbus
+  Koblenz 1-0 Fortuna Düsseldorf
+[Sa 30.01.]
+  Augsburg 3-1 Bielefeld
+[So 31.01.]
+  Aalen 1-0 Oberhausen
+  Paderborn 0-2 Frankfurt FSV
+[Mo 01.02.]
+  Aachen 0-3 Kaiserslautern
+[Fr 05.02.]
+  Bielefeld 2-1 Greuther Fürth
+  Oberhausen 2-1 Hansa Rostock
+
+Spieltag 21
+  St Pauli 2-1 Karlsruhe
+[Sa 06.02.]
+  Cottbus 1-1 Koblenz
+  Union Berlin 0-0 Augsburg
+[So 07.02.]
+  Fortuna Düsseldorf 2-0 Duisburg
+  Frankfurt FSV 1-1 Aachen
+  Kaiserslautern 3-0 Paderborn
+[Mo 08.02.]
+  TSV 1860 München 0-1 Aalen
+[Fr 12.02.]
+  Aalen 0-1 Bielefeld
+  Paderborn 3-0 Union Berlin
+
+Spieltag 22
+  St Pauli 0-0 Frankfurt FSV
+[Sa 13.02.]
+  Aachen 2-1 Oberhausen
+  Karlsruhe 0-2 Cottbus
+[So 14.02.]
+  Augsburg 2-0 Fortuna Düsseldorf
+  Greuther Fürth 1-2 TSV 1860 München
+  Koblenz 0-0 Hansa Rostock
+[Mo 15.02.]
+  Duisburg 1-1 Kaiserslautern
+[Mi 17.02.]
+  Karlsruhe 2-0 TSV 1860 München
+[Fr 19.02.]
+  Bielefeld 1-2 Duisburg
+
+Spieltag 23
+  Fortuna Düsseldorf 4-0 Aalen
+  Union Berlin 3-2 Koblenz
+[Sa 20.02.]
+  Hansa Rostock 0-1 Augsburg
+  TSV 1860 München 3-2 Aachen
+[So 21.02.]
+  Cottbus 1-2 Paderborn
+  Frankfurt FSV 2-1 Karlsruhe
+  Oberhausen 0-1 Greuther Fürth
+[Mo 22.02.]
+  Kaiserslautern 3-0 St Pauli
+[Mi 24.02.]
+  Hansa Rostock 0-0 Union Berlin
+
+Spieltag 24
+[Fr 26.02.]
+  Duisburg 2-2 Oberhausen
+  Frankfurt FSV 0-0 Cottbus
+  Paderborn 3-1 TSV 1860 München
+[Sa 27.02.]
+  Greuther Fürth 1-0 Hansa Rostock
+  Koblenz 0-1 Augsburg
+[So 28.02.]
+  Aalen 3-2 Union Berlin
+  Karlsruhe 1-3 Kaiserslautern
+  St Pauli 0-1 Bielefeld
+[Mo 01.03.]
+  Aachen 0-1 Fortuna Düsseldorf
+
+Spieltag 25
+[Fr 05.03.]
+  Fortuna Düsseldorf 0-0 Greuther Fürth
+  Hansa Rostock 0-1 Aalen
+  Oberhausen 2-0 Koblenz
+[Sa 06.03.]
+  Cottbus 3-1 Aachen
+  Kaiserslautern 1-1 Frankfurt FSV
+[So 07.03.]
+  Augsburg 3-0 Paderborn
+  TSV 1860 München 2-1 St Pauli
+  Union Berlin 0-1 Duisburg
+[Mo 08.03.]
+  Bielefeld 0-1 Karlsruhe
+
+Spieltag 26
+[Fr 12.03.]
+  Aachen 2-1 Bielefeld
+  Aalen 0-2 Koblenz
+  Greuther Fürth 0-0 Union Berlin
+[Sa 13.03.]
+  Frankfurt FSV 2-0 Fortuna Düsseldorf
+  Karlsruhe 1-0 Augsburg
+[So 14.03.]
+  Kaiserslautern 4-1 Cottbus
+  Paderborn 2-2 Hansa Rostock
+  St Pauli 5-3 Oberhausen
+[Mo 15.03.]
+  Duisburg 0-1 TSV 1860 München
+
+Spieltag 27
+[Fr 19.03.]
+  Cottbus 0-1 St Pauli
+  Hansa Rostock 3-1 Duisburg
+  Koblenz 2-0 Greuther Fürth
+[Sa 20.03.]
+  Augsburg 3-1 Aalen
+  Bielefeld 3-0 Paderborn
+[So 21.03.]
+  TSV 1860 München 2-1 Frankfurt FSV
+  Oberhausen 1-0 Karlsruhe
+  Union Berlin 0-0 Aachen
+[Mo 22.03.]
+  Fortuna Düsseldorf 0-0 Kaiserslautern
+
+Spieltag 28
+[Fr 26.03.]
+  Duisburg 4-1 Koblenz
+  Frankfurt FSV 2-1 Union Berlin
+  Paderborn 1-2 Oberhausen
+[Sa 27.03.]
+  Cottbus 4-1 Bielefeld
+  Karlsruhe 1-1 Fortuna Düsseldorf
+[So 28.03.]
+  Aachen 4-0 Augsburg
+  Greuther Fürth 3-1 Aalen
+  St Pauli 2-0 Hansa Rostock
+[Mo 29.03.]
+  Kaiserslautern 4-0 TSV 1860 München
+
+Spieltag 29
+[Sa 03.04.]
+  Aalen 0-1 Duisburg
+  Union Berlin 1-1 Karlsruhe
+[So 04.04.]
+  Augsburg 1-1 Greuther Fürth
+  Bielefeld 2-1 Frankfurt FSV
+  Hansa Rostock 2-0 Aachen
+  Koblenz 2-1 Paderborn
+  TSV 1860 München 1-2 Cottbus
+  Oberhausen 2-1 Kaiserslautern
+[Mo 05.04.]
+  Fortuna Düsseldorf 1-0 St Pauli
+
+Spieltag 30
+[Fr 09.04.]
+  Aachen 1-1 Koblenz
+  TSV 1860 München 3-1 Bielefeld
+  Paderborn 2-0 Aalen
+[Sa 10.04.]
+  Cottbus 4-2 Fortuna Düsseldorf
+  Kaiserslautern 1-1 Union Berlin
+[So 11.04.]
+  Duisburg 1-1 Greuther Fürth
+  Frankfurt FSV 1-0 Oberhausen
+  Karlsruhe 2-1 Hansa Rostock
+[Mo 12.04.]
+  St Pauli 3-0 Augsburg
+
+Spieltag 31
+[Fr 16.04.]
+  Augsburg 2-0 Duisburg
+  Greuther Fürth 1-1 Paderborn
+  Koblenz 2-2 Karlsruhe
+[Sa 17.04.]
+  Hansa Rostock 1-2 Frankfurt FSV
+  Union Berlin 2-1 St Pauli
+[So 18.04.]
+  Aalen 0-1 Aachen
+  Fortuna Düsseldorf 2-0 TSV 1860 München
+  Oberhausen 4-1 Cottbus
+[Mo 19.04.]
+  Bielefeld 1-2 Kaiserslautern
+
+Spieltag 32
+[Fr 23.04.]
+  Kaiserslautern 0-1 Hansa Rostock
+  Karlsruhe 1-0 Aalen
+  St Pauli 6-1 Koblenz
+[Sa 24.04.]
+  Aachen 2-2 Greuther Fürth
+  Duisburg 2-3 Paderborn
+[So 25.04.]
+  Bielefeld 1-1 Fortuna Düsseldorf
+  Frankfurt FSV 1-1 Augsburg
+  TSV 1860 München 2-2 Oberhausen
+[Mo 26.04.]
+  Cottbus 4-2 Union Berlin
+
+Spieltag 33
+[So 02.05.]
+  Aalen 0-0 Frankfurt FSV
+  Augsburg 1-0 TSV 1860 München
+  Duisburg 0-1 Karlsruhe
+  Greuther Fürth 1-4 St Pauli
+  Hansa Rostock 0-0 Cottbus
+  Koblenz 2-2 Kaiserslautern
+  Oberhausen 0-1 Fortuna Düsseldorf
+  Paderborn 2-1 Aachen
+  Union Berlin 3-0 Bielefeld
+
+Spieltag 34
+[So 09.05.]
+  Aachen 1-1 Duisburg
+  Bielefeld 2-1 Oberhausen
+  Cottbus 4-1 Aalen
+  Fortuna Düsseldorf 3-1 Hansa Rostock
+  Frankfurt FSV 1-1 Koblenz
+  Kaiserslautern 1-1 Augsburg
+  Karlsruhe 1-1 Greuther Fürth
+  TSV 1860 München 2-0 Union Berlin
+  St Pauli 1-2 Paderborn

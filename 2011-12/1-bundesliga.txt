@@ -1,0 +1,471 @@
+= Deutsche Bundesliga 2011/12
+
+
+Spieltag 1
+[Fr 05.08.]
+  Dortmund 3-1 Hamburg
+[Sa 06.08.]
+  Augsburg 2-2 Freiburg
+  FC Köln 0-3 Wolfsburg
+  Hannover 2-1 Hoffenheim
+  Hertha 0-1 Nürnberg
+  Stuttgart 3-0 Schalke 04
+  Werder Bremen 2-0 Kaiserslautern
+[So 07.08.]
+  Bayern Munich 0-1 Bor. Mönchengladbach
+  Mainz 2-0 Leverkusen
+
+Spieltag 2
+[Sa 13.08.]
+  Freiburg 1-2 Mainz
+  Hamburg 2-2 Hertha
+  Hoffenheim 1-0 Dortmund
+  Bor. Mönchengladbach 1-1 Stuttgart
+  Nürnberg 1-2 Hannover
+  Schalke 04 5-1 FC Köln
+  Wolfsburg 0-1 Bayern Munich
+[So 14.08.]
+  Kaiserslautern 1-1 Augsburg
+  Leverkusen 1-0 Werder Bremen
+
+Spieltag 3
+[Fr 19.08.]
+  Bor. Mönchengladbach 4-1 Wolfsburg
+[Sa 20.08.]
+  Augsburg 0-2 Hoffenheim
+  Bayern Munich 5-0 Hamburg
+  Dortmund 2-0 Nürnberg
+  FC Köln 1-1 Kaiserslautern
+  Stuttgart 0-1 Leverkusen
+  Werder Bremen 5-3 Freiburg
+[So 21.08.]
+  Hannover 1-1 Hertha
+  Mainz 2-4 Schalke 04
+
+Spieltag 4
+[Fr 26.08.]
+  Hertha 1-0 Stuttgart
+[Sa 27.08.]
+  Freiburg 3-0 Wolfsburg
+  Hamburg 3-4 FC Köln
+  Hoffenheim 1-2 Werder Bremen
+  Kaiserslautern 0-3 Bayern Munich
+  Leverkusen 0-0 Dortmund
+  Nürnberg 1-0 Augsburg
+[So 28.08.]
+  Hannover 1-1 Mainz
+  Schalke 04 1-0 Bor. Mönchengladbach
+
+Spieltag 5
+[Fr 09.09.]
+  Augsburg 1-4 Leverkusen
+[Sa 10.09.]
+  Bayern Munich 7-0 Freiburg
+  Dortmund 1-2 Hertha
+  Mainz 0-4 Hoffenheim
+  Bor. Mönchengladbach 1-0 Kaiserslautern
+  Stuttgart 3-0 Hannover
+  Werder Bremen 2-0 Hamburg
+[So 11.09.]
+  FC Köln 1-2 Nürnberg
+  Wolfsburg 2-1 Schalke 04
+
+Spieltag 6
+[Fr 16.09.]
+  Freiburg 1-2 Stuttgart
+[Sa 17.09.]
+  Hamburg 0-1 Bor. Mönchengladbach
+  Hertha 2-2 Augsburg
+  Hoffenheim 3-1 Wolfsburg
+  Kaiserslautern 3-1 Mainz
+  Leverkusen 1-4 FC Köln
+  Nürnberg 1-1 Werder Bremen
+[So 18.09.]
+  Hannover 2-1 Dortmund
+  Schalke 04 0-2 Bayern Munich
+
+Spieltag 7
+[Fr 23.09.]
+  Stuttgart 1-2 Hamburg
+[Sa 24.09.]
+  Augsburg 0-0 Hannover
+  Bayern Munich 3-0 Leverkusen
+  Mainz 1-2 Dortmund
+  Bor. Mönchengladbach 1-0 Nürnberg
+  Schalke 04 4-2 Freiburg
+  Wolfsburg 1-0 Kaiserslautern
+[So 25.09.]
+  FC Köln 2-0 Hoffenheim
+  Werder Bremen 2-1 Hertha
+
+Spieltag 8
+[Fr 30.09.]
+  Kaiserslautern 0-2 Stuttgart
+[Sa 01.10.]
+  Dortmund 4-0 Augsburg
+  Freiburg 1-0 Bor. Mönchengladbach
+  Hertha 3-0 FC Köln
+  Hoffenheim 0-0 Bayern Munich
+  Leverkusen 3-1 Wolfsburg
+  Nürnberg 3-3 Mainz
+[So 02.10.]
+  Hamburg 1-2 Schalke 04
+  Hannover 3-2 Werder Bremen
+
+Spieltag 9
+[Fr 14.10.]
+  Werder Bremen 0-2 Dortmund
+[Sa 15.10.]
+  Bayern Munich 4-0 Hertha
+  Mainz 0-1 Augsburg
+  Bor. Mönchengladbach 2-2 Leverkusen
+  Schalke 04 1-2 Kaiserslautern
+  Stuttgart 2-0 Hoffenheim
+  Wolfsburg 2-1 Nürnberg
+[So 16.10.]
+  FC Köln 2-0 Hannover
+  Freiburg 1-2 Hamburg
+
+Spieltag 10
+[Fr 21.10.]
+  Augsburg 1-1 Werder Bremen
+[Sa 22.10.]
+  Dortmund 5-0 FC Köln
+  Hamburg 1-1 Wolfsburg
+  Hertha 0-0 Mainz
+  Hoffenheim 1-0 Bor. Mönchengladbach
+  Kaiserslautern 1-0 Freiburg
+  Nürnberg 2-2 Stuttgart
+[So 23.10.]
+  Hannover 2-1 Bayern Munich
+  Leverkusen 0-1 Schalke 04
+
+Spieltag 11
+[Fr 28.10.]
+  Freiburg 0-1 Leverkusen
+[Sa 29.10.]
+  Bayern Munich 4-0 Nürnberg
+  Mainz 1-3 Werder Bremen
+  Bor. Mönchengladbach 2-1 Hannover
+  Schalke 04 3-1 Hoffenheim
+  Stuttgart 1-1 Dortmund
+  Wolfsburg 2-3 Hertha
+[So 30.10.]
+  FC Köln 3-0 Augsburg
+  Hamburg 1-1 Kaiserslautern
+
+Spieltag 12
+[Fr 04.11.]
+  Mainz 3-1 Stuttgart
+[Sa 05.11.]
+  Dortmund 5-1 Wolfsburg
+  Hertha 1-2 Bor. Mönchengladbach
+  Hoffenheim 1-1 Kaiserslautern
+  Leverkusen 2-2 Hamburg
+  Nürnberg 1-2 Freiburg
+  Werder Bremen 3-2 FC Köln
+[So 06.11.]
+  Augsburg 1-2 Bayern Munich
+  Hannover 2-2 Schalke 04
+
+Spieltag 13
+[Fr 18.11.]
+  Kaiserslautern 0-2 Leverkusen
+[Sa 19.11.]
+  Bayern Munich 0-1 Dortmund
+  Freiburg 2-2 Hertha
+  Bor. Mönchengladbach 5-0 Werder Bremen
+  Schalke 04 4-0 Nürnberg
+  Wolfsburg 4-1 Hannover
+[So 20.11.]
+  Hamburg 2-0 Hoffenheim
+  Stuttgart 2-1 Augsburg
+[Fr 25.11.]
+  FC Köln 0-3 Bor. Mönchengladbach
+
+Spieltag 14
+[Sa 26.11.]
+  Augsburg 2-0 Wolfsburg
+  Dortmund 2-0 Schalke 04
+  Hannover 1-1 Hamburg
+  Hertha 3-3 Leverkusen
+  Hoffenheim 1-1 Freiburg
+  Nürnberg 1-0 Kaiserslautern
+[So 27.11.]
+  Mainz 3-2 Bayern Munich
+  Werder Bremen 2-0 Stuttgart
+[Fr 02.12.]
+  Leverkusen 2-0 Hoffenheim
+
+Spieltag 15
+[Sa 03.12.]
+  Bayern Munich 4-1 Werder Bremen
+  Freiburg 1-1 Hannover
+  Kaiserslautern 1-1 Hertha
+  Bor. Mönchengladbach 1-1 Dortmund
+  Stuttgart 2-2 FC Köln
+  Wolfsburg 2-2 Mainz
+[So 04.12.]
+  Hamburg 2-0 Nürnberg
+  Schalke 04 3-1 Augsburg
+[Fr 09.12.]
+  Hertha 1-2 Schalke 04
+
+Spieltag 16
+[Sa 10.12.]
+  Augsburg 1-0 Bor. Mönchengladbach
+  FC Köln 4-0 Freiburg
+  Hannover 0-0 Leverkusen
+  Mainz 0-0 Hamburg
+  Nürnberg 0-2 Hoffenheim
+  Werder Bremen 4-1 Wolfsburg
+[So 11.12.]
+  Dortmund 1-1 Kaiserslautern
+  Stuttgart 1-2 Bayern Munich
+[Di 13.12.]
+  FC Köln 1-1 Mainz
+
+Spieltag 17
+[Fr 16.12.]
+  Bayern Munich 3-0 FC Köln
+[Sa 17.12.]
+  Freiburg 1-4 Dortmund
+  Hamburg 1-1 Augsburg
+  Hoffenheim 1-1 Hertha
+  Leverkusen 0-3 Nürnberg
+  Schalke 04 5-0 Werder Bremen
+  Wolfsburg 1-0 Stuttgart
+[So 18.12.]
+  Kaiserslautern 1-1 Hannover
+  Bor. Mönchengladbach 1-0 Mainz
+
+Spieltag 18
+[Fr 20.01.]
+  Bor. Mönchengladbach 3-1 Bayern Munich
+[Sa 21.01.]
+  Freiburg 1-0 Augsburg
+  Hoffenheim 0-0 Hannover
+  Kaiserslautern 0-0 Werder Bremen
+  Nürnberg 2-0 Hertha
+  Schalke 04 3-1 Stuttgart
+  Wolfsburg 1-0 FC Köln
+[So 22.01.]
+  Hamburg 1-5 Dortmund
+  Leverkusen 3-2 Mainz
+
+Spieltag 19
+[Fr 27.01.]
+  Hannover 1-0 Nürnberg
+[Sa 28.01.]
+  Augsburg 2-2 Kaiserslautern
+  Bayern Munich 2-0 Wolfsburg
+  Dortmund 3-1 Hoffenheim
+  FC Köln 1-4 Schalke 04
+  Hertha 1-2 Hamburg
+  Werder Bremen 1-1 Leverkusen
+[So 29.01.]
+  Mainz 3-1 Freiburg
+  Stuttgart 0-3 Bor. Mönchengladbach
+
+Spieltag 20
+[Fr 03.02.]
+  Nürnberg 0-2 Dortmund
+[Sa 04.02.]
+  Hamburg 1-1 Bayern Munich
+  Hertha 0-1 Hannover
+  Hoffenheim 2-2 Augsburg
+  Leverkusen 2-2 Stuttgart
+  Schalke 04 1-1 Mainz
+  Wolfsburg 0-0 Bor. Mönchengladbach
+[So 05.02.]
+  Freiburg 2-2 Werder Bremen
+  Kaiserslautern 0-1 FC Köln
+
+Spieltag 21
+[Fr 10.02.]
+  Wolfsburg 3-2 Freiburg
+[Sa 11.02.]
+  Bayern Munich 2-0 Kaiserslautern
+  Dortmund 1-0 Leverkusen
+  Mainz 1-1 Hannover
+  Bor. Mönchengladbach 3-0 Schalke 04
+  Stuttgart 5-0 Hertha
+  Werder Bremen 1-1 Hoffenheim
+[So 12.02.]
+  Augsburg 0-0 Nürnberg
+  FC Köln 0-1 Hamburg
+
+Spieltag 22
+[Fr 17.02.]
+  Hoffenheim 1-1 Mainz
+[Sa 18.02.]
+  Freiburg 0-0 Bayern Munich
+  Hamburg 1-3 Werder Bremen
+  Hertha 0-1 Dortmund
+  Kaiserslautern 1-2 Bor. Mönchengladbach
+  Leverkusen 4-1 Augsburg
+  Nürnberg 2-1 FC Köln
+[So 19.02.]
+  Hannover 4-2 Stuttgart
+  Schalke 04 4-0 Wolfsburg
+
+Spieltag 23
+[Fr 24.02.]
+  Bor. Mönchengladbach 1-1 Hamburg
+[Sa 25.02.]
+  Augsburg 3-0 Hertha
+  FC Köln 0-2 Leverkusen
+  Mainz 4-0 Kaiserslautern
+  Stuttgart 4-1 Freiburg
+  Werder Bremen 0-1 Nürnberg
+  Wolfsburg 1-2 Hoffenheim
+[So 26.02.]
+  Bayern Munich 2-0 Schalke 04
+  Dortmund 3-1 Hannover
+
+Spieltag 24
+[Sa 03.03.]
+  Dortmund 2-1 Mainz
+  Freiburg 2-1 Schalke 04
+  Hamburg 0-4 Stuttgart
+  Hannover 2-2 Augsburg
+  Hertha 1-0 Werder Bremen
+  Kaiserslautern 0-0 Wolfsburg
+  Leverkusen 2-0 Bayern Munich
+[So 04.03.]
+  Hoffenheim 1-1 FC Köln
+  Nürnberg 1-0 Bor. Mönchengladbach
+
+Spieltag 25
+[Fr 09.03.]
+  Stuttgart 0-0 Kaiserslautern
+[Sa 10.03.]
+  Augsburg 0-0 Dortmund
+  Bayern Munich 7-1 Hoffenheim
+  FC Köln 1-0 Hertha
+  Mainz 2-1 Nürnberg
+  Bor. Mönchengladbach 0-0 Freiburg
+  Wolfsburg 3-2 Leverkusen
+[So 11.03.]
+  Schalke 04 3-1 Hamburg
+  Werder Bremen 3-0 Hannover
+
+Spieltag 26
+[Fr 16.03.]
+  Hoffenheim 1-2 Stuttgart
+[Sa 17.03.]
+  Augsburg 2-1 Mainz
+  Dortmund 1-0 Werder Bremen
+  Hamburg 1-3 Freiburg
+  Hertha 0-6 Bayern Munich
+  Leverkusen 1-2 Bor. Mönchengladbach
+  Nürnberg 1-3 Wolfsburg
+[So 18.03.]
+  Hannover 4-1 FC Köln
+  Kaiserslautern 1-4 Schalke 04
+
+Spieltag 27
+[Fr 23.03.]
+  Wolfsburg 2-1 Hamburg
+[Sa 24.03.]
+  Bayern Munich 2-1 Hannover
+  Freiburg 2-0 Kaiserslautern
+  Mainz 1-3 Hertha
+  Bor. Mönchengladbach 1-2 Hoffenheim
+  Schalke 04 2-0 Leverkusen
+  Werder Bremen 1-1 Augsburg
+[So 25.03.]
+  FC Köln 1-6 Dortmund
+  Stuttgart 1-0 Nürnberg
+
+Spieltag 28
+[Fr 30.03.]
+  Dortmund 4-4 Stuttgart
+[Sa 31.03.]
+  Augsburg 2-1 FC Köln
+  Hertha 1-4 Wolfsburg
+  Kaiserslautern 0-1 Hamburg
+  Leverkusen 0-2 Freiburg
+  Nürnberg 0-1 Bayern Munich
+  Werder Bremen 0-3 Mainz
+[So 01.04.]
+  Hannover 2-1 Bor. Mönchengladbach
+  Hoffenheim 1-1 Schalke 04
+
+Spieltag 29
+[Sa 07.04.]
+  Bayern Munich 2-1 Augsburg
+  FC Köln 1-1 Werder Bremen
+  Freiburg 2-2 Nürnberg
+  Kaiserslautern 1-2 Hoffenheim
+  Bor. Mönchengladbach 0-0 Hertha
+  Stuttgart 4-1 Mainz
+  Wolfsburg 1-3 Dortmund
+[So 08.04.]
+  Hamburg 1-1 Leverkusen
+  Schalke 04 3-0 Hannover
+
+Spieltag 30
+[Di 10.04.]
+  Augsburg 1-3 Stuttgart
+  Hertha 1-2 Freiburg
+  Mainz 4-0 FC Köln
+  Werder Bremen 2-2 Bor. Mönchengladbach
+[Mi 11.04.]
+  Dortmund 1-0 Bayern Munich
+  Hannover 2-0 Wolfsburg
+  Hoffenheim 4-0 Hamburg
+  Leverkusen 3-1 Kaiserslautern
+  Nürnberg 4-1 Schalke 04
+
+Spieltag 31
+[Fr 13.04.]
+  Stuttgart 4-1 Werder Bremen
+[Sa 14.04.]
+  Bayern Munich 0-0 Mainz
+  Hamburg 1-0 Hannover
+  Kaiserslautern 0-2 Nürnberg
+  Leverkusen 3-3 Hertha
+  Schalke 04 1-2 Dortmund
+  Wolfsburg 1-2 Augsburg
+[So 15.04.]
+  Freiburg 0-0 Hoffenheim
+  Bor. Mönchengladbach 3-0 FC Köln
+
+Spieltag 32
+[Fr 20.04.]
+  Mainz 0-0 Wolfsburg
+[Sa 21.04.]
+  Dortmund 2-0 Bor. Mönchengladbach
+  FC Köln 1-1 Stuttgart
+  Hertha 1-2 Kaiserslautern
+  Hoffenheim 0-1 Leverkusen
+  Nürnberg 1-1 Hamburg
+  Werder Bremen 1-2 Bayern Munich
+[So 22.04.]
+  Augsburg 1-1 Schalke 04
+  Hannover 0-0 Freiburg
+
+Spieltag 33
+[Sa 28.04.]
+  Bayern Munich 2-0 Stuttgart
+  Freiburg 4-1 FC Köln
+  Hamburg 0-0 Mainz
+  Hoffenheim 2-3 Nürnberg
+  Kaiserslautern 2-5 Dortmund
+  Leverkusen 1-0 Hannover
+  Bor. Mönchengladbach 0-0 Augsburg
+  Schalke 04 4-0 Hertha
+  Wolfsburg 3-1 Werder Bremen
+
+Spieltag 34
+[Sa 05.05.]
+  Augsburg 1-0 Hamburg
+  Dortmund 4-0 Freiburg
+  FC Köln 1-4 Bayern Munich
+  Hannover 2-1 Kaiserslautern
+  Hertha 3-1 Hoffenheim
+  Mainz 0-3 Bor. Mönchengladbach
+  Nürnberg 1-4 Leverkusen
+  Stuttgart 3-2 Wolfsburg
+  Werder Bremen 2-3 Schalke 04

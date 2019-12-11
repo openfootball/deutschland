@@ -1,2 +1,501 @@
 = Deutsche 2. Bundesliga 2012/13
 
+
+Spieltag 1
+[Fr 03.08.]
+  Erzgebirge Aue 0-0 St Pauli
+  Hertha 2-2 Paderborn
+  Ingolstadt 2-2 Cottbus
+[Sa 04.08.]
+  Bochum 2-1 Dresden
+  TSV 1860 München 1-0 Regensburg
+[So 05.08.]
+  Braunschweig 1-0 FC Köln
+  Duisburg 1-4 Aalen
+  Sandhausen 1-1 Frankfurt FSV
+[Mo 06.08.]
+  Kaiserslautern 3-3 Union Berlin
+
+Spieltag 2
+[Fr 10.08.]
+  Aalen 1-2 Kaiserslautern
+  Cottbus 3-0 Erzgebirge Aue
+  FC Köln 1-1 Sandhausen
+[Sa 11.08.]
+  Paderborn 4-0 Bochum
+  St Pauli 1-1 Ingolstadt
+[So 12.08.]
+  Frankfurt FSV 3-1 Hertha
+  Regensburg 2-0 Duisburg
+  Union Berlin 0-1 Braunschweig
+[Mo 13.08.]
+  Dresden 2-2 TSV 1860 München
+
+Spieltag 3
+[Fr 24.08.]
+  Braunschweig 2-1 Paderborn
+  Hertha 2-1 Regensburg
+  Sandhausen 2-0 Union Berlin
+[Sa 25.08.]
+  Cottbus 2-0 St Pauli
+  Duisburg 1-3 Dresden
+[So 26.08.]
+  Bochum 0-1 Aalen
+  Ingolstadt 0-2 Frankfurt FSV
+  Kaiserslautern 0-0 TSV 1860 München
+[Mo 27.08.]
+  Erzgebirge Aue 2-0 FC Köln
+
+Spieltag 4
+[Fr 31.08.]
+  Dresden 1-3 Kaiserslautern
+  FC Köln 0-1 Cottbus
+  TSV 1860 München 3-0 Duisburg
+[Sa 01.09.]
+  Aalen 0-3 Braunschweig
+  St Pauli 2-1 Sandhausen
+[So 02.09.]
+  Frankfurt FSV 1-0 Erzgebirge Aue
+  Paderborn 1-3 Ingolstadt
+  Regensburg 0-1 Bochum
+[Mo 03.09.]
+  Union Berlin 1-2 Hertha
+
+Spieltag 5
+[Fr 14.09.]
+  Bochum 0-0 TSV 1860 München
+  Cottbus 2-2 Frankfurt FSV
+  Ingolstadt 2-1 Union Berlin
+[Sa 15.09.]
+  Braunschweig 1-0 Regensburg
+  Sandhausen 1-1 Dresden
+[So 16.09.]
+  Erzgebirge Aue 0-1 Paderborn
+  Hertha 2-0 Aalen
+  Kaiserslautern 2-1 Duisburg
+[Mo 17.09.]
+  FC Köln 0-0 St Pauli
+
+Spieltag 6
+[Fr 21.09.]
+  Aalen 2-0 Erzgebirge Aue
+  Frankfurt FSV 2-1 St Pauli
+  Union Berlin 2-1 FC Köln
+[Sa 22.09.]
+  Kaiserslautern 1-1 Hertha
+  Paderborn 3-0 Sandhausen
+  Regensburg 0-1 Cottbus
+[So 23.09.]
+  Dresden 0-1 Ingolstadt
+  Duisburg 0-0 Bochum
+  TSV 1860 München 1-1 Braunschweig
+
+Spieltag 7
+[Di 25.09.]
+  Cottbus 2-1 Paderborn
+  FC Köln 2-1 Frankfurt FSV
+  Sandhausen 1-2 Regensburg
+  St Pauli 0-1 Aalen
+[Mi 26.09.]
+  Braunschweig 3-0 Duisburg
+  Erzgebirge Aue 1-1 Union Berlin
+  Hertha 1-0 Dresden
+  Ingolstadt 0-2 TSV 1860 München
+[Do 27.09.]
+  Bochum 1-2 Kaiserslautern
+
+Spieltag 8
+[Fr 28.09.]
+  Aalen 3-0 Frankfurt FSV
+  Paderborn 1-2 FC Köln
+  Regensburg 3-0 St Pauli
+[Sa 29.09.]
+  TSV 1860 München 4-0 Sandhausen
+  Union Berlin 3-1 Cottbus
+[So 30.09.]
+  Bochum 1-1 Ingolstadt
+  Dresden 3-1 Erzgebirge Aue
+  Kaiserslautern 1-1 Braunschweig
+[Mo 01.10.]
+  Duisburg 2-2 Hertha
+
+Spieltag 9
+[Fr 05.10.]
+  Frankfurt FSV 1-1 Paderborn
+  Hertha 3-0 TSV 1860 München
+  St Pauli 2-2 Union Berlin
+[Sa 06.10.]
+  Braunschweig 3-0 Bochum
+  Cottbus 0-1 Duisburg
+[So 07.10.]
+  Erzgebirge Aue 3-1 Regensburg
+  Ingolstadt 1-1 Kaiserslautern
+  Sandhausen 1-0 Aalen
+[Mo 08.10.]
+  FC Köln 1-1 Dresden
+
+Spieltag 10
+[Fr 19.10.]
+  Bochum 0-2 Hertha
+  Duisburg 0-2 Ingolstadt
+  Kaiserslautern 3-1 Sandhausen
+[Sa 20.10.]
+  Dresden 0-2 Braunschweig
+  Regensburg 2-3 FC Köln
+[So 21.10.]
+  Aalen 1-1 Cottbus
+  Paderborn 1-1 St Pauli
+  Union Berlin 1-0 Frankfurt FSV
+[Mo 22.10.]
+  TSV 1860 München 1-1 Erzgebirge Aue
+
+Spieltag 11
+[Fr 26.10.]
+  Cottbus 1-0 TSV 1860 München
+  FC Köln 3-3 Kaiserslautern
+  Ingolstadt 2-0 Aalen
+[Sa 27.10.]
+  Braunschweig 1-1 Hertha
+  Erzgebirge Aue 6-1 Bochum
+  Sandhausen 0-2 Duisburg
+[So 28.10.]
+  Frankfurt FSV 3-1 Regensburg
+  St Pauli 3-2 Dresden
+  Union Berlin 0-1 Paderborn
+
+Spieltag 12
+[Fr 02.11.]
+  Braunschweig 2-1 Sandhausen
+  Hertha 0-0 Ingolstadt
+  Regensburg 0-2 Paderborn
+[Sa 03.11.]
+  Duisburg 1-2 Frankfurt FSV
+  TSV 1860 München 0-2 St Pauli
+[So 04.11.]
+  Aalen 2-0 FC Köln
+  Bochum 2-2 Cottbus
+  Dresden 0-2 Union Berlin
+[Mo 05.11.]
+  Kaiserslautern 4-1 Erzgebirge Aue
+
+Spieltag 13
+[Fr 09.11.]
+  Erzgebirge Aue 1-1 Braunschweig
+  FC Köln 0-0 Duisburg
+  Sandhausen 1-6 Hertha
+[Sa 10.11.]
+  Paderborn 1-1 Kaiserslautern
+  Union Berlin 0-0 Aalen
+[So 11.11.]
+  Cottbus 2-0 Dresden
+  Frankfurt FSV 0-1 TSV 1860 München
+  Ingolstadt 4-2 Regensburg
+[Mo 12.11.]
+  St Pauli 1-1 Bochum
+
+Spieltag 14
+[Fr 16.11.]
+  Dresden 2-1 Frankfurt FSV
+  Kaiserslautern 1-0 Cottbus
+  TSV 1860 München 0-2 FC Köln
+[Sa 17.11.]
+  Aalen 0-1 Paderborn
+  Braunschweig 3-0 Ingolstadt
+[So 18.11.]
+  Bochum 5-2 Sandhausen
+  Duisburg 2-1 Erzgebirge Aue
+  Regensburg 3-3 Union Berlin
+[Mo 19.11.]
+  Hertha 1-0 St Pauli
+
+Spieltag 15
+[Fr 23.11.]
+  FC Köln 3-1 Bochum
+  Paderborn 2-2 Dresden
+  Regensburg 1-3 Aalen
+[Sa 24.11.]
+  Cottbus 3-1 Braunschweig
+  Frankfurt FSV 0-1 Kaiserslautern
+  Union Berlin 2-2 TSV 1860 München
+[So 25.11.]
+  Erzgebirge Aue 0-4 Hertha
+  Ingolstadt 1-1 Sandhausen
+  St Pauli 4-1 Duisburg
+
+Spieltag 16
+[Di 27.11.]
+  Bochum 1-3 Frankfurt FSV
+  Dresden 0-0 Aalen
+  Kaiserslautern 1-1 Regensburg
+  TSV 1860 München 1-0 Paderborn
+[Mi 28.11.]
+  Braunschweig 1-0 St Pauli
+  Duisburg 1-2 Union Berlin
+  Ingolstadt 1-2 Erzgebirge Aue
+  Sandhausen 3-1 Cottbus
+[Do 29.11.]
+  Hertha 1-1 FC Köln
+
+Spieltag 17
+[Fr 30.11.]
+  Aalen 1-1 TSV 1860 München
+  Regensburg 0-0 Dresden
+[Sa 01.12.]
+  Erzgebirge Aue 2-2 Sandhausen
+  St Pauli 1-0 Kaiserslautern
+  Union Berlin 2-1 Bochum
+[So 02.12.]
+  FC Köln 1-0 Ingolstadt
+  Frankfurt FSV 1-2 Braunschweig
+  Paderborn 0-2 Duisburg
+[Mo 03.12.]
+  Cottbus 1-2 Hertha
+
+Spieltag 18
+[Fr 07.12.]
+  Aalen 0-1 Duisburg
+  Frankfurt FSV 3-1 Sandhausen
+  Union Berlin 2-0 Kaiserslautern
+[Sa 08.12.]
+  Dresden 0-3 Bochum
+  Paderborn 0-1 Hertha
+[So 09.12.]
+  Cottbus 1-1 Ingolstadt
+  Regensburg 1-1 TSV 1860 München
+  St Pauli 0-3 Erzgebirge Aue
+[Mo 10.12.]
+  FC Köln 2-2 Braunschweig
+
+Spieltag 19
+[Fr 14.12.]
+  Erzgebirge Aue 3-0 Cottbus
+  Kaiserslautern 0-1 Aalen
+  Sandhausen 0-0 FC Köln
+[Sa 15.12.]
+  Hertha 2-1 Frankfurt FSV
+  Ingolstadt 0-0 St Pauli
+[So 16.12.]
+  Bochum 4-0 Paderborn
+  Duisburg 4-2 Regensburg
+  TSV 1860 München 1-1 Dresden
+[Mo 17.12.]
+  Braunschweig 4-3 Union Berlin
+
+Spieltag 20
+[Fr 01.02.]
+  Aalen 2-2 Bochum
+  Dresden 0-0 Duisburg
+  Union Berlin 3-1 Sandhausen
+[Sa 02.02.]
+  FC Köln 2-1 Erzgebirge Aue
+  Paderborn 1-2 Braunschweig
+[So 03.02.]
+  Frankfurt FSV 0-2 Ingolstadt
+  Regensburg 1-5 Hertha
+  St Pauli 0-0 Cottbus
+[Mo 04.02.]
+  TSV 1860 München 0-1 Kaiserslautern
+
+Spieltag 21
+[Fr 08.02.]
+  Braunschweig 1-1 Aalen
+  Erzgebirge Aue 0-2 Frankfurt FSV
+  Kaiserslautern 3-0 Dresden
+[Sa 09.02.]
+  Cottbus 0-0 FC Köln
+  Duisburg 1-3 TSV 1860 München
+[So 10.02.]
+  Bochum 0-2 Regensburg
+  Ingolstadt 1-3 Paderborn
+  Sandhausen 4-1 St Pauli
+[Mo 11.02.]
+  Hertha 2-2 Union Berlin
+
+Spieltag 22
+[Fr 15.02.]
+  TSV 1860 München 0-1 Bochum
+  Paderborn 2-0 Erzgebirge Aue
+  Regensburg 0-1 Braunschweig
+[Sa 16.02.]
+  Aalen 0-1 Hertha
+  Union Berlin 1-1 Ingolstadt
+[So 17.02.]
+  Dresden 3-1 Sandhausen
+  Duisburg 0-0 Kaiserslautern
+  Frankfurt FSV 1-0 Cottbus
+[Mo 18.02.]
+  St Pauli 0-1 FC Köln
+
+Spieltag 23
+[Fr 22.02.]
+  Bochum 2-2 Duisburg
+  Erzgebirge Aue 1-1 Aalen
+  St Pauli 3-0 Frankfurt FSV
+[Sa 23.02.]
+  FC Köln 2-0 Union Berlin
+  Ingolstadt 1-1 Dresden
+[So 24.02.]
+  Braunschweig 1-2 TSV 1860 München
+  Cottbus 1-1 Regensburg
+  Sandhausen 1-3 Paderborn
+[Mo 25.02.]
+  Hertha 1-0 Kaiserslautern
+
+Spieltag 24
+[Fr 01.03.]
+  Paderborn 0-1 Cottbus
+  Regensburg 1-3 Sandhausen
+  Union Berlin 3-0 Erzgebirge Aue
+[Sa 02.03.]
+  Dresden 1-0 Hertha
+  Kaiserslautern 0-0 Bochum
+[So 03.03.]
+  Aalen 0-1 St Pauli
+  Frankfurt FSV 1-1 FC Köln
+  TSV 1860 München 1-1 Ingolstadt
+[Mo 04.03.]
+  Duisburg 1-0 Braunschweig
+
+Spieltag 25
+[Fr 08.03.]
+  Frankfurt FSV 6-1 Aalen
+  Sandhausen 0-1 TSV 1860 München
+  St Pauli 3-2 Regensburg
+[Sa 09.03.]
+  Cottbus 2-1 Union Berlin
+  FC Köln 3-0 Paderborn
+[So 10.03.]
+  Erzgebirge Aue 1-0 Dresden
+  Hertha 4-2 Duisburg
+  Ingolstadt 2-1 Bochum
+[Mo 11.03.]
+  Braunschweig 1-1 Kaiserslautern
+
+Spieltag 26
+[Fr 15.03.]
+  Duisburg 2-1 Cottbus
+  Paderborn 3-0 Frankfurt FSV
+  Union Berlin 4-2 St Pauli
+[Sa 16.03.]
+  Bochum 0-1 Braunschweig
+  TSV 1860 München 0-0 Hertha
+[So 17.03.]
+  Aalen 2-2 Sandhausen
+  Kaiserslautern 3-0 Ingolstadt
+  Regensburg 1-1 Erzgebirge Aue
+[Mo 18.03.]
+  Dresden 0-2 FC Köln
+
+Spieltag 27
+[Do 28.03.]
+  Braunschweig 2-1 Dresden
+  Cottbus 1-1 Aalen
+  Erzgebirge Aue 0-1 TSV 1860 München
+[Sa 30.03.]
+  Hertha 2-0 Bochum
+  Ingolstadt 0-1 Duisburg
+[So 31.03.]
+  FC Köln 2-1 Regensburg
+  Frankfurt FSV 3-0 Union Berlin
+  Sandhausen 1-1 Kaiserslautern
+[Mo 01.04.]
+  St Pauli 2-2 Paderborn
+
+Spieltag 28
+[Fr 05.04.]
+  Aalen 2-1 Ingolstadt
+  Bochum 0-3 Erzgebirge Aue
+  Kaiserslautern 3-0 FC Köln
+[Sa 06.04.]
+  Dresden 3-2 St Pauli
+  Regensburg 1-4 Frankfurt FSV
+[So 07.04.]
+  Duisburg 2-1 Sandhausen
+  TSV 1860 München 1-1 Cottbus
+  Paderborn 1-1 Union Berlin
+[Mo 08.04.]
+  Hertha 3-0 Braunschweig
+
+Spieltag 29
+[Fr 12.04.]
+  Ingolstadt 1-1 Hertha
+  Sandhausen 1-3 Braunschweig
+  Union Berlin 0-0 Dresden
+[Sa 13.04.]
+  Frankfurt FSV 1-1 Duisburg
+  St Pauli 3-1 TSV 1860 München
+[So 14.04.]
+  Cottbus 0-2 Bochum
+  FC Köln 1-0 Aalen
+  Paderborn 0-0 Regensburg
+[Mo 15.04.]
+  Erzgebirge Aue 1-1 Kaiserslautern
+
+Spieltag 30
+[Fr 19.04.]
+  Aalen 3-0 Union Berlin
+  Bochum 3-0 St Pauli
+  Regensburg 1-2 Ingolstadt
+[Sa 20.04.]
+  Kaiserslautern 3-0 Paderborn
+  TSV 1860 München 1-2 Frankfurt FSV
+[So 21.04.]
+  Braunschweig 1-1 Erzgebirge Aue
+  Dresden 1-0 Cottbus
+  Hertha 1-0 Sandhausen
+[Mo 22.04.]
+  Duisburg 1-1 FC Köln
+
+Spieltag 31
+[Fr 26.04.]
+  Ingolstadt 0-1 Braunschweig
+  Sandhausen 0-1 Bochum
+  Union Berlin 1-0 Regensburg
+[Sa 27.04.]
+  Erzgebirge Aue 0-0 Duisburg
+  Frankfurt FSV 3-1 Dresden
+[So 28.04.]
+  FC Köln 1-1 TSV 1860 München
+  Paderborn 2-2 Aalen
+  St Pauli 2-3 Hertha
+[Mo 29.04.]
+  Cottbus 4-2 Kaiserslautern
+
+Spieltag 32
+[Fr 03.05.]
+  Aalen 2-1 Regensburg
+  Dresden 2-1 Paderborn
+  Hertha 3-2 Erzgebirge Aue
+[Sa 04.05.]
+  Bochum 2-1 FC Köln
+  Sandhausen 3-1 Ingolstadt
+[So 05.05.]
+  Duisburg 0-0 St Pauli
+  Kaiserslautern 4-1 Frankfurt FSV
+  TSV 1860 München 3-0 Union Berlin
+[Mo 06.05.]
+  Braunschweig 0-0 Cottbus
+
+Spieltag 33
+[So 12.05.]
+  Aalen 3-0 Dresden
+  Cottbus 3-0 Sandhausen
+  Erzgebirge Aue 0-1 Ingolstadt
+  FC Köln 1-2 Hertha
+  Frankfurt FSV 2-1 Bochum
+  Paderborn 2-0 TSV 1860 München
+  Regensburg 1-3 Kaiserslautern
+  St Pauli 5-1 Braunschweig
+  Union Berlin 2-1 Duisburg
+
+Spieltag 34
+[So 19.05.]
+  Bochum 1-2 Union Berlin
+  Braunschweig 2-2 Frankfurt FSV
+  Dresden 3-1 Regensburg
+  Duisburg 3-2 Paderborn
+  Hertha 1-1 Cottbus
+  Ingolstadt 0-3 FC Köln
+  Kaiserslautern 1-2 St Pauli
+  TSV 1860 München 3-0 Aalen
+  Sandhausen 0-1 Erzgebirge Aue

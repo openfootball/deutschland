@@ -1,0 +1,504 @@
+= Deutsche 2. Bundesliga 2010/11
+
+
+Spieltag 1
+[Fr 20.08.]
+  Aachen 2-2 Union Berlin
+  Frankfurt FSV 2-1 Bielefeld
+  Hertha 3-2 Oberhausen
+[Sa 21.08.]
+  Ingolstadt 1-4 Augsburg
+  Paderborn 0-1 Erzgebirge Aue
+[So 22.08.]
+  Cottbus 2-0 Fortuna Düsseldorf
+  Greuther Fürth 4-1 Karlsruhe
+  Osnabrück 1-3 Duisburg
+[Mo 23.08.]
+  Bochum 3-2 TSV 1860 München
+
+Spieltag 2
+[Fr 27.08.]
+  Augsburg 1-0 Paderborn
+  Erzgebirge Aue 1-0 Bochum
+  Oberhausen 1-0 Frankfurt FSV
+[Sa 28.08.]
+  Duisburg 4-1 Ingolstadt
+  Union Berlin 1-2 Greuther Fürth
+[So 29.08.]
+  Bielefeld 1-2 Cottbus
+  Karlsruhe 3-0 Aachen
+  TSV 1860 München 3-1 Osnabrück
+[Mo 30.08.]
+  Fortuna Düsseldorf 1-2 Hertha
+
+Spieltag 3
+[Fr 10.09.]
+  Ingolstadt 1-2 Oberhausen
+  Osnabrück 3-2 Erzgebirge Aue
+  Paderborn 2-0 Union Berlin
+[Sa 11.09.]
+  Duisburg 2-1 TSV 1860 München
+  Frankfurt FSV 1-0 Fortuna Düsseldorf
+[So 12.09.]
+  Bochum 0-2 Augsburg
+  Greuther Fürth 1-1 Aachen
+  Hertha 3-1 Bielefeld
+[Mo 13.09.]
+  Cottbus 5-5 Karlsruhe
+
+Spieltag 4
+[Fr 17.09.]
+  Aachen 2-3 Cottbus
+  Greuther Fürth 1-0 Frankfurt FSV
+  Union Berlin 1-1 Hertha
+[Sa 18.09.]
+  Karlsruhe 2-1 Paderborn
+  Oberhausen 3-1 Bochum
+[So 19.09.]
+  Augsburg 2-2 Osnabrück
+  Bielefeld 1-0 Ingolstadt
+  Erzgebirge Aue 1-0 Duisburg
+  Fortuna Düsseldorf 1-2 TSV 1860 München
+
+Spieltag 5
+[Di 21.09.]
+  Cottbus 2-0 Greuther Fürth
+  Frankfurt FSV 1-3 Aachen
+  Hertha 4-0 Karlsruhe
+  Paderborn 0-0 Oberhausen
+[Mi 22.09.]
+  Bochum 3-1 Bielefeld
+  Duisburg 1-0 Augsburg
+  Ingolstadt 3-0 Fortuna Düsseldorf
+  TSV 1860 München 0-0 Erzgebirge Aue
+  Osnabrück 4-1 Union Berlin
+
+Spieltag 6
+[Fr 24.09.]
+  Aachen 2-0 Paderborn
+  Cottbus 0-1 Hertha
+  Karlsruhe 0-2 Frankfurt FSV
+[Sa 25.09.]
+  Bielefeld 0-1 Erzgebirge Aue
+  Greuther Fürth 1-0 Ingolstadt
+[So 26.09.]
+  Augsburg 1-2 TSV 1860 München
+  Oberhausen 1-0 Osnabrück
+  Union Berlin 2-0 Duisburg
+[Mo 27.09.]
+  Fortuna Düsseldorf 0-1 Bochum
+
+Spieltag 7
+[Fr 01.10.]
+  Duisburg 3-0 Oberhausen
+  Ingolstadt 1-1 Karlsruhe
+  Paderborn 3-1 Bielefeld
+[Sa 02.10.]
+  Bochum 0-2 Greuther Fürth
+  Osnabrück 2-3 Fortuna Düsseldorf
+[So 03.10.]
+  Erzgebirge Aue 3-2 Augsburg
+  Frankfurt FSV 3-2 Cottbus
+  TSV 1860 München 1-0 Union Berlin
+[Mo 04.10.]
+  Hertha 0-0 Aachen
+
+Spieltag 8
+[Fr 15.10.]
+  Fortuna Düsseldorf 1-0 Augsburg
+  Greuther Fürth 3-0 Osnabrück
+  Union Berlin 1-1 Erzgebirge Aue
+[Sa 16.10.]
+  Frankfurt FSV 0-1 Hertha
+  Karlsruhe 0-2 Bochum
+[So 17.10.]
+  Aachen 2-1 Ingolstadt
+  Cottbus 3-1 Paderborn
+  Oberhausen 0-0 TSV 1860 München
+[Mo 18.10.]
+  Bielefeld 1-3 Duisburg
+
+Spieltag 9
+[Fr 22.10.]
+  Augsburg 2-1 Union Berlin
+  Hertha 2-0 Greuther Fürth
+  Osnabrück 2-0 Cottbus
+[Sa 23.10.]
+  Ingolstadt 0-1 Frankfurt FSV
+  TSV 1860 München 0-0 Bielefeld
+[So 24.10.]
+  Bochum 1-1 Aachen
+  Duisburg 3-0 Karlsruhe
+  Paderborn 3-0 Fortuna Düsseldorf
+[Mo 25.10.]
+  Erzgebirge Aue 2-0 Oberhausen
+
+Spieltag 10
+[Fr 29.10.]
+  Bielefeld 1-2 Union Berlin
+  Frankfurt FSV 2-0 Paderborn
+  Greuther Fürth 1-2 Erzgebirge Aue
+[Sa 30.10.]
+  Hertha 3-1 Ingolstadt
+  Karlsruhe 2-4 TSV 1860 München
+[So 31.10.]
+  Aachen 2-1 Osnabrück
+  Cottbus 2-1 Bochum
+  Oberhausen 0-3 Augsburg
+[Mo 01.11.]
+  Fortuna Düsseldorf 1-0 Duisburg
+
+Spieltag 11
+[Fr 05.11.]
+  Bochum 1-0 Frankfurt FSV
+  Erzgebirge Aue 1-0 Fortuna Düsseldorf
+  Ingolstadt 1-2 Cottbus
+[Sa 06.11.]
+  Augsburg 3-0 Bielefeld
+  Duisburg 2-0 Greuther Fürth
+[So 07.11.]
+  TSV 1860 München 2-1 Aachen
+  Paderborn 1-0 Hertha
+  Union Berlin 2-1 Oberhausen
+[Mo 08.11.]
+  Osnabrück 0-0 Karlsruhe
+
+Spieltag 12
+[Fr 12.11.]
+  Fortuna Düsseldorf 3-0 Oberhausen
+  Greuther Fürth 1-1 Augsburg
+  Karlsruhe 1-1 Erzgebirge Aue
+[Sa 13.11.]
+  Bielefeld 2-1 Osnabrück
+  Frankfurt FSV 2-1 Union Berlin
+[So 14.11.]
+  Aachen 2-2 Duisburg
+  Cottbus 0-0 TSV 1860 München
+  Ingolstadt 1-2 Paderborn
+[Mo 15.11.]
+  Hertha 2-0 Bochum
+
+Spieltag 13
+[Fr 19.11.]
+  Oberhausen 3-0 Bielefeld
+  Osnabrück 2-0 Hertha
+  Union Berlin 1-0 Fortuna Düsseldorf
+[Sa 20.11.]
+  Bochum 1-4 Ingolstadt
+  Paderborn 0-4 Greuther Fürth
+[So 21.11.]
+  Augsburg 3-1 Karlsruhe
+  Erzgebirge Aue 2-1 Aachen
+  TSV 1860 München 3-3 Frankfurt FSV
+[Mo 22.11.]
+  Duisburg 2-2 Cottbus
+
+Spieltag 14
+[Fr 26.11.]
+  Bielefeld 0-2 Fortuna Düsseldorf
+  Bochum 3-0 Paderborn
+  Frankfurt FSV 4-1 Osnabrück
+[Sa 27.11.]
+  Aachen 1-3 Augsburg
+  Hertha 0-2 Duisburg
+[So 28.11.]
+  Cottbus 6-0 Erzgebirge Aue
+  Ingolstadt 1-0 Union Berlin
+  Karlsruhe 4-0 Oberhausen
+[Mo 29.11.]
+  Greuther Fürth 1-0 TSV 1860 München
+
+Spieltag 15
+[Fr 03.12.]
+  Duisburg 1-3 Frankfurt FSV
+  Oberhausen 1-2 Aachen
+  Osnabrück 2-2 Paderborn
+[Sa 04.12.]
+  Augsburg 4-0 Cottbus
+  Bielefeld 1-4 Greuther Fürth
+[So 05.12.]
+  Erzgebirge Aue 1-1 Ingolstadt
+  Fortuna Düsseldorf 1-0 Karlsruhe
+  TSV 1860 München 1-0 Hertha
+[Mo 06.12.]
+  Union Berlin 0-1 Bochum
+
+Spieltag 16
+[Fr 10.12.]
+  Aachen 0-0 Fortuna Düsseldorf
+  Greuther Fürth 0-0 Oberhausen
+  Karlsruhe 1-0 Bielefeld
+[Sa 11.12.]
+  Frankfurt FSV 1-2 Augsburg
+  Paderborn 0-0 Duisburg
+[So 12.12.]
+  Bochum 2-1 Osnabrück
+  Hertha 2-0 Erzgebirge Aue
+  Ingolstadt 1-1 TSV 1860 München
+[Mo 13.12.]
+  Cottbus 0-0 Union Berlin
+
+Spieltag 17
+[Fr 17.12.]
+  Bielefeld 1-3 Aachen
+  Duisburg 0-1 Bochum
+[Sa 18.12.]
+  Augsburg 1-1 Hertha
+  Fortuna Düsseldorf 1-0 Greuther Fürth
+[So 19.12.]
+  TSV 1860 München 0-1 Paderborn
+  Oberhausen 0-4 Cottbus
+  Osnabrück 2-1 Ingolstadt
+[Mo 20.12.]
+  Union Berlin 3-1 Karlsruhe
+[Fr 14.01.]
+  Karlsruhe 1-1 Greuther Fürth
+
+Spieltag 18
+  Union Berlin 2-1 Aachen
+[Sa 15.01.]
+  Fortuna Düsseldorf 3-1 Cottbus
+  TSV 1860 München 1-3 Bochum
+[So 16.01.]
+  Augsburg 2-0 Ingolstadt
+  Bielefeld 1-1 Frankfurt FSV
+  Duisburg 4-1 Osnabrück
+[Mo 17.01.]
+  Oberhausen 1-3 Hertha
+[Di 18.01.]
+  Erzgebirge Aue 1-0 Paderborn
+[Fr 21.01.]
+  Ingolstadt 1-1 Duisburg
+
+Spieltag 19
+  Osnabrück 0-1 TSV 1860 München
+  Paderborn 1-1 Augsburg
+[Sa 22.01.]
+  Aachen 4-2 Karlsruhe
+  Cottbus 2-1 Bielefeld
+[So 23.01.]
+  Frankfurt FSV 4-0 Oberhausen
+  Greuther Fürth 1-0 Union Berlin
+  Hertha 4-2 Fortuna Düsseldorf
+[Mo 24.01.]
+  Bochum 2-0 Erzgebirge Aue
+[Fr 28.01.]
+  Erzgebirge Aue 0-1 Osnabrück
+
+Spieltag 20
+  Fortuna Düsseldorf 6-0 Frankfurt FSV
+  Oberhausen 1-1 Ingolstadt
+[Sa 29.01.]
+  Aachen 2-2 Greuther Fürth
+  TSV 1860 München 1-1 Duisburg
+[So 30.01.]
+  Bielefeld 1-3 Hertha
+  Karlsruhe 1-0 Cottbus
+  Union Berlin 0-2 Paderborn
+[Mo 31.01.]
+  Augsburg 0-1 Bochum
+[Di 01.02.]
+  Erzgebirge Aue 3-1 Frankfurt FSV
+
+Spieltag 21
+[Fr 04.02.]
+  Cottbus 3-3 Aachen
+  Frankfurt FSV 0-0 Greuther Fürth
+  Osnabrück 0-2 Augsburg
+[Sa 05.02.]
+  Hertha 1-2 Union Berlin
+  Paderborn 3-0 Karlsruhe
+[So 06.02.]
+  Bochum 2-1 Oberhausen
+  Duisburg 3-1 Erzgebirge Aue
+  Ingolstadt 1-0 Bielefeld
+[Mo 07.02.]
+  TSV 1860 München 1-1 Fortuna Düsseldorf
+
+Spieltag 22
+[Fr 11.02.]
+  Augsburg 0-0 Duisburg
+  Oberhausen 2-0 Paderborn
+  Union Berlin 3-3 Osnabrück
+[Sa 12.02.]
+  Aachen 2-1 Frankfurt FSV
+  Greuther Fürth 3-1 Cottbus
+[So 13.02.]
+  Bielefeld 2-2 Bochum
+  Fortuna Düsseldorf 3-1 Ingolstadt
+  Karlsruhe 2-6 Hertha
+[Mo 14.02.]
+  Erzgebirge Aue 1-0 TSV 1860 München
+
+Spieltag 23
+[Fr 18.02.]
+  Bochum 2-0 Fortuna Düsseldorf
+  Ingolstadt 0-2 Greuther Fürth
+  TSV 1860 München 0-2 Augsburg
+[Sa 19.02.]
+  Duisburg 0-1 Union Berlin
+  Paderborn 1-3 Aachen
+[So 20.02.]
+  Erzgebirge Aue 3-0 Bielefeld
+  Frankfurt FSV 1-2 Karlsruhe
+  Osnabrück 3-1 Oberhausen
+[Mo 21.02.]
+  Hertha 2-2 Cottbus
+
+Spieltag 24
+[Fr 25.02.]
+  Cottbus 2-1 Frankfurt FSV
+  Oberhausen 0-0 Duisburg
+  Union Berlin 0-1 TSV 1860 München
+[Sa 26.02.]
+  Aachen 0-5 Hertha
+  Bielefeld 1-1 Paderborn
+[So 27.02.]
+  Fortuna Düsseldorf 2-1 Osnabrück
+  Greuther Fürth 1-1 Bochum
+  Karlsruhe 1-4 Ingolstadt
+[Mo 28.02.]
+  Augsburg 2-1 Erzgebirge Aue
+
+Spieltag 25
+[Fr 04.03.]
+  Hertha 3-1 Frankfurt FSV
+  TSV 1860 München 1-1 Oberhausen
+  Osnabrück 0-2 Greuther Fürth
+[Sa 05.03.]
+  Bochum 1-1 Karlsruhe
+  Paderborn 0-5 Cottbus
+[So 06.03.]
+  Duisburg 1-2 Bielefeld
+  Erzgebirge Aue 0-0 Union Berlin
+  Ingolstadt 2-1 Aachen
+[Mo 07.03.]
+  Augsburg 5-2 Fortuna Düsseldorf
+
+Spieltag 26
+[Fr 11.03.]
+  Frankfurt FSV 1-2 Ingolstadt
+  Karlsruhe 3-1 Duisburg
+  Oberhausen 1-2 Erzgebirge Aue
+[Sa 12.03.]
+  Fortuna Düsseldorf 0-0 Paderborn
+  Union Berlin 0-0 Augsburg
+[So 13.03.]
+  Aachen 1-3 Bochum
+  Bielefeld 0-3 TSV 1860 München
+  Cottbus 2-0 Osnabrück
+[Mo 14.03.]
+  Greuther Fürth 0-2 Hertha
+
+Spieltag 27
+[Fr 18.03.]
+  Duisburg 1-0 Fortuna Düsseldorf
+  Ingolstadt 1-1 Hertha
+  TSV 1860 München 5-1 Karlsruhe
+[Sa 19.03.]
+  Augsburg 2-0 Oberhausen
+  Osnabrück 1-3 Aachen
+[So 20.03.]
+  Erzgebirge Aue 0-0 Greuther Fürth
+  Paderborn 2-2 Frankfurt FSV
+  Union Berlin 2-2 Bielefeld
+[Mo 21.03.]
+  Bochum 1-0 Cottbus
+
+Spieltag 28
+[Fr 01.04.]
+  Bielefeld 0-2 Augsburg
+  Cottbus 1-2 Ingolstadt
+  Karlsruhe 2-2 Osnabrück
+[Sa 02.04.]
+  Fortuna Düsseldorf 3-0 Erzgebirge Aue
+  Greuther Fürth 2-1 Duisburg
+[So 03.04.]
+  Aachen 2-1 TSV 1860 München
+  Hertha 2-0 Paderborn
+  Oberhausen 0-2 Union Berlin
+[Mo 04.04.]
+  Frankfurt FSV 0-1 Bochum
+
+Spieltag 29
+[Fr 08.04.]
+  Augsburg 0-0 Greuther Fürth
+  Duisburg 3-2 Aachen
+  Osnabrück 0-0 Bielefeld
+[Sa 09.04.]
+  TSV 1860 München 4-0 Cottbus
+  Oberhausen 1-2 Fortuna Düsseldorf
+[So 10.04.]
+  Erzgebirge Aue 1-1 Karlsruhe
+  Paderborn 1-1 Ingolstadt
+  Union Berlin 2-0 Frankfurt FSV
+[Mo 11.04.]
+  Bochum 0-2 Hertha
+
+Spieltag 30
+[Fr 15.04.]
+  Fortuna Düsseldorf 3-0 Union Berlin
+  Frankfurt FSV 2-1 TSV 1860 München
+  Ingolstadt 3-0 Bochum
+[Sa 16.04.]
+  Cottbus 3-1 Duisburg
+  Hertha 4-0 Osnabrück
+[So 17.04.]
+  Aachen 1-5 Erzgebirge Aue
+  Bielefeld 3-3 Oberhausen
+  Greuther Fürth 2-0 Paderborn
+[Mo 18.04.]
+  Karlsruhe 0-1 Augsburg
+
+Spieltag 31
+[Do 21.04.]
+  Erzgebirge Aue 1-2 Cottbus
+  Osnabrück 1-1 Frankfurt FSV
+  Paderborn 0-0 Bochum
+[Sa 23.04.]
+  TSV 1860 München 3-0 Greuther Fürth
+  Oberhausen 2-1 Karlsruhe
+[So 24.04.]
+  Augsburg 1-2 Aachen
+  Fortuna Düsseldorf 2-0 Bielefeld
+  Union Berlin 1-1 Ingolstadt
+[Mo 25.04.]
+  Duisburg 0-1 Hertha
+
+Spieltag 32
+[Fr 29.04.]
+  Aachen 4-0 Oberhausen
+  Bochum 3-0 Union Berlin
+  Hertha 1-2 TSV 1860 München
+  Karlsruhe 2-2 Fortuna Düsseldorf
+  Paderborn 1-0 Osnabrück
+[Sa 30.04.]
+  Frankfurt FSV 0-4 Duisburg
+  Greuther Fürth 1-0 Bielefeld
+  Ingolstadt 0-0 Erzgebirge Aue
+[Mo 02.05.]
+  Cottbus 1-1 Augsburg
+
+Spieltag 33
+[So 08.05.]
+  Augsburg 2-1 Frankfurt FSV
+  Bielefeld 2-1 Karlsruhe
+  Duisburg 3-1 Paderborn
+  Erzgebirge Aue 0-2 Hertha
+  Fortuna Düsseldorf 3-1 Aachen
+  TSV 1860 München 1-1 Ingolstadt
+  Oberhausen 1-4 Greuther Fürth
+  Osnabrück 1-3 Bochum
+  Union Berlin 4-2 Cottbus
+
+Spieltag 34
+[So 15.05.]
+  Aachen 1-1 Bielefeld
+  Bochum 3-1 Duisburg
+  Cottbus 3-1 Oberhausen
+  Frankfurt FSV 0-2 Erzgebirge Aue
+  Greuther Fürth 1-1 Fortuna Düsseldorf
+  Hertha 2-1 Augsburg
+  Ingolstadt 0-1 Osnabrück
+  Karlsruhe 3-2 Union Berlin
+  Paderborn 3-2 TSV 1860 München

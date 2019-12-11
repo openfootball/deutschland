@@ -1,0 +1,445 @@
+= Deutsche Bundesliga 2003/04
+
+
+Spieltag 1
+[Fr 01.08.]
+  Bayern Munich 3-1 Ein Frankfurt
+[Sa 02.08.]
+  Hamburg 0-3 Hannover
+  Hertha 0-3 Werder Bremen
+  Kaiserslautern 0-1 TSV 1860 München
+  Leverkusen 4-1 Freiburg
+  Schalke 04 2-2 Dortmund
+  Wolfsburg 3-2 Bochum
+[So 03.08.]
+  Hansa Rostock 0-2 Stuttgart
+  Bor. Mönchengladbach 1-0 FC Köln
+
+Spieltag 2
+[Sa 09.08.]
+  Bochum 1-1 Hamburg
+  Dortmund 4-0 Wolfsburg
+  FC Köln 1-2 Kaiserslautern
+  Freiburg 2-2 Hansa Rostock
+  Hannover 3-3 Bayern Munich
+  TSV 1860 München 1-1 Schalke 04
+  Werder Bremen 1-1 Bor. Mönchengladbach
+[So 10.08.]
+  Ein Frankfurt 1-2 Leverkusen
+  Stuttgart 0-0 Hertha
+
+Spieltag 3
+[Sa 16.08.]
+  Bayern Munich 2-0 Bochum
+  Dortmund 3-1 TSV 1860 München
+  Hansa Rostock 3-0 Ein Frankfurt
+  Hertha 0-0 Freiburg
+  Kaiserslautern 0-1 Werder Bremen
+  Leverkusen 4-0 Hannover
+  Bor. Mönchengladbach 0-1 Stuttgart
+[So 17.08.]
+  Schalke 04 2-1 FC Köln
+  Wolfsburg 5-1 Hamburg
+
+Spieltag 4
+[Sa 23.08.]
+  Bochum 1-0 Leverkusen
+  Ein Frankfurt 0-0 Hertha
+  FC Köln 1-0 Dortmund
+  Freiburg 4-1 Bor. Mönchengladbach
+  TSV 1860 München 1-0 Wolfsburg
+  Stuttgart 2-0 Kaiserslautern
+  Werder Bremen 4-1 Schalke 04
+[So 24.08.]
+  Hamburg 0-2 Bayern Munich
+[Mi 27.08.]
+  Hannover 3-3 Hansa Rostock
+
+Spieltag 5
+[Sa 13.09.]
+  Dortmund 2-1 Werder Bremen
+  Hansa Rostock 0-2 Bochum
+  Hertha 2-3 Hannover
+  Leverkusen 1-0 Hamburg
+  TSV 1860 München 2-1 FC Köln
+  Schalke 04 0-0 Stuttgart
+  Wolfsburg 3-2 Bayern Munich
+[So 14.09.]
+  Kaiserslautern 2-2 Freiburg
+  Bor. Mönchengladbach 0-2 Ein Frankfurt
+
+Spieltag 6
+[Sa 20.09.]
+  Bayern Munich 3-3 Leverkusen
+  Bochum 2-2 Hertha
+  FC Köln 2-3 Wolfsburg
+  Freiburg 2-1 Schalke 04
+  Hannover 2-0 Bor. Mönchengladbach
+  Stuttgart 1-0 Dortmund
+  Werder Bremen 2-1 TSV 1860 München
+[So 21.09.]
+  Ein Frankfurt 1-3 Kaiserslautern
+  Hamburg 2-1 Hansa Rostock
+
+Spieltag 7
+[Sa 27.09.]
+  Dortmund 1-0 Freiburg
+  FC Köln 1-4 Werder Bremen
+  Hansa Rostock 1-2 Bayern Munich
+  Kaiserslautern 1-0 Hannover
+  Bor. Mönchengladbach 2-2 Bochum
+  TSV 1860 München 0-3 Stuttgart
+  Wolfsburg 0-1 Leverkusen
+[So 28.09.]
+  Hertha 1-1 Hamburg
+  Schalke 04 1-1 Ein Frankfurt
+
+Spieltag 8
+[Sa 04.10.]
+  Bayern Munich 4-1 Hertha
+  Bochum 4-0 Kaiserslautern
+  Ein Frankfurt 0-1 Dortmund
+  Freiburg 1-0 TSV 1860 München
+  Hamburg 2-1 Bor. Mönchengladbach
+  Hannover 1-2 Schalke 04
+  Stuttgart 0-0 FC Köln
+[So 05.10.]
+  Leverkusen 3-0 Hansa Rostock
+  Werder Bremen 5-3 Wolfsburg
+
+Spieltag 9
+[Sa 18.10.]
+  Dortmund 6-2 Hannover
+  FC Köln 1-0 Freiburg
+  Hertha 1-4 Leverkusen
+  Bor. Mönchengladbach 0-0 Bayern Munich
+  TSV 1860 München 1-0 Ein Frankfurt
+  Werder Bremen 1-3 Stuttgart
+  Wolfsburg 3-1 Hansa Rostock
+[So 19.10.]
+  Kaiserslautern 4-0 Hamburg
+  Schalke 04 0-2 Bochum
+
+Spieltag 10
+[Sa 25.10.]
+  Bayern Munich 4-1 Kaiserslautern
+  Ein Frankfurt 2-0 FC Köln
+  Freiburg 2-4 Werder Bremen
+  Hamburg 2-2 Schalke 04
+  Hannover 1-1 TSV 1860 München
+  Hansa Rostock 0-1 Hertha
+  Stuttgart 1-0 Wolfsburg
+[So 26.10.]
+  Bochum 3-0 Dortmund
+  Leverkusen 1-0 Bor. Mönchengladbach
+
+Spieltag 11
+[Sa 01.11.]
+  FC Köln 1-2 Hannover
+  Bor. Mönchengladbach 1-1 Hansa Rostock
+  TSV 1860 München 3-1 Bochum
+  Schalke 04 2-0 Bayern Munich
+  Stuttgart 4-1 Freiburg
+  Werder Bremen 3-1 Ein Frankfurt
+  Wolfsburg 3-0 Hertha
+[So 02.11.]
+  Dortmund 3-2 Hamburg
+  Kaiserslautern 0-0 Leverkusen
+
+Spieltag 12
+[Sa 08.11.]
+  Bochum 4-0 FC Köln
+  Ein Frankfurt 0-2 Stuttgart
+  Freiburg 3-2 Wolfsburg
+  Hamburg 3-1 TSV 1860 München
+  Hannover 1-5 Werder Bremen
+  Hansa Rostock 4-0 Kaiserslautern
+  Hertha 2-1 Bor. Mönchengladbach
+[So 09.11.]
+  Bayern Munich 4-1 Dortmund
+  Leverkusen 3-1 Schalke 04
+
+Spieltag 13
+[Sa 22.11.]
+  Dortmund 2-2 Leverkusen
+  FC Köln 0-1 Hamburg
+  TSV 1860 München 0-1 Bayern Munich
+  Schalke 04 0-1 Hansa Rostock
+  Stuttgart 3-1 Hannover
+  Werder Bremen 3-1 Bochum
+  Wolfsburg 1-3 Bor. Mönchengladbach
+[So 23.11.]
+  Freiburg 1-0 Ein Frankfurt
+  Kaiserslautern 4-2 Hertha
+
+Spieltag 14
+[Sa 29.11.]
+  Bayern Munich 2-2 FC Köln
+  Bochum 0-0 Stuttgart
+  Ein Frankfurt 3-2 Wolfsburg
+  Hamburg 1-1 Werder Bremen
+  Hannover 3-0 Freiburg
+  Leverkusen 2-2 TSV 1860 München
+  Bor. Mönchengladbach 2-1 Kaiserslautern
+[So 30.11.]
+  Hansa Rostock 2-1 Dortmund
+  Hertha 1-3 Schalke 04
+
+Spieltag 15
+[Sa 06.12.]
+  Dortmund 1-1 Hertha
+  Ein Frankfurt 2-2 Hannover
+  Freiburg 4-2 Bochum
+  TSV 1860 München 1-4 Hansa Rostock
+  Stuttgart 0-0 Hamburg
+  Werder Bremen 1-1 Bayern Munich
+  Wolfsburg 4-1 Kaiserslautern
+[So 07.12.]
+  FC Köln 0-0 Leverkusen
+  Schalke 04 2-1 Bor. Mönchengladbach
+
+Spieltag 16
+[Sa 13.12.]
+  Bayern Munich 1-0 Stuttgart
+  Bochum 1-0 Ein Frankfurt
+  Hamburg 4-1 Freiburg
+  Hansa Rostock 1-1 FC Köln
+  Hertha 1-1 TSV 1860 München
+  Kaiserslautern 0-2 Schalke 04
+  Leverkusen 1-3 Werder Bremen
+[So 14.12.]
+  Bor. Mönchengladbach 2-1 Dortmund
+  Wolfsburg 2-1 Hannover
+
+Spieltag 17
+[Di 16.12.]
+  Ein Frankfurt 2-3 Hamburg
+  FC Köln 3-0 Hertha
+  Freiburg 0-6 Bayern Munich
+  Werder Bremen 3-0 Hansa Rostock
+[Mi 17.12.]
+  Dortmund 1-1 Kaiserslautern
+  Hannover 2-2 Bochum
+  TSV 1860 München 1-2 Bor. Mönchengladbach
+  Schalke 04 1-1 Wolfsburg
+  Stuttgart 2-3 Leverkusen
+
+Spieltag 18
+[Fr 30.01.]
+  Dortmund 0-1 Schalke 04
+[Sa 31.01.]
+  Bochum 1-0 Wolfsburg
+  Ein Frankfurt 1-1 Bayern Munich
+  FC Köln 1-0 Bor. Mönchengladbach
+  TSV 1860 München 2-1 Kaiserslautern
+  Stuttgart 2-0 Hansa Rostock
+  Werder Bremen 4-0 Hertha
+[So 01.02.]
+  Freiburg 1-0 Leverkusen
+  Hannover 3-2 Hamburg
+
+Spieltag 19
+[Sa 07.02.]
+  Hamburg 1-1 Bochum
+  Hansa Rostock 4-1 Freiburg
+  Kaiserslautern 1-0 FC Köln
+  Leverkusen 1-2 Ein Frankfurt
+  Bor. Mönchengladbach 1-2 Werder Bremen
+  Schalke 04 0-0 TSV 1860 München
+  Wolfsburg 2-4 Dortmund
+[So 08.02.]
+  Bayern Munich 3-1 Hannover
+  Hertha 1-0 Stuttgart
+
+Spieltag 20
+[Sa 14.02.]
+  Bochum 1-0 Bayern Munich
+  Ein Frankfurt 1-1 Hansa Rostock
+  FC Köln 0-2 Schalke 04
+  Freiburg 2-3 Hertha
+  Hamburg 2-0 Wolfsburg
+  Hannover 2-2 Leverkusen
+  Stuttgart 1-1 Bor. Mönchengladbach
+[So 15.02.]
+  TSV 1860 München 0-2 Dortmund
+  Werder Bremen 1-0 Kaiserslautern
+
+Spieltag 21
+[Sa 21.02.]
+  Bayern Munich 1-0 Hamburg
+  Hansa Rostock 3-1 Hannover
+  Kaiserslautern 1-0 Stuttgart
+  Leverkusen 1-3 Bochum
+  Bor. Mönchengladbach 2-2 Freiburg
+  Schalke 04 0-0 Werder Bremen
+  Wolfsburg 3-1 TSV 1860 München
+[So 22.02.]
+  Dortmund 1-0 FC Köln
+  Hertha 1-2 Ein Frankfurt
+
+Spieltag 22
+[Sa 28.02.]
+  Bayern Munich 2-0 Wolfsburg
+  Bochum 0-0 Hansa Rostock
+  Ein Frankfurt 3-1 Bor. Mönchengladbach
+  FC Köln 1-3 TSV 1860 München
+  Hamburg 3-1 Leverkusen
+  Stuttgart 0-0 Schalke 04
+  Werder Bremen 2-0 Dortmund
+[So 29.02.]
+  Freiburg 1-0 Kaiserslautern
+  Hannover 1-3 Hertha
+
+Spieltag 23
+[Sa 06.03.]
+  Dortmund 0-2 Stuttgart
+  Hansa Rostock 3-0 Hamburg
+  Hertha 1-1 Bochum
+  Kaiserslautern 1-0 Ein Frankfurt
+  Leverkusen 1-3 Bayern Munich
+  Bor. Mönchengladbach 1-0 Hannover
+  Schalke 04 3-0 Freiburg
+[So 07.03.]
+  TSV 1860 München 0-2 Werder Bremen
+  Wolfsburg 2-0 FC Köln
+
+Spieltag 24
+[Sa 13.03.]
+  Bayern Munich 3-3 Hansa Rostock
+  Ein Frankfurt 3-0 Schalke 04
+  Freiburg 2-2 Dortmund
+  Hamburg 2-0 Hertha
+  Hannover 0-1 Kaiserslautern
+  Leverkusen 4-2 Wolfsburg
+  Werder Bremen 3-2 FC Köln
+[So 14.03.]
+  Bochum 1-0 Bor. Mönchengladbach
+  Stuttgart 2-0 TSV 1860 München
+
+Spieltag 25
+[Sa 20.03.]
+  Dortmund 2-0 Ein Frankfurt
+  FC Köln 2-2 Stuttgart
+  Hansa Rostock 0-2 Leverkusen
+  Hertha 1-1 Bayern Munich
+  Kaiserslautern 2-2 Bochum
+  Bor. Mönchengladbach 3-0 Hamburg
+  Schalke 04 2-2 Hannover
+[So 21.03.]
+  TSV 1860 München 1-1 Freiburg
+  Wolfsburg 0-2 Werder Bremen
+
+Spieltag 26
+[Sa 27.03.]
+  Bayern Munich 5-2 Bor. Mönchengladbach
+  Bochum 1-2 Schalke 04
+  Ein Frankfurt 0-3 TSV 1860 München
+  Freiburg 3-0 FC Köln
+  Hannover 1-1 Dortmund
+  Hansa Rostock 3-1 Wolfsburg
+  Leverkusen 4-1 Hertha
+[So 28.03.]
+  Hamburg 3-2 Kaiserslautern
+  Stuttgart 4-4 Werder Bremen
+
+Spieltag 27
+[Sa 03.04.]
+  FC Köln 2-0 Ein Frankfurt
+  Hertha 1-1 Hansa Rostock
+  Kaiserslautern 0-2 Bayern Munich
+  Bor. Mönchengladbach 0-0 Leverkusen
+  TSV 1860 München 0-2 Hannover
+  Schalke 04 4-1 Hamburg
+  Wolfsburg 1-5 Stuttgart
+[So 04.04.]
+  Dortmund 4-1 Bochum
+  Werder Bremen 1-1 Freiburg
+
+Spieltag 28
+[Sa 10.04.]
+  Bayern Munich 2-1 Schalke 04
+  Bochum 4-0 TSV 1860 München
+  Ein Frankfurt 0-1 Werder Bremen
+  Hamburg 0-2 Dortmund
+  Hansa Rostock 1-2 Bor. Mönchengladbach
+  Hertha 1-0 Wolfsburg
+  Leverkusen 6-0 Kaiserslautern
+[So 11.04.]
+  Freiburg 0-1 Stuttgart
+  Hannover 1-0 FC Köln
+
+Spieltag 29
+[Sa 17.04.]
+  Dortmund 2-0 Bayern Munich
+  Kaiserslautern 3-2 Hansa Rostock
+  Bor. Mönchengladbach 1-1 Hertha
+  TSV 1860 München 1-2 Hamburg
+  Schalke 04 2-3 Leverkusen
+  Stuttgart 3-1 Ein Frankfurt
+  Wolfsburg 4-0 Freiburg
+[So 18.04.]
+  FC Köln 1-2 Bochum
+  Werder Bremen 0-0 Hannover
+
+Spieltag 30
+[Sa 24.04.]
+  Ein Frankfurt 3-0 Freiburg
+  Hamburg 4-2 FC Köln
+  Hannover 0-1 Stuttgart
+  Hansa Rostock 3-1 Schalke 04
+  Hertha 3-0 Kaiserslautern
+  Leverkusen 3-0 Dortmund
+  Bor. Mönchengladbach 0-2 Wolfsburg
+[So 25.04.]
+  Bayern Munich 1-0 TSV 1860 München
+  Bochum 0-0 Werder Bremen
+
+Spieltag 31
+[Sa 01.05.]
+  Dortmund 4-1 Hansa Rostock
+  FC Köln 1-2 Bayern Munich
+  Freiburg 4-1 Hannover
+  Kaiserslautern 2-2 Bor. Mönchengladbach
+  TSV 1860 München 1-1 Leverkusen
+  Werder Bremen 6-0 Hamburg
+  Wolfsburg 1-0 Ein Frankfurt
+[So 02.05.]
+  Schalke 04 3-0 Hertha
+  Stuttgart 1-1 Bochum
+
+Spieltag 32
+[Sa 08.05.]
+  Bayern Munich 1-3 Werder Bremen
+  Hamburg 2-1 Stuttgart
+  Hannover 3-0 Ein Frankfurt
+  Hertha 6-2 Dortmund
+  Kaiserslautern 3-2 Wolfsburg
+  Leverkusen 2-0 FC Köln
+  Bor. Mönchengladbach 2-0 Schalke 04
+[So 09.05.]
+  Bochum 3-0 Freiburg
+  Hansa Rostock 3-0 TSV 1860 München
+
+Spieltag 33
+[Sa 15.05.]
+  Dortmund 3-1 Bor. Mönchengladbach
+  Ein Frankfurt 3-2 Bochum
+  FC Köln 4-0 Hansa Rostock
+  Freiburg 0-0 Hamburg
+  Hannover 0-0 Wolfsburg
+  TSV 1860 München 1-1 Hertha
+  Schalke 04 4-1 Kaiserslautern
+  Stuttgart 3-1 Bayern Munich
+  Werder Bremen 2-6 Leverkusen
+
+Spieltag 34
+[Sa 22.05.]
+  Bayern Munich 2-0 Freiburg
+  Bochum 3-1 Hannover
+  Hamburg 2-1 Ein Frankfurt
+  Hansa Rostock 3-1 Werder Bremen
+  Hertha 3-1 FC Köln
+  Kaiserslautern 1-1 Dortmund
+  Leverkusen 2-0 Stuttgart
+  Bor. Mönchengladbach 3-1 TSV 1860 München
+  Wolfsburg 1-1 Schalke 04

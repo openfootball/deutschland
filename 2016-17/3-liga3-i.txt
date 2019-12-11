@@ -70,12 +70,12 @@
 1. FC Magdeburg          1:2   MSV Duisburg
 Werder Bremen II         4:2   Vfl Osnabrück
 [Sa 27.8.]
-Preußen  Münster         1:0   1. FSV Mainz 05 II
+Preußen Münster         1:0   1. FSV Mainz 05 II
 Chemnitzer FC            0:1   Sportfreunde Lotte
 FC Rot-Weiß Erfurt       3:0   Fortuna Köln
 Holstein Kiel            3:0   FSV Zwickau
 Wehen Wiesbaden          1:2   SC Paderborn 07
-Spvgg Großaspach         3:0   Hallescher FC
+Großaspach         3:0   Hallescher FC
 Hansa Rostock            1:1   FSV Frankfurt
 SSV Jahn Regensburg      0:2   VfR Aalen
 
@@ -83,7 +83,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
 [Fr 9.9.]
   VfR Aalen              1:1   Hansa Rostock
   Hallescher FC          2:1   Preußen Münster
-  VfL Osnabrück          1:0   Wehen Wiesbaden
+  Vfl Osnabrück           1:0   Wehen Wiesbaden
 [Sa 10.9.]
   Fortuna Köln           1:0   Chemnitzer FC
   Sportfreunde Lotte     3:2   SSV Jahn Regensburg
@@ -97,7 +97,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
 7. Spieltag
 [Fr 16.9.]
   Chemnitzer FC          1:0   FSV Zwickau
-   Holstein Kiel         0:1   VfL Osnabrück
+   Holstein Kiel         0:1   Vfl Osnabrück 
    Wehen Wiesbaden       3:0   MSV Duisburg
 [Sa 17.9.]
   Preußen Münster        2:3   1. FC Magdeburg
@@ -112,7 +112,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
 [Di 20.9.]
   FSV Zwickau            4-0   SSV Jahn Regensburg
    VfR Aalen             1-1   Hallescher FC
-   VfL Osnabrück         3-0   FC Rot-Weiß Erfurt
+   Vfl Osnabrück          3-0   FC Rot-Weiß Erfurt
   MSV Duisburg           0-0   Holstein Kiel
 [Mi 21.9.]
   SC Paderborn 07        4-2   Chemnitzer FC
@@ -126,7 +126,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
 9. Spieltag
 [Sa 24.9.]
   Preußen Münster        4-0   Werder Bremen II
-   Chemnitzer FC         3-0   VfL Osnabrück
+   Chemnitzer FC         3-0   Vfl Osnabrück 
    Holstein Kiel         3-0   1. FSV Mainz 05 II
    FSV Frankfurt         2-1   VfR Aalen
    Hallescher FC         2-0   Sportfreunde Lotte
@@ -148,7 +148,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
    1. FC Magdeburg       1-0   Holstein Kiel
    1. FSV Mainz 05 II    1-1   FC Rot-Weiß Erfurt
    MSV Duisburg          1-0   Chemnitzer FC
-   VfL Osnabrück         1-2   SSV Jahn Regensburg
+   Vfl Osnabrück          1-2   SSV Jahn Regensburg
 
 
 11. Spieltag
@@ -161,7 +161,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
    FSV Frankfurt         6-0   Fortuna Köln
    Hallescher FC         3-2   FSV Zwickau
    Großaspach            2-3   SC Paderborn 07
-   Hansa Rostock         1-2   VfL Osnabrück
+   Hansa Rostock         1-2   Vfl Osnabrück 
    SSV Jahn Regensburg   1-2   MSV Duisburg
 
 12. Spieltag
@@ -175,7 +175,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
    1. FC Magdeburg       2-4   Chemnitzer FC
    1. FSV Mainz 05 II    2-0   SSV Jahn Regensburg
    MSV Duisburg          0-1   Hansa Rostock
-   VfL Osnabrück         1-0   Großaspach
+   Vfl Osnabrück          1-0   Großaspach
 
 13. Spieltag
 [Sa 29.10.]
@@ -185,7 +185,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
    Sportfreunde Lotte    0-1   Fortuna Köln
    VfR Aalen             0-1   FSV Zwickau
    FSV Frankfurt         3-0   SC Paderborn 07
-   Hallescher FC         1-0   VfL Osnabrück
+   Hallescher FC         1-0   Vfl Osnabrück 
    Großaspach            0-0   MSV Duisburg
    Hansa Rostock         1-1   1. FSV Mainz 05 II
    SSV Jahn Regensburg   1-1   1. FC Magdeburg
@@ -201,7 +201,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
    1. FC Magdeburg       1-1   Hansa Rostock
    1. FSV Mainz 05 II    0-2   Großaspach
    MSV Duisburg          0-0   Hallescher FC
-   VfL Osnabrück         1-1   FSV Frankfurt
+   Vfl Osnabrück          1-1   FSV Frankfurt
 
 15. Spieltag
 [Sa 19.11.]
@@ -209,7 +209,7 @@ SSV Jahn Regensburg      0:2   VfR Aalen
    Chemnitzer FC         2-2   Holstein Kiel
    Fortuna Köln          2-1   FSV Zwickau
    Sportfreunde Lotte    6-0   SC Paderborn 07
-   VfR Aalen             1-1   VfL Osnabrück
+   VfR Aalen             1-1   Vfl Osnabrück 
    FSV Frankfurt         0-0   MSV Duisburg
    Hallescher FC         2-0   1. FSV Mainz 05 II
    Großaspach            1-3   1. FC Magdeburg
@@ -227,13 +227,13 @@ SSV Jahn Regensburg      0:2   VfR Aalen
    1. FC Magdeburg       1-0   Hallescher FC
    1. FSV Mainz 05 II    1-0   FSV Frankfurt
    MSV Duisburg          2-2   VfR Aalen
-  VfL Osnabrück          3-0   Sportfreunde Lotte
+  Vfl Osnabrück           3-0   Sportfreunde Lotte
 
 17. Spieltag
 [Sa 3.12.]
    Preußen Münster       1-0   Chemnitzer FC
    FSV Zwickau           3-0   SC Paderborn 07
-   Fortuna Köln          1-1   VfL Osnabrück
+   Fortuna Köln          1-1   Vfl Osnabrück 
    Sportfreunde Lotte    0-2   MSV Duisburg
    VfR Aalen             0-0   1. FSV Mainz 05 II
    FSV Frankfurt         0-1   1. FC Magdeburg
@@ -253,11 +253,11 @@ SSV Jahn Regensburg      0:2   VfR Aalen
    1. FC Magdeburg       3-0   VfR Aalen
    1. FSV Mainz 05 II    0-2   Sportfreunde Lotte
    MSV Duisburg          2-0   Fortuna Köln
-   VfL Osnabrück         1-0   FSV Zwickau
+   Vfl Osnabrück          1-0   FSV Zwickau
 
 19. Spieltag
 [Sa 17.12.]
-   SC Paderborn 07       3-1   VfL Osnabrück
+   SC Paderborn 07       3-1   Vfl Osnabrück 
    FSV Zwickau           1-1   MSV Duisburg
    Fortuna Köln          1-0   1. FSV Mainz 05 II
    Sportfreunde Lotte    1-3   1. FC Magdeburg

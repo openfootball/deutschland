@@ -79,7 +79,7 @@
    Wehen Wiesbaden        2-1   VfL Osnabrück
 
 
-Nachtrag  24. Spieltag
+## Nachtrag  24. Spieltag   -- fix double entry match
 [Mi 8.3.]
    Sportfreunde Lotte     3-0   Chemnitzer FC
 
@@ -122,7 +122,7 @@ Nachtrag  24. Spieltag
    FSV Zwickau            2-2   Hansa Rostock
    SC Paderborn 07        0-2   SSV Jahn Regensburg
 
-Nachtrag 27. Spieltag
+## Nachtrag 27. Spieltag   -- fix double entry match ??
 [Mi 22.3.]
    Großaspach             2-0    Sportfreunde Lotte
 
@@ -139,7 +139,7 @@ Nachtrag 27. Spieltag
    Chemnitzer FC          2-3    MSV Duisburg
    SSV Jahn Regensburg    1-2    VfL Osnabrück
 
-Nachtrag 22. Spieltag
+## Nachtrag 22. Spieltag   -- fix double entry match??
 [Di 28.3.]
    Sportfreunde Lotte     0-0    Holstein Kiel
 
@@ -196,7 +196,7 @@ Nachtrag 22. Spieltag
    Hallescher FC          1-1    MSV Duisburg
    FSV Frankfurt          1-1    VfL Osnabrück
 
-Nachtrag 29. Spieltag
+## Nachtrag 29. Spieltag   -- fix double entry match???
 [Mi 19.4.]
    Wehen Wiesbaden        2-0    Werder Bremen II
 

@@ -1,4 +1,3 @@
-#####################################
 = Deutsche 2. Bundesliga 2017/18
 
 Spieltag 1
@@ -275,4 +274,5 @@ Spieltag 18
 [Mo 18.12.]
    FC St. Pauli            2-1  VfL Bochum
 
-#Winterpause bis 23.1.18
+
+# Winterpause bis 23.1.18

@@ -1,4 +1,3 @@
-#####################################
 = Deutsche 3. Liga 2017/18
 
 
@@ -298,5 +297,6 @@
     FC Carl Zeiss Jena        4-3  SV Wehen Wiesbaden
     Würzburger Kickers        2-0  SV Meppen
     1. FC Magdeburg           3-0  SG Sonnenhof Großaspach
-    
-Winterpause bis 20.1.18
+  
+  
+# Winterpause bis 20.1.18

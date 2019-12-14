@@ -73,7 +73,7 @@ Spieltag 23
    Dynamo Dresden           1-0  Jahn Regensburg
    Eintracht Braunschweig   1-0  1. FC Union Berlin
    
- ##Nachtrag Spieltag 19
+ ## Nachtrag Spieltag 19  -- todo/fix check double entry match??
  [Mi 21.2.]
     SV Darmstadt 98         1-2  1. FC Kaiserslautern
  
@@ -207,11 +207,11 @@ Spieltag 32
 [Mo 30.4.]
    1. FC Nürnberg           2-0  Eintracht Braunschweig
 
-## 1. Absteiger in 3. Liga 2018/19:
-   1. FC Kaiserslautern
-   
-## 1. Aufsteiger in 1. Bundesliga 2018/19:
-   Fortuna Düsseldorf
+# 1. Absteiger in 3. Liga 2018/19:
+#   1. FC Kaiserslautern
+#   
+# 1. Aufsteiger in 1. Bundesliga 2018/19:
+#   Fortuna Düsseldorf
    
 Spieltag 33
 [So 6.5.]
@@ -225,8 +225,8 @@ Spieltag 33
    SpVgg Greuther Fürth      2-2  MSV Duisburg
    Fortuna Düsseldorf        1-1  Holstein Kiel
 
-## 2. Aufsteiger in 1. Bundesliga 2018/19:
-   1. FC Nürnberg
+# 2. Aufsteiger in 1. Bundesliga 2018/19:
+#   1. FC Nürnberg
    
 Spieltag 34
 [So 13.5.]
@@ -240,27 +240,27 @@ Spieltag 34
    SV Darmstadt 98           1-0  Erzgebirge Aue
    VfL Bochum                1-1  Jahn Regensburg
    
-## Absteiger 1. Bundesliga 2017/18:
-   1.  FC Köln
-   Hamburger SV
-
-## 2. Absteiger 2. Bundesliga 2017/18:
-   Eintracht Braunschweig
+# Absteiger 1. Bundesliga 2017/18:
+#   1.  FC Köln
+#   Hamburger SV
+#
+# 2. Absteiger 2. Bundesliga 2017/18:
+#   Eintracht Braunschweig
    
-## Relegationsspiele für einen 1. Bundesligaplatz 2018/19:
-[Do 17.5.]
-Vfl Wolfsburg                3-1 Holstein Kiel
-[Mo 21.5.]
-Holstein Kiel                0-1 Vfl Wolfsburg
+# Relegationsspiele für einen 1. Bundesligaplatz 2018/19:
+# [Do 17.5.]
+# Vfl Wolfsburg                3-1 Holstein Kiel
+# [Mo 21.5.]
+# Holstein Kiel                0-1 Vfl Wolfsburg
+#
+# Vfl Wolfsburg in 1. Bundesliga 2018/19
+#
+# Relegationsspiele für einen 2. Bundesligaplatz 2018/19:
+# [Fr 18.5.]
+# Karlsruher SC               0-0 Erzgebirge Aue
+# [Di 22.5.]
+# Erzgebirge Aue              3-1 Karlsruher SC 
+#
+# Erzgebirge Aue in 2. Bundsliga 2018/19
 
-Vfl Wolfsburg in 1. Bundesliga 2018/19
-
-## Relegationsspiele für einen 2. Bundesligaplatz 2018/19:
-[Fr 18.5.]
-Karlsruher SC               0-0 Erzgebirge Aue
-[Di 22.5.]
-Erzgebirge Aue              3-1 Karlsruher SC 
-
-Erzgebirge Aue in 2. Bundsliga 2018/19
-
-## Sommerpause bis 07.08.18
+# Sommerpause bis 07.08.18

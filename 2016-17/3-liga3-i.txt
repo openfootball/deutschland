@@ -12,7 +12,7 @@
    1. FSV Mainz 05 II    2:2 (0:1)  FSV Zwickau
  SSV Jahn Regensburg     2:0 (0:0)  Hansa Rostock
 [So 31.7.]
- Preußen Münster         0:1 (0:1)  Vfl Osnabrück
+ Preußen Münster         0:1 (0:1)  VfL Osnabrück
  Werder Bremen II        0:3 (0:1)  Sportfreunde Lotte
  1. FC Magdeburg         0:3 (0:1)  Fortuna Köln
 
@@ -29,7 +29,7 @@
    Hallescher FC         1:1 (1:0)   Chemnitzer FC
 [So 7.8.]
   Großaspach             3:4 (2:1)   SSV Jahn Regensburg
-   Vfl Osnabrück         1:1 (0:0)   MSV Duisburg
+   VfL Osnabrück         1:1 (0:0)   MSV Duisburg
 [Do 1.9.]
   FSV Zwickau            0:0         1. FC Magdeburg
 
@@ -44,7 +44,7 @@
   Werder Bremen II      1:3 (1:1)   FSV Zwickau
   Preußen Münster       1:1 (0:1)   MSV Duisburg
    Chemnitzer FC        2:1 (1:1)   FSV Frankfurt
- 1. FSV Mainz 05 II     2:2 (1:0)   Vfl Osnabrück
+ 1. FSV Mainz 05 II     2:2 (1:0)   VfL Osnabrück
    Hansa Rostock        0:0 (0:0)   Großaspach
  SSV Jahn Regensburg    2:0 (1:0)   Hallescher FC
 
@@ -59,14 +59,14 @@
    Hallescher FC        0:0 (0:0)   Hansa Rostock
    Großaspach           2:0 (1:0)   Preußen Münster
    MSV Duisburg         4:0 (1:0)   1. FSV Mainz 05 II
-   Vfl Osnabrück        3:2 (0:0)   1. FC Magdeburg
+   VfL Osnabrück        3:2 (0:0)   1. FC Magdeburg
 [So 14.8.]
   VfR Aalen             2:2 (0:1)   Chemnitzer FC
 
 5. Spieltag
 [Fr 26.8.]
 1. FC Magdeburg          1:2   MSV Duisburg
-Werder Bremen II         4:2   Vfl Osnabrück
+Werder Bremen II         4:2   VfL Osnabrück
 [Sa 27.8.]
 Preußen Münster          1:0   1. FSV Mainz 05 II
 Chemnitzer FC            0:1   Sportfreunde Lotte

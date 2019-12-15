@@ -355,8 +355,10 @@
         Werder Bremen x17 => Werder Bremen
         Hertha BSC x16 => Hertha BSC
         SC Paderborn 07 x16 => SC Paderborn 07
-        !! Hertha BSC SC
+     !! Hertha BSC SC
         Paderborn 07 => SC Paderborn 07
+!! ERROR: 1 duplicate club record(s) found
+
       17 rounds:
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
@@ -1182,6 +1184,8 @@
         VfR Aalen x18 => VfR Aalen
         Werder Bremen II x18 => Werder Bremen II
         Vfl Osnabrück x2 => VfL Osnabrück
+!! ERROR: 1 duplicate club record(s) found
+
       18 rounds:
         21. Spieltag, 10 matches
         22. Spieltag, 11 matches

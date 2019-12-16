@@ -336,7 +336,7 @@
 [14/39] >2014-15/1-bundesliga-ii.txt<
   1 section(s):
     187 lines - league: >Bundesliga< (de.1), season: >2014/15<
-      20 clubs:
+      18 clubs:
         1. FC Köln x17 => 1. FC Köln
         1. FSV Mainz 05 x17 => 1. FSV Mainz 05
         1899 Hoffenheim x17 => TSG 1899 Hoffenheim
@@ -349,16 +349,12 @@
         FC Schalke 04 x17 => FC Schalke 04
         Hamburger SV x17 => Hamburger SV
         Hannover 96 x17 => Hannover 96
+        Hertha BSC x17 => Hertha BSC
         SC Freiburg x17 => SC Freiburg
+        SC Paderborn 07 x17 => SC Paderborn 07
         VfB Stuttgart x17 => VfB Stuttgart
         VfL Wolfsburg x17 => VfL Wolfsburg
         Werder Bremen x17 => Werder Bremen
-        Hertha BSC x16 => Hertha BSC
-        SC Paderborn 07 x16 => SC Paderborn 07
-     !! Hertha BSC SC
-        Paderborn 07 => SC Paderborn 07
-!! ERROR: 1 duplicate club record(s) found
-
       17 rounds:
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
@@ -1162,11 +1158,12 @@
 [34/39] >2017-18/3-liga3-ii.txt<
   1 section(s):
     265 lines - league: >3. Liga< (de.3), season: >2017/18<
-      21 clubs:
+      20 clubs:
         FC Carl Zeiss Jena x21 => FC Carl Zeiss Jena
         1. FC Magdeburg x20 => 1. FC Magdeburg
         Rot-Weiß Erfurt x20 => FC Rot-Weiß Erfurt
         SV Meppen x20 => SV Meppen
+        VfL Osnabrück x20 => VfL Osnabrück
         Chemnitzer FC x19 => Chemnitzer FC
         FSV Zwickau x19 => FSV Zwickau
         Hansa Rostock x19 => Hansa Rostock
@@ -1180,12 +1177,8 @@
         Hallescher FC x18 => Hallescher FC
         SpVgg Unterhaching x18 => SpVgg Unterhaching
         Sportfreunde Lotte x18 => SF Lotte
-        VfL Osnabrück x18 => VfL Osnabrück
         VfR Aalen x18 => VfR Aalen
         Werder Bremen II x18 => Werder Bremen II
-        Vfl Osnabrück x2 => VfL Osnabrück
-!! ERROR: 1 duplicate club record(s) found
-
       18 rounds:
         21. Spieltag, 10 matches
         22. Spieltag, 11 matches

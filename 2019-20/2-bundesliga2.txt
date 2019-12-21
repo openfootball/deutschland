@@ -273,8 +273,8 @@ Spieltag 17
 
 Spieltag 18
 [Fr. 20.12.]
-  Karlsruher SC           - SV Wehen Wiesbaden
-  1. FC Nürnberg          - Dynamo Dresden
+  Karlsruher SC           0-1 SV Wehen Wiesbaden
+  1. FC Nürnberg          2-0 Dynamo Dresden
 [Sa. 21.12.]
   FC St. Pauli            - Arminia Bielefeld
   Hannover 96             - VfB Stuttgart
@@ -286,7 +286,7 @@ Spieltag 18
   1. FC Heidenheim        - VfL Osnabrück
 
 
-# Winterpause incl. 28.1.20.]
+# Winterpause incl. 27.1.20.]
 
 
 Spieltag 19

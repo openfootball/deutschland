@@ -246,11 +246,11 @@ Spieltag 17
 [Fr. 20.12.]
   TSG Hoffenheim          2-1 Borussia Dortmund
 [Sa. 21.12.]
-  Bayern München          - VfL Wolfsburg
-  RB Leipzig              - FC Augsburg
-  1. FSV Mainz 05         - Bayer 04 Leverkusen
-  FC Schalke 04           - SC Freiburg
-  1. FC Köln              - Werder Bremen
+  Bayern München          2-0 VfL Wolfsburg
+  RB Leipzig              3-1 FC Augsburg
+  1. FSV Mainz 05         0-1 Bayer 04 Leverkusen
+  FC Schalke 04           2-2 SC Freiburg
+  1. FC Köln              1-0 Werder Bremen
   Hertha BSC              - Bor. Mönchengladbach
 [So. 22.12.]
   Fortuna Düsseldorf      - 1. FC Union Berlin

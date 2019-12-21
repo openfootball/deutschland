@@ -328,7 +328,7 @@ Spieltag 19
 
 Spieltag 20
 [Fr. 20.12.]
-  FC Viktoria Köln        - Hansa Rostock
+  FC Viktoria Köln        1-5 Hansa Rostock
 [Sa 21.12.]
   FSV Zwickau             - SV Meppen
   Waldhof Mannheim        - Chemnitzer FC
@@ -342,7 +342,7 @@ Spieltag 20
   Hallescher FC           - KFC Uerdingen 05
   
   
- # Winterpause incl. 24.1.20.
+ # Winterpause incl. 23.1.20.
   
   
 Spieltag 21

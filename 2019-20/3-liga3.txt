@@ -330,12 +330,12 @@ Spieltag 20
 [Fr. 20.12.]
   FC Viktoria Köln        1-5 Hansa Rostock
 [Sa 21.12.]
-  FSV Zwickau             - SV Meppen
-  Waldhof Mannheim        - Chemnitzer FC
-  SpVgg Unterhaching      - 1. FC Kaiserslautern
-  Eintracht Braunschweig  - 1. FC Magdeburg
-  Preußen Münster         - 1860 München
-  SG Sonnenhof Großaspach - MSV Duisburg
+  FSV Zwickau             2-2 SV Meppen
+  Waldhof Mannheim        4-3 Chemnitzer FC
+  SpVgg Unterhaching      1-1 1. FC Kaiserslautern
+  Eintracht Braunschweig  2-2 1. FC Magdeburg
+  Preußen Münster         0-1 1860 München
+  SG Sonnenhof Großaspach 1-1 MSV Duisburg
 [So. 22.12.]
   FC Ingolstadt 04        - Carl Zeiss Jena
   Bayern München II       - Würzburger Kickers

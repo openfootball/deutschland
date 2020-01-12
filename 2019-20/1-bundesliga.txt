@@ -276,68 +276,76 @@ Spieltag 18
 
 Spieltag 19
 [Fr. 24.1.]
-
+  Borussia Dortmund       - 1. FC Köln
 [Sa. 25.1.]
-  Werder Bremen           - TSG Hoffenheim
   SC Freiburg             - SC Paderborn 07
-  Bayer 04 Leverkusen     - Fortuna Düsseldorf
   Bayern München          - FC Schalke 04
   Bor. Mönchengladbach    - 1. FSV Mainz 05
-  Borussia Dortmund       - 1. FC Köln
   VfL Wolfsburg           - Hertha BSC
   Eintracht Frankfurt     - RB Leipzig
   1. FC Union Berlin      - FC Augsburg
-
+[So. 26.1.]
+  Werder Bremen           - TSG Hoffenheim
+  Bayer 04 Leverkusen     - Fortuna Düsseldorf
 
 Spieltag 20
+[Fr. 31.1.]
+  Hertha BSC              - FC Schalke 04
 [Sa. 1.2.]
   Fortuna Düsseldorf      - Eintracht Frankfurt
-  1. FC Köln              - SC Freiburg
   Borussia Dortmund       - 1. FC Union Berlin
-  Hertha BSC              - FC Schalke 04
   1. FSV Mainz 05         - Bayern München
   FC Augsburg             - Werder Bremen
-  SC Paderborn 07         - VfL Wolfsburg
   TSG Hoffenheim          - Bayer 04 Leverkusen
   RB Leipzig              - Bor. Mönchengladbach
+[So. 2.2.]
+  1. FC Köln              - SC Freiburg
+  SC Paderborn 07         - VfL Wolfsburg
 
 
 Spieltag 21
+[Fr. 7.2.]
+  Eintracht Frankfurt     - FC Augsburg
 [Sa. 8.2.]
   FC Schalke 04           - SC Paderborn 07
   Werder Bremen           - 1. FC Union Berlin
   SC Freiburg             - TSG Hoffenheim
   Bayer 04 Leverkusen     - Borussia Dortmund
-  Bayern München          - RB Leipzig
-  Bor. Mönchengladbach    - 1. FC Köln
   VfL Wolfsburg           - Fortuna Düsseldorf
   Hertha BSC              - 1. FSV Mainz 05
-  Eintracht Frankfurt     - FC Augsburg
+ [So. 9.2.]
+  Bayern München          - RB Leipzig
+  Bor. Mönchengladbach    - 1. FC Köln
 
 
 Spieltag 22
+[Fr. 14.2.]
+  Borussia Dortmund       - Eintracht Frankfurt
 [Sa. 15.2.]
   Fortuna Düsseldorf      - Bor. Mönchengladbach
-  1. FC Köln              - Bayern München
-  Borussia Dortmund       - Eintracht Frankfurt
-  1. FSV Mainz 05         - FC Schalke 04
   1. FC Union Berlin      - Bayer 04 Leverkusen
   FC Augsburg             - SC Freiburg
   SC Paderborn 07         - Hertha BSC
   TSG Hoffenheim          - VfL Wolfsburg
   RB Leipzig              - Werder Bremen
+[So. 16.2.]
+  1. FC Köln              - Bayern München
+  1. FSV Mainz 05         - FC Schalke 04
 
 
 Spieltag 23
+[Fr. 21.2.]
+  Bayern München          - SC Paderborn 07
 [Sa. 22.2.]
   FC Schalke 04           - RB Leipzig
   Werder Bremen           - Borussia Dortmund
   SC Freiburg             - Fortuna Düsseldorf
-  Bayer 04 Leverkusen     - FC Augsburg
-  Bayern München          - SC Paderborn 07
   Bor. Mönchengladbach    - TSG Hoffenheim
-  VfL Wolfsburg           - 1. FSV Mainz 05
   Hertha BSC              - 1. FC Köln
+[So. 23.2.]
+  VfL Wolfsburg           - 1. FSV Mainz 05
+  Bayer 04 Leverkusen     - FC Augsburg
+[Mo. 24.2.]
   Eintracht Frankfurt     - 1. FC Union Berlin
 
 

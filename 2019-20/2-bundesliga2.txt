@@ -338,17 +338,18 @@ Spieltag 21
 
 Spieltag 22
 [Fr. 14.2.]
-
+  1. FC Heidenheim        - 1. FC Nürnberg
+  FC St. Pauli            - Dynamo Dresden
+[Sa. 15,2,]
+  Jahn Regensburg         - SV Wehen Wiesbaden
+  Hannover 96             - Hamburger SV
+  SpVgg Greuther Fürth    - Arminia Bielefeld
 [So. 16.2.]
   Karlsruher SC           - VfL Osnabrück
-  VfL Bochum              - VfB Stuttgart
-  FC St. Pauli            - Dynamo Dresden
-  Hannover 96             - Hamburger SV
   Erzgebirge Aue          - Holstein Kiel
-  SpVgg Greuther Fürth    - Arminia Bielefeld
   SV Darmstadt 98         - SV Sandhausen
-  Jahn Regensburg         - SV Wehen Wiesbaden
-  1. FC Heidenheim        - 1. FC Nürnberg
+[Mo. 17.2.]
+  VfL Bochum              - VfB Stuttgart 
 
 
 Spieltag 23
@@ -418,15 +419,15 @@ Spieltag 27
   Karlsruher SC           - VfL Bochum
   SV Sandhausen           - Jahn Regensburg
 [Sa. 21.3.]
- Holstein Kiel           - VfB Stuttgart
+  Holstein Kiel           - VfB Stuttgart
   Hamburger SV            - Arminia Bielefeld
   VfL Osnabrück           - Hannover 96
-[Mo. 23.3.]
-  SV Darmstadt 98         - FC St. Pauli
 [So. 22.3.]
   Dynamo Dresden          - SpVgg Greuther Fürth
   1. FC Nürnberg          - Erzgebirge Aue
   1. FC Heidenheim        - SV Wehen Wiesbaden
+[Mo. 23.3.]
+  SV Darmstadt 98         - FC St. Pauli
 
 
 Spieltag 28
@@ -437,13 +438,13 @@ Spieltag 28
   SV Wehen Wiesbaden      - SV Sandhausen
   FC St. Pauli            - 1. FC Heidenheim
   Hannover 96             - Karlsruher SC
-[Mo. 6.4.]
-  VfB Stuttgart           - Hamburger SV
 [So. 5.4.]
   VfL Bochum              - Holstein Kiel
   Erzgebirge Aue          - SV Darmstadt 98
   SpVgg Greuther Fürth    - VfL Osnabrück
-  
+[Mo. 6.4.]
+  VfB Stuttgart           - Hamburger SV 
+
 
 Spieltag 29
 [So. 12.4.]

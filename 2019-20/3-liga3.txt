@@ -397,85 +397,100 @@ Spieltag 23
 
 
 Spieltag 24
-[Sa 15.2.]
-  FSV Zwickau             - MSV Duisburg
-  Waldhof Mannheim        - Carl Zeiss Jena
+[Fr. 14.2.]
+  Preußen Münster         - Würzburger Kickers
+[Sa. 15.2.]
   SV Meppen               - 1860 München
   SpVgg Unterhaching      - FC Viktoria Köln
   Eintracht Braunschweig  - 1. FC Kaiserslautern
-  Bayern München II       - Hallescher FC
-  Preußen Münster         - Würzburger Kickers
   1. FC Magdeburg         - Chemnitzer FC
   SG Sonnenhof Großaspach - Hansa Rostock
   FC Ingolstadt 04        - KFC Uerdingen 05
+[So. 16.2.]
+  FSV Zwickau             - MSV Duisburg
+  Waldhof Mannheim        - Carl Zeiss Jena
+[Mo. 17.2.]
+  Bayern München II       - Hallescher FC
 
 
 Spieltag 25
-[Sa 22.2.]
+[Fr. 21.2.]
+  FC Viktoria Köln        - SG Sonnenhof Großaspach
+[Sa. 22.2.]
   MSV Duisburg            - Waldhof Mannheim
   Hansa Rostock           - FC Ingolstadt 04
-  1860 München            - 1. FC Magdeburg
   KFC Uerdingen 05        - Preußen Münster
   Carl Zeiss Jena         - SV Meppen
   1. FC Kaiserslautern    - FSV Zwickau
-  Chemnitzer FC           - Bayern München II
-  Hallescher FC           - SpVgg Unterhaching
   Würzburger Kickers      - Eintracht Braunschweig
-  FC Viktoria Köln        - SG Sonnenhof Großaspach
+(So. 23.2.]
+  Hallescher FC           - SpVgg Unterhaching
+  1860 München            - 1. FC Magdeburg
+[Mo. 24.2.]
+  Chemnitzer FC           - Bayern München II
 
 
 Spieltag 26
-[Sa 29.2.]
+[Fr. 28.2.]
+  SpVgg Unterhaching      - Bayern München II
+[Sa. 29.2.]
   1860 München            - Chemnitzer FC
   FSV Zwickau             - Würzburger Kickers
   Waldhof Mannheim        - 1. FC Kaiserslautern
-  SV Meppen               - MSV Duisburg
-  SpVgg Unterhaching      - Bayern München II
   Eintracht Braunschweig  - KFC Uerdingen 05
-  Preußen Münster         - Hansa Rostock
   1. FC Magdeburg         - Carl Zeiss Jena
   SG Sonnenhof Großaspach - Hallescher FC
+[So. 1.3.]
   FC Ingolstadt 04        - FC Viktoria Köln
+  SV Meppen               - MSV Duisburg
+[Mo. 2.3.]
+  Preußen Münster         - Hansa Rostock
 
 
 Spieltag 27
-[Sa 7.3.]
+[Fr. 6.3.]
   MSV Duisburg            - 1. FC Magdeburg
-  Hansa Rostock           - Eintracht Braunschweig
-  KFC Uerdingen 05        - FSV Zwickau
+[Sa. 7.3.]
   Carl Zeiss Jena         - 1860 München
   1. FC Kaiserslautern    - SV Meppen
   Chemnitzer FC           - SpVgg Unterhaching
   Bayern München II       - SG Sonnenhof Großaspach
-  Hallescher FC           - FC Ingolstadt 04
   Würzburger Kickers      - Waldhof Mannheim
   FC Viktoria Köln        - Preußen Münster
+[So. 8.3.]
+  KFC Uerdingen 05        - FSV Zwickau
+  Hallescher FC           - FC Ingolstadt 04
+[Mo. 9.3.]
+  Hansa Rostock           - Eintracht Braunschweig
 
 
 Spieltag 28
-[Sa 14.3.]
-  1860 München            - MSV Duisburg
-  FSV Zwickau             - Hansa Rostock
+[Fr. 13.3.]
   Waldhof Mannheim        - KFC Uerdingen 05
+[Sa. 14.3.]
+  1860 München            - MSV Duisburg
   SV Meppen               - Würzburger Kickers
-  Carl Zeiss Jena         - Chemnitzer FC
   Eintracht Braunschweig  - FC Viktoria Köln
   Preußen Münster         - Hallescher FC
   1. FC Magdeburg         - 1. FC Kaiserslautern
   SG Sonnenhof Großaspach - SpVgg Unterhaching
   FC Ingolstadt 04        - Bayern München II
-
-
+[So. 15.3.]
+  FSV Zwickau             - Hansa Rostock
+  Carl Zeiss Jena         - Chemnitzer FC
+  
+  
 Spieltag 29
-[Mi 18.3.]
-  MSV Duisburg            - Carl Zeiss Jena
-  Hansa Rostock           - Waldhof Mannheim
+[Di. 17.3.]
   KFC Uerdingen 05        - SV Meppen
   1. FC Kaiserslautern    - 1860 München
   SpVgg Unterhaching      - FC Ingolstadt 04
-  Chemnitzer FC           - SG Sonnenhof Großaspach
   Bayern München II       - Preußen Münster
   Hallescher FC           - Eintracht Braunschweig
+[Mi 18.3.]
+  MSV Duisburg            - Carl Zeiss Jena
+  Hansa Rostock           - Waldhof Mannheim
+  Chemnitzer FC           - SG Sonnenhof Großaspach
   Würzburger Kickers      - 1. FC Magdeburg
   FC Viktoria Köln        - FSV Zwickau
 

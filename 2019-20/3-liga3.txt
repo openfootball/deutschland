@@ -496,46 +496,55 @@ Spieltag 29
 
 
 Spieltag 30
-[Sa 21.3.]
+[Fr. 20.3.]
+  Eintracht Braunschweig  - Bayern München II
+[Sa. 21.3.]
   MSV Duisburg            - Chemnitzer FC
   1860 München            - Würzburger Kickers
-  FSV Zwickau             - Hallescher FC
   Waldhof Mannheim        - FC Viktoria Köln
-  SV Meppen               - Hansa Rostock
   Carl Zeiss Jena         - 1. FC Kaiserslautern
-  Eintracht Braunschweig  - Bayern München II
   Preußen Münster         - SpVgg Unterhaching
-  1. FC Magdeburg         - KFC Uerdingen 05
   FC Ingolstadt 04        - SG Sonnenhof Großaspach
+[So. 22.3.]
+  SV Meppen               - Hansa Rostock
+  FSV Zwickau             - Hallescher FC
+[Mo. 23.3.]
+  1. FC Magdeburg         - KFC Uerdingen 05
 
 
 Spieltag 31
-[Sa 28.3.]
+[Fr. 27.3.]
+  Würzburger Kickers      - Carl Zeiss Jena
+[Sa. 28.3.]
   Hansa Rostock           - 1. FC Magdeburg
   KFC Uerdingen 05        - 1860 München
   1. FC Kaiserslautern    - MSV Duisburg
   SpVgg Unterhaching      - Eintracht Braunschweig
   Chemnitzer FC           - FC Ingolstadt 04
-  Bayern München II       - FSV Zwickau
   Hallescher FC           - Waldhof Mannheim
+[So. 29.3.]
   SG Sonnenhof Großaspach - Preußen Münster
-  Würzburger Kickers      - Carl Zeiss Jena
+  Bayern München II       - FSV Zwickau
+[Mo. 30.3.]
   FC Viktoria Köln        - SV Meppen
 
 
 Spieltag 32
-[Sa 4.4.]
-  MSV Duisburg            - Würzburger Kickers
+[Fr. 3.4.]
+  Waldhof Mannheim        - Bayern München II
+[Sa. 4.4.]
   1860 München            - Hansa Rostock
   FSV Zwickau             - SpVgg Unterhaching
-  Waldhof Mannheim        - Bayern München II
   SV Meppen               - Hallescher FC
   Carl Zeiss Jena         - KFC Uerdingen 05
   1. FC Kaiserslautern    - Chemnitzer FC
   Eintracht Braunschweig  - SG Sonnenhof Großaspach
+[So. 5.4.]
   Preußen Münster         - FC Ingolstadt 04
   1. FC Magdeburg         - FC Viktoria Köln
-
+[Mo. 6.4.]
+  MSV Duisburg            - Würzburger Kickers
+  
 
 Spieltag 33
 [Sa 11.4.]

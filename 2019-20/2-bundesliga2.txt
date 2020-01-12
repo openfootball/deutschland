@@ -337,6 +337,8 @@ Spieltag 21
  
 
 Spieltag 22
+[Fr. 14.2.]
+
 [So. 16.2.]
   Karlsruher SC           - VfL Osnabrück
   VfL Bochum              - VfB Stuttgart
@@ -350,82 +352,98 @@ Spieltag 22
 
 
 Spieltag 23
-[So. 23.2.]
-  Arminia Bielefeld       - Hannover 96
+[Fr. 21.2.]
+  VfL Osnabrück           - Erzgebirge Aue
+  SV Wehen Wiesbaden      - SpVgg Greuther Fürth
+[Sa. 22.2.]
   VfB Stuttgart           - Jahn Regensburg
   Hamburger SV            - FC St. Pauli
-  VfL Osnabrück           - Erzgebirge Aue
   Dynamo Dresden          - VfL Bochum
-  1. FC Nürnberg          - SV Darmstadt 98
-  SV Wehen Wiesbaden      - SpVgg Greuther Fürth
   Holstein Kiel           - 1. FC Heidenheim
+[So. 23.2.]
+  Arminia Bielefeld       - Hannover 96
+  1. FC Nürnberg          - SV Darmstadt 98
   SV Sandhausen           - Karlsruher SC
 
 
 Spieltag 24
-[So. 1.3.]
+[Fr. 28.2.]
+  Jahn Regensburg         - Dynamo Dresden
   Karlsruher SC           - 1. FC Nürnberg
-  VfL Bochum              - SV Sandhausen
-  Arminia Bielefeld       - SV Wehen Wiesbaden
-  FC St. Pauli            - VfL Osnabrück
-  Hannover 96             - Holstein Kiel
+[Sa. 29.2.]
   Erzgebirge Aue          - Hamburger SV
   SpVgg Greuther Fürth    - VfB Stuttgart
   SV Darmstadt 98         - 1. FC Heidenheim
-  Jahn Regensburg         - Dynamo Dresden
+[So. 1.3.]
+  VfL Bochum              - SV Sandhausen
+  Arminia Bielefeld       - SV Wehen Wiesbaden
+  FC St. Pauli            - VfL Osnabrück
+[Mo. 2.3.]  
+  Hannover 96             - Holstein Kiel
 
 
 Spieltag 25
-[So. 8.3.]
-  VfB Stuttgart           - Arminia Bielefeld
-  Hamburger SV            - Jahn Regensburg
+[Fr. 6.3.]
   VfL Osnabrück           - SV Wehen Wiesbaden
-  Dynamo Dresden          - Erzgebirge Aue
   1. FC Nürnberg          - Hannover 96
+[Sa. 7.3.]
+  Hamburger SV            - Jahn Regensburg
+  1. FC Heidenheim        - Karlsruher SC
+  Dynamo Dresden          - Erzgebirge Aue
+[So. 8.3.]
   SV Darmstadt 98         - VfL Bochum
   Holstein Kiel           - SpVgg Greuther Fürth
   SV Sandhausen           - FC St. Pauli
-  1. FC Heidenheim        - Karlsruher SC
+[Mo. 9.3.]
+  VfB Stuttgart           - Arminia Bielefeld
 
 
 Spieltag 26
-[So. 15.3.]
+[Fr. 13.3.]
+  Arminia Bielefeld       - VfL Osnabrück
+  SpVgg Greuther Fürth    - Hamburger SV
+[Sa. 14.3.]
+  Erzgebirge Aue          - SV Sandhausen
   Karlsruher SC           - SV Darmstadt 98
   VfL Bochum              - 1. FC Heidenheim
-  Arminia Bielefeld       - VfL Osnabrück
+  Jahn Regensburg         - Holstein Kiel
+[So. 15.3.]
   FC St. Pauli            - 1. FC Nürnberg
   Hannover 96             - Dynamo Dresden
-  Erzgebirge Aue          - SV Sandhausen
-  SpVgg Greuther Fürth    - Hamburger SV
   SV Wehen Wiesbaden      - VfB Stuttgart
-  Jahn Regensburg         - Holstein Kiel
-
+  
 
 Spieltag 27
-[So. 22.3.]
+[Fr. 20.3.]
   Karlsruher SC           - VfL Bochum
+  SV Sandhausen           - Jahn Regensburg
+[Sa. 21.3.]
+ Holstein Kiel           - VfB Stuttgart
   Hamburger SV            - Arminia Bielefeld
   VfL Osnabrück           - Hannover 96
+[Mo. 23.3.]
+  SV Darmstadt 98         - FC St. Pauli
+[So. 22.3.]
   Dynamo Dresden          - SpVgg Greuther Fürth
   1. FC Nürnberg          - Erzgebirge Aue
-  SV Darmstadt 98         - FC St. Pauli
-  Holstein Kiel           - VfB Stuttgart
-  SV Sandhausen           - Jahn Regensburg
   1. FC Heidenheim        - SV Wehen Wiesbaden
 
 
 Spieltag 28
-[So. 5.4.]
-  VfL Bochum              - Holstein Kiel
+[Fr. 3.4.]
   Arminia Bielefeld       - Dynamo Dresden
-  VfB Stuttgart           - Hamburger SV
+  Jahn Regensburg         - 1. FC Nürnberg
+[Sa. 4.4.]
+  SV Wehen Wiesbaden      - SV Sandhausen
   FC St. Pauli            - 1. FC Heidenheim
   Hannover 96             - Karlsruher SC
+[Mo. 6.4.]
+  VfB Stuttgart           - Hamburger SV
+[So. 5.4.]
+  VfL Bochum              - Holstein Kiel
   Erzgebirge Aue          - SV Darmstadt 98
   SpVgg Greuther Fürth    - VfL Osnabrück
-  SV Wehen Wiesbaden      - SV Sandhausen
-  Jahn Regensburg         - 1. FC Nürnberg
-
+  
 
 Spieltag 29
 [So. 12.4.]

@@ -274,6 +274,7 @@ Spieltag 18
   Hertha BSC              0-4 Bayern München
   SC Paderborn 07         1-4 Bayer 04 Leverkusen
 
+
 Spieltag 19
 [Fr. 24.1.]
   Borussia Dortmund       - 1. FC Köln
@@ -287,6 +288,7 @@ Spieltag 19
 [So. 26.1.]
   Werder Bremen           - TSG Hoffenheim
   Bayer 04 Leverkusen     - Fortuna Düsseldorf
+
 
 Spieltag 20
 [Fr. 31.1.]

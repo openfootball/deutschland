@@ -349,12 +349,12 @@ Spieltag 21
 [Fr. 24.1.]
   Hansa Rostock           1-0 Hallescher FC
 [Sa. 25.1.]
-  MSV Duisburg            - FC Ingolstadt 04
-  SV Meppen               - Waldhof Mannheim
-  Carl Zeiss Jena         - Preußen Münster
-  Chemnitzer FC           - FC Viktoria Köln
-  1. FC Magdeburg         - FSV Zwickau
-  Würzburger Kickers      - SpVgg Unterhaching
+  MSV Duisburg            1-1 FC Ingolstadt 04
+  SV Meppen               0-1 Waldhof Mannheim
+  Carl Zeiss Jena         1-2 Preußen Münster
+  Chemnitzer FC           2-2 FC Viktoria Köln
+  1. FC Magdeburg         1-2 FSV Zwickau
+  Würzburger Kickers      1-2 SpVgg Unterhaching
 [So. 26.1.]
   1860 München            - Eintracht Braunschweig
   KFC Uerdingen 05        - Bayern München II

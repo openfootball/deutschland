@@ -294,12 +294,12 @@ Spieltag 20
 [Fr. 31.1.]
   Hertha BSC              0-0 FC Schalke 04
 [Sa. 1.2.]
-  Fortuna Düsseldorf      - Eintracht Frankfurt
-  Borussia Dortmund       - 1. FC Union Berlin
-  1. FSV Mainz 05         - Bayern München
-  FC Augsburg             - Werder Bremen
-  TSG Hoffenheim          - Bayer 04 Leverkusen
-  RB Leipzig              - Bor. Mönchengladbach
+  Fortuna Düsseldorf      1-1 Eintracht Frankfurt
+  Borussia Dortmund       5-0 1. FC Union Berlin
+  1. FSV Mainz 05         1-3 Bayern München
+  FC Augsburg             2-1 Werder Bremen
+  TSG Hoffenheim          2-1 Bayer 04 Leverkusen
+  RB Leipzig              2-2 Bor. Mönchengladbach
 [So. 2.2.]
   1. FC Köln              - SC Freiburg
   SC Paderborn 07         - VfL Wolfsburg

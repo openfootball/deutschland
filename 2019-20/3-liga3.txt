@@ -366,12 +366,12 @@ Spieltag 22
 [Fr. 31.1.]
   Hallescher FC           3-4 FC Viktoria Köln
 [Sa. 1.2.]
-  SV Meppen               - Chemnitzer FC
-  SpVgg Unterhaching      - KFC Uerdingen 05
-  Eintracht Braunschweig  - Carl Zeiss Jena
-  Bayern München II       - Hansa Rostock
-  Preußen Münster         - MSV Duisburg
-  FC Ingolstadt 04        - 1. FC Kaiserslautern
+  SV Meppen               1-2 Chemnitzer FC
+  SpVgg Unterhaching      1-0 KFC Uerdingen 05
+  Eintracht Braunschweig  1-1 Carl Zeiss Jena
+  Bayern München II       1-0 Hansa Rostock
+  Preußen Münster         1-4 MSV Duisburg
+  FC Ingolstadt 04        2-1 1. FC Kaiserslautern
 [So. 2.2.]
   FSV Zwickau             - 1860 München
   Waldhof Mannheim        - 1. FC Magdeburg

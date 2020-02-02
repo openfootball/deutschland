@@ -309,9 +309,9 @@ Spieltag 20
   Erzgebirge Aue          0-0 Arminia Bielefeld
   Jahn Regensburg         0-2 SpVgg Greuther Fürth
 [Sa. 1.2.]
-  Karlsruher SC           - Holstein Kiel
-  FC St. Pauli            - VfB Stuttgart
-  Hannover 96             - SV Wehen Wiesbaden
+  Karlsruher SC           0-2 Holstein Kiel
+  FC St. Pauli            1-1 VfB Stuttgart
+  Hannover 96             2-2 SV Wehen Wiesbaden
 [So. 2.2.]
   1. FC Nürnberg          - SV Sandhausen
   SV Darmstadt 98         - VfL Osnabrück

@@ -322,28 +322,28 @@ Spieltag 20
 
 Spieltag 21
 [Fr. 7.2.]
-  Dynamo Dresden          - SV Darmstadt 98
-  SV Sandhausen           - 1. FC Heidenheim
+  Dynamo Dresden          2-3 SV Darmstadt 98
+  SV Sandhausen           0-1 1. FC Heidenheim
 [Sa. 8.2.]
-  VfB Stuttgart           - Erzgebirge Aue
-  Hamburger SV            - Karlsruher SC
-  VfL Osnabrück           - 1. FC Nürnberg
+  VfB Stuttgart           3-0 Erzgebirge Aue
+  Hamburger SV            2-0 Karlsruher SC
+  VfL Osnabrück           0-1 1. FC Nürnberg
 [So. 9.2.]
-  Arminia Bielefeld       - Jahn Regensburg
-  SpVgg Greuther Fürth    - Hannover 96
-  SV Wehen Wiesbaden      - VfL Bochum
+  Arminia Bielefeld       6-0 Jahn Regensburg
+  SpVgg Greuther Fürth    1-3 Hannover 96
+  SV Wehen Wiesbaden      0-1 VfL Bochum
 [Mo. 10.2.]
-  Holstein Kiel           - FC St. Pauli
+  Holstein Kiel           2-1 FC St. Pauli
  
 
 Spieltag 22
 [Fr. 14.2.]
-  1. FC Heidenheim        - 1. FC Nürnberg
-  FC St. Pauli            - Dynamo Dresden
+  1. FC Heidenheim        2-2 1. FC Nürnberg
+  FC St. Pauli            0-0 Dynamo Dresden
 [Sa. 15,2,]
-  Jahn Regensburg         - SV Wehen Wiesbaden
-  Hannover 96             - Hamburger SV
-  SpVgg Greuther Fürth    - Arminia Bielefeld
+  Jahn Regensburg         1-0 SV Wehen Wiesbaden
+  Hannover 96             1-1 Hamburger SV
+  SpVgg Greuther Fürth    2-4 Arminia Bielefeld
 [So. 16.2.]
   Karlsruher SC           - VfL Osnabrück
   Erzgebirge Aue          - Holstein Kiel

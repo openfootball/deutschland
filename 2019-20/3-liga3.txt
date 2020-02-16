@@ -400,12 +400,12 @@ Spieltag 24
 [Fr. 14.2.]
   Preußen Münster         0-0 Würzburger Kickers
 [Sa. 15.2.]
-  SV Meppen               - 1860 München
-  SpVgg Unterhaching      - FC Viktoria Köln
-  Eintracht Braunschweig  - 1. FC Kaiserslautern
-  1. FC Magdeburg         - Chemnitzer FC
-  SG Sonnenhof Großaspach - Hansa Rostock
-  FC Ingolstadt 04        - KFC Uerdingen 05
+  SV Meppen               1-1 1860 München
+  SpVgg Unterhaching      1-1 FC Viktoria Köln
+  Eintracht Braunschweig  2-0 1. FC Kaiserslautern
+  1. FC Magdeburg         1-1 Chemnitzer FC
+  SG Sonnenhof Großaspach 0-1 Hansa Rostock
+  FC Ingolstadt 04        0-1 KFC Uerdingen 05
 [So. 16.2.]
   FSV Zwickau             - MSV Duisburg
   Waldhof Mannheim        - Carl Zeiss Jena

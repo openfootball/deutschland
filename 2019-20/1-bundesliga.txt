@@ -340,11 +340,11 @@ Spieltag 23
 [Fr. 21.2.]
   Bayern München          3-2 SC Paderborn 07
 [Sa. 22.2.]
-  FC Schalke 04           - RB Leipzig
-  Werder Bremen           - Borussia Dortmund
-  SC Freiburg             - Fortuna Düsseldorf
-  Bor. Mönchengladbach    - TSG Hoffenheim
-  Hertha BSC              - 1. FC Köln
+  FC Schalke 04           0-5 RB Leipzig
+  Werder Bremen           0-2 Borussia Dortmund
+  SC Freiburg             0-2 Fortuna Düsseldorf
+  Bor. Mönchengladbach    1-1 TSG Hoffenheim
+  Hertha BSC              0-5 1. FC Köln
 [So. 23.2.]
   VfL Wolfsburg           - 1. FSV Mainz 05
   Bayer 04 Leverkusen     - FC Augsburg

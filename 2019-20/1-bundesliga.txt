@@ -364,7 +364,7 @@ Spieltag 24
 [So. 1.3.]
   1. FC Union Berlin      - VfL Wolfsburg
   RB Leipzig              - Bayer 04 Leverkusen
-  Werder Bremen           - Eintracht Frankfurt
+  Werder Bremen           - Eintracht Frankfurt   # Termin verschoben
   
   
 Spieltag 25

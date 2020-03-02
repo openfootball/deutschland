@@ -364,7 +364,7 @@ Spieltag 24
 [So. 1.3.]
   1. FC Union Berlin      2-2 VfL Wolfsburg
   RB Leipzig              1-1 Bayer 04 Leverkusen
-  Werder Bremen           - Eintracht Frankfurt   # Termin verschoben
+  Werder Bremen           - Eintracht Frankfurt   # 13.5.
   
   
 Spieltag 25
@@ -380,6 +380,11 @@ Spieltag 25
 [So. 8.3.]
   1. FSV Mainz 05         - Fortuna Düsseldorf
   Bayern München          - FC Augsburg
+  
+  
+#  Spieltag 21 
+[Mi. 11.3.]
+  Bor. Mönchengladbach    - 1. FC Köln
 
 
 Spieltag 26
@@ -491,6 +496,11 @@ Spieltag 33
   SC Paderborn 07         - Bor. Mönchengladbach
   TSG Hoffenheim          - 1. FC Union Berlin
   RB Leipzig              - Borussia Dortmund
+  
+  
+# Spieltag 24
+[Mi. 13.5.]
+  Werder Bremen           - Eintracht Frankfurt
 
 
 Spieltag 34

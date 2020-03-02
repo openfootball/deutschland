@@ -376,9 +376,9 @@ Spieltag 24
   SpVgg Greuther Fürth    2-0 VfB Stuttgart
   SV Darmstadt 98         2-0 1. FC Heidenheim
 [So. 1.3.]
-  VfL Bochum              - SV Sandhausen
-  Arminia Bielefeld       - SV Wehen Wiesbaden
-  FC St. Pauli            - VfL Osnabrück
+  VfL Bochum              4-4 SV Sandhausen
+  Arminia Bielefeld       1-0 SV Wehen Wiesbaden
+  FC St. Pauli            3-1 VfL Osnabrück
 [Mo. 2.3.]  
   Hannover 96             - Holstein Kiel
 

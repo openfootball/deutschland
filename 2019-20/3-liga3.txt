@@ -466,33 +466,33 @@ Spieltag 27
 
 Spieltag 28
 [Fr. 13.3.]
-  Waldhof Mannheim        - KFC Uerdingen 05
+  Waldhof Mannheim        - KFC Uerdingen 05               # Termin verschoben
 [Sa. 14.3.]
-  1860 München            - MSV Duisburg
-  SV Meppen               - Würzburger Kickers
-  Eintracht Braunschweig  - FC Viktoria Köln
-  Preußen Münster         - Hallescher FC
-  1. FC Magdeburg         - 1. FC Kaiserslautern
-  SG Sonnenhof Großaspach - SpVgg Unterhaching
-  FC Ingolstadt 04        - Bayern München II
+  1860 München            - MSV Duisburg                   # Termin verschoben
+  SV Meppen               - Würzburger Kickers             # Termin verschoben
+  Eintracht Braunschweig  - FC Viktoria Köln               # Termin verschoben
+  Preußen Münster         - Hallescher FC                  # Termin verschoben
+  1. FC Magdeburg         - 1. FC Kaiserslautern           # Termin verschoben
+  SG Sonnenhof Großaspach - SpVgg Unterhaching             # Termin verschoben
+  FC Ingolstadt 04        - Bayern München II              # Termin verschoben
 [So. 15.3.]
-  FSV Zwickau             - Hansa Rostock
-  Carl Zeiss Jena         - Chemnitzer FC
+  FSV Zwickau             - Hansa Rostock                  # Termin verschoben
+  Carl Zeiss Jena         - Chemnitzer FC                  # Termin verschoben
   
   
 Spieltag 29
 [Di. 17.3.]
-  KFC Uerdingen 05        - SV Meppen
-  1. FC Kaiserslautern    - 1860 München
-  SpVgg Unterhaching      - FC Ingolstadt 04
-  Bayern München II       - Preußen Münster
-  Hallescher FC           - Eintracht Braunschweig
+  KFC Uerdingen 05        - SV Meppen                      # Termin verschoben
+  1. FC Kaiserslautern    - 1860 München                   # Termin verschoben
+  SpVgg Unterhaching      - FC Ingolstadt 04               # Termin verschoben
+  Bayern München II       - Preußen Münster                # Termin verschoben
+  Hallescher FC           - Eintracht Braunschweig         # Termin verschoben
 [Mi 18.3.]
-  MSV Duisburg            - Carl Zeiss Jena
-  Hansa Rostock           - Waldhof Mannheim
-  Chemnitzer FC           - SG Sonnenhof Großaspach
-  Würzburger Kickers      - 1. FC Magdeburg
-  FC Viktoria Köln        - FSV Zwickau
+  MSV Duisburg            - Carl Zeiss Jena                # Termin verschoben
+  Hansa Rostock           - Waldhof Mannheim               # Termin verschoben
+  Chemnitzer FC           - SG Sonnenhof Großaspach        # Termin verschoben
+  Würzburger Kickers      - 1. FC Magdeburg                # Termin verschoben
+  FC Viktoria Köln        - FSV Zwickau                    # Termin verschoben
 
 
 Spieltag 30

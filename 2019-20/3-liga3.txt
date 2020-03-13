@@ -497,36 +497,36 @@ Spieltag 29
 
 Spieltag 30
 [Fr. 20.3.]
-  Eintracht Braunschweig  - Bayern München II
+  Eintracht Braunschweig  - Bayern München II              # Termin verschoben
 [Sa. 21.3.]
-  MSV Duisburg            - Chemnitzer FC
-  1860 München            - Würzburger Kickers
-  Waldhof Mannheim        - FC Viktoria Köln
-  Carl Zeiss Jena         - 1. FC Kaiserslautern
-  Preußen Münster         - SpVgg Unterhaching
-  FC Ingolstadt 04        - SG Sonnenhof Großaspach
+  MSV Duisburg            - Chemnitzer FC                  # Termin verschoben
+  1860 München            - Würzburger Kickers             # Termin verschoben
+  Waldhof Mannheim        - FC Viktoria Köln               # Termin verschoben
+  Carl Zeiss Jena         - 1. FC Kaiserslautern           # Termin verschoben
+  Preußen Münster         - SpVgg Unterhaching             # Termin verschoben
+  FC Ingolstadt 04        - SG Sonnenhof Großaspach        # Termin verschoben
 [So. 22.3.]
-  SV Meppen               - Hansa Rostock
-  FSV Zwickau             - Hallescher FC
+  SV Meppen               - Hansa Rostock                  # Termin verschoben
+  FSV Zwickau             - Hallescher FC                  # Termin verschoben
 [Mo. 23.3.]
-  1. FC Magdeburg         - KFC Uerdingen 05
+  1. FC Magdeburg         - KFC Uerdingen 05               # Termin verschoben
 
 
 Spieltag 31
 [Fr. 27.3.]
-  Würzburger Kickers      - Carl Zeiss Jena
+  Würzburger Kickers      - Carl Zeiss Jena                # Termin verschoben
 [Sa. 28.3.]
-  Hansa Rostock           - 1. FC Magdeburg
-  KFC Uerdingen 05        - 1860 München
-  1. FC Kaiserslautern    - MSV Duisburg
-  SpVgg Unterhaching      - Eintracht Braunschweig
-  Chemnitzer FC           - FC Ingolstadt 04
-  Hallescher FC           - Waldhof Mannheim
+  Hansa Rostock           - 1. FC Magdeburg                # Termin verschoben
+  KFC Uerdingen 05        - 1860 München                   # Termin verschoben
+  1. FC Kaiserslautern    - MSV Duisburg                   # Termin verschoben
+  SpVgg Unterhaching      - Eintracht Braunschweig         # Termin verschoben
+  Chemnitzer FC           - FC Ingolstadt 04               # Termin verschoben
+  Hallescher FC           - Waldhof Mannheim               # Termin verschoben
 [So. 29.3.]
-  SG Sonnenhof Großaspach - Preußen Münster
-  Bayern München II       - FSV Zwickau
+  SG Sonnenhof Großaspach - Preußen Münster                # Termin verschoben
+  Bayern München II       - FSV Zwickau                    # Termin verschoben
 [Mo. 30.3.]
-  FC Viktoria Köln        - SV Meppen
+  FC Viktoria Köln        - SV Meppen                      # Termin verschoben
 
 
 Spieltag 32

@@ -401,33 +401,33 @@ Spieltag 25
 
 Spieltag 26
 [Fr. 13.3.]
-  Arminia Bielefeld       - VfL Osnabrück
-  SpVgg Greuther Fürth    - Hamburger SV
+  Arminia Bielefeld       - VfL Osnabrück            # Termin verschoben
+  SpVgg Greuther Fürth    - Hamburger SV             # Termin verschoben
 [Sa. 14.3.]
-  Erzgebirge Aue          - SV Sandhausen
-  Karlsruher SC           - SV Darmstadt 98
-  VfL Bochum              - 1. FC Heidenheim
-  Jahn Regensburg         - Holstein Kiel
+  Erzgebirge Aue          - SV Sandhausen            # Termin verschoben
+  Karlsruher SC           - SV Darmstadt 98          # Termin verschoben
+  VfL Bochum              - 1. FC Heidenheim         # Termin verschoben
+  Jahn Regensburg         - Holstein Kiel            # Termin verschoben
 [So. 15.3.]
-  FC St. Pauli            - 1. FC Nürnberg
-  Hannover 96             - Dynamo Dresden
-  SV Wehen Wiesbaden      - VfB Stuttgart
+  FC St. Pauli            - 1. FC Nürnberg           # Termin verschoben
+  Hannover 96             - Dynamo Dresden           # Termin verschoben
+  SV Wehen Wiesbaden      - VfB Stuttgart            # Termin verschoben
   
 
 Spieltag 27
 [Fr. 20.3.]
-  Karlsruher SC           - VfL Bochum
-  SV Sandhausen           - Jahn Regensburg
+  Karlsruher SC           - VfL Bochum               # Termin verschoben
+  SV Sandhausen           - Jahn Regensburg          # Termin verschoben
 [Sa. 21.3.]
-  Holstein Kiel           - VfB Stuttgart
-  Hamburger SV            - Arminia Bielefeld
-  VfL Osnabrück           - Hannover 96
+  Holstein Kiel           - VfB Stuttgart            # Termin verschoben
+  Hamburger SV            - Arminia Bielefeld        # Termin verschoben
+  VfL Osnabrück           - Hannover 96              # Termin verschoben
 [So. 22.3.]
-  Dynamo Dresden          - SpVgg Greuther Fürth
-  1. FC Nürnberg          - Erzgebirge Aue
-  1. FC Heidenheim        - SV Wehen Wiesbaden
+  Dynamo Dresden          - SpVgg Greuther Fürth     # Termin verschoben
+  1. FC Nürnberg          - Erzgebirge Aue           # Termin verschoben
+  1. FC Heidenheim        - SV Wehen Wiesbaden       # Termin verschoben
 [Mo. 23.3.]
-  SV Darmstadt 98         - FC St. Pauli
+  SV Darmstadt 98         - FC St. Pauli             # Termin verschoben
 
 
 Spieltag 28

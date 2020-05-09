@@ -1,39 +1,39 @@
 = DFB Pokal 2012/13
 
 
-(1) Achtelfinale
+Achtelfinale
 
 [Di 18.12.]
-  19.00   Karlsruher SC   SC Freiburg   0:1
-  19.00   FC Schalke 04   1. FSV Mainz 05   1:2
-  20.30   Kickers Offenbach   Fortuna Düsseldorf   2:0
-  20.30   FC Augsburg   Bayern München   0:2
+  19.00   Karlsruher SC      0:1  SC Freiburg
+  19.00   FC Schalke 04      1:2  1. FSV Mainz 05
+  20.30   Kickers Offenbach  2:0  Fortuna Düsseldorf
+  20.30   FC Augsburg        0:2  Bayern München
 [Mi 19.12.]
-  19.00   VfL Wolfsburg   Bayer Leverkusen   2:1
-  19.00   VfL Bochum   TSV 1860 München   3:0
-  20.30   Borussia Dortmund   Hannover 96   5:1
-  20.30   VfB Stuttgart   1. FC Köln   2:1
+  19.00   VfL Wolfsburg      2:1  Bayer Leverkusen
+  19.00   VfL Bochum         3:0  TSV 1860 München
+  20.30   Borussia Dortmund  5:1  Hannover 96
+  20.30   VfB Stuttgart      2:1  1. FC Köln
 
 
-(2) Viertelfinale
+Viertelfinale
 
 [Di 26.2.]
-  19.00   1. FSV Mainz 05   SC Freiburg     2:2 2:3nV
-  20.30   Kickers Offenbach   VfL Wolfsburg   1:2
+  19.00   1. FSV Mainz 05    2:3 (2:2) n.V.  SC Freiburg
+  20.30   Kickers Offenbach  1:2    VfL Wolfsburg
 [Mi 27.2.]
-  19.00   VfB Stuttgart   VfL Bochum   2:0
-  20.30   Bayern München   Borussia Dortmund   1:0
+  19.00   VfB Stuttgart     2:0  VfL Bochum
+  20.30   Bayern München    1:0  Borussia Dortmund
 
 
-(3) Halbfinale
+Halbfinale
 
 [Di 16.4.]
-  20.30   Bayern München   VfL Wolfsburg  6:1
+  20.30   Bayern München   6:1  VfL Wolfsburg
 [Mi 17.4.]
-  20.30   VfB Stuttgart   SC Freiburg     2:1
+  20.30   VfB Stuttgart    2:1  SC Freiburg
 
 
-(4) Finale
+Finale
 
 [Sa 1.6.]
-  20.00   Bayern München   VfB Stuttgart  3:2
+  20.00   Bayern München   3:2  VfB Stuttgart

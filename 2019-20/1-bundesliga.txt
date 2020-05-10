@@ -380,22 +380,21 @@ Spieltag 25
 [So. 8.3.]
   1. FSV Mainz 05         1-1 Fortuna Düsseldorf
   Bayern München          2-0 FC Augsburg
-  
+ 
+ #Pause wegen Corona
+ 
 Spieltag 26
-[Fr. 13.3.]
-  Fortuna Düsseldorf      - SC Paderborn 07             # Termin verschoben
-[Sa. 14.3.]
-  1. FC Köln              - 1. FSV Mainz 05             # Termin verschoben
-  Borussia Dortmund       - FC Schalke 04               # Termin verschoben
-  1. FC Union Berlin      - Bayern München              # Termin verschoben
-  TSG Hoffenheim          - Hertha BSC                  # Termin verschoben
-  RB Leipzig              - SC Freiburg                 # Termin verschoben 
-[So. 15.3.]
-  Eintracht Frankfurt     - Bor. Mönchengladbach        # Termin verschoben
-  FC Augsburg             - VfL Wolfsburg               # Termin verschoben
-[Mo. 16.3.]
-  Werder Bremen           - Bayer 04 Leverkusen         # Termin verschoben
-  
+[Sa. 16.5.]
+  Borussia Dortmund       - FC Schalke 04
+  RB Leipzig              - SC Freiburg 
+  TSG Hoffenheim          - Hertha BSC
+  Fortuna Düsseldorf      - SC Paderborn 07  
+  FC Augsburg             - VfL Wolfsburg
+  Eintracht Frankfurt     - Bor. Mönchengladbach
+[So. 17.5.]
+  1. FC Köln              - 1. FSV Mainz 05
+  1. FC Union Berlin      - Bayern München
+  Werder Bremen           - Bayer 04 Leverkusen
   
 Spieltag 27
 [Fr. 20.3.]

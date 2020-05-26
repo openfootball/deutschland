@@ -365,7 +365,8 @@ Spieltag 24
 [So. 1.3.]
   1. FC Union Berlin      2-2 VfL Wolfsburg
   RB Leipzig              1-1 Bayer 04 Leverkusen
-  Werder Bremen           - Eintracht Frankfurt   # 13.5.
+[Mi. 3.6.]
+  Werder Bremen           - Eintracht Frankfurt   # Nachholspiel
   
 Spieltag 25
 [Fr. 6.3.]
@@ -413,7 +414,7 @@ Spieltag 27
   
 Spieltag 28
 [Di. 26.5.]
-  Borussia Dortmund       - Bayern München
+  Borussia Dortmund       0-1 Bayern München
   Bayer 04 Leverkusen     - VfL Wolfsburg
   Eintracht Frankfurt     - SC Freiburg
   Werder Bremen           - Bor. Mönchengladbach
@@ -425,44 +426,48 @@ Spieltag 28
   1. FC Union Berlin      - 1. FSV Mainz 05
     
 Spieltag 29
-[Sa. 11.4.]
-  FC Schalke 04           - Werder Bremen
+[Fr. 29.5.]
   SC Freiburg             - Bayer 04 Leverkusen
-  Bayern München          - Fortuna Düsseldorf
-  Bor. Mönchengladbach    - 1. FC Union Berlin
-  1. FC Köln              - RB Leipzig
+[Sa. 30.5.]
   VfL Wolfsburg           - Eintracht Frankfurt
   Hertha BSC              - FC Augsburg
   1. FSV Mainz 05         - TSG Hoffenheim
+  FC Schalke 04           - Werder Bremen
+  Bayern München          - Fortuna Düsseldorf
+[So. 31.5.]
+  Bor. Mönchengladbach    - 1. FC Union Berlin
   SC Paderborn 07         - Borussia Dortmund
-
-
+[Mo. 1.6.]
+  1. FC Köln              - RB Leipzig
+    
 Spieltag 30
-[Sa. 18.4.]
-  Werder Bremen           - VfL Wolfsburg
+[Fr. 5.6.]
   SC Freiburg             - Bor. Mönchengladbach
+[Sa. 6.6.]  
+  RB Leipzig              - SC Paderborn 07
   Bayer 04 Leverkusen     - Bayern München
+  Eintracht Frankfurt     - 1. FSV Mainz 05
   Fortuna Düsseldorf      - TSG Hoffenheim
   Borussia Dortmund       - Hertha BSC
-  Eintracht Frankfurt     - 1. FSV Mainz 05
+[So. 7.6.]
+  Werder Bremen           - VfL Wolfsburg
   1. FC Union Berlin      - FC Schalke 04
   FC Augsburg             - 1. FC Köln
-  RB Leipzig              - SC Paderborn 07
-
-
+  
 Spieltag 31
-[Sa. 25.4.]
-  FC Schalke 04           - Bayer 04 Leverkusen
-  Fortuna Düsseldorf      - Borussia Dortmund
-  Bayern München          - Bor. Mönchengladbach
-  1. FC Köln              - 1. FC Union Berlin
-  VfL Wolfsburg           - SC Freiburg
-  Hertha BSC              - Eintracht Frankfurt
-  1. FSV Mainz 05         - FC Augsburg
-  SC Paderborn 07         - Werder Bremen
+[Fr. 12.6.]
   TSG Hoffenheim          - RB Leipzig
-
-
+[Sa. 13.6.]
+  VfL Wolfsburg           - SC Freiburg
+  Fortuna Düsseldorf      - Borussia Dortmund
+  Hertha BSC              - Eintracht Frankfurt
+  1. FC Köln              - 1. FC Union Berlin
+  SC Paderborn 07         - Werder Bremen
+  Bayern München          - Bor. Mönchengladbach
+[So. 14.6.]
+  1. FSV Mainz 05         - FC Augsburg
+  FC Schalke 04           - Bayer 04 Leverkusen
+  
 Spieltag 32
 [Sa. 2.5.]
   Werder Bremen           - Bayern München

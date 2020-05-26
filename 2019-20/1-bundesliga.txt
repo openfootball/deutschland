@@ -469,20 +469,20 @@ Spieltag 31
   FC Schalke 04           - Bayer 04 Leverkusen
   
 Spieltag 32
-[Sa. 2.5.]
+[Di. 16.6.]
+  Bor. Mönchengladbach    - VfL Wolfsburg
   Werder Bremen           - Bayern München
   SC Freiburg             - Hertha BSC
-  Bayer 04 Leverkusen     - 1. FC Köln
-  Bor. Mönchengladbach    - VfL Wolfsburg
-  Borussia Dortmund       - 1. FSV Mainz 05
-  Eintracht Frankfurt     - FC Schalke 04
   1. FC Union Berlin      - SC Paderborn 07
-  FC Augsburg             - TSG Hoffenheim
+[Mi 17.6.]
+  Eintracht Frankfurt     - FC Schalke 04
+  Borussia Dortmund       - 1. FSV Mainz 05
   RB Leipzig              - Fortuna Düsseldorf
-
+  Bayer 04 Leverkusen     - 1. FC Köln
+  FC Augsburg             - TSG Hoffenheim
 
 Spieltag 33
-[Sa. 9.5.]
+[Sa. 20.6.]
   FC Schalke 04           - VfL Wolfsburg
   Fortuna Düsseldorf      - FC Augsburg
   Bayern München          - SC Freiburg
@@ -492,15 +492,9 @@ Spieltag 33
   SC Paderborn 07         - Bor. Mönchengladbach
   TSG Hoffenheim          - 1. FC Union Berlin
   RB Leipzig              - Borussia Dortmund
-  
-  
-# Spieltag 24
-[Mi. 13.5.]
-  Werder Bremen           - Eintracht Frankfurt
-
-
+ 
 Spieltag 34
-[Sa. 16.5.]
+[Sa. 27.6.]
   Werder Bremen           - 1. FC Köln
   SC Freiburg             - FC Schalke 04
   Bayer 04 Leverkusen     - 1. FSV Mainz 05

@@ -415,9 +415,9 @@ Spieltag 27
 Spieltag 28
 [Di. 26.5.]
   Borussia Dortmund       0-1 Bayern München
-  Bayer 04 Leverkusen     - VfL Wolfsburg
-  Eintracht Frankfurt     - SC Freiburg
-  Werder Bremen           - Bor. Mönchengladbach
+  Bayer 04 Leverkusen     1-4 VfL Wolfsburg
+  Eintracht Frankfurt     3-3 SC Freiburg
+  Werder Bremen           0-0 Bor. Mönchengladbach
 [Mi. 27.5.]
   RB Leipzig              - Hertha BSC
   TSG Hoffenheim          - 1. FC Köln

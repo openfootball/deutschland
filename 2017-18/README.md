@@ -6,24 +6,24 @@
 ```
                                         - Total -                  - Home -          - Away -     
                                  Pld   W  D  L   F:A   +/-  Pts   W  D  L   F:A     W  D  L   F:A
- 1. FC Bayern München              0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 2. Borussia Dortmund              0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 3. Bayer 04 Leverkusen            0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 4. Schalke 04                     0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 5. Eintracht Frankfurt            0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 6. Hamburger SV                   0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 7. Borussia M'gladbach            0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 8. Hannover 96                    0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 9. VfL Wolfsburg                  0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-10. 1. FSV Mainz 05                0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-11. Werder Bremen                  0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-12. 1899 Hoffenheim                0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-13. VfB Stuttgart                  0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-14. FC Augsburg                    0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-15. Hertha BSC                     0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-16. 1. FC Köln                     0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-17. SC Freiburg                    0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-18. RB Leipzig                     0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
+ 1. Bayern München                34  27  3  4  92:28  +64   84  14  2  1  56:15   13  1  3  36:13 
+ 2. FC Schalke 04                 34  18  9  7  53:37  +16   63  10  5  2  27:15    8  4  5  26:22 
+ 3. TSG 1899 Hoffenheim           34  15 10  9  66:48  +18   55  11  4  2  38:16    4  6  7  28:32 
+ 4. Borussia Dortmund             34  15 10  9  64:47  +17   55   9  4  4  40:21    6  6  5  24:26 
+ 5. Bayer 04 Leverkusen           34  15 10  9  58:44  +14   55   8  5  4  29:19    7  5  5  29:25 
+ 6. RB Leipzig                    34  15  8 11  57:53   +4   53   9  4  4  34:26    6  4  7  23:27 
+ 7. VfB Stuttgart                 34  15  6 13  36:36        51  10  4  3  18:9     5  2 10  18:27 
+ 8. Eintracht Frankfurt           34  14  7 13  45:45        49   8  4  5  26:19    6  3  8  19:26 
+ 9. Bor. Mönchengladbach          34  13  8 13  47:52   -5   47   9  4  4  28:20    4  4  9  19:32 
+10. Hertha BSC                    34  10 13 11  43:46   -3   43   5  7  5  23:27    5  6  6  20:19 
+11. Werder Bremen                 34  10 12 12  37:40   -3   42   6  7  4  20:17    4  5  8  17:23 
+12. FC Augsburg                   34  10 11 13  43:46   -3   41   6  4  7  24:24    4  7  6  19:22 
+13. Hannover 96                   34  10  9 15  44:54  -10   39   8  3  6  28:25    2  6  9  16:29 
+14. 1. FSV Mainz 05               34   9  9 16  38:52  -14   36   7  3  7  22:21    2  6  9  16:31 
+15. SC Freiburg                   34   8 12 14  32:56  -24   36   7  6  4  17:17    1  6 10  15:39 
+16. VfL Wolfsburg                 34   6 15 13  36:48  -12   33   3  8  6  23:25    3  7  7  13:23 
+17. Hamburger SV                  34   8  7 19  29:53  -24   31   6  4  7  17:19    2  3 12  12:34 
+18. 1. FC Köln                    34   5  7 22  35:70  -35   22   3  5  9  20:30    2  2 13  15:40 
 ```
 
 
@@ -31,24 +31,24 @@
 ```
                                         - Total -                  - Home -          - Away -     
                                  Pld   W  D  L   F:A   +/-  Pts   W  D  L   F:A     W  D  L   F:A
- 1. Bielefeld                      1   1  0  0   2:1    +1    3   1  0  0   2:1     0  0  0   0:0  
- 2. FC St. Pauli                   1   1  0  0   1:0    +1    3   0  0  0   0:0     1  0  0   1:0  
- 3. SV Darmstadt 98                1   1  0  0   1:0    +1    3   1  0  0   1:0     0  0  0   0:0  
- 4. Union Berlin                   1   1  0  0   1:0    +1    3   0  0  0   0:0     1  0  0   1:0  
- 5. 1. FC Kaiserslautern           0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 6. Erzgebirge Aue                 0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 7. Fortuna Düsseldorf             0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 8. 1. FC Nürnberg                 0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
- 9. Holstein Kiel                  0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-10. Eintr. Braunschweig            0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-11. SV Sandhausen                  0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-12. 1. FC Heidenheim               0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-13. MSV Duisburg                   0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-14. Dynamo Dresden                 0   0  0  0   0:0          0   0  0  0   0:0     0  0  0   0:0  
-15. Jahn Regensburg                1   0  0  1   1:2    -1    0   0  0  0   0:0     0  0  1   1:2  
-16. Greuther Fürth                 1   0  0  1   0:1    -1    0   0  0  0   0:0     0  0  1   0:1  
-17. VfL Bochum                     1   0  0  1   0:1    -1    0   0  0  1   0:1     0  0  0   0:0  
-18. FC Ingolstadt 04               1   0  0  1   0:1    -1    0   0  0  1   0:1     0  0  0   0:0  
+ 1. Fortuna Düsseldorf            34  19  6  9  57:44  +13   63  10  4  3  30:20    9  2  6  27:24 
+ 2. 1. FC Nürnberg                34  17  9  8  61:39  +22   60   8  4  5  32:23    9  5  3  29:16 
+ 3. Holstein Kiel                 34  14 14  6  71:44  +27   56   8  7  2  36:19    6  7  4  35:25 
+ 4. Arminia Bielefeld             34  12 12 10  51:47   +4   48   7  6  4  25:20    5  6  6  26:27 
+ 5. SSV Jahn Regensburg           34  14  6 14  53:53        48  10  0  7  31:27    4  6  7  22:26 
+ 6. VfL Bochum                    34  13  9 12  37:40   -3   48   8  5  4  22:16    5  4  8  15:24 
+ 7. MSV Duisburg                  34  13  9 12  52:56   -4   48   6  5  6  27:28    7  4  6  25:28 
+ 8. 1. FC Union Berlin            34  12 11 11  54:46   +8   47   7  7  3  30:19    5  4  8  24:27 
+ 9. 1. FC Heidenheim              35  12  9 14  52:57   -5   45  10  3  5  34:28    2  6  9  18:29 
+10. FC Ingolstadt 04              34  12  8 14  47:46   +1   44   5  4  8  24:26    7  4  6  23:20 
+11. SV Sandhausen                 34  11 10 13  35:33   +2   43   7  5  5  19:15    4  5  8  16:18 
+12. SV Darmstadt 98               35  10 13 12  48:47   +1   43   6  5  7  28:26    4  8  5  20:21 
+13. FC St. Pauli                  34  11 10 13  35:48  -13   43   5  8  4  20:20    6  2  9  15:28 
+14. Dynamo Dresden                34  11  9 14  42:51   -9   42   5  4  8  19:27    6  5  6  23:24 
+15. FC Erzgebirge Aue             35  11  9 15  37:51  -14   42   8  4  5  19:20    3  5 10  18:31 
+16. Eintracht Braunschweig        34   8 15 11  37:43   -6   39   6  6  5  20:18    2  9  6  17:25 
+17. 1. FC Kaiserslautern          35  10  8 17  44:56  -12   38   4  7  6  18:20    6  1 11  26:36 
+18. SpVgg Greuther Fürth          34   9 11 14  36:48  -12   38   8  5  4  25:18    1  6 10  11:30 
 ```
 
 
@@ -56,26 +56,26 @@
 ```
                                         - Total -                  - Home -          - Away -     
                                  Pld   W  D  L   F:A   +/-  Pts   W  D  L   F:A     W  D  L   F:A
- 1. Wiesbaden                      2   2  0  0   5:0    +5    6   1  0  0   1:0     1  0  0   4:0  
- 2. Fortuna Köln                   2   2  0  0   3:0    +3    6   1  0  0   1:0     1  0  0   2:0  
- 3. SG Großaspach                  2   1  1  0   4:1    +3    4   1  0  0   4:1     0  1  0   0:0  
- 4. Münster                        2   1  1  0   4:1    +3    4   1  0  0   3:0     0  1  0   1:1  
- 5. Hansa Rostock                  2   1  1  0   2:0    +2    4   0  1  0   0:0     1  0  0   2:0  
- 6. SC Paderborn 07                2   1  1  0   7:6    +1    4   1  0  0   3:2     0  1  0   4:4  
- 7. Werder Bremen II               1   1  0  0   3:0    +3    3   1  0  0   3:0     0  0  0   0:0  
- 8. 1. FC Magdeburg                2   1  0  1   4:4          3   1  0  0   3:0     0  0  1   1:4  
- 9. Chemnitzer FC                  2   1  0  1   3:3          3   1  0  0   1:0     0  0  1   2:3  
-10. VfR Aalen                      2   1  0  1   2:2          3   1  0  0   2:1     0  0  1   0:1  
-11. SpVgg Unterhaching             2   1  0  1   3:5    -2    3   1  0  0   3:2     0  0  1   0:3  
-12. Würzburger Kickers             1   0  1  0   2:2          1   0  0  0   0:0     0  1  0   2:2  
-13. Hallescher FC                  2   0  1  1   5:6    -1    1   0  1  0   4:4     0  0  1   1:2  
-14. Karlsruhe                      2   0  1  1   4:5    -1    1   0  1  0   2:2     0  0  1   2:3  
-15. FSV Zwickau                    2   0  1  1   1:2    -1    1   0  1  0   1:1     0  0  1   0:1  
-16. SF Lotte                       2   0  1  1   1:3    -2    1   0  0  1   0:2     0  1  0   1:1  
-17. SV Meppen                      2   0  1  1   2:5    -3    1   0  1  0   2:2     0  0  1   0:3  
-18. Rot-Weiß Erfurt                2   0  1  1   1:4    -3    1   0  1  0   1:1     0  0  1   0:3  
-19. VfL Osnabrück                  2   0  1  1   2:6    -4    1   0  0  1   0:4     0  1  0   2:2  
-20. FC Carl Zeiss Jena             2   0  0  2   0:3    -3    0   0  0  1   0:2     0  0  1   0:1  
+ 1. 1. FC Magdeburg               40  28  5  7  77:35  +42   89  15  4  1  43:13   13  1  6  34:22 
+ 2. SC Paderborn 07               39  25  9  5  90:33  +57   84  14  3  2  49:11   11  6  3  41:22 
+ 3. SV Wehen Wiesbaden            39  22  5 12  80:40  +40   71  12  3  4  44:19   10  2  8  36:21 
+ 4. Karlsruher SC                 39  19 13  7  49:29  +20   70  13  5  1  29:9     6  8  6  20:20 
+ 5. Würzburger Kickers            39  18 10 11  55:47   +8   64   7  7  5  21:23   11  3  6  34:24 
+ 6. SV Meppen                     40  16 14 10  52:48   +4   62  10  8  3  33:21    6  6  7  19:27 
+ 7. Hansa Rostock                 39  16 13 10  48:34  +14   61   9  6  4  30:22    7  7  6  18:12 
+ 8. Preußen Münster               39  15 10 14  55:49   +6   55  10  5  5  35:17    5  5  9  20:32 
+ 9. Fortuna Köln                  38  15  9 14  53:48   +5   54   9  4  6  27:22    6  5  8  26:26 
+10. SpVgg Unterhaching            38  16  6 16  54:55   -1   54  10  3  6  33:27    6  3 10  21:28 
+11. FC Carl Zeiss Jena            41  14 10 17  52:68  -16   52  10  6  5  31:31    4  4 12  21:37 
+12. VfR Aalen                     38  13 11 14  48:57   -9   50  10  5  4  30:23    3  6 10  18:34 
+13. Hallescher FC                 38  13 10 15  52:55   -3   49  10  1  8  27:25    3  9  7  25:30 
+14. SG Großaspach                 39  12 12 15  55:60   -5   48   5  8  7  23:26    7  4  8  32:34 
+15. FSV Zwickau                   39  10 12 17  40:57  -17   42   8  5  6  24:24    2  7 11  16:33 
+16. SF Lotte                      38  11  7 20  44:60  -16   40   8  3  8  26:24    3  4 12  18:36 
+17. VfL Osnabrück                 40   8 15 17  51:71  -20   39   6  8  6  30:28    2  7 11  21:43 
+18. Werder Bremen II              38   6 13 19  39:62  -23   31   4  7  8  20:29    2  6 11  19:33 
+19. Chemnitzer FC                 39   8  7 24  49:78  -29   31   6  4 10  23:34    2  3 14  26:44 
+20. FC Rot-Weiß Erfurt            40   5  9 26  30:87  -57   24   3  5 12  21:46    2  4 14   9:41 
 ```
 
 
@@ -87,75 +87,97 @@ Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals f
 ### Results Tables
 
 ```
-Home \ Away           FCB  BVB  B04  S04  FFM  HSV  BMG  H96  WOB  M05  BRE  HOF  VFB  FCA  BSC  KOE  SCF  RBL
-FC Bayern Münch (FCB)  *
-Borussia Dortmu (BVB)       *
-Bayer 04 Leverk (B04)            *
-Schalke 04 (S04)                      *
-Eintracht Frank (FFM)                      *
-Hamburger SV (HSV)                              *
-Borussia M'glad (BMG)                                *
-Hannover 96 (H96)                                         *
-VfL Wolfsburg (WOB)                                            *
-1. FSV Mainz 05 (M05)                                               *
-Werder Bremen (BRE)                                                      *
-1899 Hoffenheim (HOF)                                                         *
-VfB Stuttgart (VFB)                                                                *
-FC Augsburg (FCA)                                                                       *
-Hertha BSC (BSC)                                                                             *
-1. FC Köln (KOE)                                                                                  *
-SC Freiburg (SCF)                                                                                      *
-RB Leipzig (RBL)                                                                                            *
+Home \ Away           BVB  BRE  BMG  HOF  SCF  M05  FCA  HSV  FCB  FFM  B04  VFB  WOB  H96  S04  KOE  BSC  RBL
+Borussia Dortmu (BVB)  *   1-2  6-1  2-1  2-2  1-2  1-1  2-0  1-3  3-2  4-0  3-0  0-0  1-0  4-4  5-0  2-0  2-3
+Werder Bremen (BRE)   1-1   *   0-2  1-1  0-0  2-2  0-3  1-0  0-2  2-1  0-0  1-0  3-1  4-0  1-2  3-1  0-0  1-1
+Bor. Mönchengla (BMG) 0-1  2-2   *   3-3  3-1  1-1  2-0  3-1  2-1  0-1  1-5  2-0  3-0  2-1  1-1  1-0  2-1  0-1
+TSG 1899 Hoffen (HOF) 3-1  1-0  1-3   *   1-1  4-2  2-2  2-0  2-0  1-1  1-4  1-0  3-0  3-1  2-0  6-0  1-1  4-0
+SC Freiburg (SCF)     0-0  1-0  1-0  3-2   *   2-1  2-0  0-0  0-4  0-0  0-0  1-2  0-2  1-1  0-1  3-2  1-1  2-1
+1. FSV Mainz 05 (M05) 0-2  1-2  0-0  2-3  2-0   *   1-3  3-2  0-2  1-1  3-1  3-2  1-1  0-1  0-1  1-0  1-0  3-0
+FC Augsburg (FCA)     1-2  1-3  2-2  0-2  3-3  2-0   *   1-0  1-4  3-0  1-1  0-1  2-1  1-2  1-2  3-0  1-1  1-0
+Hamburger SV (HSV)    0-3  0-0  2-1  3-0  1-0  0-0  1-0   *   0-1  1-2  1-2  3-1  0-0  1-1  3-2  0-2  1-2  0-2
+Bayern München (FCB)  6-0  4-2  5-1  5-2  5-0  4-0  3-0  6-0   *   4-1  3-1  1-4  2-2  3-1  2-1  1-0  0-0  2-0
+Eintracht Frank (FFM) 2-2  2-1  2-0  1-1  1-1  3-0  1-2  3-0  0-1   *   0-1  2-1  0-1  1-0  2-2  4-2  0-3  2-1
+Bayer 04 Leverk (B04) 1-1  1-0  2-0  2-2  4-0  2-0  0-0  3-0  1-3  4-1   *   0-1  2-2  3-2  0-2  2-1  0-2  2-2
+VfB Stuttgart (VFB)   2-1  2-0  1-0  2-0  3-0  1-0  0-0  1-1  0-1  1-0  0-2   *   1-0  1-1  0-2  2-1  1-0  0-0
+VfL Wolfsburg (WOB)   0-3  1-1  3-0  1-1  3-1  1-1  0-0  1-3  1-2  1-3  1-2  1-1   *   1-1  0-1  4-1  3-3  1-1
+Hannover 96 (H96)     4-2  2-1  0-1  2-0  2-1  3-2  1-3  2-0  0-3  1-2  4-4  1-1  0-1   *   1-0  0-0  3-1  2-3
+FC Schalke 04 (S04)   2-0  1-2  1-1  2-1  2-0  2-0  3-2  2-0  0-3  1-0  1-1  3-1  1-1  1-1   *   2-2  1-0  2-0
+1. FC Köln (KOE)      2-3  0-0  2-1  0-3  3-4  1-1  1-1  1-3  1-3  0-1  2-0  2-3  1-0  1-1  2-2   *   0-2  1-2
+Hertha BSC (BSC)      1-1  1-1  2-4  1-1  0-0  0-2  2-2  2-1  2-2  1-2  2-1  2-0  0-0  3-1  0-2  2-1   *   2-6
+RB Leipzig (RBL)      1-1  2-0  2-2  2-5  4-1  2-2  2-0  1-1  2-1  2-1  1-4  1-0  4-1  2-1  3-1  1-2  2-3   *
 
 ```
 
 
 ```
-Home \ Away           FCI  D98  EBS  FCN  F95  SGF  FCK  FCU  BOC  STP  SAN  HDH  MSV  DSC  REG       AUE  SGD
-FC Ingolstadt 0 (FCI)  *                                 0-1
-SV Darmstadt 98 (D98)       *                  1-0
-Eintr. Braunsch (EBS)            *
-1. FC Nürnberg (FCN)                  *              ?
-Fortuna Düsseld (F95)                      *
-Greuther Fürth (SGF)                            *
-1. FC Kaisersla (FCK)                                *
-Union Berlin (FCU)                                        *
-VfL Bochum (BOC)                                               *   0-1
-FC St. Pauli (STP)                                                  *
-SV Sandhausen (SAN)                                                      *
-1. FC Heidenhei (HDH)                                                         *                        ?
-MSV Duisburg (MSV)                                                                 *
-Bielefeld (DSC)                                                                         *   2-1
-Jahn Regensburg (REG)                                                                        *
-Holstein Kiel ()                                                         ?                        *
-Erzgebirge Aue (AUE)                                                                                   *
-Dynamo Dresden (SGD)                                                               ?                        *
+1/2:
+Home \ Away           F95  FCN  SGF  BOC  EBS  SAN  FCI  AUE  STP  FCK  SGD  DSC  FCU  HDH  D98  MSV       REG
+Fortuna Düsseld (F95)  *   0-2  1-1  1-2  2-2  1-0  3-0  2-1  2-1  2-0  1-3  4-2  3-2  2-2  1-0  3-1  1-1  1-0
+1. FC Nürnberg (FCN)   ?    *   0-2  3-1  2-0  1-0  1-2  4-1  0-1  3-0  2-1  1-2  2-2  3-2  1-1  3-1  2-2  2-2
+SpVgg Greuther (SGF)  3-1  1-3   *   1-1  2-1  2-1  0-1  2-1  4-0  2-1  0-0  1-2  2-1  1-0  1-1  2-2  0-0  1-2
+VfL Bochum (BOC)      0-0  0-0  1-1   *   2-0  2-0  2-0  2-1  0-1  3-2  3-2  0-1  2-1  1-2  2-1  0-2  1-1   ?
+Eintracht Braun (EBS) 0-1  2-3  3-0  1-0   *   1-1  0-2  1-1  0-2  1-2  1-1  0-0  1-0  2-0  2-2  3-2  0-0  2-1
+SV Sandhausen (SAN)   1-2  0-2  0-0  2-3  0-0   *   1-0  1-1  1-1  1-0  1-0  3-1  1-0  1-2  1-1  0-1  3-1  2-0
+FC Ingolstadt 0 (FCI) 1-0  1-1  3-0  0-1  0-2  0-0   *   1-2  0-1   ?   4-2  2-2  0-1  3-0  3-0  2-2  1-5  2-4
+FC Erzgebirge A (AUE) 0-2  3-1  2-1  1-1  1-3  1-0  1-0   *   2-1  2-1  0-0  1-1  1-2  1-1  1-0  1-3  0-3  1-0
+FC St. Pauli (STP)    1-2  0-0  3-0  2-1  0-0  1-1  0-4  1-1   *   1-1  2-2  1-0  0-1  1-0  0-1  2-2  3-2  2-2
+1. FC Kaisersla (FCK) 1-3  1-1  3-0  0-0  1-1  0-1  1-1  0-2  1-1   *   0-1  0-2  4-3  1-0  1-1  0-1  3-1  1-1
+Dynamo Dresden (SGD)  1-2  1-1  1-1  2-0  1-1  0-4  2-2  4-0  1-3  1-2   *   0-2   ?   3-2  0-2  1-0  0-4  1-0
+Arminia Bielefe (DSC) 0-2  1-0  0-0  2-0  2-2   ?   1-3  2-0  5-0  3-2  2-3   *   1-1  1-1  2-0  0-4  1-1  2-1
+1. FC Union Ber (FCU) 3-1  0-1  3-1  3-1  1-1  2-1  1-2  0-0  1-0  5-0  0-1  1-1   *   1-1  3-3  0-0  4-3  2-2
+1. FC Heidenhei (HDH) 3-1  1-0   ?   1-0  2-0  2-0  1-2  2-1  3-1  3-2  0-2  2-2  4-3   *   2-2  1-2  3-5  1-3
+SV Darmstadt 98 (D98) 1-0  3-4  1-0  1-2  1-1  1-2  1-1   ?   3-0  1-2  3-3  4-3  3-1  1-1   *   1-2  1-1  0-1
+MSV Duisburg (MSV)    1-2  1-6  2-0  1-1  0-0  0-2  2-1  3-0   ?   1-4  2-0  2-2  1-1  3-3  1-2   *   1-3  4-1
+Holstein Kiel ()      2-2  1-3  3-1  3-0   ?   2-2  0-0  2-2  0-1  2-1  3-0  2-1  2-2  2-1  0-0  5-0   *   1-1
+SSV Jahn Regens (REG) 4-3  0-1  3-2  0-1  2-1  2-1  3-2  1-3  3-1  3-1  0-2  3-2  0-2  2-0  0-3  4-0  1-2   *
+
+2/2:
+Home \ Away           F95  FCN  SGF  BOC  EBS  SAN  FCI  AUE  STP  FCK  SGD  DSC  FCU  HDH  D98  MSV       REG
+Fortuna Düsseld (F95)  *    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+1. FC Nürnberg (FCN)  2-3   *    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+SpVgg Greuther (SGF)   ?    ?    *    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+VfL Bochum (BOC)       ?    ?    ?    *    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?   1-1
+Eintracht Braun (EBS)  ?    ?    ?    ?    *    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+SV Sandhausen (SAN)    ?    ?    ?    ?    ?    *    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+FC Ingolstadt 0 (FCI)  ?    ?    ?    ?    ?    ?    *    ?    ?   1-3   ?    ?    ?    ?    ?    ?    ?    ?
+FC Erzgebirge A (AUE)  ?    ?    ?    ?    ?    ?    ?    *    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+FC St. Pauli (STP)     ?    ?    ?    ?    ?    ?    ?    ?    *    ?    ?    ?    ?    ?    ?    ?    ?    ?
+1. FC Kaisersla (FCK)  ?    ?    ?    ?    ?    ?    ?    ?    ?    *    ?    ?    ?    ?    ?    ?    ?    ?
+Dynamo Dresden (SGD)   ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    *    ?   0-1   ?    ?    ?    ?    ?
+Arminia Bielefe (DSC)  ?    ?    ?    ?    ?   0-0   ?    ?    ?    ?    ?    *    ?    ?    ?    ?    ?    ?
+1. FC Union Ber (FCU)  ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    *    ?    ?    ?    ?    ?
+1. FC Heidenhei (HDH)  ?    ?   1-1   ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    *    ?    ?    ?    ?
+SV Darmstadt 98 (D98)  ?    ?    ?    ?    ?    ?    ?   1-0   ?    ?    ?    ?    ?    ?    *    ?    ?    ?
+MSV Duisburg (MSV)     ?    ?    ?    ?    ?    ?    ?    ?   2-0   ?    ?    ?    ?    ?    ?    *    ?    ?
+Holstein Kiel ()       ?    ?    ?    ?   6-2   ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    *    ?
+SSV Jahn Regens (REG)  ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    *
 
 ```
 
 
 ```
-Home \ Away               SCP KSC AAL
-Werder Bremen I ()     *                  3-0
-SC Paderborn 07 (SCP)      *                                                  3-2
-Karlsruhe (KSC)                *                          2-2
-VfR Aalen (AAL)                    *                                                  2-1
-SG Großaspach ()                       *                                                  4-1
-SpVgg Unterhach ()            3-2          *
-Würzburger Kick ()     ?                       *
-Wiesbaden ()                                       *                                              1-0
-Hansa Rostock ()                      0-0              *
-VfL Osnabrück ()                                  0-4      *
-SV Meppen ()                                  2-2              *
-Münster ()                                                    3-0  *
-Fortuna Köln ()                   1-0                                  *
-SF Lotte ()                                           0-2                  *
-Chemnitzer FC ()                                                               *  1-0
-FSV Zwickau ()                                                            1-1      *
-Hallescher FC ()          4-4                                                          *
-1. FC Magdeburg ()                                                                         *  3-0
-Rot-Weiß Erfurt ()                                                1-1                          *
-FC Carl Zeiss J ()                                                    0-2                          *
+Home \ Away           KSC AAL SCP
+Karlsruher SC (KSC)    *  0-0 0-0 1-0 2-0 2-2 2-1 2-0 0-0 1-0 2-0 1-0 3-0 3-1 1-1 1-0 1-0 3-1 2-3 2-0
+VfR Aalen (AAL)       0-2  *  0-5 0-1 1-1 2-1 1-0 2-3 1-0 1-0 3-2 1-1 0-0 4-1 2-1 2-2 3-0 3-1 3-1 1-1
+SC Paderborn 07 (SCP) 0-2 3-0  *  1-1 0-1 3-0 3-1 0-0 2-1 7-1 3-2 3-1 2-1 5-0 0-0 2-0 5-0 3-0 6-0 1-0
+1. FC Magdeburg ()    2-0 6-1 1-0  *  3-0 2-0 0-0 2-1 2-0 4-1 3-1 2-0 3-1 3-0 2-1 2-2 2-0 0-3 2-0 0-0
+FC Rot-Weiß Erf ()    1-3 0-1 0-1 3-1  *  4-4 1-3 1-3 0-1 0-3 0-5 2-1 1-1 0-6 1-1 0-3 2-3 0-2 1-0 0-0
+VfL Osnabrück ()      0-0 4-1 0-5 0-2 0-1  *  0-4 1-1 1-1 1-1 6-1 2-2 0-1 2-1 3-3 4-0 1-0 2-0 1-2 2-2
+SV Wehen Wiesba ()    1-1 2-0 4-1 1-2 4-2 5-1  *  0-2 0-1 2-2 2-1 1-1 6-2 5-0 3-1 3-0 3-1 1-0 1-0 0-1
+Würzburger Kick ()    0-0 2-2 2-3 1-0 4-1 1-0 0-5  *  0-3 1-1 0-0 1-0 0-1 1-1 1-0 1-1 2-1 0-2 2-2 2-0
+Hansa Rostock ()      0-3 1-0 2-3 1-0 3-1 2-0 2-0 3-1  *  0-0 3-1 5-3 1-1 0-0 4-2 1-1 0-3 1-1 0-0 1-2
+Werder Bremen I ()    2-0 1-0 0-2 1-3 0-0 2-2 0-0 0-1 1-1  *  1-1 1-2 2-4 0-5 1-2 0-0 1-1 3-0 2-4 2-1
+Chemnitzer FC ()      0-0 2-4 0-2 2-3 1-0 0-0 1-4 0-3 1-1 2-1  *  1-2 1-2 2-3 1-1 1-0 3-1 2-1 1-0 1-2
+Fortuna Köln ()       4-0 1-0 2-4 1-2 2-0 3-0 1-0 2-1 0-0 2-1 3-0  *  2-4 1-3 1-1 1-1 0-3 0-0 1-0 0-2
+Preußen Münster ()    1-1 1-1 1-1 0-1 5-0 4-1 1-0 1-0 2-0 0-1 1-0 1-1  *  1-4 1-2 0-2 3-0 2-0 2-2 3-0
+SG Großaspach ()      1-0 0-0 1-1 4-1 1-0 0-1 1-3 1-3 0-0 2-2 3-1 1-3 2-2  *  0-3 2-0 1-1 1-2 0-0 2-3
+Hallescher FC ()      0-1 3-2 4-4 0-2 3-0 1-0 2-1 1-3 0-2 1-0 0-3 0-3 3-0 3-0  *  2-0 1-0 1-2 0-2 2-0
+FSV Zwickau ()        2-4 2-2 1-3 3-1 1-1 1-1 0-2 0-1 1-0 1-0 3-2 1-0 1-0 2-0 1-1  *  1-1 1-3 2-1 0-1
+SF Lotte ()           1-1 2-0 1-2 0-1 1-0 2-3 0-1 1-3 0-2 3-2 3-1 0-2 0-0 0-2 3-1 1-0  *  2-1 4-0 2-2
+SpVgg Unterhach ()    3-2 0-1 0-3 0-1 1-1 4-1 0-1 3-2 0-3 1-0 4-2 2-2 1-0 1-4 1-1 2-1 3-0  *  3-2 4-0
+FC Carl Zeiss J ()    0-0 3-2 3-1 1-5 1-0 0-0 4-3 1-2 1-0 2-1 1-1 0-2 2-0 0-0 2-1 2-1 2-2 2-1  *  2-2
+SV Meppen ()          2-0 1-1 0-0 1-2 3-0 1-0 1-3 2-2 0-2 2-2 3-2 1-0 2-0 1-1 2-2 4-0 2-1 1-1 2-1  *
 
 ```
 

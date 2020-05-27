@@ -419,11 +419,11 @@ Spieltag 28
   Eintracht Frankfurt     3-3 SC Freiburg
   Werder Bremen           0-0 Bor. Mönchengladbach
 [Mi. 27.5.]
-  RB Leipzig              - Hertha BSC
-  TSG Hoffenheim          - 1. FC Köln
-  Fortuna Düsseldorf      - FC Schalke 04
-  FC Augsburg             - SC Paderborn 07
-  1. FC Union Berlin      - 1. FSV Mainz 05
+  RB Leipzig              2-2 Hertha BSC
+  TSG Hoffenheim          3-1 1. FC Köln
+  Fortuna Düsseldorf      2-1 FC Schalke 04
+  FC Augsburg             0-0 SC Paderborn 07
+  1. FC Union Berlin      1-1 1. FSV Mainz 05
     
 Spieltag 29
 [Fr. 29.5.]

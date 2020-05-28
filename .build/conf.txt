@@ -1,27 +1,106 @@
 39 datafiles:
-[1/39] >2012-13/1-bundesliga-i.txt<
-  1 section(s):
-    216 lines - league: >Bundesliga< (de.1), season: >2012/13<
-      18 clubs:
-        1. FC Nürnberg x17 => 1. FC Nürnberg
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bay. Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Dortmund x17 => Borussia Dortmund
-        Bor. M'gladbach x17 => Bor. Mönchengladbach
-        E. Frankfurt x17 => Eintracht Frankfurt
-        F. Düsseldorf x17 => Fortuna Düsseldorf
-        FC Augsburg x17 => FC Augsburg
-        FC Schalke 04 x17 => FC Schalke 04
-        Greuther Fürth x17 => SpVgg Greuther Fürth
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        SC Freiburg x17 => SC Freiburg
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[1/39] >2012-13/1-bundesliga-i.txt< - 1 section(s):
+    216 lines, 153 matches - Bundesliga (de.1) 2012/13, 18 team refs, 17 round defs
+[2/39] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
+    209 lines, 153 matches - Bundesliga (de.1) 2012/13, 18 team refs, 17 round defs
+[3/39] >2012-13/2-bundesliga2.txt< - 1 section(s):
+    0 lines, 0 matches - 2. Bundesliga (de.2) 2012/13, 0 team refs, 0 round defs
+[4/39] >2012-13/3-liga3.txt< - 1 section(s):
+    0 lines, 0 matches - 3. Liga (de.3) 2012/13, 0 team refs, 0 round defs
+[5/39] >2012-13/cup.txt< - 1 section(s):
+    26 lines, 15 matches - DFB Pokal (de.cup) 2012/13, 16 team refs, 4 round defs
+[6/39] >2013-14/1-bundesliga-i.txt< - 1 section(s):
+    221 lines, 153 matches - Bundesliga (de.1) 2013/14, 18 team refs, 17 round defs
+[7/39] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
+    215 lines, 153 matches - Bundesliga (de.1) 2013/14, 18 team refs, 17 round defs
+[8/39] >2013-14/2-bundesliga2-i.txt< - 1 section(s):
+    178 lines, 153 matches - 2. Bundesliga (de.2) 2013/14, 18 team refs, 17 round defs
+[9/39] >2013-14/2-bundesliga2-ii.txt< - 1 section(s):
+    170 lines, 153 matches - 2. Bundesliga (de.2) 2013/14, 18 team refs, 17 round defs
+[10/39] >2013-14/3-liga3-i.txt< - 1 section(s):
+    0 lines, 0 matches - 3. Liga (de.3) 2013/14, 0 team refs, 0 round defs
+[11/39] >2013-14/3-liga3-ii.txt< - 1 section(s):
+    0 lines, 0 matches - 3. Liga (de.3) 2013/14, 0 team refs, 0 round defs
+[12/39] >2013-14/cup.txt< - 1 section(s):
+    4 lines, 0 matches - DFB Pokal (de.cup) 2013/14, 0 team refs, 4 round defs
+[13/39] >2014-15/1-bundesliga-i.txt< - 1 section(s):
+    195 lines, 153 matches - Bundesliga (de.1) 2014/15, 18 team refs, 17 round defs
+[14/39] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
+    187 lines, 153 matches - Bundesliga (de.1) 2014/15, 18 team refs, 17 round defs
+[15/39] >2014-15/2-bundesliga2-i.txt< - 1 section(s):
+    193 lines, 144 matches - 2. Bundesliga (de.2) 2014/15, 18 team refs, 16 round defs
+[16/39] >2014-15/2-bundesliga2-ii.txt< - 1 section(s):
+    198 lines, 162 matches - 2. Bundesliga (de.2) 2014/15, 18 team refs, 18 round defs
+[17/39] >2015-16/1-bundesliga-i.txt< - 1 section(s):
+    200 lines, 153 matches - Bundesliga (de.1) 2015/16, 18 team refs, 17 round defs
+[18/39] >2015-16/1-bundesliga-ii.txt< - 1 section(s):
+    187 lines, 153 matches - Bundesliga (de.1) 2015/16, 18 team refs, 17 round defs
+[19/39] >2015-16/2-bundesliga2-i.txt< - 1 section(s):
+    234 lines, 171 matches - 2. Bundesliga (de.2) 2015/16, 18 team refs, 19 round defs
+[20/39] >2015-16/2-bundesliga2-ii.txt< - 1 section(s):
+    165 lines, 135 matches - 2. Bundesliga (de.2) 2015/16, 18 team refs, 15 round defs
+[21/39] >2015-16/3-liga3-i.txt< - 1 section(s):
+    271 lines, 210 matches - 3. Liga (de.3) 2015/16, 20 team refs, 21 round defs
+[22/39] >2015-16/3-liga3-ii.txt< - 1 section(s):
+    204 lines, 170 matches - 3. Liga (de.3) 2015/16, 20 team refs, 17 round defs
+[23/39] >2016-17/1-bundesliga-i.txt< - 1 section(s):
+    206 lines, 144 matches - Bundesliga (de.1) 2016/17, 18 team refs, 16 round defs
+[24/39] >2016-17/1-bundesliga-ii.txt< - 1 section(s):
+    228 lines, 162 matches - Bundesliga (de.1) 2016/17, 18 team refs, 18 round defs
+[25/39] >2016-17/2-bundesliga2-i.txt< - 1 section(s):
+    206 lines, 153 matches - 2. Bundesliga (de.2) 2016/17, 18 team refs, 17 round defs
+[26/39] >2016-17/2-bundesliga2-ii.txt< - 1 section(s):
+    187 lines, 153 matches - 2. Bundesliga (de.2) 2016/17, 18 team refs, 17 round defs
+[27/39] >2016-17/3-liga3-i.txt< - 1 section(s):
+    242 lines, 190 matches - 3. Liga (de.3) 2016/17, 20 team refs, 19 round defs
+[28/39] >2016-17/3-liga3-ii.txt< - 1 section(s):
+    236 lines, 194 matches - 3. Liga (de.3) 2016/17, 20 team refs, 19 round defs
+[29/39] >2017-18/1-bundesliga-i.txt< - 1 section(s):
+    219 lines, 153 matches - Bundesliga (de.1) 2017/18, 18 team refs, 17 round defs
+[30/39] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
+    221 lines, 153 matches - Bundesliga (de.1) 2017/18, 18 team refs, 17 round defs
+[31/39] >2017-18/2-bundesliga2-i.txt< - 1 section(s):
+    253 lines, 163 matches - 2. Bundesliga (de.2) 2017/18, 18 team refs, 19 round defs
+[32/39] >2017-18/2-bundesliga2-ii.txt< - 1 section(s):
+    213 lines, 145 matches - 2. Bundesliga (de.2) 2017/18, 18 team refs, 16 round defs
+[33/39] >2017-18/3-liga3-i.txt< - 1 section(s):
+    273 lines, 200 matches - 3. Liga (de.3) 2017/18, 20 team refs, 20 round defs
+[34/39] >2017-18/3-liga3-ii.txt< - 1 section(s):
+    265 lines, 190 matches - 3. Liga (de.3) 2017/18, 20 team refs, 18 round defs
+[35/39] >2018-19/1-bundesliga.txt< - 1 section(s):
+    441 lines, 306 matches - Bundesliga (de.1) 2018/19, 18 team refs, 34 round defs
+[36/39] >2018-19/2-bundesliga2.txt< - 1 section(s):
+    469 lines, 310 matches - 2. Bundesliga (de.2) 2018/19, 18 team refs, 34 round defs
+[37/39] >2019-20/1-bundesliga.txt< - 1 section(s):
+    441 lines, 306 matches - Bundesliga (de.1) 2019/20, 18 team refs, 34 round defs
+[38/39] >2019-20/2-bundesliga2.txt< - 1 section(s):
+    452 lines, 306 matches - 2. Bundesliga (de.2) 2019/20, 18 team refs, 34 round defs
+[39/39] >2019-20/3-liga3.txt< - 1 section(s):
+    547 lines, 381 matches - 3. Liga (de.3) 2019/20, 20 team refs, 38 round defs
+
+
+[1/39] >2012-13/1-bundesliga-i.txt< - 1 section(s):
+    216 lines, 153 matches - Bundesliga (de.1) 2012/13
+      18 teams (referenced):
+        17× 1. FC Nürnberg
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bay. Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Dortmund ⇒ Borussia Dortmund
+        17× Bor. M'gladbach ⇒ Bor. Mönchengladbach
+        17× E. Frankfurt ⇒ Eintracht Frankfurt
+        17× F. Düsseldorf ⇒ Fortuna Düsseldorf
+        17× FC Augsburg
+        17× FC Schalke 04
+        17× Greuther Fürth ⇒ SpVgg Greuther Fürth
+        17× Hamburger SV
+        17× Hannover 96
+        17× SC Freiburg
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         1. Spieltag, 9 matches
         2. Spieltag, 9 matches
         3. Spieltag, 9 matches
@@ -39,29 +118,28 @@
         15. Spieltag, 9 matches
         16. Spieltag, 9 matches
         17. Spieltag, 9 matches
-[2/39] >2012-13/1-bundesliga-ii.txt<
-  1 section(s):
-    209 lines - league: >Bundesliga< (de.1), season: >2012/13<
-      18 clubs:
-        1. FC Nürnberg x17 => 1. FC Nürnberg
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Mönchengladbach x17 => Bor. Mönchengladbach
-        Borussia Dortmund x17 => Borussia Dortmund
-        Eintracht Frankfurt x17 => Eintracht Frankfurt
-        FC Augsburg x17 => FC Augsburg
-        FC Schalke 04 x17 => FC Schalke 04
-        Fortuna Düsseldorf x17 => Fortuna Düsseldorf
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        SC Freiburg x17 => SC Freiburg
-        SpVgg Greuther Fürth x17 => SpVgg Greuther Fürth
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[2/39] >2012-13/1-bundesliga-ii.txt< - 1 section(s):
+    209 lines, 153 matches - Bundesliga (de.1) 2012/13
+      18 teams (referenced):
+        17× 1. FC Nürnberg
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Mönchengladbach
+        17× Borussia Dortmund
+        17× Eintracht Frankfurt
+        17× FC Augsburg
+        17× FC Schalke 04
+        17× Fortuna Düsseldorf
+        17× Hamburger SV
+        17× Hannover 96
+        17× SC Freiburg
+        17× SpVgg Greuther Fürth
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
         20. Spieltag, 9 matches
@@ -79,64 +157,58 @@
         32. Spieltag, 9 matches
         33. Spieltag, 9 matches
         34. Spieltag, 9 matches
-[3/39] >2012-13/2-bundesliga2.txt<
-  1 section(s):
-    0 lines - league: >2. Bundesliga< (de.2), season: >2012/13<
-      0 clubs:
-      0 rounds:
-[4/39] >2012-13/3-liga3.txt<
-  1 section(s):
-    0 lines - league: >3. Liga< (de.3), season: >2012/13<
-      0 clubs:
-      0 rounds:
-[5/39] >2012-13/cup.txt<
-  1 section(s):
-    26 lines - league: >DFB Pokal< (de.cup), season: >2012/13<
-      16 clubs:
-        Bayern München x4 => Bayern München
-        VfB Stuttgart x4 => VfB Stuttgart
-        SC Freiburg x3 => SC Freiburg
-        VfL Wolfsburg x3 => VfL Wolfsburg
-        1. FSV Mainz 05 x2 => 1. FSV Mainz 05
-        Borussia Dortmund x2 => Borussia Dortmund
-        Kickers Offenbach x2 => Kickers Offenbach
-        VfL Bochum x2 => VfL Bochum
-        1. FC Köln => 1. FC Köln
-        Bayer Leverkusen => Bayer 04 Leverkusen
-        FC Augsburg => FC Augsburg
-        FC Schalke 04 => FC Schalke 04
-        Fortuna Düsseldorf => Fortuna Düsseldorf
-        Hannover 96 => Hannover 96
-        Karlsruher SC => Karlsruher SC
-        TSV 1860 München => TSV 1860 München
-      4 rounds:
-        (1) Achtelfinale, 8 matches
-        (2) Viertelfinale, 4 matches
-        (3) Halbfinale, 2 matches
-        (4) Finale, 1 matches
-[6/39] >2013-14/1-bundesliga-i.txt<
-  1 section(s):
-    221 lines - league: >Bundesliga< (de.1), season: >2013/14<
-      18 clubs:
-        1. FC Nürnberg x17 => 1. FC Nürnberg
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Mönchengladbach x17 => Bor. Mönchengladbach
-        Borussia Dortmund x17 => Borussia Dortmund
-        Eintracht Braunschweig x17 => Eintracht Braunschweig
-        Eintracht Frankfurt x17 => Eintracht Frankfurt
-        FC Augsburg x17 => FC Augsburg
-        FC Schalke 04 x17 => FC Schalke 04
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        Hertha BSC x17 => Hertha BSC
-        SC Freiburg x17 => SC Freiburg
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[3/39] >2012-13/2-bundesliga2.txt< - 1 section(s):
+    0 lines, 0 matches - 2. Bundesliga (de.2) 2012/13
+      0 teams (referenced):
+[4/39] >2012-13/3-liga3.txt< - 1 section(s):
+    0 lines, 0 matches - 3. Liga (de.3) 2012/13
+      0 teams (referenced):
+[5/39] >2012-13/cup.txt< - 1 section(s):
+    26 lines, 15 matches - DFB Pokal (de.cup) 2012/13
+      16 teams (referenced):
+        4× Bayern München
+        4× VfB Stuttgart
+        3× SC Freiburg
+        3× VfL Wolfsburg
+        2× 1. FSV Mainz 05
+        2× Borussia Dortmund
+        2× Kickers Offenbach
+        2× VfL Bochum
+        1. FC Köln
+        Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        FC Augsburg
+        FC Schalke 04
+        Fortuna Düsseldorf
+        Hannover 96
+        Karlsruher SC
+        TSV 1860 München
+      4 rounds (referenced):
+        Achtelfinale, 8 matches
+        Viertelfinale, 4 matches
+        Halbfinale, 2 matches
+        Finale, 1 matches
+[6/39] >2013-14/1-bundesliga-i.txt< - 1 section(s):
+    221 lines, 153 matches - Bundesliga (de.1) 2013/14
+      18 teams (referenced):
+        17× 1. FC Nürnberg
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Mönchengladbach
+        17× Borussia Dortmund
+        17× Eintracht Braunschweig
+        17× Eintracht Frankfurt
+        17× FC Augsburg
+        17× FC Schalke 04
+        17× Hamburger SV
+        17× Hannover 96
+        17× Hertha BSC
+        17× SC Freiburg
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         1. Spieltag, 9 matches
         2. Spieltag, 9 matches
         3. Spieltag, 9 matches
@@ -154,29 +226,28 @@
         15. Spieltag, 9 matches
         16. Spieltag, 9 matches
         17. Spieltag, 9 matches
-[7/39] >2013-14/1-bundesliga-ii.txt<
-  1 section(s):
-    215 lines - league: >Bundesliga< (de.1), season: >2013/14<
-      18 clubs:
-        1. FC Nürnberg x17 => 1. FC Nürnberg
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Mönchengladbach x17 => Bor. Mönchengladbach
-        Borussia Dortmund x17 => Borussia Dortmund
-        Eintracht Braunschweig x17 => Eintracht Braunschweig
-        Eintracht Frankfurt x17 => Eintracht Frankfurt
-        FC Augsburg x17 => FC Augsburg
-        FC Schalke 04 x17 => FC Schalke 04
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        Hertha BSC x17 => Hertha BSC
-        SC Freiburg x17 => SC Freiburg
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[7/39] >2013-14/1-bundesliga-ii.txt< - 1 section(s):
+    215 lines, 153 matches - Bundesliga (de.1) 2013/14
+      18 teams (referenced):
+        17× 1. FC Nürnberg
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Mönchengladbach
+        17× Borussia Dortmund
+        17× Eintracht Braunschweig
+        17× Eintracht Frankfurt
+        17× FC Augsburg
+        17× FC Schalke 04
+        17× Hamburger SV
+        17× Hannover 96
+        17× Hertha BSC
+        17× SC Freiburg
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
         20. Spieltag, 9 matches
@@ -194,29 +265,28 @@
         32. Spieltag, 9 matches
         33. Spieltag, 9 matches
         34. Spieltag, 9 matches
-[8/39] >2013-14/2-bundesliga2-i.txt<
-  1 section(s):
-    178 lines - league: >2. Bundesliga< (de.2), season: >2013/14<
-      18 clubs:
-        1. FC Kaiserslautern x17 => 1. FC Kaiserslautern
-        1. FC Köln x17 => 1. FC Köln
-        1. FC Union Berlin x17 => 1. FC Union Berlin
-        Arminia Bielefeld x17 => Arminia Bielefeld
-        Dynamo Dresden x17 => Dynamo Dresden
-        Energie Cottbus x17 => Energie Cottbus
-        Erzgebirge Aue x17 => FC Erzgebirge Aue
-        FC Ingolstadt x17 => FC Ingolstadt 04
-        FC St. Pauli x17 => FC St. Pauli
-        FSV Frankfurt x17 => FSV Frankfurt
-        Fortuna Düsseldorf x17 => Fortuna Düsseldorf
-        Karlsruher SC x17 => Karlsruher SC
-        SC Paderborn x17 => SC Paderborn 07
-        SV Sandhausen x17 => SV Sandhausen
-        SpVgg Greuther Fürth x17 => SpVgg Greuther Fürth
-        TSV 1860 München x17 => TSV 1860 München
-        VfL Bochum x17 => VfL Bochum
-        VfR Aalen x17 => VfR Aalen
-      17 rounds:
+[8/39] >2013-14/2-bundesliga2-i.txt< - 1 section(s):
+    178 lines, 153 matches - 2. Bundesliga (de.2) 2013/14
+      18 teams (referenced):
+        17× 1. FC Kaiserslautern
+        17× 1. FC Köln
+        17× 1. FC Union Berlin
+        17× Arminia Bielefeld
+        17× Dynamo Dresden
+        17× Energie Cottbus
+        17× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        17× FC Ingolstadt ⇒ FC Ingolstadt 04
+        17× FC St. Pauli
+        17× FSV Frankfurt
+        17× Fortuna Düsseldorf
+        17× Karlsruher SC
+        17× SC Paderborn ⇒ SC Paderborn 07
+        17× SV Sandhausen
+        17× SpVgg Greuther Fürth
+        17× TSV 1860 München
+        17× VfL Bochum
+        17× VfR Aalen
+      17 rounds (referenced):
         1. Spieltag, 9 matches
         2. Spieltag, 9 matches
         3. Spieltag  // 09.08. - 12.08., 9 matches
@@ -234,29 +304,28 @@
         15. Spieltag  // 22.11. - 25.11., 9 matches
         16. Spieltag  // 29.11. - 02.12., 9 matches
         17. Spieltag  // 06.12. - 09.12., 9 matches
-[9/39] >2013-14/2-bundesliga2-ii.txt<
-  1 section(s):
-    170 lines - league: >2. Bundesliga< (de.2), season: >2013/14<
-      18 clubs:
-        1. FC Kaiserslautern x17 => 1. FC Kaiserslautern
-        1. FC Köln x17 => 1. FC Köln
-        1. FC Union Berlin x17 => 1. FC Union Berlin
-        Arminia Bielefeld x17 => Arminia Bielefeld
-        Dynamo Dresden x17 => Dynamo Dresden
-        Energie Cottbus x17 => Energie Cottbus
-        Erzgebirge Aue x17 => FC Erzgebirge Aue
-        FC Ingolstadt 04 x17 => FC Ingolstadt 04
-        FC St. Pauli x17 => FC St. Pauli
-        FSV Frankfurt x17 => FSV Frankfurt
-        Fortuna Düsseldorf x17 => Fortuna Düsseldorf
-        Karlsruher SC x17 => Karlsruher SC
-        SC Paderborn 07 x17 => SC Paderborn 07
-        SV Sandhausen x17 => SV Sandhausen
-        SpVgg Greuther Fürth x17 => SpVgg Greuther Fürth
-        TSV 1860 München x17 => TSV 1860 München
-        VfL Bochum x17 => VfL Bochum
-        VfR Aalen x17 => VfR Aalen
-      17 rounds:
+[9/39] >2013-14/2-bundesliga2-ii.txt< - 1 section(s):
+    170 lines, 153 matches - 2. Bundesliga (de.2) 2013/14
+      18 teams (referenced):
+        17× 1. FC Kaiserslautern
+        17× 1. FC Köln
+        17× 1. FC Union Berlin
+        17× Arminia Bielefeld
+        17× Dynamo Dresden
+        17× Energie Cottbus
+        17× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        17× FC Ingolstadt 04
+        17× FC St. Pauli
+        17× FSV Frankfurt
+        17× Fortuna Düsseldorf
+        17× Karlsruher SC
+        17× SC Paderborn 07
+        17× SV Sandhausen
+        17× SpVgg Greuther Fürth
+        17× TSV 1860 München
+        17× VfL Bochum
+        17× VfR Aalen
+      17 rounds (referenced):
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
         20. Spieltag, 9 matches
@@ -274,48 +343,42 @@
         32. Spieltag, 9 matches
         33. Spieltag, 9 matches
         34. Spieltag, 9 matches
-[10/39] >2013-14/3-liga3-i.txt<
-  1 section(s):
-    0 lines - league: >3. Liga< (de.3), season: >2013/14<
-      0 clubs:
-      0 rounds:
-[11/39] >2013-14/3-liga3-ii.txt<
-  1 section(s):
-    0 lines - league: >3. Liga< (de.3), season: >2013/14<
-      0 clubs:
-      0 rounds:
-[12/39] >2013-14/cup.txt<
-  1 section(s):
-    4 lines - league: >DFB Pokal< (de.cup), season: >2013/14<
-      0 clubs:
-      4 rounds:
+[10/39] >2013-14/3-liga3-i.txt< - 1 section(s):
+    0 lines, 0 matches - 3. Liga (de.3) 2013/14
+      0 teams (referenced):
+[11/39] >2013-14/3-liga3-ii.txt< - 1 section(s):
+    0 lines, 0 matches - 3. Liga (de.3) 2013/14
+      0 teams (referenced):
+[12/39] >2013-14/cup.txt< - 1 section(s):
+    4 lines, 0 matches - DFB Pokal (de.cup) 2013/14
+      0 teams (referenced):
+      4 rounds (referenced):
         (1) Achtelfinale   //   (Di./Mi.) 3./4. Dez 2013, 0 matches
         (2) Viertelfinale  //   (Di./Mi.) 11./12. Feb 2014, 0 matches
         (3) Halbfinale     //   (Di./Mi.) 15./16. Apr 2014, 0 matches
         (4) Finale         //   (Sa.) 17. Mai 2014    @ Berlin, 0 matches
-[13/39] >2014-15/1-bundesliga-i.txt<
-  1 section(s):
-    195 lines - league: >Bundesliga< (de.1), season: >2014/15<
-      18 clubs:
-        1. FC Köln x17 => 1. FC Köln
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Mönchengladbach x17 => Bor. Mönchengladbach
-        Borussia Dortmund x17 => Borussia Dortmund
-        Eintracht Frankfurt x17 => Eintracht Frankfurt
-        FC Augsburg x17 => FC Augsburg
-        FC Schalke 04 x17 => FC Schalke 04
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        Hertha BSC x17 => Hertha BSC
-        SC Freiburg x17 => SC Freiburg
-        SC Paderborn 07 x17 => SC Paderborn 07
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[13/39] >2014-15/1-bundesliga-i.txt< - 1 section(s):
+    195 lines, 153 matches - Bundesliga (de.1) 2014/15
+      18 teams (referenced):
+        17× 1. FC Köln
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Mönchengladbach
+        17× Borussia Dortmund
+        17× Eintracht Frankfurt
+        17× FC Augsburg
+        17× FC Schalke 04
+        17× Hamburger SV
+        17× Hannover 96
+        17× Hertha BSC
+        17× SC Freiburg
+        17× SC Paderborn 07
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         1. Spieltag, 9 matches
         2. Spieltag, 9 matches
         3. Spieltag, 9 matches
@@ -333,29 +396,28 @@
         15. Spieltag, 9 matches
         16. Spieltag, 9 matches
         17. Spieltag, 9 matches
-[14/39] >2014-15/1-bundesliga-ii.txt<
-  1 section(s):
-    187 lines - league: >Bundesliga< (de.1), season: >2014/15<
-      18 clubs:
-        1. FC Köln x17 => 1. FC Köln
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Mönchengladbach x17 => Bor. Mönchengladbach
-        Borussia Dortmund x17 => Borussia Dortmund
-        Eintracht Frankfurt x17 => Eintracht Frankfurt
-        FC Augsburg x17 => FC Augsburg
-        FC Schalke 04 x17 => FC Schalke 04
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        Hertha BSC x17 => Hertha BSC
-        SC Freiburg x17 => SC Freiburg
-        SC Paderborn 07 x17 => SC Paderborn 07
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[14/39] >2014-15/1-bundesliga-ii.txt< - 1 section(s):
+    187 lines, 153 matches - Bundesliga (de.1) 2014/15
+      18 teams (referenced):
+        17× 1. FC Köln
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Mönchengladbach
+        17× Borussia Dortmund
+        17× Eintracht Frankfurt
+        17× FC Augsburg
+        17× FC Schalke 04
+        17× Hamburger SV
+        17× Hannover 96
+        17× Hertha BSC
+        17× SC Freiburg
+        17× SC Paderborn 07
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
         20. Spieltag, 9 matches
@@ -373,29 +435,28 @@
         32. Spieltag, 9 matches
         33. Spieltag, 9 matches
         34. Spieltag, 9 matches
-[15/39] >2014-15/2-bundesliga2-i.txt<
-  1 section(s):
-    193 lines - league: >2. Bundesliga< (de.2), season: >2014/15<
-      18 clubs:
-        1. FC Heidenheim 1846 x16 => 1. FC Heidenheim
-        1. FC Kaiserslautern x16 => 1. FC Kaiserslautern
-        1. FC Nürnberg x16 => 1. FC Nürnberg
-        1. FC Union Berlin x16 => 1. FC Union Berlin
-        Eintracht Braunschweig x16 => Eintracht Braunschweig
-        Erzgebirge Aue x16 => FC Erzgebirge Aue
-        FC Ingolstadt 04 x16 => FC Ingolstadt 04
-        FC St. Pauli x16 => FC St. Pauli
-        FSV Frankfurt x16 => FSV Frankfurt
-        Fortuna Düsseldorf x16 => Fortuna Düsseldorf
-        Karlsruher SC x16 => Karlsruher SC
-        RB Leipzig x16 => RB Leipzig
-        SV Darmstadt 98 x16 => SV Darmstadt 98
-        SV Sandhausen x16 => SV Sandhausen
-        SpVgg Greuther Fürth x16 => SpVgg Greuther Fürth
-        TSV 1860 München x16 => TSV 1860 München
-        VfL Bochum x16 => VfL Bochum
-        VfR Aalen x16 => VfR Aalen
-      16 rounds:
+[15/39] >2014-15/2-bundesliga2-i.txt< - 1 section(s):
+    193 lines, 144 matches - 2. Bundesliga (de.2) 2014/15
+      18 teams (referenced):
+        16× 1. FC Heidenheim 1846 ⇒ 1. FC Heidenheim
+        16× 1. FC Kaiserslautern
+        16× 1. FC Nürnberg
+        16× 1. FC Union Berlin
+        16× Eintracht Braunschweig
+        16× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        16× FC Ingolstadt 04
+        16× FC St. Pauli
+        16× FSV Frankfurt
+        16× Fortuna Düsseldorf
+        16× Karlsruher SC
+        16× RB Leipzig
+        16× SV Darmstadt 98
+        16× SV Sandhausen
+        16× SpVgg Greuther Fürth
+        16× TSV 1860 München
+        16× VfL Bochum
+        16× VfR Aalen
+      16 rounds (referenced):
         1. Spieltag, 9 matches
         2. Spieltag, 9 matches
         3. Spieltag, 9 matches
@@ -412,29 +473,28 @@
         14. Spieltag, 9 matches
         15. Spieltag, 9 matches
         16. Spieltag, 9 matches
-[16/39] >2014-15/2-bundesliga2-ii.txt<
-  1 section(s):
-    198 lines - league: >2. Bundesliga< (de.2), season: >2014/15<
-      18 clubs:
-        1. FC Heidenheim 1846 x18 => 1. FC Heidenheim
-        1. FC Kaiserslautern x18 => 1. FC Kaiserslautern
-        1. FC Nürnberg x18 => 1. FC Nürnberg
-        1. FC Union Berlin x18 => 1. FC Union Berlin
-        Eintracht Braunschweig x18 => Eintracht Braunschweig
-        Erzgebirge Aue x18 => FC Erzgebirge Aue
-        FC Ingolstadt 04 x18 => FC Ingolstadt 04
-        FC St. Pauli x18 => FC St. Pauli
-        FSV Frankfurt x18 => FSV Frankfurt
-        Fortuna Düsseldorf x18 => Fortuna Düsseldorf
-        Karlsruher SC x18 => Karlsruher SC
-        RB Leipzig x18 => RB Leipzig
-        SV Darmstadt 98 x18 => SV Darmstadt 98
-        SV Sandhausen x18 => SV Sandhausen
-        SpVgg Greuther Fürth x18 => SpVgg Greuther Fürth
-        TSV 1860 München x18 => TSV 1860 München
-        VfL Bochum x18 => VfL Bochum
-        VfR Aalen x18 => VfR Aalen
-      18 rounds:
+[16/39] >2014-15/2-bundesliga2-ii.txt< - 1 section(s):
+    198 lines, 162 matches - 2. Bundesliga (de.2) 2014/15
+      18 teams (referenced):
+        18× 1. FC Heidenheim 1846 ⇒ 1. FC Heidenheim
+        18× 1. FC Kaiserslautern
+        18× 1. FC Nürnberg
+        18× 1. FC Union Berlin
+        18× Eintracht Braunschweig
+        18× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        18× FC Ingolstadt 04
+        18× FC St. Pauli
+        18× FSV Frankfurt
+        18× Fortuna Düsseldorf
+        18× Karlsruher SC
+        18× RB Leipzig
+        18× SV Darmstadt 98
+        18× SV Sandhausen
+        18× SpVgg Greuther Fürth
+        18× TSV 1860 München
+        18× VfL Bochum
+        18× VfR Aalen
+      18 rounds (referenced):
         17. Spieltag, 9 matches
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
@@ -453,29 +513,28 @@
         32. Spieltag, 9 matches
         33. Spieltag, 9 matches
         34. Spieltag, 9 matches
-[17/39] >2015-16/1-bundesliga-i.txt<
-  1 section(s):
-    200 lines - league: >Bundesliga< (de.1), season: >2015/16<
-      18 clubs:
-        1. FC Köln x17 => 1. FC Köln
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Mönchengladbach x17 => Bor. Mönchengladbach
-        Borussia Dortmund x17 => Borussia Dortmund
-        Eintracht Frankfurt x17 => Eintracht Frankfurt
-        FC Augsburg x17 => FC Augsburg
-        FC Ingolstadt 04 x17 => FC Ingolstadt 04
-        FC Schalke 04 x17 => FC Schalke 04
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        Hertha BSC x17 => Hertha BSC
-        SV Darmstadt 98 x17 => SV Darmstadt 98
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[17/39] >2015-16/1-bundesliga-i.txt< - 1 section(s):
+    200 lines, 153 matches - Bundesliga (de.1) 2015/16
+      18 teams (referenced):
+        17× 1. FC Köln
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Mönchengladbach
+        17× Borussia Dortmund
+        17× Eintracht Frankfurt
+        17× FC Augsburg
+        17× FC Ingolstadt 04
+        17× FC Schalke 04
+        17× Hamburger SV
+        17× Hannover 96
+        17× Hertha BSC
+        17× SV Darmstadt 98
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         1. Spieltag, 9 matches
         2. Spieltag, 9 matches
         3. Spieltag, 9 matches
@@ -493,29 +552,28 @@
         15. Spieltag, 9 matches
         16. Spieltag, 9 matches
         17. Spieltag, 9 matches
-[18/39] >2015-16/1-bundesliga-ii.txt<
-  1 section(s):
-    187 lines - league: >Bundesliga< (de.1), season: >2015/16<
-      18 clubs:
-        1. FC Köln x17 => 1. FC Köln
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Mönchengladbach x17 => Bor. Mönchengladbach
-        Borussia Dortmund x17 => Borussia Dortmund
-        Eintracht Frankfurt x17 => Eintracht Frankfurt
-        FC Augsburg x17 => FC Augsburg
-        FC Ingolstadt 04 x17 => FC Ingolstadt 04
-        FC Schalke 04 x17 => FC Schalke 04
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        Hertha BSC x17 => Hertha BSC
-        SV Darmstadt 98 x17 => SV Darmstadt 98
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[18/39] >2015-16/1-bundesliga-ii.txt< - 1 section(s):
+    187 lines, 153 matches - Bundesliga (de.1) 2015/16
+      18 teams (referenced):
+        17× 1. FC Köln
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Mönchengladbach
+        17× Borussia Dortmund
+        17× Eintracht Frankfurt
+        17× FC Augsburg
+        17× FC Ingolstadt 04
+        17× FC Schalke 04
+        17× Hamburger SV
+        17× Hannover 96
+        17× Hertha BSC
+        17× SV Darmstadt 98
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
         20. Spieltag, 9 matches
@@ -533,29 +591,28 @@
         32. Spieltag, 9 matches
         33. Spieltag, 9 matches
         34. Spieltag, 9 matches
-[19/39] >2015-16/2-bundesliga2-i.txt<
-  1 section(s):
-    235 lines - league: >2. Bundesliga< (de.2), season: >2015/16<
-      18 clubs:
-        1. FC Heidenheim 1846 x19 => 1. FC Heidenheim
-        1. FC Kaiserslautern x19 => 1. FC Kaiserslautern
-        1. FC Nürnberg x19 => 1. FC Nürnberg
-        1. FC Union Berlin x19 => 1. FC Union Berlin
-        Arminia Bielefeld x19 => Arminia Bielefeld
-        Eintracht Braunschweig x19 => Eintracht Braunschweig
-        FC St. Pauli x19 => FC St. Pauli
-        FSV Frankfurt x19 => FSV Frankfurt
-        Fortuna Düsseldorf x19 => Fortuna Düsseldorf
-        Karlsruher SC x19 => Karlsruher SC
-        MSV Duisburg x19 => MSV Duisburg
-        RB Leipzig x19 => RB Leipzig
-        SC Freiburg x19 => SC Freiburg
-        SC Paderborn 07 x19 => SC Paderborn 07
-        SV Sandhausen x19 => SV Sandhausen
-        SpVgg Greuther Fürth x19 => SpVgg Greuther Fürth
-        TSV 1860 München x19 => TSV 1860 München
-        VfL Bochum x19 => VfL Bochum
-      19 rounds:
+[19/39] >2015-16/2-bundesliga2-i.txt< - 1 section(s):
+    234 lines, 171 matches - 2. Bundesliga (de.2) 2015/16
+      18 teams (referenced):
+        19× 1. FC Heidenheim 1846 ⇒ 1. FC Heidenheim
+        19× 1. FC Kaiserslautern
+        19× 1. FC Nürnberg
+        19× 1. FC Union Berlin
+        19× Arminia Bielefeld
+        19× Eintracht Braunschweig
+        19× FC St. Pauli
+        19× FSV Frankfurt
+        19× Fortuna Düsseldorf
+        19× Karlsruher SC
+        19× MSV Duisburg
+        19× RB Leipzig
+        19× SC Freiburg
+        19× SC Paderborn 07
+        19× SV Sandhausen
+        19× SpVgg Greuther Fürth
+        19× TSV 1860 München
+        19× VfL Bochum
+      19 rounds (referenced):
         1. Spieltag, 9 matches
         2. Spieltag, 9 matches
         3. Spieltag, 9 matches
@@ -575,29 +632,28 @@
         17. Spieltag, 9 matches
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
-[20/39] >2015-16/2-bundesliga2-ii.txt<
-  1 section(s):
-    165 lines - league: >2. Bundesliga< (de.2), season: >2015/16<
-      18 clubs:
-        1. FC Heidenheim 1846 x15 => 1. FC Heidenheim
-        1. FC Kaiserslautern x15 => 1. FC Kaiserslautern
-        1. FC Nürnberg x15 => 1. FC Nürnberg
-        1. FC Union Berlin x15 => 1. FC Union Berlin
-        Arminia Bielefeld x15 => Arminia Bielefeld
-        Eintracht Braunschweig x15 => Eintracht Braunschweig
-        FC St. Pauli x15 => FC St. Pauli
-        FSV Frankfurt x15 => FSV Frankfurt
-        Fortuna Düsseldorf x15 => Fortuna Düsseldorf
-        Karlsruher SC x15 => Karlsruher SC
-        MSV Duisburg x15 => MSV Duisburg
-        RB Leipzig x15 => RB Leipzig
-        SC Freiburg x15 => SC Freiburg
-        SC Paderborn 07 x15 => SC Paderborn 07
-        SV Sandhausen x15 => SV Sandhausen
-        SpVgg Greuther Fürth x15 => SpVgg Greuther Fürth
-        TSV 1860 München x15 => TSV 1860 München
-        VfL Bochum x15 => VfL Bochum
-      15 rounds:
+[20/39] >2015-16/2-bundesliga2-ii.txt< - 1 section(s):
+    165 lines, 135 matches - 2. Bundesliga (de.2) 2015/16
+      18 teams (referenced):
+        15× 1. FC Heidenheim 1846 ⇒ 1. FC Heidenheim
+        15× 1. FC Kaiserslautern
+        15× 1. FC Nürnberg
+        15× 1. FC Union Berlin
+        15× Arminia Bielefeld
+        15× Eintracht Braunschweig
+        15× FC St. Pauli
+        15× FSV Frankfurt
+        15× Fortuna Düsseldorf
+        15× Karlsruher SC
+        15× MSV Duisburg
+        15× RB Leipzig
+        15× SC Freiburg
+        15× SC Paderborn 07
+        15× SV Sandhausen
+        15× SpVgg Greuther Fürth
+        15× TSV 1860 München
+        15× VfL Bochum
+      15 rounds (referenced):
         20. Spieltag, 9 matches
         21. Spieltag, 9 matches
         22. Spieltag, 9 matches
@@ -613,31 +669,30 @@
         32. Spieltag, 9 matches
         33. Spieltag, 9 matches
         34. Spieltag, 9 matches
-[21/39] >2015-16/3-liga3-i.txt<
-  1 section(s):
-    272 lines - league: >3. Liga< (de.3), season: >2015/16<
-      20 clubs:
-        1. FC Magdeburg x21 => 1. FC Magdeburg
-        1. FSV Mainz 05 II x21 => 1. FSV Mainz 05 II
-        Chemnitzer FC x21 => Chemnitzer FC
-        Dynamo Dresden x21 => Dynamo Dresden
-        Energie Cottbus x21 => Energie Cottbus
-        Erzgebirge Aue x21 => FC Erzgebirge Aue
-        Fortuna Köln x21 => Fortuna Köln
-        Hallescher FC x21 => Hallescher FC
-        Hansa Rostock x21 => Hansa Rostock
-        Holstein Kiel x21 => Holstein Kiel
-        Preußen Münster x21 => Preußen Münster
-        Rot-Weiß Erfurt x21 => FC Rot-Weiß Erfurt
-        SG Sonnenhof Großaspach x21 => SG Großaspach
-        SV Wehen Wiesbaden x21 => SV Wehen Wiesbaden
-        Stuttgarter Kickers x21 => Stuttgarter Kickers
-        VfB Stuttgart II x21 => VfB Stuttgart II
-        VfL Osnabrück x21 => VfL Osnabrück
-        VfR Aalen x21 => VfR Aalen
-        Werder Bremen II x21 => Werder Bremen II
-        Würzburger Kickers x21 => Würzburger Kickers
-      21 rounds:
+[21/39] >2015-16/3-liga3-i.txt< - 1 section(s):
+    271 lines, 210 matches - 3. Liga (de.3) 2015/16
+      20 teams (referenced):
+        21× 1. FC Magdeburg
+        21× 1. FSV Mainz 05 II
+        21× Chemnitzer FC
+        21× Dynamo Dresden
+        21× Energie Cottbus
+        21× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        21× Fortuna Köln
+        21× Hallescher FC
+        21× Hansa Rostock
+        21× Holstein Kiel
+        21× Preußen Münster
+        21× Rot-Weiß Erfurt ⇒ FC Rot-Weiß Erfurt
+        21× SG Sonnenhof Großaspach ⇒ SG Großaspach
+        21× SV Wehen Wiesbaden
+        21× Stuttgarter Kickers
+        21× VfB Stuttgart II
+        21× VfL Osnabrück
+        21× VfR Aalen
+        21× Werder Bremen II
+        21× Würzburger Kickers
+      21 rounds (referenced):
         1. Spieltag, 10 matches
         2. Spieltag, 10 matches
         3. Spieltag, 10 matches
@@ -659,31 +714,30 @@
         19. Spieltag, 10 matches
         20. Spieltag, 10 matches
         21. Spieltag, 10 matches
-[22/39] >2015-16/3-liga3-ii.txt<
-  1 section(s):
-    204 lines - league: >3. Liga< (de.3), season: >2015/16<
-      20 clubs:
-        1. FC Magdeburg x17 => 1. FC Magdeburg
-        1. FSV Mainz 05 II x17 => 1. FSV Mainz 05 II
-        Chemnitzer FC x17 => Chemnitzer FC
-        Dynamo Dresden x17 => Dynamo Dresden
-        Energie Cottbus x17 => Energie Cottbus
-        Erzgebirge Aue x17 => FC Erzgebirge Aue
-        Fortuna Köln x17 => Fortuna Köln
-        Hallescher FC x17 => Hallescher FC
-        Hansa Rostock x17 => Hansa Rostock
-        Holstein Kiel x17 => Holstein Kiel
-        Preußen Münster x17 => Preußen Münster
-        Rot-Weiß Erfurt x17 => FC Rot-Weiß Erfurt
-        SG Sonnenhof Großaspach x17 => SG Großaspach
-        SV Wehen Wiesbaden x17 => SV Wehen Wiesbaden
-        Stuttgarter Kickers x17 => Stuttgarter Kickers
-        VfB Stuttgart II x17 => VfB Stuttgart II
-        VfL Osnabrück x17 => VfL Osnabrück
-        VfR Aalen x17 => VfR Aalen
-        Werder Bremen II x17 => Werder Bremen II
-        Würzburger Kickers x17 => Würzburger Kickers
-      17 rounds:
+[22/39] >2015-16/3-liga3-ii.txt< - 1 section(s):
+    204 lines, 170 matches - 3. Liga (de.3) 2015/16
+      20 teams (referenced):
+        17× 1. FC Magdeburg
+        17× 1. FSV Mainz 05 II
+        17× Chemnitzer FC
+        17× Dynamo Dresden
+        17× Energie Cottbus
+        17× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        17× Fortuna Köln
+        17× Hallescher FC
+        17× Hansa Rostock
+        17× Holstein Kiel
+        17× Preußen Münster
+        17× Rot-Weiß Erfurt ⇒ FC Rot-Weiß Erfurt
+        17× SG Sonnenhof Großaspach ⇒ SG Großaspach
+        17× SV Wehen Wiesbaden
+        17× Stuttgarter Kickers
+        17× VfB Stuttgart II
+        17× VfL Osnabrück
+        17× VfR Aalen
+        17× Werder Bremen II
+        17× Würzburger Kickers
+      17 rounds (referenced):
         22. Spieltag, 10 matches
         23. Spieltag, 10 matches
         24. Spieltag, 10 matches
@@ -701,29 +755,28 @@
         36. Spieltag, 10 matches
         37. Spieltag, 10 matches
         38. Spieltag, 10 matches
-[23/39] >2016-17/1-bundesliga-i.txt<
-  1 section(s):
-    206 lines - league: >Bundesliga< (de.1), season: >2016/17<
-      18 clubs:
-        1. FC Köln x16 => 1. FC Köln
-        1. FSV Mainz 05 x16 => 1. FSV Mainz 05
-        1899 Hoffenheim x16 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x16 => Bayer 04 Leverkusen
-        Bayern München x16 => Bayern München
-        Bor. Mönchengladbach x16 => Bor. Mönchengladbach
-        Borussia Dortmund x16 => Borussia Dortmund
-        Eintracht Frankfurt x16 => Eintracht Frankfurt
-        FC Augsburg x16 => FC Augsburg
-        FC Ingolstadt 04 x16 => FC Ingolstadt 04
-        FC Schalke 04 x16 => FC Schalke 04
-        Hamburger SV x16 => Hamburger SV
-        Hertha BSC x16 => Hertha BSC
-        RB Leipzig x16 => RB Leipzig
-        SC Freiburg x16 => SC Freiburg
-        SV Darmstadt 98 x16 => SV Darmstadt 98
-        VfL Wolfsburg x16 => VfL Wolfsburg
-        Werder Bremen x16 => Werder Bremen
-      16 rounds:
+[23/39] >2016-17/1-bundesliga-i.txt< - 1 section(s):
+    206 lines, 144 matches - Bundesliga (de.1) 2016/17
+      18 teams (referenced):
+        16× 1. FC Köln
+        16× 1. FSV Mainz 05
+        16× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        16× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        16× Bayern München
+        16× Bor. Mönchengladbach
+        16× Borussia Dortmund
+        16× Eintracht Frankfurt
+        16× FC Augsburg
+        16× FC Ingolstadt 04
+        16× FC Schalke 04
+        16× Hamburger SV
+        16× Hertha BSC
+        16× RB Leipzig
+        16× SC Freiburg
+        16× SV Darmstadt 98
+        16× VfL Wolfsburg
+        16× Werder Bremen
+      16 rounds (referenced):
         1. Spieltag, 9 matches
         2. Spieltag, 9 matches
         3. Spieltag, 9 matches
@@ -740,29 +793,28 @@
         14. Spieltag, 9 matches
         15. Spieltag, 9 matches
         16. Spieltag, 9 matches
-[24/39] >2016-17/1-bundesliga-ii.txt<
-  1 section(s):
-    228 lines - league: >Bundesliga< (de.1), season: >2016/17<
-      18 clubs:
-        1. FC Köln x18 => 1. FC Köln
-        1. FSV Mainz 05 x18 => 1. FSV Mainz 05
-        1899 Hoffenheim x18 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x18 => Bayer 04 Leverkusen
-        Bayern München x18 => Bayern München
-        Bor. Mönchengladbach x18 => Bor. Mönchengladbach
-        Borussia Dortmund x18 => Borussia Dortmund
-        Eintracht Frankfurt x18 => Eintracht Frankfurt
-        FC Augsburg x18 => FC Augsburg
-        FC Ingolstadt 04 x18 => FC Ingolstadt 04
-        FC Schalke 04 x18 => FC Schalke 04
-        Hamburger SV x18 => Hamburger SV
-        Hertha BSC x18 => Hertha BSC
-        RB Leipzig x18 => RB Leipzig
-        SC Freiburg x18 => SC Freiburg
-        SV Darmstadt 98 x18 => SV Darmstadt 98
-        VfL Wolfsburg x18 => VfL Wolfsburg
-        Werder Bremen x18 => Werder Bremen
-      18 rounds:
+[24/39] >2016-17/1-bundesliga-ii.txt< - 1 section(s):
+    228 lines, 162 matches - Bundesliga (de.1) 2016/17
+      18 teams (referenced):
+        18× 1. FC Köln
+        18× 1. FSV Mainz 05
+        18× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        18× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        18× Bayern München
+        18× Bor. Mönchengladbach
+        18× Borussia Dortmund
+        18× Eintracht Frankfurt
+        18× FC Augsburg
+        18× FC Ingolstadt 04
+        18× FC Schalke 04
+        18× Hamburger SV
+        18× Hertha BSC
+        18× RB Leipzig
+        18× SC Freiburg
+        18× SV Darmstadt 98
+        18× VfL Wolfsburg
+        18× Werder Bremen
+      18 rounds (referenced):
         17. Spieltag, 9 matches
         18. Spieltag, 9 matches
         19. Spieltag, 9 matches
@@ -781,29 +833,28 @@
         32. Spieltag, 9 matches
         33. Spieltag, 9 matches
         34. Spieltag, 9 matches
-[25/39] >2016-17/2-bundesliga2-i.txt<
-  1 section(s):
-    206 lines - league: >2. Bundesliga< (de.2), season: >2016/17<
-      18 clubs:
-        1. FC Heidenheim 1846 x17 => 1. FC Heidenheim
-        1. FC Kaiserslautern x17 => 1. FC Kaiserslautern
-        1. FC Nürnberg x17 => 1. FC Nürnberg
-        1. FC Union Berlin x17 => 1. FC Union Berlin
-        Arminia Bielefeld x17 => Arminia Bielefeld
-        Dynamo Dresden x17 => Dynamo Dresden
-        Eintracht Braunschweig x17 => Eintracht Braunschweig
-        Erzgebirge Aue x17 => FC Erzgebirge Aue
-        FC St. Pauli x17 => FC St. Pauli
-        Fortuna Düsseldorf x17 => Fortuna Düsseldorf
-        Hannover 96 x17 => Hannover 96
-        Karlsruher SC x17 => Karlsruher SC
-        SV Sandhausen x17 => SV Sandhausen
-        SpVgg Greuther Fürth x17 => SpVgg Greuther Fürth
-        TSV 1860 München x17 => TSV 1860 München
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Bochum x17 => VfL Bochum
-        Würzburger Kickers x17 => Würzburger Kickers
-      17 rounds:
+[25/39] >2016-17/2-bundesliga2-i.txt< - 1 section(s):
+    206 lines, 153 matches - 2. Bundesliga (de.2) 2016/17
+      18 teams (referenced):
+        17× 1. FC Heidenheim 1846 ⇒ 1. FC Heidenheim
+        17× 1. FC Kaiserslautern
+        17× 1. FC Nürnberg
+        17× 1. FC Union Berlin
+        17× Arminia Bielefeld
+        17× Dynamo Dresden
+        17× Eintracht Braunschweig
+        17× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        17× FC St. Pauli
+        17× Fortuna Düsseldorf
+        17× Hannover 96
+        17× Karlsruher SC
+        17× SV Sandhausen
+        17× SpVgg Greuther Fürth
+        17× TSV 1860 München
+        17× VfB Stuttgart
+        17× VfL Bochum
+        17× Würzburger Kickers
+      17 rounds (referenced):
         Spieltag 1, 9 matches
         Spieltag 2, 9 matches
         Spieltag 3, 9 matches
@@ -821,29 +872,28 @@
         Spieltag 15, 9 matches
         Spieltag 16, 9 matches
         Spieltag 17, 9 matches
-[26/39] >2016-17/2-bundesliga2-ii.txt<
-  1 section(s):
-    187 lines - league: >2. Bundesliga< (de.2), season: >2016/17<
-      18 clubs:
-        1. FC Heidenheim 1846 x17 => 1. FC Heidenheim
-        1. FC Kaiserslautern x17 => 1. FC Kaiserslautern
-        1. FC Nürnberg x17 => 1. FC Nürnberg
-        1. FC Union Berlin x17 => 1. FC Union Berlin
-        Arminia Bielefeld x17 => Arminia Bielefeld
-        Dynamo Dresden x17 => Dynamo Dresden
-        Eintracht Braunschweig x17 => Eintracht Braunschweig
-        Erzgebirge Aue x17 => FC Erzgebirge Aue
-        FC St. Pauli x17 => FC St. Pauli
-        Fortuna Düsseldorf x17 => Fortuna Düsseldorf
-        Hannover 96 x17 => Hannover 96
-        Karlsruher SC x17 => Karlsruher SC
-        SV Sandhausen x17 => SV Sandhausen
-        SpVgg Greuther Fürth x17 => SpVgg Greuther Fürth
-        TSV 1860 München x17 => TSV 1860 München
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Bochum x17 => VfL Bochum
-        Würzburger Kickers x17 => Würzburger Kickers
-      17 rounds:
+[26/39] >2016-17/2-bundesliga2-ii.txt< - 1 section(s):
+    187 lines, 153 matches - 2. Bundesliga (de.2) 2016/17
+      18 teams (referenced):
+        17× 1. FC Heidenheim 1846 ⇒ 1. FC Heidenheim
+        17× 1. FC Kaiserslautern
+        17× 1. FC Nürnberg
+        17× 1. FC Union Berlin
+        17× Arminia Bielefeld
+        17× Dynamo Dresden
+        17× Eintracht Braunschweig
+        17× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        17× FC St. Pauli
+        17× Fortuna Düsseldorf
+        17× Hannover 96
+        17× Karlsruher SC
+        17× SV Sandhausen
+        17× SpVgg Greuther Fürth
+        17× TSV 1860 München
+        17× VfB Stuttgart
+        17× VfL Bochum
+        17× Würzburger Kickers
+      17 rounds (referenced):
         Spieltag 18, 9 matches
         Spieltag 19, 9 matches
         Spieltag 20, 9 matches
@@ -861,31 +911,30 @@
         Spieltag 32, 9 matches
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
-[27/39] >2016-17/3-liga3-i.txt<
-  1 section(s):
-    242 lines - league: >3. Liga< (de.3), season: >2016/17<
-      20 clubs:
-        1. FC Magdeburg x19 => 1. FC Magdeburg
-        1. FSV Mainz 05 II x19 => 1. FSV Mainz 05 II
-        Chemnitzer FC x19 => Chemnitzer FC
-        FC Rot-Weiß Erfurt x19 => FC Rot-Weiß Erfurt
-        FSV Frankfurt x19 => FSV Frankfurt
-        FSV Zwickau x19 => FSV Zwickau
-        Fortuna Köln x19 => Fortuna Köln
-        Großaspach x19 => SG Großaspach
-        Hallescher FC x19 => Hallescher FC
-        Hansa Rostock x19 => Hansa Rostock
-        Holstein Kiel x19 => Holstein Kiel
-        MSV Duisburg x19 => MSV Duisburg
-        Preußen Münster x19 => Preußen Münster
-        SC Paderborn 07 x19 => SC Paderborn 07
-        SSV Jahn Regensburg x19 => SSV Jahn Regensburg
-        Sportfreunde Lotte x19 => SF Lotte
-        VfL Osnabrück x19 => VfL Osnabrück
-        VfR Aalen x19 => VfR Aalen
-        Wehen Wiesbaden x19 => SV Wehen Wiesbaden
-        Werder Bremen II x19 => Werder Bremen II
-      19 rounds:
+[27/39] >2016-17/3-liga3-i.txt< - 1 section(s):
+    242 lines, 190 matches - 3. Liga (de.3) 2016/17
+      20 teams (referenced):
+        19× 1. FC Magdeburg
+        19× 1. FSV Mainz 05 II
+        19× Chemnitzer FC
+        19× FC Rot-Weiß Erfurt
+        19× FSV Frankfurt
+        19× FSV Zwickau
+        19× Fortuna Köln
+        19× Großaspach ⇒ SG Großaspach
+        19× Hallescher FC
+        19× Hansa Rostock
+        19× Holstein Kiel
+        19× MSV Duisburg
+        19× Preußen Münster
+        19× SC Paderborn 07
+        19× SSV Jahn Regensburg
+        19× Sportfreunde Lotte ⇒ SF Lotte
+        19× VfL Osnabrück
+        19× VfR Aalen
+        19× Wehen Wiesbaden ⇒ SV Wehen Wiesbaden
+        19× Werder Bremen II
+      19 rounds (referenced):
         1. Spieltag, 10 matches
         2. Spieltag, 10 matches
         3. Spieltag, 10 matches
@@ -905,31 +954,30 @@
         17. Spieltag, 10 matches
         18. Spieltag, 10 matches
         19. Spieltag, 10 matches
-[28/39] >2016-17/3-liga3-ii.txt<
-  1 section(s):
-    236 lines - league: >3. Liga< (de.3), season: >2016/17<
-      20 clubs:
-        Sportfreunde Lotte x22 => SF Lotte
-        Chemnitzer FC x20 => Chemnitzer FC
-        Großaspach x20 => SG Großaspach
-        Holstein Kiel x20 => Holstein Kiel
-        Wehen Wiesbaden x20 => SV Wehen Wiesbaden
-        Werder Bremen II x20 => Werder Bremen II
-        1. FC Magdeburg x19 => 1. FC Magdeburg
-        1. FSV Mainz 05 II x19 => 1. FSV Mainz 05 II
-        FC Rot-Weiß Erfurt x19 => FC Rot-Weiß Erfurt
-        FSV Frankfurt x19 => FSV Frankfurt
-        FSV Zwickau x19 => FSV Zwickau
-        Fortuna Köln x19 => Fortuna Köln
-        Hallescher FC x19 => Hallescher FC
-        Hansa Rostock x19 => Hansa Rostock
-        MSV Duisburg x19 => MSV Duisburg
-        Preußen Münster x19 => Preußen Münster
-        SC Paderborn 07 x19 => SC Paderborn 07
-        SSV Jahn Regensburg x19 => SSV Jahn Regensburg
-        VfL Osnabrück x19 => VfL Osnabrück
-        VfR Aalen x19 => VfR Aalen
-      19 rounds:
+[28/39] >2016-17/3-liga3-ii.txt< - 1 section(s):
+    236 lines, 194 matches - 3. Liga (de.3) 2016/17
+      20 teams (referenced):
+        22× Sportfreunde Lotte ⇒ SF Lotte
+        20× Chemnitzer FC
+        20× Großaspach ⇒ SG Großaspach
+        20× Holstein Kiel
+        20× Wehen Wiesbaden ⇒ SV Wehen Wiesbaden
+        20× Werder Bremen II
+        19× 1. FC Magdeburg
+        19× 1. FSV Mainz 05 II
+        19× FC Rot-Weiß Erfurt
+        19× FSV Frankfurt
+        19× FSV Zwickau
+        19× Fortuna Köln
+        19× Hallescher FC
+        19× Hansa Rostock
+        19× MSV Duisburg
+        19× Preußen Münster
+        19× SC Paderborn 07
+        19× SSV Jahn Regensburg
+        19× VfL Osnabrück
+        19× VfR Aalen
+      19 rounds (referenced):
         20. Spieltag, 10 matches
         21. Spieltag, 10 matches
         22. Spieltag, 10 matches
@@ -949,29 +997,28 @@
         36. Spieltag, 10 matches
         37. Spieltag, 10 matches
         38. Spieltag, 10 matches
-[29/39] >2017-18/1-bundesliga-i.txt<
-  1 section(s):
-    219 lines - league: >Bundesliga< (de.1), season: >2017/18<
-      18 clubs:
-        1. FC Köln x17 => 1. FC Köln
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Mönchengladbach x17 => Bor. Mönchengladbach
-        Borussia Dortmund x17 => Borussia Dortmund
-        Eintracht Frankfurt x17 => Eintracht Frankfurt
-        FC Augsburg x17 => FC Augsburg
-        FC Schalke 04 x17 => FC Schalke 04
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        Hertha BSC x17 => Hertha BSC
-        RB Leipzig x17 => RB Leipzig
-        SC Freiburg x17 => SC Freiburg
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[29/39] >2017-18/1-bundesliga-i.txt< - 1 section(s):
+    219 lines, 153 matches - Bundesliga (de.1) 2017/18
+      18 teams (referenced):
+        17× 1. FC Köln
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Mönchengladbach
+        17× Borussia Dortmund
+        17× Eintracht Frankfurt
+        17× FC Augsburg
+        17× FC Schalke 04
+        17× Hamburger SV
+        17× Hannover 96
+        17× Hertha BSC
+        17× RB Leipzig
+        17× SC Freiburg
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         Spieltag 1, 9 matches
         Spieltag 2, 9 matches
         Spieltag 3, 9 matches
@@ -989,29 +1036,28 @@
         Spieltag 15, 9 matches
         Spieltag 16, 9 matches
         Spieltag 17, 9 matches
-[30/39] >2017-18/1-bundesliga-ii.txt<
-  1 section(s):
-    221 lines - league: >Bundesliga< (de.1), season: >2017/18<
-      18 clubs:
-        1. FC Köln x17 => 1. FC Köln
-        1. FSV Mainz 05 x17 => 1. FSV Mainz 05
-        1899 Hoffenheim x17 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x17 => Bayer 04 Leverkusen
-        Bayern München x17 => Bayern München
-        Bor. Mönchengladbach x17 => Bor. Mönchengladbach
-        Borussia Dortmund x17 => Borussia Dortmund
-        Eintracht Frankfurt x17 => Eintracht Frankfurt
-        FC Augsburg x17 => FC Augsburg
-        FC Schalke 04 x17 => FC Schalke 04
-        Hamburger SV x17 => Hamburger SV
-        Hannover 96 x17 => Hannover 96
-        Hertha BSC x17 => Hertha BSC
-        RB Leipzig x17 => RB Leipzig
-        SC Freiburg x17 => SC Freiburg
-        VfB Stuttgart x17 => VfB Stuttgart
-        VfL Wolfsburg x17 => VfL Wolfsburg
-        Werder Bremen x17 => Werder Bremen
-      17 rounds:
+[30/39] >2017-18/1-bundesliga-ii.txt< - 1 section(s):
+    221 lines, 153 matches - Bundesliga (de.1) 2017/18
+      18 teams (referenced):
+        17× 1. FC Köln
+        17× 1. FSV Mainz 05
+        17× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        17× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        17× Bayern München
+        17× Bor. Mönchengladbach
+        17× Borussia Dortmund
+        17× Eintracht Frankfurt
+        17× FC Augsburg
+        17× FC Schalke 04
+        17× Hamburger SV
+        17× Hannover 96
+        17× Hertha BSC
+        17× RB Leipzig
+        17× SC Freiburg
+        17× VfB Stuttgart
+        17× VfL Wolfsburg
+        17× Werder Bremen
+      17 rounds (referenced):
         Spieltag 18, 9 matches
         Spieltag 19, 9 matches
         Spieltag 20, 9 matches
@@ -1029,29 +1075,28 @@
         Spieltag 32, 9 matches
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
-[31/39] >2017-18/2-bundesliga2-i.txt<
-  1 section(s):
-    253 lines - league: >2. Bundesliga< (de.2), season: >2017/18<
-      18 clubs:
-        1. FC Heidenheim 1846 x19 => 1. FC Heidenheim
-        Erzgebirge Aue x19 => FC Erzgebirge Aue
-        1. FC Kaiserslautern x18 => 1. FC Kaiserslautern
-        1. FC Nürnberg x18 => 1. FC Nürnberg
-        1. FC Union Berlin x18 => 1. FC Union Berlin
-        Arminia Bielefeld x18 => Arminia Bielefeld
-        Dynamo Dresden x18 => Dynamo Dresden
-        Eintracht Braunschweig x18 => Eintracht Braunschweig
-        FC Ingolstadt 04 x18 => FC Ingolstadt 04
-        FC St. Pauli x18 => FC St. Pauli
-        Fortuna Düsseldorf x18 => Fortuna Düsseldorf
-        Holstein Kiel x18 => Holstein Kiel
-        Jahn Regensburg x18 => SSV Jahn Regensburg
-        MSV Duisburg x18 => MSV Duisburg
-        SV Darmstadt 98 x18 => SV Darmstadt 98
-        SV Sandhausen x18 => SV Sandhausen
-        SpVgg Greuther Fürth x18 => SpVgg Greuther Fürth
-        VfL Bochum x18 => VfL Bochum
-      19 rounds:
+[31/39] >2017-18/2-bundesliga2-i.txt< - 1 section(s):
+    253 lines, 163 matches - 2. Bundesliga (de.2) 2017/18
+      18 teams (referenced):
+        19× 1. FC Heidenheim 1846 ⇒ 1. FC Heidenheim
+        19× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        18× 1. FC Kaiserslautern
+        18× 1. FC Nürnberg
+        18× 1. FC Union Berlin
+        18× Arminia Bielefeld
+        18× Dynamo Dresden
+        18× Eintracht Braunschweig
+        18× FC Ingolstadt 04
+        18× FC St. Pauli
+        18× Fortuna Düsseldorf
+        18× Holstein Kiel
+        18× Jahn Regensburg ⇒ SSV Jahn Regensburg
+        18× MSV Duisburg
+        18× SV Darmstadt 98
+        18× SV Sandhausen
+        18× SpVgg Greuther Fürth
+        18× VfL Bochum
+      19 rounds (referenced):
         Spieltag 1, 9 matches
         Spieltag 2, 9 matches
         Nachtrag Spieltag 1, 1 matches
@@ -1071,29 +1116,28 @@
         Spieltag 16, 9 matches
         Spieltag 17, 9 matches
         Spieltag 18, 9 matches
-[32/39] >2017-18/2-bundesliga2-ii.txt<
-  1 section(s):
-    213 lines - league: >2. Bundesliga< (de.2), season: >2017/18<
-      18 clubs:
-        1. FC Kaiserslautern x17 => 1. FC Kaiserslautern
-        SV Darmstadt 98 x17 => SV Darmstadt 98
-        1. FC Heidenheim 1846 x16 => 1. FC Heidenheim
-        1. FC Nürnberg x16 => 1. FC Nürnberg
-        1. FC Union Berlin x16 => 1. FC Union Berlin
-        Arminia Bielefeld x16 => Arminia Bielefeld
-        Dynamo Dresden x16 => Dynamo Dresden
-        Eintracht Braunschweig x16 => Eintracht Braunschweig
-        Erzgebirge Aue x16 => FC Erzgebirge Aue
-        FC Ingolstadt 04 x16 => FC Ingolstadt 04
-        FC St. Pauli x16 => FC St. Pauli
-        Fortuna Düsseldorf x16 => Fortuna Düsseldorf
-        Holstein Kiel x16 => Holstein Kiel
-        Jahn Regensburg x16 => SSV Jahn Regensburg
-        MSV Duisburg x16 => MSV Duisburg
-        SV Sandhausen x16 => SV Sandhausen
-        SpVgg Greuther Fürth x16 => SpVgg Greuther Fürth
-        VfL Bochum x16 => VfL Bochum
-      16 rounds:
+[32/39] >2017-18/2-bundesliga2-ii.txt< - 1 section(s):
+    213 lines, 145 matches - 2. Bundesliga (de.2) 2017/18
+      18 teams (referenced):
+        17× 1. FC Kaiserslautern
+        17× SV Darmstadt 98
+        16× 1. FC Heidenheim 1846 ⇒ 1. FC Heidenheim
+        16× 1. FC Nürnberg
+        16× 1. FC Union Berlin
+        16× Arminia Bielefeld
+        16× Dynamo Dresden
+        16× Eintracht Braunschweig
+        16× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        16× FC Ingolstadt 04
+        16× FC St. Pauli
+        16× Fortuna Düsseldorf
+        16× Holstein Kiel
+        16× Jahn Regensburg ⇒ SSV Jahn Regensburg
+        16× MSV Duisburg
+        16× SV Sandhausen
+        16× SpVgg Greuther Fürth
+        16× VfL Bochum
+      16 rounds (referenced):
         Spieltag 19, 9 matches
         Spieltag 20, 9 matches
         Spieltag 21, 9 matches
@@ -1110,31 +1154,30 @@
         Spieltag 32, 9 matches
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
-[33/39] >2017-18/3-liga3-i.txt<
-  1 section(s):
-    273 lines - league: >3. Liga< (de.3), season: >2017/18<
-      20 clubs:
-        1. FC Magdeburg x20 => 1. FC Magdeburg
-        Chemnitzer FC x20 => Chemnitzer FC
-        FC Carl Zeiss Jena x20 => FC Carl Zeiss Jena
-        FSV Zwickau x20 => FSV Zwickau
-        Fortuna Köln x20 => Fortuna Köln
-        Hallescher FC x20 => Hallescher FC
-        Hansa Rostock x20 => Hansa Rostock
-        Karlsruher SC x20 => Karlsruher SC
-        Preußen Münster x20 => Preußen Münster
-        Rot-Weiß Erfurt x20 => FC Rot-Weiß Erfurt
-        SC Paderborn 07 x20 => SC Paderborn 07
-        SG Sonnenhof Großaspach x20 => SG Großaspach
-        SV Meppen x20 => SV Meppen
-        SV Wehen Wiesbaden x20 => SV Wehen Wiesbaden
-        SpVgg Unterhaching x20 => SpVgg Unterhaching
-        Sportfreunde Lotte x20 => SF Lotte
-        VfL Osnabrück x20 => VfL Osnabrück
-        VfR Aalen x20 => VfR Aalen
-        Werder Bremen II x20 => Werder Bremen II
-        Würzburger Kickers x20 => Würzburger Kickers
-      20 rounds:
+[33/39] >2017-18/3-liga3-i.txt< - 1 section(s):
+    273 lines, 200 matches - 3. Liga (de.3) 2017/18
+      20 teams (referenced):
+        20× 1. FC Magdeburg
+        20× Chemnitzer FC
+        20× FC Carl Zeiss Jena
+        20× FSV Zwickau
+        20× Fortuna Köln
+        20× Hallescher FC
+        20× Hansa Rostock
+        20× Karlsruher SC
+        20× Preußen Münster
+        20× Rot-Weiß Erfurt ⇒ FC Rot-Weiß Erfurt
+        20× SC Paderborn 07
+        20× SG Sonnenhof Großaspach ⇒ SG Großaspach
+        20× SV Meppen
+        20× SV Wehen Wiesbaden
+        20× SpVgg Unterhaching
+        20× Sportfreunde Lotte ⇒ SF Lotte
+        20× VfL Osnabrück
+        20× VfR Aalen
+        20× Werder Bremen II
+        20× Würzburger Kickers
+      20 rounds (referenced):
         1. Spieltag, 10 matches
         2. Spieltag, 10 matches
         3. Spieltag, 10 matches
@@ -1155,31 +1198,30 @@
         18. Spieltag, 10 matches
         19. Spieltag, 10 matches
         20. Spieltag, 10 matches
-[34/39] >2017-18/3-liga3-ii.txt<
-  1 section(s):
-    265 lines - league: >3. Liga< (de.3), season: >2017/18<
-      20 clubs:
-        FC Carl Zeiss Jena x21 => FC Carl Zeiss Jena
-        1. FC Magdeburg x20 => 1. FC Magdeburg
-        Rot-Weiß Erfurt x20 => FC Rot-Weiß Erfurt
-        SV Meppen x20 => SV Meppen
-        VfL Osnabrück x20 => VfL Osnabrück
-        Chemnitzer FC x19 => Chemnitzer FC
-        FSV Zwickau x19 => FSV Zwickau
-        Hansa Rostock x19 => Hansa Rostock
-        Karlsruher SC x19 => Karlsruher SC
-        Preußen Münster x19 => Preußen Münster
-        SC Paderborn 07 x19 => SC Paderborn 07
-        SG Sonnenhof Großaspach x19 => SG Großaspach
-        SV Wehen Wiesbaden x19 => SV Wehen Wiesbaden
-        Würzburger Kickers x19 => Würzburger Kickers
-        Fortuna Köln x18 => Fortuna Köln
-        Hallescher FC x18 => Hallescher FC
-        SpVgg Unterhaching x18 => SpVgg Unterhaching
-        Sportfreunde Lotte x18 => SF Lotte
-        VfR Aalen x18 => VfR Aalen
-        Werder Bremen II x18 => Werder Bremen II
-      18 rounds:
+[34/39] >2017-18/3-liga3-ii.txt< - 1 section(s):
+    265 lines, 190 matches - 3. Liga (de.3) 2017/18
+      20 teams (referenced):
+        21× FC Carl Zeiss Jena
+        20× 1. FC Magdeburg
+        20× Rot-Weiß Erfurt ⇒ FC Rot-Weiß Erfurt
+        20× SV Meppen
+        20× VfL Osnabrück
+        19× Chemnitzer FC
+        19× FSV Zwickau
+        19× Hansa Rostock
+        19× Karlsruher SC
+        19× Preußen Münster
+        19× SC Paderborn 07
+        19× SG Sonnenhof Großaspach ⇒ SG Großaspach
+        19× SV Wehen Wiesbaden
+        19× Würzburger Kickers
+        18× Fortuna Köln
+        18× Hallescher FC
+        18× SpVgg Unterhaching
+        18× Sportfreunde Lotte ⇒ SF Lotte
+        18× VfR Aalen
+        18× Werder Bremen II
+      18 rounds (referenced):
         21. Spieltag, 10 matches
         22. Spieltag, 11 matches
         23. Spieltag, 10 matches
@@ -1198,29 +1240,28 @@
         36. Spieltag, 10 matches
         37. Spieltag, 10 matches
         38. Spieltag, 10 matches
-[35/39] >2018-19/1-bundesliga.txt<
-  1 section(s):
-    441 lines - league: >Bundesliga< (de.1), season: >2018/19<
-      18 clubs:
-        1. FC Nürnberg x34 => 1. FC Nürnberg
-        1. FSV Mainz 05 x34 => 1. FSV Mainz 05
-        1899 Hoffenheim x34 => TSG 1899 Hoffenheim
-        Bayer Leverkusen x34 => Bayer 04 Leverkusen
-        Bayern München x34 => Bayern München
-        Bor. Mönchengladbach x34 => Bor. Mönchengladbach
-        Borussia Dortmund x34 => Borussia Dortmund
-        Eintracht Frankfurt x34 => Eintracht Frankfurt
-        FC Augsburg x34 => FC Augsburg
-        FC Schalke 04 x34 => FC Schalke 04
-        Fortuna Düsseldorf x34 => Fortuna Düsseldorf
-        Hannover 96 x34 => Hannover 96
-        Hertha BSC x34 => Hertha BSC
-        RB Leipzig x34 => RB Leipzig
-        SC Freiburg x34 => SC Freiburg
-        VfB Stuttgart x34 => VfB Stuttgart
-        VfL Wolfsburg x34 => VfL Wolfsburg
-        Werder Bremen x34 => Werder Bremen
-      34 rounds:
+[35/39] >2018-19/1-bundesliga.txt< - 1 section(s):
+    441 lines, 306 matches - Bundesliga (de.1) 2018/19
+      18 teams (referenced):
+        34× 1. FC Nürnberg
+        34× 1. FSV Mainz 05
+        34× 1899 Hoffenheim ⇒ TSG 1899 Hoffenheim
+        34× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        34× Bayern München
+        34× Bor. Mönchengladbach
+        34× Borussia Dortmund
+        34× Eintracht Frankfurt
+        34× FC Augsburg
+        34× FC Schalke 04
+        34× Fortuna Düsseldorf
+        34× Hannover 96
+        34× Hertha BSC
+        34× RB Leipzig
+        34× SC Freiburg
+        34× VfB Stuttgart
+        34× VfL Wolfsburg
+        34× Werder Bremen
+      34 rounds (referenced):
         Spieltag 1, 9 matches
         Spieltag 2, 9 matches
         Spieltag 3, 9 matches
@@ -1255,29 +1296,28 @@
         Spieltag 32, 9 matches
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
-[36/39] >2018-19/2-bundesliga2.txt<
-  1 section(s):
-    469 lines - league: >2. Bundesliga< (de.2), season: >2018/19<
-      18 clubs:
-        1. FC Köln x36 => 1. FC Köln
-        Dynamo Dresden x36 => Dynamo Dresden
-        Erzgebirge Aue x35 => FC Erzgebirge Aue
-        Hamburger SV x35 => Hamburger SV
-        MSV Duisburg x35 => MSV Duisburg
-        SpVgg Greuther Fürth x35 => SpVgg Greuther Fürth
-        1. FC Heidenheim 1846 x34 => 1. FC Heidenheim
-        1. FC Magdeburg x34 => 1. FC Magdeburg
-        1. FC Union Berlin x34 => 1. FC Union Berlin
-        Arminia Bielefeld x34 => Arminia Bielefeld
-        FC Ingolstadt 04 x34 => FC Ingolstadt 04
-        FC St. Pauli x34 => FC St. Pauli
-        Holstein Kiel x34 => Holstein Kiel
-        Jahn Regensburg x34 => SSV Jahn Regensburg
-        SC Paderborn 07 x34 => SC Paderborn 07
-        SV Darmstadt 98 x34 => SV Darmstadt 98
-        SV Sandhausen x34 => SV Sandhausen
-        VfL Bochum x34 => VfL Bochum
-      34 rounds:
+[36/39] >2018-19/2-bundesliga2.txt< - 1 section(s):
+    469 lines, 310 matches - 2. Bundesliga (de.2) 2018/19
+      18 teams (referenced):
+        36× 1. FC Köln
+        36× Dynamo Dresden
+        35× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        35× Hamburger SV
+        35× MSV Duisburg
+        35× SpVgg Greuther Fürth
+        34× 1. FC Heidenheim 1846 ⇒ 1. FC Heidenheim
+        34× 1. FC Magdeburg
+        34× 1. FC Union Berlin
+        34× Arminia Bielefeld
+        34× FC Ingolstadt 04
+        34× FC St. Pauli
+        34× Holstein Kiel
+        34× Jahn Regensburg ⇒ SSV Jahn Regensburg
+        34× SC Paderborn 07
+        34× SV Darmstadt 98
+        34× SV Sandhausen
+        34× VfL Bochum
+      34 rounds (referenced):
         Spieltag 1, 9 matches
         Spieltag 2, 9 matches
         Spieltag 3, 9 matches
@@ -1297,7 +1337,7 @@
         Spieltag 17, 9 matches
         Spieltag 18, 9 matches
         Spieltag 19, 9 matches
-        Spieltag 20 x2, 10 matches
+        Spieltag 20 ×2, 10 matches
         Spieltag 21, 9 matches
         Spieltag 22, 9 matches
         Spieltag 23, 9 matches
@@ -1312,29 +1352,28 @@
         Spieltag 32, 9 matches
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
-[37/39] >2019-20/1-bundesliga.txt<
-  1 section(s):
-    411 lines - league: >Bundesliga< (de.1), season: >2019/20<
-      18 clubs:
-        1. FC Köln x34 => 1. FC Köln
-        1. FC Union Berlin x34 => 1. FC Union Berlin
-        1. FSV Mainz 05 x34 => 1. FSV Mainz 05
-        Bayer 04 Leverkusen x34 => Bayer 04 Leverkusen
-        Bayern München x34 => Bayern München
-        Bor. Mönchengladbach x34 => Bor. Mönchengladbach
-        Borussia Dortmund x34 => Borussia Dortmund
-        Eintracht Frankfurt x34 => Eintracht Frankfurt
-        FC Augsburg x34 => FC Augsburg
-        FC Schalke 04 x34 => FC Schalke 04
-        Fortuna Düsseldorf x34 => Fortuna Düsseldorf
-        Hertha BSC x34 => Hertha BSC
-        RB Leipzig x34 => RB Leipzig
-        SC Freiburg x34 => SC Freiburg
-        SC Paderborn 07 x34 => SC Paderborn 07
-        TSG Hoffenheim x34 => TSG 1899 Hoffenheim
-        VfL Wolfsburg x34 => VfL Wolfsburg
-        Werder Bremen x34 => Werder Bremen
-      34 rounds:
+[37/39] >2019-20/1-bundesliga.txt< - 1 section(s):
+    441 lines, 306 matches - Bundesliga (de.1) 2019/20
+      18 teams (referenced):
+        34× 1. FC Köln
+        34× 1. FC Union Berlin
+        34× 1. FSV Mainz 05
+        34× Bayer 04 Leverkusen
+        34× Bayern München
+        34× Bor. Mönchengladbach
+        34× Borussia Dortmund
+        34× Eintracht Frankfurt
+        34× FC Augsburg
+        34× FC Schalke 04
+        34× Fortuna Düsseldorf
+        34× Hertha BSC
+        34× RB Leipzig
+        34× SC Freiburg
+        34× SC Paderborn 07
+        34× TSG Hoffenheim ⇒ TSG 1899 Hoffenheim
+        34× VfL Wolfsburg
+        34× Werder Bremen
+      34 rounds (referenced):
         Spieltag 1, 9 matches
         Spieltag 2, 9 matches
         Spieltag 3, 9 matches
@@ -1369,29 +1408,28 @@
         Spieltag 32, 9 matches
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
-[38/39] >2019-20/2-bundesliga2.txt<
-  1 section(s):
-    433 lines - league: >2. Bundesliga< (de.2), season: >2019/20<
-      18 clubs:
-        1. FC Heidenheim x34 => 1. FC Heidenheim
-        1. FC Nürnberg x34 => 1. FC Nürnberg
-        Arminia Bielefeld x34 => Arminia Bielefeld
-        Dynamo Dresden x34 => Dynamo Dresden
-        Erzgebirge Aue x34 => FC Erzgebirge Aue
-        FC St. Pauli x34 => FC St. Pauli
-        Hamburger SV x34 => Hamburger SV
-        Hannover 96 x34 => Hannover 96
-        Holstein Kiel x34 => Holstein Kiel
-        Jahn Regensburg x34 => SSV Jahn Regensburg
-        Karlsruher SC x34 => Karlsruher SC
-        SV Darmstadt 98 x34 => SV Darmstadt 98
-        SV Sandhausen x34 => SV Sandhausen
-        SV Wehen Wiesbaden x34 => SV Wehen Wiesbaden
-        SpVgg Greuther Fürth x34 => SpVgg Greuther Fürth
-        VfB Stuttgart x34 => VfB Stuttgart
-        VfL Bochum x34 => VfL Bochum
-        VfL Osnabrück x34 => VfL Osnabrück
-      34 rounds:
+[38/39] >2019-20/2-bundesliga2.txt< - 1 section(s):
+    452 lines, 306 matches - 2. Bundesliga (de.2) 2019/20
+      18 teams (referenced):
+        34× 1. FC Heidenheim
+        34× 1. FC Nürnberg
+        34× Arminia Bielefeld
+        34× Dynamo Dresden
+        34× Erzgebirge Aue ⇒ FC Erzgebirge Aue
+        34× FC St. Pauli
+        34× Hamburger SV
+        34× Hannover 96
+        34× Holstein Kiel
+        34× Jahn Regensburg ⇒ SSV Jahn Regensburg
+        34× Karlsruher SC
+        34× SV Darmstadt 98
+        34× SV Sandhausen
+        34× SV Wehen Wiesbaden
+        34× SpVgg Greuther Fürth
+        34× VfB Stuttgart
+        34× VfL Bochum
+        34× VfL Osnabrück
+      34 rounds (referenced):
         Spieltag 1, 9 matches
         Spieltag 2, 9 matches
         Spieltag 3, 9 matches
@@ -1426,31 +1464,30 @@
         Spieltag 32, 9 matches
         Spieltag 33, 9 matches
         Spieltag 34, 9 matches
-[39/39] >2019-20/3-liga3.txt<
-  1 section(s):
-    523 lines - league: >3. Liga< (de.3), season: >2019/20<
-      20 clubs:
-        MSV Duisburg x39 => MSV Duisburg
-        SV Meppen x39 => SV Meppen
-        1. FC Kaiserslautern x38 => 1. FC Kaiserslautern
-        1. FC Magdeburg x38 => 1. FC Magdeburg
-        1860 München x38 => TSV 1860 München
-        Bayern München II x38 => Bayern München II
-        Carl Zeiss Jena x38 => FC Carl Zeiss Jena
-        Chemnitzer FC x38 => Chemnitzer FC
-        Eintracht Braunschweig x38 => Eintracht Braunschweig
-        FC Ingolstadt 04 x38 => FC Ingolstadt 04
-        FC Viktoria Köln x38 => FC Viktoria Köln
-        FSV Zwickau x38 => FSV Zwickau
-        Hallescher FC x38 => Hallescher FC
-        Hansa Rostock x38 => Hansa Rostock
-        KFC Uerdingen 05 x38 => KFC Uerdingen
-        Preußen Münster x38 => Preußen Münster
-        SG Sonnenhof Großaspach x38 => SG Großaspach
-        SpVgg Unterhaching x38 => SpVgg Unterhaching
-        Waldhof Mannheim x38 => SV Waldhof Mannheim
-        Würzburger Kickers x38 => Würzburger Kickers
-      38 rounds:
+[39/39] >2019-20/3-liga3.txt< - 1 section(s):
+    547 lines, 381 matches - 3. Liga (de.3) 2019/20
+      20 teams (referenced):
+        39× MSV Duisburg
+        39× SV Meppen
+        38× 1. FC Kaiserslautern
+        38× 1. FC Magdeburg
+        38× 1860 München ⇒ TSV 1860 München
+        38× Bayern München II
+        38× Carl Zeiss Jena ⇒ FC Carl Zeiss Jena
+        38× Chemnitzer FC
+        38× Eintracht Braunschweig
+        38× FC Ingolstadt 04
+        38× FC Viktoria Köln
+        38× FSV Zwickau
+        38× Hallescher FC
+        38× Hansa Rostock
+        38× KFC Uerdingen 05 ⇒ KFC Uerdingen
+        38× Preußen Münster
+        38× SG Sonnenhof Großaspach ⇒ SG Großaspach
+        38× SpVgg Unterhaching
+        38× Waldhof Mannheim ⇒ SV Waldhof Mannheim
+        38× Würzburger Kickers
+      38 rounds (referenced):
         Spieltag 1, 10 matches
         Spieltag 2, 10 matches
         Spieltag 3, 10 matches

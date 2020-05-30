@@ -429,10 +429,10 @@ Spieltag 29
 [Fr. 29.5.]
   SC Freiburg             0-1 Bayer 04 Leverkusen
 [Sa. 30.5.]
-  VfL Wolfsburg           - Eintracht Frankfurt
-  Hertha BSC              - FC Augsburg
-  1. FSV Mainz 05         - TSG Hoffenheim
-  FC Schalke 04           - Werder Bremen
+  VfL Wolfsburg           1-2 Eintracht Frankfurt
+  Hertha BSC              2-0 FC Augsburg
+  1. FSV Mainz 05         0-1 TSG Hoffenheim
+  FC Schalke 04           0-1 Werder Bremen
   Bayern München          - Fortuna Düsseldorf
 [So. 31.5.]
   Bor. Mönchengladbach    - 1. FC Union Berlin

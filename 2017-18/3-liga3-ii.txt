@@ -8,7 +8,7 @@
   Hallescher FC             3-2  VfR Aalen
   Chemnitzer FC             0-2  SC Paderborn 07
   Sportfreunde Lotte        1-0  FSV Zwickau
-  SG Sonnenhof Großaspach   0-0  Hansa Rostock    
+  ## SG Sonnenhof Großaspach   -  Hansa Rostock    ## verschoben, siehe Nachtrag
 [So 21.1.]
   SV Meppen                 2-0  Preußen Münster
   Werder Bremen II          0-1  Würzburger Kickers
@@ -30,7 +30,7 @@ SpVgg Unterhaching        0-1  SV Wehen Wiesbaden
 [So 28.1.]
 FC Carl Zeiss Jena        2-1  Hallescher FC
 
-# Nachtrag 20. Spieltag  -- todo/fix - check double entry match??
+Nachtrag 20. Spieltag
 [Di 30.1.]
 Preußen Münster           5-0  Rot-Weiß Erfurt
 
@@ -64,7 +64,7 @@ FSV Zwickau               0-1  SV Meppen
 SV Wehen Wiesbaden        2-2  Werder Bremen II
 SpVgg Unterhaching        1-1  Hallescher FC
 
-# Nachtrag 20. Spieltag -  todo/fix: check double entry match??
+Nachtrag 20. Spieltag
 [Mi 14.2.]
 VfL Osnabrück             0-0  Karlsruher SC
 
@@ -73,7 +73,7 @@ VfL Osnabrück             0-0  Karlsruher SC
 Preußen Münster           2-0  Hansa Rostock
 [Sa 17.2.]
 SG Sonnenhof Großaspach   0-0  FC Carl Zeiss Jena
-SV Meppen                 0-0  SC Paderborn 07             
+## SV Meppen                -  SC Paderborn 07     ## verschoben, siehe Nachtrag
 Würzburger Kickers        1-1  FSV Zwickau
 Werder Bremen II          1-3  1. FC Magdeburg
 Fortuna Köln              1-0  SV Wehen Wiesbaden
@@ -100,15 +100,15 @@ Karlsruher SC             2-0  Chemnitzer FC
 
 27. Spieltag
 [Fr 2.3.]
-Rot-Weiß Erfurt           4-4  VfL Osnabrück         
+## Rot-Weiß Erfurt         -  VfL Osnabrück        ## verschoben, siehe Nachtrag
 Werder Bremen II          1-1  Hansa Rostock
 Sportfreunde Lotte        1-1  Karlsruher SC
 [Sa 3.3.]
-SV Meppen                 2-1  FC Carl Zeiss Jena           
+## SV Meppen               -  FC Carl Zeiss Jena   ## verschoben, siehe Nachtrag
 Würzburger Kickers        2-2  VfR Aalen
 Preußen Münster           1-1  SC Paderborn 07
-1. FC Magdeburg           2-2  FSV Zwickau           
-Chemnitzer FC             1-4  SV Wehen Wiesbaden     
+## 1. FC Magdeburg         -  FSV Zwickau           ## verschoben, siehe Nachtrag
+## Chemnitzer FC           -  SV Wehen Wiesbaden    ## verschoben, siehe Nachtrag
 SG Sonnenhof Großaspach   1-2  SpVgg Unterhaching
 [So 4.3.]
 Hallescher FC             0-3  Fortuna Köln
@@ -118,7 +118,7 @@ Hallescher FC             0-3  Fortuna Köln
 SpVgg Unterhaching        1-1  Rot-Weiß Erfurt
 SV Wehen Wiesbaden        3-1  Sportfreunde Lotte
 SC Paderborn 07           1-1  1. FC Magdeburg
-FC Carl Zeiss Jena        1-2  Würzburger Kickers     
+## FC Carl Zeiss Jena      -  Würzburger Kickers     ## verschoben, siehe Nachtrag
 VfL Osnabrück             2-2  SV Meppen
 [Mi 7.3.]
 Hallescher FC             1-0  Werder Bremen II
@@ -149,14 +149,14 @@ Hallescher FC             1-0  Sportfreunde Lotte
 [Sa 17.3.]
 SC Paderborn 07           2-0  FSV Zwickau
 VfR Aalen                 1-0  Hansa Rostock
-FC Carl Zeiss Jena        1-5  1. FC Magdeburg             
+## FC Carl Zeiss Jena      -  1. FC Magdeburg         ## verschoben, siehe Nachtrag
 SpVgg Unterhaching        3-2  Würzburger Kickers
 Karlsruher SC             2-0  SV Meppen
 [So 18.3.]
 Chemnitzer FC             2-1  Werder Bremen II
 VfL Osnabrück             0-1  Preußen Münster
 
-# Nachtrag 21. Spieltag   -- todo/fix: check double entry match??
+Nachtrag 21. Spieltag
 [Di 20.3.]
 SG Sonnenhof Großaspach   0-0  Hansa Rostock
 
@@ -175,20 +175,22 @@ Preußen Münster           2-0  SpVgg Unterhaching
 [So 25.3.]
 1. FC Magdeburg           2-0  VfL Osnabrück
 
-# Nachtrag 25. Spieltag  -- todo/fix: check double entry match??
+
+Nachtrag 25. Spieltag
 [Di 27.3.]
-SV Meppen                 0-0  SC Paderborn 07  
-# Nachtrag 27. Spieltag  -- todo/fix: check double entry match??
+SV Meppen                 0-0  SC Paderborn 07
+
+Nachtrag 27. Spieltag
 [Di 27.3.]
 Chemnitzer FC              1-4  SV Wehen Wiesbaden
-# Nachtrag 28. Spieltag  -- todo/fix: check double entry match??
-[Di 27.3.]
-FC Carl Zeiss Jena        1-2 Würzburger Kickers
-
-# Nachtrag 27. Spieltag   -- todo/fix: check double entry match??
 [Mi 28.3.]
 Rot-Weiß Erfurt           4-4  VfL Osnabrück
 1. FC Magdeburg           2-2  FSV Zwickau
+
+Nachtrag 28. Spieltag
+[Di 27.3.]
+FC Carl Zeiss Jena        1-2 Würzburger Kickers
+
 
 32. Spieltag
 [Sa 31.3.]
@@ -204,10 +206,8 @@ Sportfreunde Lotte        3-2  Werder Bremen II
 Hallescher FC             3-0  Rot-Weiß Erfurt
 SpVgg Unterhaching        0-1  1. FC Magdeburg
 
-# 1. Absteiger in Regionalliga Nordost 2018/19:
-#  Rot-Weiß Erfurt
 
-# Nachtrag 27. Spieltag -- todo/fix: check double entry match??
+Nachtrag 27. Spieltag
 [Mi 4.4.]
 SV Meppen                 2-1  FC Carl Zeiss Jena
 
@@ -241,7 +241,7 @@ Sportfreunde Lotte        1-0  Rot-Weiß Erfurt
 Karlsruher SC             0-0  Hansa Rostock
 SpVgg Unterhaching        2-1  FSV Zwickau
 
-# Nachtrag 30. Spieltag  -- todo/fix: check double entry match??
+Nachtrag 30. Spieltag
 [Di 17.4.]
 FC Carl Zeiss Jena        1-5 1. FC Magdeburg
 
@@ -261,16 +261,6 @@ Preußen Münster           1-2  Hallescher FC
 [Mo 23.4.]
 FSV Zwickau               2-4  Karlsruher SC
 
-# Aufsteiger in 2. Bundesliga 2018/19:
-#   SC Padeborn 07
-#   1. FC Magdeburg
-#   
-# 2. Absteiger in Regionalliga Nord 2018/19:
-#   Werder Bremen II
-#   
-# 3. Absteiger in Regionalliga Nordost 2018/19:
-#   Chemnitzer FC
-   
 36. Spieltag
 [Fr 27.4.]
 SpVgg Unterhaching         0-1  VfR Aalen
@@ -311,33 +301,4 @@ SG Sonnenhof Großaspach    2-3  SV Meppen
   SG Sonnenhof Großaspach  2-2  Preußen Münster
   Rot-Weiß Erfurt          1-3  Würzburger Kickers
   Werder Bremen II         2-1  SV Meppen
-  
-# Absteiger 2. Bundesliga 2017/18:
-#     1. FC Kaiserslautern
-#     
-# Relegationsspiele um einen 2. Bundesligaplatz 2018/19:
-#  [Fr 18.5.]
-#  Karlsruher SC           0-0  Erzgebirge Aue
-#  [Di 22.5.]
-#  Erzgebirge Aue          3-1  Karlsruher SC
-#  
-#  Erzgebirge Aue in 2. Bundesliga 2018/19
-#
-#  
-# Aufstiegsspiele Sieger in 3. Liga 2018/19:
-#  [Do 24.5.]  
-#  FC Weiche Flensburg 08  2-3  Energie Cottbus
-#  1. FC Saarbrücken       2-3  TSV 1860 München
-#  KFC Uerdingen           1-0  SV Waldhof Mannheim
-#  
-#  [So 27.5.]
-#  Energie Cottbus         0-0  FC Weiche Flensburg 08 
-#  TSV 1860 München        2-2  1. FC Saarbrücken 
-#  SV Waldhof Mannheim     0-2  KFC Uerdingen     strafverifiziert
-#  
-#  Aufsteiger in 3. Liga 2018/19:
-#  Energie Cottbus
-#  TSV 1860 München
-#  KFC Uerdingen 
-    
-# Sommerpause bis 27.07.18
+

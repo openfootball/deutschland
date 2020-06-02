@@ -27,7 +27,7 @@ Spieltag 19
 [So 21.1.]
   15.30   Bayern München        4:2  Werder Bremen
   18.00   FC Schalke 04         1:1  Hannover 96
-  
+
 Spieltag 20
 [Fr 26.1.]
 20.30   Eintracht Frankfurt   2:0  Bor. Mönchengladbach
@@ -41,7 +41,7 @@ Spieltag 20
 [So 28.1.]
 15.30   Bayer Leverkusen      2:0  1. FSV Mainz 05
 18.00   Hannover 96           0:1  VfL Wolfsburg
-   
+
 Spieltag 21
 [Fr 2.2.]
 20.30   1. FC Köln            2:3  Borussia Dortmund
@@ -69,7 +69,7 @@ Spieltag 22
 [So 11.2.]
 15.30   VfB Stuttgart         1:0  Bor. Mönchengladbach
 18.00   Werder Bremen         3:1  VfL Wolfsburg
-   
+
 Spieltag 23
 [Fr 16.2.]
 20.30   Hertha BSC            0:2  1. FSV Mainz 05
@@ -84,7 +84,7 @@ Spieltag 23
 18.00   Bor. Mönchengladbach  0:1  Borussia Dortmund
 [Mo 19.2.]
 20.30   Eintracht Frankfurt   2:1  RB Leipzig
-   
+
 Spieltag 24
 [Fr 23.2.]
 20.30   1. FSV Mainz 05       1:1  VfL Wolfsburg
@@ -99,7 +99,7 @@ Spieltag 24
 18.00   RB Leipzig            1:2  1. FC Köln
 [Mo 26.2.]
 20.30   Borussia Dortmund     1:1  FC Augsburg
-   
+
 Spieltag 25
 [Fr 2.3.]
 20.30   Bor. Mönchengladbach  2:2  Werder Bremen
@@ -113,7 +113,7 @@ Spieltag 25
 [So 4.3.]
 15.30   1. FC Köln            2:3  VfB Stuttgart
 18.00   SC Freiburg           0:4  Bayern München
-   
+
 Spieltag 26
 [Fr 9.3.]
 20.30   1. FSV Mainz 05       0:1  FC Schalke 04
@@ -128,7 +128,7 @@ Spieltag 26
 18.00   Borussia Dortmund     3:2  Eintracht Frankfurt
 [Mo 12.3.]
 20.30   Werder Bremen         3:1  1. FC Köln
-   
+
 Spieltag 27
 [Fr 16.3.]
 20.30   SC Freiburg           1:2  VfB Stuttgart
@@ -142,7 +142,7 @@ Spieltag 27
 13.30   Borussia Dortmund     1:0  Hannover 96
 15.30   1. FC Köln            2:0  Bayer Leverkusen
 18.00   RB Leipzig            2:1  Bayern München
-   
+
 Spieltag 28
 [Sa 31.3.]
 15.30   Hannover 96           2:3  RB Leipzig
@@ -155,7 +155,7 @@ Spieltag 28
 [So 1.4.]
 15.30   Werder Bremen         2:1  Eintracht Frankfurt
 18.00   1. FSV Mainz 05       0:0  Bor. Mönchengladbach
-   
+
 Spieltag 29
 [Fr 6.4.]
 20.30   Hannover 96           2:1  Werder Bremen
@@ -170,7 +170,7 @@ Spieltag 29
 18.00   Eintracht Frankfurt   1:1  1899 Hoffenheim
 [Mo 9.4.]
 20.30   RB Leipzig            1:4  Bayer Leverkusen
-   
+
 Spieltag 30
 [Fr 13.4.]
 20.30   VfL Wolfsburg         0:0  FC Augsburg
@@ -185,10 +185,7 @@ Spieltag 30
 18.00   Werder Bremen         1:1  RB Leipzig
 [Mo 16.4.]
 20.30   1. FSV Mainz 05       2:0  SC Freiburg
- 
-#  Meister 1. Bundesliga 2017/18:
-#   Bayern München
-   
+
 Spieltag 31
 [Fr 20.4.]
 20.30   Bor. Mönchengladbach  3:0  VfL Wolfsburg
@@ -202,7 +199,7 @@ Spieltag 31
 [So 22.4.]
 15.30   FC Augsburg           2:0  1. FSV Mainz 05
 18.00   1. FC Köln            2:2  FC Schalke 04
-  
+
 
 Spieltag 32
 [Fr 27.4.]
@@ -218,9 +215,7 @@ Spieltag 32
 18.00   Werder Bremen         1:1  Borussia Dortmund
 15.30   1. FSV Mainz 05       3:0  RB Leipzig
 
-# 1. Absteiger in 2. Bundesliga 2018/19:
-#   1. FC Köln
-   
+
 Spieltag 33
 [Sa 5.5.]
  15.30   1. FC Köln           1:3  Bayern München
@@ -245,21 +240,5 @@ Spieltag 34
  15.30   Bayer Leverkusen     3:2  Hannover 96
  15.30   Bayern München       1:4  VfB Stuttgart
 
-# 2. Absteiger 1. Bundesliga 2017/18:
-#   Hamburger SV
-#  
-# Aufsteiger in 1. Bundesliga 2018/19:
-#   Fortuna Düsseldorf
-#   1. FC Nürnberg
-   
-# Relegationsspiele um einen 1. Bundesligaplatz 2018/19:
-# [Do 17.5.]
-# Vfl Wolfsburg                 3-1 Holstein Kiel
-# [Mo 21.5.]
-# Holstein Kiel                 0-1 Vfl Wolfsburg
-# 
-# Vfl Wolfsburg in 1. Bundesliga 2018/19
 
-# Sommerpause bis 24.08.18
 
- 

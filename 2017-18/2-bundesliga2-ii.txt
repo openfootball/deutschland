@@ -9,11 +9,11 @@ Spieltag 19
 [Mi 24.1.]
    1. FC Heidenheim 1846    2-0  Eintracht Braunschweig
    Arminia Bielefeld        0-0  SpVgg Greuther Fürth
-   SV Darmstadt 98          1-2  1. FC Kaiserslautern        
+   ## SV Darmstadt 98        -  1. FC Kaiserslautern    ## verschoben, siehe Nachtrag
    Fortuna Düsseldorf       2-1  Erzgebirge Aue
-[Do 25.1.]  
+[Do 25.1.]
    Dynamo Dresden           1-3  FC St. Pauli
-   
+
 Spieltag 20
 [Fr 26.1.]
    1. FC Union Berlin       0-1  1. FC Nürnberg
@@ -28,7 +28,7 @@ Spieltag 20
    SV Sandhausen            1-0  Dynamo Dresden
 [Mo 29.1.]
    VfL Bochum               0-1  Arminia Bielefeld
-   
+
 Spieltag 21
 [Fr 2.2.]
    Fortuna Düsseldorf       1-0  SV Sandhausen
@@ -43,7 +43,7 @@ Spieltag 21
    SV Darmstadt 98          1-2  MSV Duisburg
 [Mo 5.2.]
    Arminia Bielefeld        1-1  1. FC Union Berlin
-   
+
 Spieltag 22
 [Fr 9.2.]
    VfL Bochum               2-1  SV Darmstadt 98
@@ -72,11 +72,11 @@ Spieltag 23
    1. FC Nürnberg           3-1  MSV Duisburg
    Dynamo Dresden           1-0  Jahn Regensburg
    Eintracht Braunschweig   1-0  1. FC Union Berlin
-   
- ## Nachtrag Spieltag 19  -- todo/fix check double entry match??
- [Mi 21.2.]
-    SV Darmstadt 98         1-2  1. FC Kaiserslautern
- 
+
+Nachtrag Spieltag 19
+[Mi 21.2.]
+   SV Darmstadt 98         1-2  1. FC Kaiserslautern
+
 Spieltag 24
 [Fr 23.2.]
    Arminia Bielefeld        2-3  Dynamo Dresden
@@ -90,7 +90,7 @@ Spieltag 24
    SV Darmstadt 98          1-1  1. FC Heidenheim 1846
    VfL Bochum               0-0  1. FC Nürnberg
    FC St. Pauli             3-2  Holstein Kiel
- 
+
 Spieltag 25
 [Fr 2.3.]
    Dynamo Dresden           0-2  SV Darmstadt 98
@@ -105,7 +105,7 @@ Spieltag 25
    Eintracht Braunschweig   2-1  Jahn Regensburg
 [Mo 5.3.]
    FC Ingolstadt 04         0-1  VfL Bochum
-   
+
 Spieltag 26
 [Fr 9.3.]
    Dynamo Dresden           3-2  1. FC Heidenheim 1846
@@ -119,7 +119,7 @@ Spieltag 26
    Jahn Regensburg          2-1  SV Sandhausen
    MSV Duisburg             1-2  Fortuna Düsseldorf
    1. FC Union Berlin       0-0  Erzgebirge Aue
-   
+
 Spieltag 27
 [Fr 16.3.]
    Holstein Kiel            2-1  1. FC Heidenheim 1846
@@ -134,7 +134,7 @@ Spieltag 27
    Eintracht Braunschweig   3-2  MSV Duisburg
 [Mo 19.3.]
    Erzgebirge Aue           2-1  SpVgg Greuther Fürth
-   
+
 Spieltag 28
 [Sa 31.3.]
    Dynamo Dresden           1-1  1. FC Nürnberg
@@ -148,7 +148,7 @@ Spieltag 28
    Arminia Bielefeld        1-1  Holstein Kiel
 [Mo 2.4.]
    SV Darmstadt 98          1-0  Fortuna Düsseldorf
-   
+
 Spieltag 29
 [Fr 6.4.]
    SV Sandhausen            0-0  SpVgg Greuther Fürth
@@ -162,7 +162,7 @@ Spieltag 29
    Eintracht Braunschweig   1-1  Dynamo Dresden
    FC Ingolstadt 04         2-2  Arminia Bielefeld
    1. FC Kaiserslautern     1-1  Jahn Regensburg
-  
+
 Spieltag 30
 [Fr 13.4.]
    VfL Bochum               3-2  1. FC Kaiserslautern
@@ -191,7 +191,7 @@ Spieltag 31
    Erzgebirge Aue           1-3  MSV Duisburg
 [Mo 23.4.]
    Holstein Kiel            1-3  1. FC Nürnberg
- 
+
 Spieltag 32
 [Fr 27.4.]
    Arminia Bielefeld        3-2  1. FC Kaiserslautern
@@ -207,12 +207,7 @@ Spieltag 32
 [Mo 30.4.]
    1. FC Nürnberg           2-0  Eintracht Braunschweig
 
-# 1. Absteiger in 3. Liga 2018/19:
-#   1. FC Kaiserslautern
-#   
-# 1. Aufsteiger in 1. Bundesliga 2018/19:
-#   Fortuna Düsseldorf
-   
+
 Spieltag 33
 [So 6.5.]
    Eintracht Braunschweig    0-2  FC Ingolstadt 04
@@ -225,9 +220,7 @@ Spieltag 33
    SpVgg Greuther Fürth      2-2  MSV Duisburg
    Fortuna Düsseldorf        1-1  Holstein Kiel
 
-# 2. Aufsteiger in 1. Bundesliga 2018/19:
-#   1. FC Nürnberg
-   
+
 Spieltag 34
 [So 13.5.]
    Holstein Kiel             6-2  Eintracht Braunschweig
@@ -239,28 +232,5 @@ Spieltag 34
    FC Ingolstadt 04          1-3  1. FC Kaiserslautern
    SV Darmstadt 98           1-0  Erzgebirge Aue
    VfL Bochum                1-1  Jahn Regensburg
-   
-# Absteiger 1. Bundesliga 2017/18:
-#   1.  FC Köln
-#   Hamburger SV
-#
-# 2. Absteiger 2. Bundesliga 2017/18:
-#   Eintracht Braunschweig
-   
-# Relegationsspiele für einen 1. Bundesligaplatz 2018/19:
-# [Do 17.5.]
-# Vfl Wolfsburg                3-1 Holstein Kiel
-# [Mo 21.5.]
-# Holstein Kiel                0-1 Vfl Wolfsburg
-#
-# Vfl Wolfsburg in 1. Bundesliga 2018/19
-#
-# Relegationsspiele für einen 2. Bundesligaplatz 2018/19:
-# [Fr 18.5.]
-# Karlsruher SC               0-0 Erzgebirge Aue
-# [Di 22.5.]
-# Erzgebirge Aue              3-1 Karlsruher SC 
-#
-# Erzgebirge Aue in 2. Bundsliga 2018/19
 
-# Sommerpause bis 07.08.18
+

@@ -470,60 +470,28 @@ Spieltag 32
 
 Spieltag 33
 [Sa 11.5.]
-  RB Leipzig              0-0 Bayern München
-  Bayer Leverkusen        1-1 FC Schalke 04
-  1. FC Nürnberg          0-4 Bor. Mönchengladbach
-  FC Augsburg             3-4 Hertha BSC
-  1899 Hoffenheim         0-1 Werder Bremen
-  Hannover 96             3-0 SC Freiburg
-  VfB Stuttgart           3-0 VfL Wolfsburg
-  Borussia Dortmund       3-2 Fortuna Düsseldorf
+  RB Leipzig              0-0  Bayern München
+  Bayer Leverkusen        1-1  FC Schalke 04
+  1. FC Nürnberg          0-4  Bor. Mönchengladbach
+  FC Augsburg             3-4  Hertha BSC
+  1899 Hoffenheim         0-1  Werder Bremen
+  Hannover 96             3-0  SC Freiburg
+  VfB Stuttgart           3-0  VfL Wolfsburg
+  Borussia Dortmund       3-2  Fortuna Düsseldorf
 [So 12.5.]
-  Eintracht Frankfurt     0-2 1. FSV Mainz 05
-
-
-# 1. Aufsteiger 1. Bundesliga 2019/20:
-#  1. FC Köln
-
-# Absteiger 1. Bundesliga 2018/19:
-#  1. FC Nürnberg
-#  Hannover 96
-
+  Eintracht Frankfurt     0-2  1. FSV Mainz 05
 
 
 Spieltag 34
 [Sa 18.5.]
-  1. FSV Mainz 05         4-2 1899 Hoffenheim
-  Bor. Mönchengladbach    0-2 Borussia Dortmund
-  Hertha BSC              1-5 Bayer Leverkusen
-  Werder Bremen           2-1 RB Leipzig
-  FC Schalke 04           0-0 VfB Stuttgart
-  Bayern München          5-1 Eintracht Frankfurt
-  VfL Wolfsburg           8-1 FC Augsburg
-  Fortuna Düsseldorf      2-1 Hannover 96
-  SC Freiburg             5-1 1. FC Nürnberg
+  1. FSV Mainz 05         4-2  1899 Hoffenheim
+  Bor. Mönchengladbach    0-2  Borussia Dortmund
+  Hertha BSC              1-5  Bayer Leverkusen
+  Werder Bremen           2-1  RB Leipzig
+  FC Schalke 04           0-0  VfB Stuttgart
+  Bayern München          5-1  Eintracht Frankfurt
+  VfL Wolfsburg           8-1  FC Augsburg
+  Fortuna Düsseldorf      2-1  Hannover 96
+  SC Freiburg             5-1  1. FC Nürnberg
 
 
-# Meister 1. Bundesliga 2018/19:
-#  Bayern München
-
-# 2. Aufsteiger 1. Bundesliga 2019/20:
-#  SC Paderborn 07
-
-__END__
-# Play-off um 1. Bundesligaplatz 2019/20:
-[Do 23.5.]
-  VfB Stuttgart          2-2 1. FC Union Berlin
-[Mo 27.5.]
-  1. FC Union Berlin     0-0 VfB Stuttgart
-
-# Play-off Sieger in 1. Bundesliga 2019/20:
-  1. FC Union Berlin
-
-# Play-off Verlierer in 2. Bundesliga 2019/20:
-  VfB Stuttgart
-
-
-# Ende 1. Bundesliga 2018/19
-
-# 16.8. Start 1. Bundesliga 2019/20

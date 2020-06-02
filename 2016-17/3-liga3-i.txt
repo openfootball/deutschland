@@ -267,4 +267,4 @@ SSV Jahn Regensburg      0:2   VfR Aalen
    SSV Jahn Regensburg   3-1   Preußen Münster
 
 
-#   Winterpause bis 27.01.2017
+# Winterpause bis 27.01.2017

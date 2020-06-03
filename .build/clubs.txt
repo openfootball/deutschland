@@ -1,353 +1,254 @@
-126 Clubs
+# Clubs
 
-   1. Hamburger SV
-      - Deutsche Bundesliga       53  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-   2. Werder Bremen
-      - Deutsche Bundesliga       52  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-   3. FC Bayern München
-      - Deutsche Bundesliga       51  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-   4. VfB Stuttgart
-      - Deutsche Bundesliga       51  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-   5. Borussia Dortmund
-      - Deutsche Bundesliga       49  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-   6. 1. FC Kaiserslautern
-      - Deutsche Bundesliga       44  (2011/12, 2010/11, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - Deutsche 2. Bundesliga     4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-   7. Borussia M'gladbach
-      - Deutsche Bundesliga       48  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-   8. Schalke 04
-      - Deutsche Bundesliga       48  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1987/88, 1986/87, 1985/86, 1984/85, 1982/83, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-   9. 1. FC Köln
-      - Deutsche Bundesliga       45  (2015/16, 2014/15, 2011/12, 2010/11, 2009/10, 2008/09, 2005/06, 2003/04, 2001/02, 2000/01, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - Deutsche 2. Bundesliga     2  (2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  10. Eintracht Frankfurt
-      - Deutsche Bundesliga       47  (2015/16, 2014/15, 2013/14, 2012/13, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2003/04, 2000/01, 1999/00, 1998/99, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  11. VfL Bochum
-      - Deutsche Bundesliga       34  (2009/10, 2008/09, 2007/08, 2006/07, 2004/05, 2003/04, 2002/03, 2000/01, 1998/99, 1997/98, 1996/97, 1994/95, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72)
-      - Deutsche 2. Bundesliga     4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  12. Bayer 04 Leverkusen
-      - Deutsche Bundesliga       37  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  13. 1. FC Nürnberg
-      - Deutsche Bundesliga       32  (2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2007/08, 2006/07, 2005/06, 2004/05, 2002/03, 2001/02, 1998/99, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1983/84, 1982/83, 1981/82, 1980/81, 1978/79, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - Deutsche 2. Bundesliga     2  (2015/16, 2014/15)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  14. Hertha BSC
-      - Deutsche Bundesliga       33  (2015/16, 2014/15, 2013/14, 2011/12, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1990/91, 1982/83, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1964/65, 1963/64)
-      - Deutsche 2. Bundesliga     1  (2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  15. MSV Duisburg
-      - Deutsche Bundesliga       28  (2007/08, 2005/06, 1999/00, 1998/99, 1997/98, 1996/97, 1994/95, 1993/94, 1991/92, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - Deutsche 2. Bundesliga     2  (2015/16, 2012/13)
-      - Deutsche 3. Liga           1  (2013/14)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  16. Hannover 96
-      - Deutsche Bundesliga       28  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 1988/89, 1987/88, 1985/86, 1975/76, 1973/74, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  17. Karlsruhe
-      - Deutsche Bundesliga       24  (2008/09, 2007/08, 1997/98, 1996/97, 1995/96, 1994/95, 1993/94, 1992/93, 1991/92, 1990/91, 1989/90, 1988/89, 1987/88, 1984/85, 1982/83, 1981/82, 1980/81, 1976/77, 1975/76, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - Deutsche 2. Bundesliga     3  (2015/16, 2014/15, 2013/14)
-      - Deutsche 3. Liga           1  (2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  18. Fortuna Düsseldorf
-      - Deutsche Bundesliga       23  (2012/13, 1996/97, 1995/96, 1991/92, 1990/91, 1989/90, 1986/87, 1985/86, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1973/74, 1972/73, 1971/72, 1966/67)
-      - Deutsche 2. Bundesliga     3  (2015/16, 2014/15, 2013/14)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  19. 1860 München
-      - Deutsche Bundesliga       20  (2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1994/95, 1980/81, 1979/80, 1977/78, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - Deutsche 2. Bundesliga     4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  20. Eintr. Braunschweig
-      - Deutsche Bundesliga       21  (2013/14, 1984/85, 1983/84, 1982/83, 1981/82, 1979/80, 1978/79, 1977/78, 1976/77, 1975/76, 1974/75, 1972/73, 1971/72, 1970/71, 1969/70, 1968/69, 1967/68, 1966/67, 1965/66, 1964/65, 1963/64)
-      - Deutsche 2. Bundesliga     3  (2015/16, 2014/15, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  21. Bielefeld
-      - Deutsche Bundesliga       17  (2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2002/03, 1999/00, 1997/98, 1996/97, 1984/85, 1983/84, 1982/83, 1981/82, 1980/81, 1978/79, 1971/72, 1970/71)
-      - Deutsche 2. Bundesliga     2  (2015/16, 2013/14)
-      - Deutsche 3. Liga           1  (2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  22. VfL Wolfsburg
-      - Deutsche Bundesliga       19  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09, 2007/08, 2006/07, 2005/06, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  23. SC Freiburg
-      - Deutsche Bundesliga       16  (2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2004/05, 2003/04, 2001/02, 2000/01, 1999/00, 1998/99, 1996/97, 1995/96, 1994/95, 1993/94)
-      - Deutsche 2. Bundesliga     1  (2015/16)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  24. Hansa Rostock
-      - Deutsche Bundesliga       12  (2007/08, 2004/05, 2003/04, 2002/03, 2001/02, 2000/01, 1999/00, 1998/99, 1997/98, 1996/97, 1995/96, 1991/92)
-      - Deutsche 3. Liga           3  (2015/16, 2013/14, 2012/13)
-      - DFB Pokal                  2  (2015/16, 2012/13)
-  25. FC St. Pauli
-      - Deutsche Bundesliga        8  (2010/11, 2001/02, 1996/97, 1995/96, 1990/91, 1989/90, 1988/89, 1977/78)
-      - Deutsche 2. Bundesliga     4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  26. 1. FSV Mainz 05
-      - Deutsche Bundesliga       10  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2006/07, 2005/06, 2004/05)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  27. FC Bayer 05 Uerdingen
-      - Deutsche Bundesliga       14  (1995/96, 1994/95, 1992/93, 1990/91, 1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84, 1980/81, 1979/80, 1975/76)
-  28. Energie Cottbus
-      - Deutsche Bundesliga        6  (2008/09, 2007/08, 2006/07, 2002/03, 2001/02, 2000/01)
-      - Deutsche 2. Bundesliga     2  (2013/14, 2012/13)
-      - Deutsche 3. Liga           1  (2015/16)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  29. 1899 Hoffenheim
-      - Deutsche Bundesliga        8  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12, 2010/11, 2009/10, 2008/09)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  30. Kickers Offenbach
-      - Deutsche Bundesliga        7  (1983/84, 1975/76, 1974/75, 1973/74, 1972/73, 1970/71, 1968/69)
-      - Deutsche 3. Liga           1  (2012/13)
-      - DFB Pokal                  2  (2014/15, 2012/13)
-  31. Dynamo Dresden
-      - Deutsche Bundesliga        4  (1994/95, 1993/94, 1992/93, 1991/92)
-      - Deutsche 2. Bundesliga     2  (2013/14, 2012/13)
-      - Deutsche 3. Liga           1  (2015/16)
-      - DFB Pokal                  2  (2014/15, 2012/13)
-  32. FC Augsburg
-      - Deutsche Bundesliga        5  (2015/16, 2014/15, 2013/14, 2012/13, 2011/12)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  33. Rot-Weiss Essen
-      - Deutsche Bundesliga        7  (1976/77, 1975/76, 1974/75, 1973/74, 1970/71, 1969/70, 1966/67)
-      - DFB Pokal                  2  (2015/16, 2012/13)
-  34. SV Darmstadt 98
-      - Deutsche Bundesliga        3  (2015/16, 1981/82, 1978/79)
-      - Deutsche 2. Bundesliga     1  (2014/15)
-      - Deutsche 3. Liga           2  (2013/14, 2012/13)
-      - DFB Pokal                  3  (2015/16, 2014/15, 2013/14)
-  35. Saarbrücken
-      - Deutsche Bundesliga        5  (1992/93, 1985/86, 1977/78, 1976/77, 1963/64)
-      - Deutsche 3. Liga           2  (2013/14, 2012/13)
-      - DFB Pokal                  2  (2013/14, 2012/13)
-  36. Erzgebirge Aue
-      - Deutsche 2. Bundesliga     3  (2014/15, 2013/14, 2012/13)
-      - Deutsche 3. Liga           1  (2015/16)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  37. FC Ingolstadt 04
-      - Deutsche Bundesliga        1  (2015/16)
-      - Deutsche 2. Bundesliga     3  (2014/15, 2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  38. FSV Frankfurt
-      - Deutsche 2. Bundesliga     4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  39. Greuther Fürth
-      - Deutsche Bundesliga        1  (2012/13)
-      - Deutsche 2. Bundesliga     3  (2015/16, 2014/15, 2013/14)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  40. Heidenheim
-      - Deutsche 2. Bundesliga     2  (2015/16, 2014/15)
-      - Deutsche 3. Liga           2  (2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  41. SC Paderborn 07
-      - Deutsche Bundesliga        1  (2014/15)
-      - Deutsche 2. Bundesliga     3  (2015/16, 2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  42. SV Sandhausen
-      - Deutsche 2. Bundesliga     4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  43. Union Berlin
-      - Deutsche 2. Bundesliga     4  (2015/16, 2014/15, 2013/14, 2012/13)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  44. VfR Aalen
-      - Deutsche 2. Bundesliga     3  (2014/15, 2013/14, 2012/13)
-      - Deutsche 3. Liga           1  (2015/16)
-      - DFB Pokal                  4  (2015/16, 2014/15, 2013/14, 2012/13)
-  45. Münster
-      - Deutsche Bundesliga        1  (1963/64)
-      - Deutsche 3. Liga           3  (2015/16, 2013/14, 2012/13)
-      - DFB Pokal                  3  (2014/15, 2013/14, 2012/13)
-  46. SV Waldhof Mannheim
-      - Deutsche Bundesliga        7  (1989/90, 1988/89, 1987/88, 1986/87, 1985/86, 1984/85, 1983/84)
-  47. Stutt. Kick.
-      - Deutsche Bundesliga        2  (1991/92, 1988/89)
-      - Deutsche 3. Liga           3  (2015/16, 2013/14, 2012/13)
-      - DFB Pokal                  2  (2015/16, 2014/15)
-  48. Aachen
-      - Deutsche Bundesliga        4  (2006/07, 1969/70, 1968/69, 1967/68)
-      - Deutsche 3. Liga           1  (2012/13)
+  Bundesliga - 8 records
+    Bundesliga 2012/13  -- teams: 18, matches: 306, rounds: 34
+    Bundesliga 2013/14  -- teams: 18, matches: 306, rounds: 34
+    Bundesliga 2014/15  -- teams: 18, matches: 306, rounds: 34
+    Bundesliga 2015/16  -- teams: 18, matches: 306, rounds: 34
+    Bundesliga 2016/17  -- teams: 18, matches: 306, rounds: 34
+    Bundesliga 2017/18  -- teams: 18, matches: 306, rounds: 34
+    Bundesliga 2018/19  -- teams: 18, matches: 306, rounds: 34
+    Bundesliga 2019/20  -- teams: 18, matches: 306, rounds: 34
+
+  2. Bundesliga - 7 records
+    2. Bundesliga 2013/14  -- teams: 18, matches: 306, rounds: 34
+    2. Bundesliga 2014/15  -- teams: 18, matches: 306, rounds: 34
+    2. Bundesliga 2015/16  -- teams: 18, matches: 306, rounds: 34
+    2. Bundesliga 2016/17  -- teams: 18, matches: 306, rounds: 34
+    2. Bundesliga 2017/18  -- teams: 18, matches: 306, rounds: 36
+    2. Bundesliga 2018/19  -- teams: 18, matches: 306, rounds: 38
+    2. Bundesliga 2019/20  -- teams: 18, matches: 306, rounds: 34
+
+  3. Liga - 4 records
+    3. Liga 2015/16  -- teams: 20, matches: 380, rounds: 38
+    3. Liga 2016/17  -- teams: 20, matches: 380, rounds: 42
+    3. Liga 2017/18  -- teams: 20, matches: 380, rounds: 44
+    3. Liga 2019/20  -- teams: 20, matches: 381, rounds: 38
+
+  DFB Pokal - 2 records
+    DFB Pokal 2012/13  -- teams: 16, matches: 15, rounds: 4
+    DFB Pokal 2013/14  -- teams: 0, matches: 0, rounds: 4
+
+  Bundesliga - Relegation - 3 records
+    Bundesliga - Relegation 2016/17  -- teams: 2, matches: 2, rounds: 2
+    Bundesliga - Relegation 2017/18  -- teams: 2, matches: 2, rounds: 2
+    Bundesliga - Relegation 2018/19  -- teams: 2, matches: 2, rounds: 2
+
+  2. Bundesliga - Relegation - 3 records
+    2. Bundesliga - Relegation 2016/17  -- teams: 2, matches: 2, rounds: 2
+    2. Bundesliga - Relegation 2017/18  -- teams: 2, matches: 2, rounds: 2
+    2. Bundesliga - Relegation 2018/19  -- teams: 2, matches: 2, rounds: 2
+
+  3. Liga - Relegation - 2 records
+    3. Liga - Relegation 2016/17  -- teams: 6, matches: 6, rounds: 2
+    3. Liga - Relegation 2017/18  -- teams: 6, matches: 6, rounds: 2
+
+
+70 Clubs
+
+   1. VfL Wolfsburg           
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
       - DFB Pokal                  1  (2012/13)
-  49. Chemnitzer FC
-      - Deutsche 3. Liga           3  (2015/16, 2013/14, 2012/13)
-      - DFB Pokal                  3  (2015/16, 2014/15, 2012/13)
-  50. RB Leipzig
-      - Deutsche 2. Bundesliga     2  (2015/16, 2014/15)
-      - Deutsche 3. Liga           1  (2013/14)
-      - DFB Pokal                  3  (2015/16, 2014/15, 2013/14)
-  51. SpVgg Unterhaching
-      - Deutsche Bundesliga        2  (2000/01, 1999/00)
-      - Deutsche 3. Liga           2  (2013/14, 2012/13)
-      - DFB Pokal                  2  (2015/16, 2012/13)
-  52. Hallescher FC
-      - Deutsche 3. Liga           3  (2015/16, 2013/14, 2012/13)
-      - DFB Pokal                  2  (2015/16, 2012/13)
-  53. VfL Osnabrück
-      - Deutsche 3. Liga           3  (2015/16, 2013/14, 2012/13)
-      - DFB Pokal                  2  (2015/16, 2013/14)
-  54. FC Homburg
-      - Deutsche Bundesliga        3  (1989/90, 1987/88, 1986/87)
-      - DFB Pokal                  1  (2014/15)
-  55. Holstein Kiel
-      - Deutsche 3. Liga           2  (2015/16, 2013/14)
-      - DFB Pokal                  2  (2015/16, 2014/15)
-  56. Jahn Regensburg
-      - Deutsche 2. Bundesliga     1  (2012/13)
-      - Deutsche 3. Liga           1  (2013/14)
-      - DFB Pokal                  2  (2013/14, 2012/13)
-  57. Rot-Weiß Oberhausen
-      - Deutsche Bundesliga        4  (1972/73, 1971/72, 1970/71, 1969/70)
-  58. SG Wattenscheid 09
-      - Deutsche Bundesliga        4  (1993/94, 1992/93, 1991/92, 1990/91)
-  59. Wiesbaden
-      - Deutsche 3. Liga           3  (2015/16, 2013/14, 2012/13)
-      - DFB Pokal                  1  (2014/15)
-  60. 1. FC Magdeburg
-      - Deutsche 3. Liga           1  (2015/16)
-      - DFB Pokal                  2  (2014/15, 2013/14)
-  61. Borussia Neunkirchen
-      - Deutsche Bundesliga        3  (1967/68, 1965/66, 1964/65)
-  62. FC Carl Zeiss Jena
-      - DFB Pokal                  3  (2015/16, 2014/15, 2012/13)
-  63. FC Nöttingen
-      - DFB Pokal                  3  (2015/16, 2013/14, 2012/13)
-  64. Fortuna Köln
-      - Deutsche Bundesliga        1  (1973/74)
-      - Deutsche 3. Liga           1  (2015/16)
-      - DFB Pokal                  1  (2013/14)
-  65. Rot-Weiß Erfurt
-      - Deutsche 3. Liga           3  (2015/16, 2013/14, 2012/13)
-  66. Stuttgart II
-      - Deutsche 3. Liga           3  (2015/16, 2013/14, 2012/13)
-  67. Wacker Burghausen
-      - Deutsche 3. Liga           2  (2013/14, 2012/13)
+      - Bundesliga - Relegation    2  (2017/18, 2016/17)
+   2. VfB Stuttgart           
+      - Bundesliga                 6  (2018/19, 2017/18, 2015/16, 2014/15, 2013/14, 2012/13)
+      - 2. Bundesliga              2  (2019/20, 2016/17)
       - DFB Pokal                  1  (2012/13)
-  68. Wuppertaler SV
-      - Deutsche Bundesliga        3  (1974/75, 1973/74, 1972/73)
-  69. Würzburger Kickers
-      - Deutsche 3. Liga           1  (2015/16)
-      - DFB Pokal                  2  (2015/16, 2014/15)
-  70. BFC Dynamo
-      - DFB Pokal                  2  (2015/16, 2013/14)
-  71. BSV Schwarz-Weiß Rehden
-      - DFB Pokal                  2  (2014/15, 2013/14)
-  72. Bahlinger SC
-      - DFB Pokal                  2  (2015/16, 2013/14)
-  73. Borussia Dortmund II
-      - Deutsche 3. Liga           2  (2013/14, 2012/13)
-  74. Bremer SV
-      - DFB Pokal                  2  (2015/16, 2014/15)
-  75. Eintracht Trier
-      - DFB Pokal                  2  (2014/15, 2013/14)
-  76. FC Viktoria Köln
-      - DFB Pokal                  2  (2015/16, 2014/15)
-  77. FSV Optik Rathenow
-      - DFB Pokal                  2  (2014/15, 2013/14)
-  78. FV Illertissen
-      - DFB Pokal                  2  (2014/15, 2013/14)
-  79. SC Victoria Hamburg
-      - DFB Pokal                  2  (2013/14, 2012/13)
-  80. SG Großaspach
-      - Deutsche 3. Liga           1  (2015/16)
+      - Bundesliga - Relegation    1  (2018/19)
+   3. 1. FSV Mainz 05         
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
       - DFB Pokal                  1  (2012/13)
-  81. SV Elversberg
-      - Deutsche 3. Liga           1  (2013/14)
-      - DFB Pokal                  1  (2015/16)
-  82. SV Wilhelmshaven
-      - DFB Pokal                  2  (2013/14, 2012/13)
-  83. Tennis Borussia Berlin
-      - Deutsche Bundesliga        2  (1976/77, 1974/75)
-  84. VfB Lübeck
-      - DFB Pokal                  2  (2015/16, 2012/13)
-  85. 1. FC Neubrandenburg 04
-      - DFB Pokal                  1  (2014/15)
-  86. 1. FSV Mainz 05 II
-      - Deutsche 3. Liga           1  (2015/16)
-  87. Babelsberg
-      - Deutsche 3. Liga           1  (2012/13)
-  88. Berliner AK 07
+   4. Bayer 04 Leverkusen     
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
       - DFB Pokal                  1  (2012/13)
-  89. Blau-Weiß 90 Berlin
-      - Deutsche Bundesliga        1  (1986/87)
-  90. FC Hennef 05
+   5. Bayern München          
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
       - DFB Pokal                  1  (2012/13)
-  91. FC Oberneuland
+   6. Borussia Dortmund       
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
       - DFB Pokal                  1  (2012/13)
-  92. FC Schönberg 95
+   7. FC Augsburg             
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
       - DFB Pokal                  1  (2012/13)
-  93. FC Viktoria 1889 Berlin
-      - DFB Pokal                  1  (2014/15)
-  94. FC-Astoria Walldorf
-      - DFB Pokal                  1  (2014/15)
-  95. FK Pirmasens
-      - DFB Pokal                  1  (2015/16)
-  96. FSV Salmrohr
-      - DFB Pokal                  1  (2015/16)
-  97. FT Braunschweig
-      - DFB Pokal                  1  (2014/15)
-  98. HSV Barmbek-Uhlenhorst
-      - DFB Pokal                  1  (2015/16)
-  99. KSV Hessen Kassel
-      - DFB Pokal                  1  (2015/16)
- 100. Neckarsulmer Sport-Union
-      - DFB Pokal                  1  (2013/14)
- 101. Offenburger FV
+   8. FC Schalke 04           
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
       - DFB Pokal                  1  (2012/13)
- 102. SC Wiedenbrück
-      - DFB Pokal                  1  (2013/14)
- 103. SF Baumberg
-      - DFB Pokal                  1  (2013/14)
- 104. SF Lotte
-      - DFB Pokal                  1  (2015/16)
- 105. SF Siegen
-      - DFB Pokal                  1  (2014/15)
- 106. SG Aumund-Vegesack
-      - DFB Pokal                  1  (2013/14)
- 107. SSV Reutlingen 05
-      - DFB Pokal                  1  (2015/16)
- 108. SSV Ulm 1846
-      - Deutsche Bundesliga        1  (1999/00)
- 109. SV Alemannia Waldalgesheim
-      - DFB Pokal                  1  (2014/15)
- 110. SV Falkensee-Finkenkrug
+   9. Fortuna Düsseldorf      
+      - Bundesliga                 3  (2019/20, 2018/19, 2012/13)
+      - 2. Bundesliga              5  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
       - DFB Pokal                  1  (2012/13)
- 111. SV Lippstadt 08
-      - DFB Pokal                  1  (2013/14)
- 112. SV Meppen
-      - DFB Pokal                  1  (2015/16)
- 113. SV Roßbach/Verscheid
+  10. Hannover 96             
+      - Bundesliga                 6  (2018/19, 2017/18, 2015/16, 2014/15, 2013/14, 2012/13)
+      - 2. Bundesliga              2  (2019/20, 2016/17)
       - DFB Pokal                  1  (2012/13)
- 114. SV Schott Jena
-      - DFB Pokal                  1  (2013/14)
- 115. SV Waldkirch
-      - DFB Pokal                  1  (2014/15)
- 116. TSG Neustrelitz
-      - DFB Pokal                  1  (2013/14)
- 117. TSG Pfeddersheim
-      - DFB Pokal                  1  (2013/14)
- 118. TSV 1860 Rosenheim
-      - DFB Pokal                  1  (2013/14)
- 119. TSV Havelse
+  11. SC Freiburg             
+      - Bundesliga                 7  (2019/20, 2018/19, 2017/18, 2016/17, 2014/15, 2013/14, 2012/13)
+      - 2. Bundesliga              1  (2015/16)
       - DFB Pokal                  1  (2012/13)
- 120. Tasmania 1900 Berlin
-      - Deutsche Bundesliga        1  (1965/66)
- 121. TuS Erndtebrück
-      - DFB Pokal                  1  (2015/16)
- 122. USC Paloma Hamburg
-      - DFB Pokal                  1  (2014/15)
- 123. VfB Leipzig
-      - Deutsche Bundesliga        1  (1993/94)
- 124. VfR Neumünster
-      - DFB Pokal                  1  (2013/14)
- 125. Werder Bremen II
-      - Deutsche 3. Liga           1  (2015/16)
- 126. Wormatia Worms
+  12. 1. FC Köln              
+      - Bundesliga                 5  (2019/20, 2017/18, 2016/17, 2015/16, 2014/15)
+      - 2. Bundesliga              2  (2018/19, 2013/14)
       - DFB Pokal                  1  (2012/13)
+  13. 1. FC Nürnberg          
+      - Bundesliga                 3  (2018/19, 2013/14, 2012/13)
+      - 2. Bundesliga              5  (2019/20, 2017/18, 2016/17, 2015/16, 2014/15)
+  14. 1. FC Union Berlin      
+      - Bundesliga                 1  (2019/20)
+      - 2. Bundesliga              6  (2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+      - Bundesliga - Relegation    1  (2018/19)
+  15. Bor. Mönchengladbach    
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  16. Eintracht Frankfurt     
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  17. FC Erzgebirge Aue       
+      - 2. Bundesliga              6  (2019/20, 2018/19, 2017/18, 2016/17, 2014/15, 2013/14)
+      - 3. Liga                    1  (2015/16)
+      - 2. Bundesliga - Relegation   1  (2017/18)
+  18. FC Ingolstadt 04        
+      - Bundesliga                 2  (2016/17, 2015/16)
+      - 2. Bundesliga              4  (2018/19, 2017/18, 2014/15, 2013/14)
+      - 3. Liga                    1  (2019/20)
+      - 2. Bundesliga - Relegation   1  (2018/19)
+  19. Hamburger SV            
+      - Bundesliga                 6  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+      - 2. Bundesliga              2  (2019/20, 2018/19)
+  20. Karlsruher SC           
+      - 2. Bundesliga              5  (2019/20, 2016/17, 2015/16, 2014/15, 2013/14)
+      - 3. Liga                    1  (2017/18)
+      - DFB Pokal                  1  (2012/13)
+      - 2. Bundesliga - Relegation   1  (2017/18)
+  21. SpVgg Greuther Fürth    
+      - Bundesliga                 1  (2012/13)
+      - 2. Bundesliga              7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  22. TSG 1899 Hoffenheim     
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  23. TSV 1860 München        
+      - 2. Bundesliga              4  (2016/17, 2015/16, 2014/15, 2013/14)
+      - 3. Liga                    1  (2019/20)
+      - DFB Pokal                  1  (2012/13)
+      - 2. Bundesliga - Relegation   1  (2016/17)
+      - 3. Liga - Relegation       1  (2017/18)
+  24. VfL Bochum              
+      - 2. Bundesliga              7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+      - DFB Pokal                  1  (2012/13)
+  25. Werder Bremen           
+      - Bundesliga                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  26. Eintracht Braunschweig  
+      - Bundesliga                 1  (2013/14)
+      - 2. Bundesliga              4  (2017/18, 2016/17, 2015/16, 2014/15)
+      - 3. Liga                    1  (2019/20)
+      - Bundesliga - Relegation    1  (2016/17)
+  27. FC St. Pauli            
+      - 2. Bundesliga              7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  28. Hertha BSC              
+      - Bundesliga                 7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  29. SC Paderborn 07         
+      - Bundesliga                 2  (2019/20, 2014/15)
+      - 2. Bundesliga              3  (2018/19, 2015/16, 2013/14)
+      - 3. Liga                    2  (2017/18, 2016/17)
+  30. SV Sandhausen           
+      - 2. Bundesliga              7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+  31. 1. FC Heidenheim        
+      - 2. Bundesliga              6  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15)
+  32. 1. FC Kaiserslautern    
+      - 2. Bundesliga              5  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+      - 3. Liga                    1  (2019/20)
+  33. Arminia Bielefeld       
+      - 2. Bundesliga              6  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2013/14)
+  34. Dynamo Dresden          
+      - 2. Bundesliga              5  (2019/20, 2018/19, 2017/18, 2016/17, 2013/14)
+      - 3. Liga                    1  (2015/16)
+  35. Holstein Kiel           
+      - 2. Bundesliga              3  (2019/20, 2018/19, 2017/18)
+      - 3. Liga                    2  (2016/17, 2015/16)
+      - Bundesliga - Relegation    1  (2017/18)
+  36. RB Leipzig              
+      - Bundesliga                 4  (2019/20, 2018/19, 2017/18, 2016/17)
+      - 2. Bundesliga              2  (2015/16, 2014/15)
+  37. SV Darmstadt 98         
+      - Bundesliga                 2  (2016/17, 2015/16)
+      - 2. Bundesliga              4  (2019/20, 2018/19, 2017/18, 2014/15)
+  38. 1. FC Magdeburg         
+      - 2. Bundesliga              1  (2018/19)
+      - 3. Liga                    4  (2019/20, 2017/18, 2016/17, 2015/16)
+  39. MSV Duisburg            
+      - 2. Bundesliga              3  (2018/19, 2017/18, 2015/16)
+      - 3. Liga                    2  (2019/20, 2016/17)
+  40. SSV Jahn Regensburg     
+      - 2. Bundesliga              3  (2019/20, 2018/19, 2017/18)
+      - 3. Liga                    1  (2016/17)
+      - 2. Bundesliga - Relegation   1  (2016/17)
+  41. SV Wehen Wiesbaden      
+      - 2. Bundesliga              1  (2019/20)
+      - 3. Liga                    3  (2017/18, 2016/17, 2015/16)
+      - 2. Bundesliga - Relegation   1  (2018/19)
+  42. VfR Aalen               
+      - 2. Bundesliga              2  (2014/15, 2013/14)
+      - 3. Liga                    3  (2017/18, 2016/17, 2015/16)
+  43. Chemnitzer FC           
+      - 3. Liga                    4  (2019/20, 2017/18, 2016/17, 2015/16)
+  44. FSV Frankfurt           
+      - 2. Bundesliga              3  (2015/16, 2014/15, 2013/14)
+      - 3. Liga                    1  (2016/17)
+  45. Hallescher FC           
+      - 3. Liga                    4  (2019/20, 2017/18, 2016/17, 2015/16)
+  46. Hansa Rostock           
+      - 3. Liga                    4  (2019/20, 2017/18, 2016/17, 2015/16)
+  47. Preußen Münster         
+      - 3. Liga                    4  (2019/20, 2017/18, 2016/17, 2015/16)
+  48. SG Großaspach           
+      - 3. Liga                    4  (2019/20, 2017/18, 2016/17, 2015/16)
+  49. VfL Osnabrück           
+      - 2. Bundesliga              1  (2019/20)
+      - 3. Liga                    3  (2017/18, 2016/17, 2015/16)
+  50. Würzburger Kickers      
+      - 2. Bundesliga              1  (2016/17)
+      - 3. Liga                    3  (2019/20, 2017/18, 2015/16)
+  51. Energie Cottbus         
+      - 2. Bundesliga              1  (2013/14)
+      - 3. Liga                    1  (2015/16)
+      - 3. Liga - Relegation       1  (2017/18)
+  52. FC Carl Zeiss Jena      
+      - 3. Liga                    2  (2019/20, 2017/18)
+      - 3. Liga - Relegation       1  (2016/17)
+  53. FC Rot-Weiß Erfurt      
+      - 3. Liga                    3  (2017/18, 2016/17, 2015/16)
+  54. FSV Zwickau             
+      - 3. Liga                    3  (2019/20, 2017/18, 2016/17)
+  55. Fortuna Köln            
+      - 3. Liga                    3  (2017/18, 2016/17, 2015/16)
+  56. SV Meppen               
+      - 3. Liga                    2  (2019/20, 2017/18)
+      - 3. Liga - Relegation       1  (2016/17)
+  57. SV Waldhof Mannheim     
+      - 3. Liga                    1  (2019/20)
+      - 3. Liga - Relegation       2  (2017/18, 2016/17)
+  58. SpVgg Unterhaching      
+      - 3. Liga                    2  (2019/20, 2017/18)
+      - 3. Liga - Relegation       1  (2016/17)
+  59. Werder Bremen II        
+      - 3. Liga                    3  (2017/18, 2016/17, 2015/16)
+  60. 1. FSV Mainz 05 II      
+      - 3. Liga                    2  (2016/17, 2015/16)
+  61. FC Viktoria Köln        
+      - 3. Liga                    1  (2019/20)
+      - 3. Liga - Relegation       1  (2016/17)
+  62. KFC Uerdingen           
+      - 3. Liga                    1  (2019/20)
+      - 3. Liga - Relegation       1  (2017/18)
+  63. SF Lotte                
+      - 3. Liga                    2  (2017/18, 2016/17)
+  64. 1. FC Saarbrücken       
+      - 3. Liga - Relegation       1  (2017/18)
+  65. Bayern München II       
+      - 3. Liga                    1  (2019/20)
+  66. Kickers Offenbach       
+      - DFB Pokal                  1  (2012/13)
+  67. SC Weiche Flensburg 08  
+      - 3. Liga - Relegation       1  (2017/18)
+  68. SV Elversberg           
+      - 3. Liga - Relegation       1  (2016/17)
+  69. Stuttgarter Kickers     
+      - 3. Liga                    1  (2015/16)
+  70. VfB Stuttgart II        
+      - 3. Liga                    1  (2015/16)

@@ -444,11 +444,11 @@ Spieltag 30
 [Fr. 5.6.]
   SC Freiburg             1-0 Bor. Mönchengladbach
 [Sa. 6.6.]  
-  RB Leipzig              - SC Paderborn 07
-  Bayer 04 Leverkusen     - Bayern München
-  Eintracht Frankfurt     - 1. FSV Mainz 05
-  Fortuna Düsseldorf      - TSG Hoffenheim
-  Borussia Dortmund       - Hertha BSC
+  RB Leipzig              1-1 SC Paderborn 07
+  Bayer 04 Leverkusen     2-4 Bayern München
+  Eintracht Frankfurt     0-2 1. FSV Mainz 05
+  Fortuna Düsseldorf      2-2 TSG Hoffenheim
+  Borussia Dortmund       1-0 Hertha BSC
 [So. 7.6.]
   Werder Bremen           - VfL Wolfsburg
   1. FC Union Berlin      - FC Schalke 04

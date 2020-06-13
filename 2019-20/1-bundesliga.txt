@@ -458,11 +458,11 @@ Spieltag 31
 [Fr. 12.6.]
   TSG Hoffenheim          0-2 RB Leipzig
 [Sa. 13.6.]
-  VfL Wolfsburg           - SC Freiburg
-  Fortuna Düsseldorf      - Borussia Dortmund
-  Hertha BSC              - Eintracht Frankfurt
-  1. FC Köln              - 1. FC Union Berlin
-  SC Paderborn 07         - Werder Bremen
+  VfL Wolfsburg           2-2 SC Freiburg
+  Fortuna Düsseldorf      0-1 Borussia Dortmund
+  Hertha BSC              1-4 Eintracht Frankfurt
+  1. FC Köln              1-2 1. FC Union Berlin
+  SC Paderborn 07         1-5 Werder Bremen
   Bayern München          - Bor. Mönchengladbach
 [So. 14.6.]
   1. FSV Mainz 05         - FC Augsburg

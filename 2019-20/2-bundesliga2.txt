@@ -401,17 +401,17 @@ Spieltag 25
 
 Spieltag 26
 [Fr. 13.3.]
-  Arminia Bielefeld       - VfL Osnabrück            # Termin verschoben
-  SpVgg Greuther Fürth    - Hamburger SV             # Termin verschoben
+  Arminia Bielefeld       1-1  VfL Osnabrück            # Termin verschoben
+  SpVgg Greuther Fürth    2-2  Hamburger SV             # Termin verschoben
 [Sa. 14.3.]
-  Erzgebirge Aue          - SV Sandhausen            # Termin verschoben
-  Karlsruher SC           - SV Darmstadt 98          # Termin verschoben
-  VfL Bochum              - 1. FC Heidenheim         # Termin verschoben
-  Jahn Regensburg         - Holstein Kiel            # Termin verschoben
+  Erzgebirge Aue          3-1  SV Sandhausen            # Termin verschoben
+  Karlsruher SC           2-0  SV Darmstadt 98          # Termin verschoben
+  VfL Bochum              3-0  1. FC Heidenheim         # Termin verschoben
+  Jahn Regensburg         2-2  Holstein Kiel            # Termin verschoben
 [So. 15.3.]
-  FC St. Pauli            - 1. FC Nürnberg           # Termin verschoben
+  FC St. Pauli            1-0  1. FC Nürnberg           # Termin verschoben
   Hannover 96             3-0  Dynamo Dresden           # Termin verschoben
-  SV Wehen Wiesbaden      - VfB Stuttgart            # Termin verschoben
+  SV Wehen Wiesbaden      2-1  VfB Stuttgart            # Termin verschoben
   
 
 Spieltag 27
@@ -423,7 +423,7 @@ Spieltag 27
   Hamburger SV            0-0  Arminia Bielefeld        # Termin verschoben
   VfL Osnabrück           2-4  Hannover 96              # Termin verschoben
 [So. 22.3.]
-  Dynamo Dresden          - SpVgg Greuther Fürth     # Termin verschoben
+  Dynamo Dresden          1-1  SpVgg Greuther Fürth     # Termin verschoben
   1. FC Nürnberg          1-1  Erzgebirge Aue           # Termin verschoben
   1. FC Heidenheim        1-0  SV Wehen Wiesbaden       # Termin verschoben
 [Mo. 23.3.]
@@ -461,15 +461,15 @@ Spieltag 29
 
 Spieltag 30
 [So. 19.4.]
-  VfL Bochum              - FC St. Pauli
-  Arminia Bielefeld       - 1. FC Nürnberg
-  VfB Stuttgart           - VfL Osnabrück
-  Hamburger SV            - Holstein Kiel
-  Hannover 96             - 1. FC Heidenheim
-  Erzgebirge Aue          - Karlsruher SC
-  SpVgg Greuther Fürth    - SV Sandhausen
-  SV Wehen Wiesbaden      - Dynamo Dresden
-  Jahn Regensburg         - SV Darmstadt 98
+  VfL Bochum              2-0  FC St. Pauli
+  Arminia Bielefeld       1-1  1. FC Nürnberg
+  VfB Stuttgart           0-0  VfL Osnabrück
+  Hamburger SV            3-3  Holstein Kiel
+  Hannover 96             2-1  1. FC Heidenheim
+  Erzgebirge Aue          1-0  Karlsruher SC
+  SpVgg Greuther Fürth    1-2  SV Sandhausen
+  SV Wehen Wiesbaden      2-3  Dynamo Dresden
+  Jahn Regensburg         3-0  SV Darmstadt 98
 
 
 Spieltag 31

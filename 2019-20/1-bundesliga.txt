@@ -483,15 +483,15 @@ Spieltag 32
 
 Spieltag 33
 [Sa. 20.6.]
-  FC Schalke 04           - VfL Wolfsburg
-  Fortuna Düsseldorf      - FC Augsburg
-  Bayern München          - SC Freiburg
-  1. FC Köln              - Eintracht Frankfurt
-  Hertha BSC              - Bayer 04 Leverkusen
-  1. FSV Mainz 05         - Werder Bremen
-  SC Paderborn 07         - Bor. Mönchengladbach
-  TSG Hoffenheim          - 1. FC Union Berlin
-  RB Leipzig              - Borussia Dortmund
+  FC Schalke 04           1-4 VfL Wolfsburg
+  Fortuna Düsseldorf      1-1 FC Augsburg
+  Bayern München          3-1 SC Freiburg
+  1. FC Köln              1-1 Eintracht Frankfurt
+  Hertha BSC              2-0 Bayer 04 Leverkusen
+  1. FSV Mainz 05         3-1 Werder Bremen
+  SC Paderborn 07         1-3 Bor. Mönchengladbach
+  TSG Hoffenheim          4-0 1. FC Union Berlin
+  RB Leipzig              0-2 Borussia Dortmund
  
 Spieltag 34
 [Sa. 27.6.]

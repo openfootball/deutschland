@@ -495,12 +495,12 @@ Spieltag 33
  
 Spieltag 34
 [Sa. 27.6.]
-  Werder Bremen           - 1. FC Köln
-  SC Freiburg             - FC Schalke 04
-  Bayer 04 Leverkusen     - 1. FSV Mainz 05
-  Bor. Mönchengladbach    - Hertha BSC
-  Borussia Dortmund       - TSG Hoffenheim
-  VfL Wolfsburg           - Bayern München
-  Eintracht Frankfurt     - SC Paderborn 07
-  1. FC Union Berlin      - Fortuna Düsseldorf
-  FC Augsburg             - RB Leipzig
+  Werder Bremen           6-1 1. FC Köln
+  SC Freiburg             4-0 FC Schalke 04
+  Bayer 04 Leverkusen     1-0 1. FSV Mainz 05
+  Bor. Mönchengladbach    2-1 Hertha BSC
+  Borussia Dortmund       0-4 TSG Hoffenheim
+  VfL Wolfsburg           0-4 Bayern München
+  Eintracht Frankfurt    3-2 SC Paderborn 07
+  1. FC Union Berlin      3-0 Fortuna Düsseldorf
+  FC Augsburg             1-2 RB Leipzig

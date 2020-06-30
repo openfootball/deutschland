@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1973/74
-#
-# Start Date: 1973-08-11
-# 18 Teams
-
 = Deutsche Bundesliga 1973/74     ## No.11
 
  1  Bayern München               34 20  9  5  95-53  49

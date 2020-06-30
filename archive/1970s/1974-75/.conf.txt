@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1974/75
-#
-# Start Date: 1974-08-24
-# 18 Teams
-
 = Deutsche Bundesliga 1974/75       ## No. 12
 
  1  Borussia Mönchengladbach     34 21  8  5  86-40  50

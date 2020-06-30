@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_2000/01
-#
-#  Start Date: 2000-08-11
-#  18 Teams
-
 = Deutsche Bundesliga 2000/01     ## No.38
 
  1  FC Bayern München            34 19  6  9  62-37  63

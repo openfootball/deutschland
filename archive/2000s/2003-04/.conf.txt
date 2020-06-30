@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_2003/04
-#
-# Start Date: 2003-08-01
-# 18 Teams
-
 = Deutsche Bundesliga 2003/04      ## No.41
 
  1  SV Werder Bremen             34 22  8  4  79-38  74

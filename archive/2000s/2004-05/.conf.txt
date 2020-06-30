@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_2004/05
-#
-#  Start Date: 2004-08-06
-#  18 Teams
-
 = Deutsche Bundesliga 2004/05    ## No.42
 
  1  FC Bayern München            34 24  5  5  75-33  77

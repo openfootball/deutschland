@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1983/84
-#
-#  Start Date: 1983-08-12
-#  18 Teams
-
 = Deutsche Bundesliga 1983/84      ## No.21
 
  1  VfB Stuttgart                34 19 10  5  79-33  48

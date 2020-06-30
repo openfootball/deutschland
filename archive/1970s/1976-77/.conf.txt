@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1976/77
-#
-#  Start Date: 1976-08-14
-#  18 Teams
-
 = Deutsche Bundesliga 1976/77    ## No.14
 
  1  Borussia Mönchengladbach     34 17 10  7  58-34  44

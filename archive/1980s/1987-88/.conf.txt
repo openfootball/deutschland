@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1987/88
-#
-#  Start Date: 1987-07-31
-#  18 Teams
-
 = Deutsche Bundesliga 1987/88      ## No.25
 
  1  Werder Bremen                34 22  8  4  61-22  52

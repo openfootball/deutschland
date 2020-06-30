@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1986/87
-#
-#  Start Date: 1986-08-08
-#  18 Teams
-
 = Deutsche Bundesliga 1986/87    ## No.24
 
  1  Bayern München               34 20 13  1  67-31  53

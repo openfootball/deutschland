@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1965/66
-#
-#  Start Date: 1965-08-14
-#  18 Teams
-
 = Deutsche Bundesliga 1965/66        ## No.3
 
  1  TSV 1860 München             34 20 10  4  80-40  50

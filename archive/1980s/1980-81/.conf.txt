@@ -1,11 +1,4 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1980/81
-#
-# Start Date: 1980-08-15
-# 18 Teams
-
 = Deutsche Bundesliga 1980/81      ## No.18
-
 
  1  Bayern München               34 22  9  3  89-41  53
  2  Hamburger SV                 34 21  7  6  73-43  49

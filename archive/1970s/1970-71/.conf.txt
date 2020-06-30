@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1970/71
-#
-# Start Date: 1970-08-15
-# 18 Teams
-
 = Deutsche Bundesliga 1970/71      ## No. 8
 
  1  Borussia Mönchengladbach     34 20 10  4  77-35  50

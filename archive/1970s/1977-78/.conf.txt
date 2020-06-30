@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1977/78
-#
-#  Start Date: 1977-08-06
-#  18 Teams
-
 = Deutsche Bundesliga 1977/78       ## No.15
 
  1  1. FC Köln                   34 22  4  8  86-41  48
@@ -24,4 +18,4 @@
 16  TSV 1860 München             34  7  8 19  41-60  22
 17  1. FC Saarbrücken            34  6 10 18  39-70  22
 18  FC St. Pauli                 34  6  6 22  44-86  18
- 
+

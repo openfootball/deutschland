@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_2005/06
-#
-#  Start Date: 2005-08-05
-#  18 Teams
-
 = Deutsche Bundesliga 2005/06    ## No.43
 
  1  FC Bayern München            34 22  9  3  67-32  75

@@ -1,9 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1993/94
-#
-#  Start Date: 1993-08-06
-#  18 Teams
-
 = Deutsche Bundesliga 1993/94      ##  No.31
 
  1  Bayern München               34 17 10  7  68-37  44

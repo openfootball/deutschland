@@ -1,10 +1,3 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1978/79
-#
-# Start Date: 1978-08-11
-#  18 Teams
-
-
 = Deutsche Bundesliga 1978/79     # No. 16
 
  1  Hamburger SV                 34 21  7  6  78-32  49

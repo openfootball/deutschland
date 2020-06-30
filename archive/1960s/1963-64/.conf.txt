@@ -1,11 +1,4 @@
-###
-# see de.wikipedia.org/wiki/Fußball-Bundesliga_1963/64
-#
-# Start Date: 1963-08-24
-# 16 Teams
-
 = Deutsche Bundesliga 1963/64      ## No.1
-
 
  1  1. FC Köln                30  17 11  2  78-40  45
  2  Meidericher SV            30  13 13  4  60-36  39   ##  MSV Duisburg

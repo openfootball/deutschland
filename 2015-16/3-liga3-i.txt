@@ -1,298 +1,337 @@
 = Deutsche 3. Liga 2015/16
 
-1. Spieltag
 
+Spieltag 1
 [Fr 24.7.]
-  20.30  1. FC Magdeburg          2-1  Rot-Weiß Erfurt
+  1. FC Magdeburg          2-1  FC Rot-Weiß Erfurt
 [Sa 25.7.]
-  14.00  Erzgebirge Aue           0-0  VfL Osnabrück
-         Dynamo Dresden           4-1  VfB Stuttgart II
-         SV Wehen Wiesbaden       0-0  Würzburger Kickers
-         Holstein Kiel            0-4  1. FSV Mainz 05 II
-         Hansa Rostock            1-2  Werder Bremen II
-         VfR Aalen                0-0  Chemnitzer FC
-         Stuttgarter Kickers      2-1  Fortuna Köln
-         Preußen Münster          1-1  SG Sonnenhof Großaspach
+  Dynamo Dresden           4-1  VfB Stuttgart II
+  FC Erzgebirge Aue        0-0  VfL Osnabrück
+  VfR Aalen                0-0  Chemnitzer FC
+  Stuttgarter Kickers      2-1  Fortuna Köln
+  Preußen Münster          1-1  SG Großaspach
+  SV Wehen Wiesbaden       0-0  Würzburger Kickers
+  Hansa Rostock            1-2  Werder Bremen II
+  Holstein Kiel            0-4  1. FSV Mainz 05 II
 [So 26.7.]
-  14.00  Energie Cottbus          2-0  Hallescher FC
+  Energie Cottbus          2-0  Hallescher FC
 
 
-2. Spieltag
-
+Spieltag 2
 [Fr 31.7.]
-  19.00  1. FSV Mainz 05 II       2-2  1. FC Magdeburg
-         VfB Stuttgart II         1-3  Preußen Münster
+  VfB Stuttgart II         1-3  Preußen Münster
+  1. FSV Mainz 05 II       2-2  1. FC Magdeburg
 [Sa 1.8.]
-  14.00  Fortuna Köln             1-1  VfR Aalen
-         Chemnitzer FC            1-1  Hansa Rostock
-         Werder Bremen II         0-2  Energie Cottbus
-         Rot-Weiß Erfurt          0-0  SV Wehen Wiesbaden
-         Würzburger Kickers       1-1  Dynamo Dresden
-         VfL Osnabrück            1-1  Stuttgarter Kickers
+  Fortuna Köln             1-1  VfR Aalen
+  FC Rot-Weiß Erfurt       0-0  SV Wehen Wiesbaden
+  Werder Bremen II         0-2  Energie Cottbus
+  Chemnitzer FC            1-1  Hansa Rostock
+  Würzburger Kickers       1-1  Dynamo Dresden
+  VfL Osnabrück            1-1  Stuttgarter Kickers
 [So 2.8.]
-  14.00  Hallescher FC            0-2  Holstein Kiel
-         SG Sonnenhof Großaspach  2-0  Erzgebirge Aue
+  Hallescher FC            0-2  Holstein Kiel
+  SG Großaspach            2-0  FC Erzgebirge Aue
 
-3. Spieltag
 
+Spieltag 3
 [Do 13.8.]
-  20.30  Dynamo Dresden           3-1  Rot-Weiß Erfurt
+  Dynamo Dresden           3-1  FC Rot-Weiß Erfurt
 [Fr 14.8.]
-  19.00  VfR Aalen                1-0  VfL Osnabrück
+  VfR Aalen                1-0  VfL Osnabrück
 [Sa 15.8.]
-  14.00  Erzgebirge Aue           2-0  Stuttgarter Kickers
-         SV Wehen Wiesbaden       1-1  1. FSV Mainz 05 II
-         Holstein Kiel            3-0  Werder Bremen II
-         Energie Cottbus          0-1  Chemnitzer FC
-         Hansa Rostock            4-2  Fortuna Köln
-         SG Sonnenhof Großaspach  1-3  VfB Stuttgart II
-         Preußen Münster          0-0  Würzburger Kickers
+  Holstein Kiel            3-0  Werder Bremen II
+  SV Wehen Wiesbaden       1-1  1. FSV Mainz 05 II
+  SG Großaspach            1-3  VfB Stuttgart II
+  Hansa Rostock            4-2  Fortuna Köln
+  FC Erzgebirge Aue        2-0  Stuttgarter Kickers
+  Preußen Münster          0-0  Würzburger Kickers
+  Energie Cottbus          0-1  Chemnitzer FC
 [So 16.8.]
-  14.00  1. FC Magdeburg          2-1  Hallescher FC
+  1. FC Magdeburg          2-1  Hallescher FC
 
-4. Spieltag
+
+Spieltag 4
 [Fr 21.8.]
-  19.00  Fortuna Köln             3-0  Energie Cottbus
-         Werder Bremen II         1-1  1. FC Magdeburg
+  Werder Bremen II         1-1  1. FC Magdeburg
+  Fortuna Köln             3-0  Energie Cottbus
 [Sa 22.8.]
-  14.00  Chemnitzer FC            4-2  Holstein Kiel
-         Hallescher FC            3-0  SV Wehen Wiesbaden
-         Rot-Weiß Erfurt          1-1  Preußen Münster
-         Würzburger Kickers       0-1  SG Sonnenhof Großaspach
-         VfB Stuttgart II         1-2  Erzgebirge Aue
-         VfL Osnabrück            0-1  Hansa Rostock
+  VfL Osnabrück            0-1  Hansa Rostock
+  FC Rot-Weiß Erfurt       1-1  Preußen Münster
+  Chemnitzer FC            4-2  Holstein Kiel
+  VfB Stuttgart II         1-2  FC Erzgebirge Aue
+  Hallescher FC            3-0  SV Wehen Wiesbaden
+  Würzburger Kickers       0-1  SG Großaspach
 [So 23.8.]
-  14.00  1. FSV Mainz 05 II       1-1  Dynamo Dresden
-         Stuttgarter Kickers      0-0  VfR Aalen
+  1. FSV Mainz 05 II       1-1  Dynamo Dresden
+  Stuttgarter Kickers      0-0  VfR Aalen
 
-5. Spieltag
+
+Spieltag 5
 [Di 25.8.]
-  19.00  SV Wehen Wiesbaden       3-1  Werder Bremen II
-  19.00  Holstein Kiel            2-2  Fortuna Köln
-  19.00  Energie Cottbus          1-2  VfL Osnabrück
-  19.00  VfB Stuttgart II         0-2  Würzburger Kickers
-  20.30  1. FC Magdeburg          2-0  Chemnitzer FC
+  SV Wehen Wiesbaden       3-1  Werder Bremen II
+  VfB Stuttgart II         0-2  Würzburger Kickers
+  Holstein Kiel            2-2  Fortuna Köln
+  Energie Cottbus          1-2  VfL Osnabrück
+  1. FC Magdeburg          2-0  Chemnitzer FC
 [Mi 26.8.]
-  18.30  SG Sonnenhof Großaspach  2-2  Rot-Weiß Erfurt
-  19.00  Erzgebirge Aue           1-0  VfR Aalen
-  19.00  Hansa Rostock            0-1  Stuttgarter Kickers
-  19.00  Preußen Münster          0-1  1. FSV Mainz 05 II
-  20.30  Dynamo Dresden           3-2  Hallescher FC
+  SG Großaspach            2-2  FC Rot-Weiß Erfurt
+  Hansa Rostock            0-1  Stuttgarter Kickers
+  Preußen Münster          0-1  1. FSV Mainz 05 II
+  FC Erzgebirge Aue        1-0  VfR Aalen
+  Dynamo Dresden           3-2  Hallescher FC
 
-6. Spieltag
+
+Spieltag 6
 [Fr 28.8.]
-  19.00  Fortuna Köln             2-1  1. FC Magdeburg
+  Fortuna Köln             2-1  1. FC Magdeburg
 [Sa 29.8.]
-  14.00  Chemnitzer FC            1-0  SV Wehen Wiesbaden
-  14.00  Werder Bremen II         1-2  Dynamo Dresden
-  14.00  Hallescher FC            1-3  Preußen Münster
-  14.00  Rot-Weiß Erfurt          3-0  VfB Stuttgart II
-  14.00  Würzburger Kickers       1-0  Erzgebirge Aue
-  14.00  Stuttgarter Kickers      0-0  Energie Cottbus
-  14.00  VfL Osnabrück            3-2  Holstein Kiel
+  VfL Osnabrück            3-2  Holstein Kiel
+  Würzburger Kickers       1-0  FC Erzgebirge Aue
+  Werder Bremen II         1-2  Dynamo Dresden
+  FC Rot-Weiß Erfurt       3-0  VfB Stuttgart II
+  Hallescher FC            1-3  Preußen Münster
+  Chemnitzer FC            1-0  SV Wehen Wiesbaden
+  Stuttgarter Kickers      0-0  Energie Cottbus
 [So 30.8.]
-  14.00  1. FSV Mainz 05 II       2-1  SG Sonnenhof Großaspach
-  14.00  VfR Aalen                1-1  Hansa Rostock
+  1. FSV Mainz 05 II       2-1  SG Großaspach
+  VfR Aalen                1-1  Hansa Rostock
 
-7. Spieltag
+
+Spieltag 7
 [Sa 5.9.]
-  14.00  Erzgebirge Aue           0-0  Hansa Rostock
-  14.00  SV Wehen Wiesbaden       3-0  Fortuna Köln
-  14.00  Holstein Kiel            1-2  Stuttgarter Kickers
-  14.00  Energie Cottbus          0-4  VfR Aalen
-  14.00  Würzburger Kickers       0-0  Rot-Weiß Erfurt
-  14.00  VfB Stuttgart II         0-1  1. FSV Mainz 05 II
-  14.00  SG Sonnenhof Großaspach  0-0  Hallescher FC
-  14.00  Preußen Münster          3-1  Werder Bremen II
+  Preußen Münster          3-1  Werder Bremen II
+  Holstein Kiel            1-2  Stuttgarter Kickers
+  FC Erzgebirge Aue        0-0  Hansa Rostock
+  SV Wehen Wiesbaden       3-0  Fortuna Köln
+  Würzburger Kickers       0-0  FC Rot-Weiß Erfurt
+  Energie Cottbus          0-4  VfR Aalen
 [So 6.9.]
-  14.00  Dynamo Dresden           1-0  Chemnitzer FC
-  14.00  1. FC Magdeburg          3-0  VfL Osnabrück
+  Dynamo Dresden           1-0  Chemnitzer FC
 
-8. Spieltag
+
+Spieltag 8
 [Fr 11.9.]
-  19.00  Hansa Rostock            1-1  Energie Cottbus
-  19.00  Stuttgarter Kickers      1-0  1. FC Magdeburg
+  Stuttgarter Kickers      1-0  1. FC Magdeburg
+  Hansa Rostock            1-1  Energie Cottbus
 [Sa 12.9.]
-  14.00  Fortuna Köln             1-5  Dynamo Dresden
-  14.00  Chemnitzer FC            0-1  Preußen Münster
-  14.00  Werder Bremen II         0-4  SG Sonnenhof Großaspach
-  14.00  Hallescher FC            3-0  VfB Stuttgart II
-  14.00  1. FSV Mainz 05 II       1-0  Würzburger Kickers
-  14.00  Rot-Weiß Erfurt          0-1  Erzgebirge Aue
-  14.00  VfL Osnabrück            4-0  SV Wehen Wiesbaden
+  FC Rot-Weiß Erfurt       0-1  FC Erzgebirge Aue
+  1. FSV Mainz 05 II       1-0  Würzburger Kickers
+  Chemnitzer FC            0-1  Preußen Münster
+  VfL Osnabrück            4-0  SV Wehen Wiesbaden
+  Hallescher FC            3-0  VfB Stuttgart II
+  Fortuna Köln             1-5  Dynamo Dresden
+  Werder Bremen II         0-4  SG Großaspach
 [So 13.9.]
-  14.00  VfR Aalen                0-0  Holstein Kiel
+  VfR Aalen                0-0  Holstein Kiel
 
-9. Spieltag
+
+Spieltag 7
+[Di 15.9.]
+  1. FC Magdeburg          3-0  VfL Osnabrück
+  SG Großaspach            0-0  Hallescher FC
+  VfB Stuttgart II         1-1  1. FSV Mainz 05 II
+
+
+Spieltag 9
 [Fr 18.9.]
-  19.00  1. FC Magdeburg          1-2  VfR Aalen
-  20.30  Erzgebirge Aue           1-0  Energie Cottbus
+  1. FC Magdeburg          1-2  VfR Aalen
+  FC Erzgebirge Aue        1-0  Energie Cottbus
 [Sa 19.9.]
-  14.00  Dynamo Dresden           2-1  VfL Osnabrück
-  14.00  SV Wehen Wiesbaden       3-3  Stuttgarter Kickers
-  14.00  Holstein Kiel            0-0  Hansa Rostock
-  14.00  Rot-Weiß Erfurt          3-0  1. FSV Mainz 05 II
-  14.00  Würzburger Kickers       0-1  Hallescher FC
-  14.00  VfB Stuttgart II         1-1  Werder Bremen II
-  14.00  SG Sonnenhof Großaspach  4-2  Chemnitzer FC
-  14.00  Preußen Münster          3-1  Fortuna Köln
+  Dynamo Dresden           2-1  VfL Osnabrück
+  SV Wehen Wiesbaden       3-3  Stuttgarter Kickers
+  FC Rot-Weiß Erfurt       3-0  1. FSV Mainz 05 II
+  Holstein Kiel            0-0  Hansa Rostock
+  SG Großaspach            4-2  Chemnitzer FC
+  Würzburger Kickers       0-1  Hallescher FC
+  Preußen Münster          3-1  Fortuna Köln
+  VfB Stuttgart II         1-1  Werder Bremen II
 
-10. Spieltag
+
+Spieltag 10
 [Di 22.9.]
-  18.30  1. FSV Mainz 05 II       1-1  Erzgebirge Aue
-  19.00  Chemnitzer FC            2-1  VfB Stuttgart II
-  19.00  Werder Bremen II         0-0  Würzburger Kickers
-  19.00  VfR Aalen                3-1  SV Wehen Wiesbaden
-  20.30  Hallescher FC            2-1  Rot-Weiß Erfurt
+  1. FSV Mainz 05 II       1-1  FC Erzgebirge Aue
+  Werder Bremen II         0-0  Würzburger Kickers
+  Chemnitzer FC            2-1  VfB Stuttgart II
+  Hallescher FC            2-1  FC Rot-Weiß Erfurt
+  VfR Aalen                3-1  SV Wehen Wiesbaden
 [Mi 23.9.]
-  18.00  VfL Osnabrück            2-2  Preußen Münster
-  19.00  Fortuna Köln             2-2  SG Sonnenhof Großaspach
-  19.00  Energie Cottbus          1-2  Holstein Kiel
-  19.00  Stuttgarter Kickers      1-2  Dynamo Dresden
-  20.30  Hansa Rostock            1-1  1. FC Magdeburg
+  VfL Osnabrück            2-2  Preußen Münster
+  Stuttgarter Kickers      1-2  Dynamo Dresden
+  Energie Cottbus          1-2  Holstein Kiel
+  Fortuna Köln             2-2  SG Großaspach
+  Hansa Rostock            1-1  1. FC Magdeburg
 
-11. Spieltag
+
+Spieltag 11
 [Fr 25.9.]
-  19.00  1. FSV Mainz 05 II       2-0  Hallescher FC
-  19.00  Würzburger Kickers       1-1  Chemnitzer FC
+  Würzburger Kickers       1-1  Chemnitzer FC
+  1. FSV Mainz 05 II       2-0  Hallescher FC
 [Sa 26.9.]
-  14.00  Erzgebirge Aue           0-0  Holstein Kiel
-  14.00  SV Wehen Wiesbaden       0-0  Hansa Rostock
-  14.00  1. FC Magdeburg          2-2  Energie Cottbus
-  14.00  Rot-Weiß Erfurt          2-1  Werder Bremen II
-  14.00  SG Sonnenhof Großaspach  3-3  VfL Osnabrück
-  14.00  Preußen Münster          4-2  Stuttgarter Kickers
+  SV Wehen Wiesbaden       0-0  Hansa Rostock
+  FC Rot-Weiß Erfurt       2-1  Werder Bremen II
+  Preußen Münster          4-2  Stuttgarter Kickers
+  1. FC Magdeburg          2-2  Energie Cottbus
+  FC Erzgebirge Aue        0-0  Holstein Kiel
+  SG Großaspach            3-3  VfL Osnabrück
 [So 27.9.]
-  14.00  Dynamo Dresden           4-0  VfR Aalen
-  14.00  VfB Stuttgart II         3-0  Fortuna Köln
+  VfB Stuttgart II         3-0  Fortuna Köln
+  Dynamo Dresden           4-0  VfR Aalen
 
-12. Spieltag
+
+Spieltag 12
+[Do 1.10.]
+  Chemnitzer FC            1-1  FC Rot-Weiß Erfurt
+[Fr 2.10.]
+  Holstein Kiel            0-0  1. FC Magdeburg
 [Sa 3.10.]
-Fortuna Köln                      0-3  Würzburger Kickers
-Chemnitzer FC                     1-1  Rot-Weiß Erfurt
-Werder Bremen II                  2-1  1. FSV Mainz 05 II
-Hallescher FC                     1-0  Erzgebirge Aue
-Holstein Kiel                     0-0  1. FC Magdeburg
-Energie Cottbus                   2-2  SV Wehen Wiesbaden
-Hansa Rostock                     1-3  Dynamo Dresden
-VfR Aalen                         0-0  Preußen Münster
-Stuttgarter Kickers               0-4  SG Sonnenhof Großaspach
-VfL Osnabrück                     1-1  VfB Stuttgart II
+  Stuttgarter Kickers      0-4  SG Großaspach
+  VfL Osnabrück            1-1  VfB Stuttgart II
+  Werder Bremen II         2-1  1. FSV Mainz 05 II
+  Fortuna Köln             0-3  Würzburger Kickers
+  VfR Aalen                0-0  Preußen Münster
+  Hansa Rostock            1-3  Dynamo Dresden
+  Hallescher FC            1-0  FC Erzgebirge Aue
+[So 4.10.]
+  Energie Cottbus          2-2  SV Wehen Wiesbaden
 
-13. Spieltag
+
+Spieltag 13
+[Fr 16.10.]
+  Preußen Münster          1-1  Hansa Rostock
 [Sa 17.10.]
-Erzgebirge Aue                    0-0  1. FC Magdeburg
-Dynamo Dresden                    0-1  Energie Cottbus
-SV Wehen Wiesbaden                3-1  Holstein Kiel
-Hallescher FC                     6-2  Werder Bremen II
-1. FSV Mainz 05 II                0-0  Chemnitzer FC
-Rot-Weiß Erfurt                   0-2  Fortuna Köln
-Würzburger Kickers                0-1  VfL Osnabrück
-VfB Stuttgart II                  2-1  Stuttgarter Kickers
-SG Sonnenhof Großaspach           2-0  VfR Aalen
-Preußen Münster                   1-1  Hansa Rostock
+  SV Wehen Wiesbaden       3-1  Holstein Kiel
+  SG Großaspach            2-0  VfR Aalen
+  Hallescher FC            6-2  Werder Bremen II
+  1. FSV Mainz 05 II       0-0  Chemnitzer FC
+  Dynamo Dresden           0-1  Energie Cottbus
+  FC Rot-Weiß Erfurt       0-2  Fortuna Köln
+  Würzburger Kickers       0-1  VfL Osnabrück
+[So 18.10.]
+  FC Erzgebirge Aue        0-0  1. FC Magdeburg
+  VfB Stuttgart II         2-1  Stuttgarter Kickers
 
-14. Spieltag
+
+Spieltag 14
+[Fr 23.10.]
+  Werder Bremen II         4-0  FC Erzgebirge Aue
 [Sa 24.10.]
-Fortuna Köln                      3-1  1. FSV Mainz 05 II
-Chemnitzer FC                     3-1   Hallescher FC
-Werder Bremen II                  4-0  Erzgebirge Aue
-1. FC Magdeburg                   1-0  SV Wehen Wiesbaden
-Holstein Kiel                     1-2  Dynamo Dresden
-Energie Cottbus                   0-0  Preußen Münster
-Hansa Rostock                     1-3  SG Sonnenhof Großaspach
-VfR Aalen                         1-0  VfB Stuttgart II
-Stuttgarter Kickers               1-2  Würzburger Kickers
-VfL Osnabrück                     1-0  Rot-Weiß Erfurt
+  VfL Osnabrück            1-0  FC Rot-Weiß Erfurt
+  Fortuna Köln             3-1  1. FSV Mainz 05 II
+  Energie Cottbus          0-0  Preußen Münster
+  1. FC Magdeburg          1-0  SV Wehen Wiesbaden
+  VfR Aalen                1-0  VfB Stuttgart II
+  Stuttgarter Kickers      1-2  Würzburger Kickers
+  Holstein Kiel            1-2  Dynamo Dresden
+  Hansa Rostock            1-3  SG Großaspach
+[So 25.10.]
+  Chemnitzer FC            3-1  Hallescher FC
 
-15. Spieltag
+
+Spieltag 15
+[Fr 30.10.]
+  VfB Stuttgart II         3-1  Hansa Rostock
+  FC Erzgebirge Aue        1-1  SV Wehen Wiesbaden
 [Sa 31.10.]
-Erzgebirge Aue                    1-1  SV Wehen Wiesbaden
-Dynamo Dresden                    3-2  1. FC Magdeburg
-Werder Bremen II                  3-2  Chemnitzer FC
-Hallescher FC                     1-1  Fortuna Köln
-1. FSV Mainz 05 II                0-0  VfL Osnabrück
-Rot-Weiß Erfurt                   1-0  Stuttgarter Kickers
-Würzburger Kickers                2-2  VfR Aalen
-VfB Stuttgart II                  3-1  Hansa Rostock
-SG Sonnenhof Großaspach           1-1  Energie Cottbus
-Preußen Münster                   2-0  Holstein Kiel
+  Dynamo Dresden           3-2  1. FC Magdeburg
+  Hallescher FC            1-1  Fortuna Köln
+  1. FSV Mainz 05 II       0-0  VfL Osnabrück
+  Preußen Münster          2-0  Holstein Kiel
+  FC Rot-Weiß Erfurt       1-0  Stuttgarter Kickers
+  SG Großaspach            1-1  Energie Cottbus
+  Würzburger Kickers       2-2  VfR Aalen
+[So 1.11.]
+  Werder Bremen II         3-2  Chemnitzer FC
 
-16. Spieltag
+
+Spieltag 16
+[Fr 6.11.]
+  VfL Osnabrück            2-0  Hallescher FC
+  SV Wehen Wiesbaden       2-2  Dynamo Dresden
 [Sa 7.11.]
-Fortuna Köln                      2-1  Werder Bremen II
-Chemnitzer FC                     1-2  Erzgebirge Aue
-SV Wehen Wiesbaden                2-2  Dynamo Dresden
-1. FC Magdeburg                   3-0  Preußen Münster
-Holstein Kiel                     3-1  SG Sonnenhof Großaspach
-Energie Cottbus                   2-2  VfB Stuttgart II
-Hansa Rostock                     0-0  Würzburger Kickers
-VfR Aalen                         2-2  Rot-Weiß Erfurt
-Stuttgarter Kickers               1-4  1. FSV Mainz 05 II
-VfL Osnabrück                     2-0  Hallescher FC
+  Holstein Kiel            3-1  SG Großaspach
+  Stuttgarter Kickers      1-4  1. FSV Mainz 05 II
+  1. FC Magdeburg          3-0  Preußen Münster
+  VfR Aalen                2-2  FC Rot-Weiß Erfurt
+  Chemnitzer FC            1-2  FC Erzgebirge Aue
+  Energie Cottbus          2-2  VfB Stuttgart II
+  Hansa Rostock            0-0  Würzburger Kickers
+  Fortuna Köln             2-1  Werder Bremen II
 
-17. Spieltag
+
+Spieltag 17
+[Fr 20.11.]
+  VfB Stuttgart II         1-3  Holstein Kiel
 [Sa 21.11.]
-Erzgebirge Aue                    1-1  Dynamo Dresden
-Chemnitzer FC                     3-1  Fortuna Köln
-Werder Bremen II                  0-1  VfL Osnabrück
-Hallescher FC                     1-1  Stuttgarter Kickers
-1. FSV Mainz 05 II                1-0  VfR Aalen
-Rot-Weiß Erfurt                   3-2  Hansa Rostock
-Würzburger Kickers                2-2  Energie Cottbus
-VfB Stuttgart II                  1-3  Holstein Kiel
-SG Sonnenhof Großaspach           1-0  1. FC Magdeburg
-Preußen Münster                   0-0  SV Wehen Wiesbaden
+  1. FSV Mainz 05 II       1-0  VfR Aalen
+  Werder Bremen II         0-1  VfL Osnabrück
+  FC Rot-Weiß Erfurt       3-2  Hansa Rostock
+  Hallescher FC            1-1  Stuttgarter Kickers
+  SG Großaspach            1-0  1. FC Magdeburg
+  Würzburger Kickers       2-2  Energie Cottbus
+  FC Erzgebirge Aue        1-1  Dynamo Dresden
+  Preußen Münster          0-0  SV Wehen Wiesbaden
+[So 22.11.]
+  Chemnitzer FC            3-1  Fortuna Köln
 
-18. Spieltag
+
+Spieltag 18
 [Sa 28.11.]
-Erzgebirge Aue                    2-0  Fortuna Köln
-Dynamo Dresden                    0-0  Preußen Münster
-SV Wehen Wiesbaden                2-2  SG Sonnenhof Großaspach
-1. FC Magdeburg                   2-2  VfB Stuttgart II
-Holstein Kiel                     1-2  Würzburger Kickers
-Energie Cottbus                   2-1  Rot-Weiß Erfurt
-Hansa Rostock                     1-0  1. FSV Mainz 05 II
-VfR Aalen                         0-0  Hallescher FC
-Stuttgarter Kickers               0-2  Werder Bremen II
-VfL Osnabrück                     2-0  Chemnitzer FC
+  Dynamo Dresden           0-0  Preußen Münster
+  SV Wehen Wiesbaden       2-2  SG Großaspach
+  Hansa Rostock            1-0  1. FSV Mainz 05 II
+  Stuttgarter Kickers      0-2  Werder Bremen II
+  Energie Cottbus          2-1  FC Rot-Weiß Erfurt
+  VfL Osnabrück            2-0  Chemnitzer FC
+  1. FC Magdeburg          2-2  VfB Stuttgart II
+  Holstein Kiel            1-2  Würzburger Kickers
+  VfR Aalen                0-0  Hallescher FC
+[So 29.11.]
+  FC Erzgebirge Aue        2-0  Fortuna Köln
 
-19. Spieltag
+
+Spieltag 19
+[Fr 4.12.]
+  Fortuna Köln             3-1  VfL Osnabrück
+  SG Großaspach            0-0  Dynamo Dresden
 [Sa 5.12.]
-Fortuna Köln                      3-1  VfL Osnabrück
-Chemnitzer FC                     1-0  Stuttgarter Kickers
-Werder Bremen II                  1-1  VfR Aalen
-Hallescher FC                     2-0  Hansa Rostock
-1. FSV Mainz 05 II                0-1  Energie Cottbus
-Rot-Weiß Erfurt                   1-3  Holstein Kiel
-Würzburger Kickers                1-1  1. FC Magdeburg
-VfB Stuttgart II                  1-2  SV Wehen Wiesbaden
-SG Sonnenhof Großaspach           0-0  Dynamo Dresden
-Preußen Münster                   0-1  Erzgebirge Aue
+  VfB Stuttgart II         1-2  SV Wehen Wiesbaden
+  1. FSV Mainz 05 II       0-1  Energie Cottbus
+  Würzburger Kickers       1-1  1. FC Magdeburg
+  Hallescher FC            2-0  Hansa Rostock
+  Chemnitzer FC            1-0  Stuttgarter Kickers
+  Werder Bremen II         1-1  VfR Aalen
+  FC Rot-Weiß Erfurt       1-3  Holstein Kiel
+  Preußen Münster          0-1  FC Erzgebirge Aue
 
-20. Spieltag
+
+Spieltag 20
+[Fr 11.12.]
+  VfB Stuttgart II         1-1  Dynamo Dresden
 [Sa 12.12.]
-VfL Osnabrück                     0-0  Erzgebirge Aue
-VfB Stuttgart II                  1-1  Dynamo Dresden
-Würzburger Kickers                0-0  SV Wehen Wiesbaden
-1. FSV Mainz 05 II                0-0  Holstein Kiel
-Hallescher FC                     1-1  Energie Cottbus
-Werder Bremen II                  1-1  Hansa Rostock
-Chemnitzer FC                     1-1  VfR Aalen
-Fortuna Köln                      3-1  Stuttgarter Kickers
-SG Sonnenhof Großaspach           3-1  Preußen Münster
-Rot-Weiß Erfurt                   0-2  1. FC Magdeburg
+  Chemnitzer FC            1-1  VfR Aalen
+  Würzburger Kickers       0-0  SV Wehen Wiesbaden
+  SG Großaspach            3-1  Preußen Münster
+  1. FSV Mainz 05 II       0-0  Holstein Kiel
+  VfL Osnabrück            0-0  FC Erzgebirge Aue
+  Fortuna Köln             3-1  Stuttgarter Kickers
+[So 13.12.]
+  Hallescher FC            1-1  Energie Cottbus
+  Werder Bremen II         1-1  Hansa Rostock
+[Mo 14.12.]
+  FC Rot-Weiß Erfurt       0-2  1. FC Magdeburg
 
-21. Spieltag
+
+Spieltag 21
+[Do 17.12.]
+  Dynamo Dresden           2-1  Würzburger Kickers
+[Fr 18.12.]
+  Stuttgarter Kickers      2-2  VfL Osnabrück
+  Holstein Kiel            0-4  Hallescher FC
+  SV Wehen Wiesbaden       3-0  FC Rot-Weiß Erfurt
 [Sa 19.12.]
-VfR Aalen                         0-2  Fortuna Köln
-Hansa Rostock                     1-0  Chemnitzer FC
-Energie Cottbus                   1-1  Werder Bremen II
-Holstein Kiel                     0-4  Hallescher FC
-1. FC Magdeburg                   3-1  1. FSV Mainz 05 II
-SV Wehen Wiesbaden                3-0  Rot-Weiß Erfurt
-Dynamo Dresden                    2-1  Würzburger Kickers
-Preußen Münster                   1-2  VfB Stuttgart II
-Erzgebirge Aue                    2-0  SG Sonnenhof Großaspach
-Stuttgarter Kickers               2-2  VfL Osnabrück
-
+  1. FC Magdeburg          3-1  1. FSV Mainz 05 II
+  Energie Cottbus          1-1  Werder Bremen II
+  Hansa Rostock            1-0  Chemnitzer FC
+  Preußen Münster          1-2  VfB Stuttgart II
+  FC Erzgebirge Aue        2-0  SG Großaspach
+  VfR Aalen                0-2  Fortuna Köln

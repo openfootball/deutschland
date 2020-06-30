@@ -1,220 +1,255 @@
 = Deutsche Bundesliga 2015/16
 
-1. Spieltag
+
+Spieltag 1
 [Fr 14.8.]
-  20.30  Bayern München        5-0  Hamburger SV
+  Bayern München           5-0  Hamburger SV
 [Sa 15.8.]
-  15.30  1. FSV Mainz 05       0-1  FC Ingolstadt 04
-         SV Darmstadt 98       2-2  Hannover 96
-         Werder Bremen         0-3  FC Schalke 04
-         FC Augsburg           0-1  Hertha BSC
-         Bayer Leverkusen      2-1  1899 Hoffenheim
-  18.30  Borussia Dortmund     4-0  Bor. Mönchengladbach
+  Bayer 04 Leverkusen      2-1  TSG 1899 Hoffenheim
+  1. FSV Mainz 05          0-1  FC Ingolstadt 04
+  SV Darmstadt 98          2-2  Hannover 96
+  Werder Bremen            0-3  FC Schalke 04
+  FC Augsburg              0-1  Hertha BSC
+  Borussia Dortmund        4-0  Bor. Mönchengladbach
 [So 16.8.]
-  15.30  VfL Wolfsburg         2-1  Eintracht Frankfurt
-  17.30  VfB Stuttgart         1-3  1. FC Köln
+  VfL Wolfsburg            2-1  Eintracht Frankfurt
+  VfB Stuttgart            1-3  1. FC Köln
 
-2. Spieltag
+
+Spieltag 2
 [Fr 21.8.]
-  20.30  Hertha BSC            1-1  Werder Bremen
+  Hertha BSC               1-1  Werder Bremen
 [Sa 22.8.]
-  15.30  FC Schalke 04         1-1  SV Darmstadt 98
-         Eintracht Frankfurt   1-1  FC Augsburg
-         1. FC Köln            1-1  VfL Wolfsburg
-         Hannover 96           0-1  Bayer Leverkusen
-         1899 Hoffenheim       1-2  Bayern München
-  18.30  Hamburger SV          3-2  VfB Stuttgart
+  FC Schalke 04            1-1  SV Darmstadt 98
+  Eintracht Frankfurt      1-1  FC Augsburg
+  TSG 1899 Hoffenheim      1-2  Bayern München
+  Hannover 96              0-1  Bayer 04 Leverkusen
+  1. FC Köln               1-1  VfL Wolfsburg
+  Hamburger SV             3-2  VfB Stuttgart
 [So 23.8.]
-  15.30  FC Ingolstadt 04      0-4  Borussia Dortmund
-  17.30  Bor. Mönchengladbach  1-2  1. FSV Mainz 05
+  FC Ingolstadt 04         0-4  Borussia Dortmund
+  Bor. Mönchengladbach     1-2  1. FSV Mainz 05
 
-3. Spieltag
+
+Spieltag 3
 [Fr 28.8.]
-  20.30  VfL Wolfsburg         3-0  FC Schalke 04
+  VfL Wolfsburg            3-0  FC Schalke 04
 [Sa 29.8.]
-  15.30  VfB Stuttgart         1-4  Eintracht Frankfurt
-         FC Augsburg           0-1  FC Ingolstadt 04
-         1. FC Köln            2-1  Hamburger SV
-         1. FSV Mainz 05       3-0  Hannover 96
-         SV Darmstadt 98       0-0  1899 Hoffenheim
-  18.30  Bayern München        3-0  Bayer Leverkusen
+  SV Darmstadt 98          0-0  TSG 1899 Hoffenheim
+  1. FC Köln               2-1  Hamburger SV
+  1. FSV Mainz 05          3-0  Hannover 96
+  FC Augsburg              0-1  FC Ingolstadt 04
+  VfB Stuttgart            1-4  Eintracht Frankfurt
+  Bayern München           3-0  Bayer 04 Leverkusen
 [So 30.8.]
-  15.30  Borussia Dortmund     3-1  Hertha BSC
-  17.30  Werder Bremen         2-1  Bor. Mönchengladbach
+  Borussia Dortmund        3-1  Hertha BSC
+  Werder Bremen            2-1  Bor. Mönchengladbach
 
-4. Spieltag
+
+Spieltag 4
 [Fr 11.9.]
-  20.30  Bor. Mönchengladbach  0-3  Hamburger SV
+  Bor. Mönchengladbach     0-3  Hamburger SV
 [Sa 12.9.]
-  15.30  Bayern München        2-1  FC Augsburg
-         Bayer Leverkusen      0-1  SV Darmstadt 98
-         Hannover 96           2-4  Borussia Dortmund
-         Hertha BSC            2-1  VfB Stuttgart
-         FC Ingolstadt 04      0-0  VfL Wolfsburg
-  18.30  Eintracht Frankfurt   6-2  1. FC Köln
+  Hertha BSC               2-1  VfB Stuttgart
+  Hannover 96              2-4  Borussia Dortmund
+  Bayern München           2-1  FC Augsburg
+  FC Ingolstadt 04         0-0  VfL Wolfsburg
+  Bayer 04 Leverkusen      0-1  SV Darmstadt 98
+  Eintracht Frankfurt      6-2  1. FC Köln
 [So 13.9.]
-  15.30  1899 Hoffenheim       1-3  Werder Bremen
-  17.30  FC Schalke 04         2-1  1. FSV Mainz 05
+  TSG 1899 Hoffenheim      1-3  Werder Bremen
+  FC Schalke 04            2-1  1. FSV Mainz 05
 
-5. Spieltag
+
+Spieltag 5
 [Fr 18.9.]
-  20.30  1. FSV Mainz 05       3-1  1899 Hoffenheim
+  1. FSV Mainz 05          3-1  TSG 1899 Hoffenheim
 [Sa 19.9.]
-  15.30  VfL Wolfsburg         2-0  Hertha BSC
-         Hamburger SV          0-0  Eintracht Frankfurt
-         Werder Bremen         0-1  FC Ingolstadt 04
-         1. FC Köln            1-0  Bor. Mönchengladbach
-         SV Darmstadt 98       0-3  Bayern München
+  SV Darmstadt 98          0-3  Bayern München
+  VfL Wolfsburg            2-0  Hertha BSC
+  Hamburger SV             0-0  Eintracht Frankfurt
+  1. FC Köln               1-0  Bor. Mönchengladbach
+  Werder Bremen            0-1  FC Ingolstadt 04
 [So 20.9.]
-  15.30  VfB Stuttgart         0-1  FC Schalke 04
-  17.30  Borussia Dortmund     3-0  Bayer Leverkusen
-         FC Augsburg           2-0  Hannover 96
+  VfB Stuttgart            0-1  FC Schalke 04
+  FC Augsburg              2-0  Hannover 96
+  Borussia Dortmund        3-0  Bayer 04 Leverkusen
 
-6. Spieltag
+
+Spieltag 6
 [Di 22.9.]
-  20.00  Bayern München        5-1  VfL Wolfsburg
-         Hertha BSC            2-0  1. FC Köln
-         FC Ingolstadt 04      0-1  Hamburger SV
-         SV Darmstadt 98       2-1  Werder Bremen
+  FC Ingolstadt 04         0-1  Hamburger SV
+  Hertha BSC               2-0  1. FC Köln
+  Bayern München           5-1  VfL Wolfsburg
+  SV Darmstadt 98          2-1  Werder Bremen
 [Mi 23.9.]
-  20.00  FC Schalke 04         2-0  Eintracht Frankfurt
-         Bayer Leverkusen      1-0  1. FSV Mainz 05
-         Bor. Mönchengladbach  4-2  FC Augsburg
-         Hannover 96           1-3  VfB Stuttgart
-         1899 Hoffenheim       1-1  Borussia Dortmund
+  TSG 1899 Hoffenheim      1-1  Borussia Dortmund
+  Bor. Mönchengladbach     4-2  FC Augsburg
+  FC Schalke 04            2-0  Eintracht Frankfurt
+  Bayer 04 Leverkusen      1-0  1. FSV Mainz 05
+  Hannover 96              1-3  VfB Stuttgart
 
-7. Spieltag
+
+Spieltag 7
 [Fr 25.9.]
-  20.30  1. FC Köln            1-1  FC Ingolstadt 04
+  1. FC Köln               1-1  FC Ingolstadt 04
 [Sa 26.9.]
-  15.30  VfL Wolfsburg         1-1  Hannover 96
-         VfB Stuttgart         1-3  Bor. Mönchengladbach
-         FC Augsburg           1-3  1899 Hoffenheim
-         Werder Bremen         0-3  Bayer Leverkusen
-         1. FSV Mainz 05       0-3  Bayern München
-  18.30  Hamburger SV          0-1  FC Schalke 04
+  FC Augsburg              1-3  TSG 1899 Hoffenheim
+  VfL Wolfsburg            1-1  Hannover 96
+  Werder Bremen            0-3  Bayer 04 Leverkusen
+  VfB Stuttgart            1-3  Bor. Mönchengladbach
+  1. FSV Mainz 05          0-3  Bayern München
+  Hamburger SV             0-1  FC Schalke 04
 [So 27.9.]
-  15.30  Eintracht Frankfurt   1-1  Hertha BSC
-  17.30  Borussia Dortmund     2-2  SV Darmstadt 98
+  Eintracht Frankfurt      1-1  Hertha BSC
+  Borussia Dortmund        2-2  SV Darmstadt 98
 
-8. Spieltag
+
+Spieltag 8
+[Fr 2.10.]
+  SV Darmstadt 98          2-3  1. FSV Mainz 05
 [Sa 3.10.]
-  Bayern München               5-1  Borussia Dortmund
-  FC Schalke 04                0-3  1. FC Köln
-  Bayer Leverkusen             1-1  FC Augsburg
-  Bor. Mönchengladbach         2-0  VfL Wolfsburg
-  Hannover 96                  1-0  Werder Bremen
-  Hertha BSC                   3-0  Hamburger SV
-  1899 Hoffenheim              2-2  VfB Stuttgart
-  FC Ingolstadt 04             2-0  Eintracht Frankfurt
-  SV Darmstadt 98              2-3  1. FSV Mainz 05
+  Hannover 96              1-0  Werder Bremen
+  Bor. Mönchengladbach     2-0  VfL Wolfsburg
+  FC Ingolstadt 04         2-0  Eintracht Frankfurt
+  TSG 1899 Hoffenheim      2-2  VfB Stuttgart
+  Hertha BSC               3-0  Hamburger SV
+[So 4.10.]
+  FC Schalke 04            0-3  1. FC Köln
+  Bayer 04 Leverkusen      1-1  FC Augsburg
+  Bayern München           5-1  Borussia Dortmund
 
-9. Spieltag
+
+Spieltag 9
+[Fr 16.10.]
+  1. FSV Mainz 05          0-2  Borussia Dortmund
 [Sa 17.10.]
-  FC Schalke 04                2-1  Hertha BSC
-  VfL Wolfsburg                4-2  1899 Hoffenheim
-  Hamburger SV                 0-0  Bayer Leverkusen
-  VfB Stuttgart                1-0  FC Ingolstadt 04
-  FC Augsburg                  0-2  SV Darmstadt 98
-  Werder Bremen                0-1  Bayern München
-  Eintracht Frankfurt          1-5  Bor. Mönchengladbach
-  1. FC Köln                   0-1  Hannover 96
-  1. FSV Mainz 05              0-2  Borussia Dortmund
+  VfL Wolfsburg            4-2  TSG 1899 Hoffenheim
+  FC Schalke 04            2-1  Hertha BSC
+  Hamburger SV             0-0  Bayer 04 Leverkusen
+  Werder Bremen            0-1  Bayern München
+  FC Augsburg              0-2  SV Darmstadt 98
+  Eintracht Frankfurt      1-5  Bor. Mönchengladbach
+[So 18.10.]
+  1. FC Köln               0-1  Hannover 96
+  VfB Stuttgart            1-0  FC Ingolstadt 04
 
-10. Spieltag
+
+Spieltag 10
+[Fr 23.10.]
+  TSG 1899 Hoffenheim      0-1  Hamburger SV
 [Sa 24.10.]
-  Bayern München               4-0  1. FC Köln
-  Borussia Dortmund            5-1  FC Augsburg
-  Bayer Leverkusen             4-3  VfB Stuttgart
-  Bor. Mönchengladbach         3-1  FC Schalke 04
-  Hannover 96                  1-2  Eintracht Frankfurt
-  1899 Hoffenheim              0-1  Hamburger SV
-  1. FSV Mainz 05              1-3  Werder Bremen
-  FC Ingolstadt 04             0-1  Hertha BSC
-  SV Darmstadt 98              0-1  VfL Wolfsburg
+  1. FSV Mainz 05          1-3  Werder Bremen
+  Hannover 96              1-2  Eintracht Frankfurt
+  Bayer 04 Leverkusen      4-3  VfB Stuttgart
+  SV Darmstadt 98          0-1  VfL Wolfsburg
+  Bayern München           4-0  1. FC Köln
+  FC Ingolstadt 04         0-1  Hertha BSC
+[So 25.10.]
+  Borussia Dortmund        5-1  FC Augsburg
+  Bor. Mönchengladbach     3-1  FC Schalke 04
 
-11. Spieltag
+
+Spieltag 11
+[Fr 30.10.]
+  Eintracht Frankfurt      0-0  Bayern München
 [Sa 31.10.]
-FC Schalke 04                  1-1  FC Ingolstadt 04
-VfL Wolfsburg                  2-1  Bayer Leverkusen
-Hamburger SV                   1-2  Hannover 96
-VfB Stuttgart                  2-0  SV Darmstadt 98
-FC Augsburg                    3-3  1. FSV Mainz 05
-Werder Bremen                  1-3  Borussia Dortmund
-Eintracht Frankfurt            0-0  Bayern München
-1. FC Köln                     0-0  1899 Hoffenheim
-Hertha BSC                     1-4  Bor. Mönchengladbach
+  Hertha BSC               1-4  Bor. Mönchengladbach
+  Werder Bremen            1-3  Borussia Dortmund
+  1. FC Köln               0-0  TSG 1899 Hoffenheim
+  FC Schalke 04            1-1  FC Ingolstadt 04
+  FC Augsburg              3-3  1. FSV Mainz 05
+  VfL Wolfsburg            2-1  Bayer 04 Leverkusen
+[So 1.11.]
+  VfB Stuttgart            2-0  SV Darmstadt 98
+  Hamburger SV             1-2  Hannover 96
 
-12. Spieltag
+
+Spieltag 12
+[Fr 6.11.]
+  Hannover 96              1-3  Hertha BSC
 [Sa 7.11.]
-Bayern München                 4-0  VfB Stuttgart
-Borussia Dortmund              3-2  FC Schalke 04
-Bayer Leverkusen               1-2  1. FC Köln
-Bor. Mönchengladbach           0-0  FC Ingolstadt 04
-FC Augsburg                    1-2  Werder Bremen
-Hannover 96                    1-3  Hertha BSC
-1899 Hoffenheim                0-0  Eintracht Frankfurt
-1. FSV Mainz 05                2-0  VfL Wolfsburg
-SV Darmstadt 98                1-1  Hamburger SV
+  Bayer 04 Leverkusen      1-2  1. FC Köln
+  Bor. Mönchengladbach     0-0  FC Ingolstadt 04
+  1. FSV Mainz 05          2-0  VfL Wolfsburg
+  Bayern München           4-0  VfB Stuttgart
+  TSG 1899 Hoffenheim      0-0  Eintracht Frankfurt
+  SV Darmstadt 98          1-1  Hamburger SV
+[So 8.11.]
+  Borussia Dortmund        3-2  FC Schalke 04
+  FC Augsburg              1-2  Werder Bremen
 
-13. Spieltag
+
+Spieltag 13
+[Fr 20.11.]
+  Hamburger SV             3-1  Borussia Dortmund
 [Sa 21.11.]
-FC Schalke 04                  1-3  Bayern München
-Bor. Mönchengladbach           2-1  Hannover 96
-VfL Wolfsburg                  6-0  Werder Bremen
-Hamburger SV                   3-1  Borussia Dortmund
-VfB Stuttgart                  0-4  FC Augsburg
-Eintracht Frankfurt            1-3  Bayer Leverkusen
-1. FC Köln                     0-0  1. FSV Mainz 05
-Hertha BSC                     1-0  1899 Hoffenheim
-FC Ingolstadt 04               3-1  SV Darmstadt 98
+  VfB Stuttgart            0-4  FC Augsburg
+  Eintracht Frankfurt      1-3  Bayer 04 Leverkusen
+  1. FC Köln               0-0  1. FSV Mainz 05
+  Bor. Mönchengladbach     2-1  Hannover 96
+  VfL Wolfsburg            6-0  Werder Bremen
+  FC Schalke 04            1-3  Bayern München
+[So 22.11.]
+  Hertha BSC               1-0  TSG 1899 Hoffenheim
+  FC Ingolstadt 04         3-1  SV Darmstadt 98
 
-14. Spieltag
+
+Spieltag 14
+[Fr 27.11.]
+  SV Darmstadt 98          0-0  1. FC Köln
 [Sa 28.11.]
-Bayern München                 2-0  Hertha BSC
-Borussia Dortmund              4-1  VfB Stuttgart
-Bayer Leverkusen               1-1  FC Schalke 04
-FC Augsburg                    0-0  VfL Wolfsburg
-Werder Bremen                  1-3  Hamburger SV
-Hannover 96                    4-0  FC Ingolstadt 04
-1899 Hoffenheim                3-3  Bor. Mönchengladbach
-1. FSV Mainz 05                2-1  Eintracht Frankfurt
-SV Darmstadt 98                0-0  1. FC Köln
+  Hannover 96              4-0  FC Ingolstadt 04
+  Bayern München           2-0  Hertha BSC
+  Werder Bremen            1-3  Hamburger SV
+  TSG 1899 Hoffenheim      3-3  Bor. Mönchengladbach
+  1. FSV Mainz 05          2-1  Eintracht Frankfurt
+[So 29.11.]
+  Borussia Dortmund        4-1  VfB Stuttgart
+  Bayer 04 Leverkusen      1-1  FC Schalke 04
+  FC Augsburg              0-0  VfL Wolfsburg
 
-15. Spieltag
+
+Spieltag 15
+[Fr 4.12.]
+  FC Schalke 04            3-1  Hannover 96
 [Sa 5.12.]
-FC Schalke 04                  3-1  Hannover 96
-Bor. Mönchengladbach           3-1  Bayern München
-VfL Wolfsburg                  1-2  Borussia Dortmund
-Hamburger SV                   1-3  1. FSV Mainz 05
-VfB Stuttgart                  1-1  Werder Bremen
-Eintracht Frankfurt            0-1  SV Darmstadt 98
-1. FC Köln                     0-1  FC Augsburg
-Hertha BSC                     2-1  Bayer Leverkusen
-FC Ingolstadt 04               1-1  1899 Hoffenheim
+  Bor. Mönchengladbach     3-1  Bayern München
+  Hertha BSC               2-1  Bayer 04 Leverkusen
+  FC Ingolstadt 04         1-1  TSG 1899 Hoffenheim
+  1. FC Köln               0-1  FC Augsburg
+  Hamburger SV             1-3  1. FSV Mainz 05
+  VfL Wolfsburg            1-2  Borussia Dortmund
+[So 6.12.]
+  VfB Stuttgart            1-1  Werder Bremen
+  Eintracht Frankfurt      0-1  SV Darmstadt 98
 
-16. Spieltag
+
+Spieltag 16
+[Fr 11.12.]
+  1. FSV Mainz 05          0-0  VfB Stuttgart
 [Sa 12.12.]
-  Bayern München                 2-0  FC Ingolstadt 04
-  Borussia Dortmund              4-1  Eintracht Frankfurt
-  Bayer Leverkusen               5-0  Bor. Mönchengladbach
-  VfL Wolfsburg                  1-1  Hamburger SV
-  FC Augsburg                    2-1  FC Schalke 04
-  Werder Bremen                  1-1  1. FC Köln
-  1899 Hoffenheim                1-0  Hannover 96
-  1. FSV Mainz 05                0-0  VfB Stuttgart
-  SV Darmstadt 98                0-4  Hertha BSC
+  VfL Wolfsburg            1-1  Hamburger SV
+  Bayern München           2-0  FC Ingolstadt 04
+  TSG 1899 Hoffenheim      1-0  Hannover 96
+  Werder Bremen            1-1  1. FC Köln
+  SV Darmstadt 98          0-4  Hertha BSC
+  Bayer 04 Leverkusen      5-0  Bor. Mönchengladbach
+[So 13.12.]
+  FC Augsburg              2-1  FC Schalke 04
+  Borussia Dortmund        4-1  Eintracht Frankfurt
 
-17. Spieltag
+
+Spieltag 17
+[Fr 18.12.]
+  FC Schalke 04            1-0  TSG 1899 Hoffenheim
 [Sa 19.12.]
-  FC Schalke 04                  1-0  1899 Hoffenheim
-  Bor. Mönchengladbach           3-2  SV Darmstadt 98
-  Hamburger SV                   0-1  FC Augsburg
-  VfB Stuttgart                  3-1  VfL Wolfsburg
-  Eintracht Frankfurt            2-1  Werder Bremen
-  1. FC Köln                     2-1  Borussia Dortmund
-  Hannover 96                    0-1  Bayern München
-  Hertha BSC                     2-0  1. FSV Mainz 05
-  FC Ingolstadt 04               0-1  Bayer Leverkusen
-
-
+  FC Ingolstadt 04         0-1  Bayer 04 Leverkusen
+  1. FC Köln               2-1  Borussia Dortmund
+  Hannover 96              0-1  Bayern München
+  Hamburger SV             0-1  FC Augsburg
+  Eintracht Frankfurt      2-1  Werder Bremen
+  VfB Stuttgart            3-1  VfL Wolfsburg
+[So 20.12.]
+  Hertha BSC               2-0  1. FSV Mainz 05
+  Bor. Mönchengladbach     3-2  SV Darmstadt 98

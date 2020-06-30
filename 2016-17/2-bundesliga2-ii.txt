@@ -1,209 +1,262 @@
 = Deutsche 2. Bundesliga 2016/17
 
+
 Spieltag 18
+[Fr 27.1.]
+  Fortuna Düsseldorf       0-3  SV Sandhausen
+  TSV 1860 München         2-1  SpVgg Greuther Fürth
+  1. FC Union Berlin       2-1  VfL Bochum
+[Sa 28.1.]
+  Würzburger Kickers       1-1  Eintracht Braunschweig
+  FC Erzgebirge Aue        2-1  1. FC Heidenheim
 [So 29.1.]
-  Hannover 96               1-0  1. FC Kaiserslautern
-  FC St. Pauli              0-1  VfB Stuttgart
-  1. FC Union Berlin        2-1  VfL Bochum
-  Würzburger Kickers        1-1  Eintracht Braunschweig
-  TSV 1860 München          2-1  SpVgg Greuther Fürth
-  Erzgebirge Aue            2-1  1. FC Heidenheim 1846
-  Karlsruher SC             3-2  Arminia Bielefeld
-  Fortuna Düsseldorf        0-3  SV Sandhausen
-  1. FC Nürnberg            1-2  Dynamo Dresden
+  1. FC Nürnberg           1-2  Dynamo Dresden
+  Karlsruher SC            3-2  Arminia Bielefeld
+  FC St. Pauli             0-1  VfB Stuttgart
+[Mo 30.1.]
+  Hannover 96              1-0  1. FC Kaiserslautern
+
 
 Spieltag 19
+[Fr 3.2.]
+  Arminia Bielefeld        2-1  TSV 1860 München
+  1. FC Kaiserslautern     1-0  Würzburger Kickers
+  SpVgg Greuther Fürth     4-1  Hannover 96
+[Sa 4.2.]
+  SV Sandhausen            2-0  FC Erzgebirge Aue
+  1. FC Heidenheim         2-3  1. FC Nürnberg
 [So 5.2.]
-  SpVgg Greuther Fürth      4-1  Hannover 96
-  1. FC Heidenheim 1846     2-3  1. FC Nürnberg
-  Eintracht Braunschweig    1-2  FC St. Pauli
-  Dynamo Dresden            0-0  1. FC Union Berlin
-  VfL Bochum                1-1  Karlsruher SC
-  VfB Stuttgart             2-0  Fortuna Düsseldorf
-  Arminia Bielefeld         2-1  TSV 1860 München
-  SV Sandhausen             2-0  Erzgebirge Aue
-  1. FC Kaiserslautern      1-0  Würzburger Kickers
+  Dynamo Dresden           0-0  1. FC Union Berlin
+  Eintracht Braunschweig   1-2  FC St. Pauli
+  VfL Bochum               1-1  Karlsruher SC
+[Mo 6.2.]
+  VfB Stuttgart            2-0  Fortuna Düsseldorf
+
 
 Spieltag 20
+[Fr 10.2.]
+  Fortuna Düsseldorf       1-1  1. FC Kaiserslautern
+  FC Erzgebirge Aue        0-0  SpVgg Greuther Fürth
+  1. FC Nürnberg           1-1  Eintracht Braunschweig
+[Sa 11.2.]
+  TSV 1860 München         2-1  Karlsruher SC
+  Würzburger Kickers       0-2  1. FC Heidenheim
 [So 12.2.]
-  Hannover 96               2-1  VfL Bochum
-  TSV 1860 München          2-1  Karlsruher SC
-  1. FC Nürnberg            1-1  Eintracht Braunschweig
-  Erzgebirge Aue            0-0  SpVgg Greuther Fürth
-  Fortuna Düsseldorf        1-1  1. FC Kaiserslautern
-  Würzburger Kickers        0-2  1. FC Heidenheim 1846
-  1. FC Union Berlin        3-1  Arminia Bielefeld
-  VfB Stuttgart             2-1  SV Sandhausen
-  FC St. Pauli              2-0  Dynamo Dresden
+  VfB Stuttgart            2-1  SV Sandhausen
+  1. FC Union Berlin       3-1  Arminia Bielefeld
+  FC St. Pauli             2-0  Dynamo Dresden
+[Mo 13.2.]
+  Hannover 96              2-1  VfL Bochum
+
 
 Spieltag 21
+[Fr 17.2.]
+  1. FC Kaiserslautern     3-0  SV Sandhausen
+  Eintracht Braunschweig   1-1  FC Erzgebirge Aue
+  1. FC Heidenheim         1-2  VfB Stuttgart
+[Sa 18.2.]
+  SpVgg Greuther Fürth     1-0  Fortuna Düsseldorf
+  VfL Bochum               2-1  Würzburger Kickers
 [So 19.2.]
-  1. FC Heidenheim 1846     1-2  VfB Stuttgart
-  Dynamo Dresden            1-2  Hannover 96
-  TSV 1860 München          2-0  1. FC Nürnberg
-  Arminia Bielefeld         1-1  FC St. Pauli
-  Karlsruher SC             1-2  1. FC Union Berlin
-  1. FC Kaiserslautern      3-0  SV Sandhausen
-  SpVgg Greuther Fürth      1-0  Fortuna Düsseldorf
-  Eintracht Braunschweig    1-1  Erzgebirge Aue
-  VfL Bochum                2-1  Würzburger Kickers
+  Dynamo Dresden           1-2  Hannover 96
+  Karlsruher SC            1-2  1. FC Union Berlin
+  Arminia Bielefeld        1-1  FC St. Pauli
+[Mo 20.2.]
+  TSV 1860 München         2-0  1. FC Nürnberg
+
 
 Spieltag 22
+[Fr 24.2.]
+  SV Sandhausen            0-1  Eintracht Braunschweig
+  1. FC Union Berlin       2-0  TSV 1860 München
+  Würzburger Kickers       1-1  SpVgg Greuther Fürth
+[Sa 25.2.]
+  Hannover 96              2-2  Arminia Bielefeld
+  Fortuna Düsseldorf       0-0  1. FC Heidenheim
 [So 26.2.]
-  1. FC Nürnberg            0-1  VfL Bochum
-  FC St. Pauli              5-0  Karlsruher SC
-  SV Sandhausen             0-1  Eintracht Braunschweig
-  Würzburger Kickers        1-1  SpVgg Greuther Fürth
-  VfB Stuttgart             2-0  1. FC Kaiserslautern
-  Fortuna Düsseldorf        0-0  1. FC Heidenheim 1846
-  Hannover 96               2-2  Arminia Bielefeld
-  1. FC Union Berlin        2-0  TSV 1860 München
-  Erzgebirge Aue            1-4  Dynamo Dresden
+  1. FC Nürnberg           0-1  VfL Bochum
+  FC Erzgebirge Aue        1-4  Dynamo Dresden
+  VfB Stuttgart            2-0  1. FC Kaiserslautern
+[Mo 27.2.]
+  FC St. Pauli             5-0  Karlsruher SC
+
 
 Spieltag 23
+[Fr 3.3.]
+  VfL Bochum               1-2  Fortuna Düsseldorf
+  1. FC Union Berlin       2-0  Würzburger Kickers
+  Dynamo Dresden           3-3  1. FC Kaiserslautern
+[Sa 4.3.]
+  TSV 1860 München         1-2  FC St. Pauli
+  Karlsruher SC            2-0  Hannover 96
 [So 5.3.]
-  Eintracht Braunschweig    1-1  VfB Stuttgart
-  Karlsruher SC             2-0  Hannover 96
-  SpVgg Greuther Fürth      1-0  1. FC Nürnberg
-  TSV 1860 München          1-2  FC St. Pauli
-  Dynamo Dresden            3-3  1. FC Kaiserslautern
-  1. FC Heidenheim 1846     2-2  SV Sandhausen
-  VfL Bochum                1-2  Fortuna Düsseldorf
-  Arminia Bielefeld         2-2  Erzgebirge Aue
-  1. FC Union Berlin        2-0  Würzburger Kickers
+  Arminia Bielefeld        2-2  FC Erzgebirge Aue
+  1. FC Heidenheim         2-2  SV Sandhausen
+  SpVgg Greuther Fürth     1-0  1. FC Nürnberg
+[Mo 6.3.]
+  Eintracht Braunschweig   1-1  VfB Stuttgart
+
 
 Spieltag 24
+[Fr 10.3.]
+  FC St. Pauli             1-2  1. FC Union Berlin
+  FC Erzgebirge Aue        1-0  Karlsruher SC
+  VfB Stuttgart            1-1  VfL Bochum
+[Sa 11.3.]
+  Hannover 96              1-0  TSV 1860 München
+  Würzburger Kickers       0-2  Dynamo Dresden
 [So 12.3.]
-  VfB Stuttgart             1-1  VfL Bochum
-  FC St. Pauli              1-2  1. FC Union Berlin
-  Erzgebirge Aue            1-0  Karlsruher SC
-  Fortuna Düsseldorf        1-2  Eintracht Braunschweig
-  SV Sandhausen             1-1  SpVgg Greuther Fürth
-  1. FC Kaiserslautern      1-1  1. FC Heidenheim 1846
-  1. FC Nürnberg            1-0  Arminia Bielefeld
-  Hannover 96               1-0  TSV 1860 München
-  Würzburger Kickers        0-2  Dynamo Dresden
+  1. FC Nürnberg           1-0  Arminia Bielefeld
+  SV Sandhausen            1-1  SpVgg Greuther Fürth
+  1. FC Kaiserslautern     1-1  1. FC Heidenheim
+[Mo 13.3.]
+  Fortuna Düsseldorf       1-2  Eintracht Braunschweig
+
 
 Spieltag 25
+[Fr 17.3.]
+  Arminia Bielefeld        2-0  1. FC Kaiserslautern
+  TSV 1860 München         2-1  Würzburger Kickers
+  Eintracht Braunschweig   3-2  1. FC Heidenheim
+[Sa 18.3.]
+  FC St. Pauli             0-0  Hannover 96
+  SpVgg Greuther Fürth     1-0  VfB Stuttgart
 [So 19.3.]
-  SpVgg Greuther Fürth      1-0  VfB Stuttgart
-  FC St. Pauli              0-0  Hannover 96
-  1. FC Union Berlin        1-0  1. FC Nürnberg
-  Arminia Bielefeld         2-0  1. FC Kaiserslautern
-  Eintracht Braunschweig    3-2  1. FC Heidenheim 1846
-  Dynamo Dresden            2-0  SV Sandhausen
-  Karlsruher SC             0-3  Fortuna Düsseldorf
-  VfL Bochum                1-1  Erzgebirge Aue
-  TSV 1860 München          2-1  Würzburger Kickers
+  Karlsruher SC            0-3  Fortuna Düsseldorf
+  VfL Bochum               1-1  FC Erzgebirge Aue
+  Dynamo Dresden           2-0  SV Sandhausen
+[Mo 20.3.]
+  1. FC Union Berlin       1-0  1. FC Nürnberg
+
 
 Spieltag 26
+[Fr 31.3.]
+  Fortuna Düsseldorf       0-1  TSV 1860 München
+  FC Erzgebirge Aue        1-0  FC St. Pauli
+  1. FC Nürnberg           2-1  Karlsruher SC
+[Sa 1.4.]
+  Würzburger Kickers       1-1  Arminia Bielefeld
+  Hannover 96              2-0  1. FC Union Berlin
+  SV Sandhausen            0-0  VfL Bochum
 [So 2.4.]
-  Erzgebirge Aue            1-0  FC St. Pauli
-  SV Sandhausen             0-0  VfL Bochum
-  Hannover 96               2-0  1. FC Union Berlin
-  1. FC Nürnberg            2-1  Karlsruher SC
-  1. FC Kaiserslautern      0-1  Eintracht Braunschweig
-  1. FC Heidenheim 1846     0-2  SpVgg Greuther Fürth
-  Würzburger Kickers        1-1  Arminia Bielefeld
-  Fortuna Düsseldorf        0-1  TSV 1860 München
-  VfB Stuttgart             3-3  Dynamo Dresden
+  1. FC Kaiserslautern     0-1  Eintracht Braunschweig
+  VfB Stuttgart            3-3  Dynamo Dresden
+  1. FC Heidenheim         0-2  SpVgg Greuther Fürth
+
 
 Spieltag 27
 [Di 4.4.]
-  TSV 1860 München          1-1  VfB Stuttgart
-  Hannover 96               1-0  1. FC Nürnberg
-  SpVgg Greuther Fürth      0-0  Eintracht Braunschweig
-  VfL Bochum                0-0  1. FC Kaiserslautern
-  Dynamo Dresden            2-1  1. FC Heidenheim 1846
-  FC St. Pauli              0-0  SV Sandhausen
-  Arminia Bielefeld         2-1  Fortuna Düsseldorf
-  1. FC Union Berlin        0-1  Erzgebirge Aue
-  Karlsruher SC             1-1  Würzburger Kickers
+  Arminia Bielefeld        2-1  Fortuna Düsseldorf
+  Hannover 96              1-0  1. FC Nürnberg
+  FC St. Pauli             0-0  SV Sandhausen
+  Karlsruher SC            1-1  Würzburger Kickers
+[Mi 5.4.]
+  VfL Bochum               0-0  1. FC Kaiserslautern
+  Dynamo Dresden           2-1  1. FC Heidenheim
+  TSV 1860 München         1-1  VfB Stuttgart
+  1. FC Union Berlin       0-1  FC Erzgebirge Aue
+  SpVgg Greuther Fürth     0-0  Eintracht Braunschweig
+
 
 Spieltag 28
 [Fr 7.4.]
-  Würzburger Kickers        0-0  Hannover 96
-  1. FC Nürnberg            0-2  FC St. Pauli
-  1. FC Heidenheim 1846     0-0  VfL Bochum
-  Fortuna Düsseldorf        2-2  1. FC Union Berlin
-  VfB Stuttgart             2-0  Karlsruher SC
-  1. FC Kaiserslautern      2-0  SpVgg Greuther Fürth
-  SV Sandhausen             1-3  Arminia Bielefeld
-  Erzgebirge Aue            3-0  TSV 1860 München
-  Eintracht Braunschweig    1-0  Dynamo Dresden
+  SV Sandhausen            1-3  Arminia Bielefeld
+  Würzburger Kickers       0-0  Hannover 96
+  1. FC Nürnberg           0-2  FC St. Pauli
+[Sa 8.4.]
+  1. FC Kaiserslautern     2-0  SpVgg Greuther Fürth
+  1. FC Heidenheim         0-0  VfL Bochum
+[So 9.4.]
+  FC Erzgebirge Aue        3-0  TSV 1860 München
+  Fortuna Düsseldorf       2-2  1. FC Union Berlin
+  VfB Stuttgart            2-0  Karlsruher SC
+[Mo 10.4.]
+  Eintracht Braunschweig   1-0  Dynamo Dresden
+
 
 Spieltag 29
 [Sa 15.4.]
-  Arminia Bielefeld         2-3  VfB Stuttgart
-  Hannover 96               1-0  Eintracht Braunschweig
-  VfL Bochum                1-0  SpVgg Greuther Fürth
-  1. FC Union Berlin        3-1  1. FC Kaiserslautern
-  Karlsruher SC             0-1  1. FC Heidenheim 1846
-  TSV 1860 München          1-1  SV Sandhausen
-  Dynamo Dresden            1-1  Fortuna Düsseldorf
-  1. FC Nürnberg            2-1  Erzgebirge Aue
-  FC St. Pauli              1-0  Würzburger Kickers
+  Hannover 96              1-0  Eintracht Braunschweig
+  1. FC Nürnberg           2-1  FC Erzgebirge Aue
+[So 16.4.]
+  VfL Bochum               1-0  SpVgg Greuther Fürth
+  FC St. Pauli             1-0  Würzburger Kickers
+  1. FC Union Berlin       3-1  1. FC Kaiserslautern
+  Karlsruher SC            0-1  1. FC Heidenheim
+  TSV 1860 München         1-1  SV Sandhausen
+  Dynamo Dresden           1-1  Fortuna Düsseldorf
+[Mo 17.4.]
+  Arminia Bielefeld        2-3  VfB Stuttgart
+
 
 Spieltag 30
 [Fr 21.4.]
-  Erzgebirge Aue            2-2  Hannover 96
-  Würzburger Kickers        1-1  1. FC Nürnberg
-  Fortuna Düsseldorf        1-3  FC St. Pauli
-  Eintracht Braunschweig    2-0  VfL Bochum
-  VfB Stuttgart             3-1  1. FC Union Berlin
-  SV Sandhausen             4-0  Karlsruher SC
-  1. FC Heidenheim 1846     2-2  Arminia Bielefeld
-  1. FC Kaiserslautern      1-0  TSV 1860 München
-  SpVgg Greuther Fürth      1-0  Dynamo Dresden
+  SpVgg Greuther Fürth     1-0  Dynamo Dresden
+  Fortuna Düsseldorf       1-3  FC St. Pauli
+  1. FC Kaiserslautern     1-0  TSV 1860 München
+[Sa 22.4.]
+  1. FC Heidenheim         2-2  Arminia Bielefeld
+  FC Erzgebirge Aue        2-2  Hannover 96
+[So 23.4.]
+  Eintracht Braunschweig   2-0  VfL Bochum
+  Würzburger Kickers       1-1  1. FC Nürnberg
+  SV Sandhausen            4-0  Karlsruher SC
+[Mo 24.4.]
+  VfB Stuttgart            3-1  1. FC Union Berlin
+
 
 Spieltag 31
 [Fr 28.4.]
-  1. FC Nürnberg            2-3  VfB Stuttgart
-  TSV 1860 München          0-1  Eintracht Braunschweig
-  Arminia Bielefeld         1-1  SpVgg Greuther Fürth
-  Karlsruher SC             1-3  1. FC Kaiserslautern
-  FC St. Pauli              3-0  1. FC Heidenheim 1846
-  1. FC Union Berlin        2-1  SV Sandhausen
-  Hannover 96               1-0  Fortuna Düsseldorf
-  VfL Bochum                4-2  Dynamo Dresden
-  Erzgebirge Aue            3-1  Würzburger Kickers
+  1. FC Union Berlin       2-1  SV Sandhausen
+  FC St. Pauli             3-0  1. FC Heidenheim
+  VfL Bochum               4-2  Dynamo Dresden
+[Sa 29.4.]
+  1. FC Nürnberg           2-3  VfB Stuttgart
+  Arminia Bielefeld        1-1  SpVgg Greuther Fürth
+  Karlsruher SC            1-3  1. FC Kaiserslautern
+[So 30.4.]
+  FC Erzgebirge Aue        3-1  Würzburger Kickers
+  TSV 1860 München         0-1  Eintracht Braunschweig
+  Hannover 96              1-0  Fortuna Düsseldorf
 
 
 Spieltag 32
 [Fr 5.5.]
-  1. FC Heidenheim 1846     0-2  Hannover 96
-  SV Sandhausen             0-1  1. FC Nürnberg
-  1. FC Kaiserslautern      1-2  FC St. Pauli
-  Eintracht Braunschweig    3-1  1. FC Union Berlin
-  SpVgg Greuther Fürth      0-1  Karlsruher SC
-  VfL Bochum                1-1  Arminia Bielefeld
-  Dynamo Dresden            1-2  TSV 1860 München
-  VfB Stuttgart             3-0  Erzgebirge Aue
-  Fortuna Düsseldorf        1-1  Würzburger Kickers
+  Dynamo Dresden           1-2  TSV 1860 München
+  1. FC Kaiserslautern     1-2  FC St. Pauli
+  1. FC Heidenheim         0-2  Hannover 96
+[Sa 6.5.]
+  SV Sandhausen            0-1  1. FC Nürnberg
+  Fortuna Düsseldorf       1-1  Würzburger Kickers
+[So 7.5.]
+  VfB Stuttgart            3-0  FC Erzgebirge Aue
+  VfL Bochum               1-1  Arminia Bielefeld
+  SpVgg Greuther Fürth     0-1  Karlsruher SC
+[Mo 8.5.]
+  Eintracht Braunschweig   3-1  1. FC Union Berlin
 
 
 Spieltag 33
 [So 14.5.]
-  Hannover 96               1-0  VfB Stuttgart
-  TSV 1860 München          1-2  VfL Bochum
-  Arminia Bielefeld         6-0  Eintracht Braunschweig
-  FC St. Pauli              1-1  SpVgg Greuther Fürth
-  Erzgebirge Aue            1-0  1. FC Kaiserslautern
-  1. FC Union Berlin        0-1  1. FC Heidenheim 1846
-  Würzburger Kickers        0-1  SV Sandhausen
-  1. FC Nürnberg            2-3  Fortuna Düsseldorf
-  Karlsruher SC             3-4  Dynamo Dresden
+  1. FC Union Berlin       0-1  1. FC Heidenheim
+  Arminia Bielefeld        6-0  Eintracht Braunschweig
+  Würzburger Kickers       0-1  SV Sandhausen
+  FC Erzgebirge Aue        1-0  1. FC Kaiserslautern
+  FC St. Pauli             1-1  SpVgg Greuther Fürth
+  1. FC Nürnberg           2-3  Fortuna Düsseldorf
+  TSV 1860 München         1-2  VfL Bochum
+  Karlsruher SC            3-4  Dynamo Dresden
+  Hannover 96              1-0  VfB Stuttgart
 
 
 Spieltag 34
 [So 21.5.]
-  SV Sandhausen              1-1  Hannover 96
-  1. FC Kaiserslautern       1-0  1. FC Nürnberg
-  VfL Bochum                 1-3  FC St. Pauli
-  SpVgg Greuther Fürth       1-2  1. FC Union Berlin
-  Eintracht Braunschweig     2-1  Karlsruher SC
-  Dynamo Dresden             1-1  Arminia Bielefeld
-  1. FC Heidenheim 1846      2-1  TSV 1860 München
-  Fortuna Düsseldorf         1-0  Erzgebirge Aue
-  VfB Stuttgart              4-1  Würzburger Kickers
-
+  Fortuna Düsseldorf       1-0  FC Erzgebirge Aue
+  SpVgg Greuther Fürth     1-2  1. FC Union Berlin
+  1. FC Kaiserslautern     1-0  1. FC Nürnberg
+  Dynamo Dresden           1-1  Arminia Bielefeld
+  VfB Stuttgart            4-1  Würzburger Kickers
+  VfL Bochum               1-3  FC St. Pauli
+  SV Sandhausen            1-1  Hannover 96
+  1. FC Heidenheim         2-1  TSV 1860 München
+  Eintracht Braunschweig   2-1  Karlsruher SC

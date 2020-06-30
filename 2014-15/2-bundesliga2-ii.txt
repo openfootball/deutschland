@@ -1,239 +1,233 @@
-= Deutsche 2. Bundesliga 2014/15        ## Rückrunde
-
-17. Spieltag
-
-[Sa 13.12.]
-  Eintracht Braunschweig   1-1  1. FC Union Berlin
-  SpVgg Greuther Fürth     0-1  RB Leipzig
-  TSV 1860 München         2-3  Karlsruher SC
-  FC St. Pauli             0-1  SV Darmstadt 98
-  FC Ingolstadt 04         2-0  1. FC Kaiserslautern
-  VfR Aalen                1-2  1. FC Nürnberg
-  SV Sandhausen            0-0  VfL Bochum
-  FSV Frankfurt            0-2  Fortuna Düsseldorf
-  Erzgebirge Aue           1-1  1. FC Heidenheim 1846
-
-18. Spieltag
-
-[Mi 17.12.]
-  Eintracht Braunschweig   2-1  Fortuna Düsseldorf
-  Erzgebirge Aue           0-1  1. FC Nürnberg
-  SpVgg Greuther Fürth     0-0  VfL Bochum
-  VfR Aalen                0-0  RB Leipzig
-  FSV Frankfurt            2-0  1. FC Heidenheim 1846
-  SV Sandhausen            1-2  SV Darmstadt 98
-  FC Ingolstadt 04         2-1  FC St. Pauli
-  1. FC Union Berlin       2-0  Karlsruher SC
-  TSV 1860 München         1-1  1. FC Kaiserslautern
-
-19. Spieltag
-
-[So 21.12.]
-  1. FC Heidenheim 1846    0-1  Eintracht Braunschweig
-  1. FC Nürnberg           0-0  SpVgg Greuther Fürth
-  RB Leipzig               1-1  TSV 1860 München
-  Fortuna Düsseldorf       1-0  1. FC Union Berlin
-  SV Darmstadt 98          2-2  FC Ingolstadt 04
-  FC St. Pauli             3-1  VfR Aalen
-  1. FC Kaiserslautern     1-0  SV Sandhausen
-  Karlsruher SC            4-1  FSV Frankfurt
-  VfL Bochum               1-1  Erzgebirge Aue
+= Deutsche 2. Bundesliga 2014/15
 
 
-20. Spieltag
-
-[So 8.2.]
-  Eintracht Braunschweig   0-2  1. FC Kaiserslautern
-  Karlsruher SC            1-1  Fortuna Düsseldorf
-  SV Sandhausen            0-0  FC St. Pauli
+Spieltag 20
+[Fr 6.2.]
   SpVgg Greuther Fürth     0-1  FC Ingolstadt 04
-  1. FC Union Berlin       2-1  VfL Bochum
-  TSV 1860 München         1-2  1. FC Heidenheim 1846
-  Erzgebirge Aue           2-0  RB Leipzig
   VfR Aalen                0-0  SV Darmstadt 98
+  FC Erzgebirge Aue        2-0  RB Leipzig
+[Sa 7.2.]
+  1. FC Union Berlin       2-1  VfL Bochum
+  SV Sandhausen            0-0  FC St. Pauli
+[So 8.2.]
+  Karlsruher SC            1-1  Fortuna Düsseldorf
   FSV Frankfurt            2-1  1. FC Nürnberg
+  Eintracht Braunschweig   0-2  1. FC Kaiserslautern
+[Mo 9.2.]
+  TSV 1860 München         1-2  1. FC Heidenheim
 
-21. Spieltag
 
-[So 15.2.]
+Spieltag 21
+[Fr 13.2.]
+  1. FC Heidenheim         0-1  Karlsruher SC
+  Fortuna Düsseldorf       2-3  FC Erzgebirge Aue
   VfL Bochum               3-2  Eintracht Braunschweig
-  FC St. Pauli             0-1  SpVgg Greuther Fürth
-  1. FC Heidenheim 1846    0-1  Karlsruher SC
-  SV Darmstadt 98          1-1  TSV 1860 München
-  1. FC Nürnberg           3-1  1. FC Union Berlin
+[Sa 14.2.]
   1. FC Kaiserslautern     1-0  VfR Aalen
   FC Ingolstadt 04         1-3  SV Sandhausen
+[So 15.2.]
   RB Leipzig               0-1  FSV Frankfurt
-  Fortuna Düsseldorf       2-3  Erzgebirge Aue
+  1. FC Nürnberg           3-1  1. FC Union Berlin
+  SV Darmstadt 98          1-1  TSV 1860 München
+[Mo 16.2.]
+  FC St. Pauli             0-1  SpVgg Greuther Fürth
 
-22. Spieltag
 
-[So 22.2.]
-  Fortuna Düsseldorf       1-3  1. FC Nürnberg
-  FSV Frankfurt            2-0  1. FC Kaiserslautern
-  TSV 1860 München         2-1  FC St. Pauli
+Spieltag 22
+[Fr 20.2.]
   VfR Aalen                1-1  FC Ingolstadt 04
+  FC Erzgebirge Aue        0-1  SV Darmstadt 98
   SpVgg Greuther Fürth     0-0  SV Sandhausen
+[Sa 21.2.]
+  TSV 1860 München         2-1  FC St. Pauli
   Karlsruher SC            0-0  VfL Bochum
-  1. FC Union Berlin       3-1  1. FC Heidenheim 1846
+[So 22.2.]
+  FSV Frankfurt            2-0  1. FC Kaiserslautern
+  1. FC Union Berlin       3-1  1. FC Heidenheim
+  Fortuna Düsseldorf       1-3  1. FC Nürnberg
+[Mo 23.2.]
   Eintracht Braunschweig   1-1  RB Leipzig
-  Erzgebirge Aue           0-1  SV Darmstadt 98
 
-23. Spieltag
 
-[So 1.3.]
+Spieltag 23
+[Fr 27.2.]
   SV Darmstadt 98          1-0  Eintracht Braunschweig
   1. FC Kaiserslautern     2-1  SpVgg Greuther Fürth
-  1. FC Nürnberg           1-1  Karlsruher SC
-  1. FC Heidenheim 1846    1-2  Fortuna Düsseldorf
-  FC Ingolstadt 04         1-1  TSV 1860 München
-  RB Leipzig               3-2  1. FC Union Berlin
-  SV Sandhausen            2-0  VfR Aalen
   VfL Bochum               3-3  FSV Frankfurt
-  FC St. Pauli             0-0  Erzgebirge Aue
+[Sa 28.2.]
+  SV Sandhausen            2-0  VfR Aalen
+  1. FC Nürnberg           1-1  Karlsruher SC
+[So 1.3.]
+  FC St. Pauli             0-0  FC Erzgebirge Aue
+  1. FC Heidenheim         1-2  Fortuna Düsseldorf
+  RB Leipzig               3-2  1. FC Union Berlin
+[Mo 2.3.]
+  FC Ingolstadt 04         1-1  TSV 1860 München
 
-24. Spieltag
 
-[So 8.3.]
-  VfR Aalen                1-1  SpVgg Greuther Fürth
-  1. FC Union Berlin       0-0  1. FC Kaiserslautern
-  Eintracht Braunschweig   0-2  FC St. Pauli
-  Erzgebirge Aue           0-3  FC Ingolstadt 04
-  TSV 1860 München         2-3  SV Sandhausen
+Spieltag 24
+[Fr 6.3.]
+  1. FC Nürnberg           0-1  1. FC Heidenheim
+  FC Erzgebirge Aue        0-3  FC Ingolstadt 04
   Fortuna Düsseldorf       2-2  VfL Bochum
-  1. FC Nürnberg           0-1  1. FC Heidenheim 1846
-  Karlsruher SC            0-0  RB Leipzig
+[Sa 7.3.]
+  Eintracht Braunschweig   0-2  FC St. Pauli
+  VfR Aalen                1-1  SpVgg Greuther Fürth
+[So 8.3.]
+  TSV 1860 München         2-3  SV Sandhausen
   FSV Frankfurt            1-1  SV Darmstadt 98
+  1. FC Union Berlin       0-0  1. FC Kaiserslautern
+[Mo 9.3.]
+  Karlsruher SC            0-0  RB Leipzig
 
-25. Spieltag
 
-[So 15.3.]
-  1. FC Kaiserslautern     2-1  1. FC Nürnberg
-  SV Sandhausen            0-1  Eintracht Braunschweig
-  FC Ingolstadt 04         1-3  Karlsruher SC
-  RB Leipzig               3-1  Fortuna Düsseldorf
-  SpVgg Greuther Fürth     0-3  TSV 1860 München
+Spieltag 25
+[Fr 13.3.]
   SV Darmstadt 98          5-0  1. FC Union Berlin
+  VfL Bochum               4-1  1. FC Heidenheim
+  SpVgg Greuther Fürth     0-3  TSV 1860 München
+[Sa 14.3.]
   FC St. Pauli             1-1  FSV Frankfurt
-  VfR Aalen                3-0  Erzgebirge Aue
-  VfL Bochum               4-1  1. FC Heidenheim 1846
+  1. FC Kaiserslautern     2-1  1. FC Nürnberg
+[So 15.3.]
+  FC Ingolstadt 04         1-3  Karlsruher SC
+  SV Sandhausen            0-1  Eintracht Braunschweig
+  VfR Aalen                3-0  FC Erzgebirge Aue
+[Mo 16.3.]
+  RB Leipzig               3-1  Fortuna Düsseldorf
 
-26. Spieltag
 
-[So 22.3.]
-  Erzgebirge Aue           0-0  SpVgg Greuther Fürth
-  Karlsruher SC            0-0  1. FC Kaiserslautern
-  1. FC Union Berlin       1-0  FC St. Pauli
-  Eintracht Braunschweig   0-0  FC Ingolstadt 04
-  TSV 1860 München         1-1  VfR Aalen
+Spieltag 26
+[Fr 20.3.]
   FSV Frankfurt            1-1  SV Sandhausen
-  1. FC Nürnberg           1-2  VfL Bochum
-  1. FC Heidenheim 1846    1-0  RB Leipzig
+  TSV 1860 München         1-1  VfR Aalen
+  1. FC Union Berlin       1-0  FC St. Pauli
+[Sa 21.3.]
+  Eintracht Braunschweig   0-0  FC Ingolstadt 04
   Fortuna Düsseldorf       2-0  SV Darmstadt 98
+[So 22.3.]
+  Karlsruher SC            0-0  1. FC Kaiserslautern
+  FC Erzgebirge Aue        0-0  SpVgg Greuther Fürth
+  1. FC Heidenheim         1-0  RB Leipzig
+[Mo 23.3.]
+  1. FC Nürnberg           1-2  VfL Bochum
 
-27. Spieltag
 
-[So 5.4.]
-  RB Leipzig               2-1  1. FC Nürnberg
+Spieltag 27
+[Sa 4.4.]
+  1. FC Kaiserslautern     4-0  1. FC Heidenheim
   SpVgg Greuther Fürth     1-2  Eintracht Braunschweig
-  VfR Aalen                2-2  Karlsruher SC
-  FC St. Pauli             4-0  Fortuna Düsseldorf
+[So 5.4.]
   SV Sandhausen            1-1  1. FC Union Berlin
   FC Ingolstadt 04         2-0  FSV Frankfurt
-  TSV 1860 München         0-1  Erzgebirge Aue
   SV Darmstadt 98          2-0  VfL Bochum
-  1. FC Kaiserslautern     4-0  1. FC Heidenheim 1846
+  TSV 1860 München         0-1  FC Erzgebirge Aue
+  VfR Aalen                2-2  Karlsruher SC
+  RB Leipzig               2-1  1. FC Nürnberg
+[Mo 6.4.]
+  FC St. Pauli             4-0  Fortuna Düsseldorf
 
-28. Spieltag
 
-[So 12.4.]
-  FSV Frankfurt            1-1  SpVgg Greuther Fürth
-  Fortuna Düsseldorf       1-1  1. FC Kaiserslautern
-  Eintracht Braunschweig   2-0  TSV 1860 München
+Spieltag 28
+[Fr 10.4.]
   Karlsruher SC            3-0  FC St. Pauli
-  1. FC Heidenheim 1846    0-1  FC Ingolstadt 04
-  1. FC Union Berlin       1-1  VfR Aalen
-  Erzgebirge Aue           0-1  SV Sandhausen
-  VfL Bochum               1-2  RB Leipzig
   1. FC Nürnberg           1-1  SV Darmstadt 98
+  1. FC Heidenheim         0-1  FC Ingolstadt 04
+[Sa 11.4.]
+  Eintracht Braunschweig   2-0  TSV 1860 München
+  FSV Frankfurt            1-1  SpVgg Greuther Fürth
+[So 12.4.]
+  VfL Bochum               1-2  RB Leipzig
+  1. FC Union Berlin       1-1  VfR Aalen
+  FC Erzgebirge Aue        0-1  SV Sandhausen
+[Mo 13.4.]
+  Fortuna Düsseldorf       1-1  1. FC Kaiserslautern
 
-29. Spieltag
 
-[So 19.4.]
-  FC St. Pauli             1-0  1. FC Nürnberg
-  VfR Aalen                2-1  Eintracht Braunschweig
-  SV Sandhausen            0-0  Karlsruher SC
+Spieltag 29
+[Fr 17.4.]
   FC Ingolstadt 04         3-2  Fortuna Düsseldorf
-  SpVgg Greuther Fürth     2-2  1. FC Union Berlin
-  Erzgebirge Aue           1-0  FSV Frankfurt
+  FC St. Pauli             1-0  1. FC Nürnberg
+  SV Sandhausen            0-0  Karlsruher SC
+[Sa 18.4.]
+  VfR Aalen                2-1  Eintracht Braunschweig
   TSV 1860 München         2-1  VfL Bochum
-  SV Darmstadt 98          1-1  1. FC Heidenheim 1846
+[So 19.4.]
+  FC Erzgebirge Aue        1-0  FSV Frankfurt
+  SV Darmstadt 98          1-1  1. FC Heidenheim
+  SpVgg Greuther Fürth     2-2  1. FC Union Berlin
+[Mo 20.4.]
   1. FC Kaiserslautern     1-1  RB Leipzig
 
-30. Spieltag
 
-[So 26.4.]
-  Karlsruher SC            2-1  SpVgg Greuther Fürth
+Spieltag 30
+[Fr 24.4.]
   VfL Bochum               0-2  1. FC Kaiserslautern
-  Fortuna Düsseldorf       1-1  TSV 1860 München
-  1. FC Heidenheim 1846    2-1  FC St. Pauli
-  1. FC Union Berlin       2-2  FC Ingolstadt 04
-  FSV Frankfurt            1-1  VfR Aalen
   1. FC Nürnberg           2-0  SV Sandhausen
-  Eintracht Braunschweig   4-2  Erzgebirge Aue
   RB Leipzig               2-1  SV Darmstadt 98
+[Sa 25.4.]
+  Fortuna Düsseldorf       1-1  TSV 1860 München
+  Karlsruher SC            2-1  SpVgg Greuther Fürth
+[So 26.4.]
+  FSV Frankfurt            1-1  VfR Aalen
+  1. FC Heidenheim         2-1  FC St. Pauli
+  1. FC Union Berlin       2-2  FC Ingolstadt 04
+[Mo 27.4.]
+  Eintracht Braunschweig   4-2  FC Erzgebirge Aue
 
-31. Spieltag
 
-[So 3.5.]
-  FC Ingolstadt 04         1-1  1. FC Nürnberg
+Spieltag 31
+[Sa 2.5.]
   SV Darmstadt 98          3-2  1. FC Kaiserslautern
-  Erzgebirge Aue           3-1  Karlsruher SC
+  Eintracht Braunschweig   2-0  FSV Frankfurt
+[So 3.5.]
+  FC Erzgebirge Aue        3-1  Karlsruher SC
+  VfR Aalen                2-4  VfL Bochum
   SpVgg Greuther Fürth     3-0  Fortuna Düsseldorf
   TSV 1860 München         0-3  1. FC Union Berlin
-  Eintracht Braunschweig   2-0  FSV Frankfurt
-  VfR Aalen                2-4  VfL Bochum
-  SV Sandhausen            2-2  1. FC Heidenheim 1846
   FC St. Pauli             1-0  RB Leipzig
+  SV Sandhausen            2-2  1. FC Heidenheim
+[Mo 4.5.]
+  FC Ingolstadt 04         1-1  1. FC Nürnberg
 
-32. Spieltag
 
-[So 10.5.]
-  1. FC Nürnberg           3-1  Eintracht Braunschweig
-  1. FC Heidenheim 1846    3-0  SpVgg Greuther Fürth
+Spieltag 32
+[Fr 8.5.]
   FSV Frankfurt            0-1  TSV 1860 München
-  1. FC Kaiserslautern     0-2  FC St. Pauli
-  VfL Bochum               3-1  FC Ingolstadt 04
-  Fortuna Düsseldorf       0-2  VfR Aalen
   RB Leipzig               0-4  SV Sandhausen
-  1. FC Union Berlin       1-2  Erzgebirge Aue
+  Fortuna Düsseldorf       0-2  VfR Aalen
+[Sa 9.5.]
+  1. FC Union Berlin       1-2  FC Erzgebirge Aue
+  1. FC Kaiserslautern     0-2  FC St. Pauli
+[So 10.5.]
+  VfL Bochum               3-1  FC Ingolstadt 04
+  1. FC Nürnberg           3-1  Eintracht Braunschweig
+  1. FC Heidenheim         3-0  SpVgg Greuther Fürth
+[Mo 11.5.]
   Karlsruher SC            0-1  SV Darmstadt 98
 
-33. Spieltag
 
+Spieltag 33
 [So 17.5.]
-  TSV 1860 München        2-1  1. FC Nürnberg
-  Erzgebirge Aue          0-0  1. FC Kaiserslautern
-  Eintracht Braunschweig  0-2  Karlsruher SC
-  SV Sandhausen           0-2  Fortuna Düsseldorf
-  FSV Frankfurt           1-3  1. FC Union Berlin
-  FC St. Pauli            5-1  VfL Bochum
-  VfR Aalen               2-4  1. FC Heidenheim 1846
-  FC Ingolstadt 04        2-1  RB Leipzig
-  SpVgg Greuther Fürth    1-0  SV Darmstadt 98
+  SpVgg Greuther Fürth     1-0  SV Darmstadt 98
+  FSV Frankfurt            1-3  1. FC Union Berlin
+  TSV 1860 München         2-1  1. FC Nürnberg
+  Eintracht Braunschweig   0-2  Karlsruher SC
+  SV Sandhausen            0-2  Fortuna Düsseldorf
+  FC Ingolstadt 04         2-1  RB Leipzig
+  FC Erzgebirge Aue        0-0  1. FC Kaiserslautern
+  VfR Aalen                2-4  1. FC Heidenheim
+  FC St. Pauli             5-1  VfL Bochum
 
-34. Spieltag
 
+Spieltag 34
 [So 24.5.]
-  1. FC Union Berlin      2-0  Eintracht Braunschweig
-  RB Leipzig              2-0  SpVgg Greuther Fürth
-  Karlsruher SC           2-0  TSV 1860 München
-  SV Darmstadt 98         1-0  FC St. Pauli
-  1. FC Kaiserslautern    1-1  FC Ingolstadt 04
-  1. FC Nürnberg          2-1  VfR Aalen
-  VfL Bochum              0-0  SV Sandhausen
-  Fortuna Düsseldorf      2-3  FSV Frankfurt
-  1. FC Heidenheim 1846   2-2  Erzgebirge Aue
-
-
-
+  1. FC Kaiserslautern     1-1  FC Ingolstadt 04
+  RB Leipzig               2-0  SpVgg Greuther Fürth
+  1. FC Nürnberg           2-1  VfR Aalen
+  SV Darmstadt 98          1-0  FC St. Pauli
+  VfL Bochum               0-0  SV Sandhausen
+  Fortuna Düsseldorf       2-3  FSV Frankfurt
+  1. FC Union Berlin       2-0  Eintracht Braunschweig
+  Karlsruher SC            2-0  TSV 1860 München
+  1. FC Heidenheim         2-2  FC Erzgebirge Aue

@@ -1,268 +1,298 @@
 = Deutsche 3. Liga 2016/17
 
-1. Spieltag
 
+Spieltag 1
 [Fr 29.7.]
- MSV Duisburg            1:0 (0:0)  SC Paderborn 07
+  MSV Duisburg             1-0  SC Paderborn 07
 [Sa 30.7.]
-  Chemnitzer FC          0:0 (0:0)  Großaspach
-  FC Rot-Weiß Erfurt     0:3 (0:1)  Hallescher FC
- Holstein Kiel           1:1 (1:0)  FSV Frankfurt
-  Wehen Wiesbaden        1:2 (0:0)  VfR Aalen
-   1. FSV Mainz 05 II    2:2 (0:1)  FSV Zwickau
- SSV Jahn Regensburg     2:0 (0:0)  Hansa Rostock
+  SSV Jahn Regensburg      2-0  Hansa Rostock
+  FC Rot-Weiß Erfurt       0-3  Hallescher FC
+  Holstein Kiel            1-1  FSV Frankfurt
+  Chemnitzer FC            0-0  SG Großaspach
+  SV Wehen Wiesbaden       1-2  VfR Aalen
+  1. FSV Mainz 05 II       2-2  FSV Zwickau
 [So 31.7.]
- Preußen Münster         0:1 (0:1)  VfL Osnabrück
- Werder Bremen II        0:3 (0:1)  Sportfreunde Lotte
- 1. FC Magdeburg         0:3 (0:1)  Fortuna Köln
+  Werder Bremen II         0-3  SF Lotte
+  Preußen Münster          0-1  VfL Osnabrück
+  1. FC Magdeburg          0-3  Fortuna Köln
 
-2. Spieltag
 
+Spieltag 2
 [Fr 5.8.]
-  Fortuna Köln           2:0 (1:0)   Werder Bremen II
-   Hansa Rostock         1:0 (0:0)   Preußen Münster
+  Hansa Rostock            1-0  Preußen Münster
+  Fortuna Köln             2-0  Werder Bremen II
 [Sa 6.8.]
-  SC Paderborn 07        3:1 (2:1)   1. FSV Mainz 05 II
-   Sportfreunde Lotte    0:0 (0:0)   Wehen Wiesbaden
-  VfR Aalen              1:0 (0:0)   Holstein Kiel
-   FSV Frankfurt         0:1 (0:0)   FC Rot-Weiß Erfurt
-   Hallescher FC         1:1 (1:0)   Chemnitzer FC
+  FSV Frankfurt            0-1  FC Rot-Weiß Erfurt
+  SF Lotte                 0-0  SV Wehen Wiesbaden
+  SC Paderborn 07          3-1  1. FSV Mainz 05 II
+  VfR Aalen                1-0  Holstein Kiel
+  Hallescher FC            1-1  Chemnitzer FC
 [So 7.8.]
-  Großaspach             3:4 (2:1)   SSV Jahn Regensburg
-   VfL Osnabrück         1:1 (0:0)   MSV Duisburg
-[Do 1.9.]
-  FSV Zwickau            0:0         1. FC Magdeburg
+  VfL Osnabrück            1-1  MSV Duisburg
+  SG Großaspach            3-4  SSV Jahn Regensburg
 
-3. Spieltag
 
+Spieltag 3
 [Di 9.8.]
-   FC Rot-Weiß Erfurt   0:0 (0:0)   VfR Aalen
-  Holstein Kiel         3:1 (1:0)   Sportfreunde Lotte
-   Wehen Wiesbaden      3:0 (1:0)   Fortuna Köln
-   1. FC Magdeburg      3:0 (2:0)   SC Paderborn 07
+  FC Rot-Weiß Erfurt       0-0  VfR Aalen
+  Holstein Kiel            3-1  SF Lotte
+  SV Wehen Wiesbaden       3-0  Fortuna Köln
+  1. FC Magdeburg          3-0  SC Paderborn 07
 [Mi 10.8.]
-  Werder Bremen II      1:3 (1:1)   FSV Zwickau
-  Preußen Münster       1:1 (0:1)   MSV Duisburg
-   Chemnitzer FC        2:1 (1:1)   FSV Frankfurt
- 1. FSV Mainz 05 II     2:2 (1:0)   VfL Osnabrück
-   Hansa Rostock        0:0 (0:0)   Großaspach
- SSV Jahn Regensburg    2:0 (1:0)   Hallescher FC
+  Werder Bremen II         1-3  FSV Zwickau
+  Chemnitzer FC            2-1  FSV Frankfurt
+  1. FSV Mainz 05 II       2-2  VfL Osnabrück
+  Preußen Münster          1-1  MSV Duisburg
+  Hansa Rostock            0-0  SG Großaspach
+  SSV Jahn Regensburg      2-0  Hallescher FC
 
-4. Spieltag
+
+Spieltag 4
 [Fr 12.8.]
- Sportfreunde Lotte     2:2 (1:0)   FC Rot-Weiß Erfurt
+  SF Lotte                 2-2  FC Rot-Weiß Erfurt
 [Sa 13.8.]
-  SC Paderborn 07       1:2 (0:0)   Werder Bremen II
-   FSV Zwickau          0:3 (0:0)   Wehen Wiesbaden
-   Fortuna Köln         1:0 (1:0)   Holstein Kiel
-   FSV Frankfurt        1:1 (0:0)   SSV Jahn Regensburg
-   Hallescher FC        0:0 (0:0)   Hansa Rostock
-   Großaspach           2:0 (1:0)   Preußen Münster
-   MSV Duisburg         4:0 (1:0)   1. FSV Mainz 05 II
-   VfL Osnabrück        3:2 (0:0)   1. FC Magdeburg
+  VfL Osnabrück            3-2  1. FC Magdeburg
+  FSV Frankfurt            1-1  SSV Jahn Regensburg
+  FSV Zwickau              0-3  SV Wehen Wiesbaden
+  SG Großaspach            2-0  Preußen Münster
+  Hallescher FC            0-0  Hansa Rostock
+  Fortuna Köln             1-0  Holstein Kiel
+  MSV Duisburg             4-0  1. FSV Mainz 05 II
+  SC Paderborn 07          1-2  Werder Bremen II
 [So 14.8.]
-  VfR Aalen             2:2 (0:1)   Chemnitzer FC
+  VfR Aalen                2-2  Chemnitzer FC
 
-5. Spieltag
+
+Spieltag 5
 [Fr 26.8.]
-1. FC Magdeburg          1:2   MSV Duisburg
-Werder Bremen II         4:2   VfL Osnabrück
+  1. FC Magdeburg          1-2  MSV Duisburg
+  Werder Bremen II         4-2  VfL Osnabrück
 [Sa 27.8.]
-Preußen Münster          1:0   1. FSV Mainz 05 II
-Chemnitzer FC            0:1   Sportfreunde Lotte
-FC Rot-Weiß Erfurt       3:0   Fortuna Köln
-Holstein Kiel            3:0   FSV Zwickau
-Wehen Wiesbaden          1:2   SC Paderborn 07
-Großaspach               3:0   Hallescher FC
-Hansa Rostock            1:1   FSV Frankfurt
-SSV Jahn Regensburg      0:2   VfR Aalen
+  SG Großaspach            3-0  Hallescher FC
+  Chemnitzer FC            0-1  SF Lotte
+  SV Wehen Wiesbaden       1-2  SC Paderborn 07
+  FC Rot-Weiß Erfurt       3-0  Fortuna Köln
+  SSV Jahn Regensburg      0-2  VfR Aalen
+  Holstein Kiel            3-0  FSV Zwickau
+  Preußen Münster          1-0  1. FSV Mainz 05 II
+  Hansa Rostock            1-1  FSV Frankfurt
 
-6. Spieltag
+
+Spieltag 2
+[Do 1.9.]
+  FSV Zwickau              0-0  1. FC Magdeburg
+
+
+Spieltag 6
 [Fr 9.9.]
-  VfR Aalen              1:1   Hansa Rostock
-  Hallescher FC          2:1   Preußen Münster
-  VfL Osnabrück          1:0   Wehen Wiesbaden
+  VfR Aalen                1-1  Hansa Rostock
+  Hallescher FC            2-1  Preußen Münster
+  VfL Osnabrück            1-0  SV Wehen Wiesbaden
 [Sa 10.9.]
-  Fortuna Köln           1:0   Chemnitzer FC
-  Sportfreunde Lotte     3:2   SSV Jahn Regensburg
-   FSV Frankfurt         1:3   Großaspach
-   1. FSV Mainz 05 II    1:0   1. FC Magdeburg
-   MSV Duisburg          1:0   Werder Bremen II
+  Fortuna Köln             1-0  Chemnitzer FC
+  MSV Duisburg             1-0  Werder Bremen II
+  1. FSV Mainz 05 II       1-0  1. FC Magdeburg
+  SF Lotte                 3-2  SSV Jahn Regensburg
+  FSV Frankfurt            1-3  SG Großaspach
 [So 11.9.]
-  SC Paderborn 07        1:3   Holstein Kiel
-   FSV Zwickau           1:2   FC Rot-Weiß Erfurt
+  FSV Zwickau              1-2  FC Rot-Weiß Erfurt
+  SC Paderborn 07          1-3  Holstein Kiel
 
-7. Spieltag
+
+Spieltag 7
 [Fr 16.9.]
-  Chemnitzer FC          1:0   FSV Zwickau
-   Holstein Kiel         0:1   VfL Osnabrück
-   Wehen Wiesbaden       3:0   MSV Duisburg
+  Chemnitzer FC            1-0  FSV Zwickau
+  SV Wehen Wiesbaden       3-0  MSV Duisburg
+  Holstein Kiel            0-1  VfL Osnabrück
 [Sa 17.9.]
-  Preußen Münster        2:3   1. FC Magdeburg
-   FC Rot-Weiß Erfurt    1:3   SC Paderborn 07
-   Werder Bremen II      2:1   1. FSV Mainz 05 II
-   Hallescher FC         1:1   FSV Frankfurt
-   Großaspach            2:2   VfR Aalen
-   Hansa Rostock         1:3   Sportfreunde Lotte
-   SSV Jahn Regensburg   2:2   Fortuna Köln
+  Preußen Münster          2-3  1. FC Magdeburg
+  SG Großaspach            2-2  VfR Aalen
+  SSV Jahn Regensburg      2-2  Fortuna Köln
+  Hansa Rostock            1-3  SF Lotte
+  FC Rot-Weiß Erfurt       1-3  SC Paderborn 07
+  Hallescher FC            1-1  FSV Frankfurt
+  Werder Bremen II         2-1  1. FSV Mainz 05 II
 
-8. Spieltag
+
+Spieltag 8
 [Di 20.9.]
-  FSV Zwickau            4-0   SSV Jahn Regensburg
-   VfR Aalen             1-1   Hallescher FC
-   VfL Osnabrück         3-0   FC Rot-Weiß Erfurt
-  MSV Duisburg           0-0   Holstein Kiel
+  VfL Osnabrück            3-0  FC Rot-Weiß Erfurt
+  VfR Aalen                1-1  Hallescher FC
+  FSV Zwickau              4-0  SSV Jahn Regensburg
+  MSV Duisburg             0-0  Holstein Kiel
 [Mi 21.9.]
-  SC Paderborn 07        4-2   Chemnitzer FC
-   1. FC Magdeburg       2-0   Werder Bremen II
-  Fortuna Köln           0-2   Hansa Rostock
-   Sportfreunde Lotte    2-1   Großaspach
-   FSV Frankfurt         4-1   Preußen Münster
-   1. FSV Mainz 05 II    1-2   Wehen Wiesbaden
+  1. FC Magdeburg          2-0  Werder Bremen II
+  SC Paderborn 07          4-2  Chemnitzer FC
+  FSV Frankfurt            4-1  Preußen Münster
+  Fortuna Köln             0-2  Hansa Rostock
+  SF Lotte                 2-1  SG Großaspach
+  1. FSV Mainz 05 II       1-2  SV Wehen Wiesbaden
 
 
-9. Spieltag
+Spieltag 9
 [Sa 24.9.]
-  Preußen Münster        4-0   Werder Bremen II
-   Chemnitzer FC         3-0   VfL Osnabrück
-   Holstein Kiel         3-0   1. FSV Mainz 05 II
-   FSV Frankfurt         2-1   VfR Aalen
-   Hallescher FC         2-0   Sportfreunde Lotte
-   Großaspach            2-3   Fortuna Köln
-   SSV Jahn Regensburg   3-0   SC Paderborn 07
+  SG Großaspach            2-3  Fortuna Köln
+  Holstein Kiel            3-0  1. FSV Mainz 05 II
+  FSV Frankfurt            2-1  VfR Aalen
+  Chemnitzer FC            3-0  VfL Osnabrück
+  Hallescher FC            2-0  SF Lotte
+  SSV Jahn Regensburg      3-0  SC Paderborn 07
+  Preußen Münster          4-0  Werder Bremen II
 [So 25.9.]
-  FC Rot-Weiß Erfurt     0-1   MSV Duisburg
-   Wehen Wiesbaden       0-3   1. FC Magdeburg
-   Hansa Rostock         5-0   FSV Zwickau
+  FC Rot-Weiß Erfurt       0-1  MSV Duisburg
+  Hansa Rostock            5-0  FSV Zwickau
+  SV Wehen Wiesbaden       0-3  1. FC Magdeburg
 
-10. Spieltag
+
+Spieltag 10
+[Fr 30.9.]
+  SC Paderborn 07          0-3  Hansa Rostock
+  FSV Zwickau              0-2  SG Großaspach
 [Sa 1.10.]
-  SC Paderborn 07        0-3   Hansa Rostock
-   FSV Zwickau           0-2   Großaspach
-   Fortuna Köln          1-1   Hallescher FC
-   Sportfreunde Lotte    0-1   FSV Frankfurt
-   VfR Aalen             1-0   Preußen Münster
-   Werder Bremen II      0-1   Wehen Wiesbaden
-   1. FC Magdeburg       1-0   Holstein Kiel
-   1. FSV Mainz 05 II    1-1   FC Rot-Weiß Erfurt
-   MSV Duisburg          1-0   Chemnitzer FC
-   VfL Osnabrück         1-2   SSV Jahn Regensburg
+  MSV Duisburg             1-0  Chemnitzer FC
+  VfR Aalen                1-0  Preußen Münster
+  1. FC Magdeburg          1-0  Holstein Kiel
+  VfL Osnabrück            1-2  SSV Jahn Regensburg
+  Fortuna Köln             1-1  Hallescher FC
+  Werder Bremen II         0-1  SV Wehen Wiesbaden
+  SF Lotte                 0-1  FSV Frankfurt
+[So 2.10.]
+  1. FSV Mainz 05 II       1-1  FC Rot-Weiß Erfurt
 
 
-11. Spieltag
+Spieltag 11
+[Fr 14.10.]
+  SG Großaspach            2-3  SC Paderborn 07
 [Sa 15.10.]
-  Preußen Münster        2-2   Wehen Wiesbaden
-   Chemnitzer FC         4-1   1. FSV Mainz 05 II
-   FC Rot-Weiß Erfurt    1-0   1. FC Magdeburg
-   Holstein Kiel         3-1   Werder Bremen II
-   VfR Aalen             1-1   Sportfreunde Lotte
-   FSV Frankfurt         6-0   Fortuna Köln
-   Hallescher FC         3-2   FSV Zwickau
-   Großaspach            2-3   SC Paderborn 07
-   Hansa Rostock         1-2   VfL Osnabrück
-   SSV Jahn Regensburg   1-2   MSV Duisburg
+  Hansa Rostock            1-2  VfL Osnabrück
+  VfR Aalen                1-1  SF Lotte
+  SSV Jahn Regensburg      1-2  MSV Duisburg
+  FC Rot-Weiß Erfurt       1-0  1. FC Magdeburg
+  Holstein Kiel            3-1  Werder Bremen II
+  Preußen Münster          2-2  SV Wehen Wiesbaden
+  Hallescher FC            3-2  FSV Zwickau
+[So 16.10.]
+  FSV Frankfurt            6-0  Fortuna Köln
+  Chemnitzer FC            4-1  1. FSV Mainz 05 II
 
-12. Spieltag
+
+Spieltag 12
 [Sa 22.10.]
-  SC Paderborn 07        0-0   Hallescher FC
-   FSV Zwickau           1-1   FSV Frankfurt
-   Fortuna Köln          0-2   VfR Aalen
-   Sportfreunde Lotte    1-0   Preußen Münster
-   Wehen Wiesbaden       0-0   Holstein Kiel
-   Werder Bremen II      1-0   FC Rot-Weiß Erfurt
-   1. FC Magdeburg       2-4   Chemnitzer FC
-   1. FSV Mainz 05 II    2-0   SSV Jahn Regensburg
-   MSV Duisburg          0-1   Hansa Rostock
-   VfL Osnabrück         1-0   Großaspach
+  SF Lotte                 1-0  Preußen Münster
+  FSV Zwickau              1-1  FSV Frankfurt
+  SC Paderborn 07          0-0  Hallescher FC
+  VfL Osnabrück            1-0  SG Großaspach
+  MSV Duisburg             0-1  Hansa Rostock
+  SV Wehen Wiesbaden       0-0  Holstein Kiel
+  Fortuna Köln             0-2  VfR Aalen
+  1. FC Magdeburg          2-4  Chemnitzer FC
+[So 23.10.]
+  1. FSV Mainz 05 II       2-0  SSV Jahn Regensburg
+  Werder Bremen II         1-0  FC Rot-Weiß Erfurt
 
-13. Spieltag
+
+Spieltag 13
+[Fr 28.10.]
+  VfR Aalen                0-1  FSV Zwickau
 [Sa 29.10.]
-  Preußen Münster        1-1   Holstein Kiel
-   Chemnitzer FC         1-1   Werder Bremen II
-   FC Rot-Weiß Erfurt    1-0   Wehen Wiesbaden
-   Sportfreunde Lotte    0-1   Fortuna Köln
-   VfR Aalen             0-1   FSV Zwickau
-   FSV Frankfurt         3-0   SC Paderborn 07
-   Hallescher FC         1-0   VfL Osnabrück
-   Großaspach            0-0   MSV Duisburg
-   Hansa Rostock         1-1   1. FSV Mainz 05 II
-   SSV Jahn Regensburg   1-1   1. FC Magdeburg
+  FC Rot-Weiß Erfurt       1-0  SV Wehen Wiesbaden
+  Hansa Rostock            1-1  1. FSV Mainz 05 II
+  SSV Jahn Regensburg      1-1  1. FC Magdeburg
+  Chemnitzer FC            1-1  Werder Bremen II
+  Preußen Münster          1-1  Holstein Kiel
+  SG Großaspach            0-0  MSV Duisburg
+  SF Lotte                 0-1  Fortuna Köln
+  FSV Frankfurt            3-0  SC Paderborn 07
+  Hallescher FC            1-0  VfL Osnabrück
 
-14. Spieltag
+
+Spieltag 14
 [Sa 5.11.]
-  SC Paderborn 07        0-0   VfR Aalen
-   FSV Zwickau           1-1   Sportfreunde Lotte
-   Fortuna Köln          0-1   Preußen Münster
-   Holstein Kiel         0-0   FC Rot-Weiß Erfurt
-   Wehen Wiesbaden       0-3   Chemnitzer FC
-   Werder Bremen II      3-1   SSV Jahn Regensburg
-   1. FC Magdeburg       1-1   Hansa Rostock
-   1. FSV Mainz 05 II    0-2   Großaspach
-   MSV Duisburg          0-0   Hallescher FC
-   VfL Osnabrück         1-1   FSV Frankfurt
+  FSV Zwickau              1-1  SF Lotte
+  MSV Duisburg             0-0  Hallescher FC
+  1. FC Magdeburg          1-1  Hansa Rostock
+  VfL Osnabrück            1-1  FSV Frankfurt
+  Holstein Kiel            0-0  FC Rot-Weiß Erfurt
+  SV Wehen Wiesbaden       0-3  Chemnitzer FC
+  1. FSV Mainz 05 II       0-2  SG Großaspach
+  Werder Bremen II         3-1  SSV Jahn Regensburg
+  Fortuna Köln             0-1  Preußen Münster
+  SC Paderborn 07          0-0  VfR Aalen
 
-15. Spieltag
+
+Spieltag 15
+[Fr 18.11.]
+  VfR Aalen                1-1  VfL Osnabrück
+  Preußen Münster          4-0  FC Rot-Weiß Erfurt
+  Fortuna Köln             2-1  FSV Zwickau
 [Sa 19.11.]
-   Preußen Münster       4-0   FC Rot-Weiß Erfurt
-   Chemnitzer FC         2-2   Holstein Kiel
-   Fortuna Köln          2-1   FSV Zwickau
-   Sportfreunde Lotte    6-0   SC Paderborn 07
-   VfR Aalen             1-1   VfL Osnabrück
-   FSV Frankfurt         0-0   MSV Duisburg
-   Hallescher FC         2-0   1. FSV Mainz 05 II
-   Großaspach            1-3   1. FC Magdeburg
-   Hansa Rostock         1-1   Werder Bremen II
-   SSV Jahn Regensburg   3-1   Wehen Wiesbaden
+  Chemnitzer FC            2-2  Holstein Kiel
+  Hallescher FC            2-0  1. FSV Mainz 05 II
+  Hansa Rostock            1-1  Werder Bremen II
+  FSV Frankfurt            0-0  MSV Duisburg
+  SSV Jahn Regensburg      3-1  SV Wehen Wiesbaden
+  SF Lotte                 6-0  SC Paderborn 07
+  SG Großaspach            1-3  1. FC Magdeburg
 
-16. Spieltag
+
+Spieltag 16
+[Fr 25.11.]
+  SV Wehen Wiesbaden       1-1  Hansa Rostock
 [Sa 26.11.]
-   SC Paderborn 07       1-1   Fortuna Köln
-   FSV Zwickau           0-1   Preußen Münster
-   FC Rot-Weiß Erfurt    1-2   Chemnitzer FC
-   Holstein Kiel         2-1   SSV Jahn Regensburg
-   Wehen Wiesbaden       1-1   Hansa Rostock
-   Werder Bremen II      1-0   Großaspach
-   1. FC Magdeburg       1-0   Hallescher FC
-   1. FSV Mainz 05 II    1-0   FSV Frankfurt
-   MSV Duisburg          2-2   VfR Aalen
-  VfL Osnabrück          3-0   Sportfreunde Lotte
+  VfL Osnabrück            3-0  SF Lotte
+  Holstein Kiel            2-1  SSV Jahn Regensburg
+  FC Rot-Weiß Erfurt       1-2  Chemnitzer FC
+  MSV Duisburg             2-2  VfR Aalen
+  1. FC Magdeburg          1-0  Hallescher FC
+  SC Paderborn 07          1-1  Fortuna Köln
+  Werder Bremen II         1-0  SG Großaspach
+[So 27.11.]
+  1. FSV Mainz 05 II       1-0  FSV Frankfurt
+  FSV Zwickau              0-1  Preußen Münster
 
-17. Spieltag
+
+Spieltag 17
+[Fr 2.12.]
+  SSV Jahn Regensburg      0-1  FC Rot-Weiß Erfurt
+  Preußen Münster          1-0  Chemnitzer FC
+  SG Großaspach            2-1  SV Wehen Wiesbaden
 [Sa 3.12.]
-   Preußen Münster       1-0   Chemnitzer FC
-   FSV Zwickau           3-0   SC Paderborn 07
-   Fortuna Köln          1-1   VfL Osnabrück
-   Sportfreunde Lotte    0-2   MSV Duisburg
-   VfR Aalen             0-0   1. FSV Mainz 05 II
-   FSV Frankfurt         0-1   1. FC Magdeburg
-   Hallescher FC         2-0   Werder Bremen II
-   Großaspach            2-1   Wehen Wiesbaden
-   Hansa Rostock         1-4   Holstein Kiel
-   SSV Jahn Regensburg   0-1   FC Rot-Weiß Erfurt
+  FSV Zwickau              3-0  SC Paderborn 07
+  VfR Aalen                0-0  1. FSV Mainz 05 II
+  Hallescher FC            2-0  Werder Bremen II
+  Fortuna Köln             1-1  VfL Osnabrück
+  Hansa Rostock            1-4  Holstein Kiel
+[So 4.12.]
+  FSV Frankfurt            0-1  1. FC Magdeburg
+  SF Lotte                 0-2  MSV Duisburg
 
-18. Spieltag
+
+Spieltag 18
 [Sa 10.12.]
-   Preußen Münster       0-1   SC Paderborn 07
-   Chemnitzer FC         0-3   SSV Jahn Regensburg
-   FC Rot-Weiß Erfurt    1-2   Hansa Rostock
-   Holstein Kiel         1-2   Großaspach
-   Wehen Wiesbaden       1-1   Hallescher FC
-   Werder Bremen II      0-0   FSV Frankfurt
-   1. FC Magdeburg       3-0   VfR Aalen
-   1. FSV Mainz 05 II    0-2   Sportfreunde Lotte
-   MSV Duisburg          2-0   Fortuna Köln
-   VfL Osnabrück         1-0   FSV Zwickau
+  VfL Osnabrück            1-0  FSV Zwickau
+  Chemnitzer FC            0-3  SSV Jahn Regensburg
+  1. FC Magdeburg          3-0  VfR Aalen
+  Werder Bremen II         0-0  FSV Frankfurt
+  Preußen Münster          0-1  SC Paderborn 07
+  FC Rot-Weiß Erfurt       1-2  Hansa Rostock
+  MSV Duisburg             2-0  Fortuna Köln
+  Holstein Kiel            1-2  SG Großaspach
+  SV Wehen Wiesbaden       1-1  Hallescher FC
+[So 11.12.]
+  1. FSV Mainz 05 II       0-2  SF Lotte
 
-19. Spieltag
+
+Spieltag 19
+[Fr 16.12.]
+  SG Großaspach            2-1  FC Rot-Weiß Erfurt
 [Sa 17.12.]
-   SC Paderborn 07       3-1   VfL Osnabrück
-   FSV Zwickau           1-1   MSV Duisburg
-   Fortuna Köln          1-0   1. FSV Mainz 05 II
-   Sportfreunde Lotte    1-3   1. FC Magdeburg
-   VfR Aalen             3-0   Werder Bremen II
-   FSV Frankfurt         3-1   Wehen Wiesbaden
-   Hallescher FC         0-0   Holstein Kiel
-   Großaspach            2-1   FC Rot-Weiß Erfurt
-   Hansa Rostock         1-3   Chemnitzer FC
-   SSV Jahn Regensburg   3-1   Preußen Münster
-
+  Hallescher FC            0-0  Holstein Kiel
+  VfR Aalen                3-0  Werder Bremen II
+  FSV Frankfurt            3-1  SV Wehen Wiesbaden
+  SC Paderborn 07          3-1  VfL Osnabrück
+  SSV Jahn Regensburg      3-1  Preußen Münster
+  Fortuna Köln             1-0  1. FSV Mainz 05 II
+  Hansa Rostock            1-3  Chemnitzer FC
+  SF Lotte                 1-3  1. FC Magdeburg
+[So 18.12.]
+  FSV Zwickau              1-1  MSV Duisburg

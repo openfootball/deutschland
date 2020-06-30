@@ -168,7 +168,7 @@ Spieltag 10
   FC Ingolstadt 04        0-0 SpVgg Unterhaching
 
 
-# Spieltag 7
+Spieltag 7
 [Mi. 2.10.]
   MSV Duisburg            1-3 SV Meppen
 
@@ -304,7 +304,7 @@ Spieltag 18
   Würzburger Kickers      3-1 FC Viktoria Köln
 [So. 8.12.]
   Waldhof Mannheim        0-0 Eintracht Braunschweig
-  MSV Duisburg            3-2 Bayern München II 
+  MSV Duisburg            3-2 Bayern München II
 [Mo. 9.12.]
   SV Meppen               3-1 Preußen Münster
 
@@ -340,11 +340,9 @@ Spieltag 20
   FC Ingolstadt 04        5-1 Carl Zeiss Jena
   Bayern München II       1-1 Würzburger Kickers
   Hallescher FC           1-1 KFC Uerdingen 05
-  
-  
- # Winterpause incl. 23.1.20.
-  
-  
+
+
+
 Spieltag 21
 [Fr. 24.1.]
   Hansa Rostock           1-0 Hallescher FC
@@ -478,8 +476,8 @@ Spieltag 28
 [So. 15.3.]
   FSV Zwickau             2-2  Hansa Rostock                  # Termin verschoben
   Carl Zeiss Jena         - Chemnitzer FC                  # Termin verschoben
-  
-  
+
+
 Spieltag 29
 [Di. 17.3.]
   KFC Uerdingen 05        0-0  SV Meppen                      # Termin verschoben
@@ -544,7 +542,7 @@ Spieltag 32
   1. FC Magdeburg         - FC Viktoria Köln
 [Mo. 6.4.]
   MSV Duisburg            - Würzburger Kickers
-  
+
 
 Spieltag 33
 [Sa 11.4.]

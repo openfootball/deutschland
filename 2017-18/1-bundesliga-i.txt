@@ -238,5 +238,3 @@ Spieltag 17
   15.30   Hannover 96             4:4  Bayer Leverkusen
   18.00   RB Leipzig              2:3  Hertha BSC
 
-
-# Winterpause bis 12.1.18

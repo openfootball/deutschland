@@ -16,6 +16,8 @@
 #    VfB Stuttgart
 #   Hannover 96
 
+
+# Winterpause bis 20.1.2017
 # Sommerpause bis 18.8.2017
 ```
 
@@ -47,7 +49,9 @@
 # 3. Absteiger in 3. Liga 2017/18
 #  TSV 1860 München, keine Lizenz für 3. Liga erhalten somit Abstieg in Regionalliga.
 
-#  Sommerpause bis 28.7.2017
+
+# Winterpause bis 27.1.2017
+# Sommerpause bis 28.7.2017
 ```
 
 
@@ -108,5 +112,7 @@
 # 3. Absteiger in die Regionalligen
 #   SC Padeborn 07, da TSV 1860 München keine Lizenz für 3.Liga erhalten hat, bleibt somit SC Padeborn 07 in der 3. Liga.
 #
+
+# Winterpause bis 27.1.2017
 # Sommerpause bis 21.7.2017
 ```

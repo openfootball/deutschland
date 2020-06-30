@@ -20,6 +20,7 @@
 # Play-off Verlierer in 2. Bundesliga 2019/20:
   VfB Stuttgart
 
+# Winterpause bis Fr. 18.1.2019
 # 16.8. Start 1. Bundesliga 2019/20
 ```
 

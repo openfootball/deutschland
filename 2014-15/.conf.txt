@@ -1,10 +1,6 @@
 = DFB Pokal 2014/15    ## no. 72
 
-# start: 2014-08-15
-# team3: false         -- no game for 3rd/4th place
-# 64 Teams
-
-## Bundesliga (18) Saison 2013/14  
+## Bundesliga (18) Saison 2013/14
 Bayern München       ## (TV)
 Borussia Dortmund
 FC Schalke 04

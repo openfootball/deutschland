@@ -1,7 +1,5 @@
 = Deutsche Bundesliga 2013/14     ## no. 51
 
-# start_at: 2013-08-09
-
 
 1. Spieltag
 
@@ -62,93 +60,93 @@
   1. FC Nürnberg         0:1  FC Augsburg
   Hamburger SV           4:0  Eintracht Braunschweig
 [So 1.9.]
-  VfB Stuttgart          6:2  1899 Hoffenheim  
-  Eintracht Frankfurt    1:2  Borussia Dortmund  
+  VfB Stuttgart          6:2  1899 Hoffenheim
+  Eintracht Frankfurt    1:2  Borussia Dortmund
 
 
 5. Spieltag
 
 [Fr 13.9.]
-  Hertha BSC             0:1  VfB Stuttgart  
+  Hertha BSC             0:1  VfB Stuttgart
 [Sa 14.9.]
-  Borussia Dortmund      6:2  Hamburger SV  
-  Bayern München         2:0  Hannover 96  
-  Bayer Leverkusen       3:1  VfL Wolfsburg  
-  Werder Bremen          0:3  Eintracht Frankfurt  
-  1. FSV Mainz 05        0:1  FC Schalke 04  
-  FC Augsburg            2:1  SC Freiburg  
+  Borussia Dortmund      6:2  Hamburger SV
+  Bayern München         2:0  Hannover 96
+  Bayer Leverkusen       3:1  VfL Wolfsburg
+  Werder Bremen          0:3  Eintracht Frankfurt
+  1. FSV Mainz 05        0:1  FC Schalke 04
+  FC Augsburg            2:1  SC Freiburg
 [So 15.9.]
-  1899 Hoffenheim        2:1  Bor. Mönchengladbach  
-  Eintracht Braunschweig 1:1  1. FC Nürnberg  
+  1899 Hoffenheim        2:1  Bor. Mönchengladbach
+  Eintracht Braunschweig 1:1  1. FC Nürnberg
 
 
 6. Spieltag
 
 [Fr 20.9.]
-  Bor. Mönchengladbach   4:1  Eintracht Braunschweig  
+  Bor. Mönchengladbach   4:1  Eintracht Braunschweig
 [Sa 21.9.]
-  FC Schalke 04          0:4  Bayern München  
-  Hannover 96            2:1  FC Augsburg  
-  VfL Wolfsburg          2:1  1899 Hoffenheim  
-  1. FC Nürnberg         1:1  Borussia Dortmund  
-  1. FSV Mainz 05        1:4  Bayer Leverkusen  
-  Hamburger SV           0:2  Werder Bremen  
+  FC Schalke 04          0:4  Bayern München
+  Hannover 96            2:1  FC Augsburg
+  VfL Wolfsburg          2:1  1899 Hoffenheim
+  1. FC Nürnberg         1:1  Borussia Dortmund
+  1. FSV Mainz 05        1:4  Bayer Leverkusen
+  Hamburger SV           0:2  Werder Bremen
 [So 22.9.]
-  SC Freiburg            1:1  Hertha BSC  
-  VfB Stuttgart          1:1  Eintracht Frankfurt  
+  SC Freiburg            1:1  Hertha BSC
+  VfB Stuttgart          1:1  Eintracht Frankfurt
 
 
 7. Spieltag
 
 [Fr 27.9.]
-  FC Augsburg            2:2  Bor. Mönchengladbach  
+  FC Augsburg            2:2  Bor. Mönchengladbach
 [Sa 28.9.]
-  Borussia Dortmund      5:0  SC Freiburg  
-  Bayern München         1:0  VfL Wolfsburg  
-  Bayer Leverkusen       2:0  Hannover 96  
-  1899 Hoffenheim        3:3  FC Schalke 04  
-  Eintracht Frankfurt    2:2  Hamburger SV  
-  Hertha BSC             3:1  1. FSV Mainz 05  
+  Borussia Dortmund      5:0  SC Freiburg
+  Bayern München         1:0  VfL Wolfsburg
+  Bayer Leverkusen       2:0  Hannover 96
+  1899 Hoffenheim        3:3  FC Schalke 04
+  Eintracht Frankfurt    2:2  Hamburger SV
+  Hertha BSC             3:1  1. FSV Mainz 05
 [So 29.9.]
-  Werder Bremen          3:3  1. FC Nürnberg  
-  Eintracht Braunschweig 0:4  VfB Stuttgart  
+  Werder Bremen          3:3  1. FC Nürnberg
+  Eintracht Braunschweig 0:4  VfB Stuttgart
 
 
 8. Spieltag
 
 [Fr 4.10.]
-  Hannover 96            1:1  Hertha BSC  
+  Hannover 96            1:1  Hertha BSC
 [Sa 5.10.]
-  FC Schalke 04          4:1  FC Augsburg  
-  Bor. Mönchengladbach   2:0  Borussia Dortmund  
-  Bayer Leverkusen       1:1  Bayern München  
-  VfB Stuttgart          1:1  Werder Bremen  
-  VfL Wolfsburg          0:2  Eintracht Braunschweig  
-  1. FSV Mainz 05        2:2  1899 Hoffenheim  
+  FC Schalke 04          4:1  FC Augsburg
+  Bor. Mönchengladbach   2:0  Borussia Dortmund
+  Bayer Leverkusen       1:1  Bayern München
+  VfB Stuttgart          1:1  Werder Bremen
+  VfL Wolfsburg          0:2  Eintracht Braunschweig
+  1. FSV Mainz 05        2:2  1899 Hoffenheim
 [So 6.10.]
-  1. FC Nürnberg         0:5  Hamburger SV  
-  SC Freiburg            1:1  Eintracht Frankfurt  
+  1. FC Nürnberg         0:5  Hamburger SV
+  SC Freiburg            1:1  Eintracht Frankfurt
 
 
 9. Spieltag
 
 [Fr 18.10.]
-  1899 Hoffenheim        1:2  Bayer Leverkusen  
+  1899 Hoffenheim        1:2  Bayer Leverkusen
 [Sa 19.10.]
-  Borussia Dortmund      1:0  Hannover 96  
-  Bayern München         4:1  1. FSV Mainz 05  
-  Werder Bremen          0:0  SC Freiburg  
-  Eintracht Braunschweig 2:3  FC Schalke 04  
-  Eintracht Frankfurt    1:1  1. FC Nürnberg  
+  Borussia Dortmund      1:0  Hannover 96
+  Bayern München         4:1  1. FSV Mainz 05
+  Werder Bremen          0:0  SC Freiburg
+  Eintracht Braunschweig 2:3  FC Schalke 04
+  Eintracht Frankfurt    1:1  1. FC Nürnberg
   Hertha BSC             1:0  Bor. Mönchengladbach
 [So 20.10.]
-  Hamburger SV           3:3  VfB Stuttgart  
-  FC Augsburg            1:2  VfL Wolfsburg  
+  Hamburger SV           3:3  VfB Stuttgart
+  FC Augsburg            1:2  VfL Wolfsburg
 
 
 10. Spieltag
 
-[Fr 25.10.] 
+[Fr 25.10.]
   VfB Stuttgart          1:1  1. FC Nürnberg
 [Sa 26.10.]
   Bayern München         3:2  Hertha BSC
@@ -164,7 +162,7 @@
 
 11. Spieltag
 
-[Fr 1.11.] 
+[Fr 1.11.]
   Borussia Dortmund      6:1  VfB Stuttgart
 [Sa 2.11.]
   1. FC Nürnberg         0:3  SC Freiburg
@@ -180,7 +178,7 @@
 
 12. Spieltag
 
-[Fr 8.11.] 
+[Fr 8.11.]
   Hannover 96            0:0  Eintracht Braunschweig
 [Sa 9.11.]
   Bayern München         3:0  FC Augsburg
@@ -195,7 +193,7 @@
 
 
 13. Spieltag
- 
+
 [Fr 22.11.]
   VfB Stuttgart           0:2  Bor. Mönchengladbach
 [Sa 23.11.]
@@ -212,7 +210,7 @@
 
 14. Spieltag
 
-[Fr 29.11.] 
+[Fr 29.11.]
   VfL Wolfsburg           1:1 Hamburger SV
 [Sa 30.11.]
   Bayern München          2:0 Eintracht Braunschweig
@@ -230,7 +228,7 @@
 
 [Fr 6.12.]
   1. FC Nürnberg          1:1 1. FSV Mainz 05
-[Sa 7.12.] 
+[Sa 7.12.]
   Borussia Dortmund       0:1 Bayer Leverkusen
   Bor. Mönchengladbach    2:1 FC Schalke 04
   VfB Stuttgart           4:2 Hannover 96
@@ -246,7 +244,7 @@
 
 [Fr 13.12.]
   Hertha BSC              3:2 Werder Bremen
-[Sa 14.12.] 
+[Sa 14.12.]
   Bayern München          3:1 Hamburger SV
   Hannover 96             3:3 1. FC Nürnberg
   VfL Wolfsburg           3:1 VfB Stuttgart
@@ -260,7 +258,7 @@
 
 17. Spieltag
 
-[Fr 20.12.] 
+[Fr 20.12.]
   Eintracht Frankfurt     1:1  FC Augsburg
 [Sa 21.12.]
   Borussia Dortmund       1:2  Hertha BSC

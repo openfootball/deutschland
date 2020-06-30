@@ -1,11 +1,5 @@
 = Deutsche Bundesliga 2012/13    ## no. 50
 
-#  see de.wikipedia.org/wiki/Fußball-Bundesliga_2012/13
-#
-#  start_at: 2012-07-21
-#
-#  note: timezone for games (play_at) is *always* CET (central european time)
-
  1  FC Bayern München          34  29   4   1  98:18  +80  91
  2  Borussia Dortmund          34  19   9   6  81:42  +39  66
  3  Bayer 04 Leverkusen        34  19   8   7  65:39  +26  65
@@ -27,11 +21,6 @@
 
 
 = Deutsche 2. Bundesliga 2012/13
-
-# see de.wikipedia.org/wiki/2._Fußball-Bundesliga_2012/13
-#
-# start_at: 2012-08-03
-
 
  1  Hertha BSC               34   22   10   2  65:28  +37  76
  2  Eintracht Braunschweig   34   19   10   5  52:34  +18  67
@@ -55,10 +44,6 @@
 
 = Deutsche 3. Liga 2012/13
 
-#  see de.wikipedia.org/wiki/3._Fußball-Liga_2012/13
-#
-#  start_at: 2012-07-20
-
  1  Karlsruher SC           38  23   10   5  69:27  +42  79
  2  Arminia Bielefeld       38  22   10   6  59:32  +27  76
  3  VfL Osnabrück           38  22   7   9  64:35  +29  73
@@ -81,13 +66,7 @@
 20  Alemannia Aachen        38   7   10   21  40:68  -28  26
 
 
-= DFB Pokal 2012/13   ## no. 70
-
-# see de.wikipedia.org/wiki/DFB-Pokal_2012/13
-#
-# start_at: 2012-08-17
-# team3: false       -- no game for 3rd/4th place
-
+= DFB Pokal 2012/13    # no. 70
 
 # 64 Teams:
 # Bundesliga (18) Saison 2011/12

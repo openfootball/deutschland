@@ -1,9 +1,4 @@
-= Deutsche Bundesliga 2010/11  ## no. 48
-
-#  see de.wikipedia.org/wiki/Fußball-Bundesliga_2010/11
-#
-#  start_at: 2010-08-20
-#  18 Teams
+= Deutsche Bundesliga 2010/11     # no. 48
 
  1  Borussia Dortmund     34 23  6  5  67-22  75
  2  Bayer Leverkusen      34 20  8  6  64-44  68

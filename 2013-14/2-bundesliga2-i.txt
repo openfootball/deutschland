@@ -1,7 +1,5 @@
 = Deutsche 2. Bundesliga 2013/14         ## no. 40
 
-# start_at: 2013-07-19  
-
 
 1. Spieltag
 
@@ -15,7 +13,7 @@
 [So 21.7.]
  13:30  SpVgg Greuther Fürth 2:0  Arminia Bielefeld
  13:30  FSV Frankfurt        0:1  Karlsruher SC
- 15:30  1. FC Union Berlin   1:2  VfL Bochum  
+ 15:30  1. FC Union Berlin   1:2  VfL Bochum
 [Mo 22.7.]
  20:15  Fortuna Düsseldorf   1:0  Energie Cottbus
 
@@ -78,8 +76,8 @@
 (Sa) 24.08. 13:00  SpVgg Greuther Fürth      0:0  1. FC Köln
 (Sa) 24.08. 13:00  VfR Aalen                 4:0  1. FC Kaiserslautern
 
-(So) 25.08. 13:30  Fortuna Düsseldorf        1:0  VfL Bochum  
-(So) 25.08. 13:30  FSV Frankfurt             1:1  1. FC Union Berlin  
+(So) 25.08. 13:30  Fortuna Düsseldorf        1:0  VfL Bochum
+(So) 25.08. 13:30  FSV Frankfurt             1:1  1. FC Union Berlin
 (So) 25.08. 13:30  SC Paderborn              1:0  TSV 1860 München
 
 (Mo) 26.08. 20:15  FC St. Pauli              2:1  Dynamo Dresden

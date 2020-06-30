@@ -1,21 +1,34 @@
 # Notes
 
-## Deutsche Bundesliga 2014/15  -- no.52
 
-- see de.wikipedia.org/wiki/Fußball-Bundesliga_2014/15
-- start: 2014-08-22
-- 18 Teams
+## 1. Bundeliga
 
-## Deutsche 2. Bundesliga 2014/15   -- no. 41
+```
+# Aufsteiger 1. Bundesliga
+#
+# FC Ingolstadt 04
+# SV Darmstadt 98
+#
+# Relegationsspiele 1. Bundesliga
+#
+# Hamburger SV  1-1    Karlsruher SC
+# Karlsruher SC 1-2 nV Hamburger SV
+```
 
-- see de.wikipedia.org/wiki/2._Fußball-Bundesliga_2014/15 
-- start: 2014-08-01
-- 18 Teams
 
-## DFB Pokal 2014/15       -- no. 72
+## 2. Bundesliga
 
-- see de.wikipedia.org/wiki/DFB-Pokal_2014/15
-- start: 2014-08-15
-- 64 Teams
+```
+# Aufsteiger 2. Bundesliga
+#
+# Arminia Bielefeld
+# MSV Duisburg
+#
+# Relegationsspiele 2. Bundesliga
+#
+# Holstein Kiel    0-0 TSV 1860 München
+# TSV 1860 München 2-1 Holstein Kiel
+```
+
 
 

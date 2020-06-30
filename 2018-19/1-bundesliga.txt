@@ -243,7 +243,6 @@ Spieltag 17
   1899 Hoffenheim         1-1 1. FSV Mainz 05
   FC Augsburg             2-3 VfL Wolfsburg
 
-# Winterpause bis Fr. 18.1.2019
 
 Spieltag 18
 [Fr 18.1.]

@@ -257,7 +257,6 @@ Spieltag 17
   SC Paderborn 07         2-1 Eintracht Frankfurt
 
 
-# Winterpause incl. 17.1.20
 
 
 Spieltag 18
@@ -317,9 +316,7 @@ Spieltag 21
   Hertha BSC              1-3 1. FSV Mainz 05
  [So. 9.2.]
   Bayern München          0-0 RB Leipzig
-#Nachholspiel
- [Mi. 11.3.]
-  Bor. Mönchengladbach    2-1 1. FC Köln
+
 
 
 Spieltag 22
@@ -365,9 +362,8 @@ Spieltag 24
 [So. 1.3.]
   1. FC Union Berlin      2-2 VfL Wolfsburg
   RB Leipzig              1-1 Bayer 04 Leverkusen
-[Mi. 3.6.]
-  Werder Bremen           0-3 Eintracht Frankfurt   # Nachholspiel
-  
+
+
 Spieltag 25
 [Fr. 6.3.]
   SC Paderborn 07         1-2 1. FC Köln
@@ -381,15 +377,19 @@ Spieltag 25
 [So. 8.3.]
   1. FSV Mainz 05         1-1 Fortuna Düsseldorf
   Bayern München          2-0 FC Augsburg
- 
- #Pause wegen Corona
- 
+
+
+Spieltag 21
+[Mi. 11.3.]
+  Bor. Mönchengladbach    2-1 1. FC Köln
+
+
 Spieltag 26
 [Sa. 16.5.]
   Borussia Dortmund       4-0 FC Schalke 04
   RB Leipzig              1-1 SC Freiburg
   TSG Hoffenheim          0-3 Hertha BSC
-  Fortuna Düsseldorf      0-0 SC Paderborn 07  
+  Fortuna Düsseldorf      0-0 SC Paderborn 07
   FC Augsburg             1-2 VfL Wolfsburg
   Eintracht Frankfurt     1-3 Bor. Mönchengladbach
 [So. 17.5.]
@@ -397,7 +397,7 @@ Spieltag 26
   1. FC Union Berlin      0-2 Bayern München
 [Mo. 18.5.]
   Werder Bremen           1-4 Bayer 04 Leverkusen
-  
+
 Spieltag 27
 [Fr. 22.5.]
   Hertha BSC              4-0 1. FC Union Berlin
@@ -407,11 +407,11 @@ Spieltag 27
   SC Freiburg             0-1 Werder Bremen
   SC Paderborn 07         1-1 TSG Hoffenheim
   Bayern München          5-2 Eintracht Frankfurt
-[So. 24.5.]  
+[So. 24.5.]
   FC Schalke 04           0-3 FC Augsburg
   1. FSV Mainz 05         0-5 RB Leipzig
   1. FC Köln              2-2 Fortuna Düsseldorf
-  
+
 Spieltag 28
 [Di. 26.5.]
   Borussia Dortmund       0-1 Bayern München
@@ -424,7 +424,7 @@ Spieltag 28
   Fortuna Düsseldorf      2-1 FC Schalke 04
   FC Augsburg             0-0 SC Paderborn 07
   1. FC Union Berlin      1-1 1. FSV Mainz 05
-    
+
 Spieltag 29
 [Fr. 29.5.]
   SC Freiburg             0-1 Bayer 04 Leverkusen
@@ -439,11 +439,17 @@ Spieltag 29
   SC Paderborn 07         1-6 Borussia Dortmund
 [Mo. 1.6.]
   1. FC Köln              2-4 RB Leipzig
-    
+
+
+Spieltag 24
+[Mi. 3.6.]
+  Werder Bremen           0-3 Eintracht Frankfurt
+
+
 Spieltag 30
 [Fr. 5.6.]
   SC Freiburg             1-0 Bor. Mönchengladbach
-[Sa. 6.6.]  
+[Sa. 6.6.]
   RB Leipzig              1-1 SC Paderborn 07
   Bayer 04 Leverkusen     2-4 Bayern München
   Eintracht Frankfurt     0-2 1. FSV Mainz 05
@@ -453,7 +459,7 @@ Spieltag 30
   Werder Bremen           0-1 VfL Wolfsburg
   1. FC Union Berlin      1-1 FC Schalke 04
   FC Augsburg             1-1 1. FC Köln
-  
+
 Spieltag 31
 [Fr. 12.6.]
   TSG Hoffenheim          0-2 RB Leipzig
@@ -467,11 +473,11 @@ Spieltag 31
 [So. 14.6.]
   1. FSV Mainz 05         0-1 FC Augsburg
   FC Schalke 04           1-1 Bayer 04 Leverkusen
-  
+
 Spieltag 32
 [Di. 16.6.]
   Bor. Mönchengladbach    3-0 VfL Wolfsburg
-  Werder Bremen           0-1 Bayern München   #Bayern Deutscher Meister 2019/2020
+  Werder Bremen           0-1 Bayern München       # Bayern Deutscher Meister 2019/2020
   SC Freiburg             2-1 Hertha BSC
   1. FC Union Berlin      1-0 SC Paderborn 07
 [Mi 17.6.]
@@ -492,7 +498,7 @@ Spieltag 33
   SC Paderborn 07         1-3 Bor. Mönchengladbach
   TSG Hoffenheim          4-0 1. FC Union Berlin
   RB Leipzig              0-2 Borussia Dortmund
- 
+
 Spieltag 34
 [Sa. 27.6.]
   Werder Bremen           6-1 1. FC Köln

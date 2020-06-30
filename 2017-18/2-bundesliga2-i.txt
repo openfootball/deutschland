@@ -274,5 +274,3 @@ Spieltag 18
 [Mo 18.12.]
    FC St. Pauli            2-1  VfL Bochum
 
-
-# Winterpause bis 23.1.18

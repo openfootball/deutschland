@@ -208,24 +208,3 @@ Bayer Leverkusen        2-1  Hertha BSC
   15.30  Bayer Leverkusen      3-2  FC Ingolstadt 04
 
 
-##################################
-#
-# Absteiger in 2. Bundesliga: Hannover 96, 1 oder 2 Plätze offen.
-# Aufsteiger 1. Bundesliga: SC Freiburg, 1 oder 2 Plätze offen.
-#
-#
-# Meister 1. Bundesliga: Bayern München.
-# Absteiger in 2. Bundesliga: VfB Stuttgart, Hannover 96.
-# Aufsteiger in 1. Bundesliga: SC Freiburg, RB Leipzig.
-#
-# Play-Off um 1. Bundesliga-Platz:
-#
-# Eintracht Frankfurt   1-1 1. FC Nürnberg
-# 1. FC Nürnberg        0-1 Eintracht Frankfurt
-#
-# Eintracht Frankfurt bleibt in 1. Bundesliga.
-#
-#
-# 1. Bundesliga 2015/16 ist beendet.
-#
-# 1. Bundesliga beginnt am 26.08.2016.

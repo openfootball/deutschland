@@ -16,7 +16,9 @@
 #   Fortuna Düsseldorf
 #   1. FC Nürnberg
 
-# Sommerpause bis 24.08.18
+
+# Winterpause bis 12.1.18
+# Sommerpause bis 24.8.18
 ```
 
 ## 2. Bundesliga
@@ -38,7 +40,9 @@
 # 2. Absteiger 2. Bundesliga 2017/18:
 #   Eintracht Braunschweig
 
-# Sommerpause bis 07.08.18
+
+# Winterpause bis 23.1.18
+# Sommerpause bis 7.8.18
 ```
 
 ## 3. Liga
@@ -67,5 +71,7 @@
 #  TSV 1860 München
 #  KFC Uerdingen
 
+
+# Winterpause bis 20.1.18
 # Sommerpause bis 27.07.18
 ```

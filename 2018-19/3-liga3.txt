@@ -1,0 +1,648 @@
+= Deutsche 3. Liga 2018/19
+
+
+Spieltag 1
+[Fr 27.7.]
+  Eintracht Braunschweig   1-1  Karlsruher SC
+[Sa 28.7.]
+  FSV Zwickau              2-0  Hallescher FC
+  FC Carl Zeiss Jena       3-2  SG Großaspach
+  1. FC Kaiserslautern     1-0  TSV 1860 München
+  VfL Osnabrück            2-1  Würzburger Kickers
+  Fortuna Köln             1-4  Preußen Münster
+  VfR Aalen                1-2  SV Wehen Wiesbaden
+[So 29.7.]
+  Energie Cottbus          3-0  Hansa Rostock
+  KFC Uerdingen            1-3  SpVgg Unterhaching
+[Mo 30.7.]
+  SF Lotte                 0-0  SV Meppen
+
+
+Spieltag 2
+[Fr 3.8.]
+  Hansa Rostock            2-0  Eintracht Braunschweig
+[Sa 4.8.]
+  TSV 1860 München         5-1  SF Lotte
+  Würzburger Kickers       0-2  KFC Uerdingen
+  SG Großaspach            1-1  1. FC Kaiserslautern
+  Preußen Münster          1-2  FC Carl Zeiss Jena
+  SpVgg Unterhaching       0-0  VfR Aalen
+  Karlsruher SC            1-1  FSV Zwickau
+  Hallescher FC            1-2  Fortuna Köln
+[So 5.8.]
+  SV Wehen Wiesbaden       0-2  Energie Cottbus
+  SV Meppen                0-2  VfL Osnabrück
+
+
+Spieltag 3
+[Di 7.8.]
+  Fortuna Köln             0-1  Karlsruher SC
+  VfR Aalen                3-2  Würzburger Kickers
+  FC Carl Zeiss Jena       0-3  Hallescher FC
+  Eintracht Braunschweig   1-1  FSV Zwickau
+  1. FC Kaiserslautern     1-2  Preußen Münster
+[Mi 8.8.]
+  KFC Uerdingen            3-2  SV Meppen
+  Energie Cottbus          2-2  SpVgg Unterhaching
+  Hansa Rostock            3-2  SV Wehen Wiesbaden
+  SF Lotte                 0-2  SG Großaspach
+  VfL Osnabrück            2-2  TSV 1860 München
+
+
+Spieltag 4
+[Fr 10.8.]
+  Karlsruher SC            1-1  FC Carl Zeiss Jena
+[Sa 11.8.]
+  FSV Zwickau              1-0  Fortuna Köln
+  SG Großaspach            0-0  VfL Osnabrück
+  Hallescher FC            2-0  1. FC Kaiserslautern
+  SV Wehen Wiesbaden       3-3  Eintracht Braunschweig
+  SV Meppen                1-0  VfR Aalen
+  SpVgg Unterhaching       2-1  Hansa Rostock
+[So 12.8.]
+  TSV 1860 München         0-1  KFC Uerdingen
+  Würzburger Kickers       3-1  Energie Cottbus
+[Mo 13.8.]
+  Preußen Münster          1-0  SF Lotte
+
+
+Spieltag 5
+[Fr 24.8.]
+  KFC Uerdingen            0-0  SG Großaspach
+[Sa 25.8.]
+  VfR Aalen                1-4  TSV 1860 München
+  Hansa Rostock            0-4  Würzburger Kickers
+  Energie Cottbus          1-1  SV Meppen
+  SV Wehen Wiesbaden       1-2  SpVgg Unterhaching
+  1. FC Kaiserslautern     0-0  Karlsruher SC
+  VfL Osnabrück            3-0  Preußen Münster
+[So 26.8.]
+  SF Lotte                 0-1  Hallescher FC
+  Eintracht Braunschweig   0-2  Fortuna Köln
+[Mo 27.8.]
+  FC Carl Zeiss Jena       2-1  FSV Zwickau
+
+
+Spieltag 6
+[Fr 31.8.]
+  TSV 1860 München         2-0  Energie Cottbus
+[Sa 1.9.]
+  Preußen Münster          0-1  KFC Uerdingen
+  SpVgg Unterhaching       3-0  Eintracht Braunschweig
+  Hallescher FC            1-1  VfL Osnabrück
+  SV Meppen                1-3  Hansa Rostock
+  Würzburger Kickers       3-1  SV Wehen Wiesbaden
+  Karlsruher SC            1-3  SF Lotte
+[So 2.9.]
+  FSV Zwickau              1-1  1. FC Kaiserslautern
+  Fortuna Köln             2-0  FC Carl Zeiss Jena
+[Mo 3.9.]
+  SG Großaspach            1-1  VfR Aalen
+
+
+Spieltag 7
+[Fr 14.9.]
+  Eintracht Braunschweig   2-0  FC Carl Zeiss Jena
+[Sa 15.9.]
+  Hansa Rostock            2-2  TSV 1860 München
+  Energie Cottbus          0-0  SG Großaspach
+  VfR Aalen                4-1  Preußen Münster
+  VfL Osnabrück            0-1  Karlsruher SC
+  KFC Uerdingen            2-1  Hallescher FC
+  SV Wehen Wiesbaden       3-0  SV Meppen
+[So 16.9.]
+  SF Lotte                 2-1  FSV Zwickau
+  SpVgg Unterhaching       0-1  Würzburger Kickers
+[Mo 17.9.]
+  1. FC Kaiserslautern     3-3  Fortuna Köln
+
+
+Spieltag 8
+[Fr 21.9.]
+  Preußen Münster          3-0  Energie Cottbus
+[Sa 22.9.]
+  TSV 1860 München         1-2  SV Wehen Wiesbaden
+  FC Carl Zeiss Jena       3-3  1. FC Kaiserslautern
+  Würzburger Kickers       1-1  Eintracht Braunschweig
+  SG Großaspach            0-0  Hansa Rostock
+  SV Meppen                3-3  SpVgg Unterhaching
+  Karlsruher SC            2-0  KFC Uerdingen
+  Fortuna Köln             1-1  SF Lotte
+[So 23.9.]
+  FSV Zwickau              0-1  VfL Osnabrück
+  Hallescher FC            1-0  VfR Aalen
+
+
+Spieltag 9
+[Di 25.9.]
+  SF Lotte                 2-0  FC Carl Zeiss Jena
+  Würzburger Kickers       2-1  SV Meppen
+  Eintracht Braunschweig   1-4  1. FC Kaiserslautern
+  SV Wehen Wiesbaden       2-0  SG Großaspach
+  Hansa Rostock            1-4  Preußen Münster
+[Mi 26.9.]
+  VfL Osnabrück            1-0  Fortuna Köln
+  SpVgg Unterhaching       1-1  TSV 1860 München
+  KFC Uerdingen            1-2  FSV Zwickau
+  VfR Aalen                1-3  Karlsruher SC
+
+
+Spieltag 10
+[Fr 28.9.]
+  Preußen Münster          3-0  SV Wehen Wiesbaden
+[Sa 29.9.]
+  Fortuna Köln             1-2  KFC Uerdingen
+  SG Großaspach            1-1  SpVgg Unterhaching
+  SV Meppen                4-2  Eintracht Braunschweig
+  1. FC Kaiserslautern     2-1  SF Lotte
+  Karlsruher SC            2-0  Energie Cottbus
+[So 30.9.]
+  FC Carl Zeiss Jena       0-0  VfL Osnabrück
+  FSV Zwickau              2-3  VfR Aalen
+[Mo 1.10.]
+  TSV 1860 München         1-1  Würzburger Kickers
+
+
+Spieltag 11
+[Fr 5.10.]
+  Hansa Rostock            1-0  Karlsruher SC
+[Sa 6.10.]
+  KFC Uerdingen            2-1  FC Carl Zeiss Jena
+  SpVgg Unterhaching       1-1  Preußen Münster
+  VfR Aalen                0-1  Fortuna Köln
+  VfL Osnabrück            2-0  1. FC Kaiserslautern
+  Energie Cottbus          2-1  FSV Zwickau
+  Eintracht Braunschweig   2-2  SF Lotte
+[So 7.10.]
+  SV Meppen                1-0  TSV 1860 München
+  SV Wehen Wiesbaden       2-0  Hallescher FC
+[Mo 8.10.]
+  Würzburger Kickers       0-0  SG Großaspach
+
+
+Spieltag 9
+[Mi 10.10.]
+  Energie Cottbus          1-2  Hallescher FC
+
+
+Spieltag 10
+[Di 16.10.]
+  Hallescher FC            0-1  Hansa Rostock
+
+
+Spieltag 12
+[Fr 19.10.]
+  FC Carl Zeiss Jena       0-0  VfR Aalen
+[Sa 20.10.]
+  Fortuna Köln             3-1  Energie Cottbus
+  SG Großaspach            1-0  SV Meppen
+  1. FC Kaiserslautern     2-0  KFC Uerdingen
+  Hallescher FC            1-1  SpVgg Unterhaching
+  TSV 1860 München         2-0  Eintracht Braunschweig
+  SF Lotte                 0-0  VfL Osnabrück
+[So 21.10.]
+  FSV Zwickau              2-2  Hansa Rostock
+  Karlsruher SC            2-5  SV Wehen Wiesbaden
+  Preußen Münster          1-0  Würzburger Kickers
+
+
+Spieltag 13
+[Fr 26.10.]
+  Eintracht Braunschweig   3-4  VfL Osnabrück
+[Sa 27.10.]
+  Würzburger Kickers       1-2  Hallescher FC
+  Energie Cottbus          2-1  FC Carl Zeiss Jena
+  SV Wehen Wiesbaden       0-0  FSV Zwickau
+  Hansa Rostock            3-1  Fortuna Köln
+  SpVgg Unterhaching       0-0  Karlsruher SC
+  KFC Uerdingen            0-2  SF Lotte
+[So 28.10.]
+  TSV 1860 München         2-2  SG Großaspach
+  SV Meppen                1-2  Preußen Münster
+[Mo 29.10.]
+  VfR Aalen                1-2  1. FC Kaiserslautern
+
+
+Spieltag 14
+[Fr 2.11.]
+  1. FC Kaiserslautern     0-2  Energie Cottbus
+[Sa 3.11.]
+  SF Lotte                 1-1  VfR Aalen
+  Preußen Münster          0-0  TSV 1860 München
+  FC Carl Zeiss Jena       1-1  Hansa Rostock
+  FSV Zwickau              2-2  SpVgg Unterhaching
+  SG Großaspach            1-1  Eintracht Braunschweig
+  Karlsruher SC            2-1  Würzburger Kickers
+[So 4.11.]
+  Hallescher FC            2-1  SV Meppen
+  Fortuna Köln             0-7  SV Wehen Wiesbaden
+[Mo 5.11.]
+  VfL Osnabrück            2-1  KFC Uerdingen
+
+
+Spieltag 15
+[Fr 9.11.]
+  Würzburger Kickers       0-2  FSV Zwickau
+[Sa 10.11.]
+  SV Meppen                2-3  Karlsruher SC
+  Hansa Rostock            4-1  1. FC Kaiserslautern
+  Eintracht Braunschweig   0-2  KFC Uerdingen
+  VfR Aalen                1-1  VfL Osnabrück
+  TSV 1860 München         1-1  Hallescher FC
+  Energie Cottbus          2-2  SF Lotte
+[So 11.11.]
+  SpVgg Unterhaching       6-0  Fortuna Köln
+  SG Großaspach            3-1  Preußen Münster
+[Mo 12.11.]
+  SV Wehen Wiesbaden       2-3  FC Carl Zeiss Jena
+
+
+Spieltag 16
+[Fr 23.11.]
+  SF Lotte                 1-0  Hansa Rostock
+[Sa 24.11.]
+  KFC Uerdingen            2-0  VfR Aalen
+  FC Carl Zeiss Jena       4-5  SpVgg Unterhaching
+  VfL Osnabrück            3-1  Energie Cottbus
+  FSV Zwickau              1-1  SV Meppen
+  Fortuna Köln             0-0  Würzburger Kickers
+  Hallescher FC            2-0  SG Großaspach
+[So 25.11.]
+  Karlsruher SC            3-2  TSV 1860 München
+  1. FC Kaiserslautern     0-0  SV Wehen Wiesbaden
+[Mo 26.11.]
+  Preußen Münster          3-0  Eintracht Braunschweig
+
+
+Spieltag 17
+[Fr 30.11.]
+  SpVgg Unterhaching       5-0  1. FC Kaiserslautern
+[Sa 1.12.]
+  TSV 1860 München         2-0  FSV Zwickau
+  Energie Cottbus          0-2  KFC Uerdingen
+  Preußen Münster          1-2  Hallescher FC
+  Eintracht Braunschweig   2-2  VfR Aalen
+  SV Wehen Wiesbaden       2-0  SF Lotte
+  Würzburger Kickers       5-2  FC Carl Zeiss Jena
+[So 2.12.]
+  SV Meppen                3-0  Fortuna Köln
+  SG Großaspach            1-2  Karlsruher SC
+[Mo 3.12.]
+  Hansa Rostock            1-1  VfL Osnabrück
+
+
+Spieltag 18
+[Fr 7.12.]
+  FC Carl Zeiss Jena       1-2  SV Meppen
+[Sa 8.12.]
+  VfL Osnabrück            2-1  SV Wehen Wiesbaden
+  Eintracht Braunschweig   0-1  Hallescher FC
+  KFC Uerdingen            2-1  Hansa Rostock
+  Fortuna Köln             0-0  TSV 1860 München
+  1. FC Kaiserslautern     0-0  Würzburger Kickers
+  Karlsruher SC            5-0  Preußen Münster
+[So 9.12.]
+  SF Lotte                 0-0  SpVgg Unterhaching
+  VfR Aalen                3-3  Energie Cottbus
+[Mo 10.12.]
+  FSV Zwickau              3-0  SG Großaspach
+
+
+Spieltag 19
+[Fr 14.12.]
+  SG Großaspach            1-1  Fortuna Köln
+[Sa 15.12.]
+  Preußen Münster          0-2  FSV Zwickau
+  Hansa Rostock            1-1  VfR Aalen
+  Energie Cottbus          0-1  Eintracht Braunschweig
+  Hallescher FC            0-3  Karlsruher SC
+  SpVgg Unterhaching       1-1  VfL Osnabrück
+  SV Meppen                0-1  1. FC Kaiserslautern
+[So 16.12.]
+  TSV 1860 München         1-3  FC Carl Zeiss Jena
+  Würzburger Kickers       2-2  SF Lotte
+[Mo 17.12.]
+  SV Wehen Wiesbaden       0-2  KFC Uerdingen
+
+
+Spieltag 20
+[Fr 21.12.]
+  SV Wehen Wiesbaden       2-1  VfR Aalen
+[Sa 22.12.]
+  Hansa Rostock            0-2  Energie Cottbus
+  Hallescher FC            2-0  FSV Zwickau
+  TSV 1860 München         2-1  1. FC Kaiserslautern
+  Würzburger Kickers       1-2  VfL Osnabrück
+  SV Meppen                2-0  SF Lotte
+  Karlsruher SC            1-1  Eintracht Braunschweig
+  Preußen Münster          0-2  Fortuna Köln
+[So 23.12.]
+  SpVgg Unterhaching       4-0  KFC Uerdingen
+  SG Großaspach            0-0  FC Carl Zeiss Jena
+
+
+Spieltag 21
+[Fr 25.1.]
+  SF Lotte                 1-1  TSV 1860 München
+[Sa 26.1.]
+  Energie Cottbus          2-3  SV Wehen Wiesbaden
+  Fortuna Köln             0-1  Hallescher FC
+  VfL Osnabrück            1-0  SV Meppen
+  1. FC Kaiserslautern     2-0  SG Großaspach
+  FC Carl Zeiss Jena       0-0  Preußen Münster
+[So 27.1.]
+  Eintracht Braunschweig   2-0  Hansa Rostock
+  KFC Uerdingen            0-3  Würzburger Kickers
+
+
+Spieltag 22
+[Fr 1.2.]
+  Preußen Münster          2-0  1. FC Kaiserslautern
+[Sa 2.2.]
+  SV Meppen                3-2  KFC Uerdingen
+  TSV 1860 München         1-2  VfL Osnabrück
+  Würzburger Kickers       2-1  VfR Aalen
+  SG Großaspach            0-1  SF Lotte
+  Karlsruher SC            3-1  Fortuna Köln
+  Hallescher FC            0-0  FC Carl Zeiss Jena
+[So 3.2.]
+  SV Wehen Wiesbaden       2-0  Hansa Rostock
+[Mo 4.2.]
+  FSV Zwickau              0-1  Eintracht Braunschweig
+
+
+Spieltag 23
+[Fr 8.2.]
+  VfL Osnabrück            0-2  SG Großaspach
+[Sa 9.2.]
+  Hansa Rostock            2-0  SpVgg Unterhaching
+  KFC Uerdingen            1-1  TSV 1860 München
+  FC Carl Zeiss Jena       1-1  Karlsruher SC
+  1. FC Kaiserslautern     0-0  Hallescher FC
+  Energie Cottbus          1-2  Würzburger Kickers
+  Fortuna Köln             1-0  FSV Zwickau
+[So 10.2.]
+  VfR Aalen                1-2  SV Meppen
+  Eintracht Braunschweig   2-3  SV Wehen Wiesbaden
+[Mo 11.2.]
+  SF Lotte                 1-0  Preußen Münster
+
+
+Spieltag 21
+[Di 12.2.]
+  FSV Zwickau              1-1  Karlsruher SC
+
+
+Spieltag 24
+[Fr 15.2.]
+  SpVgg Unterhaching       1-2  SV Wehen Wiesbaden
+[Sa 16.2.]
+  SV Meppen                3-0  Energie Cottbus
+  Fortuna Köln             1-3  Eintracht Braunschweig
+  Preußen Münster          0-0  VfL Osnabrück
+  Hallescher FC            0-0  SF Lotte
+  Karlsruher SC            0-1  1. FC Kaiserslautern
+  SG Großaspach            3-2  KFC Uerdingen
+[So 17.2.]
+  Würzburger Kickers       0-2  Hansa Rostock
+  FSV Zwickau              2-0  FC Carl Zeiss Jena
+[Mo 18.2.]
+  TSV 1860 München         2-1  VfR Aalen
+
+
+Spieltag 25
+[Fr 22.2.]
+  VfR Aalen                1-1  SG Großaspach
+[Sa 23.2.]
+  VfL Osnabrück            2-0  Hallescher FC
+  FC Carl Zeiss Jena       0-1  Fortuna Köln
+  Hansa Rostock            0-2  SV Meppen
+  Energie Cottbus          1-2  TSV 1860 München
+  SF Lotte                 0-0  Karlsruher SC
+  Eintracht Braunschweig   1-0  SpVgg Unterhaching
+[So 24.2.]
+  1. FC Kaiserslautern     1-1  FSV Zwickau
+  SV Wehen Wiesbaden       0-2  Würzburger Kickers
+[Mo 25.2.]
+  KFC Uerdingen            0-0  Preußen Münster
+
+
+Spieltag 21
+[Mi 27.2.]
+  VfR Aalen                4-1  SpVgg Unterhaching
+
+
+Spieltag 26
+[Fr 1.3.]
+  Hallescher FC            4-0  KFC Uerdingen
+[Sa 2.3.]
+  FSV Zwickau              0-2  SF Lotte
+  SG Großaspach            0-0  Energie Cottbus
+  Karlsruher SC            2-1  VfL Osnabrück
+  SV Meppen                1-1  SV Wehen Wiesbaden
+  Preußen Münster          4-0  VfR Aalen
+  Fortuna Köln             2-2  1. FC Kaiserslautern
+[So 3.3.]
+  TSV 1860 München         1-2  Hansa Rostock
+  FC Carl Zeiss Jena       0-0  Eintracht Braunschweig
+[Mo 4.3.]
+  Würzburger Kickers       0-1  SpVgg Unterhaching
+
+
+Spieltag 27
+[Fr 8.3.]
+  KFC Uerdingen            1-3  Karlsruher SC
+[Sa 9.3.]
+  Energie Cottbus          3-0  Preußen Münster
+  Eintracht Braunschweig   2-2  Würzburger Kickers
+  VfL Osnabrück            3-0  FSV Zwickau
+  SpVgg Unterhaching       0-1  SV Meppen
+  SV Wehen Wiesbaden       0-1  TSV 1860 München
+  SF Lotte                 1-2  Fortuna Köln
+  Hansa Rostock            0-0  SG Großaspach
+[So 10.3.]
+  1. FC Kaiserslautern     4-1  FC Carl Zeiss Jena
+  VfR Aalen                0-1  Hallescher FC
+
+
+Spieltag 28
+[Di 12.3.]
+  Preußen Münster          0-1  Hansa Rostock
+  Fortuna Köln             0-0  VfL Osnabrück
+  TSV 1860 München         1-0  SpVgg Unterhaching
+  FSV Zwickau              2-0  KFC Uerdingen
+  SV Meppen                1-1  Würzburger Kickers
+[Mi 13.3.]
+  1. FC Kaiserslautern     0-0  Eintracht Braunschweig
+  Karlsruher SC            0-3  VfR Aalen
+  SG Großaspach            2-3  SV Wehen Wiesbaden
+  Hallescher FC            2-3  Energie Cottbus
+  FC Carl Zeiss Jena       1-1  SF Lotte
+
+
+Spieltag 29
+[Fr 15.3.]
+  KFC Uerdingen            1-1  Fortuna Köln
+[Sa 16.3.]
+  SF Lotte                 0-2  1. FC Kaiserslautern
+  SpVgg Unterhaching       0-0  SG Großaspach
+  VfL Osnabrück            3-1  FC Carl Zeiss Jena
+  SV Wehen Wiesbaden       2-0  Preußen Münster
+  Würzburger Kickers       2-1  TSV 1860 München
+  VfR Aalen                1-1  FSV Zwickau
+[So 17.3.]
+  Energie Cottbus          0-2  Karlsruher SC
+  Eintracht Braunschweig   3-0  SV Meppen
+[Mo 18.3.]
+  Hansa Rostock            1-1  Hallescher FC
+
+
+Spieltag 22
+[Mi 20.3.]
+  SpVgg Unterhaching       0-0  Energie Cottbus
+
+
+Spieltag 30
+[Fr 22.3.]
+  Fortuna Köln             1-1  VfR Aalen
+[Sa 23.3.]
+  FC Carl Zeiss Jena       0-0  KFC Uerdingen
+  Hallescher FC            1-4  SV Wehen Wiesbaden
+  Preußen Münster          3-0  SpVgg Unterhaching
+  TSV 1860 München         1-0  SV Meppen
+  SG Großaspach            2-1  Würzburger Kickers
+  Karlsruher SC            1-1  Hansa Rostock
+[So 24.3.]
+  1. FC Kaiserslautern     1-3  VfL Osnabrück
+  SF Lotte                 0-1  Eintracht Braunschweig
+[Mo 25.3.]
+  FSV Zwickau              2-1  Energie Cottbus
+
+
+Spieltag 31
+[Fr 29.3.]
+  KFC Uerdingen            2-4  1. FC Kaiserslautern
+[Sa 30.3.]
+  SV Meppen                2-1  SG Großaspach
+  Energie Cottbus          4-3  Fortuna Köln
+  SpVgg Unterhaching       0-0  Hallescher FC
+  Eintracht Braunschweig   1-1  TSV 1860 München
+  Hansa Rostock            3-1  FSV Zwickau
+  Würzburger Kickers       3-2  Preußen Münster
+[So 31.3.]
+  VfR Aalen                1-1  FC Carl Zeiss Jena
+  SV Wehen Wiesbaden       2-0  Karlsruher SC
+[Mo 1.4.]
+  VfL Osnabrück            1-0  SF Lotte
+
+
+Spieltag 32
+[Fr 5.4.]
+  Preußen Münster          1-1  SV Meppen
+[Sa 6.4.]
+  Hallescher FC            1-0  Würzburger Kickers
+  FSV Zwickau              2-1  SV Wehen Wiesbaden
+  Karlsruher SC            4-0  SpVgg Unterhaching
+  FC Carl Zeiss Jena       2-1  Energie Cottbus
+  1. FC Kaiserslautern     0-1  VfR Aalen
+  SF Lotte                 1-3  KFC Uerdingen
+[So 7.4.]
+  Fortuna Köln             1-1  Hansa Rostock
+  VfL Osnabrück            1-0  Eintracht Braunschweig
+[Mo 8.4.]
+  SG Großaspach            1-0  TSV 1860 München
+
+
+Spieltag 33
+[Fr 12.4.]
+  SV Meppen                0-2  Hallescher FC
+[Sa 13.4.]
+  SV Wehen Wiesbaden       3-0  Fortuna Köln
+  Eintracht Braunschweig   1-1  SG Großaspach
+  Energie Cottbus          1-1  1. FC Kaiserslautern
+  Hansa Rostock            1-2  FC Carl Zeiss Jena
+  TSV 1860 München         0-1  Preußen Münster
+  VfR Aalen                1-2  SF Lotte
+[So 14.4.]
+  SpVgg Unterhaching       0-1  FSV Zwickau
+  KFC Uerdingen            1-3  VfL Osnabrück
+[Mo 15.4.]
+  Würzburger Kickers       0-0  Karlsruher SC
+
+
+Spieltag 34
+[Sa 20.4.]
+  VfL Osnabrück            2-0  VfR Aalen
+  FSV Zwickau              2-0  Würzburger Kickers
+  Hallescher FC            3-0  TSV 1860 München
+  Preußen Münster          1-0  SG Großaspach
+  Karlsruher SC            3-1  SV Meppen
+  Fortuna Köln             1-1  SpVgg Unterhaching
+  FC Carl Zeiss Jena       3-1  SV Wehen Wiesbaden
+[So 21.4.]
+  1. FC Kaiserslautern     0-2  Hansa Rostock
+  SF Lotte                 0-3  Energie Cottbus
+[Mo 22.4.]
+  KFC Uerdingen            0-3  Eintracht Braunschweig
+
+
+Spieltag 35
+[Fr 26.4.]
+  SG Großaspach            1-1  Hallescher FC
+[Sa 27.4.]
+  TSV 1860 München         0-2  Karlsruher SC
+  Energie Cottbus          1-2  VfL Osnabrück
+  Hansa Rostock            0-0  SF Lotte
+  SV Meppen                2-0  FSV Zwickau
+  Würzburger Kickers       2-0  Fortuna Köln
+  VfR Aalen                2-4  KFC Uerdingen
+[So 28.4.]
+  SpVgg Unterhaching       0-1  FC Carl Zeiss Jena
+  Eintracht Braunschweig   3-3  Preußen Münster
+[Mo 29.4.]
+  SV Wehen Wiesbaden       2-0  1. FC Kaiserslautern
+
+
+Spieltag 36
+[Fr 3.5.]
+  VfL Osnabrück            1-2  Hansa Rostock
+[Sa 4.5.]
+  FC Carl Zeiss Jena       3-4  Würzburger Kickers
+  SF Lotte                 0-1  SV Wehen Wiesbaden
+  Hallescher FC            1-2  Preußen Münster
+  FSV Zwickau              5-2  TSV 1860 München
+  1. FC Kaiserslautern     4-0  SpVgg Unterhaching
+  Karlsruher SC            2-1  SG Großaspach
+[So 5.5.]
+  KFC Uerdingen            1-2  Energie Cottbus
+  VfR Aalen                1-3  Eintracht Braunschweig
+[Mo 6.5.]
+  Fortuna Köln             1-1  SV Meppen
+
+
+Spieltag 37
+[Sa 11.5.]
+  Preußen Münster          1-4  Karlsruher SC
+  SG Großaspach            5-2  FSV Zwickau
+  SV Wehen Wiesbaden       1-0  VfL Osnabrück
+  SpVgg Unterhaching       3-0  SF Lotte
+  Energie Cottbus          2-1  VfR Aalen
+  Würzburger Kickers       2-0  1. FC Kaiserslautern
+  Hansa Rostock            1-1  KFC Uerdingen
+  TSV 1860 München         3-2  Fortuna Köln
+  SV Meppen                0-1  FC Carl Zeiss Jena
+  Hallescher FC            1-0  Eintracht Braunschweig
+
+
+Spieltag 38
+[Sa 18.5.]
+  VfR Aalen                1-1  Hansa Rostock
+  Eintracht Braunschweig   1-1  Energie Cottbus
+  Fortuna Köln             0-2  SG Großaspach
+  Karlsruher SC            2-3  Hallescher FC
+  VfL Osnabrück            1-4  SpVgg Unterhaching
+  SF Lotte                 1-2  Würzburger Kickers
+  KFC Uerdingen            2-3  SV Wehen Wiesbaden
+  FC Carl Zeiss Jena       4-0  TSV 1860 München
+  FSV Zwickau              2-0  Preußen Münster
+  1. FC Kaiserslautern     4-2  SV Meppen

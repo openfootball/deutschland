@@ -1,271 +1,232 @@
-= Deutsche 2. Bundesliga 2013/14        ## Rückrunde
-
-
-18. Spieltag
- 
-13.12.2013 18:30 (Fr)  VfR Aalen              0:0  SV Sandhausen
-13.12.2013 18:30 (Fr)  1. FC Kaiserslautern   0:1  SC Paderborn 07
-13.12.2013 18:30 (Fr)  1. FC Köln             3:1  Dynamo Dresden
-
-14.12.2013 13:00 (Sa)  Energie Cottbus        1:3  Fortuna Düsseldorf
-14.12.2013 13:00 (Sa)  VfL Bochum             0:4  1. FC Union Berlin
-
-15.12.2013 13:30 (So)  Arminia Bielefeld      4:1  SpVgg Greuther Fürth
-15.12.2013 13:30 (So)  Karlsruher SC          3:3  FSV Frankfurt
-15.12.2013 13:30 (So)  Erzgebirge Aue         0:0  FC Ingolstadt 04
-
-16.12.2013 20:15 (Mo)  TSV 1860 München       0:2  FC St. Pauli
-
-
-
-19. Spieltag
-
-20.12.2013 18:30 (Fr)  Dynamo Dresden         0:0  VfL Bochum
-20.12.2013 18:30 (Fr)  SV Sandhausen          1:0  Erzgebirge Aue
-20.12.2013 18:30 (Fr)  FC St. Pauli           0:2  Karlsruher SC
-
-21.12.2013 13:00 (Sa)  FSV Frankfurt          2:2  TSV 1860 München
-21.12.2013 13:00 (Sa)  1. FC Union Berlin     4:2  Arminia Bielefeld
-
-22.12.2013 13:30 (So)  SC Paderborn 07        1:0  Energie Cottbus
-22.12.2013 13:30 (So)  SpVgg Greuther Fürth   1:0  VfR Aalen
-22.12.2013 14:00 (So)  Fortuna Düsseldorf     2:3  1. FC Köln
-
-23.12.2013 20:15 (Mo)  FC Ingolstadt 04       1:2  1. FC Kaiserslautern
-
-
-20. Spieltag
-
-07.02.2014 18:30 (Fr)  VfL Bochum             1:2  FSV Frankfurt  
-07.02.2014 18:30 (Fr)  Energie Cottbus        0:1  SV Sandhausen 
-07.02.2014 18:30 (Fr)  VfR Aalen              2:2  Erzgebirge Aue  
-
-08.02.2014 13:00 (Sa)  1. FC Kaiserslautern   2:1  SpVgg Greuther Fürth  
-08.02.2014 13:00 (Sa)  1. FC Union Berlin     0:0  Dynamo Dresden  
-
-09.02.2014 13:30 (So)  Arminia Bielefeld      2:2  FC St. Pauli  
-09.02.2014 13:30 (So)  1. FC Köln             0:1  SC Paderborn 07  
-09.02.2014 13:30 (So)  Karlsruher SC          1:1  FC Ingolstadt 04  
-
-10.02.2014 20:15 (Mo)  TSV 1860 München       1:1  Fortuna Düsseldorf  
-
-
-
-21. Spieltag
-
-14.02.2014 18:30 (Fr)  FC Ingolstadt 04       2:0  TSV 1860 München  
-14.02.2014 18:30 (Fr)  Fortuna Düsseldorf     1:1  1. FC Union Berlin  
-14.02.2014 18:30 (Fr)  SpVgg Greuther Fürth   1:1  Karlsruher SC  
-
-15.02.2014 13:00 (Sa)  FC St. Pauli           0:1  VfL Bochum  
-15.02.2014 13:00 (Sa)  FSV Frankfurt          3:2  Dynamo Dresden  
-
-16.02.2014 13:30 (So)  SV Sandhausen          0:1  1. FC Köln  
-16.02.2014 13:30 (So)  VfR Aalen              2:2  Energie Cottbus  
-16.02.2014 13:30 (So)  SC Paderborn 07        4:0  Arminia Bielefeld  
-
-17.02.2014 20:15 (Mo)  Erzgebirge Aue         1:0  1. FC Kaiserslautern  
-
-
-
-22. Spieltag
-
-21.02.2014 18:30 (Fr)  1. FC Union Berlin     2:0  FSV Frankfurt  
-21.02.2014 18:30 (Fr)  Arminia Bielefeld      0:2  FC Ingolstadt 04  
-21.02.2014 18:30 (Fr)  Energie Cottbus        2:3  Erzgebirge Aue  
-
-22.02.2014 13:00 (Sa)  Karlsruher SC          2:1  SV Sandhausen  
-22.02.2014 13:00 (Sa)  TSV 1860 München       2:2  SC Paderborn 07  
-
-23.02.2014 13:30 (So)  VfL Bochum             0:0  Fortuna Düsseldorf 
-23.02.2014 13:30 (So)  1. FC Kaiserslautern   1:2  VfR Aalen  
-23.02.2014 13:30 (So)  Dynamo Dresden         1:2  FC St. Pauli  
-
-24.02.2014 20:15 (Mo)  1. FC Köln             1:1  SpVgg Greuther Fürth  
-
-
-23. Spieltag
-
-28.02.2014 18:30 (Fr)  Energie Cottbus        1:0  1. FC Kaiserslautern  
-28.02.2014 18:30 (Fr)  SC Paderborn 07        4:1  VfL Bochum  
-28.02.2014 18:30 (Fr)  Fortuna Düsseldorf     2:0  Arminia Bielefeld  
-
-01.03.2014 13:00 (Sa)  Erzgebirge Aue         2:2  1. FC Köln  
-01.03.2014 13:00 (Sa)  SV Sandhausen          0:0  TSV 1860 München  
-
-02.03.2014 13:30 (So)  SpVgg Greuther Fürth   3:2  FSV Frankfurt  
-02.03.2014 13:30 (So)  FC Ingolstadt 04       1:1  Dynamo Dresden  
-02.03.2014 13:30 (So)  VfR Aalen              1:0  Karlsruher SC  
-
-03.03.2014 20:15 (Mo)  FC St. Pauli           2:1  1. FC Union Berlin 
-
-
-
-24. Spieltag
-
-07.03.2014 18:30 (Fr)  TSV 1860 München       4:0  VfR Aalen  
-07.03.2014 18:30 (Fr)  1. FC Kaiserslautern   2:1  SV Sandhausen 
-07.03.2014 20:30 (Fr)  1. FC Köln             2:1  Energie Cottbus  
-
-08.03.2014 13:00 (Sa)  1. FC Union Berlin     1:1  FC Ingolstadt 04  
-08.03.2014 13:00 (Sa)  Arminia Bielefeld      1:0  Erzgebirge Aue  
-
-09.03.2014 13:30 (So)  Dynamo Dresden         1:1  Fortuna Düsseldorf  
-09.03.2014 13:30 (So)  FSV Frankfurt          1:0  FC St. Pauli  
-09.03.2014 13:30 (So)  Karlsruher SC          4:0  SC Paderborn 07  
-
-10.03.2014 20:15 (Mo)  VfL Bochum             0:2  SpVgg Greuther Fürth  
-
-
-25. Spieltag
- 
-14.03.2014 18:30 (Fr)  FC Ingolstadt 04       0:1  FSV Frankfurt  
-14.03.2014 18:30 (Fr)  VfR Aalen              0:2  VfL Bochum  
-14.03.2014 18:30 (Fr)  SC Paderborn 07        2:1  Dynamo Dresden  
-
-15.03.2014 13:00 (Sa)  Erzgebirge Aue         2:2  TSV 1860 München
-15.03.2014 13:00 (Sa)  Energie Cottbus        1:0  Karlsruher SC  
-
-16.03.2014 13:30 (So)  SpVgg Greuther Fürth   1:1  1. FC Union Berlin  
-16.03.2014 13:30 (So)  Fortuna Düsseldorf     0:2  FC St. Pauli  
-16.03.2014 13:30 (So)  SV Sandhausen          1:0  Arminia Bielefeld  
-
-17.03.2014 20:15 (Mo)  1. FC Kaiserslautern   0:0  1. FC Köln 
-
-
-26. Spieltag
- 
-21.03.2014 18:30 (Fr)  Dynamo Dresden         1:1  SpVgg Greuther Fürth  
-21.03.2014 18:30 (Fr)  VfL Bochum             0:1  SV Sandhausen  
-21.03.2014 18:30 (Fr)  1. FC Union Berlin     1:1  SC Paderborn 07  
-
-22.03.2014 13:00 (Sa)  FSV Frankfurt          0:0  Fortuna Düsseldorf  
-22.03.2014 13:00 (Sa)  1. FC Köln             0:0  VfR Aalen  
-22.03.2014 13:00 (Sa)  FC St. Pauli           0:0  FC Ingolstadt 04  
-
-23.03.2014 13:30 (So)  TSV 1860 München       0:1  1. FC Kaiserslautern  
-23.03.2014 13:30 (So)  Arminia Bielefeld      1:3  Energie Cottbus  
-23.03.2014 13:30 (So)  Karlsruher SC          1:1  Erzgebirge Aue  
-
-
-
-27. Spieltag
- 
-25.03.2014 17:30 (Di)  SpVgg Greuther Fürth   4:1  Fortuna Düsseldorf
-25.03.2014 17:30 (Di)  SV Sandhausen          2:1  1. FC Union Berlin
-25.03.2014 17:30 (Di)  SC Paderborn 07        3:0  FC St. Pauli
-25.03.2014 17:30 (Di)  FC Ingolstadt 04       3:0  VfL Bochum
-25.03.2014 17:30 (Di)  VfR Aalen              1:1  Dynamo Dresden
-
-26.03.2014 17:30 (Mi)  Erzgebirge Aue         2:1  FSV Frankfurt
-26.03.2014 17:30 (Mi)  Energie Cottbus        1:2  TSV 1860 München
-26.03.2014 17:30 (Mi)  1. FC Köln             2:0  Karlsruher SC
-26.03.2014 17:30 (Mi)  1. FC Kaiserslautern   1:1  Arminia Bielefeld
-
-
-28. Spieltag
- 
-28.03.2014 18:30 (Fr)  FC St. Pauli           2:2  SpVgg Greuther Fürth
-28.03.2014 18:30 (Fr)  Dynamo Dresden         0:0  SV Sandhausen
-28.03.2014 18:30 (Fr)  Fortuna Düsseldorf     0:0  FC Ingolstadt 04
-
-29.03.2014 13:00 (Sa)  Karlsruher SC          2:2  1. FC Kaiserslautern
-29.03.2014 13:00 (Sa)  VfL Bochum             1:0  Erzgebirge Aue
-
-30.03.2014 13:30 (So)  TSV 1860 München       0:1  1. FC Köln
-30.03.2014 13:30 (So)  Arminia Bielefeld      0:0  VfR Aalen
-30.03.2014 13:30 (So)  FSV Frankfurt          1:3  SC Paderborn 07
-
-31.03.2014 20:15 (Mo)  1. FC Union Berlin     2:0  Energie Cottbus
-
-
-
-29. Spieltag
- 
-04.04.2014 18:30 (Fr)  SC Paderborn 07        1:2  Fortuna Düsseldorf
-04.04.2014 18:30 (Fr)  VfR Aalen              2:1  FSV Frankfurt
-04.04.2014 18:30 (Fr)  Energie Cottbus        0:0  Dynamo Dresden
-
-05.04.2014 13:00 (Sa)  SV Sandhausen          2:3  FC St. Pauli
-05.04.2014 13:00 (Sa)  1. FC Köln             2:0  Arminia Bielefeld
-
-06.04.2014 13:30 (So)  Erzgebirge Aue         3:2  1. FC Union Berlin
-06.04.2014 13:30 (So)  1. FC Kaiserslautern   1:1  VfL Bochum
-06.04.2014 13:30 (So)  TSV 1860 München       0:3  Karlsruher SC
-
-07.04.2014 20:15 (Mo)  FC Ingolstadt 04       0:0  SpVgg Greuther Fürth
-
-
-30. Spieltag
- 
-11.04.2014 18:30 (Fr)  FC St. Pauli           2:3  1. FC Kaiserslautern
-11.04.2014 18:30 (Fr)  1. FC Union Berlin     1:2  1. FC Köln
-11.04.2014 18:30 (Fr)  FC Ingolstadt 04       1:2  SC Paderborn 07
-
-12.04.2014 13:00 (Sa)  SpVgg Greuther Fürth   2:1  Erzgebirge Aue
-12.04.2014 13:00 (Sa)  Arminia Bielefeld      0:0  Karlsruher SC
-
-13.04.2014 13:30 (So)  VfL Bochum             2:1  Energie Cottbus
-13.04.2014 13:30 (So)  Fortuna Düsseldorf     3:1  VfR Aalen
-13.04.2014 13:30 (So)  FSV Frankfurt          0:3  SV Sandhausen
-
-14.04.2014 20:15 (Mo)  Dynamo Dresden         4:2  TSV 1860 München
-
-
-31. Spieltag
- 
-17.04.2014 18:30 (Do)  SV Sandhausen          0:3  Fortuna Düsseldorf
-17.04.2014 18:30 (Do)  Energie Cottbus        1:1  FC St. Pauli
-17.04.2014 18:30 (Do)  Erzgebirge Aue         2:0  Dynamo Dresden
-
-19.04.2014 13:00 (Sa)  Karlsruher SC          3:2  1. FC Union Berlin
-19.04.2014 13:00 (Sa)  TSV 1860 München       2:1  Arminia Bielefeld
-
-20.04.2014 13:30 (So)  SC Paderborn 07        2:2  SpVgg Greuther Fürth
-20.04.2014 13:30 (So)  1. FC Kaiserslautern   3:2  FSV Frankfurt
-20.04.2014 13:30 (So)  VfR Aalen              0:0  FC Ingolstadt 04
-
-21.04.2014 20:15 (Mo)  1. FC Köln             3:1  VfL Bochum
-
-
-32. Spieltag
- 
-25.04.2014 18:30 (Fr)  FC Ingolstadt 04       1:1  1. FC Köln
-25.04.2014 18:30 (Fr)  SpVgg Greuther Fürth   1:2  TSV 1860 München
-25.04.2014 18:30 (Fr)  VfL Bochum             1:4  Arminia Bielefeld
-
-26.04.2014 13:00 (Sa)  FSV Frankfurt          3:1  Energie Cottbus
-26.04.2014 13:00 (Sa)  Fortuna Düsseldorf     4:0  Erzgebirge Aue
-
-27.04.2014 13:30 (So)  FC St. Pauli           0:3  VfR Aalen
-27.04.2014 13:30 (So)  SC Paderborn 07        2:0  SV Sandhausen
-27.04.2014 13:30 (So)  Dynamo Dresden         2:2  Karlsruher SC
-
-28.04.2014 20:15 (Mo)  1. FC Union Berlin     1:1  1. FC Kaiserslautern
-
-
-33. Spieltag
- 
-04.05.2014 15:30 (So)  Karlsruher SC          2:2  Fortuna Düsseldorf
-04.05.2014 15:30 (So)  Energie Cottbus        0:6  SpVgg Greuther Fürth
-04.05.2014 15:30 (So)  Arminia Bielefeld      0:0  FSV Frankfurt
-04.05.2014 15:30 (So)  VfR Aalen              3:0  1. FC Union Berlin
-04.05.2014 15:30 (So)  1. FC Köln             4:0  FC St. Pauli
-04.05.2014 15:30 (So)  Erzgebirge Aue         0:2  SC Paderborn 07
-04.05.2014 15:30 (So)  SV Sandhausen          0:2  FC Ingolstadt 04
-04.05.2014 15:30 (So)  TSV 1860 München       2:0  VfL Bochum
-04.05.2014 15:30 (So)  1. FC Kaiserslautern   4:0  Dynamo Dresden
-
-
-34. Spieltag
- 
-11.05.2014 15:30 (So)  Fortuna Düsseldorf     4:2  1. FC Kaiserslautern
-11.05.2014 15:30 (So)  FSV Frankfurt          2:0  1. FC Köln
-11.05.2014 15:30 (So)  1. FC Union Berlin     1:1  TSV 1860 München
-11.05.2014 15:30 (So)  FC Ingolstadt 04       2:0  Energie Cottbus
-11.05.2014 15:30 (So)  SC Paderborn 07        2:1  VfR Aalen
-11.05.2014 15:30 (So)  SpVgg Greuther Fürth   2:0  SV Sandhausen
-11.05.2014 15:30 (So)  FC St. Pauli           2:2  Erzgebirge Aue
-11.05.2014 15:30 (So)  VfL Bochum             1:0  Karlsruher SC
-11.05.2014 15:30 (So)  Dynamo Dresden         2:3  Arminia Bielefeld
-
+= Deutsche 2. Bundesliga 2013/14
+
+
+Spieltag 20
+[Fr 7.2.]
+  VfL Bochum               1-2  FSV Frankfurt
+  Energie Cottbus          0-1  SV Sandhausen
+  VfR Aalen                2-2  FC Erzgebirge Aue
+[Sa 8.2.]
+  1. FC Kaiserslautern     2-1  SpVgg Greuther Fürth
+  1. FC Union Berlin       0-0  Dynamo Dresden
+[So 9.2.]
+  Arminia Bielefeld        2-2  FC St. Pauli
+  1. FC Köln               0-1  SC Paderborn 07
+  Karlsruher SC            1-1  FC Ingolstadt 04
+[Mo 10.2.]
+  TSV 1860 München         1-1  Fortuna Düsseldorf
+
+
+Spieltag 21
+[Fr 14.2.]
+  FC Ingolstadt 04         2-0  TSV 1860 München
+  Fortuna Düsseldorf       1-1  1. FC Union Berlin
+  SpVgg Greuther Fürth     1-1  Karlsruher SC
+[Sa 15.2.]
+  FC St. Pauli             0-1  VfL Bochum
+  FSV Frankfurt            3-2  Dynamo Dresden
+[So 16.2.]
+  SV Sandhausen            0-1  1. FC Köln
+  VfR Aalen                2-2  Energie Cottbus
+  SC Paderborn 07          4-0  Arminia Bielefeld
+[Mo 17.2.]
+  FC Erzgebirge Aue        1-0  1. FC Kaiserslautern
+
+
+Spieltag 22
+[Fr 21.2.]
+  1. FC Union Berlin       2-0  FSV Frankfurt
+  Arminia Bielefeld        0-2  FC Ingolstadt 04
+  Energie Cottbus          2-3  FC Erzgebirge Aue
+[Sa 22.2.]
+  Karlsruher SC            2-1  SV Sandhausen
+  TSV 1860 München         2-2  SC Paderborn 07
+[So 23.2.]
+  VfL Bochum               0-0  Fortuna Düsseldorf
+  1. FC Kaiserslautern     1-2  VfR Aalen
+  Dynamo Dresden           1-2  FC St. Pauli
+[Mo 24.2.]
+  1. FC Köln               1-1  SpVgg Greuther Fürth
+
+
+Spieltag 23
+[Fr 28.2.]
+  Energie Cottbus          1-0  1. FC Kaiserslautern
+  SC Paderborn 07          4-1  VfL Bochum
+  Fortuna Düsseldorf       2-0  Arminia Bielefeld
+[Sa 1.3.]
+  FC Erzgebirge Aue        2-2  1. FC Köln
+  SV Sandhausen            0-0  TSV 1860 München
+[So 2.3.]
+  SpVgg Greuther Fürth     3-2  FSV Frankfurt
+  FC Ingolstadt 04         1-1  Dynamo Dresden
+  VfR Aalen                1-0  Karlsruher SC
+[Mo 3.3.]
+  FC St. Pauli             2-1  1. FC Union Berlin
+
+
+Spieltag 24
+[Fr 7.3.]
+  TSV 1860 München         4-0  VfR Aalen
+  1. FC Kaiserslautern     2-1  SV Sandhausen
+  1. FC Köln               2-1  Energie Cottbus
+[Sa 8.3.]
+  1. FC Union Berlin       1-1  FC Ingolstadt 04
+  Arminia Bielefeld        1-0  FC Erzgebirge Aue
+[So 9.3.]
+  Dynamo Dresden           1-1  Fortuna Düsseldorf
+  FSV Frankfurt            1-0  FC St. Pauli
+  Karlsruher SC            4-0  SC Paderborn 07
+[Mo 10.3.]
+  VfL Bochum               0-2  SpVgg Greuther Fürth
+
+
+Spieltag 25
+[Fr 14.3.]
+  FC Ingolstadt 04         0-1  FSV Frankfurt
+  VfR Aalen                0-2  VfL Bochum
+  SC Paderborn 07          2-1  Dynamo Dresden
+[Sa 15.3.]
+  FC Erzgebirge Aue        2-2  TSV 1860 München
+  Energie Cottbus          1-0  Karlsruher SC
+[So 16.3.]
+  SpVgg Greuther Fürth     1-1  1. FC Union Berlin
+  Fortuna Düsseldorf       0-2  FC St. Pauli
+  SV Sandhausen            1-0  Arminia Bielefeld
+[Mo 17.3.]
+  1. FC Kaiserslautern     0-0  1. FC Köln
+
+
+Spieltag 26
+[Fr 21.3.]
+  Dynamo Dresden           1-1  SpVgg Greuther Fürth
+  VfL Bochum               0-1  SV Sandhausen
+  1. FC Union Berlin       1-1  SC Paderborn 07
+[Sa 22.3.]
+  FSV Frankfurt            0-0  Fortuna Düsseldorf
+  1. FC Köln               0-0  VfR Aalen
+  FC St. Pauli             0-0  FC Ingolstadt 04
+[So 23.3.]
+  TSV 1860 München         0-1  1. FC Kaiserslautern
+  Arminia Bielefeld        1-3  Energie Cottbus
+  Karlsruher SC            1-1  FC Erzgebirge Aue
+
+
+Spieltag 27
+[Di 25.3.]
+  SpVgg Greuther Fürth     4-1  Fortuna Düsseldorf
+  SV Sandhausen            2-1  1. FC Union Berlin
+  SC Paderborn 07          3-0  FC St. Pauli
+  FC Ingolstadt 04         3-0  VfL Bochum
+  VfR Aalen                1-1  Dynamo Dresden
+[Mi 26.3.]
+  FC Erzgebirge Aue        2-1  FSV Frankfurt
+  Energie Cottbus          1-2  TSV 1860 München
+  1. FC Köln               2-0  Karlsruher SC
+  1. FC Kaiserslautern     1-1  Arminia Bielefeld
+
+
+Spieltag 28
+[Fr 28.3.]
+  FC St. Pauli             2-2  SpVgg Greuther Fürth
+  Dynamo Dresden           0-0  SV Sandhausen
+  Fortuna Düsseldorf       0-0  FC Ingolstadt 04
+[Sa 29.3.]
+  Karlsruher SC            2-2  1. FC Kaiserslautern
+  VfL Bochum               1-0  FC Erzgebirge Aue
+[So 30.3.]
+  TSV 1860 München         0-1  1. FC Köln
+  Arminia Bielefeld        0-0  VfR Aalen
+  FSV Frankfurt            1-3  SC Paderborn 07
+[Mo 31.3.]
+  1. FC Union Berlin       2-0  Energie Cottbus
+
+
+Spieltag 29
+[Fr 4.4.]
+  SC Paderborn 07          1-2  Fortuna Düsseldorf
+  VfR Aalen                2-1  FSV Frankfurt
+  Energie Cottbus          0-0  Dynamo Dresden
+[Sa 5.4.]
+  SV Sandhausen            2-3  FC St. Pauli
+  1. FC Köln               2-0  Arminia Bielefeld
+[So 6.4.]
+  FC Erzgebirge Aue        3-2  1. FC Union Berlin
+  1. FC Kaiserslautern     1-1  VfL Bochum
+  TSV 1860 München         0-3  Karlsruher SC
+[Mo 7.4.]
+  FC Ingolstadt 04         0-0  SpVgg Greuther Fürth
+
+
+Spieltag 30
+[Fr 11.4.]
+  FC St. Pauli             2-3  1. FC Kaiserslautern
+  1. FC Union Berlin       1-2  1. FC Köln
+  FC Ingolstadt 04         1-2  SC Paderborn 07
+[Sa 12.4.]
+  SpVgg Greuther Fürth     2-1  FC Erzgebirge Aue
+  Arminia Bielefeld        0-0  Karlsruher SC
+[So 13.4.]
+  VfL Bochum               2-1  Energie Cottbus
+  Fortuna Düsseldorf       3-1  VfR Aalen
+  FSV Frankfurt            0-3  SV Sandhausen
+[Mo 14.4.]
+  Dynamo Dresden           4-2  TSV 1860 München
+
+
+Spieltag 31
+[Do 17.4.]
+  SV Sandhausen            0-3  Fortuna Düsseldorf
+  Energie Cottbus          1-1  FC St. Pauli
+  FC Erzgebirge Aue        2-0  Dynamo Dresden
+[Sa 19.4.]
+  Karlsruher SC            3-2  1. FC Union Berlin
+  TSV 1860 München         2-1  Arminia Bielefeld
+[So 20.4.]
+  SC Paderborn 07          2-2  SpVgg Greuther Fürth
+  1. FC Kaiserslautern     3-2  FSV Frankfurt
+  VfR Aalen                0-0  FC Ingolstadt 04
+[Mo 21.4.]
+  1. FC Köln               3-1  VfL Bochum
+
+
+Spieltag 32
+[Fr 25.4.]
+  FC Ingolstadt 04         1-1  1. FC Köln
+  SpVgg Greuther Fürth     1-2  TSV 1860 München
+  VfL Bochum               1-4  Arminia Bielefeld
+[Sa 26.4.]
+  FSV Frankfurt            3-1  Energie Cottbus
+  Fortuna Düsseldorf       4-0  FC Erzgebirge Aue
+[So 27.4.]
+  FC St. Pauli             0-3  VfR Aalen
+  SC Paderborn 07          2-0  SV Sandhausen
+  Dynamo Dresden           2-2  Karlsruher SC
+[Mo 28.4.]
+  1. FC Union Berlin       1-1  1. FC Kaiserslautern
+
+
+Spieltag 33
+[So 4.5.]
+  Karlsruher SC            2-2  Fortuna Düsseldorf
+  Energie Cottbus          0-6  SpVgg Greuther Fürth
+  Arminia Bielefeld        0-0  FSV Frankfurt
+  VfR Aalen                3-0  1. FC Union Berlin
+  1. FC Köln               4-0  FC St. Pauli
+  FC Erzgebirge Aue        0-2  SC Paderborn 07
+  SV Sandhausen            0-2  FC Ingolstadt 04
+  TSV 1860 München         2-0  VfL Bochum
+  1. FC Kaiserslautern     4-0  Dynamo Dresden
+
+
+Spieltag 34
+[So 11.5.]
+  Fortuna Düsseldorf       4-2  1. FC Kaiserslautern
+  FSV Frankfurt            2-0  1. FC Köln
+  1. FC Union Berlin       1-1  TSV 1860 München
+  FC Ingolstadt 04         2-0  Energie Cottbus
+  SC Paderborn 07          2-1  VfR Aalen
+  SpVgg Greuther Fürth     2-0  SV Sandhausen
+  FC St. Pauli             2-2  FC Erzgebirge Aue
+  VfL Bochum               1-0  Karlsruher SC
+  Dynamo Dresden           2-3  Arminia Bielefeld

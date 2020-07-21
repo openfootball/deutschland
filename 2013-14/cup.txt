@@ -1,11 +1,95 @@
-= DFB Pokal 2013/14        ## no. 71
+= DFB Pokal 2013/14
 
 
-(1) Achtelfinale   //   (Di./Mi.) 3./4. Dez 2013
+1. Runde
+[Fr 2.8.]
+  VfL Osnabrück             3:0  FC Erzgebirge Aue
+  1. FC Heidenheim         1:1 (1:1) n.V. 3:4 i.E.  TSV 1860 München
+  RB Leipzig                0:2  FC Augsburg
+[Sa 3.8.]
+  SF Baumberg               1:4  FC Ingolstadt 04
+  SG Aumund-Vegesack        0:9  TSG 1899 Hoffenheim
+  Neckarsulmer Sport-Union   0:7  1. FC Kaiserslautern
+  SV Lippstadt 08           1:6  Bayer 04 Leverkusen
+  Fortuna Köln              1:2  1. FSV Mainz 05
+  TSG Neustrelitz          0:2 (0:0) n.V.  SC Freiburg
+  1. FC Magdeburg           0:1  Energie Cottbus
+  SV Wilhelmshaven          0:3  Borussia Dortmund
+  Bahlinger SC              1:3  VfL Bochum
+  TSV 1860 Rosenheim        0:2  VfR Aalen
+  Eintracht Trier           0:2  1. FC Köln
+  Karlsruher SC             1:3  VfL Wolfsburg
+[So 4.8.]
+  TSG Pfeddersheim          0:2  SpVgg Greuther Fürth
+  1. FC Saarbrücken        3:1 (1:1) n.V.  Werder Bremen
+  SV Darmstadt 98          0:0 (0:0) n.V. 5:4 i.E.  Bor. Mönchengladbach
+  Arminia Bielefeld         2:1  Eintracht Braunschweig
+  SC Victoria Hamburg       0:2  Hannover 96
+  SV Schott Jena            0:4  Hamburger SV
+  SC Wiedenbrück            1:0  Fortuna Düsseldorf
+  FSV Optik Rathenow       1:3 (1:1) n.V.  FSV Frankfurt
+  BFC Dynamo Berlin         0:2  VfB Stuttgart
+  VfR Neumünster           2:3 (2:2) n.V.  Hertha BSC
+  FV Illertissen            0:2  Eintracht Frankfurt
+  Preußen Münster           1:0  FC St. Pauli
+  SV Sandhausen            1:1 (1:1) n.V. 4:3 i.E.  1. FC Nürnberg
+[Mo 5.8.]
+  MSV Duisburg              2:3  SC Paderborn 07
+  SSV Jahn Regensburg       1:2  1. FC Union Berlin
+  FC Nöttingen              0:2  FC Schalke 04
+  BSV Schwarz-Weiß Rehden   0:5  Bayern München
 
-(2) Viertelfinale  //   (Di./Mi.) 11./12. Feb 2014
 
-(3) Halbfinale     //   (Di./Mi.) 15./16. Apr 2014
+2. Runde
+[Di 24.9.]
+  Preußen Münster           0:3  FC Augsburg
+  SC Wiedenbrück            1:3  SV Sandhausen
+  TSV 1860 München         0:2 (0:0) n.V.  Borussia Dortmund
+  VfL Wolfsburg             2:0  VfR Aalen
+  Arminia Bielefeld         0:2  Bayer 04 Leverkusen
+  Hamburger SV              1:0  SpVgg Greuther Fürth
+  TSG 1899 Hoffenheim      3:0 (0:0) n.V.  Energie Cottbus
+  1. FSV Mainz 05           0:1  1. FC Köln
+[Mi 25.9.]
+  1. FC Saarbrücken         2:1  SC Paderborn 07
+  Eintracht Frankfurt       2:0  VfL Bochum
+  FSV Frankfurt             0:2  FC Ingolstadt 04
+  1. FC Kaiserslautern      3:1  Hertha BSC
+  VfL Osnabrück             0:1  1. FC Union Berlin
+  SV Darmstadt 98           1:3  FC Schalke 04
+  Bayern München            4:1  Hannover 96
+  SC Freiburg               2:1  VfB Stuttgart
 
-(4) Finale         //   (Sa.) 17. Mai 2014    @ Berlin
 
+Achtelfinale
+[Di 3.12.]
+  1. FC Union Berlin        0:3  1. FC Kaiserslautern
+  Hamburger SV              2:1  1. FC Köln
+  FC Schalke 04             1:3  TSG 1899 Hoffenheim
+  1. FC Saarbrücken         0:2  Borussia Dortmund
+[Mi 4.12.]
+  SC Freiburg               1:2  Bayer 04 Leverkusen
+  VfL Wolfsburg             2:1  FC Ingolstadt 04
+  Eintracht Frankfurt       4:2  SV Sandhausen
+  FC Augsburg               0:2  Bayern München
+
+
+Viertelfinale
+[Di 11.2.]
+  Eintracht Frankfurt       0:1  Borussia Dortmund
+[Mi 12.2.]
+  TSG 1899 Hoffenheim       2:3  VfL Wolfsburg
+  Bayer 04 Leverkusen      0:1 (0:0) n.V.  1. FC Kaiserslautern
+  Hamburger SV              0:5  Bayern München
+
+
+Halbfinale
+[Di 15.4.]
+  Borussia Dortmund         2:0  VfL Wolfsburg
+[Mi 16.4.]
+  Bayern München            5:1  1. FC Kaiserslautern
+
+
+Finale
+[Sa 17.5.]
+  Borussia Dortmund        0:2 (0:0) n.V.  Bayern München

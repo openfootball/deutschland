@@ -1,39 +1,95 @@
 = DFB Pokal 2012/13
 
 
-Achtelfinale
+1. Runde
+[Fr 17.8.]
+  SG Großaspach             1:2  FSV Frankfurt
+  VfB Lübeck                0:3  Eintracht Braunschweig
+  SV Wilhelmshaven          0:2  FC Augsburg
+[Sa 18.8.]
+  Hallescher FC             0:1  MSV Duisburg
+  FC Oberneuland            0:3  Borussia Dortmund
+  SC Victoria Hamburg       1:2  SC Freiburg
+  SpVgg Unterhaching        1:2  1. FC Köln
+  SV Falkensee-Finkenkrug   0:5  VfB Stuttgart
+  Offenburger FV            0:3  FC St. Pauli
+  Alemannia Aachen          0:2  Bor. Mönchengladbach
+  FC Carl Zeiss Jena        0:4  Bayer 04 Leverkusen
+  Berliner AK 07            4:0  TSG 1899 Hoffenheim
+  1. FC Heidenheim          0:2  VfL Bochum
+  FC Schönberg 95           0:5  VfL Wolfsburg
+  Kickers Offenbach         2:0  SpVgg Greuther Fürth
+[So 19.8.]
+  FC Nöttingen              1:6  Hannover 96
+  Wormatia Worms            2:1  Hertha BSC
+  Karlsruher SC             4:2  Hamburger SV
+  FC Hennef 05              0:6  TSV 1860 München
+  TSV Havelse              3:2 (2:2) n.V.  1. FC Nürnberg
+  VfR Aalen                 3:0  FC Ingolstadt 04
+  Arminia Bielefeld         3:1  SC Paderborn 07
+  1. FC Saarbrücken         0:5  FC Schalke 04
+  FC Erzgebirge Aue         3:0  Eintracht Frankfurt
+  Preußen Münster          4:2 (2:2) n.V.  Werder Bremen
+  Hansa Rostock             1:3  1. FC Kaiserslautern
+  Wacker Burghausen         0:1  Fortuna Düsseldorf
+  SV Roßbach/Verscheid      0:4  1. FSV Mainz 05
+[Mo 20.8.]
+  SV Sandhausen             3:0  Energie Cottbus
+  Rot-Weiss Essen          0:1 (0:0) n.V.  1. FC Union Berlin
+  Chemnitzer FC             0:3  Dynamo Dresden
+  SSV Jahn Regensburg       0:4  Bayern München
 
+
+2. Runde
+[Di 30.10.]
+  Berliner AK 07            0:3  TSV 1860 München
+  Wormatia Worms           0:0 (0:0) n.V. 3:4 i.E.  1. FC Köln
+  Preußen Münster           0:1  FC Augsburg
+  Eintracht Braunschweig    0:2  SC Freiburg
+  TSV Havelse               1:3  VfL Bochum
+  FC Schalke 04             3:0  SV Sandhausen
+  VfR Aalen                 1:4  Borussia Dortmund
+  1. FSV Mainz 05           2:0  FC Erzgebirge Aue
+[Mi 31.10.]
+  Karlsruher SC             1:0  MSV Duisburg
+  Arminia Bielefeld        2:3 (2:2) n.V.  Bayer 04 Leverkusen
+  Kickers Offenbach         2:0  1. FC Union Berlin
+  VfB Stuttgart             3:0  FC St. Pauli
+  Hannover 96              1:1 (1:1) n.V. 4:3 i.E.  Dynamo Dresden
+  Bayern München            4:0  1. FC Kaiserslautern
+  Fortuna Düsseldorf       1:0 (0:0) n.V.  Bor. Mönchengladbach
+  VfL Wolfsburg             2:0  FSV Frankfurt
+
+
+Achtelfinale
 [Di 18.12.]
-  19.00   Karlsruher SC      0:1  SC Freiburg
-  19.00   FC Schalke 04      1:2  1. FSV Mainz 05
-  20.30   Kickers Offenbach  2:0  Fortuna Düsseldorf
-  20.30   FC Augsburg        0:2  Bayern München
+  Karlsruher SC             0:1  SC Freiburg
+  FC Schalke 04             1:2  1. FSV Mainz 05
+  Kickers Offenbach         2:0  Fortuna Düsseldorf
+  FC Augsburg               0:2  Bayern München
 [Mi 19.12.]
-  19.00   VfL Wolfsburg      2:1  Bayer Leverkusen
-  19.00   VfL Bochum         3:0  TSV 1860 München
-  20.30   Borussia Dortmund  5:1  Hannover 96
-  20.30   VfB Stuttgart      2:1  1. FC Köln
+  VfL Wolfsburg             2:1  Bayer 04 Leverkusen
+  VfL Bochum                3:0  TSV 1860 München
+  Borussia Dortmund         5:1  Hannover 96
+  VfB Stuttgart             2:1  1. FC Köln
 
 
 Viertelfinale
-
 [Di 26.2.]
-  19.00   1. FSV Mainz 05    2:3 (2:2) n.V.  SC Freiburg
-  20.30   Kickers Offenbach  1:2    VfL Wolfsburg
+  1. FSV Mainz 05          2:3 (2:2) n.V.  SC Freiburg
+  Kickers Offenbach         1:2  VfL Wolfsburg
 [Mi 27.2.]
-  19.00   VfB Stuttgart     2:0  VfL Bochum
-  20.30   Bayern München    1:0  Borussia Dortmund
+  VfB Stuttgart             2:0  VfL Bochum
+  Bayern München            1:0  Borussia Dortmund
 
 
 Halbfinale
-
 [Di 16.4.]
-  20.30   Bayern München   6:1  VfL Wolfsburg
+  Bayern München            6:1  VfL Wolfsburg
 [Mi 17.4.]
-  20.30   VfB Stuttgart    2:1  SC Freiburg
+  VfB Stuttgart             2:1  SC Freiburg
 
 
 Finale
-
 [Sa 1.6.]
-  20.00   Bayern München   3:2  VfB Stuttgart
+  Bayern München            3:2  VfB Stuttgart

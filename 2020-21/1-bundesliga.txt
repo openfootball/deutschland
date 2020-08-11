@@ -1,0 +1,443 @@
+= Deutsche Bundesliga 2020/21
+
+
+Spieltag 1
+[Sa 19.9.]
+  Bayern München           -  FC Schalke 04
+  Borussia Dortmund        -  Bor. Mönchengladbach
+  RB Leipzig               -  1. FSV Mainz 05
+  VfL Wolfsburg            -  Bayer 04 Leverkusen
+  Eintracht Frankfurt      -  Arminia Bielefeld
+  1. FC Union Berlin       -  FC Augsburg
+  1. FC Köln               -  TSG 1899 Hoffenheim
+  Werder Bremen            -  Hertha BSC
+  VfB Stuttgart            -  SC Freiburg
+
+
+Spieltag 2
+[Sa 26.9.]
+  Bor. Mönchengladbach     -  1. FC Union Berlin
+  Bayer 04 Leverkusen      -  RB Leipzig
+  TSG 1899 Hoffenheim      -  Bayern München
+  SC Freiburg              -  VfL Wolfsburg
+  Hertha BSC               -  Eintracht Frankfurt
+  FC Schalke 04            -  Werder Bremen
+  1. FSV Mainz 05          -  VfB Stuttgart
+  FC Augsburg              -  Borussia Dortmund
+  Arminia Bielefeld        -  1. FC Köln
+
+
+Spieltag 3
+[Sa 3.10.]
+  Bayern München           -  Hertha BSC
+  Borussia Dortmund        -  SC Freiburg
+  RB Leipzig               -  FC Schalke 04
+  VfL Wolfsburg            -  FC Augsburg
+  Eintracht Frankfurt      -  TSG 1899 Hoffenheim
+  1. FC Union Berlin       -  1. FSV Mainz 05
+  1. FC Köln               -  Bor. Mönchengladbach
+  Werder Bremen            -  Arminia Bielefeld
+  VfB Stuttgart            -  Bayer 04 Leverkusen
+
+
+Spieltag 4
+[Sa 17.10.]
+  Bor. Mönchengladbach     -  VfL Wolfsburg
+  TSG 1899 Hoffenheim      -  Borussia Dortmund
+  SC Freiburg              -  Werder Bremen
+  Hertha BSC               -  VfB Stuttgart
+  FC Schalke 04            -  1. FC Union Berlin
+  1. FSV Mainz 05          -  Bayer 04 Leverkusen
+  1. FC Köln               -  Eintracht Frankfurt
+  FC Augsburg              -  RB Leipzig
+  Arminia Bielefeld        -  Bayern München
+
+
+Spieltag 5
+[Sa 24.10.]
+  Bayern München           -  Eintracht Frankfurt
+  Borussia Dortmund        -  FC Schalke 04
+  RB Leipzig               -  Hertha BSC
+  Bayer 04 Leverkusen      -  FC Augsburg
+  VfL Wolfsburg            -  Arminia Bielefeld
+  1. FC Union Berlin       -  SC Freiburg
+  1. FSV Mainz 05          -  Bor. Mönchengladbach
+  Werder Bremen            -  TSG 1899 Hoffenheim
+  VfB Stuttgart            -  1. FC Köln
+
+
+Spieltag 6
+[Sa 31.10.]
+  Bor. Mönchengladbach     -  RB Leipzig
+  TSG 1899 Hoffenheim      -  1. FC Union Berlin
+  SC Freiburg              -  Bayer 04 Leverkusen
+  Eintracht Frankfurt      -  Werder Bremen
+  Hertha BSC               -  VfL Wolfsburg
+  FC Schalke 04            -  VfB Stuttgart
+  1. FC Köln               -  Bayern München
+  FC Augsburg              -  1. FSV Mainz 05
+  Arminia Bielefeld        -  Borussia Dortmund
+
+
+Spieltag 7
+[Sa 7.11.]
+  Borussia Dortmund        -  Bayern München
+  RB Leipzig               -  SC Freiburg
+  Bayer 04 Leverkusen      -  Bor. Mönchengladbach
+  VfL Wolfsburg            -  TSG 1899 Hoffenheim
+  1. FC Union Berlin       -  Arminia Bielefeld
+  1. FSV Mainz 05          -  FC Schalke 04
+  FC Augsburg              -  Hertha BSC
+  Werder Bremen            -  1. FC Köln
+  VfB Stuttgart            -  Eintracht Frankfurt
+
+
+Spieltag 8
+[Sa 21.11.]
+  Bayern München           -  Werder Bremen
+  Bor. Mönchengladbach     -  FC Augsburg
+  TSG 1899 Hoffenheim      -  VfB Stuttgart
+  SC Freiburg              -  1. FSV Mainz 05
+  Eintracht Frankfurt      -  RB Leipzig
+  Hertha BSC               -  Borussia Dortmund
+  FC Schalke 04            -  VfL Wolfsburg
+  1. FC Köln               -  1. FC Union Berlin
+  Arminia Bielefeld        -  Bayer 04 Leverkusen
+
+
+Spieltag 9
+[Sa 28.11.]
+  Borussia Dortmund        -  1. FC Köln
+  RB Leipzig               -  Arminia Bielefeld
+  Bor. Mönchengladbach     -  FC Schalke 04
+  Bayer 04 Leverkusen      -  Hertha BSC
+  VfL Wolfsburg            -  Werder Bremen
+  1. FC Union Berlin       -  Eintracht Frankfurt
+  1. FSV Mainz 05          -  TSG 1899 Hoffenheim
+  FC Augsburg              -  SC Freiburg
+  VfB Stuttgart            -  Bayern München
+
+
+Spieltag 10
+[Sa 5.12.]
+  Bayern München           -  RB Leipzig
+  TSG 1899 Hoffenheim      -  FC Augsburg
+  SC Freiburg              -  Bor. Mönchengladbach
+  Eintracht Frankfurt      -  Borussia Dortmund
+  Hertha BSC               -  1. FC Union Berlin
+  FC Schalke 04            -  Bayer 04 Leverkusen
+  1. FC Köln               -  VfL Wolfsburg
+  Werder Bremen            -  VfB Stuttgart
+  Arminia Bielefeld        -  1. FSV Mainz 05
+
+
+Spieltag 11
+[Sa 12.12.]
+  Borussia Dortmund        -  VfB Stuttgart
+  RB Leipzig               -  Werder Bremen
+  Bor. Mönchengladbach     -  Hertha BSC
+  Bayer 04 Leverkusen      -  TSG 1899 Hoffenheim
+  VfL Wolfsburg            -  Eintracht Frankfurt
+  SC Freiburg              -  Arminia Bielefeld
+  1. FC Union Berlin       -  Bayern München
+  1. FSV Mainz 05          -  1. FC Köln
+  FC Augsburg              -  FC Schalke 04
+
+
+Spieltag 12
+[Di 15.12.]
+  Bayern München           -  VfL Wolfsburg
+  TSG 1899 Hoffenheim      -  RB Leipzig
+  Eintracht Frankfurt      -  Bor. Mönchengladbach
+  Hertha BSC               -  1. FSV Mainz 05
+  FC Schalke 04            -  SC Freiburg
+  1. FC Köln               -  Bayer 04 Leverkusen
+  Werder Bremen            -  Borussia Dortmund
+  Arminia Bielefeld        -  FC Augsburg
+  VfB Stuttgart            -  1. FC Union Berlin
+
+
+Spieltag 13
+[Sa 19.12.]
+  RB Leipzig               -  1. FC Köln
+  Bor. Mönchengladbach     -  TSG 1899 Hoffenheim
+  Bayer 04 Leverkusen      -  Bayern München
+  VfL Wolfsburg            -  VfB Stuttgart
+  SC Freiburg              -  Hertha BSC
+  1. FC Union Berlin       -  Borussia Dortmund
+  FC Schalke 04            -  Arminia Bielefeld
+  1. FSV Mainz 05          -  Werder Bremen
+  FC Augsburg              -  Eintracht Frankfurt
+
+
+Spieltag 14
+[So 3.1.]
+  Bayern München           -  1. FSV Mainz 05
+  Borussia Dortmund        -  VfL Wolfsburg
+  TSG 1899 Hoffenheim      -  SC Freiburg
+  Eintracht Frankfurt      -  Bayer 04 Leverkusen
+  Hertha BSC               -  FC Schalke 04
+  1. FC Köln               -  FC Augsburg
+  Werder Bremen            -  1. FC Union Berlin
+  Arminia Bielefeld        -  Bor. Mönchengladbach
+  VfB Stuttgart            -  RB Leipzig
+
+
+Spieltag 15
+[Sa 9.1.]
+  RB Leipzig               -  Borussia Dortmund
+  Bor. Mönchengladbach     -  Bayern München
+  Bayer 04 Leverkusen      -  Werder Bremen
+  SC Freiburg              -  1. FC Köln
+  1. FC Union Berlin       -  VfL Wolfsburg
+  FC Schalke 04            -  TSG 1899 Hoffenheim
+  1. FSV Mainz 05          -  Eintracht Frankfurt
+  FC Augsburg              -  VfB Stuttgart
+  Arminia Bielefeld        -  Hertha BSC
+
+
+Spieltag 16
+[Sa 16.1.]
+  Bayern München           -  SC Freiburg
+  Borussia Dortmund        -  1. FSV Mainz 05
+  TSG 1899 Hoffenheim      -  Arminia Bielefeld
+  VfL Wolfsburg            -  RB Leipzig
+  Eintracht Frankfurt      -  FC Schalke 04
+  1. FC Union Berlin       -  Bayer 04 Leverkusen
+  1. FC Köln               -  Hertha BSC
+  Werder Bremen            -  FC Augsburg
+  VfB Stuttgart            -  Bor. Mönchengladbach
+
+
+Spieltag 17
+[Di 19.1.]
+  RB Leipzig               -  1. FC Union Berlin
+  Bor. Mönchengladbach     -  Werder Bremen
+  Bayer 04 Leverkusen      -  Borussia Dortmund
+  SC Freiburg              -  Eintracht Frankfurt
+  Hertha BSC               -  TSG 1899 Hoffenheim
+  FC Schalke 04            -  1. FC Köln
+  1. FSV Mainz 05          -  VfL Wolfsburg
+  FC Augsburg              -  Bayern München
+  Arminia Bielefeld        -  VfB Stuttgart
+
+
+Spieltag 18
+[Sa 23.1.]
+  FC Schalke 04            -  Bayern München
+  Bor. Mönchengladbach     -  Borussia Dortmund
+  1. FSV Mainz 05          -  RB Leipzig
+  Bayer 04 Leverkusen      -  VfL Wolfsburg
+  Arminia Bielefeld        -  Eintracht Frankfurt
+  FC Augsburg              -  1. FC Union Berlin
+  TSG 1899 Hoffenheim      -  1. FC Köln
+  Hertha BSC               -  Werder Bremen
+  SC Freiburg              -  VfB Stuttgart
+
+
+Spieltag 19
+[Sa 30.1.]
+  1. FC Union Berlin       -  Bor. Mönchengladbach
+  RB Leipzig               -  Bayer 04 Leverkusen
+  Bayern München           -  TSG 1899 Hoffenheim
+  VfL Wolfsburg            -  SC Freiburg
+  Eintracht Frankfurt      -  Hertha BSC
+  Werder Bremen            -  FC Schalke 04
+  VfB Stuttgart            -  1. FSV Mainz 05
+  Borussia Dortmund        -  FC Augsburg
+  1. FC Köln               -  Arminia Bielefeld
+
+
+Spieltag 20
+[Sa 6.2.]
+  Hertha BSC               -  Bayern München
+  SC Freiburg              -  Borussia Dortmund
+  FC Schalke 04            -  RB Leipzig
+  FC Augsburg              -  VfL Wolfsburg
+  TSG 1899 Hoffenheim      -  Eintracht Frankfurt
+  1. FSV Mainz 05          -  1. FC Union Berlin
+  Bor. Mönchengladbach     -  1. FC Köln
+  Arminia Bielefeld        -  Werder Bremen
+  Bayer 04 Leverkusen      -  VfB Stuttgart
+
+
+Spieltag 21
+[Sa 13.2.]
+  VfL Wolfsburg            -  Bor. Mönchengladbach
+  Borussia Dortmund        -  TSG 1899 Hoffenheim
+  Werder Bremen            -  SC Freiburg
+  VfB Stuttgart            -  Hertha BSC
+  1. FC Union Berlin       -  FC Schalke 04
+  Bayer 04 Leverkusen      -  1. FSV Mainz 05
+  Eintracht Frankfurt      -  1. FC Köln
+  RB Leipzig               -  FC Augsburg
+  Bayern München           -  Arminia Bielefeld
+
+
+Spieltag 22
+[Sa 20.2.]
+  Eintracht Frankfurt      -  Bayern München
+  FC Schalke 04            -  Borussia Dortmund
+  Hertha BSC               -  RB Leipzig
+  FC Augsburg              -  Bayer 04 Leverkusen
+  Arminia Bielefeld        -  VfL Wolfsburg
+  SC Freiburg              -  1. FC Union Berlin
+  Bor. Mönchengladbach     -  1. FSV Mainz 05
+  TSG 1899 Hoffenheim      -  Werder Bremen
+  1. FC Köln               -  VfB Stuttgart
+
+
+Spieltag 23
+[Sa 27.2.]
+  RB Leipzig               -  Bor. Mönchengladbach
+  1. FC Union Berlin       -  TSG 1899 Hoffenheim
+  Bayer 04 Leverkusen      -  SC Freiburg
+  Werder Bremen            -  Eintracht Frankfurt
+  VfL Wolfsburg            -  Hertha BSC
+  VfB Stuttgart            -  FC Schalke 04
+  Bayern München           -  1. FC Köln
+  1. FSV Mainz 05          -  FC Augsburg
+  Borussia Dortmund        -  Arminia Bielefeld
+
+
+Spieltag 24
+[Sa 6.3.]
+  Bayern München           -  Borussia Dortmund
+  SC Freiburg              -  RB Leipzig
+  Bor. Mönchengladbach     -  Bayer 04 Leverkusen
+  TSG 1899 Hoffenheim      -  VfL Wolfsburg
+  Arminia Bielefeld        -  1. FC Union Berlin
+  FC Schalke 04            -  1. FSV Mainz 05
+  Hertha BSC               -  FC Augsburg
+  1. FC Köln               -  Werder Bremen
+  Eintracht Frankfurt      -  VfB Stuttgart
+
+
+Spieltag 25
+[Sa 13.3.]
+  Werder Bremen            -  Bayern München
+  FC Augsburg              -  Bor. Mönchengladbach
+  VfB Stuttgart            -  TSG 1899 Hoffenheim
+  1. FSV Mainz 05          -  SC Freiburg
+  RB Leipzig               -  Eintracht Frankfurt
+  Borussia Dortmund        -  Hertha BSC
+  VfL Wolfsburg            -  FC Schalke 04
+  1. FC Union Berlin       -  1. FC Köln
+  Bayer 04 Leverkusen      -  Arminia Bielefeld
+
+
+Spieltag 26
+[Sa 20.3.]
+  1. FC Köln               -  Borussia Dortmund
+  Arminia Bielefeld        -  RB Leipzig
+  FC Schalke 04            -  Bor. Mönchengladbach
+  Hertha BSC               -  Bayer 04 Leverkusen
+  Werder Bremen            -  VfL Wolfsburg
+  Eintracht Frankfurt      -  1. FC Union Berlin
+  TSG 1899 Hoffenheim      -  1. FSV Mainz 05
+  SC Freiburg              -  FC Augsburg
+  Bayern München           -  VfB Stuttgart
+
+
+Spieltag 27
+[So 4.4.]
+  RB Leipzig               -  Bayern München
+  FC Augsburg              -  TSG 1899 Hoffenheim
+  Bor. Mönchengladbach     -  SC Freiburg
+  Borussia Dortmund        -  Eintracht Frankfurt
+  1. FC Union Berlin       -  Hertha BSC
+  Bayer 04 Leverkusen      -  FC Schalke 04
+  VfL Wolfsburg            -  1. FC Köln
+  VfB Stuttgart            -  Werder Bremen
+  1. FSV Mainz 05          -  Arminia Bielefeld
+
+
+Spieltag 28
+[Sa 10.4.]
+  VfB Stuttgart            -  Borussia Dortmund
+  Werder Bremen            -  RB Leipzig
+  Hertha BSC               -  Bor. Mönchengladbach
+  TSG 1899 Hoffenheim      -  Bayer 04 Leverkusen
+  Eintracht Frankfurt      -  VfL Wolfsburg
+  Arminia Bielefeld        -  SC Freiburg
+  Bayern München           -  1. FC Union Berlin
+  1. FC Köln               -  1. FSV Mainz 05
+  FC Schalke 04            -  FC Augsburg
+
+
+Spieltag 29
+[Sa 17.4.]
+  VfL Wolfsburg            -  Bayern München
+  RB Leipzig               -  TSG 1899 Hoffenheim
+  Bor. Mönchengladbach     -  Eintracht Frankfurt
+  1. FSV Mainz 05          -  Hertha BSC
+  SC Freiburg              -  FC Schalke 04
+  Bayer 04 Leverkusen      -  1. FC Köln
+  Borussia Dortmund        -  Werder Bremen
+  FC Augsburg              -  Arminia Bielefeld
+  1. FC Union Berlin       -  VfB Stuttgart
+
+
+Spieltag 30
+[Di 20.4.]
+  1. FC Köln               -  RB Leipzig
+  TSG 1899 Hoffenheim      -  Bor. Mönchengladbach
+  Bayern München           -  Bayer 04 Leverkusen
+  VfB Stuttgart            -  VfL Wolfsburg
+  Hertha BSC               -  SC Freiburg
+  Borussia Dortmund        -  1. FC Union Berlin
+  Arminia Bielefeld        -  FC Schalke 04
+  Werder Bremen            -  1. FSV Mainz 05
+  Eintracht Frankfurt      -  FC Augsburg
+
+
+Spieltag 31
+[Sa 24.4.]
+  1. FSV Mainz 05          -  Bayern München
+  VfL Wolfsburg            -  Borussia Dortmund
+  SC Freiburg              -  TSG 1899 Hoffenheim
+  Bayer 04 Leverkusen      -  Eintracht Frankfurt
+  FC Schalke 04            -  Hertha BSC
+  FC Augsburg              -  1. FC Köln
+  1. FC Union Berlin       -  Werder Bremen
+  Bor. Mönchengladbach     -  Arminia Bielefeld
+  RB Leipzig               -  VfB Stuttgart
+
+
+Spieltag 32
+[Sa 8.5.]
+  Borussia Dortmund        -  RB Leipzig
+  Bayern München           -  Bor. Mönchengladbach
+  Werder Bremen            -  Bayer 04 Leverkusen
+  1. FC Köln               -  SC Freiburg
+  VfL Wolfsburg            -  1. FC Union Berlin
+  TSG 1899 Hoffenheim      -  FC Schalke 04
+  Eintracht Frankfurt      -  1. FSV Mainz 05
+  VfB Stuttgart            -  FC Augsburg
+  Hertha BSC               -  Arminia Bielefeld
+
+
+Spieltag 33
+[Sa 15.5.]
+  SC Freiburg              -  Bayern München
+  1. FSV Mainz 05          -  Borussia Dortmund
+  Arminia Bielefeld        -  TSG 1899 Hoffenheim
+  RB Leipzig               -  VfL Wolfsburg
+  FC Schalke 04            -  Eintracht Frankfurt
+  Bayer 04 Leverkusen      -  1. FC Union Berlin
+  Hertha BSC               -  1. FC Köln
+  FC Augsburg              -  Werder Bremen
+  Bor. Mönchengladbach     -  VfB Stuttgart
+
+
+Spieltag 34
+[Sa 22.5.]
+  1. FC Union Berlin       -  RB Leipzig
+  Werder Bremen            -  Bor. Mönchengladbach
+  Borussia Dortmund        -  Bayer 04 Leverkusen
+  Eintracht Frankfurt      -  SC Freiburg
+  TSG 1899 Hoffenheim      -  Hertha BSC
+  1. FC Köln               -  FC Schalke 04
+  VfL Wolfsburg            -  1. FSV Mainz 05
+  Bayern München           -  FC Augsburg
+  VfB Stuttgart            -  Arminia Bielefeld

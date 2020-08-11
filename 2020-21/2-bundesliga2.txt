@@ -1,0 +1,444 @@
+= Deutsche 2. Bundesliga 2020/21
+
+
+Spieltag 1
+[Fr 18.9.]
+  Hamburger SV             -  Fortuna Düsseldorf
+  SSV Jahn Regensburg      -  1. FC Nürnberg
+[So 20.9.]
+  1. FC Heidenheim         -  Eintracht Braunschweig
+  Hannover 96              -  Karlsruher SC
+  VfL Bochum               -  FC St. Pauli
+  SV Sandhausen            -  SV Darmstadt 98
+  Holstein Kiel            -  SC Paderborn 07
+  Würzburger Kickers       -  FC Erzgebirge Aue
+  SpVgg Greuther Fürth     -  VfL Osnabrück
+
+
+Spieltag 2
+[Fr 25.9.]
+  Fortuna Düsseldorf       -  Würzburger Kickers
+  SC Paderborn 07          -  Hamburger SV
+  SV Darmstadt 98          -  SSV Jahn Regensburg
+  FC Erzgebirge Aue        -  SpVgg Greuther Fürth
+  VfL Osnabrück            -  Hannover 96
+  FC St. Pauli             -  1. FC Heidenheim
+  Karlsruher SC            -  VfL Bochum
+  1. FC Nürnberg           -  SV Sandhausen
+  Eintracht Braunschweig   -  Holstein Kiel
+
+
+Spieltag 3
+[Fr 2.10.]
+  1. FC Heidenheim         -  SC Paderborn 07
+  Hamburger SV             -  FC Erzgebirge Aue
+  Hannover 96              -  Eintracht Braunschweig
+  VfL Bochum               -  VfL Osnabrück
+  SV Sandhausen            -  FC St. Pauli
+  Holstein Kiel            -  Fortuna Düsseldorf
+  SSV Jahn Regensburg      -  Karlsruher SC
+  1. FC Nürnberg           -  SV Darmstadt 98
+  Würzburger Kickers       -  SpVgg Greuther Fürth
+
+
+Spieltag 4
+[Fr 16.10.]
+  Fortuna Düsseldorf       -  SSV Jahn Regensburg
+  SC Paderborn 07          -  Hannover 96
+  FC Erzgebirge Aue        -  1. FC Heidenheim
+  SpVgg Greuther Fürth     -  Hamburger SV
+  VfL Osnabrück            -  SV Darmstadt 98
+  FC St. Pauli             -  1. FC Nürnberg
+  Karlsruher SC            -  SV Sandhausen
+  Eintracht Braunschweig   -  VfL Bochum
+  Würzburger Kickers       -  Holstein Kiel
+
+
+Spieltag 5
+[Fr 23.10.]
+  1. FC Heidenheim         -  VfL Osnabrück
+  Hamburger SV             -  Würzburger Kickers
+  SV Darmstadt 98          -  FC St. Pauli
+  Hannover 96              -  Fortuna Düsseldorf
+  VfL Bochum               -  FC Erzgebirge Aue
+  SV Sandhausen            -  SC Paderborn 07
+  Holstein Kiel            -  SpVgg Greuther Fürth
+  SSV Jahn Regensburg      -  Eintracht Braunschweig
+  1. FC Nürnberg           -  Karlsruher SC
+
+
+Spieltag 6
+[Fr 30.10.]
+  Fortuna Düsseldorf       -  1. FC Heidenheim
+  SC Paderborn 07          -  SSV Jahn Regensburg
+  Hamburger SV             -  FC St. Pauli
+  FC Erzgebirge Aue        -  Holstein Kiel
+  SpVgg Greuther Fürth     -  Hannover 96
+  VfL Osnabrück            -  SV Sandhausen
+  Karlsruher SC            -  SV Darmstadt 98
+  Eintracht Braunschweig   -  1. FC Nürnberg
+  Würzburger Kickers       -  VfL Bochum
+
+
+Spieltag 7
+[Fr 6.11.]
+  1. FC Heidenheim         -  Würzburger Kickers
+  SV Darmstadt 98          -  SC Paderborn 07
+  Hannover 96              -  FC Erzgebirge Aue
+  VfL Bochum               -  SpVgg Greuther Fürth
+  SV Sandhausen            -  Eintracht Braunschweig
+  Holstein Kiel            -  Hamburger SV
+  SSV Jahn Regensburg      -  VfL Osnabrück
+  FC St. Pauli             -  Karlsruher SC
+  1. FC Nürnberg           -  Fortuna Düsseldorf
+
+
+Spieltag 8
+[Fr 20.11.]
+  Fortuna Düsseldorf       -  SV Sandhausen
+  SC Paderborn 07          -  FC St. Pauli
+  Hamburger SV             -  VfL Bochum
+  FC Erzgebirge Aue        -  SV Darmstadt 98
+  SpVgg Greuther Fürth     -  SSV Jahn Regensburg
+  Holstein Kiel            -  1. FC Heidenheim
+  VfL Osnabrück            -  1. FC Nürnberg
+  Eintracht Braunschweig   -  Karlsruher SC
+  Würzburger Kickers       -  Hannover 96
+
+
+Spieltag 9
+[Fr 27.11.]
+  1. FC Heidenheim         -  Hamburger SV
+  SV Darmstadt 98          -  Eintracht Braunschweig
+  Hannover 96              -  Holstein Kiel
+  VfL Bochum               -  Fortuna Düsseldorf
+  SV Sandhausen            -  FC Erzgebirge Aue
+  SSV Jahn Regensburg      -  Würzburger Kickers
+  FC St. Pauli             -  VfL Osnabrück
+  Karlsruher SC            -  SC Paderborn 07
+  1. FC Nürnberg           -  SpVgg Greuther Fürth
+
+
+Spieltag 10
+[Fr 4.12.]
+  Fortuna Düsseldorf       -  SV Darmstadt 98
+  SC Paderborn 07          -  1. FC Nürnberg
+  Hamburger SV             -  Hannover 96
+  FC Erzgebirge Aue        -  SSV Jahn Regensburg
+  SpVgg Greuther Fürth     -  1. FC Heidenheim
+  Holstein Kiel            -  VfL Bochum
+  VfL Osnabrück            -  Karlsruher SC
+  Eintracht Braunschweig   -  FC St. Pauli
+  Würzburger Kickers       -  SV Sandhausen
+
+
+Spieltag 11
+[Fr 11.12.]
+  1. FC Heidenheim         -  Hannover 96
+  SV Darmstadt 98          -  Hamburger SV
+  VfL Bochum               -  SC Paderborn 07
+  SV Sandhausen            -  SpVgg Greuther Fürth
+  SSV Jahn Regensburg      -  Holstein Kiel
+  FC St. Pauli             -  FC Erzgebirge Aue
+  Karlsruher SC            -  Fortuna Düsseldorf
+  1. FC Nürnberg           -  Würzburger Kickers
+  Eintracht Braunschweig   -  VfL Osnabrück
+
+
+Spieltag 12
+[Di 15.12.]
+  Fortuna Düsseldorf       -  VfL Osnabrück
+  SC Paderborn 07          -  Eintracht Braunschweig
+  1. FC Heidenheim         -  SSV Jahn Regensburg
+  Hamburger SV             -  SV Sandhausen
+  Hannover 96              -  VfL Bochum
+  FC Erzgebirge Aue        -  Karlsruher SC
+  SpVgg Greuther Fürth     -  SV Darmstadt 98
+  Holstein Kiel            -  1. FC Nürnberg
+  Würzburger Kickers       -  FC St. Pauli
+
+
+Spieltag 13
+[Fr 18.12.]
+  SV Darmstadt 98          -  Würzburger Kickers
+  VfL Bochum               -  1. FC Heidenheim
+  SV Sandhausen            -  Holstein Kiel
+  SSV Jahn Regensburg      -  Hannover 96
+  VfL Osnabrück            -  SC Paderborn 07
+  FC St. Pauli             -  Fortuna Düsseldorf
+  Karlsruher SC            -  Hamburger SV
+  1. FC Nürnberg           -  FC Erzgebirge Aue
+  Eintracht Braunschweig   -  SpVgg Greuther Fürth
+
+
+Spieltag 14
+[Sa 2.1.]
+  Fortuna Düsseldorf       -  SC Paderborn 07
+  1. FC Heidenheim         -  1. FC Nürnberg
+  Hamburger SV             -  SSV Jahn Regensburg
+  Hannover 96              -  SV Sandhausen
+  FC Erzgebirge Aue        -  Eintracht Braunschweig
+  VfL Bochum               -  SV Darmstadt 98
+  SpVgg Greuther Fürth     -  FC St. Pauli
+  Holstein Kiel            -  VfL Osnabrück
+  Würzburger Kickers       -  Karlsruher SC
+
+
+Spieltag 15
+[Fr 8.1.]
+  SC Paderborn 07          -  FC Erzgebirge Aue
+  SV Darmstadt 98          -  Hannover 96
+  SV Sandhausen            -  1. FC Heidenheim
+  SSV Jahn Regensburg      -  VfL Bochum
+  VfL Osnabrück            -  Würzburger Kickers
+  FC St. Pauli             -  Holstein Kiel
+  Karlsruher SC            -  SpVgg Greuther Fürth
+  1. FC Nürnberg           -  Hamburger SV
+  Eintracht Braunschweig   -  Fortuna Düsseldorf
+
+
+Spieltag 16
+[Fr 15.1.]
+  1. FC Heidenheim         -  SV Darmstadt 98
+  Hamburger SV             -  VfL Osnabrück
+  Hannover 96              -  FC St. Pauli
+  FC Erzgebirge Aue        -  Fortuna Düsseldorf
+  VfL Bochum               -  1. FC Nürnberg
+  SpVgg Greuther Fürth     -  SC Paderborn 07
+  Holstein Kiel            -  Karlsruher SC
+  SSV Jahn Regensburg      -  SV Sandhausen
+  Würzburger Kickers       -  Eintracht Braunschweig
+
+
+Spieltag 17
+[Fr 22.1.]
+  Fortuna Düsseldorf       -  SpVgg Greuther Fürth
+  SC Paderborn 07          -  Würzburger Kickers
+  SV Darmstadt 98          -  Holstein Kiel
+  SV Sandhausen            -  VfL Bochum
+  VfL Osnabrück            -  FC Erzgebirge Aue
+  FC St. Pauli             -  SSV Jahn Regensburg
+  Karlsruher SC            -  1. FC Heidenheim
+  1. FC Nürnberg           -  Hannover 96
+  Eintracht Braunschweig   -  Hamburger SV
+
+
+Spieltag 18
+[Di 26.1.]
+  Fortuna Düsseldorf       -  Hamburger SV
+  1. FC Nürnberg           -  SSV Jahn Regensburg
+  Eintracht Braunschweig   -  1. FC Heidenheim
+  Karlsruher SC            -  Hannover 96
+  FC St. Pauli             -  VfL Bochum
+  SV Darmstadt 98          -  SV Sandhausen
+  SC Paderborn 07          -  Holstein Kiel
+  FC Erzgebirge Aue        -  Würzburger Kickers
+  VfL Osnabrück            -  SpVgg Greuther Fürth
+
+
+Spieltag 19
+[Fr 29.1.]
+  Würzburger Kickers       -  Fortuna Düsseldorf
+  Hamburger SV             -  SC Paderborn 07
+  SSV Jahn Regensburg      -  SV Darmstadt 98
+  SpVgg Greuther Fürth     -  FC Erzgebirge Aue
+  Hannover 96              -  VfL Osnabrück
+  1. FC Heidenheim         -  FC St. Pauli
+  VfL Bochum               -  Karlsruher SC
+  SV Sandhausen            -  1. FC Nürnberg
+  Holstein Kiel            -  Eintracht Braunschweig
+
+
+Spieltag 20
+[Fr 5.2.]
+  SC Paderborn 07          -  1. FC Heidenheim
+  FC Erzgebirge Aue        -  Hamburger SV
+  Eintracht Braunschweig   -  Hannover 96
+  VfL Osnabrück            -  VfL Bochum
+  FC St. Pauli             -  SV Sandhausen
+  Fortuna Düsseldorf       -  Holstein Kiel
+  Karlsruher SC            -  SSV Jahn Regensburg
+  SV Darmstadt 98          -  1. FC Nürnberg
+  SpVgg Greuther Fürth     -  Würzburger Kickers
+
+
+Spieltag 21
+[Fr 12.2.]
+  SSV Jahn Regensburg      -  Fortuna Düsseldorf
+  Hannover 96              -  SC Paderborn 07
+  1. FC Heidenheim         -  FC Erzgebirge Aue
+  Hamburger SV             -  SpVgg Greuther Fürth
+  SV Darmstadt 98          -  VfL Osnabrück
+  1. FC Nürnberg           -  FC St. Pauli
+  SV Sandhausen            -  Karlsruher SC
+  VfL Bochum               -  Eintracht Braunschweig
+  Holstein Kiel            -  Würzburger Kickers
+
+
+Spieltag 22
+[Fr 19.2.]
+  VfL Osnabrück            -  1. FC Heidenheim
+  Würzburger Kickers       -  Hamburger SV
+  FC St. Pauli             -  SV Darmstadt 98
+  Fortuna Düsseldorf       -  Hannover 96
+  FC Erzgebirge Aue        -  VfL Bochum
+  SC Paderborn 07          -  SV Sandhausen
+  SpVgg Greuther Fürth     -  Holstein Kiel
+  Eintracht Braunschweig   -  SSV Jahn Regensburg
+  Karlsruher SC            -  1. FC Nürnberg
+
+
+Spieltag 23
+[Fr 26.2.]
+  1. FC Heidenheim         -  Fortuna Düsseldorf
+  SSV Jahn Regensburg      -  SC Paderborn 07
+  FC St. Pauli             -  Hamburger SV
+  Holstein Kiel            -  FC Erzgebirge Aue
+  Hannover 96              -  SpVgg Greuther Fürth
+  SV Sandhausen            -  VfL Osnabrück
+  SV Darmstadt 98          -  Karlsruher SC
+  1. FC Nürnberg           -  Eintracht Braunschweig
+  VfL Bochum               -  Würzburger Kickers
+
+
+Spieltag 24
+[Fr 5.3.]
+  Würzburger Kickers       -  1. FC Heidenheim
+  SC Paderborn 07          -  SV Darmstadt 98
+  FC Erzgebirge Aue        -  Hannover 96
+  SpVgg Greuther Fürth     -  VfL Bochum
+  Eintracht Braunschweig   -  SV Sandhausen
+  Hamburger SV             -  Holstein Kiel
+  VfL Osnabrück            -  SSV Jahn Regensburg
+  Karlsruher SC            -  FC St. Pauli
+  Fortuna Düsseldorf       -  1. FC Nürnberg
+
+
+Spieltag 25
+[Fr 12.3.]
+  SV Sandhausen            -  Fortuna Düsseldorf
+  FC St. Pauli             -  SC Paderborn 07
+  VfL Bochum               -  Hamburger SV
+  SV Darmstadt 98          -  FC Erzgebirge Aue
+  SSV Jahn Regensburg      -  SpVgg Greuther Fürth
+  1. FC Heidenheim         -  Holstein Kiel
+  1. FC Nürnberg           -  VfL Osnabrück
+  Karlsruher SC            -  Eintracht Braunschweig
+  Hannover 96              -  Würzburger Kickers
+
+
+Spieltag 26
+[Fr 19.3.]
+  Hamburger SV             -  1. FC Heidenheim
+  Eintracht Braunschweig   -  SV Darmstadt 98
+  Holstein Kiel            -  Hannover 96
+  Fortuna Düsseldorf       -  VfL Bochum
+  FC Erzgebirge Aue        -  SV Sandhausen
+  Würzburger Kickers       -  SSV Jahn Regensburg
+  VfL Osnabrück            -  FC St. Pauli
+  SC Paderborn 07          -  Karlsruher SC
+  SpVgg Greuther Fürth     -  1. FC Nürnberg
+
+
+Spieltag 27
+[Sa 3.4.]
+  SV Darmstadt 98          -  Fortuna Düsseldorf
+  1. FC Nürnberg           -  SC Paderborn 07
+  Hannover 96              -  Hamburger SV
+  SSV Jahn Regensburg      -  FC Erzgebirge Aue
+  1. FC Heidenheim         -  SpVgg Greuther Fürth
+  VfL Bochum               -  Holstein Kiel
+  Karlsruher SC            -  VfL Osnabrück
+  FC St. Pauli             -  Eintracht Braunschweig
+  SV Sandhausen            -  Würzburger Kickers
+
+
+Spieltag 28
+[Fr 9.4.]
+  Hannover 96              -  1. FC Heidenheim
+  Hamburger SV             -  SV Darmstadt 98
+  SC Paderborn 07          -  VfL Bochum
+  SpVgg Greuther Fürth     -  SV Sandhausen
+  Holstein Kiel            -  SSV Jahn Regensburg
+  FC Erzgebirge Aue        -  FC St. Pauli
+  Fortuna Düsseldorf       -  Karlsruher SC
+  Würzburger Kickers       -  1. FC Nürnberg
+  VfL Osnabrück            -  Eintracht Braunschweig
+
+
+Spieltag 29
+[Fr 16.4.]
+  VfL Osnabrück            -  Fortuna Düsseldorf
+  Eintracht Braunschweig   -  SC Paderborn 07
+  SSV Jahn Regensburg      -  1. FC Heidenheim
+  SV Sandhausen            -  Hamburger SV
+  VfL Bochum               -  Hannover 96
+  Karlsruher SC            -  FC Erzgebirge Aue
+  SV Darmstadt 98          -  SpVgg Greuther Fürth
+  1. FC Nürnberg           -  Holstein Kiel
+  FC St. Pauli             -  Würzburger Kickers
+
+
+Spieltag 30
+[Di 20.4.]
+  Würzburger Kickers       -  SV Darmstadt 98
+  1. FC Heidenheim         -  VfL Bochum
+  Holstein Kiel            -  SV Sandhausen
+  Hannover 96              -  SSV Jahn Regensburg
+  SC Paderborn 07          -  VfL Osnabrück
+  Fortuna Düsseldorf       -  FC St. Pauli
+  Hamburger SV             -  Karlsruher SC
+  FC Erzgebirge Aue        -  1. FC Nürnberg
+  SpVgg Greuther Fürth     -  Eintracht Braunschweig
+
+
+Spieltag 31
+[Fr 23.4.]
+  SC Paderborn 07          -  Fortuna Düsseldorf
+  1. FC Nürnberg           -  1. FC Heidenheim
+  SSV Jahn Regensburg      -  Hamburger SV
+  SV Sandhausen            -  Hannover 96
+  Eintracht Braunschweig   -  FC Erzgebirge Aue
+  SV Darmstadt 98          -  VfL Bochum
+  FC St. Pauli             -  SpVgg Greuther Fürth
+  VfL Osnabrück            -  Holstein Kiel
+  Karlsruher SC            -  Würzburger Kickers
+
+
+Spieltag 32
+[Fr 7.5.]
+  FC Erzgebirge Aue        -  SC Paderborn 07
+  Hannover 96              -  SV Darmstadt 98
+  1. FC Heidenheim         -  SV Sandhausen
+  VfL Bochum               -  SSV Jahn Regensburg
+  Würzburger Kickers       -  VfL Osnabrück
+  Holstein Kiel            -  FC St. Pauli
+  SpVgg Greuther Fürth     -  Karlsruher SC
+  Hamburger SV             -  1. FC Nürnberg
+  Fortuna Düsseldorf       -  Eintracht Braunschweig
+
+
+Spieltag 33
+[So 16.5.]
+  SV Darmstadt 98          -  1. FC Heidenheim
+  VfL Osnabrück            -  Hamburger SV
+  FC St. Pauli             -  Hannover 96
+  Fortuna Düsseldorf       -  FC Erzgebirge Aue
+  1. FC Nürnberg           -  VfL Bochum
+  SC Paderborn 07          -  SpVgg Greuther Fürth
+  Karlsruher SC            -  Holstein Kiel
+  SV Sandhausen            -  SSV Jahn Regensburg
+  Eintracht Braunschweig   -  Würzburger Kickers
+
+
+Spieltag 34
+[So 23.5.]
+  SpVgg Greuther Fürth     -  Fortuna Düsseldorf
+  Würzburger Kickers       -  SC Paderborn 07
+  Holstein Kiel            -  SV Darmstadt 98
+  VfL Bochum               -  SV Sandhausen
+  FC Erzgebirge Aue        -  VfL Osnabrück
+  SSV Jahn Regensburg      -  FC St. Pauli
+  1. FC Heidenheim         -  Karlsruher SC
+  Hannover 96              -  1. FC Nürnberg
+  Hamburger SV             -  Eintracht Braunschweig

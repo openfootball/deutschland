@@ -3,107 +3,126 @@
 
 Spieltag 1
 [Fr 18.9.]
-  Hamburger SV             -  Fortuna Düsseldorf
-  SSV Jahn Regensburg      -  1. FC Nürnberg
+  18.30  Hamburger SV             -  Fortuna Düsseldorf
+         SSV Jahn Regensburg      -  1. FC Nürnberg
+[Sa 19.9.]
+  13.00  Hannover 96              -  Karlsruher SC
+         SV Sandhausen            -  SV Darmstadt 98
+         Würzburger Kickers       -  FC Erzgebirge Aue
 [So 20.9.]
-  1. FC Heidenheim         -  Eintracht Braunschweig
-  Hannover 96              -  Karlsruher SC
-  VfL Bochum               -  FC St. Pauli
-  SV Sandhausen            -  SV Darmstadt 98
-  Holstein Kiel            -  SC Paderborn 07
-  Würzburger Kickers       -  FC Erzgebirge Aue
-  SpVgg Greuther Fürth     -  VfL Osnabrück
+  13.30  1. FC Heidenheim         -  Eintracht Braunschweig
+         Holstein Kiel            -  SC Paderborn 07
+         SpVgg Greuther Fürth     -  VfL Osnabrück
+[Mo 21.9.]
+  20.30  VfL Bochum               -  FC St. Pauli
 
 
 Spieltag 2
 [Fr 25.9.]
-  Fortuna Düsseldorf       -  Würzburger Kickers
-  SC Paderborn 07          -  Hamburger SV
-  SV Darmstadt 98          -  SSV Jahn Regensburg
-  FC Erzgebirge Aue        -  SpVgg Greuther Fürth
-  VfL Osnabrück            -  Hannover 96
-  FC St. Pauli             -  1. FC Heidenheim
-  Karlsruher SC            -  VfL Bochum
-  1. FC Nürnberg           -  SV Sandhausen
-  Eintracht Braunschweig   -  Holstein Kiel
+  18.30  FC Erzgebirge Aue        -  SpVgg Greuther Fürth
+         VfL Osnabrück            -  Hannover 96
+[Sa 26.9.]
+  13.00  Fortuna Düsseldorf       -  Würzburger Kickers
+         SV Darmstadt 98          -  SSV Jahn Regensburg
+         Eintracht Braunschweig   -  Holstein Kiel
+[So 27.9.]
+  13.30  FC St. Pauli             -  1. FC Heidenheim
+         Karlsruher SC            -  VfL Bochum
+         1. FC Nürnberg           -  SV Sandhausen
+[Mo 28.9.]
+  20.30  SC Paderborn 07          -  Hamburger SV
 
 
 Spieltag 3
 [Fr 2.10.]
-  1. FC Heidenheim         -  SC Paderborn 07
-  Hamburger SV             -  FC Erzgebirge Aue
-  Hannover 96              -  Eintracht Braunschweig
-  VfL Bochum               -  VfL Osnabrück
-  SV Sandhausen            -  FC St. Pauli
-  Holstein Kiel            -  Fortuna Düsseldorf
-  SSV Jahn Regensburg      -  Karlsruher SC
-  1. FC Nürnberg           -  SV Darmstadt 98
-  Würzburger Kickers       -  SpVgg Greuther Fürth
+  18.30  VfL Bochum               -  VfL Osnabrück
+         SV Sandhausen            -  FC St. Pauli
+[Sa 3.10.]
+  13.00  1. FC Heidenheim         -  SC Paderborn 07
+         Hannover 96              -  Eintracht Braunschweig
+         SSV Jahn Regensburg      -  Karlsruher SC
+[So 4.10.]
+  13.30  Hamburger SV             -  FC Erzgebirge Aue
+         Holstein Kiel            -  Fortuna Düsseldorf
+         Würzburger Kickers       -  SpVgg Greuther Fürth
+[Mo 5.10.]
+  20.30  1. FC Nürnberg           -  SV Darmstadt 98
 
 
 Spieltag 4
-[Fr 16.10.]
-  Fortuna Düsseldorf       -  SSV Jahn Regensburg
-  SC Paderborn 07          -  Hannover 96
-  FC Erzgebirge Aue        -  1. FC Heidenheim
-  SpVgg Greuther Fürth     -  Hamburger SV
-  VfL Osnabrück            -  SV Darmstadt 98
-  FC St. Pauli             -  1. FC Nürnberg
-  Karlsruher SC            -  SV Sandhausen
-  Eintracht Braunschweig   -  VfL Bochum
-  Würzburger Kickers       -  Holstein Kiel
+[Sa 17.10.]
+  13.00  SpVgg Greuther Fürth     -  Hamburger SV
+         Karlsruher SC            -  SV Sandhausen
+         Eintracht Braunschweig   -  VfL Bochum
+[So 18.10.]
+  13.30  Fortuna Düsseldorf       -  SSV Jahn Regensburg
+         SC Paderborn 07          -  Hannover 96
+         FC Erzgebirge Aue        -  1. FC Heidenheim
+         VfL Osnabrück            -  SV Darmstadt 98
+         Würzburger Kickers       -  Holstein Kiel
+[Mo 19.10.]
+  20.30  FC St. Pauli             -  1. FC Nürnberg
 
 
 Spieltag 5
 [Fr 23.10.]
-  1. FC Heidenheim         -  VfL Osnabrück
-  Hamburger SV             -  Würzburger Kickers
-  SV Darmstadt 98          -  FC St. Pauli
-  Hannover 96              -  Fortuna Düsseldorf
-  VfL Bochum               -  FC Erzgebirge Aue
-  SV Sandhausen            -  SC Paderborn 07
-  Holstein Kiel            -  SpVgg Greuther Fürth
-  SSV Jahn Regensburg      -  Eintracht Braunschweig
-  1. FC Nürnberg           -  Karlsruher SC
+  18.30  SSV Jahn Regensburg      -  Eintracht Braunschweig
+         1. FC Nürnberg           -  Karlsruher SC
+[Sa 24.10.]
+  13.00  Hamburger SV             -  Würzburger Kickers
+         SV Darmstadt 98          -  FC St. Pauli
+         Hannover 96              -  Fortuna Düsseldorf
+         Holstein Kiel            -  SpVgg Greuther Fürth
+[So 25.10.]
+  13.30  1. FC Heidenheim         -  VfL Osnabrück
+         VfL Bochum               -  FC Erzgebirge Aue
+         SV Sandhausen            -  SC Paderborn 07
 
 
 Spieltag 6
 [Fr 30.10.]
-  Fortuna Düsseldorf       -  1. FC Heidenheim
-  SC Paderborn 07          -  SSV Jahn Regensburg
-  Hamburger SV             -  FC St. Pauli
-  FC Erzgebirge Aue        -  Holstein Kiel
-  SpVgg Greuther Fürth     -  Hannover 96
-  VfL Osnabrück            -  SV Sandhausen
-  Karlsruher SC            -  SV Darmstadt 98
-  Eintracht Braunschweig   -  1. FC Nürnberg
-  Würzburger Kickers       -  VfL Bochum
+  18.30  Fortuna Düsseldorf       -  1. FC Heidenheim
+         Hamburger SV             -  FC St. Pauli
+[Sa 31.10.]
+  13.00  SC Paderborn 07          -  SSV Jahn Regensburg
+         FC Erzgebirge Aue        -  Holstein Kiel
+         VfL Osnabrück            -  SV Sandhausen
+         Eintracht Braunschweig   -  1. FC Nürnberg
+[So 1.11.]
+  13.30  SpVgg Greuther Fürth     -  Hannover 96
+         Karlsruher SC            -  SV Darmstadt 98
+         Würzburger Kickers       -  VfL Bochum
 
 
 Spieltag 7
 [Fr 6.11.]
-  1. FC Heidenheim         -  Würzburger Kickers
-  SV Darmstadt 98          -  SC Paderborn 07
-  Hannover 96              -  FC Erzgebirge Aue
-  VfL Bochum               -  SpVgg Greuther Fürth
-  SV Sandhausen            -  Eintracht Braunschweig
-  Holstein Kiel            -  Hamburger SV
-  SSV Jahn Regensburg      -  VfL Osnabrück
-  FC St. Pauli             -  Karlsruher SC
-  1. FC Nürnberg           -  Fortuna Düsseldorf
+  18.30  1. FC Heidenheim         -  Würzburger Kickers
+         SV Sandhausen            -  Eintracht Braunschweig
+[Sa 7.11.]
+  13.00  Hannover 96              -  FC Erzgebirge Aue
+         VfL Bochum               -  SpVgg Greuther Fürth
+         1. FC Nürnberg           -  Fortuna Düsseldorf
+[So 8.11.]
+  13.30  SV Darmstadt 98          -  SC Paderborn 07
+         SSV Jahn Regensburg      -  VfL Osnabrück
+         FC St. Pauli             -  Karlsruher SC
+[Mo 9.11.]
+  20.30  Holstein Kiel            -  Hamburger SV
 
 
 Spieltag 8
-[Fr 20.11.]
-  Fortuna Düsseldorf       -  SV Sandhausen
-  SC Paderborn 07          -  FC St. Pauli
-  Hamburger SV             -  VfL Bochum
-  FC Erzgebirge Aue        -  SV Darmstadt 98
-  SpVgg Greuther Fürth     -  SSV Jahn Regensburg
-  Holstein Kiel            -  1. FC Heidenheim
-  VfL Osnabrück            -  1. FC Nürnberg
-  Eintracht Braunschweig   -  Karlsruher SC
-  Würzburger Kickers       -  Hannover 96
+[Sa 21.11.]
+  13.00  Fortuna Düsseldorf       -  SV Sandhausen
+         SC Paderborn 07          -  FC St. Pauli
+         Holstein Kiel            -  1. FC Heidenheim
+         Eintracht Braunschweig   -  Karlsruher SC
+[So 22.11.]
+  13.30  Hamburger SV             -  VfL Bochum
+         FC Erzgebirge Aue        -  SV Darmstadt 98
+         SpVgg Greuther Fürth     -  SSV Jahn Regensburg
+         Würzburger Kickers       -  Hannover 96
+[Mo 23.11.]
+  20.30  VfL Osnabrück            -  1. FC Nürnberg
 
 
 Spieltag 9
@@ -420,25 +439,25 @@ Spieltag 32
 
 Spieltag 33
 [So 16.5.]
-  SV Darmstadt 98          -  1. FC Heidenheim
-  VfL Osnabrück            -  Hamburger SV
-  FC St. Pauli             -  Hannover 96
-  Fortuna Düsseldorf       -  FC Erzgebirge Aue
-  1. FC Nürnberg           -  VfL Bochum
-  SC Paderborn 07          -  SpVgg Greuther Fürth
-  Karlsruher SC            -  Holstein Kiel
-  SV Sandhausen            -  SSV Jahn Regensburg
-  Eintracht Braunschweig   -  Würzburger Kickers
+  15.30  SV Darmstadt 98          -  1. FC Heidenheim
+         VfL Osnabrück            -  Hamburger SV
+         FC St. Pauli             -  Hannover 96
+         Fortuna Düsseldorf       -  FC Erzgebirge Aue
+         1. FC Nürnberg           -  VfL Bochum
+         SC Paderborn 07          -  SpVgg Greuther Fürth
+         Karlsruher SC            -  Holstein Kiel
+         SV Sandhausen            -  SSV Jahn Regensburg
+         Eintracht Braunschweig   -  Würzburger Kickers
 
 
 Spieltag 34
 [So 23.5.]
-  SpVgg Greuther Fürth     -  Fortuna Düsseldorf
-  Würzburger Kickers       -  SC Paderborn 07
-  Holstein Kiel            -  SV Darmstadt 98
-  VfL Bochum               -  SV Sandhausen
-  FC Erzgebirge Aue        -  VfL Osnabrück
-  SSV Jahn Regensburg      -  FC St. Pauli
-  1. FC Heidenheim         -  Karlsruher SC
-  Hannover 96              -  1. FC Nürnberg
-  Hamburger SV             -  Eintracht Braunschweig
+  15.30  SpVgg Greuther Fürth     -  Fortuna Düsseldorf
+         Würzburger Kickers       -  SC Paderborn 07
+         Holstein Kiel            -  SV Darmstadt 98
+         VfL Bochum               -  SV Sandhausen
+         FC Erzgebirge Aue        -  VfL Osnabrück
+         SSV Jahn Regensburg      -  FC St. Pauli
+         1. FC Heidenheim         -  Karlsruher SC
+         Hannover 96              -  1. FC Nürnberg
+         Hamburger SV             -  Eintracht Braunschweig

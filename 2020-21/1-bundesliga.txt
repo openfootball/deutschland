@@ -2,107 +2,123 @@
 
 
 Spieltag 1
+[Fr 18.9.]
+  20.30  Bayern München           -  FC Schalke 04
 [Sa 19.9.]
-  Bayern München           -  FC Schalke 04
-  Borussia Dortmund        -  Bor. Mönchengladbach
-  RB Leipzig               -  1. FSV Mainz 05
-  VfL Wolfsburg            -  Bayer 04 Leverkusen
-  Eintracht Frankfurt      -  Arminia Bielefeld
-  1. FC Union Berlin       -  FC Augsburg
-  1. FC Köln               -  TSG 1899 Hoffenheim
-  Werder Bremen            -  Hertha BSC
-  VfB Stuttgart            -  SC Freiburg
+  15.30  Eintracht Frankfurt      -  Arminia Bielefeld
+         1. FC Union Berlin       -  FC Augsburg
+         1. FC Köln               -  TSG 1899 Hoffenheim
+         Werder Bremen            -  Hertha BSC
+         VfB Stuttgart            -  SC Freiburg
+  18.30  Borussia Dortmund        -  Bor. Mönchengladbach
+[So 20.9.]
+  15.30  RB Leipzig               -  1. FSV Mainz 05
+  18.00  VfL Wolfsburg            -  Bayer 04 Leverkusen
 
 
 Spieltag 2
+[Fr 25.9.]
+  20.30  Hertha BSC               -  Eintracht Frankfurt
 [Sa 26.9.]
-  Bor. Mönchengladbach     -  1. FC Union Berlin
-  Bayer 04 Leverkusen      -  RB Leipzig
-  TSG 1899 Hoffenheim      -  Bayern München
-  SC Freiburg              -  VfL Wolfsburg
-  Hertha BSC               -  Eintracht Frankfurt
-  FC Schalke 04            -  Werder Bremen
-  1. FSV Mainz 05          -  VfB Stuttgart
-  FC Augsburg              -  Borussia Dortmund
-  Arminia Bielefeld        -  1. FC Köln
+  15.30  Bor. Mönchengladbach     -  1. FC Union Berlin
+         Bayer 04 Leverkusen      -  RB Leipzig
+         1. FSV Mainz 05          -  VfB Stuttgart
+         FC Augsburg              -  Borussia Dortmund
+         Arminia Bielefeld        -  1. FC Köln
+  18.30  FC Schalke 04            -  Werder Bremen
+[So 27.9.]
+  15.30  TSG 1899 Hoffenheim      -  Bayern München
+  18.00  SC Freiburg              -  VfL Wolfsburg
 
 
 Spieltag 3
+[Fr 2.10.]
+  20.30  1. FC Union Berlin       -  1. FSV Mainz 05
 [Sa 3.10.]
-  Bayern München           -  Hertha BSC
-  Borussia Dortmund        -  SC Freiburg
-  RB Leipzig               -  FC Schalke 04
-  VfL Wolfsburg            -  FC Augsburg
-  Eintracht Frankfurt      -  TSG 1899 Hoffenheim
-  1. FC Union Berlin       -  1. FSV Mainz 05
-  1. FC Köln               -  Bor. Mönchengladbach
-  Werder Bremen            -  Arminia Bielefeld
-  VfB Stuttgart            -  Bayer 04 Leverkusen
+  15.30  Borussia Dortmund        -  SC Freiburg
+         Eintracht Frankfurt      -  TSG 1899 Hoffenheim
+         1. FC Köln               -  Bor. Mönchengladbach
+         Werder Bremen            -  Arminia Bielefeld
+         VfB Stuttgart            -  Bayer 04 Leverkusen
+  18.30  RB Leipzig               -  FC Schalke 04
+[So 4.10.]
+  15.30  VfL Wolfsburg            -  FC Augsburg
+  18.00  Bayern München           -  Hertha BSC
 
 
 Spieltag 4
 [Sa 17.10.]
-  Bor. Mönchengladbach     -  VfL Wolfsburg
-  TSG 1899 Hoffenheim      -  Borussia Dortmund
-  SC Freiburg              -  Werder Bremen
-  Hertha BSC               -  VfB Stuttgart
-  FC Schalke 04            -  1. FC Union Berlin
-  1. FSV Mainz 05          -  Bayer 04 Leverkusen
-  1. FC Köln               -  Eintracht Frankfurt
-  FC Augsburg              -  RB Leipzig
-  Arminia Bielefeld        -  Bayern München
+  15.30  TSG 1899 Hoffenheim      -  Borussia Dortmund
+         SC Freiburg              -  Werder Bremen
+         Hertha BSC               -  VfB Stuttgart
+         1. FSV Mainz 05          -  Bayer 04 Leverkusen
+         FC Augsburg              -  RB Leipzig
+  18.30  Arminia Bielefeld        -  Bayern München
+  20.30  Bor. Mönchengladbach     -  VfL Wolfsburg
+[So 18.10.]
+  15.30  1. FC Köln               -  Eintracht Frankfurt
+  18.00  FC Schalke 04            -  1. FC Union Berlin
 
 
 Spieltag 5
+[Fr 23.10.]
+  20.30  VfB Stuttgart            -  1. FC Köln
 [Sa 24.10.]
-  Bayern München           -  Eintracht Frankfurt
-  Borussia Dortmund        -  FC Schalke 04
-  RB Leipzig               -  Hertha BSC
-  Bayer 04 Leverkusen      -  FC Augsburg
-  VfL Wolfsburg            -  Arminia Bielefeld
-  1. FC Union Berlin       -  SC Freiburg
-  1. FSV Mainz 05          -  Bor. Mönchengladbach
-  Werder Bremen            -  TSG 1899 Hoffenheim
-  VfB Stuttgart            -  1. FC Köln
+  15.30  Bayern München           -  Eintracht Frankfurt
+         RB Leipzig               -  Hertha BSC
+         1. FC Union Berlin       -  SC Freiburg
+         1. FSV Mainz 05          -  Bor. Mönchengladbach
+  18.30  Borussia Dortmund        -  FC Schalke 04
+[So 25.10.]
+  15.30  VfL Wolfsburg            -  Arminia Bielefeld
+  18.00  Werder Bremen            -  TSG 1899 Hoffenheim
+[Mo 26.10.]
+  20.30  Bayer 04 Leverkusen      -  FC Augsburg
 
 
 Spieltag 6
+[Fr 30.10.]
+  20.30  FC Schalke 04            -  VfB Stuttgart
 [Sa 31.10.]
-  Bor. Mönchengladbach     -  RB Leipzig
-  TSG 1899 Hoffenheim      -  1. FC Union Berlin
-  SC Freiburg              -  Bayer 04 Leverkusen
-  Eintracht Frankfurt      -  Werder Bremen
-  Hertha BSC               -  VfL Wolfsburg
-  FC Schalke 04            -  VfB Stuttgart
-  1. FC Köln               -  Bayern München
-  FC Augsburg              -  1. FSV Mainz 05
-  Arminia Bielefeld        -  Borussia Dortmund
+  15.30  Eintracht Frankfurt      -  Werder Bremen
+         1. FC Köln               -  Bayern München
+         FC Augsburg              -  1. FSV Mainz 05
+         Arminia Bielefeld        -  Borussia Dortmund
+  18.30  Bor. Mönchengladbach     -  RB Leipzig
+[So 1.11.]
+  15.30  SC Freiburg              -  Bayer 04 Leverkusen
+  18.00  Hertha BSC               -  VfL Wolfsburg
+[Mo 2.11.]
+  20.30  TSG 1899 Hoffenheim      -  1. FC Union Berlin
 
 
 Spieltag 7
+[Fr 6.11.]
+  20.30  Werder Bremen            -  1. FC Köln
 [Sa 7.11.]
-  Borussia Dortmund        -  Bayern München
-  RB Leipzig               -  SC Freiburg
-  Bayer 04 Leverkusen      -  Bor. Mönchengladbach
-  VfL Wolfsburg            -  TSG 1899 Hoffenheim
-  1. FC Union Berlin       -  Arminia Bielefeld
-  1. FSV Mainz 05          -  FC Schalke 04
-  FC Augsburg              -  Hertha BSC
-  Werder Bremen            -  1. FC Köln
-  VfB Stuttgart            -  Eintracht Frankfurt
+  15.30  RB Leipzig               -  SC Freiburg
+         1. FC Union Berlin       -  Arminia Bielefeld
+         1. FSV Mainz 05          -  FC Schalke 04
+         FC Augsburg              -  Hertha BSC
+         VfB Stuttgart            -  Eintracht Frankfurt
+  18.30  Borussia Dortmund        -  Bayern München
+[So 8.11.]
+  15.30  VfL Wolfsburg            -  TSG 1899 Hoffenheim
+  18.00  Bayer 04 Leverkusen      -  Bor. Mönchengladbach
 
 
 Spieltag 8
 [Sa 21.11.]
-  Bayern München           -  Werder Bremen
-  Bor. Mönchengladbach     -  FC Augsburg
-  TSG 1899 Hoffenheim      -  VfB Stuttgart
-  SC Freiburg              -  1. FSV Mainz 05
-  Eintracht Frankfurt      -  RB Leipzig
-  Hertha BSC               -  Borussia Dortmund
-  FC Schalke 04            -  VfL Wolfsburg
-  1. FC Köln               -  1. FC Union Berlin
-  Arminia Bielefeld        -  Bayer 04 Leverkusen
+  15.30  Bayern München           -  Werder Bremen
+         Bor. Mönchengladbach     -  FC Augsburg
+         TSG 1899 Hoffenheim      -  VfB Stuttgart
+         FC Schalke 04            -  VfL Wolfsburg
+         Arminia Bielefeld        -  Bayer 04 Leverkusen
+  18.30  Eintracht Frankfurt      -  RB Leipzig
+  20.30  Hertha BSC               -  Borussia Dortmund
+[So 22.11.]
+  15.30  SC Freiburg              -  1. FSV Mainz 05
+  18.00  1. FC Köln               -  1. FC Union Berlin
 
 
 Spieltag 9
@@ -419,25 +435,25 @@ Spieltag 32
 
 Spieltag 33
 [Sa 15.5.]
-  SC Freiburg              -  Bayern München
-  1. FSV Mainz 05          -  Borussia Dortmund
-  Arminia Bielefeld        -  TSG 1899 Hoffenheim
-  RB Leipzig               -  VfL Wolfsburg
-  FC Schalke 04            -  Eintracht Frankfurt
-  Bayer 04 Leverkusen      -  1. FC Union Berlin
-  Hertha BSC               -  1. FC Köln
-  FC Augsburg              -  Werder Bremen
-  Bor. Mönchengladbach     -  VfB Stuttgart
+  15.30  SC Freiburg              -  Bayern München
+         1. FSV Mainz 05          -  Borussia Dortmund
+         Arminia Bielefeld        -  TSG 1899 Hoffenheim
+         RB Leipzig               -  VfL Wolfsburg
+         FC Schalke 04            -  Eintracht Frankfurt
+         Bayer 04 Leverkusen      -  1. FC Union Berlin
+         Hertha BSC               -  1. FC Köln
+         FC Augsburg              -  Werder Bremen
+         Bor. Mönchengladbach     -  VfB Stuttgart
 
 
 Spieltag 34
 [Sa 22.5.]
-  1. FC Union Berlin       -  RB Leipzig
-  Werder Bremen            -  Bor. Mönchengladbach
-  Borussia Dortmund        -  Bayer 04 Leverkusen
-  Eintracht Frankfurt      -  SC Freiburg
-  TSG 1899 Hoffenheim      -  Hertha BSC
-  1. FC Köln               -  FC Schalke 04
-  VfL Wolfsburg            -  1. FSV Mainz 05
-  Bayern München           -  FC Augsburg
-  VfB Stuttgart            -  Arminia Bielefeld
+  15.30  1. FC Union Berlin       -  RB Leipzig
+         Werder Bremen            -  Bor. Mönchengladbach
+         Borussia Dortmund        -  Bayer 04 Leverkusen
+         Eintracht Frankfurt      -  SC Freiburg
+         TSG 1899 Hoffenheim      -  Hertha BSC
+         1. FC Köln               -  FC Schalke 04
+         VfL Wolfsburg            -  1. FSV Mainz 05
+         Bayern München           -  FC Augsburg
+         VfB Stuttgart            -  Arminia Bielefeld

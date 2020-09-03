@@ -81,15 +81,41 @@ Use the `sportdb` command line tool to build your own `deutschland.db` copy
 from the plain text datasets. [More »](https://github.com/openfootball/datafile)
 
 
-### Examples
+### Alternative I - Use the Quick Starter Templates
+
+Use the quick starter datafile templates to start from scratch. Examples:
 
 Build the database for all German clubs, leagues and seasons:
 
     $ sportdb new de
 
-Build the database for the 2019/20 season:
+Build the database for the 2020/21 season:
 
-    $ sportdb new de2019-20
+    $ sportdb new de2020-21
+
+[More »](https://github.com/openfootball/quick-starter)
+
+
+
+### Alternative II - Do-It-Yourself (DIY) - Downlad and Unpack Zip Archive or Git Clone
+
+Download and unpack the zip archive with the datasets or if you have git installed use the `git clone` command to
+get a local copy.
+
+Try in your working folder (that is, `/deutschland`):
+
+```
+$ sportdb build
+$ sportdb --verbose build     # or for more (verbose) details incl. debug info
+```
+
+This will
+
+- setup a new single-file SQLite database e.g. `./sport.db` and
+- read in all datasets in plain text (`.txt`)
+
+That's it.
+
 
 
 

@@ -3,40 +3,40 @@
 
 1. Runde
 [Fr 11.9.]
-  20.45  TSV Havelse              -  1. FSV Mainz 05
-         Eintracht Braunschweig   -  Hertha BSC
+  20.45  TSV Havelse              1:5 (1:0)  1. FSV Mainz 05
+         Eintracht Braunschweig   5:4 (3:2)  Hertha BSC
 [Sa 12.9.]
-  15.30  MTV Eintracht Celle      -  FC Augsburg
-         SV Todesfelde            -  VfL Osnabrück
-         TSV 1860 München         -  Eintracht Frankfurt
-         Union Fürstenwalde       -  VfL Wolfsburg
-         FV Engers 07             -  VfL Bochum
-         VSG Altglienicke         -  1. FC Köln
-         FC Oberneuland           -  Bor. Mönchengladbach
-         RSV Meinerzhagen         -  SpVgg Greuther Fürth
-         1. FC Nürnberg           -  RB Leipzig
-  18.30  SSV Ulm 1846             -  FC Erzgebirge Aue
-         FC Ingolstadt 04         -  Fortuna Düsseldorf
-         Karlsruher SC            -  1. FC Union Berlin
-  20.45  FC Carl Zeiss Jena       -  Werder Bremen
+  15.30  MTV Eintracht Celle      0:7 (0:2)  FC Augsburg
+         SV Todesfelde            0:1 (0:0)  VfL Osnabrück
+         TSV 1860 München         1:2 (0:0)  Eintracht Frankfurt
+         Union Fürstenwalde       1:4 (1:2)  VfL Wolfsburg
+         FV Engers 07             0:3 (0:1)  VfL Bochum
+         VSG Altglienicke         0:6 (0:3)  1. FC Köln
+         FC Oberneuland           0:8 (0:5)  Bor. Mönchengladbach
+         RSV Meinerzhagen         1:6 (1:1, 0:0) n.V.  SpVgg Greuther Fürth
+         1. FC Nürnberg           0:3 (0:1)  RB Leipzig
+  18.30  SSV Ulm 1846             2:0 (1:0)  FC Erzgebirge Aue
+         FC Ingolstadt 04         0:1 (0:0)  Fortuna Düsseldorf
+         Karlsruher SC            0:1 (0:0) n.V.  1. FC Union Berlin
+  20.45  FC Carl Zeiss Jena       0:2 (0:0)  Werder Bremen
 [So 13.9.]
-  15.30  Chemnitzer FC            -  TSG 1899 Hoffenheim
-         1. FC Rielasingen-Arlen  -  Holstein Kiel
-         Hansa Rostock            -  VfB Stuttgart
-         TSV Steinbach Haiger     -  SV Sandhausen
-         SV Elversberg            -  FC St. Pauli
-         SC Wiedenbrück           -  SC Paderborn 07
-         1. FC Kaiserslautern     -  SSV Jahn Regensburg
-         1. FC Schweinfurt 05     -  FC Schalke 04
-         Eintracht Norderstedt    -  Bayer 04 Leverkusen
-  18.30  SV Wehen Wiesbaden       -  1. FC Heidenheim
-         SV Waldhof Mannheim      -  SC Freiburg
-         1. FC Magdeburg          -  SV Darmstadt 98
+  1. FC Schweinfurt 05     -  FC Schalke 04            [cancelled]
+  15.30  Chemnitzer FC            2:2 (1:1, 0:0) n.V. 2:3 i.E.  TSG 1899 Hoffenheim
+         1. FC Rielasingen-Arlen  1:7 (1:5)  Holstein Kiel
+         Hansa Rostock            0:1 (0:1)  VfB Stuttgart
+         TSV Steinbach Haiger     1:2 (1:2)  SV Sandhausen
+         SC Wiedenbrück           0:5 (0:3)  SC Paderborn 07
+         Eintracht Norderstedt    0:7 (0:6)  Bayer 04 Leverkusen
+         1. FC Kaiserslautern     1:1 (1:1, 0:1) n.V. 3:4 i.E.  SSV Jahn Regensburg
+         SV Elversberg            4:2 (2:1)  FC St. Pauli
+  18.30  SV Wehen Wiesbaden       1:0 (0:0)  1. FC Heidenheim
+         SV Waldhof Mannheim      1:2 (0:1)  SC Freiburg
+         1. FC Magdeburg          2:3 (2:2, 2:0) n.V.  SV Darmstadt 98
 [Mo 14.9.]
-  18.30  Dynamo Dresden           -  Hamburger SV
-         Würzburger Kickers       -  Hannover 96
-         Rot-Weiss Essen          -  Arminia Bielefeld
-  20.45  MSV Duisburg             -  Borussia Dortmund
+  18.30  Dynamo Dresden           4:1 (2:0)  Hamburger SV
+         Würzburger Kickers       2:3 (0:1)  Hannover 96
+         Rot-Weiss Essen          1:0 (1:0)  Arminia Bielefeld
+  20.45  MSV Duisburg             0:5 (0:3)  Borussia Dortmund
 [Do 15.10.]
   20.45  1. FC Düren              -  Bayern München
 

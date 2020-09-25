@@ -3,171 +3,200 @@
 
 Spieltag 1
 [Fr 18.9.]
-  17.45  1. FC Kaiserslautern     -  Dynamo Dresden
+  17.45  1. FC Kaiserslautern     0:1 (0:1)  Dynamo Dresden
 [Sa 19.9.]
-  Bayern München II        -  Türkgücü München
-  FC Ingolstadt 04         -  KFC Uerdingen
-  Hansa Rostock            -  MSV Duisburg
-  SV Meppen                -  TSV 1860 München
-  1. FC Magdeburg          -  Hallescher FC
-  FSV Zwickau              -  SpVgg Unterhaching
-  SV Wehen Wiesbaden       -  SC Verl
-  VfB Lübeck               -  1. FC Saarbrücken
-  SV Waldhof Mannheim      -  FC Viktoria Köln
+  14.00  Bayern München II        2:2 (1:1)  Türkgücü München
+         Hansa Rostock            3:1 (0:1)  MSV Duisburg
+         SV Meppen                1:3 (0:1)  TSV 1860 München
+         FSV Zwickau              2:1 (1:0)  SpVgg Unterhaching
+         SV Wehen Wiesbaden       0:0  SC Verl
+         VfB Lübeck               1:1 (1:0)  1. FC Saarbrücken
+[So 20.9.]
+  13.00  FC Ingolstadt 04         2:1 (1:0)  KFC Uerdingen
+  14.00  1. FC Magdeburg          0:2 (0:2)  Hallescher FC
+[Mo 21.9.]
+  19.00  SV Waldhof Mannheim      2:2 (2:0)  FC Viktoria Köln
 
 
 Spieltag 2
 [Fr 25.9.]
-  Dynamo Dresden           -  SV Waldhof Mannheim
-  MSV Duisburg             -  FSV Zwickau
-  SpVgg Unterhaching       -  VfB Lübeck
-  FC Viktoria Köln         -  SV Wehen Wiesbaden
-  1. FC Saarbrücken        -  Hansa Rostock
-  SC Verl                  -  Bayern München II
-  Türkgücü München         -  1. FC Kaiserslautern
-  TSV 1860 München         -  1. FC Magdeburg
-  Hallescher FC            -  FC Ingolstadt 04
-  KFC Uerdingen            -  SV Meppen
+  19.00  SpVgg Unterhaching       -  VfB Lübeck
+[Sa 26.9.]
+  14.00  MSV Duisburg             -  FSV Zwickau
+         FC Viktoria Köln         -  SV Wehen Wiesbaden
+         1. FC Saarbrücken        -  Hansa Rostock
+         SC Verl                  -  Bayern München II
+         TSV 1860 München         -  1. FC Magdeburg
+         Hallescher FC            -  FC Ingolstadt 04
+[So 27.9.]
+  13.00  Dynamo Dresden           -  SV Waldhof Mannheim
+  14.00  Türkgücü München         -  1. FC Kaiserslautern
+[Mo 28.9.]
+  19.00  KFC Uerdingen            -  SV Meppen
 
 
 Spieltag 3
 [Fr 2.10.]
-  Bayern München II        -  Dynamo Dresden
-  SV Wehen Wiesbaden       -  1. FC Kaiserslautern
-  Hansa Rostock            -  KFC Uerdingen
-  SV Meppen                -  SC Verl
-  1. FC Magdeburg          -  FC Viktoria Köln
-  FSV Zwickau              -  TSV 1860 München
-  1. FC Saarbrücken        -  Hallescher FC
-  FC Ingolstadt 04         -  SpVgg Unterhaching
-  SV Waldhof Mannheim      -  Türkgücü München
-  VfB Lübeck               -  MSV Duisburg
+  19.00  Bayern München II        -  Dynamo Dresden
+[Sa 3.10.]
+  14.00  SV Meppen                -  SC Verl
+         1. FC Magdeburg          -  FC Viktoria Köln
+         FSV Zwickau              -  TSV 1860 München
+         FC Ingolstadt 04         -  SpVgg Unterhaching
+         SV Waldhof Mannheim      -  Türkgücü München
+         VfB Lübeck               -  MSV Duisburg
+[So 4.10.]
+  13.00  Hansa Rostock            -  KFC Uerdingen
+  14.00  1. FC Saarbrücken        -  Hallescher FC
+[Mo 5.10.]
+  19.00  SV Wehen Wiesbaden       -  1. FC Kaiserslautern
 
 
 Spieltag 4
 [Fr 9.10.]
-  1. FC Kaiserslautern     -  SV Waldhof Mannheim
-  MSV Duisburg             -  1. FC Saarbrücken
-  TSV 1860 München         -  VfB Lübeck
-  KFC Uerdingen            -  Bayern München II
-  Hallescher FC            -  FSV Zwickau
-  SC Verl                  -  Hansa Rostock
-  Türkgücü München         -  SV Wehen Wiesbaden
-  SpVgg Unterhaching       -  SV Meppen
-  FC Viktoria Köln         -  FC Ingolstadt 04
-  Dynamo Dresden           -  1. FC Magdeburg
+  19.00  MSV Duisburg             -  1. FC Saarbrücken
+[Sa 10.10.]
+  14.00  1. FC Kaiserslautern     -  SV Waldhof Mannheim
+         TSV 1860 München         -  VfB Lübeck
+         KFC Uerdingen            -  Bayern München II
+         SC Verl                  -  Hansa Rostock
+         Türkgücü München         -  SV Wehen Wiesbaden
+         Dynamo Dresden           -  1. FC Magdeburg
+[So 11.10.]
+  13.00  SpVgg Unterhaching       -  SV Meppen
+  14.00  FC Viktoria Köln         -  FC Ingolstadt 04
+[Mo 12.10.]
+  19.00  Hallescher FC            -  FSV Zwickau
 
 
 Spieltag 5
 [Fr 16.10.]
-  1. FC Magdeburg          -  Türkgücü München
-  Bayern München II        -  1. FC Kaiserslautern
-  FC Ingolstadt 04         -  SC Verl
-  MSV Duisburg             -  Hallescher FC
-  Hansa Rostock            -  TSV 1860 München
-  SV Meppen                -  FC Viktoria Köln
-  VfB Lübeck               -  Dynamo Dresden
-  SV Wehen Wiesbaden       -  SV Waldhof Mannheim
-  FSV Zwickau              -  KFC Uerdingen
-  1. FC Saarbrücken        -  SpVgg Unterhaching
+  19.00  1. FC Magdeburg          -  Türkgücü München
+[Sa 17.10.]
+  14.00  Bayern München II        -  1. FC Kaiserslautern
+         FC Ingolstadt 04         -  SC Verl
+         Hansa Rostock            -  TSV 1860 München
+         VfB Lübeck               -  Dynamo Dresden
+         SV Wehen Wiesbaden       -  SV Waldhof Mannheim
+         FSV Zwickau              -  KFC Uerdingen
+[So 18.10.]
+  13.00  1. FC Saarbrücken        -  SpVgg Unterhaching
+  14.00  MSV Duisburg             -  Hallescher FC
+  15.00  SV Meppen                -  FC Viktoria Köln
 
 
 Spieltag 6
 [Di 20.10.]
-  1. FC Kaiserslautern     -  FC Ingolstadt 04
-  FC Viktoria Köln         -  Bayern München II
-  Hallescher FC            -  SV Meppen
-  SC Verl                  -  1. FC Magdeburg
-  Türkgücü München         -  VfB Lübeck
-  Dynamo Dresden           -  FSV Zwickau
-  TSV 1860 München         -  1. FC Saarbrücken
-  SV Waldhof Mannheim      -  Hansa Rostock
-  SpVgg Unterhaching       -  MSV Duisburg
-  KFC Uerdingen            -  SV Wehen Wiesbaden
+  19.00  SC Verl                  -  1. FC Magdeburg
+         Türkgücü München         -  VfB Lübeck
+         Dynamo Dresden           -  FSV Zwickau
+         SV Waldhof Mannheim      -  Hansa Rostock
+         KFC Uerdingen            -  SV Wehen Wiesbaden
+[Mi 21.10.]
+  19.00  1. FC Kaiserslautern     -  FC Ingolstadt 04
+         FC Viktoria Köln         -  Bayern München II
+         Hallescher FC            -  SV Meppen
+         TSV 1860 München         -  1. FC Saarbrücken
+         SpVgg Unterhaching       -  MSV Duisburg
 
 
 Spieltag 7
 [Fr 23.10.]
-  SV Meppen                -  1. FC Kaiserslautern
-  Bayern München II        -  SV Waldhof Mannheim
-  FC Ingolstadt 04         -  Dynamo Dresden
-  Hansa Rostock            -  FC Viktoria Köln
-  FSV Zwickau              -  Türkgücü München
-  1. FC Saarbrücken        -  SC Verl
-  VfB Lübeck               -  Hallescher FC
-  SpVgg Unterhaching       -  TSV 1860 München
-  1. FC Magdeburg          -  SV Wehen Wiesbaden
-  MSV Duisburg             -  KFC Uerdingen
+  19.00  FSV Zwickau              -  Türkgücü München
+[Sa 24.10.]
+  14.00  SV Meppen                -  1. FC Kaiserslautern
+         FC Ingolstadt 04         -  Dynamo Dresden
+         Hansa Rostock            -  FC Viktoria Köln
+         VfB Lübeck               -  Hallescher FC
+         1. FC Magdeburg          -  SV Wehen Wiesbaden
+         MSV Duisburg             -  KFC Uerdingen
+[So 25.10.]
+  13.00  1. FC Saarbrücken        -  SC Verl
+  14.00  Bayern München II        -  SV Waldhof Mannheim
+[Mo 26.10.]
+  19.00  SpVgg Unterhaching       -  TSV 1860 München
 
 
 Spieltag 8
 [Fr 30.10.]
-  SC Verl                  -  FSV Zwickau
-  SV Wehen Wiesbaden       -  Bayern München II
-  Dynamo Dresden           -  SV Meppen
-  SV Waldhof Mannheim      -  1. FC Magdeburg
-  FC Viktoria Köln         -  VfB Lübeck
-  KFC Uerdingen            -  1. FC Saarbrücken
-  Hallescher FC            -  SpVgg Unterhaching
-  TSV 1860 München         -  MSV Duisburg
-  1. FC Kaiserslautern     -  Hansa Rostock
-  Türkgücü München         -  FC Ingolstadt 04
+  19.00  FC Viktoria Köln         -  VfB Lübeck
+[Sa 31.10.]
+  14.00  SC Verl                  -  FSV Zwickau
+         Dynamo Dresden           -  SV Meppen
+         SV Waldhof Mannheim      -  1. FC Magdeburg
+         KFC Uerdingen            -  1. FC Saarbrücken
+         Hallescher FC            -  SpVgg Unterhaching
+         TSV 1860 München         -  MSV Duisburg
+[So 1.11.]
+  13.00  SV Wehen Wiesbaden       -  Bayern München II
+  14.00  Türkgücü München         -  FC Ingolstadt 04
+[Mo 2.11.]
+  19.00  1. FC Kaiserslautern     -  Hansa Rostock
 
 
 Spieltag 9
 [Fr 6.11.]
-  MSV Duisburg             -  FC Viktoria Köln
-  FC Ingolstadt 04         -  SV Wehen Wiesbaden
-  Hansa Rostock            -  Türkgücü München
-  SpVgg Unterhaching       -  SC Verl
-  1. FC Magdeburg          -  Bayern München II
-  FSV Zwickau              -  1. FC Kaiserslautern
-  TSV 1860 München         -  Hallescher FC
-  SV Meppen                -  SV Waldhof Mannheim
-  VfB Lübeck               -  KFC Uerdingen
-  1. FC Saarbrücken        -  Dynamo Dresden
+  19.00  FC Ingolstadt 04         -  SV Wehen Wiesbaden
+[Sa 7.11.]
+  14.00  Hansa Rostock            -  Türkgücü München
+         1. FC Magdeburg          -  Bayern München II
+         FSV Zwickau              -  1. FC Kaiserslautern
+         TSV 1860 München         -  Hallescher FC
+         SV Meppen                -  SV Waldhof Mannheim
+         1. FC Saarbrücken        -  Dynamo Dresden
+[So 8.11.]
+  13.00  SpVgg Unterhaching       -  SC Verl
+  14.00  VfB Lübeck               -  KFC Uerdingen
+[Mo 9.11.]
+  19.00  MSV Duisburg             -  FC Viktoria Köln
 
 
 Spieltag 10
 [Fr 13.11.]
-  Bayern München II        -  SV Meppen
-  SV Wehen Wiesbaden       -  FSV Zwickau
-  Dynamo Dresden           -  TSV 1860 München
-  1. FC Kaiserslautern     -  1. FC Magdeburg
-  FC Viktoria Köln         -  1. FC Saarbrücken
-  KFC Uerdingen            -  SpVgg Unterhaching
-  Hallescher FC            -  Hansa Rostock
-  SC Verl                  -  VfB Lübeck
-  Türkgücü München         -  MSV Duisburg
-  SV Waldhof Mannheim      -  FC Ingolstadt 04
+  19.00  FC Viktoria Köln         -  1. FC Saarbrücken
+[Sa 14.11.]
+  14.00  SV Wehen Wiesbaden       -  FSV Zwickau
+         1. FC Kaiserslautern     -  1. FC Magdeburg
+         KFC Uerdingen            -  SpVgg Unterhaching
+         Hallescher FC            -  Hansa Rostock
+         Türkgücü München         -  MSV Duisburg
+         SV Waldhof Mannheim      -  FC Ingolstadt 04
+[So 15.11.]
+  13.00  Bayern München II        -  SV Meppen
+  14.00  Dynamo Dresden           -  TSV 1860 München
+[Mo 16.11.]
+  19.00  SC Verl                  -  VfB Lübeck
 
 
 Spieltag 11
+[Fr 20.11.]
+  19.00  MSV Duisburg             -  SC Verl
 [Sa 21.11.]
-  VfB Lübeck               -  Bayern München II
-  FC Ingolstadt 04         -  1. FC Magdeburg
-  MSV Duisburg             -  SC Verl
-  TSV 1860 München         -  KFC Uerdingen
-  SV Meppen                -  Türkgücü München
-  Hallescher FC            -  1. FC Kaiserslautern
-  1. FC Saarbrücken        -  SV Wehen Wiesbaden
-  Hansa Rostock            -  Dynamo Dresden
-  SpVgg Unterhaching       -  FC Viktoria Köln
-  FSV Zwickau              -  SV Waldhof Mannheim
+  14.00  TSV 1860 München         -  KFC Uerdingen
+         SV Meppen                -  Türkgücü München
+         Hallescher FC            -  1. FC Kaiserslautern
+         1. FC Saarbrücken        -  SV Wehen Wiesbaden
+         Hansa Rostock            -  Dynamo Dresden
+         FSV Zwickau              -  SV Waldhof Mannheim
+[So 22.11.]
+  13.00  VfB Lübeck               -  Bayern München II
+  14.00  SpVgg Unterhaching       -  FC Viktoria Köln
+  15.00  FC Ingolstadt 04         -  1. FC Magdeburg
 
 
 Spieltag 12
 [Di 24.11.]
-  SV Wehen Wiesbaden       -  SV Meppen
-  Bayern München II        -  FC Ingolstadt 04
-  1. FC Kaiserslautern     -  VfB Lübeck
-  KFC Uerdingen            -  Hallescher FC
-  SC Verl                  -  TSV 1860 München
-  Dynamo Dresden           -  SpVgg Unterhaching
-  SV Waldhof Mannheim      -  MSV Duisburg
-  FC Viktoria Köln         -  FSV Zwickau
-  1. FC Magdeburg          -  Hansa Rostock
-  Türkgücü München         -  1. FC Saarbrücken
+  19.00  SV Wehen Wiesbaden       -  SV Meppen
+         KFC Uerdingen            -  Hallescher FC
+         SC Verl                  -  TSV 1860 München
+         SV Waldhof Mannheim      -  MSV Duisburg
+         Türkgücü München         -  1. FC Saarbrücken
+[Mi 25.11.]
+  19.00  Bayern München II        -  FC Ingolstadt 04
+         1. FC Kaiserslautern     -  VfB Lübeck
+         Dynamo Dresden           -  SpVgg Unterhaching
+         FC Viktoria Köln         -  FSV Zwickau
+         1. FC Magdeburg          -  Hansa Rostock
 
 
 Spieltag 13

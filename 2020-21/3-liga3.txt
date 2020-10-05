@@ -20,34 +20,34 @@ Spieltag 1
 
 Spieltag 2
 [Fr 25.9.]
-  19.00  SpVgg Unterhaching       -  VfB Lübeck
+  19.00  SpVgg Unterhaching       1:0 (1:0)  VfB Lübeck
 [Sa 26.9.]
-  14.00  MSV Duisburg             -  FSV Zwickau
-         FC Viktoria Köln         -  SV Wehen Wiesbaden
-         1. FC Saarbrücken        -  Hansa Rostock
-         SC Verl                  -  Bayern München II
-         TSV 1860 München         -  1. FC Magdeburg
-         Hallescher FC            -  FC Ingolstadt 04
+  14.00  MSV Duisburg             1:1 (0:0)  FSV Zwickau
+         FC Viktoria Köln         0:2 (0:1)  SV Wehen Wiesbaden
+         1. FC Saarbrücken        2:0 (1:0)  Hansa Rostock
+         SC Verl                  3:0 (2:0)  Bayern München II
+         TSV 1860 München         1:1 (0:0)  1. FC Magdeburg
+         Hallescher FC            0:2 (0:0)  FC Ingolstadt 04
 [So 27.9.]
-  13.00  Dynamo Dresden           -  SV Waldhof Mannheim
-  14.00  Türkgücü München         -  1. FC Kaiserslautern
+  13.00  Dynamo Dresden           1:1 (0:1)  SV Waldhof Mannheim
+  14.00  Türkgücü München         3:0 (2:0)  1. FC Kaiserslautern
 [Mo 28.9.]
-  19.00  KFC Uerdingen            -  SV Meppen
+  19.00  KFC Uerdingen            0:2 (0:1)  SV Meppen
 
 
 Spieltag 3
 [Fr 2.10.]
-  19.00  Bayern München II        -  Dynamo Dresden
+  19.00  Bayern München II        3:0 (2:0)  Dynamo Dresden
 [Sa 3.10.]
-  14.00  SV Meppen                -  SC Verl
-         1. FC Magdeburg          -  FC Viktoria Köln
-         FSV Zwickau              -  TSV 1860 München
-         FC Ingolstadt 04         -  SpVgg Unterhaching
-         SV Waldhof Mannheim      -  Türkgücü München
-         VfB Lübeck               -  MSV Duisburg
+  14.00  SV Meppen                1:2 (0:2)  SC Verl
+         1. FC Magdeburg          0:2 (0:2)  FC Viktoria Köln
+         FSV Zwickau              1:2 (1:1)  TSV 1860 München
+         FC Ingolstadt 04         0:1 (0:0)  SpVgg Unterhaching
+         SV Waldhof Mannheim      4:4 (2:2)  Türkgücü München
+         VfB Lübeck               1:1 (0:0)  MSV Duisburg
 [So 4.10.]
-  13.00  Hansa Rostock            -  KFC Uerdingen
-  14.00  1. FC Saarbrücken        -  Hallescher FC
+  13.00  Hansa Rostock            0:0  KFC Uerdingen
+  14.00  1. FC Saarbrücken        4:0 (2:0)  Hallescher FC
 [Mo 5.10.]
   19.00  SV Wehen Wiesbaden       -  1. FC Kaiserslautern
 

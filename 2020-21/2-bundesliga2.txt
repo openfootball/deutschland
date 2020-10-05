@@ -19,32 +19,32 @@ Spieltag 1
 
 Spieltag 2
 [Fr 25.9.]
-  18.30  FC Erzgebirge Aue        -  SpVgg Greuther Fürth
-         VfL Osnabrück            -  Hannover 96
+  18.30  FC Erzgebirge Aue        1:1 (1:1)  SpVgg Greuther Fürth
+         VfL Osnabrück            2:1 (1:0)  Hannover 96
 [Sa 26.9.]
-  13.00  Fortuna Düsseldorf       -  Würzburger Kickers
-         SV Darmstadt 98          -  SSV Jahn Regensburg
-         Eintracht Braunschweig   -  Holstein Kiel
+  13.00  Fortuna Düsseldorf       1:0 (0:0)  Würzburger Kickers
+         SV Darmstadt 98          0:0  SSV Jahn Regensburg
+         Eintracht Braunschweig   0:0  Holstein Kiel
 [So 27.9.]
-  13.30  FC St. Pauli             -  1. FC Heidenheim
-         Karlsruher SC            -  VfL Bochum
-         1. FC Nürnberg           -  SV Sandhausen
+  13.30  FC St. Pauli             4:2 (2:0)  1. FC Heidenheim
+         Karlsruher SC            0:1 (0:1)  VfL Bochum
+         1. FC Nürnberg           1:0 (0:0)  SV Sandhausen
 [Mo 28.9.]
-  20.30  SC Paderborn 07          -  Hamburger SV
+  20.30  SC Paderborn 07          3:4 (3:2)  Hamburger SV
 
 
 Spieltag 3
 [Fr 2.10.]
-  18.30  VfL Bochum               -  VfL Osnabrück
-         SV Sandhausen            -  FC St. Pauli
+  18.30  VfL Bochum               0:0  VfL Osnabrück
+         SV Sandhausen            1:0 (1:0)  FC St. Pauli
 [Sa 3.10.]
-  13.00  1. FC Heidenheim         -  SC Paderborn 07
-         Hannover 96              -  Eintracht Braunschweig
-         SSV Jahn Regensburg      -  Karlsruher SC
+  13.00  1. FC Heidenheim         0:0  SC Paderborn 07
+         Hannover 96              4:1 (0:0)  Eintracht Braunschweig
+         SSV Jahn Regensburg      1:0 (1:0)  Karlsruher SC
 [So 4.10.]
-  13.30  Hamburger SV             -  FC Erzgebirge Aue
-         Holstein Kiel            -  Fortuna Düsseldorf
-         Würzburger Kickers       -  SpVgg Greuther Fürth
+  Hamburger SV             -  FC Erzgebirge Aue
+  13.30  Holstein Kiel            2:1 (1:0)  Fortuna Düsseldorf
+         Würzburger Kickers       2:2 (1:1)  SpVgg Greuther Fürth
 [Mo 5.10.]
   20.30  1. FC Nürnberg           -  SV Darmstadt 98
 

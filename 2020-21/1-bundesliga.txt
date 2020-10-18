@@ -48,15 +48,15 @@ Spieltag 3
 
 Spieltag 4
 [Sa 17.10.]
-  15.30  TSG 1899 Hoffenheim      -  Borussia Dortmund
-         SC Freiburg              -  Werder Bremen
-         Hertha BSC               -  VfB Stuttgart
-         1. FSV Mainz 05          -  Bayer 04 Leverkusen
-         FC Augsburg              -  RB Leipzig
-  18.30  Arminia Bielefeld        -  Bayern München
-  20.30  Bor. Mönchengladbach     -  VfL Wolfsburg
+  15.30  TSG 1899 Hoffenheim      0:1 (0:0)  Borussia Dortmund
+         SC Freiburg              1:1 (1:1)  Werder Bremen
+         Hertha BSC               0:2 (0:1)  VfB Stuttgart
+         1. FSV Mainz 05          0:1 (0:1)  Bayer 04 Leverkusen
+         FC Augsburg              0:2 (0:1)  RB Leipzig
+  18.30  Arminia Bielefeld        1:4 (0:3)  Bayern München
+  20.30  Bor. Mönchengladbach     1:1 (0:0)  VfL Wolfsburg
 [So 18.10.]
-  15.30  1. FC Köln               -  Eintracht Frankfurt
+  15.30  1. FC Köln               1:1 (0:1)  Eintracht Frankfurt
   18.00  FC Schalke 04            -  1. FC Union Berlin
 
 
@@ -122,55 +122,63 @@ Spieltag 8
 
 
 Spieltag 9
+[Fr 27.11.]
+  20.30  VfL Wolfsburg            -  Werder Bremen
 [Sa 28.11.]
-  Borussia Dortmund        -  1. FC Köln
-  RB Leipzig               -  Arminia Bielefeld
-  Bor. Mönchengladbach     -  FC Schalke 04
-  Bayer 04 Leverkusen      -  Hertha BSC
-  VfL Wolfsburg            -  Werder Bremen
-  1. FC Union Berlin       -  Eintracht Frankfurt
-  1. FSV Mainz 05          -  TSG 1899 Hoffenheim
-  FC Augsburg              -  SC Freiburg
-  VfB Stuttgart            -  Bayern München
+  15.30  Borussia Dortmund        -  1. FC Köln
+         RB Leipzig               -  Arminia Bielefeld
+         1. FC Union Berlin       -  Eintracht Frankfurt
+         FC Augsburg              -  SC Freiburg
+         VfB Stuttgart            -  Bayern München
+  18.30  Bor. Mönchengladbach     -  FC Schalke 04
+[So 29.11.]
+  15.30  Bayer 04 Leverkusen      -  Hertha BSC
+  18.00  1. FSV Mainz 05          -  TSG 1899 Hoffenheim
 
 
 Spieltag 10
+[Fr 4.12.]
+  20.30  Hertha BSC               -  1. FC Union Berlin
 [Sa 5.12.]
-  Bayern München           -  RB Leipzig
-  TSG 1899 Hoffenheim      -  FC Augsburg
-  SC Freiburg              -  Bor. Mönchengladbach
-  Eintracht Frankfurt      -  Borussia Dortmund
-  Hertha BSC               -  1. FC Union Berlin
-  FC Schalke 04            -  Bayer 04 Leverkusen
-  1. FC Köln               -  VfL Wolfsburg
-  Werder Bremen            -  VfB Stuttgart
-  Arminia Bielefeld        -  1. FSV Mainz 05
+  15.30  SC Freiburg              -  Bor. Mönchengladbach
+         Eintracht Frankfurt      -  Borussia Dortmund
+         1. FC Köln               -  VfL Wolfsburg
+         Arminia Bielefeld        -  1. FSV Mainz 05
+  18.30  Bayern München           -  RB Leipzig
+[So 6.12.]
+  15.30  Werder Bremen            -  VfB Stuttgart
+  18.00  FC Schalke 04            -  Bayer 04 Leverkusen
+[Mo 7.12.]
+  20.30  TSG 1899 Hoffenheim      -  FC Augsburg
 
 
 Spieltag 11
+[Fr 11.12.]
+  20.30  VfL Wolfsburg            -  Eintracht Frankfurt
 [Sa 12.12.]
-  Borussia Dortmund        -  VfB Stuttgart
-  RB Leipzig               -  Werder Bremen
-  Bor. Mönchengladbach     -  Hertha BSC
-  Bayer 04 Leverkusen      -  TSG 1899 Hoffenheim
-  VfL Wolfsburg            -  Eintracht Frankfurt
-  SC Freiburg              -  Arminia Bielefeld
-  1. FC Union Berlin       -  Bayern München
-  1. FSV Mainz 05          -  1. FC Köln
-  FC Augsburg              -  FC Schalke 04
+  15.30  Borussia Dortmund        -  VfB Stuttgart
+         RB Leipzig               -  Werder Bremen
+         Bor. Mönchengladbach     -  Hertha BSC
+         SC Freiburg              -  Arminia Bielefeld
+         1. FSV Mainz 05          -  1. FC Köln
+  18.30  1. FC Union Berlin       -  Bayern München
+[So 13.12.]
+  15.30  FC Augsburg              -  FC Schalke 04
+  18.00  Bayer 04 Leverkusen      -  TSG 1899 Hoffenheim
 
 
 Spieltag 12
 [Di 15.12.]
-  Bayern München           -  VfL Wolfsburg
-  TSG 1899 Hoffenheim      -  RB Leipzig
-  Eintracht Frankfurt      -  Bor. Mönchengladbach
-  Hertha BSC               -  1. FSV Mainz 05
-  FC Schalke 04            -  SC Freiburg
-  1. FC Köln               -  Bayer 04 Leverkusen
-  Werder Bremen            -  Borussia Dortmund
-  Arminia Bielefeld        -  FC Augsburg
-  VfB Stuttgart            -  1. FC Union Berlin
+  18.30  Eintracht Frankfurt      -  Bor. Mönchengladbach
+  20.30  Hertha BSC               -  1. FSV Mainz 05
+         Werder Bremen            -  Borussia Dortmund
+         VfB Stuttgart            -  1. FC Union Berlin
+[Mi 16.12.]
+  18.30  FC Schalke 04            -  SC Freiburg
+  20.30  Bayern München           -  VfL Wolfsburg
+         TSG 1899 Hoffenheim      -  RB Leipzig
+         1. FC Köln               -  Bayer 04 Leverkusen
+         Arminia Bielefeld        -  FC Augsburg
 
 
 Spieltag 13

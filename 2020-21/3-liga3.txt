@@ -87,32 +87,32 @@ Spieltag 5
 
 Spieltag 6
 [Di 20.10.]
-  19.00  SC Verl                  -  1. FC Magdeburg
-         Türkgücü München         -  VfB Lübeck
-         Dynamo Dresden           -  FSV Zwickau
-         SV Waldhof Mannheim      -  Hansa Rostock
-         KFC Uerdingen            -  SV Wehen Wiesbaden
+  19.00  SC Verl                  3:1 (1:0)  1. FC Magdeburg
+         Türkgücü München         4:3 (2:1)  VfB Lübeck
+         Dynamo Dresden           1:2 (1:2)  FSV Zwickau
+         SV Waldhof Mannheim      1:2 (1:1)  Hansa Rostock
+         KFC Uerdingen            0:4 (0:3)  SV Wehen Wiesbaden
 [Mi 21.10.]
-  19.00  1. FC Kaiserslautern     -  FC Ingolstadt 04
-         FC Viktoria Köln         -  Bayern München II
-         Hallescher FC            -  SV Meppen
-         TSV 1860 München         -  1. FC Saarbrücken
-         SpVgg Unterhaching       -  MSV Duisburg
+  19.00  1. FC Kaiserslautern     1:1 (1:0)  FC Ingolstadt 04
+         FC Viktoria Köln         3:2 (3:1)  Bayern München II
+         Hallescher FC            4:1 (2:1)  SV Meppen
+         TSV 1860 München         1:2 (0:2)  1. FC Saarbrücken
+         SpVgg Unterhaching       0:1 (0:1)  MSV Duisburg
 
 
 Spieltag 7
 [Fr 23.10.]
-  19.00  FSV Zwickau              -  Türkgücü München
+  FSV Zwickau              -  Türkgücü München
 [Sa 24.10.]
-  14.00  SV Meppen                -  1. FC Kaiserslautern
-         FC Ingolstadt 04         -  Dynamo Dresden
-         Hansa Rostock            -  FC Viktoria Köln
-         VfB Lübeck               -  Hallescher FC
-         1. FC Magdeburg          -  SV Wehen Wiesbaden
-         MSV Duisburg             -  KFC Uerdingen
+  14.00  SV Meppen                3:2 (1:1)  1. FC Kaiserslautern
+         FC Ingolstadt 04         1:0 (1:0)  Dynamo Dresden
+         Hansa Rostock            5:1 (2:0)  FC Viktoria Köln
+         VfB Lübeck               2:3 (1:0)  Hallescher FC
+         1. FC Magdeburg          1:2 (0:0)  SV Wehen Wiesbaden
+         MSV Duisburg             0:2 (0:0)  KFC Uerdingen
 [So 25.10.]
-  13.00  1. FC Saarbrücken        -  SC Verl
-  14.00  Bayern München II        -  SV Waldhof Mannheim
+  13.00  1. FC Saarbrücken        1:2 (0:1)  SC Verl
+  14.00  Bayern München II        2:0 (1:0)  SV Waldhof Mannheim
 [Mo 26.10.]
   19.00  SpVgg Unterhaching       -  TSV 1860 München
 

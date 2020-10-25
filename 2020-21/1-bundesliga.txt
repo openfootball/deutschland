@@ -57,21 +57,21 @@ Spieltag 4
   20.30  Bor. Mönchengladbach     1:1 (0:0)  VfL Wolfsburg
 [So 18.10.]
   15.30  1. FC Köln               1:1 (0:1)  Eintracht Frankfurt
-  18.00  FC Schalke 04            -  1. FC Union Berlin
+  18.00  FC Schalke 04            1:1 (0:0)  1. FC Union Berlin
 
 
 Spieltag 5
 [Fr 23.10.]
-  20.30  VfB Stuttgart            -  1. FC Köln
+  20.30  VfB Stuttgart            1:1 (1:1)  1. FC Köln
 [Sa 24.10.]
-  15.30  Bayern München           -  Eintracht Frankfurt
-         RB Leipzig               -  Hertha BSC
-         1. FC Union Berlin       -  SC Freiburg
-         1. FSV Mainz 05          -  Bor. Mönchengladbach
-  18.30  Borussia Dortmund        -  FC Schalke 04
+  15.30  Bayern München           5:0 (2:0)  Eintracht Frankfurt
+         RB Leipzig               2:1 (1:1)  Hertha BSC
+         1. FC Union Berlin       1:1 (1:1)  SC Freiburg
+         1. FSV Mainz 05          2:3 (2:1)  Bor. Mönchengladbach
+  18.30  Borussia Dortmund        3:0 (0:0)  FC Schalke 04
 [So 25.10.]
-  15.30  VfL Wolfsburg            -  Arminia Bielefeld
-  18.00  Werder Bremen            -  TSG 1899 Hoffenheim
+  15.30  VfL Wolfsburg            2:1 (2:0)  Arminia Bielefeld
+  18.00  Werder Bremen            1:1 (1:1)  TSG 1899 Hoffenheim
 [Mo 26.10.]
   20.30  Bayer 04 Leverkusen      -  FC Augsburg
 

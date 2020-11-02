@@ -78,16 +78,16 @@ Spieltag 5
 
 Spieltag 6
 [Fr 30.10.]
-  20.30  FC Schalke 04            -  VfB Stuttgart
+  20.30  FC Schalke 04            1:1 (1:0)  VfB Stuttgart
 [Sa 31.10.]
-  15.30  Eintracht Frankfurt      -  Werder Bremen
-         1. FC Köln               -  Bayern München
-         FC Augsburg              -  1. FSV Mainz 05
-         Arminia Bielefeld        -  Borussia Dortmund
-  18.30  Bor. Mönchengladbach     -  RB Leipzig
+  15.30  Eintracht Frankfurt      1:1 (0:0)  Werder Bremen
+         1. FC Köln               1:2 (0:2)  Bayern München
+         FC Augsburg              3:1 (1:0)  1. FSV Mainz 05
+         Arminia Bielefeld        0:2 (0:0)  Borussia Dortmund
+  18.30  Bor. Mönchengladbach     1:0 (0:0)  RB Leipzig
 [So 1.11.]
-  15.30  SC Freiburg              -  Bayer 04 Leverkusen
-  18.00  Hertha BSC               -  VfL Wolfsburg
+  15.30  SC Freiburg              2:4 (1:2)  Bayer 04 Leverkusen
+  18.00  Hertha BSC               1:1 (1:1)  VfL Wolfsburg
 [Mo 2.11.]
   20.30  TSG 1899 Hoffenheim      -  1. FC Union Berlin
 

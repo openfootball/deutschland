@@ -126,32 +126,32 @@ Spieltag 8
   13.00  SV Wehen Wiesbaden       2:4 (2:2)  Bayern München II
   14.00  Türkgücü München         1:1 (1:1)  FC Ingolstadt 04
 [Mo 2.11.]
-  19.00  1. FC Kaiserslautern     -  Hansa Rostock
+  19.00  1. FC Kaiserslautern     0:0  Hansa Rostock
 
 
 Spieltag 4
 [Mi 4.11.]
-  19.00  MSV Duisburg             -  1. FC Saarbrücken
+  19.00  MSV Duisburg             2:3 (0:1)  1. FC Saarbrücken
 
 
 Spieltag 7
 [Mi 4.11.]
-  19.00  FSV Zwickau              -  Türkgücü München
+  19.00  FSV Zwickau              0:1 (0:0)  Türkgücü München
 
 
 Spieltag 9
 [Fr 6.11.]
-  19.00  FC Ingolstadt 04         -  SV Wehen Wiesbaden
+  19.00  FC Ingolstadt 04         4:1 (3:1)  SV Wehen Wiesbaden
 [Sa 7.11.]
-  14.00  SV Meppen                -  SV Waldhof Mannheim
-         Hansa Rostock            -  Türkgücü München
-         1. FC Saarbrücken        -  Dynamo Dresden
-         FSV Zwickau              -  1. FC Kaiserslautern
-         TSV 1860 München         -  Hallescher FC
-         1. FC Magdeburg          -  Bayern München II
+  14.00  TSV 1860 München         6:1 (2:0)  Hallescher FC
+  Hansa Rostock            -  Türkgücü München
+  14.00  1. FC Saarbrücken        2:1 (1:1)  Dynamo Dresden
+         1. FC Magdeburg          2:1 (0:0)  Bayern München II
+         FSV Zwickau              1:2 (0:0)  1. FC Kaiserslautern
+  SV Meppen                -  SV Waldhof Mannheim
 [So 8.11.]
-  13.00  SpVgg Unterhaching       -  SC Verl
-  14.00  VfB Lübeck               -  KFC Uerdingen
+  SpVgg Unterhaching       -  SC Verl
+  14.00  VfB Lübeck               1:0 (0:0)  KFC Uerdingen
 [Mo 9.11.]
   19.00  MSV Duisburg             -  FC Viktoria Köln
 

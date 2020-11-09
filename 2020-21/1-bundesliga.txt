@@ -89,22 +89,22 @@ Spieltag 6
   15.30  SC Freiburg              2:4 (1:2)  Bayer 04 Leverkusen
   18.00  Hertha BSC               1:1 (1:1)  VfL Wolfsburg
 [Mo 2.11.]
-  20.30  TSG 1899 Hoffenheim      -  1. FC Union Berlin
+  20.30  TSG 1899 Hoffenheim      1:3 (0:0)  1. FC Union Berlin
 
 
 Spieltag 7
 [Fr 6.11.]
-  20.30  Werder Bremen            -  1. FC Köln
+  20.30  Werder Bremen            1:1 (0:0)  1. FC Köln
 [Sa 7.11.]
-  15.30  RB Leipzig               -  SC Freiburg
-         1. FC Union Berlin       -  Arminia Bielefeld
-         1. FSV Mainz 05          -  FC Schalke 04
-         FC Augsburg              -  Hertha BSC
-         VfB Stuttgart            -  Eintracht Frankfurt
-  18.30  Borussia Dortmund        -  Bayern München
+  15.30  RB Leipzig               3:0 (1:0)  SC Freiburg
+         1. FC Union Berlin       5:0 (3:0)  Arminia Bielefeld
+         1. FSV Mainz 05          2:2 (2:1)  FC Schalke 04
+         FC Augsburg              0:3 (0:1)  Hertha BSC
+         VfB Stuttgart            2:2 (2:0)  Eintracht Frankfurt
+  18.30  Borussia Dortmund        2:3 (1:1)  Bayern München
 [So 8.11.]
-  15.30  VfL Wolfsburg            -  TSG 1899 Hoffenheim
-  18.00  Bayer 04 Leverkusen      -  Bor. Mönchengladbach
+  15.30  VfL Wolfsburg            2:1 (2:0)  TSG 1899 Hoffenheim
+  18.00  Bayer 04 Leverkusen      4:3 (2:2)  Bor. Mönchengladbach
 
 
 Spieltag 8

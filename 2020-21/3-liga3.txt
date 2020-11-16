@@ -153,22 +153,22 @@ Spieltag 9
   SpVgg Unterhaching       -  SC Verl
   14.00  VfB Lübeck               1:0 (0:0)  KFC Uerdingen
 [Mo 9.11.]
-  19.00  MSV Duisburg             -  FC Viktoria Köln
+  19.00  MSV Duisburg             1:3 (1:1)  FC Viktoria Köln
 
 
 Spieltag 10
 [Fr 13.11.]
-  19.00  FC Viktoria Köln         -  1. FC Saarbrücken
+  19.00  FC Viktoria Köln         0:2 (0:1)  1. FC Saarbrücken
 [Sa 14.11.]
-  14.00  SV Wehen Wiesbaden       -  FSV Zwickau
-         1. FC Kaiserslautern     -  1. FC Magdeburg
-         SV Waldhof Mannheim      -  FC Ingolstadt 04
-         KFC Uerdingen            -  SpVgg Unterhaching
-         Hallescher FC            -  Hansa Rostock
-         Türkgücü München         -  MSV Duisburg
+  14.00  SV Wehen Wiesbaden       3:1 (2:1)  FSV Zwickau
+         1. FC Kaiserslautern     1:1 (0:0)  1. FC Magdeburg
+         SV Waldhof Mannheim      4:1 (2:0)  FC Ingolstadt 04
+         KFC Uerdingen            3:1 (0:0)  SpVgg Unterhaching
+         Hallescher FC            1:1 (1:0)  Hansa Rostock
+         Türkgücü München         2:1 (0:0)  MSV Duisburg
 [So 15.11.]
-  13.00  Bayern München II        -  SV Meppen
-  14.00  Dynamo Dresden           -  TSV 1860 München
+  Bayern München II        -  SV Meppen
+  14.00  Dynamo Dresden           2:1 (1:1)  TSV 1860 München
 [Mo 16.11.]
   19.00  SC Verl                  -  VfB Lübeck
 
@@ -210,59 +210,68 @@ Spieltag 12
 
 
 Spieltag 13
+[Fr 27.11.]
+  19.00  KFC Uerdingen            -  SC Verl
 [Sa 28.11.]
-  KFC Uerdingen            -  SC Verl
-  Hansa Rostock            -  Bayern München II
-  SV Meppen                -  FC Ingolstadt 04
-  Hallescher FC            -  FC Viktoria Köln
-  FSV Zwickau              -  1. FC Magdeburg
-  1. FC Saarbrücken        -  1. FC Kaiserslautern
-  VfB Lübeck               -  SV Waldhof Mannheim
-  MSV Duisburg             -  Dynamo Dresden
-  SpVgg Unterhaching       -  SV Wehen Wiesbaden
-  TSV 1860 München         -  Türkgücü München
+  14.00  Hansa Rostock            -  Bayern München II
+         Hallescher FC            -  FC Viktoria Köln
+         FSV Zwickau              -  1. FC Magdeburg
+         VfB Lübeck               -  SV Waldhof Mannheim
+         SpVgg Unterhaching       -  SV Wehen Wiesbaden
+         TSV 1860 München         -  Türkgücü München
+[So 29.11.]
+  13.00  MSV Duisburg             -  Dynamo Dresden
+  14.00  1. FC Saarbrücken        -  1. FC Kaiserslautern
+[Mo 30.11.]
+  19.00  SV Meppen                -  FC Ingolstadt 04
 
 
 Spieltag 14
+[Fr 4.12.]
+  19.00  1. FC Magdeburg          -  SV Meppen
 [Sa 5.12.]
-  FC Ingolstadt 04         -  VfB Lübeck
-  SV Wehen Wiesbaden       -  Hansa Rostock
-  Dynamo Dresden           -  KFC Uerdingen
-  SV Waldhof Mannheim      -  1. FC Saarbrücken
-  FC Viktoria Köln         -  TSV 1860 München
-  1. FC Magdeburg          -  SV Meppen
-  SC Verl                  -  Hallescher FC
-  Bayern München II        -  FSV Zwickau
-  1. FC Kaiserslautern     -  MSV Duisburg
-  Türkgücü München         -  SpVgg Unterhaching
+  14.00  FC Ingolstadt 04         -  VfB Lübeck
+         Dynamo Dresden           -  KFC Uerdingen
+         SV Waldhof Mannheim      -  1. FC Saarbrücken
+         FC Viktoria Köln         -  TSV 1860 München
+         1. FC Kaiserslautern     -  MSV Duisburg
+         Türkgücü München         -  SpVgg Unterhaching
+[So 6.12.]
+  13.00  SV Wehen Wiesbaden       -  Hansa Rostock
+  14.00  SC Verl                  -  Hallescher FC
+[Mo 7.12.]
+  19.00  Bayern München II        -  FSV Zwickau
 
 
 Spieltag 15
+[Fr 11.12.]
+  19.00  SpVgg Unterhaching       -  1. FC Kaiserslautern
 [Sa 12.12.]
-  KFC Uerdingen            -  Türkgücü München
-  MSV Duisburg             -  SV Wehen Wiesbaden
-  TSV 1860 München         -  SV Waldhof Mannheim
-  Hallescher FC            -  Dynamo Dresden
-  1. FC Saarbrücken        -  Bayern München II
-  SC Verl                  -  FC Viktoria Köln
-  VfB Lübeck               -  1. FC Magdeburg
-  Hansa Rostock            -  SV Meppen
-  SpVgg Unterhaching       -  1. FC Kaiserslautern
-  FSV Zwickau              -  FC Ingolstadt 04
+  14.00  KFC Uerdingen            -  Türkgücü München
+         MSV Duisburg             -  SV Wehen Wiesbaden
+         TSV 1860 München         -  SV Waldhof Mannheim
+         Hallescher FC            -  Dynamo Dresden
+         SC Verl                  -  FC Viktoria Köln
+         VfB Lübeck               -  1. FC Magdeburg
+[So 13.12.]
+  13.00  1. FC Saarbrücken        -  Bayern München II
+  14.00  Hansa Rostock            -  SV Meppen
+  15.00  FSV Zwickau              -  FC Ingolstadt 04
 
 
 Spieltag 16
 [Di 15.12.]
-  Dynamo Dresden           -  SC Verl
-  Bayern München II        -  MSV Duisburg
-  FC Viktoria Köln         -  KFC Uerdingen
-  1. FC Magdeburg          -  1. FC Saarbrücken
-  Türkgücü München         -  Hallescher FC
-  SV Wehen Wiesbaden       -  VfB Lübeck
-  FC Ingolstadt 04         -  Hansa Rostock
-  SV Waldhof Mannheim      -  SpVgg Unterhaching
-  SV Meppen                -  FSV Zwickau
-  1. FC Kaiserslautern     -  TSV 1860 München
+  19.00  Dynamo Dresden           -  SC Verl
+         Türkgücü München         -  Hallescher FC
+         SV Wehen Wiesbaden       -  VfB Lübeck
+         SV Waldhof Mannheim      -  SpVgg Unterhaching
+         1. FC Kaiserslautern     -  TSV 1860 München
+[Mi 16.12.]
+  19.00  Bayern München II        -  MSV Duisburg
+         FC Viktoria Köln         -  KFC Uerdingen
+         1. FC Magdeburg          -  1. FC Saarbrücken
+         FC Ingolstadt 04         -  Hansa Rostock
+         SV Meppen                -  FSV Zwickau
 
 
 Spieltag 17

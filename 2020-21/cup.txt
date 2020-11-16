@@ -20,15 +20,14 @@
          Karlsruher SC            0:1 (0:0) n.V.  1. FC Union Berlin
   20.45  FC Carl Zeiss Jena       0:2 (0:0)  Werder Bremen
 [So 13.9.]
-  1. FC Schweinfurt 05     -  FC Schalke 04            [cancelled]
   15.30  Chemnitzer FC            2:2 (1:1, 0:0) n.V. 2:3 i.E.  TSG 1899 Hoffenheim
          1. FC Rielasingen-Arlen  1:7 (1:5)  Holstein Kiel
          Hansa Rostock            0:1 (0:1)  VfB Stuttgart
          TSV Steinbach Haiger     1:2 (1:2)  SV Sandhausen
-         SC Wiedenbrück           0:5 (0:3)  SC Paderborn 07
-         Eintracht Norderstedt    0:7 (0:6)  Bayer 04 Leverkusen
-         1. FC Kaiserslautern     1:1 (1:1, 0:1) n.V. 3:4 i.E.  SSV Jahn Regensburg
          SV Elversberg            4:2 (2:1)  FC St. Pauli
+         SC Wiedenbrück           0:5 (0:3)  SC Paderborn 07
+         1. FC Kaiserslautern     1:1 (1:1, 0:1) n.V. 3:4 i.E.  SSV Jahn Regensburg
+         Eintracht Norderstedt    0:7 (0:6)  Bayer 04 Leverkusen
   18.30  SV Wehen Wiesbaden       1:0 (0:0)  1. FC Heidenheim
          SV Waldhof Mannheim      1:2 (0:1)  SC Freiburg
          1. FC Magdeburg          2:3 (2:2, 2:0) n.V.  SV Darmstadt 98
@@ -38,14 +37,31 @@
          Rot-Weiss Essen          1:0 (1:0)  Arminia Bielefeld
   20.45  MSV Duisburg             0:5 (0:3)  Borussia Dortmund
 [Do 15.10.]
-  20.45  1. FC Düren              -  Bayern München
+  20.45  1. FC Düren              0:3 (0:2)  Bayern München
+[Di 3.11.]
+  16.30  1. FC Schweinfurt 05     1:4 (1:2)  FC Schalke 04
 
 
 2. Runde
 [Di 22.12.]
-  N. N.                    -  N. N.
+  18.30  FC Augsburg              -  RB Leipzig
+         1. FC Köln               -  VfL Osnabrück
+         TSG 1899 Hoffenheim      -  SpVgg Greuther Fürth
+         SSV Ulm 1846             -  FC Schalke 04
+  20.00  Eintracht Braunschweig   -  Borussia Dortmund
+  20.45  SV Elversberg            -  Bor. Mönchengladbach
+         Dynamo Dresden           -  SV Darmstadt 98
+         1. FC Union Berlin       -  SC Paderborn 07
 [Mi 23.12.]
-  N. N.                    -  N. N.
+  18.30  Rot-Weiss Essen          -  Fortuna Düsseldorf
+         VfB Stuttgart            -  SC Freiburg
+         VfL Wolfsburg            -  SV Sandhausen
+  20.45  SV Wehen Wiesbaden       -  SSV Jahn Regensburg
+         Bayer 04 Leverkusen      -  Eintracht Frankfurt
+         Hannover 96              -  Werder Bremen
+         1. FSV Mainz 05          -  VfL Bochum
+[Mi 13.1.]
+  20.45  Holstein Kiel            -  Bayern München
 
 
 Achtelfinale

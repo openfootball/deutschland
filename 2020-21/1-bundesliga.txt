@@ -109,28 +109,28 @@ Spieltag 7
 
 Spieltag 8
 [Sa 21.11.]
-  15.30  Bayern München           -  Werder Bremen
-         Bor. Mönchengladbach     -  FC Augsburg
-         TSG 1899 Hoffenheim      -  VfB Stuttgart
-         FC Schalke 04            -  VfL Wolfsburg
-         Arminia Bielefeld        -  Bayer 04 Leverkusen
-  18.30  Eintracht Frankfurt      -  RB Leipzig
-  20.30  Hertha BSC               -  Borussia Dortmund
+  15.30  Bayern München           1:1 (0:1)  Werder Bremen
+         Bor. Mönchengladbach     1:1 (1:0)  FC Augsburg
+         TSG 1899 Hoffenheim      3:3 (1:2)  VfB Stuttgart
+         FC Schalke 04            0:2 (0:2)  VfL Wolfsburg
+         Arminia Bielefeld        1:2 (0:1)  Bayer 04 Leverkusen
+  18.30  Eintracht Frankfurt      1:1 (1:0)  RB Leipzig
+  20.30  Hertha BSC               2:5 (1:0)  Borussia Dortmund
 [So 22.11.]
-  15.30  SC Freiburg              -  1. FSV Mainz 05
-  18.00  1. FC Köln               -  1. FC Union Berlin
+  15.30  SC Freiburg              1:3 (0:3)  1. FSV Mainz 05
+  18.00  1. FC Köln               1:2 (1:1)  1. FC Union Berlin
 
 
 Spieltag 9
 [Fr 27.11.]
-  20.30  VfL Wolfsburg            -  Werder Bremen
+  20.30  VfL Wolfsburg            5:3 (3:2)  Werder Bremen
 [Sa 28.11.]
-  15.30  Borussia Dortmund        -  1. FC Köln
-         RB Leipzig               -  Arminia Bielefeld
-         1. FC Union Berlin       -  Eintracht Frankfurt
-         FC Augsburg              -  SC Freiburg
-         VfB Stuttgart            -  Bayern München
-  18.30  Bor. Mönchengladbach     -  FC Schalke 04
+  15.30  Borussia Dortmund        1:2 (0:1)  1. FC Köln
+         RB Leipzig               2:1 (1:0)  Arminia Bielefeld
+         1. FC Union Berlin       3:3 (2:2)  Eintracht Frankfurt
+         FC Augsburg              1:1 (0:0)  SC Freiburg
+         VfB Stuttgart            1:3 (1:2)  Bayern München
+  18.30  Bor. Mönchengladbach     4:1 (2:1)  FC Schalke 04
 [So 29.11.]
   15.30  Bayer 04 Leverkusen      -  Hertha BSC
   18.00  1. FSV Mainz 05          -  TSG 1899 Hoffenheim

@@ -5,11 +5,11 @@ Spieltag 1
 [Fr 18.9.]
   20.30  Bayern München           8:0 (3:0)  FC Schalke 04
 [Sa 19.9.]
-  15.30  Eintracht Frankfurt      1:1 (0:0)  Arminia Bielefeld
-         1. FC Union Berlin       1:3 (0:1)  FC Augsburg
-         1. FC Köln               2:3 (1:2)  TSG 1899 Hoffenheim
-         Werder Bremen            1:4 (0:2)  Hertha BSC
+  15.30  1. FC Köln               2:3 (1:2)  TSG 1899 Hoffenheim
+         Eintracht Frankfurt      1:1 (0:0)  Arminia Bielefeld
          VfB Stuttgart            2:3 (0:2)  SC Freiburg
+         Werder Bremen            1:4 (0:2)  Hertha BSC
+         1. FC Union Berlin       1:3 (0:1)  FC Augsburg
   18.30  Borussia Dortmund        3:0 (1:0)  Bor. Mönchengladbach
 [So 20.9.]
   15.30  RB Leipzig               3:1 (2:0)  1. FSV Mainz 05
@@ -20,11 +20,11 @@ Spieltag 2
 [Fr 25.9.]
   20.30  Hertha BSC               1:3 (0:2)  Eintracht Frankfurt
 [Sa 26.9.]
-  15.30  Bor. Mönchengladbach     1:1 (0:0)  1. FC Union Berlin
+  15.30  Arminia Bielefeld        1:0 (0:0)  1. FC Köln
          Bayer 04 Leverkusen      1:1 (1:1)  RB Leipzig
          1. FSV Mainz 05          1:4 (1:1)  VfB Stuttgart
          FC Augsburg              2:0 (1:0)  Borussia Dortmund
-         Arminia Bielefeld        1:0 (0:0)  1. FC Köln
+         Bor. Mönchengladbach     1:1 (0:0)  1. FC Union Berlin
   18.30  FC Schalke 04            1:3 (0:2)  Werder Bremen
 [So 27.9.]
   15.30  TSG 1899 Hoffenheim      4:1 (2:1)  Bayern München
@@ -35,11 +35,11 @@ Spieltag 3
 [Fr 2.10.]
   20.30  1. FC Union Berlin       4:0 (1:0)  1. FSV Mainz 05
 [Sa 3.10.]
-  15.30  Borussia Dortmund        4:0 (1:0)  SC Freiburg
-         Eintracht Frankfurt      2:1 (0:1)  TSG 1899 Hoffenheim
-         1. FC Köln               1:3 (0:2)  Bor. Mönchengladbach
-         Werder Bremen            1:0 (1:0)  Arminia Bielefeld
+  15.30  Eintracht Frankfurt      2:1 (0:1)  TSG 1899 Hoffenheim
+         Borussia Dortmund        4:0 (1:0)  SC Freiburg
          VfB Stuttgart            1:1 (0:1)  Bayer 04 Leverkusen
+         Werder Bremen            1:0 (1:0)  Arminia Bielefeld
+         1. FC Köln               1:3 (0:2)  Bor. Mönchengladbach
   18.30  RB Leipzig               4:0 (3:0)  FC Schalke 04
 [So 4.10.]
   15.30  VfL Wolfsburg            0:0  FC Augsburg
@@ -48,10 +48,10 @@ Spieltag 3
 
 Spieltag 4
 [Sa 17.10.]
-  15.30  TSG 1899 Hoffenheim      0:1 (0:0)  Borussia Dortmund
+  15.30  Hertha BSC               0:2 (0:1)  VfB Stuttgart
          SC Freiburg              1:1 (1:1)  Werder Bremen
-         Hertha BSC               0:2 (0:1)  VfB Stuttgart
          1. FSV Mainz 05          0:1 (0:1)  Bayer 04 Leverkusen
+         TSG 1899 Hoffenheim      0:1 (0:0)  Borussia Dortmund
          FC Augsburg              0:2 (0:1)  RB Leipzig
   18.30  Arminia Bielefeld        1:4 (0:3)  Bayern München
   20.30  Bor. Mönchengladbach     1:1 (0:0)  VfL Wolfsburg
@@ -64,10 +64,10 @@ Spieltag 5
 [Fr 23.10.]
   20.30  VfB Stuttgart            1:1 (1:1)  1. FC Köln
 [Sa 24.10.]
-  15.30  Bayern München           5:0 (2:0)  Eintracht Frankfurt
-         RB Leipzig               2:1 (1:1)  Hertha BSC
+  15.30  1. FSV Mainz 05          2:3 (2:1)  Bor. Mönchengladbach
          1. FC Union Berlin       1:1 (1:1)  SC Freiburg
-         1. FSV Mainz 05          2:3 (2:1)  Bor. Mönchengladbach
+         RB Leipzig               2:1 (1:1)  Hertha BSC
+         Bayern München           5:0 (2:0)  Eintracht Frankfurt
   18.30  Borussia Dortmund        3:0 (0:0)  FC Schalke 04
 [So 25.10.]
   15.30  VfL Wolfsburg            2:1 (2:0)  Arminia Bielefeld
@@ -80,10 +80,10 @@ Spieltag 6
 [Fr 30.10.]
   20.30  FC Schalke 04            1:1 (1:0)  VfB Stuttgart
 [Sa 31.10.]
-  15.30  Eintracht Frankfurt      1:1 (0:0)  Werder Bremen
-         1. FC Köln               1:2 (0:2)  Bayern München
-         FC Augsburg              3:1 (1:0)  1. FSV Mainz 05
+  15.30  1. FC Köln               1:2 (0:2)  Bayern München
+         Eintracht Frankfurt      1:1 (0:0)  Werder Bremen
          Arminia Bielefeld        0:2 (0:0)  Borussia Dortmund
+         FC Augsburg              3:1 (1:0)  1. FSV Mainz 05
   18.30  Bor. Mönchengladbach     1:0 (0:0)  RB Leipzig
 [So 1.11.]
   15.30  SC Freiburg              2:4 (1:2)  Bayer 04 Leverkusen
@@ -96,11 +96,11 @@ Spieltag 7
 [Fr 6.11.]
   20.30  Werder Bremen            1:1 (0:0)  1. FC Köln
 [Sa 7.11.]
-  15.30  RB Leipzig               3:0 (1:0)  SC Freiburg
-         1. FC Union Berlin       5:0 (3:0)  Arminia Bielefeld
+  15.30  VfB Stuttgart            2:2 (2:0)  Eintracht Frankfurt
          1. FSV Mainz 05          2:2 (2:1)  FC Schalke 04
          FC Augsburg              0:3 (0:1)  Hertha BSC
-         VfB Stuttgart            2:2 (2:0)  Eintracht Frankfurt
+         1. FC Union Berlin       5:0 (3:0)  Arminia Bielefeld
+         RB Leipzig               3:0 (1:0)  SC Freiburg
   18.30  Borussia Dortmund        2:3 (1:1)  Bayern München
 [So 8.11.]
   15.30  VfL Wolfsburg            2:1 (2:0)  TSG 1899 Hoffenheim
@@ -109,364 +109,414 @@ Spieltag 7
 
 Spieltag 8
 [Sa 21.11.]
-  15.30  Bayern München           -  Werder Bremen
-         Bor. Mönchengladbach     -  FC Augsburg
-         TSG 1899 Hoffenheim      -  VfB Stuttgart
-         FC Schalke 04            -  VfL Wolfsburg
-         Arminia Bielefeld        -  Bayer 04 Leverkusen
-  18.30  Eintracht Frankfurt      -  RB Leipzig
-  20.30  Hertha BSC               -  Borussia Dortmund
+  15.30  FC Schalke 04            0:2 (0:2)  VfL Wolfsburg
+         Bor. Mönchengladbach     1:1 (1:0)  FC Augsburg
+         Bayern München           1:1 (0:1)  Werder Bremen
+         Arminia Bielefeld        1:2 (0:1)  Bayer 04 Leverkusen
+         TSG 1899 Hoffenheim      3:3 (1:2)  VfB Stuttgart
+  18.30  Eintracht Frankfurt      1:1 (1:0)  RB Leipzig
+  20.30  Hertha BSC               2:5 (1:0)  Borussia Dortmund
 [So 22.11.]
-  15.30  SC Freiburg              -  1. FSV Mainz 05
-  18.00  1. FC Köln               -  1. FC Union Berlin
+  15.30  SC Freiburg              1:3 (0:3)  1. FSV Mainz 05
+  18.00  1. FC Köln               1:2 (1:1)  1. FC Union Berlin
 
 
 Spieltag 9
 [Fr 27.11.]
-  20.30  VfL Wolfsburg            -  Werder Bremen
+  20.30  VfL Wolfsburg            5:3 (3:2)  Werder Bremen
 [Sa 28.11.]
-  15.30  Borussia Dortmund        -  1. FC Köln
-         RB Leipzig               -  Arminia Bielefeld
-         1. FC Union Berlin       -  Eintracht Frankfurt
-         FC Augsburg              -  SC Freiburg
-         VfB Stuttgart            -  Bayern München
-  18.30  Bor. Mönchengladbach     -  FC Schalke 04
+  15.30  Borussia Dortmund        1:2 (0:1)  1. FC Köln
+         VfB Stuttgart            1:3 (1:2)  Bayern München
+         FC Augsburg              1:1 (0:0)  SC Freiburg
+         1. FC Union Berlin       3:3 (2:2)  Eintracht Frankfurt
+         RB Leipzig               2:1 (1:0)  Arminia Bielefeld
+  18.30  Bor. Mönchengladbach     4:1 (2:1)  FC Schalke 04
 [So 29.11.]
-  15.30  Bayer 04 Leverkusen      -  Hertha BSC
-  18.00  1. FSV Mainz 05          -  TSG 1899 Hoffenheim
+  15.30  Bayer 04 Leverkusen      0:0  Hertha BSC
+  18.00  1. FSV Mainz 05          1:1 (1:0)  TSG 1899 Hoffenheim
 
 
 Spieltag 10
 [Fr 4.12.]
-  20.30  Hertha BSC               -  1. FC Union Berlin
+  20.30  Hertha BSC               3:1 (0:1)  1. FC Union Berlin
 [Sa 5.12.]
-  15.30  SC Freiburg              -  Bor. Mönchengladbach
-         Eintracht Frankfurt      -  Borussia Dortmund
-         1. FC Köln               -  VfL Wolfsburg
-         Arminia Bielefeld        -  1. FSV Mainz 05
-  18.30  Bayern München           -  RB Leipzig
+  15.30  1. FC Köln               2:2 (2:1)  VfL Wolfsburg
+         Eintracht Frankfurt      1:1 (1:0)  Borussia Dortmund
+         Arminia Bielefeld        2:1 (2:0)  1. FSV Mainz 05
+         SC Freiburg              2:2 (1:1)  Bor. Mönchengladbach
+  18.30  Bayern München           3:3 (2:2)  RB Leipzig
 [So 6.12.]
-  15.30  Werder Bremen            -  VfB Stuttgart
-  18.00  FC Schalke 04            -  Bayer 04 Leverkusen
+  15.30  Werder Bremen            1:2 (0:1)  VfB Stuttgart
+  18.00  FC Schalke 04            0:3 (0:1)  Bayer 04 Leverkusen
 [Mo 7.12.]
-  20.30  TSG 1899 Hoffenheim      -  FC Augsburg
+  20.30  TSG 1899 Hoffenheim      3:1 (1:1)  FC Augsburg
 
 
 Spieltag 11
 [Fr 11.12.]
-  20.30  VfL Wolfsburg            -  Eintracht Frankfurt
+  20.30  VfL Wolfsburg            2:1 (0:0)  Eintracht Frankfurt
 [Sa 12.12.]
-  15.30  Borussia Dortmund        -  VfB Stuttgart
-         RB Leipzig               -  Werder Bremen
-         Bor. Mönchengladbach     -  Hertha BSC
-         SC Freiburg              -  Arminia Bielefeld
-         1. FSV Mainz 05          -  1. FC Köln
-  18.30  1. FC Union Berlin       -  Bayern München
+  15.30  Bor. Mönchengladbach     1:1 (0:0)  Hertha BSC
+         SC Freiburg              2:0 (0:0)  Arminia Bielefeld
+         1. FSV Mainz 05          0:1 (0:0)  1. FC Köln
+         RB Leipzig               2:0 (2:0)  Werder Bremen
+         Borussia Dortmund        1:5 (1:1)  VfB Stuttgart
+  18.30  1. FC Union Berlin       1:1 (1:0)  Bayern München
 [So 13.12.]
-  15.30  FC Augsburg              -  FC Schalke 04
-  18.00  Bayer 04 Leverkusen      -  TSG 1899 Hoffenheim
+  15.30  FC Augsburg              2:2 (1:0)  FC Schalke 04
+  18.00  Bayer 04 Leverkusen      4:1 (2:0)  TSG 1899 Hoffenheim
 
 
 Spieltag 12
 [Di 15.12.]
-  18.30  Eintracht Frankfurt      -  Bor. Mönchengladbach
-  20.30  Hertha BSC               -  1. FSV Mainz 05
-         Werder Bremen            -  Borussia Dortmund
-         VfB Stuttgart            -  1. FC Union Berlin
+  18.30  Eintracht Frankfurt      3:3 (3:1)  Bor. Mönchengladbach
+  20.30  Hertha BSC               0:0  1. FSV Mainz 05
+         VfB Stuttgart            2:2 (0:1)  1. FC Union Berlin
+         Werder Bremen            1:2 (1:1)  Borussia Dortmund
 [Mi 16.12.]
-  18.30  FC Schalke 04            -  SC Freiburg
-  20.30  Bayern München           -  VfL Wolfsburg
-         TSG 1899 Hoffenheim      -  RB Leipzig
-         1. FC Köln               -  Bayer 04 Leverkusen
-         Arminia Bielefeld        -  FC Augsburg
+  18.30  FC Schalke 04            0:2 (0:0)  SC Freiburg
+  20.30  Bayern München           2:1 (1:1)  VfL Wolfsburg
+         Arminia Bielefeld        0:1 (0:0)  FC Augsburg
+         TSG 1899 Hoffenheim      0:1 (0:0)  RB Leipzig
+         1. FC Köln               0:4 (0:2)  Bayer 04 Leverkusen
 
 
 Spieltag 13
 [Fr 18.12.]
-  20.30  1. FC Union Berlin       -  Borussia Dortmund
+  20.30  1. FC Union Berlin       2:1 (0:0)  Borussia Dortmund
 [Sa 19.12.]
-  15.30  RB Leipzig               -  1. FC Köln
-         Bor. Mönchengladbach     -  TSG 1899 Hoffenheim
-         FC Schalke 04            -  Arminia Bielefeld
-         1. FSV Mainz 05          -  Werder Bremen
-         FC Augsburg              -  Eintracht Frankfurt
-  18.30  Bayer 04 Leverkusen      -  Bayern München
+  15.30  Bor. Mönchengladbach     1:2 (1:0)  TSG 1899 Hoffenheim
+         1. FSV Mainz 05          0:1 (0:0)  Werder Bremen
+         FC Augsburg              0:2 (0:0)  Eintracht Frankfurt
+         RB Leipzig               0:0  1. FC Köln
+         FC Schalke 04            0:1 (0:0)  Arminia Bielefeld
+  18.30  Bayer 04 Leverkusen      1:2 (1:1)  Bayern München
 [So 20.12.]
-  15.30  SC Freiburg              -  Hertha BSC
-  18.00  VfL Wolfsburg            -  VfB Stuttgart
+  15.30  SC Freiburg              4:1 (1:0)  Hertha BSC
+  18.00  VfL Wolfsburg            1:0 (0:0)  VfB Stuttgart
 
 
 Spieltag 14
 [Sa 2.1.]
-  15.30  TSG 1899 Hoffenheim      -  SC Freiburg
-         Eintracht Frankfurt      -  Bayer 04 Leverkusen
-         1. FC Köln               -  FC Augsburg
-         Werder Bremen            -  1. FC Union Berlin
-         Arminia Bielefeld        -  Bor. Mönchengladbach
-  18.30  Hertha BSC               -  FC Schalke 04
-  20.30  VfB Stuttgart            -  RB Leipzig
+  15.30  1. FC Köln               0:1 (0:0)  FC Augsburg
+         Eintracht Frankfurt      2:1 (1:1)  Bayer 04 Leverkusen
+         Werder Bremen            0:2 (0:2)  1. FC Union Berlin
+         Arminia Bielefeld        0:1 (0:0)  Bor. Mönchengladbach
+         TSG 1899 Hoffenheim      1:3 (0:3)  SC Freiburg
+  18.30  Hertha BSC               3:0 (1:0)  FC Schalke 04
+  20.30  VfB Stuttgart            0:1 (0:0)  RB Leipzig
 [So 3.1.]
-  15.30  Borussia Dortmund        -  VfL Wolfsburg
-  18.00  Bayern München           -  1. FSV Mainz 05
+  15.30  Borussia Dortmund        2:0 (0:0)  VfL Wolfsburg
+  18.00  Bayern München           5:2 (0:2)  1. FSV Mainz 05
 
 
 Spieltag 15
 [Fr 8.1.]
-  20.30  Bor. Mönchengladbach     -  Bayern München
+  20.30  Bor. Mönchengladbach     3:2 (2:2)  Bayern München
 [Sa 9.1.]
-  15.30  Bayer 04 Leverkusen      -  Werder Bremen
-         SC Freiburg              -  1. FC Köln
-         1. FC Union Berlin       -  VfL Wolfsburg
-         FC Schalke 04            -  TSG 1899 Hoffenheim
-         1. FSV Mainz 05          -  Eintracht Frankfurt
-  18.30  RB Leipzig               -  Borussia Dortmund
+  15.30  Bayer 04 Leverkusen      1:1 (0:0)  Werder Bremen
+         SC Freiburg              5:0 (2:0)  1. FC Köln
+         1. FSV Mainz 05          0:2 (0:1)  Eintracht Frankfurt
+         1. FC Union Berlin       2:2 (1:1)  VfL Wolfsburg
+         FC Schalke 04            4:0 (1:0)  TSG 1899 Hoffenheim
+  18.30  RB Leipzig               1:3 (0:0)  Borussia Dortmund
 [So 10.1.]
-  15.30  FC Augsburg              -  VfB Stuttgart
-  18.00  Arminia Bielefeld        -  Hertha BSC
+  15.30  FC Augsburg              1:4 (0:2)  VfB Stuttgart
+  18.00  Arminia Bielefeld        1:0 (0:0)  Hertha BSC
 
 
 Spieltag 16
+[Fr 15.1.]
+  20.30  1. FC Union Berlin       1:0 (0:0)  Bayer 04 Leverkusen
 [Sa 16.1.]
-  Bayern München           -  SC Freiburg
-  Borussia Dortmund        -  1. FSV Mainz 05
-  TSG 1899 Hoffenheim      -  Arminia Bielefeld
-  VfL Wolfsburg            -  RB Leipzig
-  Eintracht Frankfurt      -  FC Schalke 04
-  1. FC Union Berlin       -  Bayer 04 Leverkusen
-  1. FC Köln               -  Hertha BSC
-  Werder Bremen            -  FC Augsburg
-  VfB Stuttgart            -  Bor. Mönchengladbach
+  15.30  1. FC Köln               0:0  Hertha BSC
+         Borussia Dortmund        1:1 (0:0)  1. FSV Mainz 05
+         Werder Bremen            2:0 (0:0)  FC Augsburg
+         VfL Wolfsburg            2:2 (2:1)  RB Leipzig
+         TSG 1899 Hoffenheim      0:0  Arminia Bielefeld
+  18.30  VfB Stuttgart            2:2 (0:1)  Bor. Mönchengladbach
+[So 17.1.]
+  15.30  Bayern München           2:1 (1:0)  SC Freiburg
+  18.00  Eintracht Frankfurt      3:1 (1:1)  FC Schalke 04
 
 
 Spieltag 17
 [Di 19.1.]
-  RB Leipzig               -  1. FC Union Berlin
-  Bor. Mönchengladbach     -  Werder Bremen
-  Bayer 04 Leverkusen      -  Borussia Dortmund
-  SC Freiburg              -  Eintracht Frankfurt
-  Hertha BSC               -  TSG 1899 Hoffenheim
-  FC Schalke 04            -  1. FC Köln
-  1. FSV Mainz 05          -  VfL Wolfsburg
-  FC Augsburg              -  Bayern München
-  Arminia Bielefeld        -  VfB Stuttgart
+  18.30  Bor. Mönchengladbach     1:0 (0:0)  Werder Bremen
+  20.30  Bayer 04 Leverkusen      2:1 (1:0)  Borussia Dortmund
+         1. FSV Mainz 05          0:2 (0:0)  VfL Wolfsburg
+         Hertha BSC               0:3 (0:1)  TSG 1899 Hoffenheim
+[Mi 20.1.]
+  18.30  FC Schalke 04            1:2 (0:1)  1. FC Köln
+  20.30  SC Freiburg              2:2 (1:1)  Eintracht Frankfurt
+         FC Augsburg              0:1 (0:1)  Bayern München
+         RB Leipzig               1:0 (0:0)  1. FC Union Berlin
+         Arminia Bielefeld        3:0 (1:0)  VfB Stuttgart
 
 
 Spieltag 18
+[Fr 22.1.]
+  20.30  Bor. Mönchengladbach     4:2 (2:2)  Borussia Dortmund
 [Sa 23.1.]
-  FC Schalke 04            -  Bayern München
-  Bor. Mönchengladbach     -  Borussia Dortmund
-  1. FSV Mainz 05          -  RB Leipzig
-  Bayer 04 Leverkusen      -  VfL Wolfsburg
-  Arminia Bielefeld        -  Eintracht Frankfurt
-  FC Augsburg              -  1. FC Union Berlin
-  TSG 1899 Hoffenheim      -  1. FC Köln
-  Hertha BSC               -  Werder Bremen
-  SC Freiburg              -  VfB Stuttgart
+  15.30  Bayer 04 Leverkusen      0:1 (0:1)  VfL Wolfsburg
+         SC Freiburg              2:1 (2:1)  VfB Stuttgart
+         1. FSV Mainz 05          3:2 (2:2)  RB Leipzig
+         FC Augsburg              2:1 (1:1)  1. FC Union Berlin
+         Arminia Bielefeld        1:5 (1:3)  Eintracht Frankfurt
+  18.30  Hertha BSC               1:4 (1:2)  Werder Bremen
+[So 24.1.]
+  15.30  FC Schalke 04            0:4 (0:1)  Bayern München
+  18.00  TSG 1899 Hoffenheim      3:0 (2:0)  1. FC Köln
 
 
 Spieltag 19
+[Fr 29.1.]
+  20.30  VfB Stuttgart            2:0 (0:0)  1. FSV Mainz 05
 [Sa 30.1.]
-  1. FC Union Berlin       -  Bor. Mönchengladbach
-  RB Leipzig               -  Bayer 04 Leverkusen
-  Bayern München           -  TSG 1899 Hoffenheim
-  VfL Wolfsburg            -  SC Freiburg
-  Eintracht Frankfurt      -  Hertha BSC
-  Werder Bremen            -  FC Schalke 04
-  VfB Stuttgart            -  1. FSV Mainz 05
-  Borussia Dortmund        -  FC Augsburg
-  1. FC Köln               -  Arminia Bielefeld
+  15.30  Borussia Dortmund        3:1 (1:1)  FC Augsburg
+         Werder Bremen            1:1 (0:1)  FC Schalke 04
+         Bayern München           4:1 (2:1)  TSG 1899 Hoffenheim
+         1. FC Union Berlin       1:1 (1:0)  Bor. Mönchengladbach
+         Eintracht Frankfurt      3:1 (0:0)  Hertha BSC
+  18.30  RB Leipzig               1:0 (0:0)  Bayer 04 Leverkusen
+[So 31.1.]
+  15.30  1. FC Köln               3:1 (2:0)  Arminia Bielefeld
+  18.00  VfL Wolfsburg            3:0 (2:0)  SC Freiburg
 
 
 Spieltag 20
+[Fr 5.2.]
+  20.00  Hertha BSC               0:1 (0:1)  Bayern München
 [Sa 6.2.]
-  Hertha BSC               -  Bayern München
-  SC Freiburg              -  Borussia Dortmund
-  FC Schalke 04            -  RB Leipzig
-  FC Augsburg              -  VfL Wolfsburg
-  TSG 1899 Hoffenheim      -  Eintracht Frankfurt
-  1. FSV Mainz 05          -  1. FC Union Berlin
-  Bor. Mönchengladbach     -  1. FC Köln
-  Arminia Bielefeld        -  Werder Bremen
-  Bayer 04 Leverkusen      -  VfB Stuttgart
+  15.30  Bayer 04 Leverkusen      5:2 (2:0)  VfB Stuttgart
+         SC Freiburg              2:1 (0:0)  Borussia Dortmund
+         1. FSV Mainz 05          1:0 (1:0)  1. FC Union Berlin
+         FC Augsburg              0:2 (0:1)  VfL Wolfsburg
+         FC Schalke 04            0:3 (0:1)  RB Leipzig
+  18.30  Bor. Mönchengladbach     1:2 (1:1)  1. FC Köln
+[So 7.2.]
+  15.30  TSG 1899 Hoffenheim      1:3 (0:1)  Eintracht Frankfurt
 
 
 Spieltag 21
+[Fr 12.2.]
+  20.30  RB Leipzig               2:1 (2:0)  FC Augsburg
 [Sa 13.2.]
-  VfL Wolfsburg            -  Bor. Mönchengladbach
-  Borussia Dortmund        -  TSG 1899 Hoffenheim
-  Werder Bremen            -  SC Freiburg
-  VfB Stuttgart            -  Hertha BSC
-  1. FC Union Berlin       -  FC Schalke 04
-  Bayer 04 Leverkusen      -  1. FSV Mainz 05
-  Eintracht Frankfurt      -  1. FC Köln
-  RB Leipzig               -  FC Augsburg
-  Bayern München           -  Arminia Bielefeld
+  15.30  Borussia Dortmund        2:2 (1:1)  TSG 1899 Hoffenheim
+         VfB Stuttgart            1:1 (1:0)  Hertha BSC
+         Werder Bremen            0:0  SC Freiburg
+         Bayer 04 Leverkusen      2:2 (1:0)  1. FSV Mainz 05
+  18.30  1. FC Union Berlin       0:0  FC Schalke 04
+[So 14.2.]
+  15.30  Eintracht Frankfurt      2:0 (0:0)  1. FC Köln
+  18.00  VfL Wolfsburg            0:0  Bor. Mönchengladbach
+[Mo 15.2.]
+  20.30  Bayern München           3:3 (0:2)  Arminia Bielefeld
 
 
 Spieltag 22
+[Fr 19.2.]
+  20.30  Arminia Bielefeld        0:3 (0:1)  VfL Wolfsburg
 [Sa 20.2.]
-  Eintracht Frankfurt      -  Bayern München
-  FC Schalke 04            -  Borussia Dortmund
-  Hertha BSC               -  RB Leipzig
-  FC Augsburg              -  Bayer 04 Leverkusen
-  Arminia Bielefeld        -  VfL Wolfsburg
-  SC Freiburg              -  1. FC Union Berlin
-  Bor. Mönchengladbach     -  1. FSV Mainz 05
-  TSG 1899 Hoffenheim      -  Werder Bremen
-  1. FC Köln               -  VfB Stuttgart
+  15.30  1. FC Köln               0:1 (0:0)  VfB Stuttgart
+         Eintracht Frankfurt      2:1 (2:0)  Bayern München
+         Bor. Mönchengladbach     1:2 (1:1)  1. FSV Mainz 05
+         SC Freiburg              0:1 (0:0)  1. FC Union Berlin
+  18.30  FC Schalke 04            0:4 (0:2)  Borussia Dortmund
+[So 21.2.]
+  13.30  FC Augsburg              1:1 (1:0)  Bayer 04 Leverkusen
+  15.30  Hertha BSC               0:3 (0:1)  RB Leipzig
+  18.00  TSG 1899 Hoffenheim      4:0 (2:0)  Werder Bremen
 
 
 Spieltag 23
+[Fr 26.2.]
+  20.30  Werder Bremen            2:1 (0:1)  Eintracht Frankfurt
 [Sa 27.2.]
-  RB Leipzig               -  Bor. Mönchengladbach
-  1. FC Union Berlin       -  TSG 1899 Hoffenheim
-  Bayer 04 Leverkusen      -  SC Freiburg
-  Werder Bremen            -  Eintracht Frankfurt
-  VfL Wolfsburg            -  Hertha BSC
-  VfB Stuttgart            -  FC Schalke 04
-  Bayern München           -  1. FC Köln
-  1. FSV Mainz 05          -  FC Augsburg
-  Borussia Dortmund        -  Arminia Bielefeld
+  15.30  Borussia Dortmund        3:0 (0:0)  Arminia Bielefeld
+         VfB Stuttgart            5:1 (3:1)  FC Schalke 04
+         Bayern München           5:1 (2:0)  1. FC Köln
+         VfL Wolfsburg            2:0 (1:0)  Hertha BSC
+  18.30  RB Leipzig               3:2 (0:2)  Bor. Mönchengladbach
+[So 28.2.]
+  13.30  1. FC Union Berlin       1:1 (1:1)  TSG 1899 Hoffenheim
+  15.30  1. FSV Mainz 05          0:1 (0:1)  FC Augsburg
+  18.00  Bayer 04 Leverkusen      1:2 (0:0)  SC Freiburg
 
 
 Spieltag 24
+[Fr 5.3.]
+  20.30  FC Schalke 04            0:0  1. FSV Mainz 05
 [Sa 6.3.]
-  Bayern München           -  Borussia Dortmund
-  SC Freiburg              -  RB Leipzig
-  Bor. Mönchengladbach     -  Bayer 04 Leverkusen
-  TSG 1899 Hoffenheim      -  VfL Wolfsburg
-  Arminia Bielefeld        -  1. FC Union Berlin
-  FC Schalke 04            -  1. FSV Mainz 05
-  Hertha BSC               -  FC Augsburg
-  1. FC Köln               -  Werder Bremen
-  Eintracht Frankfurt      -  VfB Stuttgart
+  15.30  Eintracht Frankfurt      1:1 (0:0)  VfB Stuttgart
+         Hertha BSC               2:1 (0:1)  FC Augsburg
+         Bor. Mönchengladbach     0:1 (0:0)  Bayer 04 Leverkusen
+         SC Freiburg              0:3 (0:1)  RB Leipzig
+         TSG 1899 Hoffenheim      2:1 (2:1)  VfL Wolfsburg
+  18.30  Bayern München           4:2 (2:2)  Borussia Dortmund
+[So 7.3.]
+  15.30  1. FC Köln               1:1 (0:0)  Werder Bremen
+  18.00  Arminia Bielefeld        0:0  1. FC Union Berlin
+
+
+Spieltag 20
+[Mi 10.3.]
+  18.30  Arminia Bielefeld        0:2 (0:0)  Werder Bremen
 
 
 Spieltag 25
+[Fr 12.3.]
+  20.30  FC Augsburg              3:1 (0:0)  Bor. Mönchengladbach
 [Sa 13.3.]
-  Werder Bremen            -  Bayern München
-  FC Augsburg              -  Bor. Mönchengladbach
-  VfB Stuttgart            -  TSG 1899 Hoffenheim
-  1. FSV Mainz 05          -  SC Freiburg
-  RB Leipzig               -  Eintracht Frankfurt
-  Borussia Dortmund        -  Hertha BSC
-  VfL Wolfsburg            -  FC Schalke 04
-  1. FC Union Berlin       -  1. FC Köln
-  Bayer 04 Leverkusen      -  Arminia Bielefeld
+  15.30  VfL Wolfsburg            5:0 (1:0)  FC Schalke 04
+         1. FSV Mainz 05          1:0 (0:0)  SC Freiburg
+         1. FC Union Berlin       2:1 (0:1)  1. FC Köln
+         Werder Bremen            1:3 (0:2)  Bayern München
+  18.30  Borussia Dortmund        2:0 (0:0)  Hertha BSC
+[So 14.3.]
+  13.30  Bayer 04 Leverkusen      1:2 (0:1)  Arminia Bielefeld
+  15.30  RB Leipzig               1:1 (0:0)  Eintracht Frankfurt
+  18.00  VfB Stuttgart            2:0 (1:0)  TSG 1899 Hoffenheim
 
 
 Spieltag 26
+[Fr 19.3.]
+  20.30  Arminia Bielefeld        0:1 (0:0)  RB Leipzig
 [Sa 20.3.]
-  1. FC Köln               -  Borussia Dortmund
-  Arminia Bielefeld        -  RB Leipzig
-  FC Schalke 04            -  Bor. Mönchengladbach
-  Hertha BSC               -  Bayer 04 Leverkusen
-  Werder Bremen            -  VfL Wolfsburg
-  Eintracht Frankfurt      -  1. FC Union Berlin
-  TSG 1899 Hoffenheim      -  1. FSV Mainz 05
-  SC Freiburg              -  FC Augsburg
-  Bayern München           -  VfB Stuttgart
+  15.30  Eintracht Frankfurt      5:2 (4:2)  1. FC Union Berlin
+         Werder Bremen            1:2 (1:2)  VfL Wolfsburg
+         Bayern München           4:0 (4:0)  VfB Stuttgart
+         1. FC Köln               2:2 (1:1)  Borussia Dortmund
+  18.30  FC Schalke 04            0:3 (0:1)  Bor. Mönchengladbach
+[So 21.3.]
+  13.30  TSG 1899 Hoffenheim      1:2 (1:2)  1. FSV Mainz 05
+  15.30  Hertha BSC               3:0 (3:0)  Bayer 04 Leverkusen
+  18.00  SC Freiburg              2:0 (0:0)  FC Augsburg
 
 
 Spieltag 27
+[Sa 3.4.]
+  15.30  Borussia Dortmund        1:2 (1:1)  Eintracht Frankfurt
+         Bayer 04 Leverkusen      2:1 (1:0)  FC Schalke 04
+         VfL Wolfsburg            1:0 (0:0)  1. FC Köln
+         1. FSV Mainz 05          1:1 (0:0)  Arminia Bielefeld
+         FC Augsburg              2:1 (2:0)  TSG 1899 Hoffenheim
+  18.30  RB Leipzig               0:1 (0:1)  Bayern München
+  20.30  Bor. Mönchengladbach     2:1 (0:1)  SC Freiburg
 [So 4.4.]
-  RB Leipzig               -  Bayern München
-  FC Augsburg              -  TSG 1899 Hoffenheim
-  Bor. Mönchengladbach     -  SC Freiburg
-  Borussia Dortmund        -  Eintracht Frankfurt
-  1. FC Union Berlin       -  Hertha BSC
-  Bayer 04 Leverkusen      -  FC Schalke 04
-  VfL Wolfsburg            -  1. FC Köln
-  VfB Stuttgart            -  Werder Bremen
-  1. FSV Mainz 05          -  Arminia Bielefeld
+  15.30  VfB Stuttgart            1:0 (0:0)  Werder Bremen
+  18.00  1. FC Union Berlin       1:1 (1:1)  Hertha BSC
 
 
 Spieltag 28
+[Fr 9.4.]
+  20.30  Arminia Bielefeld        1:0 (0:0)  SC Freiburg
 [Sa 10.4.]
-  VfB Stuttgart            -  Borussia Dortmund
-  Werder Bremen            -  RB Leipzig
-  Hertha BSC               -  Bor. Mönchengladbach
-  TSG 1899 Hoffenheim      -  Bayer 04 Leverkusen
-  Eintracht Frankfurt      -  VfL Wolfsburg
-  Arminia Bielefeld        -  SC Freiburg
-  Bayern München           -  1. FC Union Berlin
-  1. FC Köln               -  1. FSV Mainz 05
-  FC Schalke 04            -  FC Augsburg
+  15.30  Werder Bremen            1:4 (0:3)  RB Leipzig
+         Hertha BSC               2:2 (1:2)  Bor. Mönchengladbach
+         Bayern München           1:1 (0:0)  1. FC Union Berlin
+         Eintracht Frankfurt      4:3 (2:1)  VfL Wolfsburg
+  18.30  VfB Stuttgart            2:3 (1:0)  Borussia Dortmund
+[So 11.4.]
+  15.30  FC Schalke 04            1:0 (1:0)  FC Augsburg
+  18.00  1. FC Köln               2:3 (1:1)  1. FSV Mainz 05
+[Mo 12.4.]
+  20.30  TSG 1899 Hoffenheim      0:0  Bayer 04 Leverkusen
 
 
 Spieltag 29
+[Fr 16.4.]
+  20.30  RB Leipzig               0:0  TSG 1899 Hoffenheim
 [Sa 17.4.]
-  VfL Wolfsburg            -  Bayern München
-  RB Leipzig               -  TSG 1899 Hoffenheim
-  Bor. Mönchengladbach     -  Eintracht Frankfurt
-  1. FSV Mainz 05          -  Hertha BSC
-  SC Freiburg              -  FC Schalke 04
-  Bayer 04 Leverkusen      -  1. FC Köln
-  Borussia Dortmund        -  Werder Bremen
-  FC Augsburg              -  Arminia Bielefeld
-  1. FC Union Berlin       -  VfB Stuttgart
+  15.30  Bor. Mönchengladbach     4:0 (1:0)  Eintracht Frankfurt
+         SC Freiburg              4:0 (2:0)  FC Schalke 04
+         VfL Wolfsburg            2:3 (1:3)  Bayern München
+         FC Augsburg              0:0  Arminia Bielefeld
+         1. FC Union Berlin       2:1 (2:0)  VfB Stuttgart
+  18.30  Bayer 04 Leverkusen      3:0 (1:0)  1. FC Köln
+[So 18.4.]
+  15.30  Borussia Dortmund        4:1 (3:1)  Werder Bremen
 
 
 Spieltag 30
 [Di 20.4.]
-  1. FC Köln               -  RB Leipzig
-  TSG 1899 Hoffenheim      -  Bor. Mönchengladbach
-  Bayern München           -  Bayer 04 Leverkusen
-  VfB Stuttgart            -  VfL Wolfsburg
-  Hertha BSC               -  SC Freiburg
-  Borussia Dortmund        -  1. FC Union Berlin
-  Arminia Bielefeld        -  FC Schalke 04
-  Werder Bremen            -  1. FSV Mainz 05
-  Eintracht Frankfurt      -  FC Augsburg
+  18.30  1. FC Köln               2:1 (0:0)  RB Leipzig
+  20.30  Bayern München           2:0 (2:0)  Bayer 04 Leverkusen
+         Arminia Bielefeld        1:0 (0:0)  FC Schalke 04
+         Eintracht Frankfurt      2:0 (1:0)  FC Augsburg
+[Mi 21.4.]
+  20.30  VfB Stuttgart            1:3 (0:2)  VfL Wolfsburg
+         Werder Bremen            0:1 (0:1)  1. FSV Mainz 05
+         TSG 1899 Hoffenheim      3:2 (0:2)  Bor. Mönchengladbach
+         Borussia Dortmund        2:0 (1:0)  1. FC Union Berlin
 
 
 Spieltag 31
+[Fr 23.4.]
+  20.30  FC Augsburg              2:3 (0:3)  1. FC Köln
 [Sa 24.4.]
-  1. FSV Mainz 05          -  Bayern München
-  VfL Wolfsburg            -  Borussia Dortmund
-  SC Freiburg              -  TSG 1899 Hoffenheim
-  Bayer 04 Leverkusen      -  Eintracht Frankfurt
-  FC Schalke 04            -  Hertha BSC
-  FC Augsburg              -  1. FC Köln
-  1. FC Union Berlin       -  Werder Bremen
-  Bor. Mönchengladbach     -  Arminia Bielefeld
-  RB Leipzig               -  VfB Stuttgart
+  15.30  VfL Wolfsburg            0:2 (0:1)  Borussia Dortmund
+         1. FSV Mainz 05          2:1 (2:0)  Bayern München
+         1. FC Union Berlin       3:1 (0:0)  Werder Bremen
+         SC Freiburg              1:1 (0:1)  TSG 1899 Hoffenheim
+  18.30  Bayer 04 Leverkusen      3:1 (0:0)  Eintracht Frankfurt
+[So 25.4.]
+  15.30  RB Leipzig               2:0 (0:0)  VfB Stuttgart
+  18.00  Bor. Mönchengladbach     5:0 (3:0)  Arminia Bielefeld
+
+
+Spieltag 29
+[Mo 3.5.]
+  18.00  1. FSV Mainz 05          1:1 (1:1)  Hertha BSC
+
+
+Spieltag 30
+[Do 6.5.]
+  18.30  Hertha BSC               3:0 (2:0)  SC Freiburg
 
 
 Spieltag 32
+[Fr 7.5.]
+  20.30  VfB Stuttgart            2:1 (1:0)  FC Augsburg
 [Sa 8.5.]
-  Borussia Dortmund        -  RB Leipzig
-  Bayern München           -  Bor. Mönchengladbach
-  Werder Bremen            -  Bayer 04 Leverkusen
-  1. FC Köln               -  SC Freiburg
-  VfL Wolfsburg            -  1. FC Union Berlin
-  TSG 1899 Hoffenheim      -  FC Schalke 04
-  Eintracht Frankfurt      -  1. FSV Mainz 05
-  VfB Stuttgart            -  FC Augsburg
-  Hertha BSC               -  Arminia Bielefeld
+  15.30  Werder Bremen            0:0  Bayer 04 Leverkusen
+         VfL Wolfsburg            3:0 (1:0)  1. FC Union Berlin
+         TSG 1899 Hoffenheim      4:2 (0:2)  FC Schalke 04
+         Borussia Dortmund        3:2 (1:0)  RB Leipzig
+  18.30  Bayern München           6:0 (4:0)  Bor. Mönchengladbach
+[So 9.5.]
+  13.30  1. FC Köln               1:4 (0:2)  SC Freiburg
+  15.30  Eintracht Frankfurt      1:1 (0:1)  1. FSV Mainz 05
+  18.00  Hertha BSC               0:0  Arminia Bielefeld
+
+
+Spieltag 31
+[Mi 12.5.]
+  18.00  FC Schalke 04            1:2 (1:1)  Hertha BSC
 
 
 Spieltag 33
 [Sa 15.5.]
-  15.30  SC Freiburg              -  Bayern München
-         1. FSV Mainz 05          -  Borussia Dortmund
-         Arminia Bielefeld        -  TSG 1899 Hoffenheim
-         RB Leipzig               -  VfL Wolfsburg
-         FC Schalke 04            -  Eintracht Frankfurt
-         Bayer 04 Leverkusen      -  1. FC Union Berlin
-         Hertha BSC               -  1. FC Köln
-         FC Augsburg              -  Werder Bremen
-         Bor. Mönchengladbach     -  VfB Stuttgart
+  15.30  FC Schalke 04            4:3 (1:1)  Eintracht Frankfurt
+         Hertha BSC               0:0  1. FC Köln
+         Bor. Mönchengladbach     1:2 (1:0)  VfB Stuttgart
+         Arminia Bielefeld        1:1 (1:1)  TSG 1899 Hoffenheim
+         Bayer 04 Leverkusen      1:1 (1:0)  1. FC Union Berlin
+         SC Freiburg              2:2 (1:1)  Bayern München
+         FC Augsburg              2:0 (0:0)  Werder Bremen
+[So 16.5.]
+  18.00  1. FSV Mainz 05          1:3 (0:2)  Borussia Dortmund
+  20.30  RB Leipzig               2:2 (0:2)  VfL Wolfsburg
 
 
 Spieltag 34
 [Sa 22.5.]
-  15.30  1. FC Union Berlin       -  RB Leipzig
-         Werder Bremen            -  Bor. Mönchengladbach
-         Borussia Dortmund        -  Bayer 04 Leverkusen
-         Eintracht Frankfurt      -  SC Freiburg
-         TSG 1899 Hoffenheim      -  Hertha BSC
-         1. FC Köln               -  FC Schalke 04
-         VfL Wolfsburg            -  1. FSV Mainz 05
-         Bayern München           -  FC Augsburg
-         VfB Stuttgart            -  Arminia Bielefeld
+  15.30  1. FC Köln               1:0 (0:0)  FC Schalke 04
+         Eintracht Frankfurt      3:1 (0:0)  SC Freiburg
+         Borussia Dortmund        3:1 (1:0)  Bayer 04 Leverkusen
+         VfB Stuttgart            0:2 (0:0)  Arminia Bielefeld
+         Werder Bremen            2:4 (0:1)  Bor. Mönchengladbach
+         VfL Wolfsburg            2:3 (0:1)  1. FSV Mainz 05
+         TSG 1899 Hoffenheim      2:1 (0:1)  Hertha BSC
+         1. FC Union Berlin       2:1 (0:0)  RB Leipzig
+  15.35  Bayern München           5:2 (4:0)  FC Augsburg

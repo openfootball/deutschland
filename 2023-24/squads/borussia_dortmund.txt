@@ -1,0 +1,38 @@
+= Ballspielverein Borussia 1909 Dortmund    # Borussia Dortmund
+
+ 1  Gregor Kobel (SUI)             GK    # 06 Dec 1997, Zürich  -- Stuttgart
+31  Silas Ostrzinski (GER)         GK    # 19 Nov 2003, Hagen
+33  Alexander Meyer (GER)          GK    # 13 Apr 1991, Bad Oldesloe  -- Jahn Regensburg
+35  Marcel Lotka (POL)             GK    # 25 May 2001, Duisburg  -- Hertha Berlin
+
+ 2  Mateu Morey (ESP)              DF    # 02 Mar 2000, Palma de Mallorca  -- Barcelona B
+ 4  Nico Schlotterbeck (GER)       DF    # 01 Dec 1999, Waiblingen  -- Freiburg
+ 5  Ramy Bensebaini (ALG)          DF    # 16 Apr 1995, Constantine  -- B Mönchengladbach
+15  Mats Hummels (GER)             DF    # 16 Dec 1988, Bensberg  -- Bayern Munich
+22  Ian Maatsen (NED)              DF    # 10 Mar 2002, Vlaardingen  -- Chelsea
+25  Niklas Süle (GER)              DF    # 03 Sep 1995, Frankfurt am Main  -- Bayern Munich
+26  Julian Ryerson (NOR)           DF    # 17 Nov 1997, Lyngdal  -- Union Berlin
+45  Guille Bueno (ESP)             DF    # 18 Sep 2002, Vigo  -- Deportivo La Coruña B
+47  Antonios Papadopoulos (GER)    DF    # 10 Sep 1999, Stuttgart  -- Hallescher FC
+
+ 6  Salih Özcan (GER)              MF    # 11 Jan 1998, Cologne  -- Köln
+ 8  Felix Nmecha (ENG)             MF    # 10 Oct 2000, Hamburg  -- Wolfsburg
+19  Julian Brandt (GER)            MF    # 02 May 1996, Bremen  -- Bayer Leverkusen
+20  Marcel Sabitzer (AUT)          MF    # 17 Mar 1994, Graz  -- Bayern Munich
+23  Emre Can (GER)                 MF    # 12 Jan 1994, Frankfurt am Main  -- Juventus
+30  Ole Pohlmann (GER)             MF    # 05 Apr 2001, Minden  -- Wolfsburg
+32  Abdoulaye Kamara (GUI)         MF    # 06 Nov 2004, Conakry  -- Paris St-Germain
+38  Kjell Wätjen (GER)             MF    # 16 Feb 2006, Gevelsberg
+48  Samuel Bamba (GER)             MF    # 13 Feb 2004, Ahlen
+
+ 9  Sébastien Haller (CIV)         FW    # 22 Jun 1994, Ris-Orangis  -- Ajax
+10  Jadon Sancho (ENG)             FW    # 25 Mar 2000, Lambeth  -- Manchester U
+11  Marco Reus (GER)               FW    # 31 May 1989, Dortmund  -- B Mönchengladbach
+14  Niclas Füllkrug (GER)          FW    # 09 Feb 1993, Hannover  -- Werder Bremen
+16  Julien Duranville (BEL)        FW    # 05 May 2006, Uccle  -- Anderlecht
+17  Marius Wolf (GER)              FW    # 27 May 1995, Coburg  -- Eintracht Frankfurt
+18  Youssoufa Moukoko (GER)        FW    # 20 Nov 2004, Yaoundé  -- St Pauli
+21  Donyell Malen (NED)            FW    # 09 Jan 1999, Wieringen  -- PSV Eindhoven
+27  Karim Adeyemi (GER)            FW    # 18 Jan 2002, Munich  -- Red Bull Salzburg
+29  Paris Brunner (GER)            FW    # 15 Feb 2006
+43  Jamie Bynoe-Gittens (ENG)      FW    # 08 Aug 2004, Reading  -- Manchester C

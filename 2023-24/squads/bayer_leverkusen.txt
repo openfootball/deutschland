@@ -1,0 +1,35 @@
+= Turn- und Sportverein Bayer 04 Leverkusen    # Bayer Leverkusen
+
+ 1  Lukáš Hrádecký (FIN)           GK    # 24 Nov 1989, Bratislava  -- Eintracht Frankfurt
+17  Matěj Kovář (CZE)              GK    # 17 May 2000, Uherské Hradiště  -- Manchester U
+36  Niklas Lomb (GER)              GK    # 28 Jul 1993, Cologne
+
+ 2  Josip Stanišić (CRO)           DF    # 02 Apr 2000, Munich  -- Bayern Munich
+ 3  Piero Hincapié (ECU)           DF    # 09 Jan 2002, Esmeraldas  -- Talleres (Córdoba)
+ 4  Jonathan Tah (GER)             DF    # 11 Feb 1996, Hamburg  -- Hamburg
+ 6  Odilon Kossounou (CIV)         DF    # 04 Jan 2001, Abidjan  -- Club Brugge
+12  Edmond Tapsoba (BFA)           DF    # 02 Feb 1999, Ouagadougou  -- Vitória Guimarães
+13  Arthur (BRA)                   DF    # 17 Mar 2003, Belo Horizonte  -- América Mineiro
+20  Alex Grimaldo (ESP)            DF    # 20 Sep 1995, Valencia  -- Benfica
+24  Timothy Fosu-Mensah (NED)      DF    # 02 Jan 1998, Amsterdam  -- Manchester U
+30  Jeremie Frimpong (NED)         DF    # 10 Dec 2000, Amsterdam  -- Celtic
+31  Madi Monamay (BEL)             DF    # 06 Apr 2006  -- KRC Genk
+48  Reno Münz (GER)                DF    # 02 Oct 2005, Jakarta  -- Köln
+
+ 7  Jonas Hofmann (GER)            MF    # 14 Jul 1992, Heidelberg  -- B Mönchengladbach
+ 8  Robert Andrich (GER)           MF    # 22 Sep 1994, Potsdam  -- Union Berlin
+10  Florian Wirtz (GER)            MF    # 03 May 2003, Pulheim  -- Köln
+18  Noah Mbamba (BEL)              MF    # 05 Jan 2005, Elsene  -- Club Brugge
+19  Nathan Tella (ENG)             MF    # 05 Jul 1999, Lambeth  -- Southampton
+25  Exequiel Palacios (ARG)        MF    # 05 Oct 1998, Famaillá  -- River Plate
+32  Gustavo Puerta (COL)           MF    # 23 Jul 2003, La Víctoria  -- Bogotá FC
+34  Granit Xhaka (SUI)             MF    # 27 Sep 1992, Gnjilane  -- Arsenal
+47  Ayman Aourir (GER)             MF    # 06 Oct 2004, Cologne  -- Viktoria Köln
+
+ 9  Borja Iglesias (ESP)           FW    # 17 Jan 1993, Santiago de Compostela  -- Betis
+14  Patrik Schick (CZE)            FW    # 24 Jan 1996, Prague  -- Roma
+21  Amine Adli (MAR)               FW    # 10 May 2000, Béziers  -- Toulouse
+22  Victor Boniface (NGA)          FW    # 23 Dec 2000, Akure  -- Union St-Gilloise
+23  Adam Hložek (CZE)              FW    # 25 Jul 2002, Ivančice  -- Sparta Prague
+38  Ken Izekor (GER)               FW    # 24 May 2007, Aachen
+40  Francis Onyeka (GER)           FW    # 29 Apr 2007, Gummersbach

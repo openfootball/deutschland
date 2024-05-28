@@ -1,0 +1,32 @@
+= Verein für Leibesübungen Wolfsburg    # VfL Wolfsburg
+
+ 1  Koen Casteels (BEL)            GK    # 25 Jun 1992, Bonheiden  -- 1899 Hoffenheim
+12  Pavao Pervan (AUT)             GK    # 13 Nov 1987, Livno  -- LASK Linz
+30  Niklas Klinger (GER)           GK    # 13 Oct 1995, Wolfsburg
+
+ 2  Kilian Fischer (GER)           DF    # 12 Oct 2000, Miltenberg  -- Nürnberg
+ 3  Sebastiaan Bornauw (BEL)       DF    # 22 Mar 1999, Wemmel  -- Köln
+ 4  Maxence Lacroix (FRA)          DF    # 06 Apr 2000, Villeneuve-Saint-Georges  -- Sochaux
+ 5  Cédric Zesiger (SUI)           DF    # 24 Jun 1998, Ins  -- Young Boys
+13  Rogério (BRA)                  DF    # 13 Jan 1998, Nobres  -- Sassuolo
+21  Joakim Mæhle (DEN)             DF    # 20 May 1997, Østervrå  -- Atalanta
+25  Moritz Jenz (GER)              DF    # 30 Apr 1999, Berlin  -- Lorient
+
+ 6  Aster Vranckx (BEL)            MF    # 04 Oct 2002, Erps-Kwerps  -- Mechelen
+16  Jakub Kamiński (POL)           MF    # 05 Jun 2002, Ruda Śląska  -- Lech Poznań
+19  Lovro Majer (CRO)              MF    # 17 Jan 1998, Zagreb  -- Rennes
+20  Ridle Baku (GER)               MF    # 08 Apr 1998, Mainz  -- Mainz
+27  Maximilian Arnold (GER)        MF    # 27 May 1994, Riesa  -- Dynamo Dresden
+31  Yannick Gerhardt (GER)         MF    # 13 Mar 1994, Würselen  -- Köln
+32  Mattias Svanberg (SWE)         MF    # 05 Jan 1999, Malmö  -- Bologna
+39  Patrick Wimmer (AUT)           MF    # 30 May 2001, Tulln  -- Arminia Bielefeld
+40  Kevin Paredes (USA)            MF    # 07 May 2003, South Riding  -- DC United
+41  Kofi Amoako (GER)              MF    # 06 May 2005
+
+ 7  Václav Černý (CZE)             FW    # 17 Oct 1997, Příbram  -- FC Twente
+ 9  Amin Sarr (SWE)                FW    # 11 Mar 2001, Malmö  -- Lyon
+10  Lukas Nmecha (GER)             FW    # 12 Dec 1998, Hamburg  -- Manchester C
+11  Tiago Tomás (POR)              FW    # 16 Jun 2002, Cascais  -- Sporting CP
+17  Kevin Behrens (GER)            FW    # 03 Feb 1991, Bremen  -- Union Berlin
+18  Dženan Pejčinović (GER)        FW    # 15 Feb 2005, Munich  -- Augsburg
+23  Jonas Wind (DEN)               FW    # 07 Feb 1999, Hvidovre  -- FC København

@@ -1,0 +1,31 @@
+= 1. Fußball-Club Union Berlin    # 1.FC Union Berlin
+
+ 1  Frederik Rønnow (DEN)          GK    # 04 Aug 1992, Horsens  -- Eintracht Frankfurt
+12  Jakob Busk (DEN)               GK    # 12 Sep 1993, Copenhagen  -- FC København
+37  Alexander Schwolow (GER)       GK    # 02 Jun 1992, Wiesbaden  -- Hertha Berlin
+
+ 2  Kevin Vogt (GER)               DF    # 23 Sep 1991, Bochum  -- 1899 Hoffenheim
+ 3  Paul Jaeckel (GER)             DF    # 22 Jul 1998, Eisenhüttenstadt  -- Greuther Fürth
+ 4  Diogo Leite (POR)              DF    # 23 Jan 1999, Porto  -- FC Porto
+ 5  Danilho Doekhi (NED)           DF    # 30 Jun 1998, Rotterdam  -- Vitesse
+ 6  Robin Gosens (GER)             DF    # 05 Jul 1994, Emmerich  -- Internazionale
+18  Josip Juranović (CRO)          DF    # 16 Aug 1995, Zagreb  -- Celtic
+26  Jérôme Roussillon (FRA)        DF    # 06 Jan 1993, Sarcelles  -- Wolfsburg
+28  Christopher Trimmel (AUT)      DF    # 24 Feb 1987, Oberpullendorf  -- Rapid Vienna
+31  Robin Knoche (GER)             DF    # 22 May 1992, Braunschweig  -- Wolfsburg
+41  Oluwaseun Ogbemudia (GER)      DF    # 18 Jul 2006, Berlin  -- St Pauli
+
+ 7  Brenden Aaronson (USA)         MF    # 22 Oct 2000, Medford  -- Leeds U
+ 8  Rani Khedira (GER)             MF    # 27 Jan 1994, Stuttgart  -- Augsburg
+13  András Schäfer (HUN)           MF    # 13 Apr 1999, Szombathely  -- DAC Dunajská Streda
+19  Janik Haberer (GER)            MF    # 02 Apr 1994, Wangen im Allgäu  -- Freiburg
+20  Aïssa Laïdouni (TUN)           MF    # 13 Dec 1996, Montfermeil  -- Ferencváros
+29  Lucas Tousart (FRA)            MF    # 29 Apr 1997, Arras  -- Hertha Berlin
+33  Alex Král (CZE)                MF    # 19 May 1998, Košice  -- Spartak Moscow
+43  Tim Schleinitz (GER)           MF    # 10 Jun 2005, Mittweida
+
+ 9  Mikkel Kaufmann (DEN)          FW    # 03 Jan 2001, Hjørring  -- FC København
+10  Kevin Volland (GER)            FW    # 30 Jul 1992, Marktoberdorf  -- Monaco
+11  Chris Bedia (CIV)              FW    # 05 Mar 1996, Abidjan  -- Servette
+14  Yorbe Vertessen (BEL)          FW    # 08 Jan 2001, Tienen  -- PSV Eindhoven
+16  Benedict Hollerbach (GER)      FW    # 17 May 2001, Starnberg  -- Wehen Wiesbaden

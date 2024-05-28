@@ -1,0 +1,34 @@
+= 1. Fußball-Club Köln    # 1.FC Köln
+
+ 1  Marvin Schwäbe (GER)           GK    # 25 Apr 1995, Dieburg  -- Brøndby
+12  Jonas Nickisch (GER)           GK    # 21 May 2004, Dresden  -- RB Leipzig
+20  Philipp Pentke (GER)           GK    # 01 May 1985, Freiberg  -- 1899 Hoffenheim
+44  Matthias Köbbing (GER)         GK    # 28 May 1997, Koblenz  -- Homburg
+
+ 2  Benno Schmitz (GER)            DF    # 17 Nov 1994, Munich  -- RB Leipzig
+ 3  Dominique Heintz (GER)         DF    # 15 Aug 1993, Neustadt an der Weinstraße  -- Union Berlin
+ 4  Timo Hübers (GER)              DF    # 20 Jul 1996, Hildesheim  -- Hannover 96
+15  Luca Kilian (GER)              DF    # 01 Sep 1999, Witten  -- Mainz
+17  Leart Paqarada (KVX)           DF    # 08 Oct 1994, Bremen  -- St Pauli
+18  Rasmus Carstensen (DEN)        DF    # 10 Nov 2000, Virklund  -- KRC Genk
+24  Julian Chabot (GER)            DF    # 12 Feb 1998, Hanau  -- Sampdoria
+35  Max Finkgräfe (GER)            DF    # 27 Mar 2004, Mönchengladbach  -- Unterrath
+38  Elias Bakatukanda (GER)        DF    # 13 Apr 2004, Cologne
+
+ 6  Eric Martel (GER)              MF    # 29 Apr 2002, Straubing  -- RB Leizpig
+ 7  Dejan Ljubičić (AUT)           MF    # 08 Oct 1997, Vienna  -- Rapid Vienna
+ 8  Denis Huseinbašić (GER)        MF    # 03 Jul 2001, Erbach im Odenwald  -- Kickers Offenbach
+11  Florian Kainz (AUT)            MF    # 24 Oct 1992, Graz  -- Werder Bremen
+22  Jacob Steen Christensen (DEN)   MF    # 25 Jun 2001, Copenhagen  -- FC Nordsjælland
+29  Jan Thielmann (GER)            MF    # 26 May 2002, Föhren  -- Eintracht Trier
+37  Linton Maina (GER)             MF    # 23 Jun 1999, Berlin  -- Hannover 96
+
+ 9  Luca Waldschmift (GER)         FW    # 19 May 1996, Siegen  -- Wolfsburg
+13  Mark Uth (GER)                 FW    # 24 Aug 1991, Cologne  -- Schalke
+21  Steffen Tigges (GER)           FW    # 31 Jul 1998, Osnabrück  -- Borussia Dortmund
+23  Sargis Adamyan (ARM)           FW    # 23 May 1993, Yerevan  -- 1899 Hoffenheim
+27  Davie Selke (GER)              FW    # 20 Jan 1995, Schorndorf  -- Hertha Berlin
+33  Florian Dietz (GER)            FW    # 03 Aug 1998, Bad Neustadt an der Saale  -- Unterhaching
+40  Faride Alidou (GER)            FW    # 18 Jul 2001, Hamburg  -- Eintracht Frankfurt
+42  Damion Downs (GER)             FW    # 06 Jul 2004, Werneck  -- Ingolstadt
+45  Justin Diehl (GER)             FW    # 27 Nov 2004, Cologne

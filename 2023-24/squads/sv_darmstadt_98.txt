@@ -1,0 +1,36 @@
+= Sportverein Darmstadt 1898    # SV Darmstadt 98
+
+ 1  Marcel Schuhen (GER)           GK    # 13 Jan 1993, Kirchen (Sieg)  -- Sandhausen
+13  Morten Behrens (GER)           GK    # 01 Apr 1997, Bad Segeberg  -- Magdeburg
+30  Alexander Brunst-Zöllner (GER)   GK    # 07 Jul 1995, Neumünster  -- Vejle
+
+ 3  Thomas Isherwood (SWE)         DF    # 28 Jan 1998, Söderort  -- Östersunds FK
+ 4  Christoph Zimmermann (GER)     DF    # 12 Jan 1993, Düsseldorf  -- Norwich C
+ 5  Matej Maglica (CRO)            DF    # 25 Sep 1998, Slavonski Brod  -- Stuttgart
+14  Christoph Klarer (AUT)         DF    # 14 Jun 2000, Böheimkirchen  -- Fortuna Düsseldorf
+19  Emir Karic (AUT)               DF    # 09 Jun 1997, Linz  -- Rheindorf Altach
+20  Jannik Müller (GER)            DF    # 18 Jan 1994, Adenau  -- DAC Dunajská Streda
+26  Matthias Bader (GER)           DF    # 17 Jun 1997, Pforzheim  -- Köln
+32  Fabian Holland (GER)           DF    # 11 Jul 1990, Berlin  -- Hertha Berlin
+38  Clemens Riedel (GER)           DF    # 19 Jul 2003, Wölfersheim  -- Wieseck
+
+ 6  Marvin Mehlem (GER)            MF    # 11 Sep 1997, Karlsruhe  -- Karlsruhe
+ 7  Braydon Manu (GER)             MF    # 28 Mar 1997, Itzehoe  -- Hallescher FC
+ 8  Fabian Schnellhardt (GER)      MF    # 12 Jan 1994, Leinefelde  -- Duisburg
+11  Tobias Kempe (GER)             MF    # 27 Jun 1989, Wesel  -- Nürnberg
+15  Fabian Nürnberger (GER)        MF    # 28 Jul 1999, Hamburg  -- Nürnberg
+16  Andreas Müller (GER)           MF    # 20 Jul 2000, Sinsheim  -- Magdeburg
+17  Julian Justvan (GER)           MF    # 02 Apr 1998, Landshut  -- 1899 Hoffenheim
+18  Mathias Honsak (AUT)           MF    # 20 Dec 1996, Vienna  -- Red Bull Salzburg
+23  Klaus Gjasula (GER)            MF    # 14 Dec 1989, Tirana  -- Hamburg
+27  Tim Skarke (GER)               MF    # 07 Sep 1996, Nattheim  -- Union Berlin
+28  Bartol Franjić (CRO)           MF    # 14 Jan 2000, Zagreb  -- Wolfsburg
+
+ 9  Fraser Hornby (SCO)            FW    # 13 Sep 1999, Northampton  -- Reims
+22  Aaron Seydel (GER)             FW    # 07 Feb 1996, Mainz  -- Mainz
+24  Luca Pfeiffer (GER)            FW    # 20 Aug 1996, Bad Mergentheim  -- Stuttgart
+25  Gerrit Holtmann (GER)          FW    # 25 Mar 1995, Bremen  -- Bochum
+29  Oscar Vilhelmsson (SWE)        FW    # 02 Oct 2003, Åsa  -- IFK Göteborg
+40  Sebastian Polter (GER)         FW    # 01 Apr 1991, Wilhelmshaven  -- Schalke
+42  Fabio Torsiello (GER)          FW    # 02 Feb 2005, Darmstadt
+49  Asaf Arania (ISR)              FW    # 19 Oct 2005, Bnei Brak  -- RW Frankfurt

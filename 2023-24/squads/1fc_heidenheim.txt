@@ -1,0 +1,33 @@
+= 1. Fußballclub Heidenheim 1846    # 1.FC Heidenheim
+
+ 1  Kevin Müller (GER)             GK    # 15 Mar 1991, Rostock  -- Stuttgart
+22  Vitus Eicher (GER)             GK    # 05 Nov 1990, Erding  -- 1860 Munich
+34  Paul Tschernuth (AUT)          GK    # 20 Jan 2002, Salzburg  -- Eugendorf
+40  Frank Feller (GER)             GK    # 07 Jan 2004, Leonberg
+
+ 2  Marnon Busch (GER)             DF    # 08 Dec 1994, Stade  -- Werder Bremen
+ 4  Tim Siersleben (GER)           DF    # 09 Mar 2000, Magdeburg  -- Wolfsburg
+ 6  Patrick Mainka (GER)           DF    # 06 Nov 1994, Gütersloh  -- Borussia Dortmund II
+19  Jonas Föhrenbach (GER)         DF    # 26 Jan 1996, Freiburg  -- Freiburg
+23  Omar Traoré (GER)              DF    # 04 Feb 1998, Osnabrück  -- Osnabrück
+29  Seedy Jarju (GAM)              DF    # 28 Oct 2004, Ebo Town  -- Stuttgart
+30  Norman Theuerkauf (GER)        DF    # 24 Jan 1987, Nordhausen  -- Eintracht Braunschweig
+
+ 3  Jan Schöppner (GER)            MF    # 12 Jun 1999, Homberg  -- Verl
+ 5  Benedikt Gimber (GER)          MF    # 19 Feb 1997, Buchen  -- Jahn Regensburg
+16  Kevin Sessa (GER)              MF    # 06 Jul 2000, Stuttgart  -- Stuttgarter Kickers
+17  Florian Pick (GER)             MF    # 08 Sep 1995, Wittlich  -- Kaiserslautern
+21  Adrian Beck (GER)              MF    # 09 Jun 1997, Crailsheim  -- Ulm
+27  Thomas Keller (GER)            MF    # 05 Aug 1999, Munich  -- Ingolstadt
+33  Lennard Maloney (GER)          MF    # 08 Oct 1999, Berlin  -- Borussia Dortmund
+36  Luka Janeš (GER)               MF    # 19 Jan 2004, Schwäbisch Gmünd
+37  Jan-Niklas Beste (GER)         MF    # 04 Jan 1999, Hamm  -- Werder Bremen
+
+ 8  Eren Dinkçi (GER)              FW    # 13 Dec 2001, Bremen  -- Werder Bremen
+ 9  Stefan Schimmer (GER)          FW    # 28 Apr 1994, Wertingen  -- Unterhaching
+10  Tim Kleindienst (GER)          FW    # 31 Aug 1995, Jüterbog  -- KAA Gent
+11  Denis Thomalla (GER)           FW    # 16 Aug 1992, Pforzheim  -- Lech Poznań
+18  Marvin Pieringer (GER)         FW    # 04 Oct 1999, Bad Urach  -- Schalke
+20  Nikola Doveden (AUT)           FW    # 06 Jul 1994, Tulln an der Donau  -- Austria Vienna
+24  Christian Kühlwetter (GER)     FW    # 21 Apr 1996, Bonn  -- Kaiserslautern
+44  Elidon Qenaj (GER)             FW    # 22 May 2003, Böblingen  -- Stuttgart

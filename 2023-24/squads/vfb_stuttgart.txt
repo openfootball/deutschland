@@ -1,0 +1,37 @@
+= Verein für Bewegungsspiele Stuttgart 1893    # VfB Stuttgart
+
+ 1  Fabian Bredlow (GER)           GK    # 02 Mar 1995, Berlin  -- Nürnberg
+33  Alexander Nübel (GER)          GK    # 30 Sep 1996, Paderborn  -- Bayern Munich
+41  Dennis Seimen (GER)            GK    # 01 Dec 2005, Heilbronn
+42  Florian Schock (GER)           GK    # 22 May 2001, Ruit
+
+ 2  Waldemar Anton (GER)           DF    # 20 Jul 1996, Olmaliq  -- Hannover 96
+ 4  Josha Vagnoman (GER)           DF    # 11 Dec 2000, Hamburg  -- Hamburg
+ 7  Maximilian Mittelstädt (GER)   DF    # 18 Mar 1997, Berlin  -- Hertha Berlin
+15  Pascal Stenzel (GER)           DF    # 20 Mar 1996, Bünde  -- Freiburg
+16  Atakan Karazor (GER)           DF    # 13 Oct 1996, Essen  -- Holstein Kiel
+20  Leonidas Stergiou (SUI)        DF    # 03 Mar 2002, Wattwil  -- St. Gallen
+21  Hiroki Ito (JPN)               DF    # 12 May 1999, Shizuoka  -- Júbilo Iwata
+23  Dan-Axel Zagadou (FRA)         DF    # 03 Jun 1999, Créteil  -- Borussia Dortmund
+29  Anthony Rouault (FRA)          DF    # 29 May 2001, Saint-Colomb-de-Lauzun  -- Toulouse
+45  Anrie Chase (JPN)              DF    # 24 Mar 2004, Yokosuka  -- Shoshi HS
+49  Moussa Cissé (FRA)             DF    # 29 Apr 2003, Saint-Denis  -- Paris St-Germain
+
+ 5  Mahmoud Dahoud (GER)           MF    # 01 Jan 1996, Amuda  -- Brighton & HA
+ 6  Angelo Stiller (GER)           MF    # 04 Apr 2001, Munich  -- 1899 Hoffenheim
+ 8  Enzo Millot (FRA)              MF    # 17 Jul 2002, Le Chesnay  -- Monaco
+10  Jeong Woo-Yeong (KOR)          MF    # 20 Sep 1999, Ulsan  -- Freiburg
+17  Genki Haraguchi (JPN)          MF    # 09 May 1991, Saitama  -- Union Berlin
+25  Lilian Egloff (GER)            MF    # 20 Aug 2002, Heilbronn
+27  Chris Führich (GER)            MF    # 09 Jan 1998, Castrop-Rauxel  -- Paderborn
+28  Nikolas Nartey (DEN)           MF    # 22 Feb 2000, Bagsværd  -- Köln
+32  Roberto Massimo (GER)          MF    # 12 Oct 2000, Accra  -- Arminia Bielefeld
+36  Laurin Ulrich (GER)            MF    # 31 Jan 2005, Heidenheim
+40  Luca Raimund (GER)             MF    # 09 Apr 2005, Böblingen
+43  Raul Paula (GER)               MF    # 25 Jan 2004, Böblingen
+46  Samuele Di Benedetto (GER)     MF    # 16 Jul 2005, Schwäbisch Gmünd
+
+ 9  Sehrou Guirassy (GUI)          FW    # 12 Mar 1996, Arles  -- Rennes
+14  Silas Katompa Mvumpa (COD)     FW    # 06 Oct 1998, Kinshasa  -- Paris FC
+18  Jamie Leweling (GER)           FW    # 26 Feb 2001, Nuremberg  -- Union Berlin
+26  Deniz Undav (GER)              FW    # 19 Jul 1996, Achim  -- Brighton & HA

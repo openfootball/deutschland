@@ -1,0 +1,37 @@
+= 1. Fußball-und Sportverein Mainz 05    # 1.FSV Mainz 05
+
+ 1  Lasse Rieß (GER)               GK    # 27 Jul 2001, Münster
+27  Robin Zentner (GER)            GK    # 28 Oct 1994, Rüdesheim
+33  Daniel Batz (GER)              GK    # 12 Jan 1991, Erlangen  -- Saarbrücken
+
+ 2  Phillipp Mwene (AUT)           DF    # 29 Jan 1994, Vienna  -- PSV Eindhoven
+ 3  Sepp van den Berg (NED)        DF    # 20 Dec 2001, Zwolle  -- Liverpool
+ 5  Maxim Leitsch (GER)            DF    # 18 May 1998, Essen  -- Bochum
+16  Stefan Bell (GER)              DF    # 24 Aug 1991, Andernach
+19  Anthony Caci (FRA)             DF    # 01 Jul 1997, Forbach  -- Strasbourg
+21  Danny da Costa (GER)           DF    # 13 Jul 1993, Neuss  -- Eintracht Frankfurt
+25  Andreas Hanche-Olsen (NOR)     DF    # 17 Jan 1997, Bærum  -- KAA Gent
+30  Silvan Widmer (SUI)            DF    # 05 Mar 1993, Aarau  -- Basel
+34  Maxim Dal (GER)                DF    # 26 Jan 2006, Nagold
+39  Tim Müller (GER)               DF    # 23 Sep 2004, Wernigerode  -- Magdeburg
+47  Lasse Wilhelm (GER)            DF    # 20 Mar 2003
+
+ 7  Lee Jae-Song (KOR)             MF    # 10 Aug 1992, Ulsan  -- Holstein Kiel
+ 8  Leandro Barreiro (LUX)         MF    # 03 Jan 2000, Erpeldange  -- Erpeldange
+10  Marco Richter (GER)            MF    # 24 Nov 1997, Friedberg  -- Hertha Berlin
+11  Jessic Ngankam (GER)           MF    # 20 Jul 2000, Berlin  -- Eintracht Frankfurt
+14  Tom Krauß (GER)                MF    # 22 Jun 2001, Leipzig  -- RB Leipzig
+18  Nadiem Amiri (GER)             MF    # 27 Oct 1996, Ludwigshafen am Rhein  -- Bayer Leverkusen
+20  Edimilson Fernandes (SUI)      MF    # 15 Apr 1996, Sion  -- West Ham U
+23  Josuha Guilavogui (FRA)        MF    # 19 Sep 1990, Ollioules  -- Wolfsburg
+24  Merveille Papela (GER)         MF    # 18 Jan 2001, Mainz
+31  Dominik Kohr (GER)             MF    # 31 Jan 1994, Trier  -- Eintracht Frankfurt
+41  Eniss Shabani (GER)            MF    # 29 May 2003, Gießen
+43  Brajan Gruda (GER)             MF    # 31 May 2004, Speyer  -- Karlsruhe
+
+ 9  Karim Onisiwo (AUT)            FW    # 17 Mar 1992, Vienna  -- Mattersburg
+17  Ludovic Ajorque (FRA)          FW    # 25 Feb 1994, Saint-Joseph  -- Strasbourg
+29  Jonathan Burkardt (GER)        FW    # 11 Jul 2000, Darmstadt
+44  Nelson Weiper (GER)            FW    # 17 Mar 2005, Mainz
+45  David Mamutović (GER)          FW    # 05 Dec 2000  -- RW Ahlen
+48  Marcus Müller (GER)            FW    # 20 Aug 2002  -- Augsburg

@@ -1,0 +1,35 @@
+= Verein für Leibesübungen Bochum 1848    # VfL Bochum
+
+ 1  Manuel Riemann (GER)           GK    # 09 Sep 1988, Mühldorf am Inn  -- Sandhausen
+16  Andreas Luthe (GER)            GK    # 10 Mar 1987, Velbert  -- Kaiserslautern
+21  Michael Esser (GER)            GK    # 22 Nov 1987, Castrop-Rauxel  -- Hannover 96
+23  Niclas Thiede (GER)            GK    # 14 Apr 1999, Hagen  -- Verl
+38  Hugo Rölleke (GER)             GK    # 06 May 2005, Gelsenkirchen
+
+ 2  Cristian Gamboa (CRC)          DF    # 24 Oct 1989, Liberia  -- Celtic
+ 3  Danilo Soares (BRA)            DF    # 29 Oct 1991, Belo Horizonte  -- 1899 Hoffenheim
+ 4  Erhan Mašović (SRB)            DF    # 22 Nov 1998, Novi Pazar  -- Club Brugge
+ 5  Bernardo (BRA)                 DF    # 14 May 1995, São Paulo  -- Red Bull Salzburg
+14  Tim Oermann (GER)              DF    # 06 Oct 2003, Bochum
+20  Ivan Ordets (UKR)              DF    # 08 Jul 1992, Volnovakha  -- Dynamo Moscow
+25  Mohammed Tolba (GER)           DF    # 19 Jul 2004, Essen
+30  Moritz Römling (GER)           DF    # 30 Apr 2001, Witten
+31  Keven Schlotterbeck (GER)      DF    # 28 Apr 1997, Weinstadt  -- Freiburg
+32  Maximilian Wittek (GER)        DF    # 21 Aug 1995, Freising  -- Vitesse
+41  Noah Loosli (SUI)              DF    # 23 Jan 1997, Brugg  -- Grasshoppers
+
+ 6  Patrick Osterhage (GER)        MF    # 01 Feb 2000, Marklohe  -- Borussia Dortmund
+ 7  Kevin Stöger (AUT)             MF    # 27 Aug 1993, Steyr  -- Mainz
+ 8  Anthony Losilla (FRA)          MF    # 10 Mar 1986, Firminy  -- Dynamo Dresden
+10  Philipp Förster (GER)          MF    # 04 Feb 1995, Bretten  -- Stuttgart
+13  Lukas Daschner (GER)           MF    # 01 Oct 1998, Duisburg  -- St Pauli
+15  Felix Passlack (GER)           MF    # 29 May 1998, Bottrop  -- Borussia Dortmund
+17  Agon Elezi (MKD)               MF    # 01 Mar 2001, Skopje  -- Varaždin
+19  Matúš Bero (SVK)               MF    # 06 Sep 1995, Ilava  -- Vitesse
+22  Christopher Antwi-Adjej (GER)   MF    # 07 Feb 1994, Hagen  -- Paderborn
+27  Moritz-Broni Kwarteng (GER)    MF    # 28 Apr 1998, Stuttgart  -- Magdeburg
+
+ 9  Gonçalo Paciência (POR)        FW    # 01 Aug 1994, Porto  -- Celta Vigo
+11  Takuma Asano (JPN)             FW    # 10 Nov 1994, Mie  -- Partizan Belgrade
+29  Moritz Broschinski (GER)       FW    # 23 Sep 2000, Finsterwalde  -- Borussia Dortmund II
+33  Philipp Hofmann (GER)          FW    # 30 Mar 1993, Arnsberg  -- Karlsruhe

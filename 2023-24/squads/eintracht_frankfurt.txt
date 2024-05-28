@@ -1,0 +1,42 @@
+= Eintracht Frankfurt    # Eintracht Frankfurt
+
+ 1  Kevin Trapp (GER)              GK    # 08 Jul 1990, Merzig  -- Paris St-Germain
+33  Jens Grahl (GER)               GK    # 22 Sep 1988, Stuttgart  -- Stuttgart
+38  Nils Ramming (GER)             GK    # 28 Mar 2007, London
+40  Kauã Santos (BRA)              GK    # 11 Apr 2003, Vassouras  -- Flamengo
+41  Simon Simoni (ALB)             GK    # 14 Jul 2004, Lezhë  -- Dinamo Tirana
+42  Luke Gauer (GER)               GK    # 28 May 2005, Wiesbaden
+
+ 3  William Pacho (ECU)            DF    # 16 Oct 2001, Quinindé  -- Royal Antwerp
+ 4  Robin Koch (GER)               DF    # 17 Jul 1996, Kaiserslautern  -- Leeds U
+ 5  Hrvoje Smolčić (CRO)           DF    # 17 Aug 2000, Gospić  -- Rijeka
+20  Makoto Hasebe (JPN)            DF    # 18 Jan 1984, Shizuoka  -- Nürnberg
+24  Aurélio Buta (POR)             DF    # 10 Feb 1997, Luanda  -- Royal Antwerp
+29  Niels Nkounkou (FRA)           DF    # 01 Nov 2000, Pontoise  -- St-Étienne
+31  Philipp Max (GER)              DF    # 30 Sep 1993, Viersen  -- PSV Eindhoven
+34  Nnamdi Collins (GER)           DF    # 10 Jan 2004, Düsseldorf  -- Borussia Dortmund
+35  Tuta (BRA)                     DF    # 04 Jul 1999, São Paulo  -- São Paulo
+44  Davis Bautista (ECU)           DF    # 16 Feb 2005, Quito  -- Aucas
+46  Dario Gebuhr (GER)             DF    # 06 May 2003, Wiesbaden
+47  Elias Baum (GER)               DF    # 26 Oct 2005, Frankfurt am Main
+
+ 8  Farès Chaïbi (ALG)             MF    # 28 Nov 2002, Lyon  -- Toulouse
+15  Ellyes Skhiri (TUN)            MF    # 10 May 1995, Lunel  -- Köln
+16  Hugo Larsson (SWE)             MF    # 27 Jun 2004, Svarte  -- Malmö FF
+17  Sebastian Rode (GER)           MF    # 11 Oct 1990, Frankfurt am Main  -- Borussia Dortmund
+22  Timmy Chandler (USA)           MF    # 29 Mar 1990, Frankfurt am Main  -- Nürnberg
+25  Donny van de Beek (NED)        MF    # 18 Apr 1997, Nijkerkerveen  -- Manchester U
+26  Junior Dina Ebimbe (FRA)       MF    # 21 Nov 2000, Stains  -- Paris St-Germain
+27  Mario Götze (GER)              MF    # 03 Jun 1992, Memmingen  -- PSV Eindhoven
+32  Marko Mladenović (SRB)         MF    # 30 Jan 2005, Nürtingen  -- Stuttgarter Kickers
+37  Sidney Raebiger (GER)          MF    # 17 Apr 2005, Freiberg  -- Greuther Fürth
+45  Mehdi Loune (GER)              MF    # 14 May 2004, Hanau
+49  Harpreet Ghotra (GER)          MF    # 17 Jan 2003, Frankfurt am Main
+
+ 7  Omar Marmoush (EGY)            FW    # 07 Feb 1999, Cairo  -- Wolfsburg
+ 9  Saša Kalajdžić (AUT)           FW    # 07 Jul 1997, Vienna  -- Wolverhampton W
+11  Hugo Ekitike (FRA)             FW    # 20 Jun 2002, Reims  -- Paris St-Germain
+19  Jean-Mattéo Bahoya (FRA)       FW    # 07 May 2005, Montfermeil  -- Angers
+36  Ansgar Knauff (GER)            FW    # 10 Jan 2002, Göttingen  -- Borussia Dortmund
+43  Noel Futkeu (GER)              FW    # 06 Dec 2002, Essen  -- SW Essen
+48  Nacho Ferri (ESP)              FW    # 05 Oct 2004, Montaverner  -- Alzira

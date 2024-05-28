@@ -1,0 +1,35 @@
+= Sport-Verein Werder von 1899 Bremen    # Werder Bremen
+
+ 1  Jiří Pavlenka (CZE)            GK    # 14 Apr 1992, Hlučín  -- Slavia Prague
+30  Michael Zetterer (GER)         GK    # 12 Jul 1995, Munich  -- Unterhaching
+37  Spyros Angelidis (GRE)         GK    # 28 Jan 2005, Thessaloniki  -- PAOK
+38  Eduardo Dos Santos Haesler (GER)   GK    # 10 Feb 1999, Duisburg  -- Duisburg
+
+ 3  Anthony Jung (GER)             DF    # 03 Nov 1991, Villajoyosa  -- Brøndby
+ 4  Niklas Stark (GER)             DF    # 14 Apr 1995, Neustadt an der Aisch  -- Hertha Berlin
+ 5  Amos Pieper (GER)              DF    # 17 Jan 1998, Lüdinghausen  -- Arminia Bielefeld
+ 8  Mitchell Weiser (GER)          DF    # 21 Apr 1994, Troisdorf  -- Bayer Leverkusen
+13  Miloš Veljković (SRB)          DF    # 26 Sep 1995, Basel  -- Tottenham H
+22  Julián Malatini (ARG)          DF    # 31 May 2001, Córdoba  -- Defensa y Justicia
+27  Felix Agu (GER)                DF    # 27 Sep 1999, Osnabrück  -- Osnabrück
+32  Marco Friedl (AUT)             DF    # 16 Mar 1998, Kirchbichl  -- Bayern Munich
+36  Christian Groß (GER)           DF    # 08 Feb 1989, Bremen  -- Osnabrück
+40  Cimo Röcker (GER)              DF    # 21 Jan 1994, Schneverdingen  -- Hertha Berlin
+
+ 2  Olivier Deman (BEL)            MF    # 06 Apr 2000, Antwerp  -- Cercle Brugge
+ 6  Jens Stage (DEN)               MF    # 08 Nov 1996, Aarhus  -- FC København
+10  Leonardo Bittencourt (GER)     MF    # 19 Dec 1993, Leipzig  -- 1899 Hoffenheim
+14  Senne Lynen (BEL)              MF    # 19 Feb 1999, Borsbeek  -- Union St-Gilloise
+18  Naby Keïta (GUI)               MF    # 10 Feb 1995, Conakry  -- Liverpool
+20  Romano Schmid (AUT)            MF    # 27 Jan 2000, Graz  -- Red Bull Salzburg
+21  Isak Hansen-Aarøen (NOR)       MF    # 22 Aug 2004, Tromsø  -- Manchester U
+28  Skelly Alvero (FRA)            MF    # 02 May 2002, Stains  -- Lyon
+31  Jakob Löpping (SUI)            MF    # 20 Jun 2003, Lucerne  -- Luzern
+35  Leon Opitz (GER)               MF    # 11 Apr 2005  -- Hamburg
+
+ 7  Marvin Ducksch (GER)           FW    # 07 Mar 1994, Dortmund  -- Hannover 96
+ 9  Dawid Kownacki (POL)           FW    # 14 Mar 1997, Gorzów Wielkopolski  -- Fortuna Düsseldorf
+17  Justin Njinmah (GER)           FW    # 15 Nov 2000, Hamburg  -- Holstein Kiel
+24  Kein Sato (JPN)                FW    # 11 Jul 2001  -- Meiji Univ
+26  Joel Imasuen (USA)             FW    # 27 Oct 2004, Atlanta  -- Viktoria Berlin
+29  Nick Woltemade (GER)           FW    # 14 Feb 2002, Bremen

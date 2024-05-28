@@ -1,0 +1,35 @@
+= Borussia Verein für Leibesübungen 1900 Mönchengladbach    # Borussia Mönchengladbach
+
+ 1  Jonas Omlin (SUI)              GK    # 10 Jan 1994, Sarnen  -- Montpellier
+21  Tobias Sippel (GER)            GK    # 22 Mar 1988, Bad Dürkheim  -- Kaiserslautern
+33  Moritz Nicolas (GER)           GK    # 21 Oct 1997, Gladbeck  -- RW Essen
+41  Jan Olschowsky (GER)           GK    # 18 Nov 2001, Neuss
+43  Maximilian Brüll (GER)         GK    # 26 Aug 2002, Munich
+
+ 2  Fabio Chiarodia (ITA)          DF    # 05 Jun 2005, Oldenburg  -- Werder Bremen
+ 3  Ko Itakura (JPN)               DF    # 27 Jan 1997, Yokohama  -- Manchester C
+ 5  Marvin Friedrich (GER)         DF    # 13 Dec 1995, Kassel  -- Union Berlin
+18  Stefan Lainer (AUT)            DF    # 27 Aug 1992, Salzburg  -- Red Bull Salzburg
+20  Luca Netz (GER)                DF    # 15 May 2003, Buch  -- Hertha Berlin
+24  Tony Jantschke (GER)           DF    # 07 Apr 1990, Hoyerswerda
+26  Lukas Ullrich (GER)            DF    # 16 Mar 2004, Berlin  -- Hertha Berlin
+29  Joe Scally (USA)               DF    # 31 Dec 2002, Lake Grove  -- New York C
+30  Nico Elvedi (SUI)              DF    # 30 Sep 1996, Zürich  -- Zürich
+39  Max Wöber (AUT)                DF    # 04 Feb 1998, Vienna  -- Leeds U
+45  Simon Walde (GER)              DF    # 04 Jan 2005, Düsseldorf
+
+ 8  Julian Weigl (GER)             MF    # 08 Sep 1995, Bad Aibling  -- Benfica
+10  Florian Neuhaus (GER)          MF    # 16 Mar 1997, Landsberg  -- 1860 Munich
+17  Kouadio Koné (FRA)             MF    # 17 May 2001, Colombes  -- Toulouse
+19  Nathan Ngoumou (FRA)           MF    # 14 Mar 2000, Toulouse  -- Toulouse
+23  Christoph Kramer (GER)         MF    # 19 Feb 1991, Solingen  -- Bayer Leverkusen
+25  Robin Hack (GER)               MF    # 27 Aug 1998, Pforzheim  -- Arminia Bielefeld
+27  Rocco Reitz (GER)              MF    # 29 May 2002, Duisburg
+
+ 7  Patrick Herrmann (GER)         FW    # 12 Feb 1991, Saarbrücken  -- Saarbrücken
+ 9  Franck Honorat (FRA)           FW    # 11 Aug 1996, Toulon  -- Brest
+13  Jordan Siebatcheu (FRA)        FW    # 26 Apr 1996, Washington, DC  -- Union Berlin
+14  Alassane Pléa (FRA)            FW    # 10 Mar 1993, Lille  -- Nice
+28  Grant-Leon Ranos (ARM)         FW    # 20 Jul 2003, Gehrden  -- Bayern Munich II
+31  Tomáš Čvančara (CZE)           FW    # 13 Aug 2000, Neratovice  -- Sparta Prague
+49  Shio Fukuda (JPN)              FW    # 08 Apr 2004, Kanoya  -- Kamigaku HS

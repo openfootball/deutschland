@@ -1,38 +1,38 @@
-= Sport-Club Freiburg    # SC Freiburg
+=  SC Freiburg - Deutsche Bundesliga 2023/24
 
- 1  Noah Atubolu (GER)             GK    # 25 May 2002, Freiburg im Breisgau
-21  Florian Müller (GER)           GK    # 13 Nov 1997, Saarlouis  -- Stuttgart
-31  Benjamin Uphoff (GER)          GK    # 08 Aug 1993, Burghausen  -- Karlsruhe
-58  Niklas Sauter (GER)            GK    # 06 Apr 2003, Münsterlingen
-67  Jaaso Jantunen (FIN)           GK    # 31 Jan 2005, Helsinki  -- Klubi 04
+  1,  Noah Atubolu,                      GK,   b. 2002,
+ 21,  Florian Müller,                    GK,   b. 1997,   Stuttgart
+ 31,  Benjamin Uphoff,                   GK,   b. 1993,   Karlsruhe
+ 58,  Niklas Sauter,                     GK,   b. 2003,
+ 67,  Jaaso Jantunen (FIN),              GK,   b. 2005,   Klubi 04
 
- 3  Philipp Lienhart (AUT)         DF    # 11 Jul 1996, Lilienfeld  -- Real Madrid B
- 4  Kenneth Schmidt (GER)          DF    # 03 Jun 2002, Freiburg im Breisgau
- 5  Manuel Gulde (GER)             DF    # 12 Feb 1991, Mannheim  -- Karlsruhe
- 6  Attila Szalai (HUN)            DF    # 20 Jan 1998, Budapest  -- 1899 Hoffenheim
-17  Lukas Kübler (GER)             DF    # 30 Aug 1992, Bonn  -- Sandhausen
-25  Kiliann Sildillia (FRA)        DF    # 16 May 2002, Montigny-lès-Metz  -- Metz
-28  Matthias Ginter (GER)          DF    # 19 Jan 1994, March  -- B Mönchengladbach
-30  Christian Günter (GER)         DF    # 28 Feb 1993, Villingen
-33  Jordy Makengo (FRA)            DF    # 03 Aug 2001, Saint-Denis  -- Auxerre
-37  Max Rosenfelder (GER)          DF    # 10 Feb 2003, Freiburg im Breisgau
+  3,  Philipp Lienhart (AUT),            DF,   b. 1996,   Real Madrid B
+  4,  Kenneth Schmidt,                   DF,   b. 2002,
+  5,  Manuel Gulde,                      DF,   b. 1991,   Karlsruhe
+  6,  Attila Szalai (HUN),               DF,   b. 1998,   1899 Hoffenheim
+ 17,  Lukas Kübler,                      DF,   b. 1992,   Sandhausen
+ 25,  Kiliann Sildillia (FRA),           DF,   b. 2002,   Metz
+ 28,  Matthias Ginter,                   DF,   b. 1994,   B Mönchengladbach
+ 30,  Christian Günter,                  DF,   b. 1993,
+ 33,  Jordy Makengo (FRA),               DF,   b. 2001,   Auxerre
+ 37,  Max Rosenfelder,                   DF,   b. 2003,
 
- 7  Noah Weißhaupt (GER)           MF    # 20 Sep 2001, Rostock
- 8  Maximilian Eggestein (GER)     MF    # 08 Dec 1996, Hannover  -- Werder Bremen
-11  Daniel-Kofi Kyereh (GHA)       MF    # 08 Mar 1996, Accra  -- St Pauli
-14  Yannik Keitel (GER)            MF    # 15 Feb 2000, Breisach
-22  Roland Sallai (HUN)            MF    # 22 May 1997, Székesfehérvár  -- APOEL
-23  Florent Muslija (GER)          MF    # 06 Jul 1998, Achern  -- Paderborn
-27  Nicolas Höfler (GER)           MF    # 09 Mar 1990, Überlingen  -- Pfullendorf
-32  Vincenzo Grifo (ITA)           MF    # 07 Apr 1993, Pforzheim  -- 1899 Hoffenheim
-34  Merlin Röhl (GER)              MF    # 05 Jul 2002, Potsdam  -- Ingolstadt
-35  Fabian Rüdlin (GER)            MF    # 13 Jan 1997, Müllheim  -- Thun
-42  Ritsu Doan (JPN)               MF    # 16 Jun 1998, Amagasaki  -- PSV Eindhoven
-43  Ryan Johansson (LUX)           MF    # 15 Feb 2001, Luxembourg  -- Sevilla B
-54  Mika Baur (GER)                MF    # 09 Jul 2004, Salem
+  7,  Noah Weißhaupt,                    MF,   b. 2001,
+  8,  Maximilian Eggestein,              MF,   b. 1996,   Werder Bremen
+ 11,  Daniel-Kofi Kyereh (GHA),          MF,   b. 1996,   St Pauli
+ 14,  Yannik Keitel,                     MF,   b. 2000,
+ 22,  Roland Sallai (HUN),               MF,   b. 1997,   APOEL
+ 23,  Florent Muslija,                   MF,   b. 1998,   Paderborn
+ 27,  Nicolas Höfler,                    MF,   b. 1990,   Pfullendorf
+ 32,  Vincenzo Grifo (ITA),              MF,   b. 1993,   1899 Hoffenheim
+ 34,  Merlin Röhl,                       MF,   b. 2002,   Ingolstadt
+ 35,  Fabian Rüdlin,                     MF,   b. 1997,   Thun
+ 42,  Ritsu Doan (JPN),                  MF,   b. 1998,   PSV Eindhoven
+ 43,  Ryan Johansson (LUX),              MF,   b. 2001,   Sevilla B
+ 54,  Mika Baur,                         MF,   b. 2004,
 
- 9  Lucas Höler (GER)              FW    # 10 Jul 1994, Achim  -- Sandhausen
-20  Junior Adamu (AUT)             FW    # 06 Jun 2001, Kano  -- Red Bull Salzburg
-26  Maximilian Philipp (GER)       FW    # 01 Mar 1994, Berlin  -- Wolfsburg
-38  Michael Gregoritsch (AUT)      FW    # 18 Apr 1994, Graz  -- Augsburg
-44  Maximilian Breunig (GER)       FW    # 14 Aug 2000, Würzburg  -- Würzburger Kickers
+  9,  Lucas Höler,                       FW,   b. 1994,   Sandhausen
+ 20,  Junior Adamu (AUT),                FW,   b. 2001,   Red Bull Salzburg
+ 26,  Maximilian Philipp,                FW,   b. 1994,   Wolfsburg
+ 38,  Michael Gregoritsch (AUT),         FW,   b. 1994,   Augsburg
+ 44,  Maximilian Breunig,                FW,   b. 2000,   Würzburger Kickers

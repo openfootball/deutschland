@@ -1,31 +1,31 @@
-= RasenBallsport Leipzig    # RB Leipzig
+=  RB Leipzig - Deutsche Bundesliga 2023/24
 
- 1  Péter Gulácsi (HUN)            GK    # 06 May 1990, Budapest  -- Red Bull Salzburg
-21  Janis Blaswich (GER)           GK    # 02 May 1991, Mehrhoog  -- Heracles Almelo
-25  Leopold Zingerle (GER)         GK    # 10 Apr 1994, Munich  -- Paderborn
-36  Timo Schlieck (GER)            GK    # 02 Mar 2006, Lippstadt  -- Borussia Dortmund
+  1,  Péter Gulácsi (HUN),               GK,   b. 1990,   Red Bull Salzburg
+ 21,  Janis Blaswich,                    GK,   b. 1991,   Heracles Almelo
+ 25,  Leopold Zingerle,                  GK,   b. 1994,   Paderborn
+ 36,  Timo Schlieck,                     GK,   b. 2006,   Borussia Dortmund
 
- 2  Mohamed Simakan (FRA)          DF    # 03 May 2000, Marseille  -- Strasbourg
- 3  Christopher Lenz (GER)         DF    # 22 Sep 1994, Berlin  -- Eintracht Frankfurt
- 4  Willi Orbán (HUN)              DF    # 03 Nov 1992, Kaiserslautern  -- Kaiserslautern
- 5  El Chadaille Bitshiabu (FRA)   DF    # 16 May 2005, Villeneuve-Saint-Georges  -- Paris St-Germain
-16  Lukas Klostermann (GER)        DF    # 03 Jun 1996, Gevelsberg  -- Bochum
-22  David Raum (GER)               DF    # 22 Apr 1998, Nuremberg  -- 1899 Hoffenheim
-23  Castello Lukeba (FRA)          DF    # 17 Dec 2002, Lyon  -- Lyon
-31  Tim Köhler (GER)               DF    # 02 May 2005, Leipzig
-39  Benjamin Henrichs (GER)        DF    # 23 Feb 1997, Bocholt  -- Monaco
+  2,  Mohamed Simakan (FRA),             DF,   b. 2000,   Strasbourg
+  3,  Christopher Lenz,                  DF,   b. 1994,   Eintracht Frankfurt
+  4,  Willi Orbán (HUN),                 DF,   b. 1992,   Kaiserslautern
+  5,  El Chadaille Bitshiabu (FRA),      DF,   b. 2005,   Paris St-Germain
+ 16,  Lukas Klostermann,                 DF,   b. 1996,   Bochum
+ 22,  David Raum,                        DF,   b. 1998,   1899 Hoffenheim
+ 23,  Castello Lukeba (FRA),             DF,   b. 2002,   Lyon
+ 31,  Tim Köhler,                        DF,   b. 2005,
+ 39,  Benjamin Henrichs,                 DF,   b. 1997,   Monaco
 
- 6  Eljif Elmas (MKD)              MF    # 24 Sep 1999, Skopje  -- Napoli
- 7  Dani Olmo (ESP)                MF    # 07 May 1998, Terrassa  -- Dinamo Zagreb
- 8  Amadou Haidara (MLI)           MF    # 31 Jan 1998, Bamako  -- Red Bull Salzburg
-13  Nicolas Seiwald (AUT)          MF    # 04 May 2001, Kuchl  -- Red Bull Salzburg
-14  Christoph Baumgartner (AUT)    MF    # 01 Aug 1999, Horn  -- 1899 Hoffenheim
-20  Xavi Simons (NED)              MF    # 21 Apr 2003, Amsterdam  -- Paris St-Germain
-24  Xaver Schlager (AUT)           MF    # 28 Sep 1997, Linz  -- Wolfsburg
-38  Nuha Jatta (GER)               MF    # 15 Mar 2006, Osnabrück  -- Osnabrück
-44  Kevin Kampl (SVN)              MF    # 09 Oct 1990, Solingen  -- Bayer Leverkusen
+  6,  Eljif Elmas (MKD),                 MF,   b. 1999,   Napoli
+  7,  Dani Olmo (ESP),                   MF,   b. 1998,   Dinamo Zagreb
+  8,  Amadou Haidara (MLI),              MF,   b. 1998,   Red Bull Salzburg
+ 13,  Nicolas Seiwald (AUT),             MF,   b. 2001,   Red Bull Salzburg
+ 14,  Christoph Baumgartner (AUT),       MF,   b. 1999,   1899 Hoffenheim
+ 20,  Xavi Simons (NED),                 MF,   b. 2003,   Paris St-Germain
+ 24,  Xaver Schlager (AUT),              MF,   b. 1997,   Wolfsburg
+ 38,  Nuha Jatta,                        MF,   b. 2006,   Osnabrück
+ 44,  Kevin Kampl (SVN),                 MF,   b. 1990,   Bayer Leverkusen
 
- 9  Yussuf Poulsen (DEN)           FW    # 15 Jun 1994, Copenhagen  -- Lyngby
-17  Loïs Openda (BEL)              FW    # 16 Feb 2000, Liège  -- Lens
-30  Benjamin Šeško (SVN)           FW    # 31 May 2003, Radeče  -- Red Bull Salzburg
-46  Yannick Eduardo (NED)          FW    # 23 Jan 2006, Kadaň  -- NEC Nijmegen
+  9,  Yussuf Poulsen (DEN),              FW,   b. 1994,   Lyngby
+ 17,  Loïs Openda (BEL),                 FW,   b. 2000,   Lens
+ 30,  Benjamin Šeško (SVN),              FW,   b. 2003,   Red Bull Salzburg
+ 46,  Yannick Eduardo (NED),             FW,   b. 2006,   NEC Nijmegen

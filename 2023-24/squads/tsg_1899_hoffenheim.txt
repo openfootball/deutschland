@@ -1,33 +1,33 @@
-= Turn- und Sportgemeinschaft 1899 Hoffenheim    # TSG 1899 Hoffenheim
+=  TSG 1899 Hoffenheim - Deutsche Bundesliga 2023/24
 
- 1  Oliver Baumann (GER)           GK    # 02 Jun 1990, Breisach  -- Freiburg
-36  Nahuel Noll (GER)              GK    # 17 Mar 2003, Munich  -- 1860 Munich
-37  Luca Philipp (GET)             GK    # 28 Nov 2000, Stuttgart
+  1,  Oliver Baumann,                    GK,   b. 1990,   Freiburg
+ 36,  Nahuel Noll,                       GK,   b. 2003,   1860 Munich
+ 37,  Luca Philipp,                      GK,   b. 2000,
 
- 3  Pavel Kadeřábek (CZE)          DF    # 25 Apr 1992, Prague  -- Sparta Prague
- 5  Ozan Kabak (TUR)               DF    # 25 Mar 2000, Ankara  -- Schalke
-15  Kasim Adams (GHA)              DF    # 22 Jun 1995, Accra  -- Young Boys
-19  David Jurásek (CZE)            DF    # 07 Aug 2000, Dolní Němčí  -- Benfica
-23  John Brooks (USA)              DF    # 28 Jan 1993, Berlin  -- Benfica
-25  Kevin Akpoguma (GER)           DF    # 19 Apr 1995, Neustadt an der Weinstraße  -- Karlsruhe
-34  Stanley Nsoki (FRA)            DF    # 09 Apr 1999, Poissy  -- Club Brugge
-35  Tim Drexler (GER)              DF    # 06 Mar 2005, Bruchsal
+  3,  Pavel Kadeřábek (CZE),             DF,   b. 1992,   Sparta Prague
+  5,  Ozan Kabak (TUR),                  DF,   b. 2000,   Schalke
+ 15,  Kasim Adams (GHA),                 DF,   b. 1995,   Young Boys
+ 19,  David Jurásek (CZE),               DF,   b. 2000,   Benfica
+ 23,  John Brooks (USA),                 DF,   b. 1993,   Benfica
+ 25,  Kevin Akpoguma,                    DF,   b. 1995,   Karlsruhe
+ 34,  Stanley Nsoki (FRA),               DF,   b. 1999,   Club Brugge
+ 35,  Tim Drexler,                       DF,   b. 2005,
 
- 6  Grischa Prömel (GER)           MF    # 09 Jan 1995, Stuttgart  -- Union Berlin
- 8  Dennis Geiger (GER)            MF    # 10 Jun 1998, Mosbach
-11  Florian Grillitsch (AUT)       MF    # 07 Aug 1995, Neunkirchen  -- Ajax
-16  Anton Stach (GER)              MF    # 15 Nov 1998, Buchholz in der Nordheide  -- Mainz
-20  Finn Ole Becker (GER)          MF    # 08 Jun 2000, Elmshorn  -- St Pauli
-24  Marco John (GER)               MF    # 02 Apr 2002, Bad Friedrichshall  -- Union Heilbronn
-31  Bambasé Conté (GER)            MF    # 07 Jul 2003, Saarbrücken  -- Kaiserslautern
-39  Tom Bischof (GER)              MF    # 28 Jun 2005, Aschaffenburg
-40  Umut Tohumcu (GER)             MF    # 11 Aug 2004, Offenburg
+  6,  Grischa Prömel,                    MF,   b. 1995,   Union Berlin
+  8,  Dennis Geiger,                     MF,   b. 1998,
+ 11,  Florian Grillitsch (AUT),          MF,   b. 1995,   Ajax
+ 16,  Anton Stach,                       MF,   b. 1998,   Mainz
+ 20,  Finn Ole Becker,                   MF,   b. 2000,   St Pauli
+ 24,  Marco John,                        MF,   b. 2002,   Union Heilbronn
+ 31,  Bambasé Conté,                     MF,   b. 2003,   Kaiserslautern
+ 39,  Tom Bischof,                       MF,   b. 2005,
+ 40,  Umut Tohumcu,                      MF,   b. 2004,
 
- 7  Mërgim Berisha (KVX)           FW    # 11 May 1998, Berchtesgaden  -- Augsburg
- 9  Ihlas Bebou (TOG)              FW    # 23 Apr 1994, Sokodé  -- Hannover 96
-10  Wout Weghorst (NED)            FW    # 07 Aug 1992, Borne  -- Burnley
-14  Maximilian Beier (GER)         FW    # 17 Oct 2002, Brandenburg an der Havel  -- Energie Cottbus
-21  Marius Bülter (GER)            FW    # 29 Mar 1993, Ibbenbüren  -- Schalke
-27  Andrej Kramarić (CRO)          FW    # 19 Jun 1991, Zagreb  -- Leicester C
-29  Robert Skov (DEN)              FW    # 20 May 1996, Silkeborg  -- FC København
-33  Max Moerstedt (GER)            FW    # 15 Jan 2006, Mannheim  -- Bayern Munich
+  7,  Mërgim Berisha (KVX),              FW,   b. 1998,   Augsburg
+  9,  Ihlas Bebou (TOG),                 FW,   b. 1994,   Hannover 96
+ 10,  Wout Weghorst (NED),               FW,   b. 1992,   Burnley
+ 14,  Maximilian Beier,                  FW,   b. 2002,   Energie Cottbus
+ 21,  Marius Bülter,                     FW,   b. 1993,   Schalke
+ 27,  Andrej Kramarić (CRO),             FW,   b. 1991,   Leicester C
+ 29,  Robert Skov (DEN),                 FW,   b. 1996,   FC København
+ 33,  Max Moerstedt,                     FW,   b. 2006,   Bayern Munich

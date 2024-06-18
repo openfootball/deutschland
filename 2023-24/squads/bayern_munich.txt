@@ -1,39 +1,39 @@
-= Fußball Club Bayern München    # Bayern Munich
+=  Bayern München - Deutsche Bundesliga 2023/24
 
- 1  Manuel Neuer (GER)             GK    # 27 Mar 1986, Gelsenkirchen  -- Schalke
-18  Daniel Peretz (ISR)            GK    # 10 Jul 2000, Tel Aviv  -- Maccabi Tel Aviv
-26  Sven Ulreich (GER)             GK    # 03 Aug 1988, Schorndorf  -- Hamburg
-43  Tom Hülsmann (GER)             GK    # 11 Apr 2004, Trier
-48  Max Schmitt (GER)              GK    # 18 Jan 2006
+  1,  Manuel Neuer,                      GK,   b. 1986,   Schalke
+ 18,  Daniel Peretz (ISR),               GK,   b. 2000,   Maccabi Tel Aviv
+ 26,  Sven Ulreich,                      GK,   b. 1988,   Hamburg
+ 43,  Tom Hülsmann,                      GK,   b. 2004,
+ 48,  Max Schmitt,                       GK,   b. 2006,
 
- 2  Dayot Upamecano (FRA)          DF    # 27 Oct 1998, Evreux  -- RB Leipzig
- 3  Kim Min-Jae (KOR)              DF    # 15 Nov 1996, Tongyeong  -- Napoli
- 4  Matthijs de Ligt (NED)         DF    # 12 Aug 1999, Leiderdorp  -- Juventus
-15  Eric Dier (ENG)                DF    # 15 Jan 1994, Cheltenham  -- Tottenham H
-19  Alphonso Davies (CAN)          DF    # 02 Nov 2000, Buduburam  -- Vancouver Whitecaps
-20  Bouna Sarr (SEN)               DF    # 31 Jan 1992, Lyon  -- Marseille
-22  Raphaël Guerreiro (POR)        DF    # 22 Dec 1993, Le Blanc-Mesnil  -- Borussia Dortmund
-23  Sacha Boey (FRA)               DF    # 13 Sep 2000, Montreuil  -- Galatasaray
-28  Tarek Buchmann (GER)           DF    # 28 Feb 2005, Augsburg  -- Augsburg
-37  Luca Denk (GER)                DF    # 02 Mar 2003
-40  Noussair Mazraoui (MAR)        DF    # 14 Nov 1997, Leiderdorp  -- Ajax
-41  Matteo Pérez Vinlöf (SWE)      DF    # 18 Dec 2005, Stockholm  -- Hammarby IF
-44  Adam Aznou (MAR)               DF    # 02 Jun 2006, Barcelona  -- Barcelona
+  2,  Dayot Upamecano (FRA),             DF,   b. 1998,   RB Leipzig
+  3,  Kim Min-Jae (KOR),                 DF,   b. 1996,   Napoli
+  4,  Matthijs de Ligt (NED),            DF,   b. 1999,   Juventus
+ 15,  Eric Dier (ENG),                   DF,   b. 1994,   Tottenham H
+ 19,  Alphonso Davies (CAN),             DF,   b. 2000,   Vancouver Whitecaps
+ 20,  Bouna Sarr (SEN),                  DF,   b. 1992,   Marseille
+ 22,  Raphaël Guerreiro (POR),           DF,   b. 1993,   Borussia Dortmund
+ 23,  Sacha Boey (FRA),                  DF,   b. 2000,   Galatasaray
+ 28,  Tarek Buchmann,                    DF,   b. 2005,   Augsburg
+ 37,  Luca Denk,                         DF,   b. 2003,
+ 40,  Noussair Mazraoui (MAR),           DF,   b. 1997,   Ajax
+ 41,  Matteo Pérez Vinlöf (SWE),         DF,   b. 2005,   Hammarby IF
+ 44,  Adam Aznou (MAR),                  DF,   b. 2006,   Barcelona
 
- 6  Joshua Kimmich (GER)           MF    # 08 Feb 1995, Rottweil  -- Stuttgart
- 7  Serge Gnabry (GER)             MF    # 14 Jul 1995, Stuttgart  -- Werder Bremen
- 8  Leon Goretzka (GER)            MF    # 06 Feb 1995, Bochum  -- Schalke
-11  Kingsley Coman (FRA)           MF    # 13 Jun 1996, Paris  -- Juventus
-27  Konrad Laimer (AUT)            MF    # 27 May 1997, Salzburg  -- RB Leipzig
-34  Lovro Zvonarek (CRO)           MF    # 08 May 2005, Čakovec  -- Slaven Belupo
-36  Noël Aséko Nkili (GER)         MF    # 22 Nov 2005, Berlin  -- Hertha Berlin
-42  Jamal Musiala (GER)            MF    # 26 Feb 2003, Stuttgart  -- Chelsea
-45  Aleksandar Pavlović (GER)      MF    # 03 May 2004, Munich
-46  Jonathan Asp Jensen (DEN)      MF    # 14 Jan 2006  -- FC Midtjylland
+  6,  Joshua Kimmich,                    MF,   b. 1995,   Stuttgart
+  7,  Serge Gnabry,                      MF,   b. 1995,   Werder Bremen
+  8,  Leon Goretzka,                     MF,   b. 1995,   Schalke
+ 11,  Kingsley Coman (FRA),              MF,   b. 1996,   Juventus
+ 27,  Konrad Laimer (AUT),               MF,   b. 1997,   RB Leipzig
+ 34,  Lovro Zvonarek (CRO),              MF,   b. 2005,   Slaven Belupo
+ 36,  Noël Aséko Nkili,                  MF,   b. 2005,   Hertha Berlin
+ 42,  Jamal Musiala,                     MF,   b. 2003,   Chelsea
+ 45,  Aleksandar Pavlović,               MF,   b. 2004,
+ 46,  Jonathan Asp Jensen (DEN),         MF,   b. 2006,   FC Midtjylland
 
- 9  Harry Kane (ENG)               FW    # 28 Jul 1993, Walthamstow  -- Tottenham H
-10  Leroy Sané (GER)               FW    # 11 Jan 1996, Essen  -- Manchester C
-13  Eric Maxim Choupo-Moting (CMR)   FW    # 23 Mar 1989, Hamburg  -- Paris St-Germain
-17  Bryan Zaragoza (ESP)           FW    # 09 Sep 2001, Málaga  -- Granada B
-25  Thomas Müller (GER)            FW    # 13 Sep 1989, Weilheim in Oberbayern
-39  Mathys Tel (FRA)               FW    # 27 Apr 2005, Sarcelles  -- Rennes
+  9,  Harry Kane (ENG),                  FW,   b. 1993,   Tottenham H
+ 10,  Leroy Sané,                        FW,   b. 1996,   Manchester C
+ 13,  Eric Maxim Choupo-Moting (CMR),    FW,   b. 1989,   Paris St-Germain
+ 17,  Bryan Zaragoza (ESP),              FW,   b. 2001,   Granada B
+ 25,  Thomas Müller,                     FW,   b. 1989,
+ 39,  Mathys Tel (FRA),                  FW,   b. 2005,   Rennes

@@ -1,37 +1,37 @@
-= Verein für Bewegungsspiele Stuttgart 1893    # VfB Stuttgart
+=  VfB Stuttgart - Deutsche Bundesliga 2023/24
 
- 1  Fabian Bredlow (GER)           GK    # 02 Mar 1995, Berlin  -- Nürnberg
-33  Alexander Nübel (GER)          GK    # 30 Sep 1996, Paderborn  -- Bayern Munich
-41  Dennis Seimen (GER)            GK    # 01 Dec 2005, Heilbronn
-42  Florian Schock (GER)           GK    # 22 May 2001, Ruit
+  1,  Fabian Bredlow,                    GK,   b. 1995,   Nürnberg
+ 33,  Alexander Nübel,                   GK,   b. 1996,   Bayern Munich
+ 41,  Dennis Seimen,                     GK,   b. 2005,
+ 42,  Florian Schock,                    GK,   b. 2001,
 
- 2  Waldemar Anton (GER)           DF    # 20 Jul 1996, Olmaliq  -- Hannover 96
- 4  Josha Vagnoman (GER)           DF    # 11 Dec 2000, Hamburg  -- Hamburg
- 7  Maximilian Mittelstädt (GER)   DF    # 18 Mar 1997, Berlin  -- Hertha Berlin
-15  Pascal Stenzel (GER)           DF    # 20 Mar 1996, Bünde  -- Freiburg
-16  Atakan Karazor (GER)           DF    # 13 Oct 1996, Essen  -- Holstein Kiel
-20  Leonidas Stergiou (SUI)        DF    # 03 Mar 2002, Wattwil  -- St. Gallen
-21  Hiroki Ito (JPN)               DF    # 12 May 1999, Shizuoka  -- Júbilo Iwata
-23  Dan-Axel Zagadou (FRA)         DF    # 03 Jun 1999, Créteil  -- Borussia Dortmund
-29  Anthony Rouault (FRA)          DF    # 29 May 2001, Saint-Colomb-de-Lauzun  -- Toulouse
-45  Anrie Chase (JPN)              DF    # 24 Mar 2004, Yokosuka  -- Shoshi HS
-49  Moussa Cissé (FRA)             DF    # 29 Apr 2003, Saint-Denis  -- Paris St-Germain
+  2,  Waldemar Anton,                    DF,   b. 1996,   Hannover 96
+  4,  Josha Vagnoman,                    DF,   b. 2000,   Hamburg
+  7,  Maximilian Mittelstädt,            DF,   b. 1997,   Hertha Berlin
+ 15,  Pascal Stenzel,                    DF,   b. 1996,   Freiburg
+ 16,  Atakan Karazor,                    DF,   b. 1996,   Holstein Kiel
+ 20,  Leonidas Stergiou (SUI),           DF,   b. 2002,   St. Gallen
+ 21,  Hiroki Ito (JPN),                  DF,   b. 1999,   Júbilo Iwata
+ 23,  Dan-Axel Zagadou (FRA),            DF,   b. 1999,   Borussia Dortmund
+ 29,  Anthony Rouault (FRA),             DF,   b. 2001,   Toulouse
+ 45,  Anrie Chase (JPN),                 DF,   b. 2004,   Shoshi HS
+ 49,  Moussa Cissé (FRA),                DF,   b. 2003,   Paris St-Germain
 
- 5  Mahmoud Dahoud (GER)           MF    # 01 Jan 1996, Amuda  -- Brighton & HA
- 6  Angelo Stiller (GER)           MF    # 04 Apr 2001, Munich  -- 1899 Hoffenheim
- 8  Enzo Millot (FRA)              MF    # 17 Jul 2002, Le Chesnay  -- Monaco
-10  Jeong Woo-Yeong (KOR)          MF    # 20 Sep 1999, Ulsan  -- Freiburg
-17  Genki Haraguchi (JPN)          MF    # 09 May 1991, Saitama  -- Union Berlin
-25  Lilian Egloff (GER)            MF    # 20 Aug 2002, Heilbronn
-27  Chris Führich (GER)            MF    # 09 Jan 1998, Castrop-Rauxel  -- Paderborn
-28  Nikolas Nartey (DEN)           MF    # 22 Feb 2000, Bagsværd  -- Köln
-32  Roberto Massimo (GER)          MF    # 12 Oct 2000, Accra  -- Arminia Bielefeld
-36  Laurin Ulrich (GER)            MF    # 31 Jan 2005, Heidenheim
-40  Luca Raimund (GER)             MF    # 09 Apr 2005, Böblingen
-43  Raul Paula (GER)               MF    # 25 Jan 2004, Böblingen
-46  Samuele Di Benedetto (GER)     MF    # 16 Jul 2005, Schwäbisch Gmünd
+  5,  Mahmoud Dahoud,                    MF,   b. 1996,   Brighton & HA
+  6,  Angelo Stiller,                    MF,   b. 2001,   1899 Hoffenheim
+  8,  Enzo Millot (FRA),                 MF,   b. 2002,   Monaco
+ 10,  Jeong Woo-Yeong (KOR),             MF,   b. 1999,   Freiburg
+ 17,  Genki Haraguchi (JPN),             MF,   b. 1991,   Union Berlin
+ 25,  Lilian Egloff,                     MF,   b. 2002,
+ 27,  Chris Führich,                     MF,   b. 1998,   Paderborn
+ 28,  Nikolas Nartey (DEN),              MF,   b. 2000,   Köln
+ 32,  Roberto Massimo,                   MF,   b. 2000,   Arminia Bielefeld
+ 36,  Laurin Ulrich,                     MF,   b. 2005,
+ 40,  Luca Raimund,                      MF,   b. 2005,
+ 43,  Raul Paula,                        MF,   b. 2004,
+ 46,  Samuele Di Benedetto,              MF,   b. 2005,
 
- 9  Sehrou Guirassy (GUI)          FW    # 12 Mar 1996, Arles  -- Rennes
-14  Silas Katompa Mvumpa (COD)     FW    # 06 Oct 1998, Kinshasa  -- Paris FC
-18  Jamie Leweling (GER)           FW    # 26 Feb 2001, Nuremberg  -- Union Berlin
-26  Deniz Undav (GER)              FW    # 19 Jul 1996, Achim  -- Brighton & HA
+  9,  Sehrou Guirassy (GUI),             FW,   b. 1996,   Rennes
+ 14,  Silas Katompa Mvumpa (COD),        FW,   b. 1998,   Paris FC
+ 18,  Jamie Leweling,                    FW,   b. 2001,   Union Berlin
+ 26,  Deniz Undav,                       FW,   b. 1996,   Brighton & HA

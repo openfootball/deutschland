@@ -1,514 +1,514 @@
 = Deutsche Bundesliga 2023/24
 
 
-Spieltag 1
-[Fr 18.8.]
-  20.30  Werder Bremen            0:4 (0:1)  Bayern München
-[Sa 19.8.]
-  15.30  Bayer 04 Leverkusen      3:2 (2:1)  RB Leipzig
-         VfL Wolfsburg            2:0 (2:0)  1. FC Heidenheim
-         TSG 1899 Hoffenheim      1:2 (0:2)  SC Freiburg
-         FC Augsburg              4:4 (3:3)  Bor. Mönchengladbach
-         VfB Stuttgart            5:0 (2:0)  VfL Bochum
-  18.30  Borussia Dortmund        1:0 (0:0)  1. FC Köln
-[So 20.8.]
-  15.30  1. FC Union Berlin       4:1 (2:0)  1. FSV Mainz 05
-  17.30  Eintracht Frankfurt      1:0 (1:0)  SV Darmstadt 98
-
-
-Spieltag 2
-[Fr 25.8.]
-  20.30  RB Leipzig               5:1 (0:1)  VfB Stuttgart
-[Sa 26.8.]
-  15.30  1. FC Köln               1:2 (0:0)  VfL Wolfsburg
-         VfL Bochum               1:1 (1:0)  Borussia Dortmund
-         1. FC Heidenheim         2:3 (1:0)  TSG 1899 Hoffenheim
-         SV Darmstadt 98          1:4 (1:3)  1. FC Union Berlin
-         SC Freiburg              1:0 (0:0)  Werder Bremen
-  18.30  Bor. Mönchengladbach     0:3 (0:2)  Bayer 04 Leverkusen
-[So 27.8.]
-  15.30  1. FSV Mainz 05          1:1 (1:0)  Eintracht Frankfurt
-  17.30  Bayern München           3:1 (2:0)  FC Augsburg
-
-
-Spieltag 3
-[Fr 1.9.]
-  20.30  Borussia Dortmund        2:2 (2:0)  1. FC Heidenheim
-[Sa 2.9.]
-  15.30  TSG 1899 Hoffenheim      3:1 (1:1)  VfL Wolfsburg
-         Werder Bremen            4:0 (1:0)  1. FSV Mainz 05
-         FC Augsburg              2:2 (1:1)  VfL Bochum
-         VfB Stuttgart            5:0 (3:0)  SC Freiburg
-         Bayer 04 Leverkusen      5:1 (1:1)  SV Darmstadt 98
-  18.30  Bor. Mönchengladbach     1:2 (1:0)  Bayern München
-[So 3.9.]
-  15.30  Eintracht Frankfurt      1:1 (0:1)  1. FC Köln
-  17.30  1. FC Union Berlin       0:3 (0:0)  RB Leipzig
-
-
-Spieltag 4
-[Fr 15.9.]
-  20.30  Bayern München           2:2 (1:1)  Bayer 04 Leverkusen
-[Sa 16.9.]
-  15.30  SC Freiburg              2:4 (2:1)  Borussia Dortmund
-         VfL Wolfsburg            2:1 (2:1)  1. FC Union Berlin
-         1. FSV Mainz 05          1:3 (0:0)  VfB Stuttgart
-         1. FC Köln               1:3 (0:2)  TSG 1899 Hoffenheim
-         RB Leipzig               3:0 (3:0)  FC Augsburg
-  18.30  VfL Bochum               1:1 (0:0)  Eintracht Frankfurt
-[So 17.9.]
-  15.30  1. FC Heidenheim         4:2 (2:0)  Werder Bremen
-  17.30  SV Darmstadt 98          3:3 (3:0)  Bor. Mönchengladbach
-
-
-Spieltag 5
-[Fr 22.9.]
-  20.30  VfB Stuttgart            3:1 (2:1)  SV Darmstadt 98
-[Sa 23.9.]
-  15.30  Bayern München           7:0 (4:0)  VfL Bochum
-         Borussia Dortmund        1:0 (0:0)  VfL Wolfsburg
-         1. FC Union Berlin       0:2 (0:2)  TSG 1899 Hoffenheim
-         Bor. Mönchengladbach     0:1 (0:0)  RB Leipzig
-         FC Augsburg              2:1 (2:1)  1. FSV Mainz 05
-  18.30  Werder Bremen            2:1 (1:1)  1. FC Köln
-[So 24.9.]
-  15.30  Bayer 04 Leverkusen      4:1 (1:0)  1. FC Heidenheim
-  17.30  Eintracht Frankfurt      0:0  SC Freiburg
-
-
-Spieltag 6
-[Fr 29.9.]
-  20.30  TSG 1899 Hoffenheim      1:3 (1:2)  Borussia Dortmund
-[Sa 30.9.]
-  15.30  VfL Wolfsburg            2:0 (1:0)  Eintracht Frankfurt
-         1. FSV Mainz 05          0:3 (0:1)  Bayer 04 Leverkusen
-         1. FC Köln               0:2 (0:0)  VfB Stuttgart
-         VfL Bochum               1:3 (0:3)  Bor. Mönchengladbach
-         1. FC Heidenheim         1:0 (0:0)  1. FC Union Berlin
-  18.30  RB Leipzig               2:2 (2:0)  Bayern München
-[So 1.10.]
-  15.30  SV Darmstadt 98          4:2 (2:0)  Werder Bremen
-  17.30  SC Freiburg              2:0 (1:0)  FC Augsburg
-
-
-Spieltag 7
-[Fr 6.10.]
-  20.30  Bor. Mönchengladbach     2:2 (1:1)  1. FSV Mainz 05
-[Sa 7.10.]
-  15.30  Borussia Dortmund        4:2 (1:2)  1. FC Union Berlin
-         RB Leipzig               0:0  VfL Bochum
-         FC Augsburg              1:2 (0:0)  SV Darmstadt 98
-         VfB Stuttgart            3:1 (0:1)  VfL Wolfsburg
-  18.30  Werder Bremen            2:3 (1:2)  TSG 1899 Hoffenheim
-[So 8.10.]
-  15.30  Bayer 04 Leverkusen      3:0 (2:0)  1. FC Köln
-  17.30  Bayern München           3:0 (2:0)  SC Freiburg
-  19.30  Eintracht Frankfurt      2:0 (1:0)  1. FC Heidenheim
-
-
-Spieltag 8
-[Fr 20.10.]
-  20.30  Borussia Dortmund        1:0 (0:0)  Werder Bremen
-[Sa 21.10.]
-  15.30  TSG 1899 Hoffenheim      1:3 (1:3)  Eintracht Frankfurt
-         SV Darmstadt 98          1:3 (1:2)  RB Leipzig
-         1. FC Union Berlin       0:3 (0:1)  VfB Stuttgart
-         SC Freiburg              2:1 (2:1)  VfL Bochum
-         VfL Wolfsburg            1:2 (1:1)  Bayer 04 Leverkusen
-  18.30  1. FSV Mainz 05          1:3 (1:2)  Bayern München
-[So 22.10.]
-  15.30  1. FC Köln               3:1 (1:0)  Bor. Mönchengladbach
-  17.30  1. FC Heidenheim         2:5 (2:3)  FC Augsburg
-
-
-Spieltag 9
-[Fr 27.10.]
-  20.30  VfL Bochum               2:2 (1:0)  1. FSV Mainz 05
-[Sa 28.10.]
-  15.30  Bayern München           8:0 (0:0)  SV Darmstadt 98
-         Bor. Mönchengladbach     2:1 (1:1)  1. FC Heidenheim
-         Werder Bremen            2:0 (1:0)  1. FC Union Berlin
-         FC Augsburg              3:2 (1:2)  VfL Wolfsburg
-         VfB Stuttgart            2:3 (0:2)  TSG 1899 Hoffenheim
-  18.30  RB Leipzig               6:0 (4:0)  1. FC Köln
-[So 29.10.]
-  15.30  Eintracht Frankfurt      3:3 (2:1)  Borussia Dortmund
-  17.30  Bayer 04 Leverkusen      2:1 (1:0)  SC Freiburg
-
-
-Spieltag 10
-[Fr 3.11.]
-  20.30  SV Darmstadt 98          1:2 (1:1)  VfL Bochum
-[Sa 4.11.]
-  15.30  1. FC Union Berlin       0:3 (0:2)  Eintracht Frankfurt
-         SC Freiburg              3:3 (1:3)  Bor. Mönchengladbach
-         1. FSV Mainz 05          2:0 (0:0)  RB Leipzig
-         1. FC Köln               1:1 (1:1)  FC Augsburg
-         TSG 1899 Hoffenheim      2:3 (0:2)  Bayer 04 Leverkusen
-  18.30  Borussia Dortmund        0:4 (0:2)  Bayern München
-[So 5.11.]
-  15.30  VfL Wolfsburg            2:2 (1:1)  Werder Bremen
-  17.30  1. FC Heidenheim         2:0 (0:0)  VfB Stuttgart
-
-
-Spieltag 11
-[Fr 10.11.]
-  20.30  Bor. Mönchengladbach     4:0 (2:0)  VfL Wolfsburg
-[Sa 11.11.]
-  15.30  FC Augsburg              1:1 (0:1)  TSG 1899 Hoffenheim
-         VfB Stuttgart            2:1 (1:1)  Borussia Dortmund
-         SV Darmstadt 98          0:0  1. FSV Mainz 05
-         Bayern München           4:2 (2:0)  1. FC Heidenheim
-  18.30  VfL Bochum               1:1 (1:0)  1. FC Köln
-[So 12.11.]
-  15.30  Bayer 04 Leverkusen      4:0 (1:0)  1. FC Union Berlin
-  17.30  Werder Bremen            2:2 (1:0)  Eintracht Frankfurt
-  19.30  RB Leipzig               3:1 (1:1)  SC Freiburg
-
-
-Spieltag 12
-[Fr 24.11.]
-  20.30  1. FC Köln               0:1 (0:1)  Bayern München
-[Sa 25.11.]
-  15.30  Borussia Dortmund        4:2 (3:2)  Bor. Mönchengladbach
-         1. FC Union Berlin       1:1 (0:1)  FC Augsburg
-         SC Freiburg              1:1 (1:1)  SV Darmstadt 98
-         VfL Wolfsburg            2:1 (1:0)  RB Leipzig
-         Werder Bremen            0:3 (0:2)  Bayer 04 Leverkusen
-  18.30  Eintracht Frankfurt      1:2 (1:2)  VfB Stuttgart
-[So 26.11.]
-  15.30  1. FC Heidenheim         0:0  VfL Bochum
-  17.30  TSG 1899 Hoffenheim      1:1 (0:1)  1. FSV Mainz 05
-
-
-Spieltag 13
-[Fr 1.12.]
-  20.30  SV Darmstadt 98          0:1 (0:0)  1. FC Köln
-[Sa 2.12.]
-  15.30  Bor. Mönchengladbach     2:1 (0:0)  TSG 1899 Hoffenheim
-         VfL Bochum               3:1 (2:1)  VfL Wolfsburg
-         RB Leipzig               2:1 (2:1)  1. FC Heidenheim
-  18.30  VfB Stuttgart            2:0 (1:0)  Werder Bremen
-[So 3.12.]
-  15.30  1. FSV Mainz 05          0:1 (0:0)  SC Freiburg
-  17.30  Bayer 04 Leverkusen      1:1 (0:1)  Borussia Dortmund
-  19.30  FC Augsburg              2:1 (1:0)  Eintracht Frankfurt
-
-
-Spieltag 14
-[Fr 8.12.]
-  20.30  TSG 1899 Hoffenheim      3:1 (2:0)  VfL Bochum
-[Sa 9.12.]
-  15.30  1. FC Union Berlin       3:1 (1:0)  Bor. Mönchengladbach
-         Eintracht Frankfurt      5:1 (3:1)  Bayern München
-         VfL Wolfsburg            0:1 (0:0)  SC Freiburg
-         Werder Bremen            2:0 (1:0)  FC Augsburg
-         1. FC Heidenheim         3:2 (1:0)  SV Darmstadt 98
-  18.30  Borussia Dortmund        2:3 (1:1)  RB Leipzig
-[So 10.12.]
-  15.30  VfB Stuttgart            1:1 (1:0)  Bayer 04 Leverkusen
-  17.30  1. FC Köln               0:0  1. FSV Mainz 05
-
-
-Spieltag 15
-[Fr 15.12.]
-  20.30  Bor. Mönchengladbach     2:2 (1:1)  Werder Bremen
-[Sa 16.12.]
-  15.30  VfL Bochum               3:0 (1:0)  1. FC Union Berlin
-         FC Augsburg              1:1 (1:1)  Borussia Dortmund
-         SV Darmstadt 98          0:1 (0:0)  VfL Wolfsburg
-         1. FSV Mainz 05          0:1 (0:1)  1. FC Heidenheim
-  18.30  RB Leipzig               3:1 (1:1)  TSG 1899 Hoffenheim
-[So 17.12.]
-  15.30  SC Freiburg              2:0 (0:0)  1. FC Köln
-  17.30  Bayer 04 Leverkusen      3:0 (1:0)  Eintracht Frankfurt
-  19.30  Bayern München           3:0 (1:0)  VfB Stuttgart
-
-
-Spieltag 16
-[Di 19.12.]
-  18.30  Werder Bremen            1:1 (0:0)  RB Leipzig
-  20.30  TSG 1899 Hoffenheim      3:3 (2:1)  SV Darmstadt 98
-         Borussia Dortmund        1:1 (1:1)  1. FSV Mainz 05
-[Mi 20.12.]
-  18.30  1. FC Union Berlin       2:0 (0:0)  1. FC Köln
-  20.30  Eintracht Frankfurt      2:1 (0:1)  Bor. Mönchengladbach
-         VfL Wolfsburg            1:2 (1:2)  Bayern München
-         VfB Stuttgart            3:0 (2:0)  FC Augsburg
-         1. FC Heidenheim         3:2 (0:1)  SC Freiburg
-         Bayer 04 Leverkusen      4:0 (3:0)  VfL Bochum
-
-
-Spieltag 17
-[Fr 12.1.]
-  20.30  Bayern München           3:0 (1:0)  TSG 1899 Hoffenheim
-[Sa 13.1.]
-  15.30  SC Freiburg              0:0  1. FC Union Berlin
-         1. FSV Mainz 05          1:1 (0:1)  VfL Wolfsburg
-         1. FC Köln               1:1 (1:0)  1. FC Heidenheim
-         FC Augsburg              0:1 (0:0)  Bayer 04 Leverkusen
-         RB Leipzig               0:1 (0:1)  Eintracht Frankfurt
-  18.30  SV Darmstadt 98          0:3 (0:1)  Borussia Dortmund
-[So 14.1.]
-  15.30  VfL Bochum               1:1 (0:0)  Werder Bremen
-  17.30  Bor. Mönchengladbach     3:1 (2:0)  VfB Stuttgart
-
-
-Spieltag 18
-[Sa 20.1.]
-  15.30  1. FC Köln               0:4 (0:1)  Borussia Dortmund
-         SV Darmstadt 98          2:2 (0:1)  Eintracht Frankfurt
-         1. FC Heidenheim         1:1 (1:1)  VfL Wolfsburg
-         SC Freiburg              3:2 (1:0)  TSG 1899 Hoffenheim
-         VfL Bochum               1:0 (0:0)  VfB Stuttgart
-  18.30  RB Leipzig               2:3 (1:0)  Bayer 04 Leverkusen
-[So 21.1.]
-  15.30  Bayern München           0:1 (0:0)  Werder Bremen
-  17.30  Bor. Mönchengladbach     1:2 (1:0)  FC Augsburg
-
-
-Spieltag 13
-[Mi 24.1.]
-  20.30  Bayern München           1:0 (0:0)  1. FC Union Berlin
-
-
-Spieltag 19
-[Fr 26.1.]
-  20.30  Eintracht Frankfurt      1:0 (0:0)  1. FSV Mainz 05
-[Sa 27.1.]
-  15.30  FC Augsburg              2:3 (0:2)  Bayern München
-         VfB Stuttgart            5:2 (2:1)  RB Leipzig
-         Werder Bremen            3:1 (1:1)  SC Freiburg
-         VfL Wolfsburg            1:1 (1:1)  1. FC Köln
-         TSG 1899 Hoffenheim      1:1 (1:1)  1. FC Heidenheim
-  18.30  Bayer 04 Leverkusen      0:0  Bor. Mönchengladbach
-[So 28.1.]
-  15.30  1. FC Union Berlin       1:0 (0:0)  SV Darmstadt 98
-  17.30  Borussia Dortmund        3:1 (1:1)  VfL Bochum
-
-
-Spieltag 20
-[Fr 2.2.]
-  20.30  1. FC Heidenheim         0:0  Borussia Dortmund
-[Sa 3.2.]
-  15.30  SV Darmstadt 98          0:2 (0:1)  Bayer 04 Leverkusen
-         Bayern München           3:1 (1:1)  Bor. Mönchengladbach
-         1. FSV Mainz 05          0:1 (0:1)  Werder Bremen
-         VfL Bochum               1:1 (1:0)  FC Augsburg
-         SC Freiburg              1:3 (1:2)  VfB Stuttgart
-  18.30  1. FC Köln               2:0 (0:0)  Eintracht Frankfurt
-[So 4.2.]
-  15.30  VfL Wolfsburg            2:2 (0:1)  TSG 1899 Hoffenheim
-  17.30  RB Leipzig               2:0 (1:0)  1. FC Union Berlin
-
-
-Spieltag 18
-[Mi 7.2.]
-  18.30  1. FSV Mainz 05          1:1 (1:1)  1. FC Union Berlin
-
-
-Spieltag 21
-[Fr 9.2.]
-  20.30  Borussia Dortmund        3:0 (2:0)  SC Freiburg
-[Sa 10.2.]
-  15.30  FC Augsburg              2:2 (1:1)  RB Leipzig
-         1. FC Union Berlin       1:0 (1:0)  VfL Wolfsburg
-         Eintracht Frankfurt      1:1 (1:1)  VfL Bochum
-         Werder Bremen            1:2 (1:2)  1. FC Heidenheim
-         Bor. Mönchengladbach     0:0  SV Darmstadt 98
-  18.30  Bayer 04 Leverkusen      3:0 (1:0)  Bayern München
-[So 11.2.]
-  15.30  VfB Stuttgart            3:1 (2:0)  1. FSV Mainz 05
-  17.30  TSG 1899 Hoffenheim      1:1 (0:0)  1. FC Köln
-
-
-Spieltag 22
-[Fr 16.2.]
-  20.30  1. FC Köln               0:1 (0:0)  Werder Bremen
-[Sa 17.2.]
-  15.30  VfL Wolfsburg            1:1 (0:1)  Borussia Dortmund
-         TSG 1899 Hoffenheim      0:1 (0:0)  1. FC Union Berlin
-         1. FC Heidenheim         1:2 (0:1)  Bayer 04 Leverkusen
-         1. FSV Mainz 05          1:0 (1:0)  FC Augsburg
-         SV Darmstadt 98          1:2 (0:1)  VfB Stuttgart
-  18.30  RB Leipzig               2:0 (1:0)  Bor. Mönchengladbach
-[So 18.2.]
-  15.30  SC Freiburg              3:3 (2:2)  Eintracht Frankfurt
-  17.30  VfL Bochum               3:2 (2:1)  Bayern München
-
-
-Spieltag 23
-[Fr 23.2.]
-  20.30  Bayer 04 Leverkusen      2:1 (1:1)  1. FSV Mainz 05
-[Sa 24.2.]
-  15.30  VfB Stuttgart            1:1 (0:0)  1. FC Köln
-         1. FC Union Berlin       2:2 (2:1)  1. FC Heidenheim
-         Werder Bremen            1:1 (1:1)  SV Darmstadt 98
-  15.40  Bor. Mönchengladbach     5:2 (2:0)  VfL Bochum
-  18.30  Bayern München           2:1 (0:0)  RB Leipzig
-[So 25.2.]
-  15.30  Eintracht Frankfurt      2:2 (1:2)  VfL Wolfsburg
-  17.30  Borussia Dortmund        2:3 (2:1)  TSG 1899 Hoffenheim
-  19.30  FC Augsburg              2:1 (0:1)  SC Freiburg
-
-
-Spieltag 24
-[Fr 1.3.]
-  20.30  SC Freiburg              2:2 (1:1)  Bayern München
-[Sa 2.3.]
-  15.30  VfL Bochum               1:4 (1:1)  RB Leipzig
-         1. FC Heidenheim         1:2 (0:1)  Eintracht Frankfurt
-         1. FSV Mainz 05          1:1 (1:0)  Bor. Mönchengladbach
-         SV Darmstadt 98          0:6 (0:5)  FC Augsburg
-         1. FC Union Berlin       0:2 (0:1)  Borussia Dortmund
-  18.30  VfL Wolfsburg            2:3 (0:1)  VfB Stuttgart
-[So 3.3.]
-  15.30  1. FC Köln               0:2 (0:1)  Bayer 04 Leverkusen
-  17.30  TSG 1899 Hoffenheim      2:1 (2:0)  Werder Bremen
-
-
-Spieltag 25
-[Fr 8.3.]
-  20.30  VfB Stuttgart            2:0 (1:0)  1. FC Union Berlin
-[Sa 9.3.]
-  15.30  Bor. Mönchengladbach     3:3 (1:1)  1. FC Köln
-         FC Augsburg              1:0 (1:0)  1. FC Heidenheim
-         RB Leipzig               2:0 (1:0)  SV Darmstadt 98
-         Bayern München           8:1 (3:1)  1. FSV Mainz 05
-  18.30  Werder Bremen            1:2 (0:2)  Borussia Dortmund
-[So 10.3.]
-  15.30  VfL Bochum               1:2 (0:1)  SC Freiburg
-  17.30  Eintracht Frankfurt      3:1 (1:1)  TSG 1899 Hoffenheim
-  19.30  Bayer 04 Leverkusen      2:0 (1:0)  VfL Wolfsburg
-
-
-Spieltag 26
-[Fr 15.3.]
-  20.30  1. FC Köln               1:5 (1:1)  RB Leipzig
-[Sa 16.3.]
-  15.30  1. FC Heidenheim         1:1 (0:1)  Bor. Mönchengladbach
-         1. FC Union Berlin       2:1 (0:0)  Werder Bremen
-         1. FSV Mainz 05          2:0 (1:0)  VfL Bochum
-         VfL Wolfsburg            1:3 (1:1)  FC Augsburg
-         SV Darmstadt 98          2:5 (1:2)  Bayern München
-  18.30  TSG 1899 Hoffenheim      0:3 (0:2)  VfB Stuttgart
-[So 17.3.]
-  15.30  SC Freiburg              2:3 (1:2)  Bayer 04 Leverkusen
-  17.30  Borussia Dortmund        3:1 (1:1)  Eintracht Frankfurt
-
-
-Spieltag 27
-[Sa 30.3.]
-  15.30  Eintracht Frankfurt      0:0  1. FC Union Berlin
-         Bor. Mönchengladbach     0:3 (0:1)  SC Freiburg
-         Werder Bremen            0:2 (0:1)  VfL Wolfsburg
-         RB Leipzig               0:0  1. FSV Mainz 05
-         Bayer 04 Leverkusen      2:1 (0:1)  TSG 1899 Hoffenheim
-  18.30  Bayern München           0:2 (0:1)  Borussia Dortmund
-[So 31.3.]
-  15.30  FC Augsburg              1:1 (1:1)  1. FC Köln
-  17.30  VfB Stuttgart            3:3 (1:0)  1. FC Heidenheim
-  19.30  VfL Bochum               2:2 (1:0)  SV Darmstadt 98
-
-
-Spieltag 28
-[Fr 5.4.]
-  20.30  Eintracht Frankfurt      1:1 (0:0)  Werder Bremen
-[Sa 6.4.]
-  15.30  SC Freiburg              1:4 (0:3)  RB Leipzig
-         1. FC Union Berlin       0:1 (0:1)  Bayer 04 Leverkusen
-         1. FC Köln               2:1 (0:0)  VfL Bochum
-         1. FSV Mainz 05          4:0 (1:0)  SV Darmstadt 98
-         1. FC Heidenheim         3:2 (0:2)  Bayern München
-  18.30  Borussia Dortmund        0:1 (0:0)  VfB Stuttgart
-[So 7.4.]
-  15.30  TSG 1899 Hoffenheim      3:1 (2:0)  FC Augsburg
-  17.30  VfL Wolfsburg            1:3 (1:0)  Bor. Mönchengladbach
-
-
-Spieltag 29
-[Fr 12.4.]
-  20.30  FC Augsburg              2:0 (0:0)  1. FC Union Berlin
-[Sa 13.4.]
-  15.30  Bor. Mönchengladbach     1:2 (1:2)  Borussia Dortmund
-         RB Leipzig               3:0 (1:0)  VfL Wolfsburg
-         Bayern München           2:0 (0:0)  1. FC Köln
-         1. FSV Mainz 05          4:1 (0:1)  TSG 1899 Hoffenheim
-         VfL Bochum               1:1 (0:0)  1. FC Heidenheim
-  18.30  VfB Stuttgart            3:0 (3:0)  Eintracht Frankfurt
-[So 14.4.]
-  15.30  SV Darmstadt 98          0:1 (0:1)  SC Freiburg
-  17.30  Bayer 04 Leverkusen      5:0 (1:0)  Werder Bremen
-
-
-Spieltag 30
-[Fr 19.4.]
-  20.30  Eintracht Frankfurt      3:1 (0:1)  FC Augsburg
-[Sa 20.4.]
-  15.30  TSG 1899 Hoffenheim      4:3 (1:1)  Bor. Mönchengladbach
-         VfL Wolfsburg            1:0 (1:0)  VfL Bochum
-         1. FC Köln               0:2 (0:0)  SV Darmstadt 98
-         1. FC Heidenheim         1:2 (0:1)  RB Leipzig
-  18.30  1. FC Union Berlin       1:5 (0:2)  Bayern München
-[So 21.4.]
-  15.30  Werder Bremen            2:1 (1:0)  VfB Stuttgart
-  17.30  Borussia Dortmund        1:1 (0:0)  Bayer 04 Leverkusen
-  19.30  SC Freiburg              1:1 (1:1)  1. FSV Mainz 05
-
-
-Spieltag 31
-[Fr 26.4.]
-  20.30  VfL Bochum               3:2 (2:0)  TSG 1899 Hoffenheim
-[Sa 27.4.]
-  15.30  RB Leipzig               4:1 (2:1)  Borussia Dortmund
-         Bayern München           2:1 (1:1)  Eintracht Frankfurt
-         SC Freiburg              1:2 (1:0)  VfL Wolfsburg
-         FC Augsburg              0:3 (0:0)  Werder Bremen
-  18.30  Bayer 04 Leverkusen      2:2 (0:0)  VfB Stuttgart
-[So 28.4.]
-  15.30  Bor. Mönchengladbach     0:0  1. FC Union Berlin
-  17.30  1. FSV Mainz 05          1:1 (1:0)  1. FC Köln
-  19.30  SV Darmstadt 98          0:1 (0:0)  1. FC Heidenheim
-
-
-Spieltag 32
-[Fr 3.5.]
-  20.30  TSG 1899 Hoffenheim      1:1 (0:1)  RB Leipzig
-[Sa 4.5.]
-  15.30  Werder Bremen            2:2 (1:1)  Bor. Mönchengladbach
-         Borussia Dortmund        5:1 (4:1)  FC Augsburg
-         VfL Wolfsburg            3:0 (2:0)  SV Darmstadt 98
-         VfB Stuttgart            3:1 (1:1)  Bayern München
-  18.30  1. FC Köln               0:0  SC Freiburg
-[So 5.5.]
-  15.30  1. FC Union Berlin       3:4 (0:3)  VfL Bochum
-  17.30  Eintracht Frankfurt      1:5 (1:2)  Bayer 04 Leverkusen
-  19.30  1. FC Heidenheim         1:1 (0:1)  1. FSV Mainz 05
-
-
-Spieltag 33
-[Fr 10.5.]
-  20.30  FC Augsburg              0:1 (0:0)  VfB Stuttgart
-[Sa 11.5.]
-  15.30  Bor. Mönchengladbach     1:1 (1:1)  Eintracht Frankfurt
-         RB Leipzig               1:1 (0:1)  Werder Bremen
-         SC Freiburg              1:1 (1:1)  1. FC Heidenheim
-         1. FC Köln               3:2 (1:2)  1. FC Union Berlin
-  18.30  1. FSV Mainz 05          3:0 (3:0)  Borussia Dortmund
-[So 12.5.]
-  15.30  SV Darmstadt 98          0:6 (0:5)  TSG 1899 Hoffenheim
-  17.30  Bayern München           2:0 (2:0)  VfL Wolfsburg
-  19.30  VfL Bochum               0:5 (0:2)  Bayer 04 Leverkusen
-
-
-Spieltag 34
-[Sa 18.5.]
-  15.30  TSG 1899 Hoffenheim      4:2 (1:2)  Bayern München
-         Eintracht Frankfurt      2:2 (0:1)  RB Leipzig
-         1. FC Union Berlin       2:1 (0:0)  SC Freiburg
-         VfL Wolfsburg            1:3 (1:1)  1. FSV Mainz 05
-         VfB Stuttgart            4:0 (2:0)  Bor. Mönchengladbach
-         1. FC Heidenheim         4:1 (3:0)  1. FC Köln
-         Werder Bremen            4:1 (1:0)  VfL Bochum
-         Bayer 04 Leverkusen      2:1 (2:0)  FC Augsburg
-         Borussia Dortmund        4:0 (2:0)  SV Darmstadt 98
+Matchday 1
+[Fri Aug/18]
+  20.30  Werder Bremen            0-4 (0-1)  Bayern München
+[Sat Aug/19]
+  15.30  Bayer 04 Leverkusen      3-2 (2-1)  RB Leipzig
+         VfL Wolfsburg            2-0 (2-0)  1. FC Heidenheim
+         TSG 1899 Hoffenheim      1-2 (0-2)  SC Freiburg
+         FC Augsburg              4-4 (3-3)  Bor. Mönchengladbach
+         VfB Stuttgart            5-0 (2-0)  VfL Bochum
+  18.30  Borussia Dortmund        1-0 (0-0)  1. FC Köln
+[Sun Aug/20]
+  15.30  1. FC Union Berlin       4-1 (2-0)  1. FSV Mainz 05
+  17.30  Eintracht Frankfurt      1-0 (1-0)  SV Darmstadt 98
+
+
+Matchday 2
+[Fri Aug/25]
+  20.30  RB Leipzig               5-1 (0-1)  VfB Stuttgart
+[Sat Aug/26]
+  15.30  1. FC Köln               1-2 (0-0)  VfL Wolfsburg
+         VfL Bochum               1-1 (1-0)  Borussia Dortmund
+         1. FC Heidenheim         2-3 (1-0)  TSG 1899 Hoffenheim
+         SV Darmstadt 98          1-4 (1-3)  1. FC Union Berlin
+         SC Freiburg              1-0 (0-0)  Werder Bremen
+  18.30  Bor. Mönchengladbach     0-3 (0-2)  Bayer 04 Leverkusen
+[Sun Aug/27]
+  15.30  1. FSV Mainz 05          1-1 (1-0)  Eintracht Frankfurt
+  17.30  Bayern München           3-1 (2-0)  FC Augsburg
+
+
+Matchday 3
+[Fri Sep/1]
+  20.30  Borussia Dortmund        2-2 (2-0)  1. FC Heidenheim
+[Sat Sep/2]
+  15.30  TSG 1899 Hoffenheim      3-1 (1-1)  VfL Wolfsburg
+         Werder Bremen            4-0 (1-0)  1. FSV Mainz 05
+         FC Augsburg              2-2 (1-1)  VfL Bochum
+         VfB Stuttgart            5-0 (3-0)  SC Freiburg
+         Bayer 04 Leverkusen      5-1 (1-1)  SV Darmstadt 98
+  18.30  Bor. Mönchengladbach     1-2 (1-0)  Bayern München
+[Sun Sep/3]
+  15.30  Eintracht Frankfurt      1-1 (0-1)  1. FC Köln
+  17.30  1. FC Union Berlin       0-3 (0-0)  RB Leipzig
+
+
+Matchday 4
+[Fri Sep/15]
+  20.30  Bayern München           2-2 (1-1)  Bayer 04 Leverkusen
+[Sat Sep/16]
+  15.30  SC Freiburg              2-4 (2-1)  Borussia Dortmund
+         VfL Wolfsburg            2-1 (2-1)  1. FC Union Berlin
+         1. FSV Mainz 05          1-3 (0-0)  VfB Stuttgart
+         1. FC Köln               1-3 (0-2)  TSG 1899 Hoffenheim
+         RB Leipzig               3-0 (3-0)  FC Augsburg
+  18.30  VfL Bochum               1-1 (0-0)  Eintracht Frankfurt
+[Sun Sep/17]
+  15.30  1. FC Heidenheim         4-2 (2-0)  Werder Bremen
+  17.30  SV Darmstadt 98          3-3 (3-0)  Bor. Mönchengladbach
+
+
+Matchday 5
+[Fri Sep/22]
+  20.30  VfB Stuttgart            3-1 (2-1)  SV Darmstadt 98
+[Sat Sep/23]
+  15.30  Bayern München           7-0 (4-0)  VfL Bochum
+         Borussia Dortmund        1-0 (0-0)  VfL Wolfsburg
+         1. FC Union Berlin       0-2 (0-2)  TSG 1899 Hoffenheim
+         Bor. Mönchengladbach     0-1 (0-0)  RB Leipzig
+         FC Augsburg              2-1 (2-1)  1. FSV Mainz 05
+  18.30  Werder Bremen            2-1 (1-1)  1. FC Köln
+[Sun Sep/24]
+  15.30  Bayer 04 Leverkusen      4-1 (1-0)  1. FC Heidenheim
+  17.30  Eintracht Frankfurt      0-0  SC Freiburg
+
+
+Matchday 6
+[Fri Sep/29]
+  20.30  TSG 1899 Hoffenheim      1-3 (1-2)  Borussia Dortmund
+[Sat Sep/30]
+  15.30  VfL Wolfsburg            2-0 (1-0)  Eintracht Frankfurt
+         1. FSV Mainz 05          0-3 (0-1)  Bayer 04 Leverkusen
+         1. FC Köln               0-2 (0-0)  VfB Stuttgart
+         VfL Bochum               1-3 (0-3)  Bor. Mönchengladbach
+         1. FC Heidenheim         1-0 (0-0)  1. FC Union Berlin
+  18.30  RB Leipzig               2-2 (2-0)  Bayern München
+[Sun Oct/1]
+  15.30  SV Darmstadt 98          4-2 (2-0)  Werder Bremen
+  17.30  SC Freiburg              2-0 (1-0)  FC Augsburg
+
+
+Matchday 7
+[Fri Oct/6]
+  20.30  Bor. Mönchengladbach     2-2 (1-1)  1. FSV Mainz 05
+[Sat Oct/7]
+  15.30  Borussia Dortmund        4-2 (1-2)  1. FC Union Berlin
+         RB Leipzig               0-0  VfL Bochum
+         FC Augsburg              1-2 (0-0)  SV Darmstadt 98
+         VfB Stuttgart            3-1 (0-1)  VfL Wolfsburg
+  18.30  Werder Bremen            2-3 (1-2)  TSG 1899 Hoffenheim
+[Sun Oct/8]
+  15.30  Bayer 04 Leverkusen      3-0 (2-0)  1. FC Köln
+  17.30  Bayern München           3-0 (2-0)  SC Freiburg
+  19.30  Eintracht Frankfurt      2-0 (1-0)  1. FC Heidenheim
+
+
+Matchday 8
+[Fri Oct/20]
+  20.30  Borussia Dortmund        1-0 (0-0)  Werder Bremen
+[Sat Oct/21]
+  15.30  TSG 1899 Hoffenheim      1-3 (1-3)  Eintracht Frankfurt
+         SV Darmstadt 98          1-3 (1-2)  RB Leipzig
+         1. FC Union Berlin       0-3 (0-1)  VfB Stuttgart
+         SC Freiburg              2-1 (2-1)  VfL Bochum
+         VfL Wolfsburg            1-2 (1-1)  Bayer 04 Leverkusen
+  18.30  1. FSV Mainz 05          1-3 (1-2)  Bayern München
+[Sun Oct/22]
+  15.30  1. FC Köln               3-1 (1-0)  Bor. Mönchengladbach
+  17.30  1. FC Heidenheim         2-5 (2-3)  FC Augsburg
+
+
+Matchday 9
+[Fri Oct/27]
+  20.30  VfL Bochum               2-2 (1-0)  1. FSV Mainz 05
+[Sat Oct/28]
+  15.30  Bayern München           8-0 (0-0)  SV Darmstadt 98
+         Bor. Mönchengladbach     2-1 (1-1)  1. FC Heidenheim
+         Werder Bremen            2-0 (1-0)  1. FC Union Berlin
+         FC Augsburg              3-2 (1-2)  VfL Wolfsburg
+         VfB Stuttgart            2-3 (0-2)  TSG 1899 Hoffenheim
+  18.30  RB Leipzig               6-0 (4-0)  1. FC Köln
+[Sun Oct/29]
+  15.30  Eintracht Frankfurt      3-3 (2-1)  Borussia Dortmund
+  17.30  Bayer 04 Leverkusen      2-1 (1-0)  SC Freiburg
+
+
+Matchday 10
+[Fri Nov/3]
+  20.30  SV Darmstadt 98          1-2 (1-1)  VfL Bochum
+[Sat Nov/4]
+  15.30  1. FC Union Berlin       0-3 (0-2)  Eintracht Frankfurt
+         SC Freiburg              3-3 (1-3)  Bor. Mönchengladbach
+         1. FSV Mainz 05          2-0 (0-0)  RB Leipzig
+         1. FC Köln               1-1 (1-1)  FC Augsburg
+         TSG 1899 Hoffenheim      2-3 (0-2)  Bayer 04 Leverkusen
+  18.30  Borussia Dortmund        0-4 (0-2)  Bayern München
+[Sun Nov/5]
+  15.30  VfL Wolfsburg            2-2 (1-1)  Werder Bremen
+  17.30  1. FC Heidenheim         2-0 (0-0)  VfB Stuttgart
+
+
+Matchday 11
+[Fri Nov/10]
+  20.30  Bor. Mönchengladbach     4-0 (2-0)  VfL Wolfsburg
+[Sat Nov/11]
+  15.30  FC Augsburg              1-1 (0-1)  TSG 1899 Hoffenheim
+         VfB Stuttgart            2-1 (1-1)  Borussia Dortmund
+         SV Darmstadt 98          0-0  1. FSV Mainz 05
+         Bayern München           4-2 (2-0)  1. FC Heidenheim
+  18.30  VfL Bochum               1-1 (1-0)  1. FC Köln
+[Sun Nov/12]
+  15.30  Bayer 04 Leverkusen      4-0 (1-0)  1. FC Union Berlin
+  17.30  Werder Bremen            2-2 (1-0)  Eintracht Frankfurt
+  19.30  RB Leipzig               3-1 (1-1)  SC Freiburg
+
+
+Matchday 12
+[Fri Nov/24]
+  20.30  1. FC Köln               0-1 (0-1)  Bayern München
+[Sat Nov/25]
+  15.30  Borussia Dortmund        4-2 (3-2)  Bor. Mönchengladbach
+         1. FC Union Berlin       1-1 (0-1)  FC Augsburg
+         SC Freiburg              1-1 (1-1)  SV Darmstadt 98
+         VfL Wolfsburg            2-1 (1-0)  RB Leipzig
+         Werder Bremen            0-3 (0-2)  Bayer 04 Leverkusen
+  18.30  Eintracht Frankfurt      1-2 (1-2)  VfB Stuttgart
+[Sun Nov/26]
+  15.30  1. FC Heidenheim         0-0  VfL Bochum
+  17.30  TSG 1899 Hoffenheim      1-1 (0-1)  1. FSV Mainz 05
+
+
+Matchday 13
+[Fri Dec/1]
+  20.30  SV Darmstadt 98          0-1 (0-0)  1. FC Köln
+[Sat Dec/2]
+  15.30  Bor. Mönchengladbach     2-1 (0-0)  TSG 1899 Hoffenheim
+         VfL Bochum               3-1 (2-1)  VfL Wolfsburg
+         RB Leipzig               2-1 (2-1)  1. FC Heidenheim
+  18.30  VfB Stuttgart            2-0 (1-0)  Werder Bremen
+[Sun Dec/3]
+  15.30  1. FSV Mainz 05          0-1 (0-0)  SC Freiburg
+  17.30  Bayer 04 Leverkusen      1-1 (0-1)  Borussia Dortmund
+  19.30  FC Augsburg              2-1 (1-0)  Eintracht Frankfurt
+
+
+Matchday 14
+[Fri Dec/8]
+  20.30  TSG 1899 Hoffenheim      3-1 (2-0)  VfL Bochum
+[Sat Dec/9]
+  15.30  1. FC Union Berlin       3-1 (1-0)  Bor. Mönchengladbach
+         Eintracht Frankfurt      5-1 (3-1)  Bayern München
+         VfL Wolfsburg            0-1 (0-0)  SC Freiburg
+         Werder Bremen            2-0 (1-0)  FC Augsburg
+         1. FC Heidenheim         3-2 (1-0)  SV Darmstadt 98
+  18.30  Borussia Dortmund        2-3 (1-1)  RB Leipzig
+[Sun Dec/10]
+  15.30  VfB Stuttgart            1-1 (1-0)  Bayer 04 Leverkusen
+  17.30  1. FC Köln               0-0  1. FSV Mainz 05
+
+
+Matchday 15
+[Fri Dec/15]
+  20.30  Bor. Mönchengladbach     2-2 (1-1)  Werder Bremen
+[Sat Dec/16]
+  15.30  VfL Bochum               3-0 (1-0)  1. FC Union Berlin
+         FC Augsburg              1-1 (1-1)  Borussia Dortmund
+         SV Darmstadt 98          0-1 (0-0)  VfL Wolfsburg
+         1. FSV Mainz 05          0-1 (0-1)  1. FC Heidenheim
+  18.30  RB Leipzig               3-1 (1-1)  TSG 1899 Hoffenheim
+[Sun Dec/17]
+  15.30  SC Freiburg              2-0 (0-0)  1. FC Köln
+  17.30  Bayer 04 Leverkusen      3-0 (1-0)  Eintracht Frankfurt
+  19.30  Bayern München           3-0 (1-0)  VfB Stuttgart
+
+
+Matchday 16
+[Tue Dec/19]
+  18.30  Werder Bremen            1-1 (0-0)  RB Leipzig
+  20.30  TSG 1899 Hoffenheim      3-3 (2-1)  SV Darmstadt 98
+         Borussia Dortmund        1-1 (1-1)  1. FSV Mainz 05
+[Wed Dec/20]
+  18.30  1. FC Union Berlin       2-0 (0-0)  1. FC Köln
+  20.30  Eintracht Frankfurt      2-1 (0-1)  Bor. Mönchengladbach
+         VfL Wolfsburg            1-2 (1-2)  Bayern München
+         VfB Stuttgart            3-0 (2-0)  FC Augsburg
+         1. FC Heidenheim         3-2 (0-1)  SC Freiburg
+         Bayer 04 Leverkusen      4-0 (3-0)  VfL Bochum
+
+
+Matchday 17
+[Fri Jan/12]
+  20.30  Bayern München           3-0 (1-0)  TSG 1899 Hoffenheim
+[Sat Jan/13]
+  15.30  SC Freiburg              0-0  1. FC Union Berlin
+         1. FSV Mainz 05          1-1 (0-1)  VfL Wolfsburg
+         1. FC Köln               1-1 (1-0)  1. FC Heidenheim
+         FC Augsburg              0-1 (0-0)  Bayer 04 Leverkusen
+         RB Leipzig               0-1 (0-1)  Eintracht Frankfurt
+  18.30  SV Darmstadt 98          0-3 (0-1)  Borussia Dortmund
+[Sun Jan/14]
+  15.30  VfL Bochum               1-1 (0-0)  Werder Bremen
+  17.30  Bor. Mönchengladbach     3-1 (2-0)  VfB Stuttgart
+
+
+Matchday 18
+[Sat Jan/20]
+  15.30  1. FC Köln               0-4 (0-1)  Borussia Dortmund
+         SV Darmstadt 98          2-2 (0-1)  Eintracht Frankfurt
+         1. FC Heidenheim         1-1 (1-1)  VfL Wolfsburg
+         SC Freiburg              3-2 (1-0)  TSG 1899 Hoffenheim
+         VfL Bochum               1-0 (0-0)  VfB Stuttgart
+  18.30  RB Leipzig               2-3 (1-0)  Bayer 04 Leverkusen
+[Sun Jan/21]
+  15.30  Bayern München           0-1 (0-0)  Werder Bremen
+  17.30  Bor. Mönchengladbach     1-2 (1-0)  FC Augsburg
+
+
+Matchday 13
+[Wed Jan/24]
+  20.30  Bayern München           1-0 (0-0)  1. FC Union Berlin
+
+
+Matchday 19
+[Fri Jan/26]
+  20.30  Eintracht Frankfurt      1-0 (0-0)  1. FSV Mainz 05
+[Sat Jan/27]
+  15.30  FC Augsburg              2-3 (0-2)  Bayern München
+         VfB Stuttgart            5-2 (2-1)  RB Leipzig
+         Werder Bremen            3-1 (1-1)  SC Freiburg
+         VfL Wolfsburg            1-1 (1-1)  1. FC Köln
+         TSG 1899 Hoffenheim      1-1 (1-1)  1. FC Heidenheim
+  18.30  Bayer 04 Leverkusen      0-0  Bor. Mönchengladbach
+[Sun Jan/28]
+  15.30  1. FC Union Berlin       1-0 (0-0)  SV Darmstadt 98
+  17.30  Borussia Dortmund        3-1 (1-1)  VfL Bochum
+
+
+Matchday 20
+[Fri Feb/2]
+  20.30  1. FC Heidenheim         0-0  Borussia Dortmund
+[Sat Feb/3]
+  15.30  SV Darmstadt 98          0-2 (0-1)  Bayer 04 Leverkusen
+         Bayern München           3-1 (1-1)  Bor. Mönchengladbach
+         1. FSV Mainz 05          0-1 (0-1)  Werder Bremen
+         VfL Bochum               1-1 (1-0)  FC Augsburg
+         SC Freiburg              1-3 (1-2)  VfB Stuttgart
+  18.30  1. FC Köln               2-0 (0-0)  Eintracht Frankfurt
+[Sun Feb/4]
+  15.30  VfL Wolfsburg            2-2 (0-1)  TSG 1899 Hoffenheim
+  17.30  RB Leipzig               2-0 (1-0)  1. FC Union Berlin
+
+
+Matchday 18
+[Wed Feb/7]
+  18.30  1. FSV Mainz 05          1-1 (1-1)  1. FC Union Berlin
+
+
+Matchday 21
+[Fri Feb/9]
+  20.30  Borussia Dortmund        3-0 (2-0)  SC Freiburg
+[Sat Feb/10]
+  15.30  FC Augsburg              2-2 (1-1)  RB Leipzig
+         1. FC Union Berlin       1-0 (1-0)  VfL Wolfsburg
+         Eintracht Frankfurt      1-1 (1-1)  VfL Bochum
+         Werder Bremen            1-2 (1-2)  1. FC Heidenheim
+         Bor. Mönchengladbach     0-0  SV Darmstadt 98
+  18.30  Bayer 04 Leverkusen      3-0 (1-0)  Bayern München
+[Sun Feb/11]
+  15.30  VfB Stuttgart            3-1 (2-0)  1. FSV Mainz 05
+  17.30  TSG 1899 Hoffenheim      1-1 (0-0)  1. FC Köln
+
+
+Matchday 22
+[Fri Feb/16]
+  20.30  1. FC Köln               0-1 (0-0)  Werder Bremen
+[Sat Feb/17]
+  15.30  VfL Wolfsburg            1-1 (0-1)  Borussia Dortmund
+         TSG 1899 Hoffenheim      0-1 (0-0)  1. FC Union Berlin
+         1. FC Heidenheim         1-2 (0-1)  Bayer 04 Leverkusen
+         1. FSV Mainz 05          1-0 (1-0)  FC Augsburg
+         SV Darmstadt 98          1-2 (0-1)  VfB Stuttgart
+  18.30  RB Leipzig               2-0 (1-0)  Bor. Mönchengladbach
+[Sun Feb/18]
+  15.30  SC Freiburg              3-3 (2-2)  Eintracht Frankfurt
+  17.30  VfL Bochum               3-2 (2-1)  Bayern München
+
+
+Matchday 23
+[Fri Feb/23]
+  20.30  Bayer 04 Leverkusen      2-1 (1-1)  1. FSV Mainz 05
+[Sat Feb/24]
+  15.30  VfB Stuttgart            1-1 (0-0)  1. FC Köln
+         1. FC Union Berlin       2-2 (2-1)  1. FC Heidenheim
+         Werder Bremen            1-1 (1-1)  SV Darmstadt 98
+  15.40  Bor. Mönchengladbach     5-2 (2-0)  VfL Bochum
+  18.30  Bayern München           2-1 (0-0)  RB Leipzig
+[Sun Feb/25]
+  15.30  Eintracht Frankfurt      2-2 (1-2)  VfL Wolfsburg
+  17.30  Borussia Dortmund        2-3 (2-1)  TSG 1899 Hoffenheim
+  19.30  FC Augsburg              2-1 (0-1)  SC Freiburg
+
+
+Matchday 24
+[Fri Mar/1]
+  20.30  SC Freiburg              2-2 (1-1)  Bayern München
+[Sat Mar/2]
+  15.30  VfL Bochum               1-4 (1-1)  RB Leipzig
+         1. FC Heidenheim         1-2 (0-1)  Eintracht Frankfurt
+         1. FSV Mainz 05          1-1 (1-0)  Bor. Mönchengladbach
+         SV Darmstadt 98          0-6 (0-5)  FC Augsburg
+         1. FC Union Berlin       0-2 (0-1)  Borussia Dortmund
+  18.30  VfL Wolfsburg            2-3 (0-1)  VfB Stuttgart
+[Sun Mar/3]
+  15.30  1. FC Köln               0-2 (0-1)  Bayer 04 Leverkusen
+  17.30  TSG 1899 Hoffenheim      2-1 (2-0)  Werder Bremen
+
+
+Matchday 25
+[Fri Mar/8]
+  20.30  VfB Stuttgart            2-0 (1-0)  1. FC Union Berlin
+[Sat Mar/9]
+  15.30  Bor. Mönchengladbach     3-3 (1-1)  1. FC Köln
+         FC Augsburg              1-0 (1-0)  1. FC Heidenheim
+         RB Leipzig               2-0 (1-0)  SV Darmstadt 98
+         Bayern München           8-1 (3-1)  1. FSV Mainz 05
+  18.30  Werder Bremen            1-2 (0-2)  Borussia Dortmund
+[Sun Mar/10]
+  15.30  VfL Bochum               1-2 (0-1)  SC Freiburg
+  17.30  Eintracht Frankfurt      3-1 (1-1)  TSG 1899 Hoffenheim
+  19.30  Bayer 04 Leverkusen      2-0 (1-0)  VfL Wolfsburg
+
+
+Matchday 26
+[Fri Mar/15]
+  20.30  1. FC Köln               1-5 (1-1)  RB Leipzig
+[Sat Mar/16]
+  15.30  1. FC Heidenheim         1-1 (0-1)  Bor. Mönchengladbach
+         1. FC Union Berlin       2-1 (0-0)  Werder Bremen
+         1. FSV Mainz 05          2-0 (1-0)  VfL Bochum
+         VfL Wolfsburg            1-3 (1-1)  FC Augsburg
+         SV Darmstadt 98          2-5 (1-2)  Bayern München
+  18.30  TSG 1899 Hoffenheim      0-3 (0-2)  VfB Stuttgart
+[Sun Mar/17]
+  15.30  SC Freiburg              2-3 (1-2)  Bayer 04 Leverkusen
+  17.30  Borussia Dortmund        3-1 (1-1)  Eintracht Frankfurt
+
+
+Matchday 27
+[Sat Mar/30]
+  15.30  Eintracht Frankfurt      0-0  1. FC Union Berlin
+         Bor. Mönchengladbach     0-3 (0-1)  SC Freiburg
+         Werder Bremen            0-2 (0-1)  VfL Wolfsburg
+         RB Leipzig               0-0  1. FSV Mainz 05
+         Bayer 04 Leverkusen      2-1 (0-1)  TSG 1899 Hoffenheim
+  18.30  Bayern München           0-2 (0-1)  Borussia Dortmund
+[Sun Mar/31]
+  15.30  FC Augsburg              1-1 (1-1)  1. FC Köln
+  17.30  VfB Stuttgart            3-3 (1-0)  1. FC Heidenheim
+  19.30  VfL Bochum               2-2 (1-0)  SV Darmstadt 98
+
+
+Matchday 28
+[Fri Apr/5]
+  20.30  Eintracht Frankfurt      1-1 (0-0)  Werder Bremen
+[Sat Apr/6]
+  15.30  SC Freiburg              1-4 (0-3)  RB Leipzig
+         1. FC Union Berlin       0-1 (0-1)  Bayer 04 Leverkusen
+         1. FC Köln               2-1 (0-0)  VfL Bochum
+         1. FSV Mainz 05          4-0 (1-0)  SV Darmstadt 98
+         1. FC Heidenheim         3-2 (0-2)  Bayern München
+  18.30  Borussia Dortmund        0-1 (0-0)  VfB Stuttgart
+[Sun Apr/7]
+  15.30  TSG 1899 Hoffenheim      3-1 (2-0)  FC Augsburg
+  17.30  VfL Wolfsburg            1-3 (1-0)  Bor. Mönchengladbach
+
+
+Matchday 29
+[Fri Apr/12]
+  20.30  FC Augsburg              2-0 (0-0)  1. FC Union Berlin
+[Sat Apr/13]
+  15.30  Bor. Mönchengladbach     1-2 (1-2)  Borussia Dortmund
+         RB Leipzig               3-0 (1-0)  VfL Wolfsburg
+         Bayern München           2-0 (0-0)  1. FC Köln
+         1. FSV Mainz 05          4-1 (0-1)  TSG 1899 Hoffenheim
+         VfL Bochum               1-1 (0-0)  1. FC Heidenheim
+  18.30  VfB Stuttgart            3-0 (3-0)  Eintracht Frankfurt
+[Sun Apr/14]
+  15.30  SV Darmstadt 98          0-1 (0-1)  SC Freiburg
+  17.30  Bayer 04 Leverkusen      5-0 (1-0)  Werder Bremen
+
+
+Matchday 30
+[Fri Apr/19]
+  20.30  Eintracht Frankfurt      3-1 (0-1)  FC Augsburg
+[Sat Apr/20]
+  15.30  TSG 1899 Hoffenheim      4-3 (1-1)  Bor. Mönchengladbach
+         VfL Wolfsburg            1-0 (1-0)  VfL Bochum
+         1. FC Köln               0-2 (0-0)  SV Darmstadt 98
+         1. FC Heidenheim         1-2 (0-1)  RB Leipzig
+  18.30  1. FC Union Berlin       1-5 (0-2)  Bayern München
+[Sun Apr/21]
+  15.30  Werder Bremen            2-1 (1-0)  VfB Stuttgart
+  17.30  Borussia Dortmund        1-1 (0-0)  Bayer 04 Leverkusen
+  19.30  SC Freiburg              1-1 (1-1)  1. FSV Mainz 05
+
+
+Matchday 31
+[Fri Apr/26]
+  20.30  VfL Bochum               3-2 (2-0)  TSG 1899 Hoffenheim
+[Sat Apr/27]
+  15.30  RB Leipzig               4-1 (2-1)  Borussia Dortmund
+         Bayern München           2-1 (1-1)  Eintracht Frankfurt
+         SC Freiburg              1-2 (1-0)  VfL Wolfsburg
+         FC Augsburg              0-3 (0-0)  Werder Bremen
+  18.30  Bayer 04 Leverkusen      2-2 (0-0)  VfB Stuttgart
+[Sun Apr/28]
+  15.30  Bor. Mönchengladbach     0-0  1. FC Union Berlin
+  17.30  1. FSV Mainz 05          1-1 (1-0)  1. FC Köln
+  19.30  SV Darmstadt 98          0-1 (0-0)  1. FC Heidenheim
+
+
+Matchday 32
+[Fri May/3]
+  20.30  TSG 1899 Hoffenheim      1-1 (0-1)  RB Leipzig
+[Sat May/4]
+  15.30  Werder Bremen            2-2 (1-1)  Bor. Mönchengladbach
+         Borussia Dortmund        5-1 (4-1)  FC Augsburg
+         VfL Wolfsburg            3-0 (2-0)  SV Darmstadt 98
+         VfB Stuttgart            3-1 (1-1)  Bayern München
+  18.30  1. FC Köln               0-0  SC Freiburg
+[Sun May/5]
+  15.30  1. FC Union Berlin       3-4 (0-3)  VfL Bochum
+  17.30  Eintracht Frankfurt      1-5 (1-2)  Bayer 04 Leverkusen
+  19.30  1. FC Heidenheim         1-1 (0-1)  1. FSV Mainz 05
+
+
+Matchday 33
+[Fri May/10]
+  20.30  FC Augsburg              0-1 (0-0)  VfB Stuttgart
+[Sat May/11]
+  15.30  Bor. Mönchengladbach     1-1 (1-1)  Eintracht Frankfurt
+         RB Leipzig               1-1 (0-1)  Werder Bremen
+         SC Freiburg              1-1 (1-1)  1. FC Heidenheim
+         1. FC Köln               3-2 (1-2)  1. FC Union Berlin
+  18.30  1. FSV Mainz 05          3-0 (3-0)  Borussia Dortmund
+[Sun May/12]
+  15.30  SV Darmstadt 98          0-6 (0-5)  TSG 1899 Hoffenheim
+  17.30  Bayern München           2-0 (2-0)  VfL Wolfsburg
+  19.30  VfL Bochum               0-5 (0-2)  Bayer 04 Leverkusen
+
+
+Matchday 34
+[Sat May/18]
+  15.30  TSG 1899 Hoffenheim      4-2 (1-2)  Bayern München
+         Eintracht Frankfurt      2-2 (0-1)  RB Leipzig
+         1. FC Union Berlin       2-1 (0-0)  SC Freiburg
+         VfL Wolfsburg            1-3 (1-1)  1. FSV Mainz 05
+         VfB Stuttgart            4-0 (2-0)  Bor. Mönchengladbach
+         1. FC Heidenheim         4-1 (3-0)  1. FC Köln
+         Werder Bremen            4-1 (1-0)  VfL Bochum
+         Bayer 04 Leverkusen      2-1 (2-0)  FC Augsburg
+         Borussia Dortmund        4-0 (2-0)  SV Darmstadt 98

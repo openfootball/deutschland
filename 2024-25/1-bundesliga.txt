@@ -19,17 +19,17 @@ Matchday 1
 
 Matchday 2
 [Fri Aug/30]
-  20.30  1. FC Union Berlin       -  FC St. Pauli 1910
+  20.30  1. FC Union Berlin       1-0 (1-0)  FC St. Pauli 1910
 [Sat Aug/31]
-  15.30  VfB Stuttgart            -  1. FSV Mainz 05
-         Eintracht Frankfurt      -  TSG 1899 Hoffenheim
-         SV Werder Bremen         -  Borussia Dortmund
-         VfL Bochum 1848          -  Borussia Mönchengladbach
-         Holstein Kiel            -  VfL Wolfsburg
-  18.30  Bayer 04 Leverkusen      -  RB Leipzig
+  15.30  VfB Stuttgart            3-3 (2-1)  1. FSV Mainz 05
+         Eintracht Frankfurt      3-1 (2-0)  TSG 1899 Hoffenheim
+         SV Werder Bremen         0-0  Borussia Dortmund
+         VfL Bochum 1848          0-2 (0-0)  Borussia Mönchengladbach
+         Holstein Kiel            0-2 (0-2)  VfL Wolfsburg
+  18.30  Bayer 04 Leverkusen      2-3 (2-1)  RB Leipzig
 [Sun Sep/1]
-  15.30  1. FC Heidenheim 1846    -  FC Augsburg
-  17.30  FC Bayern München        -  SC Freiburg
+  15.30  1. FC Heidenheim 1846    4-0 (2-0)  FC Augsburg
+  17.30  FC Bayern München        2-0 (1-0)  SC Freiburg
 
 
 Matchday 3
@@ -78,94 +78,108 @@ Matchday 5
 
 
 Matchday 6
+[Fri Oct/4]
+  20.30  FC Augsburg              -  Borussia Mönchengladbach
 [Sat Oct/5]
-  Bayer 04 Leverkusen      -  Holstein Kiel
-  VfB Stuttgart            -  TSG 1899 Hoffenheim
-  Eintracht Frankfurt      -  FC Bayern München
-  1. FC Heidenheim 1846    -  RB Leipzig
-  SV Werder Bremen         -  SC Freiburg
-  FC Augsburg              -  Borussia Mönchengladbach
-  1. FC Union Berlin       -  Borussia Dortmund
-  VfL Bochum 1848          -  VfL Wolfsburg
-  FC St. Pauli 1910        -  1. FSV Mainz 05
+  15.30  Bayer 04 Leverkusen      -  Holstein Kiel
+         SV Werder Bremen         -  SC Freiburg
+         1. FC Union Berlin       -  Borussia Dortmund
+         VfL Bochum 1848          -  VfL Wolfsburg
+  18.30  FC St. Pauli 1910        -  1. FSV Mainz 05
+[Sun Oct/6]
+  15.30  1. FC Heidenheim 1846    -  RB Leipzig
+  17.30  Eintracht Frankfurt      -  FC Bayern München
+  19.30  VfB Stuttgart            -  TSG 1899 Hoffenheim
 
 
 Matchday 7
+[Fri Oct/18]
+  20.30  Borussia Dortmund        -  FC St. Pauli 1910
 [Sat Oct/19]
-  Bayer 04 Leverkusen      -  Eintracht Frankfurt
-  FC Bayern München        -  VfB Stuttgart
-  Borussia Dortmund        -  FC St. Pauli 1910
-  TSG 1899 Hoffenheim      -  VfL Bochum 1848
-  SC Freiburg              -  FC Augsburg
-  VfL Wolfsburg            -  SV Werder Bremen
-  1. FSV Mainz 05          -  RB Leipzig
-  Borussia Mönchengladbach  -  1. FC Heidenheim 1846
-  Holstein Kiel            -  1. FC Union Berlin
+  15.30  Bayer 04 Leverkusen      -  Eintracht Frankfurt
+         TSG 1899 Hoffenheim      -  VfL Bochum 1848
+         SC Freiburg              -  FC Augsburg
+         1. FSV Mainz 05          -  RB Leipzig
+         Borussia Mönchengladbach  -  1. FC Heidenheim 1846
+  18.30  FC Bayern München        -  VfB Stuttgart
+[Sun Oct/20]
+  15.30  Holstein Kiel            -  1. FC Union Berlin
+  17.30  VfL Wolfsburg            -  SV Werder Bremen
 
 
 Matchday 8
+[Fri Oct/25]
+  20.30  1. FSV Mainz 05          -  Borussia Mönchengladbach
 [Sat Oct/26]
-  VfB Stuttgart            -  Holstein Kiel
-  RB Leipzig               -  SC Freiburg
-  1. FC Heidenheim 1846    -  TSG 1899 Hoffenheim
-  SV Werder Bremen         -  Bayer 04 Leverkusen
-  FC Augsburg              -  Borussia Dortmund
-  1. FSV Mainz 05          -  Borussia Mönchengladbach
-  1. FC Union Berlin       -  Eintracht Frankfurt
-  VfL Bochum 1848          -  FC Bayern München
-  FC St. Pauli 1910        -  VfL Wolfsburg
+  15.30  VfB Stuttgart            -  Holstein Kiel
+         RB Leipzig               -  SC Freiburg
+         FC Augsburg              -  Borussia Dortmund
+         FC St. Pauli 1910        -  VfL Wolfsburg
+  18.30  SV Werder Bremen         -  Bayer 04 Leverkusen
+[Sun Oct/27]
+  15.30  VfL Bochum 1848          -  FC Bayern München
+  17.30  1. FC Union Berlin       -  Eintracht Frankfurt
+  19.30  1. FC Heidenheim 1846    -  TSG 1899 Hoffenheim
 
 
 Matchday 9
+[Fri Nov/1]
+  20.30  Bayer 04 Leverkusen      -  VfB Stuttgart
 [Sat Nov/2]
-  Bayer 04 Leverkusen      -  VfB Stuttgart
-  FC Bayern München        -  1. FC Union Berlin
-  Borussia Dortmund        -  RB Leipzig
-  Eintracht Frankfurt      -  VfL Bochum 1848
-  TSG 1899 Hoffenheim      -  FC St. Pauli 1910
-  SC Freiburg              -  1. FSV Mainz 05
-  VfL Wolfsburg            -  FC Augsburg
-  Borussia Mönchengladbach  -  SV Werder Bremen
-  Holstein Kiel            -  1. FC Heidenheim 1846
+  15.30  FC Bayern München        -  1. FC Union Berlin
+         Eintracht Frankfurt      -  VfL Bochum 1848
+         TSG 1899 Hoffenheim      -  FC St. Pauli 1910
+         VfL Wolfsburg            -  FC Augsburg
+         Holstein Kiel            -  1. FC Heidenheim 1846
+  18.30  Borussia Dortmund        -  RB Leipzig
+[Sun Nov/3]
+  15.30  SC Freiburg              -  1. FSV Mainz 05
+  17.30  Borussia Mönchengladbach  -  SV Werder Bremen
 
 
 Matchday 10
+[Fri Nov/8]
+  20.30  1. FC Union Berlin       -  SC Freiburg
 [Sat Nov/9]
-  VfB Stuttgart            -  Eintracht Frankfurt
-  RB Leipzig               -  Borussia Mönchengladbach
-  1. FC Heidenheim 1846    -  VfL Wolfsburg
-  SV Werder Bremen         -  Holstein Kiel
-  FC Augsburg              -  TSG 1899 Hoffenheim
-  1. FSV Mainz 05          -  Borussia Dortmund
-  1. FC Union Berlin       -  SC Freiburg
-  VfL Bochum 1848          -  Bayer 04 Leverkusen
-  FC St. Pauli 1910        -  FC Bayern München
+  15.30  SV Werder Bremen         -  Holstein Kiel
+         1. FSV Mainz 05          -  Borussia Dortmund
+         VfL Bochum 1848          -  Bayer 04 Leverkusen
+         FC St. Pauli 1910        -  FC Bayern München
+  18.30  RB Leipzig               -  Borussia Mönchengladbach
+[Sun Nov/10]
+  15.30  FC Augsburg              -  TSG 1899 Hoffenheim
+  17.30  VfB Stuttgart            -  Eintracht Frankfurt
+  19.30  1. FC Heidenheim 1846    -  VfL Wolfsburg
 
 
 Matchday 11
+[Fri Nov/22]
+  20.30  FC Bayern München        -  FC Augsburg
 [Sat Nov/23]
-  Bayer 04 Leverkusen      -  1. FC Heidenheim 1846
-  VfB Stuttgart            -  VfL Bochum 1848
-  FC Bayern München        -  FC Augsburg
-  Borussia Dortmund        -  SC Freiburg
-  Eintracht Frankfurt      -  SV Werder Bremen
-  TSG 1899 Hoffenheim      -  RB Leipzig
-  VfL Wolfsburg            -  1. FC Union Berlin
-  Borussia Mönchengladbach  -  FC St. Pauli 1910
-  Holstein Kiel            -  1. FSV Mainz 05
+  15.30  Bayer 04 Leverkusen      -  1. FC Heidenheim 1846
+         VfB Stuttgart            -  VfL Bochum 1848
+         Borussia Dortmund        -  SC Freiburg
+         TSG 1899 Hoffenheim      -  RB Leipzig
+         VfL Wolfsburg            -  1. FC Union Berlin
+  18.30  Eintracht Frankfurt      -  SV Werder Bremen
+[Sun Nov/24]
+  15.30  Holstein Kiel            -  1. FSV Mainz 05
+  17.30  Borussia Mönchengladbach  -  FC St. Pauli 1910
 
 
 Matchday 12
+[Fri Nov/29]
+  20.30  FC St. Pauli 1910        -  Holstein Kiel
 [Sat Nov/30]
-  RB Leipzig               -  VfL Wolfsburg
-  Borussia Dortmund        -  FC Bayern München
-  1. FC Heidenheim 1846    -  Eintracht Frankfurt
-  SV Werder Bremen         -  VfB Stuttgart
-  SC Freiburg              -  Borussia Mönchengladbach
-  FC Augsburg              -  VfL Bochum 1848
-  1. FSV Mainz 05          -  TSG 1899 Hoffenheim
-  1. FC Union Berlin       -  Bayer 04 Leverkusen
-  FC St. Pauli 1910        -  Holstein Kiel
+  15.30  RB Leipzig               -  VfL Wolfsburg
+         SV Werder Bremen         -  VfB Stuttgart
+         SC Freiburg              -  Borussia Mönchengladbach
+         FC Augsburg              -  VfL Bochum 1848
+         1. FC Union Berlin       -  Bayer 04 Leverkusen
+  18.30  Borussia Dortmund        -  FC Bayern München
+[Sun Dec/1]
+  15.30  1. FSV Mainz 05          -  TSG 1899 Hoffenheim
+  17.30  1. FC Heidenheim 1846    -  Eintracht Frankfurt
 
 
 Matchday 13

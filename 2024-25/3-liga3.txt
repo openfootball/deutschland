@@ -1,0 +1,549 @@
+= Deutsche 3. Liga 2024/25
+
+
+
+Matchday 1
+[Fri Aug/2]
+  19.00  TSV 1860 München         0-1 (0-0)  1. FC Saarbrücken
+[Sat Aug/3]
+  14.00  Rot-Weiss Essen          1-2 (1-1)  Alemannia Aachen
+         Erzgebirge Aue           2-1 (2-1)  Hannover 96 II
+         Borussia Dortmund II     3-0 (0-0)  SpVgg Unterhaching
+         SC Verl                  2-2 (1-1)  SV Wehen Wiesbaden
+         SV Sandhausen            1-0 (0-0)  VfL Osnabrück
+  16.30  Hansa Rostock            1-1 (1-0)  VfB Stuttgart II
+[Sun Aug/4]
+  16.30  Energie Cottbus          1-2 (1-0)  Arminia Bielefeld
+  19.30  FC Ingolstadt 04         2-1 (1-0)  Waldhof Mannheim
+  13.30  Viktoria Köln            1-2 (0-0)  Dynamo Dresden
+
+
+Matchday 2
+[Fri Aug/9]
+  19.00  Dynamo Dresden           4-2 (2-2)  Energie Cottbus
+[Sat Aug/10]
+  14.00  SpVgg Unterhaching       2-1 (1-1)  FC Ingolstadt 04
+         SV Wehen Wiesbaden       1-0 (1-0)  Hansa Rostock
+         Waldhof Mannheim         1-2 (1-0)  Viktoria Köln
+         VfL Osnabrück            0-2 (0-0)  Erzgebirge Aue
+         Alemannia Aachen         1-1 (0-1)  SC Verl
+  16.30  Arminia Bielefeld        1-0 (0-0)  Borussia Dortmund II
+[Sun Aug/11]
+  16.30  VfB Stuttgart II         3-1 (1-0)  TSV 1860 München
+  19.30  1. FC Saarbrücken        0-1 (0-0)  SV Sandhausen
+  13.30  Hannover 96 II           1-3 (1-1)  Rot-Weiss Essen
+
+
+Matchday 3
+[Fri Aug/23]
+  19.00  Erzgebirge Aue           2-0 (2-0)  Dynamo Dresden
+[Sat Aug/24]
+  14.00  VfL Osnabrück            4-2 (1-1)  SpVgg Unterhaching
+         Hansa Rostock            1-1 (1-0)  Borussia Dortmund II
+         Rot-Weiss Essen          0-0  Arminia Bielefeld
+         1. FC Saarbrücken        2-3 (2-2)  FC Ingolstadt 04
+         SV Sandhausen            0-1 (0-1)  Hannover 96 II
+  16.30  Energie Cottbus          2-1 (1-0)  Alemannia Aachen
+[Sun Aug/25]
+  16.30  SC Verl                  1-1 (0-1)  Waldhof Mannheim
+  19.30  VfB Stuttgart II         2-2 (2-1)  SV Wehen Wiesbaden
+  13.30  TSV 1860 München         1-3 (0-1)  Viktoria Köln
+
+
+Matchday 4
+[Fri Aug/30]
+  19.00  Viktoria Köln            3-0 (1-0)  Hansa Rostock
+[Sat Aug/31]
+  14.00  Alemannia Aachen         1-2 (1-0)  Erzgebirge Aue
+         Waldhof Mannheim         0-1 (0-1)  1. FC Saarbrücken
+         Dynamo Dresden           2-0 (1-0)  VfB Stuttgart II
+         Arminia Bielefeld        1-1 (0-0)  SV Sandhausen
+         FC Ingolstadt 04         1-2 (0-1)  TSV 1860 München
+  16.30  Borussia Dortmund II     1-1 (1-0)  VfL Osnabrück
+[Sun Sep/1]
+  16.30  SpVgg Unterhaching       2-0 (0-0)  Rot-Weiss Essen
+  19.30  Hannover 96 II           1-2 (0-2)  SC Verl
+  13.30  SV Wehen Wiesbaden       2-1 (1-0)  Energie Cottbus
+
+
+Matchday 5
+[Fri Sep/13]
+  19.00  SV Sandhausen            -  Borussia Dortmund II
+[Sat Sep/14]
+  14.00  Hansa Rostock            -  Waldhof Mannheim
+         VfB Stuttgart II         -  FC Ingolstadt 04
+         Rot-Weiss Essen          -  SV Wehen Wiesbaden
+         TSV 1860 München         -  Dynamo Dresden
+         1. FC Saarbrücken        -  SpVgg Unterhaching
+  16.30  VfL Osnabrück            -  Hannover 96 II
+[Sun Sep/15]
+  16.30  SC Verl                  -  Energie Cottbus
+  19.30  Alemannia Aachen         -  Viktoria Köln
+  13.30  Erzgebirge Aue           -  Arminia Bielefeld
+
+
+Matchday 6
+[Fri Sep/20]
+  19.00  SpVgg Unterhaching       -  Erzgebirge Aue
+[Sat Sep/21]
+  14.00  Waldhof Mannheim         -  VfL Osnabrück
+         FC Ingolstadt 04         -  Rot-Weiss Essen
+         Energie Cottbus          -  VfB Stuttgart II
+         SV Wehen Wiesbaden       -  SV Sandhausen
+         Dynamo Dresden           -  Hansa Rostock
+  16.30  Arminia Bielefeld        -  TSV 1860 München
+[Sun Sep/22]
+  16.30  Viktoria Köln            -  SC Verl
+  19.30  Borussia Dortmund II     -  Alemannia Aachen
+  13.30  Hannover 96 II           -  1. FC Saarbrücken
+
+
+Matchday 7
+[Tue Sep/24]
+  19.00  VfB Stuttgart II         -  Arminia Bielefeld
+         Erzgebirge Aue           -  SV Wehen Wiesbaden
+         SV Sandhausen            -  FC Ingolstadt 04
+         VfL Osnabrück            -  Energie Cottbus
+         Hansa Rostock            -  SpVgg Unterhaching
+[Wed Sep/25]
+  19.00  TSV 1860 München         -  Hannover 96 II
+         SC Verl                  -  Dynamo Dresden
+         Alemannia Aachen         -  Waldhof Mannheim
+         Rot-Weiss Essen          -  Borussia Dortmund II
+         1. FC Saarbrücken        -  Viktoria Köln
+
+
+Matchday 8
+[Fri Sep/27]
+  19.00  SpVgg Unterhaching       -  SV Sandhausen
+[Sat Sep/28]
+  14.00  Waldhof Mannheim         -  Rot-Weiss Essen
+         Viktoria Köln            -  Erzgebirge Aue
+         SV Wehen Wiesbaden       -  VfL Osnabrück
+         Borussia Dortmund II     -  TSV 1860 München
+         Hannover 96 II           -  VfB Stuttgart II
+  16.30  Energie Cottbus          -  1. FC Saarbrücken
+[Sun Sep/29]
+  16.30  Dynamo Dresden           -  Alemannia Aachen
+  19.30  Arminia Bielefeld        -  SC Verl
+  13.30  FC Ingolstadt 04         -  Hansa Rostock
+
+
+Matchday 9
+[Sat Oct/5]
+  Erzgebirge Aue           -  Hansa Rostock
+  1. FC Saarbrücken        -  Arminia Bielefeld
+  VfL Osnabrück            -  VfB Stuttgart II
+  Borussia Dortmund II     -  Dynamo Dresden
+  Alemannia Aachen         -  FC Ingolstadt 04
+  TSV 1860 München         -  SV Wehen Wiesbaden
+  SV Sandhausen            -  Waldhof Mannheim
+  Hannover 96 II           -  Energie Cottbus
+  Rot-Weiss Essen          -  Viktoria Köln
+  SC Verl                  -  SpVgg Unterhaching
+
+
+Matchday 10
+[Sat Oct/19]
+  Hansa Rostock            -  Alemannia Aachen
+  FC Ingolstadt 04         -  SC Verl
+  Viktoria Köln            -  Borussia Dortmund II
+  SV Wehen Wiesbaden       -  Hannover 96 II
+  Dynamo Dresden           -  Rot-Weiss Essen
+  SpVgg Unterhaching       -  TSV 1860 München
+  Arminia Bielefeld        -  VfL Osnabrück
+  Waldhof Mannheim         -  Erzgebirge Aue
+  VfB Stuttgart II         -  1. FC Saarbrücken
+  Energie Cottbus          -  SV Sandhausen
+
+
+Matchday 11
+[Tue Oct/22]
+  Hannover 96 II           -  Arminia Bielefeld
+  SV Wehen Wiesbaden       -  Dynamo Dresden
+  Alemannia Aachen         -  SpVgg Unterhaching
+  Rot-Weiss Essen          -  SC Verl
+  TSV 1860 München         -  VfL Osnabrück
+  1. FC Saarbrücken        -  Hansa Rostock
+  Viktoria Köln            -  FC Ingolstadt 04
+  Erzgebirge Aue           -  Energie Cottbus
+  Borussia Dortmund II     -  Waldhof Mannheim
+  SV Sandhausen            -  VfB Stuttgart II
+
+
+Matchday 12
+[Sat Oct/26]
+  Arminia Bielefeld        -  Alemannia Aachen
+  Waldhof Mannheim         -  SV Wehen Wiesbaden
+  VfB Stuttgart II         -  Erzgebirge Aue
+  VfL Osnabrück            -  1. FC Saarbrücken
+  Hansa Rostock            -  Rot-Weiss Essen
+  SpVgg Unterhaching       -  Viktoria Köln
+  SC Verl                  -  SV Sandhausen
+  FC Ingolstadt 04         -  Borussia Dortmund II
+  Energie Cottbus          -  TSV 1860 München
+  Dynamo Dresden           -  Hannover 96 II
+
+
+Matchday 13
+[Sat Nov/2]
+  Erzgebirge Aue           -  1. FC Saarbrücken
+  FC Ingolstadt 04         -  Dynamo Dresden
+  SV Wehen Wiesbaden       -  Arminia Bielefeld
+  Borussia Dortmund II     -  SC Verl
+  SpVgg Unterhaching       -  Waldhof Mannheim
+  Rot-Weiss Essen          -  Energie Cottbus
+  SV Sandhausen            -  TSV 1860 München
+  Viktoria Köln            -  VfB Stuttgart II
+  Hansa Rostock            -  VfL Osnabrück
+  Alemannia Aachen         -  Hannover 96 II
+
+
+Matchday 14
+[Sat Nov/9]
+  Erzgebirge Aue           -  Rot-Weiss Essen
+  VfB Stuttgart II         -  SpVgg Unterhaching
+  Hannover 96 II           -  FC Ingolstadt 04
+  VfL Osnabrück            -  Dynamo Dresden
+  Energie Cottbus          -  Borussia Dortmund II
+  Arminia Bielefeld        -  Viktoria Köln
+  SV Sandhausen            -  Alemannia Aachen
+  1. FC Saarbrücken        -  SV Wehen Wiesbaden
+  TSV 1860 München         -  Waldhof Mannheim
+  SC Verl                  -  Hansa Rostock
+
+
+Matchday 15
+[Sat Nov/23]
+  Hansa Rostock            -  Arminia Bielefeld
+  FC Ingolstadt 04         -  VfL Osnabrück
+  Viktoria Köln            -  Energie Cottbus
+  Dynamo Dresden           -  1. FC Saarbrücken
+  Borussia Dortmund II     -  Erzgebirge Aue
+  SpVgg Unterhaching       -  SV Wehen Wiesbaden
+  Rot-Weiss Essen          -  SV Sandhausen
+  Waldhof Mannheim         -  Hannover 96 II
+  Alemannia Aachen         -  TSV 1860 München
+  SC Verl                  -  VfB Stuttgart II
+
+
+Matchday 16
+[Sat Nov/30]
+  1. FC Saarbrücken        -  Rot-Weiss Essen
+  VfB Stuttgart II         -  Waldhof Mannheim
+  VfL Osnabrück            -  Alemannia Aachen
+  Energie Cottbus          -  SpVgg Unterhaching
+  SV Wehen Wiesbaden       -  Viktoria Köln
+  Arminia Bielefeld        -  FC Ingolstadt 04
+  SV Sandhausen            -  Dynamo Dresden
+  Hannover 96 II           -  Borussia Dortmund II
+  Erzgebirge Aue           -  SC Verl
+  TSV 1860 München         -  Hansa Rostock
+
+
+Matchday 17
+[Sat Dec/7]
+  Rot-Weiss Essen          -  TSV 1860 München
+  FC Ingolstadt 04         -  Erzgebirge Aue
+  Hansa Rostock            -  SV Sandhausen
+  Dynamo Dresden           -  Arminia Bielefeld
+  Borussia Dortmund II     -  SV Wehen Wiesbaden
+  SpVgg Unterhaching       -  Hannover 96 II
+  Alemannia Aachen         -  VfB Stuttgart II
+  Waldhof Mannheim         -  Energie Cottbus
+  Viktoria Köln            -  VfL Osnabrück
+  SC Verl                  -  1. FC Saarbrücken
+
+
+Matchday 18
+[Sat Dec/14]
+  1. FC Saarbrücken        -  Alemannia Aachen
+  VfB Stuttgart II         -  Borussia Dortmund II
+  Hannover 96 II           -  Viktoria Köln
+  Energie Cottbus          -  Hansa Rostock
+  Dynamo Dresden           -  Waldhof Mannheim
+  Arminia Bielefeld        -  SpVgg Unterhaching
+  SV Sandhausen            -  Erzgebirge Aue
+  VfL Osnabrück            -  Rot-Weiss Essen
+  SV Wehen Wiesbaden       -  FC Ingolstadt 04
+  TSV 1860 München         -  SC Verl
+
+
+Matchday 19
+[Sat Dec/21]
+  Erzgebirge Aue           -  TSV 1860 München
+  Waldhof Mannheim         -  Arminia Bielefeld
+  FC Ingolstadt 04         -  Energie Cottbus
+  Hansa Rostock            -  Hannover 96 II
+  Borussia Dortmund II     -  1. FC Saarbrücken
+  Alemannia Aachen         -  SV Wehen Wiesbaden
+  Rot-Weiss Essen          -  VfB Stuttgart II
+  Viktoria Köln            -  SV Sandhausen
+  SpVgg Unterhaching       -  Dynamo Dresden
+  SC Verl                  -  VfL Osnabrück
+
+
+Matchday 20
+[Sat Jan/18]
+  1. FC Saarbrücken        -  TSV 1860 München
+  Alemannia Aachen         -  Rot-Weiss Essen
+  Dynamo Dresden           -  Viktoria Köln
+  Hannover 96 II           -  Erzgebirge Aue
+  VfB Stuttgart II         -  Hansa Rostock
+  SpVgg Unterhaching       -  Borussia Dortmund II
+  SV Wehen Wiesbaden       -  SC Verl
+  Waldhof Mannheim         -  FC Ingolstadt 04
+  Arminia Bielefeld        -  Energie Cottbus
+  VfL Osnabrück            -  SV Sandhausen
+
+
+Matchday 21
+[Sat Jan/25]
+  FC Ingolstadt 04         -  SpVgg Unterhaching
+  SV Sandhausen            -  1. FC Saarbrücken
+  TSV 1860 München         -  VfB Stuttgart II
+  Rot-Weiss Essen          -  Hannover 96 II
+  Hansa Rostock            -  SV Wehen Wiesbaden
+  Energie Cottbus          -  Dynamo Dresden
+  Borussia Dortmund II     -  Arminia Bielefeld
+  Viktoria Köln            -  Waldhof Mannheim
+  Erzgebirge Aue           -  VfL Osnabrück
+  SC Verl                  -  Alemannia Aachen
+
+
+Matchday 22
+[Sat Feb/1]
+  Dynamo Dresden           -  Erzgebirge Aue
+  SV Wehen Wiesbaden       -  VfB Stuttgart II
+  SpVgg Unterhaching       -  VfL Osnabrück
+  Borussia Dortmund II     -  Hansa Rostock
+  Arminia Bielefeld        -  Rot-Weiss Essen
+  Viktoria Köln            -  TSV 1860 München
+  Waldhof Mannheim         -  SC Verl
+  FC Ingolstadt 04         -  1. FC Saarbrücken
+  Alemannia Aachen         -  Energie Cottbus
+  Hannover 96 II           -  SV Sandhausen
+
+
+Matchday 23
+[Sat Feb/8]
+  Erzgebirge Aue           -  Alemannia Aachen
+  1. FC Saarbrücken        -  Waldhof Mannheim
+  Energie Cottbus          -  SV Wehen Wiesbaden
+  VfB Stuttgart II         -  Dynamo Dresden
+  VfL Osnabrück            -  Borussia Dortmund II
+  Rot-Weiss Essen          -  SpVgg Unterhaching
+  SV Sandhausen            -  Arminia Bielefeld
+  TSV 1860 München         -  FC Ingolstadt 04
+  Hansa Rostock            -  Viktoria Köln
+  SC Verl                  -  Hannover 96 II
+
+
+Matchday 24
+[Sat Feb/15]
+  Waldhof Mannheim         -  Hansa Rostock
+  FC Ingolstadt 04         -  VfB Stuttgart II
+  Viktoria Köln            -  Alemannia Aachen
+  SV Wehen Wiesbaden       -  Rot-Weiss Essen
+  Dynamo Dresden           -  TSV 1860 München
+  Energie Cottbus          -  SC Verl
+  Borussia Dortmund II     -  SV Sandhausen
+  SpVgg Unterhaching       -  1. FC Saarbrücken
+  Arminia Bielefeld        -  Erzgebirge Aue
+  Hannover 96 II           -  VfL Osnabrück
+
+
+Matchday 25
+[Sat Feb/22]
+  VfL Osnabrück            -  Waldhof Mannheim
+  Rot-Weiss Essen          -  FC Ingolstadt 04
+  VfB Stuttgart II         -  Energie Cottbus
+  SV Sandhausen            -  SV Wehen Wiesbaden
+  Alemannia Aachen         -  Borussia Dortmund II
+  Erzgebirge Aue           -  SpVgg Unterhaching
+  TSV 1860 München         -  Arminia Bielefeld
+  SC Verl                  -  Viktoria Köln
+  1. FC Saarbrücken        -  Hannover 96 II
+  Hansa Rostock            -  Dynamo Dresden
+
+
+Matchday 26
+[Sat Mar/1]
+  SpVgg Unterhaching       -  Hansa Rostock
+  Hannover 96 II           -  TSV 1860 München
+  Dynamo Dresden           -  SC Verl
+  Arminia Bielefeld        -  VfB Stuttgart II
+  SV Wehen Wiesbaden       -  Erzgebirge Aue
+  Waldhof Mannheim         -  Alemannia Aachen
+  Borussia Dortmund II     -  Rot-Weiss Essen
+  FC Ingolstadt 04         -  SV Sandhausen
+  Viktoria Köln            -  1. FC Saarbrücken
+  Energie Cottbus          -  VfL Osnabrück
+
+
+Matchday 27
+[Sat Mar/8]
+  Rot-Weiss Essen          -  Waldhof Mannheim
+  Erzgebirge Aue           -  Viktoria Köln
+  1. FC Saarbrücken        -  Energie Cottbus
+  VfL Osnabrück            -  SV Wehen Wiesbaden
+  TSV 1860 München         -  Borussia Dortmund II
+  SV Sandhausen            -  SpVgg Unterhaching
+  SC Verl                  -  Arminia Bielefeld
+  Hansa Rostock            -  FC Ingolstadt 04
+  VfB Stuttgart II         -  Hannover 96 II
+  Alemannia Aachen         -  Dynamo Dresden
+
+
+Matchday 28
+[Tue Mar/11]
+  Hansa Rostock            -  Erzgebirge Aue
+  Arminia Bielefeld        -  1. FC Saarbrücken
+  VfB Stuttgart II         -  VfL Osnabrück
+  Dynamo Dresden           -  Borussia Dortmund II
+  FC Ingolstadt 04         -  Alemannia Aachen
+  SV Wehen Wiesbaden       -  TSV 1860 München
+  Waldhof Mannheim         -  SV Sandhausen
+  Energie Cottbus          -  Hannover 96 II
+  Viktoria Köln            -  Rot-Weiss Essen
+  SpVgg Unterhaching       -  SC Verl
+
+
+Matchday 29
+[Sat Mar/15]
+  Alemannia Aachen         -  Hansa Rostock
+  SC Verl                  -  FC Ingolstadt 04
+  Borussia Dortmund II     -  Viktoria Köln
+  Hannover 96 II           -  SV Wehen Wiesbaden
+  Rot-Weiss Essen          -  Dynamo Dresden
+  TSV 1860 München         -  SpVgg Unterhaching
+  VfL Osnabrück            -  Arminia Bielefeld
+  Erzgebirge Aue           -  Waldhof Mannheim
+  1. FC Saarbrücken        -  VfB Stuttgart II
+  SV Sandhausen            -  Energie Cottbus
+
+
+Matchday 30
+[Sat Mar/29]
+  Arminia Bielefeld        -  Hannover 96 II
+  Dynamo Dresden           -  SV Wehen Wiesbaden
+  SpVgg Unterhaching       -  Alemannia Aachen
+  SC Verl                  -  Rot-Weiss Essen
+  VfL Osnabrück            -  TSV 1860 München
+  Hansa Rostock            -  1. FC Saarbrücken
+  FC Ingolstadt 04         -  Viktoria Köln
+  Energie Cottbus          -  Erzgebirge Aue
+  Waldhof Mannheim         -  Borussia Dortmund II
+  VfB Stuttgart II         -  SV Sandhausen
+
+
+Matchday 31
+[Sat Apr/5]
+  Alemannia Aachen         -  Arminia Bielefeld
+  SV Wehen Wiesbaden       -  Waldhof Mannheim
+  Erzgebirge Aue           -  VfB Stuttgart II
+  1. FC Saarbrücken        -  VfL Osnabrück
+  Rot-Weiss Essen          -  Hansa Rostock
+  Viktoria Köln            -  SpVgg Unterhaching
+  SV Sandhausen            -  SC Verl
+  Borussia Dortmund II     -  FC Ingolstadt 04
+  TSV 1860 München         -  Energie Cottbus
+  Hannover 96 II           -  Dynamo Dresden
+
+
+Matchday 32
+[Tue Apr/8]
+  1. FC Saarbrücken        -  Erzgebirge Aue
+  Dynamo Dresden           -  FC Ingolstadt 04
+  Arminia Bielefeld        -  SV Wehen Wiesbaden
+  SC Verl                  -  Borussia Dortmund II
+  Waldhof Mannheim         -  SpVgg Unterhaching
+  Energie Cottbus          -  Rot-Weiss Essen
+  TSV 1860 München         -  SV Sandhausen
+  VfB Stuttgart II         -  Viktoria Köln
+  VfL Osnabrück            -  Hansa Rostock
+  Hannover 96 II           -  Alemannia Aachen
+
+
+Matchday 33
+[Sat Apr/12]
+  Rot-Weiss Essen          -  Erzgebirge Aue
+  SpVgg Unterhaching       -  VfB Stuttgart II
+  FC Ingolstadt 04         -  Hannover 96 II
+  Dynamo Dresden           -  VfL Osnabrück
+  Borussia Dortmund II     -  Energie Cottbus
+  Viktoria Köln            -  Arminia Bielefeld
+  Alemannia Aachen         -  SV Sandhausen
+  SV Wehen Wiesbaden       -  1. FC Saarbrücken
+  Waldhof Mannheim         -  TSV 1860 München
+  Hansa Rostock            -  SC Verl
+
+
+Matchday 34
+[Sat Apr/19]
+  Arminia Bielefeld        -  Hansa Rostock
+  VfL Osnabrück            -  FC Ingolstadt 04
+  Energie Cottbus          -  Viktoria Köln
+  1. FC Saarbrücken        -  Dynamo Dresden
+  Erzgebirge Aue           -  Borussia Dortmund II
+  SV Wehen Wiesbaden       -  SpVgg Unterhaching
+  SV Sandhausen            -  Rot-Weiss Essen
+  Hannover 96 II           -  Waldhof Mannheim
+  TSV 1860 München         -  Alemannia Aachen
+  VfB Stuttgart II         -  SC Verl
+
+
+Matchday 35
+[Sat Apr/26]
+  Rot-Weiss Essen          -  1. FC Saarbrücken
+  Waldhof Mannheim         -  VfB Stuttgart II
+  Alemannia Aachen         -  VfL Osnabrück
+  SpVgg Unterhaching       -  Energie Cottbus
+  Viktoria Köln            -  SV Wehen Wiesbaden
+  FC Ingolstadt 04         -  Arminia Bielefeld
+  Dynamo Dresden           -  SV Sandhausen
+  Borussia Dortmund II     -  Hannover 96 II
+  SC Verl                  -  Erzgebirge Aue
+  Hansa Rostock            -  TSV 1860 München
+
+
+Matchday 36
+[Sat May/3]
+  TSV 1860 München         -  Rot-Weiss Essen
+  Erzgebirge Aue           -  FC Ingolstadt 04
+  SV Sandhausen            -  Hansa Rostock
+  Arminia Bielefeld        -  Dynamo Dresden
+  SV Wehen Wiesbaden       -  Borussia Dortmund II
+  Hannover 96 II           -  SpVgg Unterhaching
+  VfB Stuttgart II         -  Alemannia Aachen
+  Energie Cottbus          -  Waldhof Mannheim
+  VfL Osnabrück            -  Viktoria Köln
+  1. FC Saarbrücken        -  SC Verl
+
+
+Matchday 37
+[Sat May/10]
+  Alemannia Aachen         -  1. FC Saarbrücken
+  Borussia Dortmund II     -  VfB Stuttgart II
+  Viktoria Köln            -  Hannover 96 II
+  Hansa Rostock            -  Energie Cottbus
+  Waldhof Mannheim         -  Dynamo Dresden
+  SpVgg Unterhaching       -  Arminia Bielefeld
+  Erzgebirge Aue           -  SV Sandhausen
+  Rot-Weiss Essen          -  VfL Osnabrück
+  FC Ingolstadt 04         -  SV Wehen Wiesbaden
+  SC Verl                  -  TSV 1860 München
+
+
+Matchday 38
+[Sat May/17]
+  TSV 1860 München         -  Erzgebirge Aue
+  Arminia Bielefeld        -  Waldhof Mannheim
+  Energie Cottbus          -  FC Ingolstadt 04
+  Hannover 96 II           -  Hansa Rostock
+  1. FC Saarbrücken        -  Borussia Dortmund II
+  SV Wehen Wiesbaden       -  Alemannia Aachen
+  VfB Stuttgart II         -  Rot-Weiss Essen
+  SV Sandhausen            -  Viktoria Köln
+  Dynamo Dresden           -  SpVgg Unterhaching
+  VfL Osnabrück            -  SC Verl

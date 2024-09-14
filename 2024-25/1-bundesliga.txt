@@ -1,5 +1,9 @@
 = Deutsche Bundesliga 2024/25
 
+# Date       Fri Aug/23 2024 - Sat May/17 2025 (267d)
+# Teams      18
+# Matches    306
+
 
 
 Matchday 1

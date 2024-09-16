@@ -38,17 +38,17 @@ Matchday 2
 
 Matchday 3
 [Fri Sep/13]
-  20.30  Borussia Dortmund        -  1. FC Heidenheim 1846
+  20.30  Borussia Dortmund        4-2 (3-1)  1. FC Heidenheim 1846
 [Sat Sep/14]
-  15.30  RB Leipzig               -  1. FC Union Berlin
-         TSG 1899 Hoffenheim      -  Bayer 04 Leverkusen
-         SC Freiburg              -  VfL Bochum 1848
-         VfL Wolfsburg            -  Eintracht Frankfurt
-         Borussia Mönchengladbach  -  VfB Stuttgart
-  18.30  Holstein Kiel            -  FC Bayern München
+  15.30  RB Leipzig               0-0  1. FC Union Berlin
+         TSG 1899 Hoffenheim      1-4 (1-2)  Bayer 04 Leverkusen
+         SC Freiburg              2-1 (0-1)  VfL Bochum 1848
+         VfL Wolfsburg            1-2 (0-1)  Eintracht Frankfurt
+         Borussia Mönchengladbach  1-3 (1-1)  VfB Stuttgart
+  18.30  Holstein Kiel            1-6 (0-4)  FC Bayern München
 [Sun Sep/15]
-  15.30  FC Augsburg              -  FC St. Pauli 1910
-  17.30  1. FSV Mainz 05          -  SV Werder Bremen
+  15.30  FC Augsburg              3-1 (0-0)  FC St. Pauli 1910
+  17.30  1. FSV Mainz 05          1-2 (1-1)  SV Werder Bremen
 
 
 Matchday 4

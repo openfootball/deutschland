@@ -1,5 +1,9 @@
 = Deutsche 2. Bundesliga 2024/25
 
+# Date       Fri Aug/2 2024 - Sun May/18 2025 (289d)
+# Teams      18
+# Matches    306
+
 
 
 Matchday 1
@@ -64,17 +68,17 @@ Matchday 4
 
 Matchday 5
 [Fri Sep/13]
-  18.30  Karlsruher SC            -  FC Schalke 04
-         Preußen Münster          -  SC Paderborn 07
+  18.30  Karlsruher SC            2-0 (1-0)  FC Schalke 04
+         Preußen Münster          3-3 (1-1)  SC Paderborn 07
 [Sat Sep/14]
-  13.00  Hannover 96              -  1. FC Kaiserslautern
-         SSV Ulm 1846             -  1. FC Nürnberg
-  20.30  1. FC Köln               -  1. FC Magdeburg
-  13.00  SV Darmstadt 98          -  Eintracht Braunschweig
+  13.00  Hannover 96              3-1 (1-0)  1. FC Kaiserslautern
+         SSV Ulm 1846             1-2 (0-0)  1. FC Nürnberg
+  20.30  1. FC Köln               1-2 (0-0)  1. FC Magdeburg
+  13.00  SV Darmstadt 98          1-1 (1-0)  Eintracht Braunschweig
 [Sun Sep/15]
-  13.30  Hamburger SV             -  Jahn Regensburg
-         SpVgg Greuther Fürth     -  SV 07 Elversberg
-         Hertha BSC               -  Fortuna Düsseldorf
+  13.30  Hamburger SV             5-0 (2-0)  Jahn Regensburg
+         SpVgg Greuther Fürth     0-0  SV 07 Elversberg
+         Hertha BSC               0-2 (0-1)  Fortuna Düsseldorf
 
 
 Matchday 6

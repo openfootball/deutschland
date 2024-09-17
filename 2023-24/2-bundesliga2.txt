@@ -1,5 +1,10 @@
 = Deutsche 2. Bundesliga 2023/24
 
+# Date       Fri Jul/28 2023 - Sun May/19 2024 (296d)
+# Teams      18
+# Matches    306
+
+
 
 Matchday 1
 [Fri Jul/28]
@@ -11,9 +16,9 @@ Matchday 1
          SV Wehen Wiesbaden       1-1 (0-1)  1. FC Magdeburg
   20.30  Fortuna Düsseldorf       1-0 (0-0)  Hertha BSC
 [Sun Jul/30]
-  13.30  Eintracht Braunschweig   0-1 (0-0)  Holstein Kiel
+  13.30  Hansa Rostock            2-0 (1-0)  1. FC Nürnberg
+         Eintracht Braunschweig   0-1 (0-0)  Holstein Kiel
          SpVgg Greuther Fürth     5-0 (3-0)  SC Paderborn 07
-         Hansa Rostock            2-0 (1-0)  1. FC Nürnberg
 
 
 Matchday 2
@@ -21,14 +26,14 @@ Matchday 2
   18.30  Hertha BSC               0-1 (0-0)  SV Wehen Wiesbaden
          SC Paderborn 07          1-1 (0-0)  VfL Osnabrück
 [Sat Aug/5]
-  13.00  SV 07 Elversberg         1-2 (0-0)  Hansa Rostock
-         FC St. Pauli             0-0  Fortuna Düsseldorf
-         Holstein Kiel            2-1 (0-0)  SpVgg Greuther Fürth
+  13.00  Holstein Kiel            2-1 (0-0)  SpVgg Greuther Fürth
+         SV 07 Elversberg         1-2 (0-0)  Hansa Rostock
   20.30  FC Schalke 04            3-0 (1-0)  1. FC Kaiserslautern
+  13.00  FC St. Pauli             0-0  Fortuna Düsseldorf
 [Sun Aug/6]
-  13.30  1. FC Nürnberg           2-2 (0-2)  Hannover 96
+  13.30  1. FC Magdeburg          2-1 (2-0)  Eintracht Braunschweig
+         1. FC Nürnberg           2-2 (0-2)  Hannover 96
          Karlsruher SC            2-2 (1-0)  Hamburger SV
-         1. FC Magdeburg          2-1 (2-0)  Eintracht Braunschweig
 
 
 Matchday 3
@@ -36,14 +41,14 @@ Matchday 3
   18.30  1. FC Kaiserslautern     3-2 (1-0)  SV 07 Elversberg
          SV Wehen Wiesbaden       1-0 (1-0)  Karlsruher SC
 [Sat Aug/19]
-  13.00  Hansa Rostock            1-2 (0-1)  Hannover 96
-         Fortuna Düsseldorf       1-2 (0-1)  SC Paderborn 07
-         SpVgg Greuther Fürth     0-0  FC St. Pauli
+  13.00  SpVgg Greuther Fürth     0-0  FC St. Pauli
+         Hansa Rostock            1-2 (0-1)  Hannover 96
   20.30  Hamburger SV             3-0 (2-0)  Hertha BSC
+  13.00  Fortuna Düsseldorf       1-2 (0-1)  SC Paderborn 07
 [Sun Aug/20]
-  13.30  VfL Osnabrück            2-3 (0-1)  1. FC Nürnberg
+  13.30  Eintracht Braunschweig   1-0 (1-0)  FC Schalke 04
+         VfL Osnabrück            2-3 (0-1)  1. FC Nürnberg
          Holstein Kiel            2-4 (1-2)  1. FC Magdeburg
-         Eintracht Braunschweig   1-0 (1-0)  FC Schalke 04
 
 
 Matchday 4
@@ -51,14 +56,14 @@ Matchday 4
   18.30  FC Schalke 04            0-2 (0-1)  Holstein Kiel
          SC Paderborn 07          1-2 (0-0)  1. FC Kaiserslautern
 [Sat Aug/26]
-  13.00  SV 07 Elversberg         0-5 (0-3)  Fortuna Düsseldorf
-         Hertha BSC               5-0 (2-0)  SpVgg Greuther Fürth
-         Hansa Rostock            2-1 (1-1)  VfL Osnabrück
+  13.00  Hansa Rostock            2-1 (1-1)  VfL Osnabrück
+         SV 07 Elversberg         0-5 (0-3)  Fortuna Düsseldorf
   20.30  Hannover 96              0-1 (0-0)  Hamburger SV
+  13.00  Hertha BSC               5-0 (2-0)  SpVgg Greuther Fürth
 [Sun Aug/27]
-  13.30  1. FC Nürnberg           2-1 (0-0)  SV Wehen Wiesbaden
+  13.30  Karlsruher SC            2-0 (1-0)  Eintracht Braunschweig
+         1. FC Nürnberg           2-1 (0-0)  SV Wehen Wiesbaden
          FC St. Pauli             0-0  1. FC Magdeburg
-         Karlsruher SC            2-0 (1-0)  Eintracht Braunschweig
 
 
 Matchday 5
@@ -66,10 +71,10 @@ Matchday 5
   18.30  Fortuna Düsseldorf       3-1 (1-1)  Karlsruher SC
          Eintracht Braunschweig   1-1 (0-0)  FC St. Pauli
 [Sat Sep/2]
-  13.00  SV Wehen Wiesbaden       1-1 (0-0)  FC Schalke 04
-         Holstein Kiel            2-1 (1-1)  SC Paderborn 07
-         1. FC Magdeburg          6-4 (2-3)  Hertha BSC
+  13.00  1. FC Magdeburg          6-4 (2-3)  Hertha BSC
+         SV Wehen Wiesbaden       1-1 (0-0)  FC Schalke 04
   20.30  1. FC Kaiserslautern     3-1 (3-1)  1. FC Nürnberg
+  13.00  Holstein Kiel            2-1 (1-1)  SC Paderborn 07
 [Sun Sep/3]
   13.30  Hamburger SV             2-0 (1-0)  Hansa Rostock
          SpVgg Greuther Fürth     1-3 (0-2)  Hannover 96
@@ -78,107 +83,107 @@ Matchday 5
 
 Matchday 6
 [Fri Sep/15]
-  18.30  SC Paderborn 07          2-1 (0-1)  SV Wehen Wiesbaden
-         1. FC Nürnberg           1-1 (1-1)  SpVgg Greuther Fürth
+  18.30  1. FC Nürnberg           1-1 (1-1)  SpVgg Greuther Fürth
+         SC Paderborn 07          2-1 (0-1)  SV Wehen Wiesbaden
 [Sat Sep/16]
   13.00  Karlsruher SC            1-1 (1-1)  1. FC Kaiserslautern
          Hansa Rostock            1-3 (1-2)  Fortuna Düsseldorf
          SV 07 Elversberg         2-1 (1-0)  Hamburger SV
   20.30  FC Schalke 04            4-3 (1-2)  1. FC Magdeburg
 [Sun Sep/17]
-  13.30  Hannover 96              7-0 (2-0)  VfL Osnabrück
+  13.30  FC St. Pauli             5-1 (3-0)  Holstein Kiel
+         Hannover 96              7-0 (2-0)  VfL Osnabrück
          Hertha BSC               3-0 (2-0)  Eintracht Braunschweig
-         FC St. Pauli             5-1 (3-0)  Holstein Kiel
 
 
 Matchday 7
 [Fri Sep/22]
-  18.30  1. FC Magdeburg          1-1 (0-1)  SC Paderborn 07
-         VfL Osnabrück            2-1 (2-1)  Hamburger SV
+  18.30  VfL Osnabrück            2-1 (2-1)  Hamburger SV
+         1. FC Magdeburg          1-1 (0-1)  SC Paderborn 07
 [Sat Sep/23]
   13.00  SpVgg Greuther Fürth     4-3 (3-3)  Karlsruher SC
          Eintracht Braunschweig   2-2 (1-2)  1. FC Nürnberg
          SV Wehen Wiesbaden       0-2 (0-1)  SV 07 Elversberg
   20.30  FC St. Pauli             3-1 (1-1)  FC Schalke 04
 [Sun Sep/24]
-  13.30  1. FC Kaiserslautern     3-1 (2-1)  Hansa Rostock
+  13.30  Holstein Kiel            2-3 (0-2)  Hertha BSC
+         1. FC Kaiserslautern     3-1 (2-1)  Hansa Rostock
          Fortuna Düsseldorf       1-1 (0-1)  Hannover 96
-         Holstein Kiel            2-3 (0-2)  Hertha BSC
 
 
 Matchday 8
 [Fri Sep/29]
-  18.30  Hamburger SV             1-0 (0-0)  Fortuna Düsseldorf
-         SC Paderborn 07          3-1 (1-0)  FC Schalke 04
+  18.30  SC Paderborn 07          3-1 (1-0)  FC Schalke 04
+         Hamburger SV             1-0 (0-0)  Fortuna Düsseldorf
 [Sat Sep/30]
   13.00  Karlsruher SC            0-2 (0-2)  Holstein Kiel
          Hannover 96              2-0 (1-0)  SV Wehen Wiesbaden
          Hansa Rostock            1-0 (0-0)  Eintracht Braunschweig
   20.30  Hertha BSC               1-2 (0-1)  FC St. Pauli
 [Sun Oct/1]
-  13.30  VfL Osnabrück            2-2 (2-1)  1. FC Kaiserslautern
+  13.30  SV 07 Elversberg         1-1 (1-1)  SpVgg Greuther Fürth
+         VfL Osnabrück            2-2 (2-1)  1. FC Kaiserslautern
          1. FC Nürnberg           1-0 (0-0)  1. FC Magdeburg
-         SV 07 Elversberg         1-1 (1-1)  SpVgg Greuther Fürth
 
 
 Matchday 9
 [Fri Oct/6]
-  18.30  Fortuna Düsseldorf       1-1 (0-0)  VfL Osnabrück
-         1. FC Kaiserslautern     3-1 (1-1)  Hannover 96
+  18.30  1. FC Kaiserslautern     3-1 (1-1)  Hannover 96
+         Fortuna Düsseldorf       1-1 (0-0)  VfL Osnabrück
 [Sat Oct/7]
   13.00  1. FC Magdeburg          1-1 (0-1)  Karlsruher SC
          SpVgg Greuther Fürth     1-0 (1-0)  Hansa Rostock
          SV Wehen Wiesbaden       1-1 (0-0)  Hamburger SV
   20.30  FC St. Pauli             5-1 (1-1)  1. FC Nürnberg
 [Sun Oct/8]
-  13.30  Eintracht Braunschweig   1-3 (1-2)  SC Paderborn 07
+  13.30  Holstein Kiel            1-1 (1-0)  SV 07 Elversberg
+         Eintracht Braunschweig   1-3 (1-2)  SC Paderborn 07
          FC Schalke 04            1-2 (0-1)  Hertha BSC
-         Holstein Kiel            1-1 (1-0)  SV 07 Elversberg
 
 
 Matchday 10
 [Fri Oct/20]
-  18.30  SV 07 Elversberg         3-0 (2-0)  Eintracht Braunschweig
-         Hannover 96              2-1 (1-0)  1. FC Magdeburg
+  18.30  Hannover 96              2-1 (1-0)  1. FC Magdeburg
+         SV 07 Elversberg         3-0 (2-0)  Eintracht Braunschweig
 [Sat Oct/21]
   13.00  SC Paderborn 07          2-2 (1-0)  FC St. Pauli
          VfL Osnabrück            0-2 (0-1)  SV Wehen Wiesbaden
-         Hamburger SV             2-0 (2-0)  SpVgg Greuther Fürth
   20.30  Fortuna Düsseldorf       4-3 (1-3)  1. FC Kaiserslautern
+  13.00  Hamburger SV             2-0 (2-0)  SpVgg Greuther Fürth
 [Sun Oct/22]
-  13.30  Hansa Rostock            1-3 (1-1)  Holstein Kiel
+  13.30  Karlsruher SC            3-0 (2-0)  FC Schalke 04
+         Hansa Rostock            1-3 (1-1)  Holstein Kiel
          1. FC Nürnberg           3-1 (0-1)  Hertha BSC
-         Karlsruher SC            3-0 (2-0)  FC Schalke 04
 
 
 Matchday 11
 [Fri Oct/27]
-  18.30  SpVgg Greuther Fürth     4-0 (1-0)  VfL Osnabrück
   18.45  Eintracht Braunschweig   1-4 (0-2)  Fortuna Düsseldorf
+  18.30  SpVgg Greuther Fürth     4-0 (1-0)  VfL Osnabrück
 [Sat Oct/28]
   13.00  Hertha BSC               3-1 (2-0)  SC Paderborn 07
          FC St. Pauli             2-1 (0-1)  Karlsruher SC
-         FC Schalke 04            3-2 (1-0)  Hannover 96
   20.30  1. FC Kaiserslautern     3-3 (2-1)  Hamburger SV
+  13.00  FC Schalke 04            3-2 (1-0)  Hannover 96
 [Sun Oct/29]
-  13.30  1. FC Magdeburg          1-2 (0-2)  SV 07 Elversberg
+  13.30  Holstein Kiel            0-2 (0-0)  1. FC Nürnberg
+         1. FC Magdeburg          1-2 (0-2)  SV 07 Elversberg
          SV Wehen Wiesbaden       1-0 (0-0)  Hansa Rostock
-         Holstein Kiel            0-2 (0-0)  1. FC Nürnberg
 
 
 Matchday 12
 [Fri Nov/3]
-  18.30  Fortuna Düsseldorf       1-3 (0-3)  SV Wehen Wiesbaden
-         SV 07 Elversberg         0-2 (0-2)  FC St. Pauli
+  18.30  SV 07 Elversberg         0-2 (0-2)  FC St. Pauli
+         Fortuna Düsseldorf       1-3 (0-3)  SV Wehen Wiesbaden
 [Sat Nov/4]
   13.00  1. FC Nürnberg           1-2 (0-1)  FC Schalke 04
          VfL Osnabrück            1-1 (0-0)  Holstein Kiel
-         1. FC Kaiserslautern     0-2 (0-1)  SpVgg Greuther Fürth
   20.30  Hamburger SV             2-0 (1-0)  1. FC Magdeburg
+  13.00  1. FC Kaiserslautern     0-2 (0-1)  SpVgg Greuther Fürth
 [Sun Nov/5]
-  13.30  Hannover 96              2-0 (2-0)  Eintracht Braunschweig
+  13.30  Karlsruher SC            0-3 (0-1)  SC Paderborn 07
+         Hannover 96              2-0 (2-0)  Eintracht Braunschweig
          Hansa Rostock            0-0  Hertha BSC
-         Karlsruher SC            0-3 (0-1)  SC Paderborn 07
 
 
 Matchday 13
@@ -186,10 +191,10 @@ Matchday 13
   18.30  FC St. Pauli             0-0  Hannover 96
          FC Schalke 04            1-2 (1-2)  SV 07 Elversberg
 [Sat Nov/11]
-  13.00  Eintracht Braunschweig   3-2 (1-1)  VfL Osnabrück
-         SC Paderborn 07          1-3 (0-3)  1. FC Nürnberg
-         Holstein Kiel            4-2 (1-0)  Hamburger SV
+  13.00  Holstein Kiel            4-2 (1-0)  Hamburger SV
+         Eintracht Braunschweig   3-2 (1-1)  VfL Osnabrück
   20.30  Hertha BSC               2-2 (2-1)  Karlsruher SC
+  13.00  SC Paderborn 07          1-3 (0-3)  1. FC Nürnberg
 [Sun Nov/12]
   13.30  1. FC Magdeburg          1-2 (1-0)  Hansa Rostock
          SpVgg Greuther Fürth     1-0 (0-0)  Fortuna Düsseldorf
@@ -198,17 +203,17 @@ Matchday 13
 
 Matchday 14
 [Fri Nov/24]
-  18.30  Hamburger SV             2-1 (2-0)  Eintracht Braunschweig
-         Hannover 96              2-2 (0-2)  Hertha BSC
+  18.30  Hannover 96              2-2 (0-2)  Hertha BSC
+         Hamburger SV             2-1 (2-0)  Eintracht Braunschweig
 [Sat Nov/25]
   13.00  Hansa Rostock            2-3 (1-3)  FC St. Pauli
          SV 07 Elversberg         4-1 (1-1)  SC Paderborn 07
          VfL Osnabrück            0-2 (0-0)  1. FC Magdeburg
   20.30  Fortuna Düsseldorf       5-3 (3-0)  FC Schalke 04
 [Sun Nov/26]
-  13.30  SpVgg Greuther Fürth     2-0 (1-0)  SV Wehen Wiesbaden
+  13.30  1. FC Kaiserslautern     0-3 (0-2)  Holstein Kiel
+         SpVgg Greuther Fürth     2-0 (1-0)  SV Wehen Wiesbaden
          Karlsruher SC            4-1 (1-0)  1. FC Nürnberg
-         1. FC Kaiserslautern     0-3 (0-2)  Holstein Kiel
 
 
 Matchday 15
@@ -216,14 +221,14 @@ Matchday 15
   18.30  FC Schalke 04            4-0 (1-0)  VfL Osnabrück
          FC St. Pauli             2-2 (2-0)  Hamburger SV
 [Sat Dec/2]
-  13.00  Eintracht Braunschweig   0-1 (0-1)  SpVgg Greuther Fürth
-         Holstein Kiel            3-2 (2-0)  SV Wehen Wiesbaden
-         1. FC Nürnberg           0-5 (0-3)  Fortuna Düsseldorf
+  13.00  1. FC Nürnberg           0-5 (0-3)  Fortuna Düsseldorf
+         Eintracht Braunschweig   0-1 (0-1)  SpVgg Greuther Fürth
   20.30  1. FC Magdeburg          4-1 (1-1)  1. FC Kaiserslautern
+  13.00  Holstein Kiel            3-2 (2-0)  SV Wehen Wiesbaden
 [Sun Dec/3]
-  13.30  Karlsruher SC            2-2 (1-2)  Hansa Rostock
+  13.30  SC Paderborn 07          1-0 (0-0)  Hannover 96
+         Karlsruher SC            2-2 (1-2)  Hansa Rostock
          Hertha BSC               5-1 (2-1)  SV 07 Elversberg
-         SC Paderborn 07          1-0 (0-0)  Hannover 96
 
 
 Matchday 16
@@ -231,14 +236,14 @@ Matchday 16
   18.30  Hannover 96              2-2 (0-1)  Karlsruher SC
          SV Wehen Wiesbaden       1-3 (1-0)  Eintracht Braunschweig
 [Sat Dec/9]
-  13.00  SpVgg Greuther Fürth     1-1 (0-0)  1. FC Magdeburg
-         Hamburger SV             1-2 (1-1)  SC Paderborn 07
-         1. FC Kaiserslautern     1-2 (1-0)  Hertha BSC
+  13.00  1. FC Kaiserslautern     1-2 (1-0)  Hertha BSC
+         SpVgg Greuther Fürth     1-1 (0-0)  1. FC Magdeburg
   20.30  VfL Osnabrück            1-1 (0-1)  FC St. Pauli
+  13.00  Hamburger SV             1-2 (1-1)  SC Paderborn 07
 [Sun Dec/10]
-  13.30  SV 07 Elversberg         0-1 (0-0)  1. FC Nürnberg
+  13.30  Hansa Rostock            0-2 (0-0)  FC Schalke 04
+         SV 07 Elversberg         0-1 (0-0)  1. FC Nürnberg
          Fortuna Düsseldorf       0-1 (0-1)  Holstein Kiel
-         Hansa Rostock            0-2 (0-0)  FC Schalke 04
 
 
 Matchday 17
@@ -246,14 +251,14 @@ Matchday 17
   18.30  FC Schalke 04            2-2 (1-0)  SpVgg Greuther Fürth
          SC Paderborn 07          3-0 (1-0)  Hansa Rostock
 [Sat Dec/16]
-  13.00  1. FC Nürnberg           0-2 (0-0)  Hamburger SV
-         Hertha BSC               0-0  VfL Osnabrück
-         1. FC Magdeburg          2-3 (2-0)  Fortuna Düsseldorf
+  13.00  1. FC Magdeburg          2-3 (2-0)  Fortuna Düsseldorf
+         1. FC Nürnberg           0-2 (0-0)  Hamburger SV
   20.30  Holstein Kiel            3-0 (3-0)  Hannover 96
+  13.00  Hertha BSC               0-0  VfL Osnabrück
 [Sun Dec/17]
-  13.30  Eintracht Braunschweig   2-1 (1-1)  1. FC Kaiserslautern
+  13.30  Karlsruher SC            3-2 (2-1)  SV 07 Elversberg
+         Eintracht Braunschweig   2-1 (1-1)  1. FC Kaiserslautern
          FC St. Pauli             1-1 (0-0)  SV Wehen Wiesbaden
-         Karlsruher SC            3-2 (2-1)  SV 07 Elversberg
 
 
 Matchday 18
@@ -261,10 +266,10 @@ Matchday 18
   18.30  Holstein Kiel            1-2 (1-1)  Eintracht Braunschweig
          Karlsruher SC            2-1 (1-1)  VfL Osnabrück
 [Sat Jan/20]
-  13.00  1. FC Nürnberg           3-0 (2-0)  Hansa Rostock
-         FC St. Pauli             2-0 (1-0)  1. FC Kaiserslautern
-         SV 07 Elversberg         2-2 (0-1)  Hannover 96
+  13.00  SV 07 Elversberg         2-2 (0-1)  Hannover 96
+         1. FC Nürnberg           3-0 (2-0)  Hansa Rostock
   20.30  FC Schalke 04            0-2 (0-2)  Hamburger SV
+  13.00  FC St. Pauli             2-0 (1-0)  1. FC Kaiserslautern
 [Sun Jan/21]
   13.30  Hertha BSC               2-2 (2-1)  Fortuna Düsseldorf
          SC Paderborn 07          0-1 (0-1)  SpVgg Greuther Fürth
@@ -273,62 +278,62 @@ Matchday 18
 
 Matchday 19
 [Fri Jan/26]
-  18.30  1. FC Kaiserslautern     4-1 (1-0)  FC Schalke 04
-         Hannover 96              3-0 (2-0)  1. FC Nürnberg
+  18.30  Hannover 96              3-0 (2-0)  1. FC Nürnberg
+         1. FC Kaiserslautern     4-1 (1-0)  FC Schalke 04
 [Sat Jan/27]
   13.00  SV Wehen Wiesbaden       3-1 (1-0)  Hertha BSC
          VfL Osnabrück            0-0  SC Paderborn 07
          Hansa Rostock            2-1 (0-1)  SV 07 Elversberg
   20.30  Fortuna Düsseldorf       1-2 (0-2)  FC St. Pauli
 [Sun Jan/28]
-  13.30  Eintracht Braunschweig   1-0 (1-0)  1. FC Magdeburg
+  13.30  SpVgg Greuther Fürth     2-1 (0-0)  Holstein Kiel
+         Eintracht Braunschweig   1-0 (1-0)  1. FC Magdeburg
          Hamburger SV             3-4 (2-2)  Karlsruher SC
-         SpVgg Greuther Fürth     2-1 (0-0)  Holstein Kiel
 
 
 Matchday 20
 [Fri Feb/2]
-  18.30  1. FC Magdeburg          1-1 (0-1)  Holstein Kiel
-         Karlsruher SC            2-2 (1-0)  SV Wehen Wiesbaden
+  18.30  Karlsruher SC            2-2 (1-0)  SV Wehen Wiesbaden
+         1. FC Magdeburg          1-1 (0-1)  Holstein Kiel
 [Sat Feb/3]
   13.00  FC St. Pauli             3-2 (2-1)  SpVgg Greuther Fürth
          FC Schalke 04            1-0 (0-0)  Eintracht Braunschweig
          1. FC Nürnberg           2-2 (1-1)  VfL Osnabrück
   20.30  Hertha BSC               1-2 (0-0)  Hamburger SV
 [Sun Feb/4]
-  13.30  Hannover 96              2-1 (1-1)  Hansa Rostock
+  13.30  SV 07 Elversberg         2-1 (1-1)  1. FC Kaiserslautern
+         Hannover 96              2-1 (1-1)  Hansa Rostock
          SC Paderborn 07          4-3 (3-0)  Fortuna Düsseldorf
-         SV 07 Elversberg         2-1 (1-1)  1. FC Kaiserslautern
 
 
 Matchday 21
 [Fri Feb/9]
-  18.30  Hamburger SV             3-4 (1-3)  Hannover 96
-         SV Wehen Wiesbaden       1-1 (0-0)  1. FC Nürnberg
+  18.30  SV Wehen Wiesbaden       1-1 (0-0)  1. FC Nürnberg
+         Hamburger SV             3-4 (1-3)  Hannover 96
 [Sat Feb/10]
   13.00  1. FC Magdeburg          1-0 (0-0)  FC St. Pauli
          Eintracht Braunschweig   2-0 (1-0)  Karlsruher SC
          Fortuna Düsseldorf       1-1 (1-0)  SV 07 Elversberg
   20.30  1. FC Kaiserslautern     1-2 (1-0)  SC Paderborn 07
 [Sun Feb/11]
-  13.30  VfL Osnabrück            0-0  Hansa Rostock
+  13.30  SpVgg Greuther Fürth     1-2 (0-1)  Hertha BSC
+         VfL Osnabrück            0-0  Hansa Rostock
          Holstein Kiel            1-0 (0-0)  FC Schalke 04
-         SpVgg Greuther Fürth     1-2 (0-1)  Hertha BSC
 
 
 Matchday 22
 [Fri Feb/16]
-  18.30  Hertha BSC               3-2 (2-1)  1. FC Magdeburg
-         Hannover 96              2-1 (0-1)  SpVgg Greuther Fürth
+  18.30  Hannover 96              2-1 (0-1)  SpVgg Greuther Fürth
+         Hertha BSC               3-2 (2-1)  1. FC Magdeburg
 [Sat Feb/17]
   13.00  Hansa Rostock            2-2 (0-1)  Hamburger SV
          SC Paderborn 07          0-4 (0-2)  Holstein Kiel
          FC Schalke 04            1-0 (0-0)  SV Wehen Wiesbaden
   20.30  Karlsruher SC            2-2 (0-1)  Fortuna Düsseldorf
 [Sun Feb/18]
-  13.30  SV 07 Elversberg         3-1 (3-0)  VfL Osnabrück
+  13.30  FC St. Pauli             1-0 (1-0)  Eintracht Braunschweig
+         SV 07 Elversberg         3-1 (3-0)  VfL Osnabrück
          1. FC Nürnberg           1-1 (0-1)  1. FC Kaiserslautern
-         FC St. Pauli             1-0 (1-0)  Eintracht Braunschweig
 
 
 Matchday 23
@@ -336,67 +341,67 @@ Matchday 23
   18.30  SV Wehen Wiesbaden       1-2 (1-1)  SC Paderborn 07
          Holstein Kiel            3-4 (0-3)  FC St. Pauli
 [Sat Feb/24]
-  13.00  1. FC Kaiserslautern     0-4 (0-0)  Karlsruher SC
+  13.00  Eintracht Braunschweig   1-1 (1-0)  Hertha BSC
+         1. FC Kaiserslautern     0-4 (0-0)  Karlsruher SC
          VfL Osnabrück            1-0 (0-0)  Hannover 96
-         Eintracht Braunschweig   1-1 (1-0)  Hertha BSC
   20.30  1. FC Magdeburg          3-0 (3-0)  FC Schalke 04
 [Sun Feb/25]
-  13.30  Hamburger SV             1-0 (0-0)  SV 07 Elversberg
+  13.30  SpVgg Greuther Fürth     2-1 (1-1)  1. FC Nürnberg
+         Hamburger SV             1-0 (0-0)  SV 07 Elversberg
          Fortuna Düsseldorf       2-0 (2-0)  Hansa Rostock
-         SpVgg Greuther Fürth     2-1 (1-1)  1. FC Nürnberg
 
 
 Matchday 24
 [Fri Mar/1]
-  18.30  FC Schalke 04            3-1 (1-0)  FC St. Pauli
-         Hertha BSC               2-2 (2-0)  Holstein Kiel
+  18.30  Hertha BSC               2-2 (2-0)  Holstein Kiel
+         FC Schalke 04            3-1 (1-0)  FC St. Pauli
 [Sat Mar/2]
-  13.00  Hansa Rostock            0-3 (0-1)  1. FC Kaiserslautern
+  13.00  Hannover 96              2-2 (0-2)  Fortuna Düsseldorf
+         Hansa Rostock            0-3 (0-1)  1. FC Kaiserslautern
          1. FC Nürnberg           2-1 (2-0)  Eintracht Braunschweig
-         Hannover 96              2-2 (0-2)  Fortuna Düsseldorf
   20.30  Karlsruher SC            4-0 (1-0)  SpVgg Greuther Fürth
 [Sun Mar/3]
-  13.30  SV 07 Elversberg         0-3 (0-1)  SV Wehen Wiesbaden
+  13.30  Hamburger SV             1-2 (1-1)  VfL Osnabrück
+         SV 07 Elversberg         0-3 (0-1)  SV Wehen Wiesbaden
          SC Paderborn 07          0-0  1. FC Magdeburg
-         Hamburger SV             1-2 (1-1)  VfL Osnabrück
 
 
 Matchday 25
 [Fri Mar/8]
-  18.30  Fortuna Düsseldorf       2-0 (1-0)  Hamburger SV
-         Eintracht Braunschweig   0-1 (0-0)  Hansa Rostock
+  18.30  Eintracht Braunschweig   0-1 (0-0)  Hansa Rostock
+         Fortuna Düsseldorf       2-0 (1-0)  Hamburger SV
 [Sat Mar/9]
-  13.00  Holstein Kiel            1-0 (0-0)  Karlsruher SC
+  13.00  FC Schalke 04            3-3 (1-0)  SC Paderborn 07
+         Holstein Kiel            1-0 (0-0)  Karlsruher SC
          SV Wehen Wiesbaden       1-1 (1-0)  Hannover 96
-         FC Schalke 04            3-3 (1-0)  SC Paderborn 07
   20.30  1. FC Magdeburg          0-1 (0-0)  1. FC Nürnberg
 [Sun Mar/10]
-  13.30  1. FC Kaiserslautern     3-2 (0-0)  VfL Osnabrück
+  13.30  SpVgg Greuther Fürth     1-4 (0-1)  SV 07 Elversberg
+         1. FC Kaiserslautern     3-2 (0-0)  VfL Osnabrück
          FC St. Pauli             2-0 (2-0)  Hertha BSC
-         SpVgg Greuther Fürth     1-4 (0-1)  SV 07 Elversberg
 
 
 Matchday 26
 [Fri Mar/15]
-  18.30  VfL Osnabrück            0-4 (0-1)  Fortuna Düsseldorf
-         SC Paderborn 07          1-2 (0-0)  Eintracht Braunschweig
+  18.30  SC Paderborn 07          1-2 (0-0)  Eintracht Braunschweig
+         VfL Osnabrück            0-4 (0-1)  Fortuna Düsseldorf
 [Sat Mar/16]
-  13.00  SV 07 Elversberg         0-2 (0-1)  Holstein Kiel
+  13.00  1. FC Nürnberg           0-2 (0-1)  FC St. Pauli
+         SV 07 Elversberg         0-2 (0-1)  Holstein Kiel
          Hansa Rostock            1-0 (1-0)  SpVgg Greuther Fürth
-         1. FC Nürnberg           0-2 (0-1)  FC St. Pauli
   20.30  Hannover 96              1-1 (0-0)  1. FC Kaiserslautern
 [Sun Mar/17]
-  13.30  Hamburger SV             3-0 (1-0)  SV Wehen Wiesbaden
+  13.30  Karlsruher SC            7-0 (4-0)  1. FC Magdeburg
+         Hamburger SV             3-0 (1-0)  SV Wehen Wiesbaden
          Hertha BSC               5-2 (3-2)  FC Schalke 04
-         Karlsruher SC            7-0 (4-0)  1. FC Magdeburg
 
 
 Matchday 27
 [Sat Mar/30]
-  13.00  Eintracht Braunschweig   5-0 (2-0)  SV 07 Elversberg
-         1. FC Kaiserslautern     1-3 (1-0)  Fortuna Düsseldorf
-         Holstein Kiel            2-0 (1-0)  Hansa Rostock
+  13.00  Holstein Kiel            2-0 (1-0)  Hansa Rostock
+         Eintracht Braunschweig   5-0 (2-0)  SV 07 Elversberg
   20.30  Hertha BSC               3-3 (1-2)  1. FC Nürnberg
+  13.00  1. FC Kaiserslautern     1-3 (1-0)  Fortuna Düsseldorf
 [Sun Mar/31]
   13.30  SpVgg Greuther Fürth     1-1 (0-0)  Hamburger SV
          FC St. Pauli             2-1 (1-0)  SC Paderborn 07
@@ -407,13 +412,13 @@ Matchday 27
 
 Matchday 28
 [Fri Apr/5]
-  18.30  SC Paderborn 07          2-3 (1-1)  Hertha BSC
-         Hansa Rostock            3-1 (0-0)  SV Wehen Wiesbaden
+  18.30  Hansa Rostock            3-1 (0-0)  SV Wehen Wiesbaden
+         SC Paderborn 07          2-3 (1-1)  Hertha BSC
 [Sat Apr/6]
-  13.00  SV 07 Elversberg         0-0  1. FC Magdeburg
-         1. FC Nürnberg           0-4 (0-3)  Holstein Kiel
-         Hamburger SV             2-1 (1-1)  1. FC Kaiserslautern
+  13.00  Hamburger SV             2-1 (1-1)  1. FC Kaiserslautern
+         SV 07 Elversberg         0-0  1. FC Magdeburg
   20.30  Karlsruher SC            2-1 (1-1)  FC St. Pauli
+  13.00  1. FC Nürnberg           0-4 (0-3)  Holstein Kiel
 [Sun Apr/7]
   13.30  Hannover 96              1-1 (0-1)  FC Schalke 04
          VfL Osnabrück            2-0 (2-0)  SpVgg Greuther Fürth
@@ -422,13 +427,13 @@ Matchday 28
 
 Matchday 29
 [Fri Apr/12]
-  18.30  SpVgg Greuther Fürth     2-1 (0-1)  1. FC Kaiserslautern
-         Hertha BSC               4-0 (2-0)  Hansa Rostock
+  18.30  Hertha BSC               4-0 (2-0)  Hansa Rostock
+         SpVgg Greuther Fürth     2-1 (0-1)  1. FC Kaiserslautern
 [Sat Apr/13]
-  13.00  Holstein Kiel            4-0 (2-0)  VfL Osnabrück
-         SV Wehen Wiesbaden       0-2 (0-1)  Fortuna Düsseldorf
-         SC Paderborn 07          1-1 (1-1)  Karlsruher SC
+  13.00  SC Paderborn 07          1-1 (1-1)  Karlsruher SC
+         Holstein Kiel            4-0 (2-0)  VfL Osnabrück
   20.30  FC Schalke 04            2-0 (1-0)  1. FC Nürnberg
+  13.00  SV Wehen Wiesbaden       0-2 (0-1)  Fortuna Düsseldorf
 [Sun Apr/14]
   13.30  1. FC Magdeburg          2-2 (2-0)  Hamburger SV
          Eintracht Braunschweig   0-0  Hannover 96
@@ -437,13 +442,13 @@ Matchday 29
 
 Matchday 30
 [Fri Apr/19]
-  18.30  SV 07 Elversberg         1-1 (1-0)  FC Schalke 04
-         1. FC Nürnberg           0-2 (0-1)  SC Paderborn 07
+  18.30  1. FC Nürnberg           0-2 (0-1)  SC Paderborn 07
+         SV 07 Elversberg         1-1 (1-0)  FC Schalke 04
 [Sat Apr/20]
-  13.00  1. FC Kaiserslautern     1-1 (1-0)  SV Wehen Wiesbaden
-         Fortuna Düsseldorf       1-0 (0-0)  SpVgg Greuther Fürth
-         VfL Osnabrück            0-3 (0-2)  Eintracht Braunschweig
+  13.00  VfL Osnabrück            0-3 (0-2)  Eintracht Braunschweig
+         1. FC Kaiserslautern     1-1 (1-0)  SV Wehen Wiesbaden
   20.30  Hamburger SV             0-1 (0-0)  Holstein Kiel
+  13.00  Fortuna Düsseldorf       1-0 (0-0)  SpVgg Greuther Fürth
 [Sun Apr/21]
   13.30  Karlsruher SC            3-2 (2-1)  Hertha BSC
          Hannover 96              1-2 (1-1)  FC St. Pauli
@@ -452,17 +457,17 @@ Matchday 30
 
 Matchday 31
 [Fri Apr/26]
-  18.30  Hertha BSC               1-1 (1-0)  Hannover 96
-         FC St. Pauli             1-0 (0-0)  Hansa Rostock
+  18.30  FC St. Pauli             1-0 (0-0)  Hansa Rostock
+         Hertha BSC               1-1 (1-0)  Hannover 96
 [Sat Apr/27]
   13.00  Eintracht Braunschweig   0-4 (0-2)  Hamburger SV
          Holstein Kiel            1-3 (1-2)  1. FC Kaiserslautern
          SC Paderborn 07          3-1 (0-0)  SV 07 Elversberg
   20.30  FC Schalke 04            1-1 (0-0)  Fortuna Düsseldorf
 [Sun Apr/28]
-  13.30  1. FC Magdeburg          1-1 (1-1)  VfL Osnabrück
+  13.30  SV Wehen Wiesbaden       3-5 (2-3)  SpVgg Greuther Fürth
+         1. FC Magdeburg          1-1 (1-1)  VfL Osnabrück
          1. FC Nürnberg           0-1 (0-1)  Karlsruher SC
-         SV Wehen Wiesbaden       3-5 (2-3)  SpVgg Greuther Fürth
 
 
 Matchday 32
@@ -470,13 +475,13 @@ Matchday 32
   18.30  Hamburger SV             1-0 (0-0)  FC St. Pauli
          Fortuna Düsseldorf       3-1 (2-0)  1. FC Nürnberg
 [Sat May/4]
-  13.00  Hansa Rostock            1-2 (1-0)  Karlsruher SC
-         SpVgg Greuther Fürth     3-3 (1-2)  Eintracht Braunschweig
+  13.00  SpVgg Greuther Fürth     3-3 (1-2)  Eintracht Braunschweig
   20.30  1. FC Kaiserslautern     4-1 (2-0)  1. FC Magdeburg
+  13.00  Hansa Rostock            1-2 (1-0)  Karlsruher SC
 [Sun May/5]
-  13.30  SV Wehen Wiesbaden       0-1 (0-0)  Holstein Kiel
+  13.30  Hannover 96              3-2 (3-2)  SC Paderborn 07
+         SV Wehen Wiesbaden       0-1 (0-0)  Holstein Kiel
          SV 07 Elversberg         4-2 (1-1)  Hertha BSC
-         Hannover 96              3-2 (3-2)  SC Paderborn 07
 [Tue May/7]
   18.30  VfL Osnabrück            0-4 (0-2)  FC Schalke 04
 
@@ -486,14 +491,14 @@ Matchday 33
   18.30  SC Paderborn 07          1-0 (1-0)  Hamburger SV
          1. FC Magdeburg          0-0  SpVgg Greuther Fürth
 [Sat May/11]
-  13.00  1. FC Nürnberg           3-0 (1-0)  SV 07 Elversberg
-         Hertha BSC               3-1 (2-1)  1. FC Kaiserslautern
-         FC Schalke 04            2-1 (2-1)  Hansa Rostock
+  13.00  FC Schalke 04            2-1 (2-1)  Hansa Rostock
+         1. FC Nürnberg           3-0 (1-0)  SV 07 Elversberg
   20.30  Holstein Kiel            1-1 (1-0)  Fortuna Düsseldorf
+  13.00  Hertha BSC               3-1 (2-1)  1. FC Kaiserslautern
 [Sun May/12]
-  13.30  Eintracht Braunschweig   1-0 (1-0)  SV Wehen Wiesbaden
+  13.30  FC St. Pauli             3-1 (1-0)  VfL Osnabrück
+         Eintracht Braunschweig   1-0 (1-0)  SV Wehen Wiesbaden
          Karlsruher SC            1-2 (1-1)  Hannover 96
-         FC St. Pauli             3-1 (1-0)  VfL Osnabrück
 
 
 Matchday 34

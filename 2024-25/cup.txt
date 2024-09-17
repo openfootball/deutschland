@@ -1,5 +1,9 @@
 = DFB Pokal 2024/25
 
+# Date       Fri Aug/16 - Wed Oct/30 2024 (75d)
+# Teams      64
+# Matches    48
+
 
 
 Round 1

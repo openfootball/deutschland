@@ -1,0 +1,101 @@
+= DFB Pokal 2021/22
+
+# Date       Fri Aug/6 2021 - Sat May/21 2022 (288d)
+# Teams      64
+# Matches    63
+
+
+
+Round 1
+[Fri Aug/6]
+  20.45  TSV 1860 München         5-4 pen. 1-1 a.e.t. (1-1, 0-0)  SV Darmstadt 98
+         Dynamo Dresden           2-1 (0-0)  SC Paderborn 07
+[Sat Aug/7]
+  15.30  Weiche Flensburg 08      2-4 a.e.t. (0-0)  Holstein Kiel
+         1. FC Lok Leipzig        0-3 (0-2)  Bayer Leverkusen
+         SV Sandhausen            0-4 (0-2)  RB Leipzig
+         SpVgg Bayreuth           3-6 (1-2)  Arminia Bielefeld
+         Greifswalder FC          2-4 (1-1)  FC Augsburg
+         VfL Osnabrück            2-0 (1-0)  Werder Bremen
+         Eintracht Norderstedt    0-4 (0-2)  Hannover 96
+         Wuppertaler SV           1-2 a.e.t. (1-1, 1-0)  VfL Bochum
+         BFC Dynamo               0-6 (0-2)  VfB Stuttgart
+  18.30  SSV Ulm 1846             0-1 (0-0)  1. FC Nürnberg
+         SV Babelsberg 03         5-4 pen. 2-2 a.e.t. (2-2, 1-1)  SpVgg Greuther Fürth
+         1. FC Magdeburg          2-3 (1-2)  FC St. Pauli
+  20.45  SV Wehen Wiesbaden       0-3 (0-2)  Borussia Dortmund
+[Sun Aug/8]
+  15.30  SV Meppen                0-1 (0-0)  Hertha BSC
+         SV 07 Elversberg         7-8 pen. 2-2 a.e.t. (1-1, 0-0)  1. FSV Mainz 05
+         FC Carl Zeiss Jena       2-4 pen. 1-1 a.e.t. (1-1, 1-0)  1. FC Köln
+         FC 08 Villingen          1-4 (1-1)  FC Schalke 04
+         Waldhof Mannheim         2-0 (0-0)  Eintracht Frankfurt
+         Rot-Weiß Koblenz         0-3 (0-2)  Jahn Regensburg
+         Türkgücü München         0-1 (0-1)  1. FC Union Berlin
+         VfL Oldenburg            0-5 (0-3)  Fortuna Düsseldorf
+         Preußen Münster          2-0  VfL Wolfsburg            [awarded]
+  18.30  Eintracht Braunschweig   1-2 (1-1)  Hamburger SV
+         Würzburger Kickers       0-1 (0-1)  SC Freiburg
+         Hansa Rostock            3-2 a.e.t. (1-1, 0-1)  1. FC Heidenheim 1846
+[Mon Aug/9]
+  18.30  Viktoria Köln            2-3 a.e.t. (1-1, 1-1)  1899 Hoffenheim
+         Sportfreunde Lotte       1-4 (0-1)  Karlsruher SC
+  20.45  1. FC Kaiserslautern     0-1 (0-1)  Bor. Mönchengladbach
+  18.30  FC Ingolstadt 04         2-1 (1-0)  Erzgebirge Aue
+[Wed Aug/25]
+  20.15  Bremer SV                0-12 (0-5)  Bayern München
+
+
+Round 2
+[Tue Oct/26]
+  18.30  SV Babelsberg 03         0-1 (0-1)  RB Leipzig
+         TSV 1860 München         1-0 (1-0)  FC Schalke 04
+         1899 Hoffenheim          5-1 (2-0)  Holstein Kiel
+  20.00  Borussia Dortmund        2-0 (0-0)  FC Ingolstadt 04
+  20.45  VfL Osnabrück            2-3 pen. 2-2 a.e.t. (1-1, 0-1)  SC Freiburg
+         1. FC Nürnberg           2-4 pen. 1-1 a.e.t. (1-1, 0-1)  Hamburger SV
+         1. FSV Mainz 05          3-2 a.e.t. (2-2, 0-1)  Arminia Bielefeld
+  18.30  Preußen Münster          1-3 (1-1)  Hertha BSC
+[Wed Oct/27]
+  18.30  Waldhof Mannheim         1-3 a.e.t. (1-1, 1-1)  1. FC Union Berlin
+         VfL Bochum               5-4 pen. 2-2 a.e.t. (2-2, 1-0)  FC Augsburg
+         Dynamo Dresden           2-3 a.e.t. (2-2, 0-0)  FC St. Pauli
+         Bayer Leverkusen         1-2 (0-1)  Karlsruher SC
+  20.45  Hannover 96              3-0 (1-0)  Fortuna Düsseldorf
+         Bor. Mönchengladbach     5-0 (3-0)  Bayern München
+         Jahn Regensburg          2-4 pen. 3-3 a.e.t. (2-2, 0-1)  Hansa Rostock
+         VfB Stuttgart            0-2 (0-0)  1. FC Köln
+
+
+Round of 16
+[Tue Jan/18]
+  18.30  1. FC Köln               3-4 pen. 1-1 a.e.t. (0-0)  Hamburger SV
+  20.45  FC St. Pauli             2-1 (2-0)  Borussia Dortmund
+         VfL Bochum               3-1 (0-1)  1. FSV Mainz 05
+  18.30  TSV 1860 München         0-1 (0-0)  Karlsruher SC
+[Wed Jan/19]
+  18.30  RB Leipzig               2-0 (1-0)  Hansa Rostock
+         Hannover 96              3-0 (2-0)  Bor. Mönchengladbach
+  20.45  1899 Hoffenheim          1-4 (0-2)  SC Freiburg
+         Hertha BSC               2-3 (0-1)  1. FC Union Berlin
+
+
+Quarterfinals
+[Tue Mar/1]
+  20.45  1. FC Union Berlin       2-1 (1-1)  FC St. Pauli
+[Wed Mar/2]
+  18.30  Hannover 96              0-4 (0-2)  RB Leipzig
+  20.45  VfL Bochum               1-2 a.e.t. (1-1, 0-0)  SC Freiburg
+  18.30  Hamburger SV             3-2 pen. 2-2 a.e.t. (2-2, 0-1)  Karlsruher SC
+
+
+Semifinals
+[Tue Apr/19]
+  20.45  Hamburger SV             1-3 (0-3)  SC Freiburg
+[Wed Apr/20]
+  20.45  RB Leipzig               2-1 (0-1)  1. FC Union Berlin
+
+
+Final
+[Sat May/21]
+  20.00  SC Freiburg              2-4 pen. 1-1 a.e.t. (1-1, 1-0)  RB Leipzig

@@ -1,5 +1,10 @@
 = Deutsche 3. Liga 2023/24
 
+# Date       Fri Aug/4 2023 - Sat May/18 2024 (288d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Fri Aug/4]
@@ -12,9 +17,9 @@ Matchday 1
          Jahn Regensburg          1-1 (1-1)  SpVgg Unterhaching
   16.15  Dynamo Dresden           3-1 (2-1)  Arminia Bielefeld
 [Sun Aug/6]
-  13.30  SSV Ulm 1846             1-1 (1-1)  1. FC Saarbrücken
   16.30  SC Freiburg II           1-1 (0-1)  MSV Duisburg
   19.30  Erzgebirge Aue           1-0 (0-0)  FC Ingolstadt 04
+  13.30  SSV Ulm 1846             1-1 (1-1)  1. FC Saarbrücken
 
 
 Matchday 2
@@ -28,9 +33,9 @@ Matchday 2
          SpVgg Unterhaching       3-2 (1-2)  SSV Ulm 1846
   16.30  Waldhof Mannheim         2-2 (2-0)  VfB Lübeck
 [Sun Aug/20]
-  13.30  Borussia Dortmund II     1-0 (1-0)  SC Freiburg II
   16.30  SC Verl                  1-2 (0-1)  Jahn Regensburg
   19.30  Rot-Weiss Essen          1-1 (1-1)  Erzgebirge Aue
+  13.30  Borussia Dortmund II     1-0 (1-0)  SC Freiburg II
 
 
 Matchday 3
@@ -41,11 +46,11 @@ Matchday 3
          Hallescher FC            1-1 (1-0)  MSV Duisburg
          TSV 1860 München         1-2 (1-2)  VfB Lübeck
 [Wed Aug/23]
-  19.00  Erzgebirge Aue           2-1 (1-1)  SV Sandhausen
+  19.00  1. FC Saarbrücken        4-3 (1-2)  SC Verl
+         Erzgebirge Aue           2-1 (1-1)  SV Sandhausen
          SC Freiburg II           0-0  SpVgg Unterhaching
          Jahn Regensburg          0-0  Borussia Dortmund II
          Viktoria Köln            0-0  Rot-Weiss Essen
-         1. FC Saarbrücken        4-3 (1-2)  SC Verl
 
 
 Matchday 4
@@ -59,9 +64,9 @@ Matchday 4
          VfB Lübeck               1-1 (0-0)  Erzgebirge Aue
   16.30  SV Sandhausen            3-0 (2-0)  TSV 1860 München
 [Sun Aug/27]
-  13.30  Arminia Bielefeld        1-1 (1-1)  Jahn Regensburg
   16.30  Waldhof Mannheim         3-2 (3-1)  Hallescher FC
   19.30  Rot-Weiss Essen          1-0 (0-0)  Preußen Münster
+  13.30  Arminia Bielefeld        1-1 (1-1)  Jahn Regensburg
 
 
 Matchday 5
@@ -75,9 +80,9 @@ Matchday 5
          Dynamo Dresden           2-0 (0-0)  FC Ingolstadt 04
   16.30  TSV 1860 München         1-2 (0-0)  Erzgebirge Aue
 [Sun Sep/3]
-  13.30  Hallescher FC            4-1 (1-1)  SV Sandhausen
   16.30  Jahn Regensburg          2-1 (1-1)  MSV Duisburg
   19.30  Viktoria Köln            1-1 (0-0)  Arminia Bielefeld
+  13.30  Hallescher FC            4-1 (1-1)  SV Sandhausen
 
 
 Matchday 6
@@ -104,8 +109,8 @@ Matchday 7
          1. FC Saarbrücken        1-1 (0-0)  Waldhof Mannheim
          Preußen Münster          1-1 (0-0)  VfB Lübeck
          Jahn Regensburg          1-2 (0-1)  SV Sandhausen
-         Viktoria Köln            2-0 (0-0)  MSV Duisburg
   16.30  Hallescher FC            0-2 (0-1)  TSV 1860 München
+  14.00  Viktoria Köln            2-0 (0-0)  MSV Duisburg
 [Sun Sep/24]
   13.30  SSV Ulm 1846             2-1 (1-0)  Rot-Weiss Essen
   16.30  SC Freiburg II           1-4 (0-1)  FC Ingolstadt 04
@@ -125,12 +130,12 @@ Matchday 8
          Waldhof Mannheim         3-1 (1-1)  SC Freiburg II
          TSV 1860 München         1-0 (1-0)  SC Verl
          MSV Duisburg             0-0  Preußen Münster
-         SV Sandhausen            3-3 (0-2)  Viktoria Köln
   16.30  VfB Lübeck               2-2 (2-0)  Hallescher FC
+  14.00  SV Sandhausen            3-3 (0-2)  Viktoria Köln
 [Sun Oct/1]
-  13.30  Rot-Weiss Essen          3-1 (1-0)  Dynamo Dresden
-  16.30  Borussia Dortmund II     2-2 (2-1)  SpVgg Unterhaching
   19.30  Erzgebirge Aue           0-1 (0-0)  Jahn Regensburg
+  16.30  Borussia Dortmund II     2-2 (2-1)  SpVgg Unterhaching
+  13.30  Rot-Weiss Essen          3-1 (1-0)  Dynamo Dresden
 
 
 Matchday 9
@@ -141,10 +146,10 @@ Matchday 9
          SC Verl                  3-1 (2-0)  Arminia Bielefeld
          SSV Ulm 1846             1-0 (1-0)  TSV 1860 München
 [Wed Oct/4]
-  19.00  Preußen Münster          4-0 (2-0)  Erzgebirge Aue
+  19.00  Dynamo Dresden           2-1 (1-1)  Hallescher FC
+         Preußen Münster          4-0 (2-0)  Erzgebirge Aue
          SpVgg Unterhaching       4-0 (2-0)  Rot-Weiss Essen
          Jahn Regensburg          2-0 (1-0)  Waldhof Mannheim
-         Dynamo Dresden           2-1 (1-1)  Hallescher FC
 
 
 Matchday 10
@@ -158,19 +163,19 @@ Matchday 10
          Waldhof Mannheim         1-1 (0-0)  Viktoria Köln
   16.30  Erzgebirge Aue           2-0 (0-0)  1. FC Saarbrücken
 [Sun Oct/8]
-  13.30  VfB Lübeck               0-1 (0-1)  SC Freiburg II
   16.30  Hallescher FC            1-4 (0-3)  Preußen Münster
   19.30  FC Ingolstadt 04         2-4 (1-1)  Jahn Regensburg
+  13.30  VfB Lübeck               0-1 (0-1)  SC Freiburg II
 
 
 Matchday 11
 [Fri Oct/13]
   19.00  Borussia Dortmund II     1-2 (0-1)  Rot-Weiss Essen
 [Sat Oct/14]
-  14.00  SpVgg Unterhaching       0-0  SV Sandhausen
+  14.00  Jahn Regensburg          2-1 (2-0)  VfB Lübeck
+         SpVgg Unterhaching       0-0  SV Sandhausen
          Viktoria Köln            2-2 (0-0)  Erzgebirge Aue
          SC Verl                  2-2 (2-1)  FC Ingolstadt 04
-         Jahn Regensburg          2-1 (2-0)  VfB Lübeck
   16.30  Arminia Bielefeld        3-1 (0-1)  Waldhof Mannheim
 [Sun Oct/15]
   13.30  SSV Ulm 1846             2-3 (2-2)  Dynamo Dresden
@@ -184,13 +189,13 @@ Matchday 12
   14.00  Dynamo Dresden           1-0 (1-0)  Preußen Münster
          VfB Lübeck               3-2 (2-0)  Viktoria Köln
          FC Ingolstadt 04         3-0 (0-0)  SpVgg Unterhaching
-         Hallescher FC            1-2 (0-0)  Jahn Regensburg
-         TSV 1860 München         2-0 (1-0)  SC Freiburg II
   16.30  MSV Duisburg             0-1 (0-1)  Arminia Bielefeld
+  14.00  Hallescher FC            1-2 (0-0)  Jahn Regensburg
+         TSV 1860 München         2-0 (1-0)  SC Freiburg II
 [Sun Oct/22]
-  13.30  SV Sandhausen            2-2 (1-1)  SC Verl
-  16.30  Rot-Weiss Essen          2-1 (2-1)  1. FC Saarbrücken
   19.30  Erzgebirge Aue           1-2 (1-0)  SSV Ulm 1846
+  16.30  Rot-Weiss Essen          2-1 (2-1)  1. FC Saarbrücken
+  13.30  SV Sandhausen            2-2 (1-1)  SC Verl
 
 
 Matchday 13
@@ -200,28 +205,28 @@ Matchday 13
   14.00  Arminia Bielefeld        4-0 (2-0)  FC Ingolstadt 04
          Viktoria Köln            2-1 (1-1)  TSV 1860 München
          SSV Ulm 1846             2-3 (1-1)  Hallescher FC
-         Borussia Dortmund II     1-2 (1-2)  SV Sandhausen
-         MSV Duisburg             1-2 (0-0)  Rot-Weiss Essen
   16.30  Jahn Regensburg          2-1 (0-0)  Preußen Münster
+  14.00  MSV Duisburg             1-2 (0-0)  Rot-Weiss Essen
+         Borussia Dortmund II     1-2 (1-2)  SV Sandhausen
 [Sun Oct/29]
-  16.30  SC Verl                  4-0 (1-0)  VfB Lübeck
   19.30  SC Freiburg II           0-1 (0-1)  Erzgebirge Aue
+  16.30  SC Verl                  4-0 (1-0)  VfB Lübeck
 
 
 Matchday 14
 [Fri Nov/3]
   19.00  Erzgebirge Aue           1-2 (0-0)  SC Verl
 [Sat Nov/4]
+  16.30  FC Ingolstadt 04         1-1 (0-1)  Borussia Dortmund II
   14.00  Rot-Weiss Essen          2-1 (1-0)  Arminia Bielefeld
          Dynamo Dresden           2-0 (1-0)  SC Freiburg II
          SV Sandhausen            2-2 (1-1)  1. FC Saarbrücken
          VfB Lübeck               2-3 (0-3)  SpVgg Unterhaching
          TSV 1860 München         0-1 (0-0)  Jahn Regensburg
-  16.30  FC Ingolstadt 04         1-1 (0-1)  Borussia Dortmund II
 [Sun Nov/5]
-  13.30  Waldhof Mannheim         0-0  MSV Duisburg
   16.30  Preußen Münster          3-2 (2-0)  SSV Ulm 1846
   19.30  Hallescher FC            2-1 (0-1)  Viktoria Köln
+  13.30  Waldhof Mannheim         0-0  MSV Duisburg
 
 
 Matchday 15
@@ -229,15 +234,15 @@ Matchday 15
   19.10  Viktoria Köln            1-5 (0-3)  Dynamo Dresden
 [Sat Nov/11]
   14.00  Arminia Bielefeld        1-1 (1-0)  SV Sandhausen
-         SC Verl                  3-2 (3-2)  Hallescher FC
-         MSV Duisburg             1-2 (0-0)  FC Ingolstadt 04
+  16.30  Borussia Dortmund II     1-1 (0-0)  VfB Lübeck
+  14.00  MSV Duisburg             1-2 (0-0)  FC Ingolstadt 04
          SpVgg Unterhaching       0-0  Erzgebirge Aue
          1. FC Saarbrücken        2-3 (2-2)  TSV 1860 München
-  16.30  Borussia Dortmund II     1-1 (0-0)  VfB Lübeck
+         SC Verl                  3-2 (3-2)  Hallescher FC
 [Sun Nov/12]
-  13.30  SC Freiburg II           2-2 (0-0)  Preußen Münster
   16.30  Rot-Weiss Essen          2-0 (0-0)  Waldhof Mannheim
   19.30  Jahn Regensburg          2-0 (1-0)  SSV Ulm 1846
+  13.30  SC Freiburg II           2-2 (0-0)  Preußen Münster
 
 
 Matchday 13
@@ -250,15 +255,15 @@ Matchday 16
   19.00  Waldhof Mannheim         1-2 (1-0)  SC Verl
 [Sat Nov/25]
   14.00  Hallescher FC            0-2 (0-2)  1. FC Saarbrücken
-         Erzgebirge Aue           2-0 (2-0)  Borussia Dortmund II
-         FC Ingolstadt 04         2-1 (2-1)  Rot-Weiss Essen
+  16.30  SSV Ulm 1846             2-1 (1-1)  SC Freiburg II
+  14.00  FC Ingolstadt 04         2-1 (2-1)  Rot-Weiss Essen
          TSV 1860 München         0-1 (0-1)  SpVgg Unterhaching
          SV Sandhausen            2-0 (2-0)  MSV Duisburg
-  16.30  SSV Ulm 1846             2-1 (1-1)  SC Freiburg II
+         Erzgebirge Aue           2-0 (2-0)  Borussia Dortmund II
 [Sun Nov/26]
+  19.30  Preußen Münster          3-3 (2-2)  Viktoria Köln
   13.30  VfB Lübeck               2-2 (0-0)  Arminia Bielefeld
   16.30  Dynamo Dresden           0-1 (0-0)  Jahn Regensburg
-  19.30  Preußen Münster          3-3 (2-2)  Viktoria Köln
 
 
 Matchday 11
@@ -270,11 +275,11 @@ Matchday 11
 
 Matchday 17
 [Sat Dec/2]
-  14.00  Waldhof Mannheim         1-1 (1-0)  FC Ingolstadt 04
+  14.00  1. FC Saarbrücken        0-0  Preußen Münster
+         Waldhof Mannheim         1-1 (1-0)  FC Ingolstadt 04
          Arminia Bielefeld        2-2 (1-2)  Erzgebirge Aue
          Rot-Weiss Essen          1-2 (0-1)  SV Sandhausen
          MSV Duisburg             1-0 (0-0)  VfB Lübeck
-         1. FC Saarbrücken        0-0  Preußen Münster
   16.30  Viktoria Köln            1-3 (0-2)  SSV Ulm 1846
 [Sun Dec/3]
   13.30  SC Verl                  1-0 (0-0)  Dynamo Dresden
@@ -292,9 +297,9 @@ Matchday 18
          VfB Lübeck               0-4 (0-3)  FC Ingolstadt 04
   16.30  Erzgebirge Aue           1-1 (1-0)  MSV Duisburg
 [Sun Dec/10]
+  19.30  Preußen Münster          3-1 (0-0)  SC Verl
   13.30  Jahn Regensburg          1-1 (1-0)  Viktoria Köln
   16.30  Dynamo Dresden           2-1 (1-1)  SpVgg Unterhaching
-  19.30  Preußen Münster          3-1 (0-0)  SC Verl
 
 
 Matchday 19
@@ -302,15 +307,15 @@ Matchday 19
   19.00  Rot-Weiss Essen          1-0 (1-0)  VfB Lübeck
 [Sat Dec/16]
   14.00  SC Verl                  0-3 (0-2)  SSV Ulm 1846
-         FC Ingolstadt 04         4-0 (0-0)  SV Sandhausen
-         1. FC Saarbrücken        2-2 (0-0)  Jahn Regensburg
+  16.30  SpVgg Unterhaching       3-2 (1-1)  Preußen Münster
+  14.00  1. FC Saarbrücken        2-2 (0-0)  Jahn Regensburg
          Borussia Dortmund II     2-1 (2-0)  Hallescher FC
          Waldhof Mannheim         3-0 (2-0)  Erzgebirge Aue
-  16.30  SpVgg Unterhaching       3-2 (1-1)  Preußen Münster
+         FC Ingolstadt 04         4-0 (0-0)  SV Sandhausen
 [Sun Dec/17]
-  13.30  MSV Duisburg             2-4 (1-1)  Dynamo Dresden
-  16.30  Arminia Bielefeld        2-0 (2-0)  TSV 1860 München
   19.30  Viktoria Köln            2-0 (1-0)  SC Freiburg II
+  16.30  Arminia Bielefeld        2-0 (2-0)  TSV 1860 München
+  13.30  MSV Duisburg             2-4 (1-1)  Dynamo Dresden
 
 
 Matchday 20
@@ -321,10 +326,10 @@ Matchday 20
          1. FC Saarbrücken        2-1 (1-0)  SSV Ulm 1846
          Rot-Weiss Essen          3-2 (0-1)  Hallescher FC
 [Wed Dec/20]
-  19.00  SC Verl                  1-1 (0-0)  Viktoria Köln
+  19.00  MSV Duisburg             4-2 (3-1)  SC Freiburg II
+         SC Verl                  1-1 (0-0)  Viktoria Köln
          Arminia Bielefeld        0-1 (0-0)  Dynamo Dresden
          Waldhof Mannheim         1-0 (0-0)  TSV 1860 München
-         MSV Duisburg             4-2 (3-1)  SC Freiburg II
 
 
 Matchday 21
@@ -332,23 +337,23 @@ Matchday 21
   19.00  Erzgebirge Aue           2-1 (0-1)  Rot-Weiss Essen
 [Sat Jan/20]
   14.00  VfB Lübeck               2-1 (0-0)  Waldhof Mannheim
-         Jahn Regensburg          1-1 (1-1)  SC Verl
-         Dynamo Dresden           0-1 (0-1)  SV Sandhausen
-         Hallescher FC            3-1 (3-1)  FC Ingolstadt 04
   16.30  TSV 1860 München         4-1 (2-0)  MSV Duisburg
+  14.00  Dynamo Dresden           0-1 (0-1)  SV Sandhausen
+         Jahn Regensburg          1-1 (1-1)  SC Verl
+         Hallescher FC            3-1 (3-1)  FC Ingolstadt 04
 [Sun Jan/21]
-  13.30  Preußen Münster          2-1 (1-1)  Arminia Bielefeld
   16.30  SSV Ulm 1846             2-0 (1-0)  SpVgg Unterhaching
+  13.30  Preußen Münster          2-1 (1-1)  Arminia Bielefeld
   19.30  SC Freiburg II           0-0  Borussia Dortmund II
 
 
 Matchday 22
 [Tue Jan/23]
-  19.00  SC Verl                  0-0  1. FC Saarbrücken
+  19.00  MSV Duisburg             2-3 (2-1)  Hallescher FC
+         SC Verl                  0-0  1. FC Saarbrücken
          Waldhof Mannheim         0-2 (0-1)  Dynamo Dresden
          Rot-Weiss Essen          3-1 (0-0)  Viktoria Köln
          VfB Lübeck               1-1 (0-0)  TSV 1860 München
-         MSV Duisburg             2-3 (2-1)  Hallescher FC
 [Wed Jan/24]
   19.00  FC Ingolstadt 04         1-1 (1-1)  Preußen Münster
          Borussia Dortmund II     1-0 (0-0)  Jahn Regensburg
@@ -368,9 +373,9 @@ Matchday 23
          1. FC Saarbrücken        0-2 (0-0)  FC Ingolstadt 04
   16.30  Erzgebirge Aue           2-0 (1-0)  VfB Lübeck
 [Sun Jan/28]
-  13.30  Preußen Münster          2-1 (1-1)  Rot-Weiss Essen
   16.30  TSV 1860 München         1-1 (0-1)  SV Sandhausen
   19.30  Dynamo Dresden           1-2 (0-1)  Borussia Dortmund II
+  13.30  Preußen Münster          2-1 (1-1)  Rot-Weiss Essen
 
 
 Matchday 24
@@ -379,14 +384,14 @@ Matchday 24
 [Sat Feb/3]
   14.00  SpVgg Unterhaching       1-0 (0-0)  SC Verl
          SV Sandhausen            1-1 (1-0)  Hallescher FC
-         Rot-Weiss Essen          4-3 (1-2)  SC Freiburg II
-         VfB Lübeck               1-1 (1-0)  SSV Ulm 1846
-         Erzgebirge Aue           0-0  TSV 1860 München
   16.30  Arminia Bielefeld        0-2 (0-1)  Viktoria Köln
+  14.00  VfB Lübeck               1-1 (1-0)  SSV Ulm 1846
+         Erzgebirge Aue           0-0  TSV 1860 München
+         Rot-Weiss Essen          4-3 (1-2)  SC Freiburg II
 [Sun Feb/4]
-  13.30  FC Ingolstadt 04         2-1 (2-0)  Dynamo Dresden
   16.30  Waldhof Mannheim         2-2 (1-1)  Preußen Münster
   19.30  MSV Duisburg             0-1 (0-1)  Jahn Regensburg
+  13.30  FC Ingolstadt 04         2-1 (2-0)  Dynamo Dresden
 
 
 Matchday 18
@@ -403,15 +408,15 @@ Matchday 25
 [Fri Feb/9]
   19.00  Viktoria Köln            1-3 (1-2)  Borussia Dortmund II
 [Sat Feb/10]
-  14.00  SSV Ulm 1846             3-1 (1-1)  Waldhof Mannheim
-         SC Verl                  1-3 (1-1)  MSV Duisburg
-         Jahn Regensburg          1-3 (0-1)  Rot-Weiss Essen
-         Preußen Münster          1-1 (0-1)  SV Sandhausen
   14.15  Dynamo Dresden           7-2 (4-1)  VfB Lübeck
+  14.00  SC Verl                  1-3 (1-1)  MSV Duisburg
+         Jahn Regensburg          1-3 (0-1)  Rot-Weiss Essen
   16.30  SC Freiburg II           0-3 (0-1)  Arminia Bielefeld
+  14.00  SSV Ulm 1846             3-1 (1-1)  Waldhof Mannheim
+         Preußen Münster          1-1 (0-1)  SV Sandhausen
 [Sun Feb/11]
-  13.30  Hallescher FC            2-3 (2-2)  Erzgebirge Aue
   16.30  TSV 1860 München         3-1 (1-0)  FC Ingolstadt 04
+  13.30  Hallescher FC            2-3 (2-2)  Erzgebirge Aue
 
 
 Matchday 20
@@ -430,9 +435,9 @@ Matchday 26
          VfB Lübeck               0-3 (0-3)  Preußen Münster
   16.30  Arminia Bielefeld        1-2 (0-2)  SpVgg Unterhaching
 [Sun Feb/18]
+  19.30  TSV 1860 München         1-0 (1-0)  Hallescher FC
   13.30  Waldhof Mannheim         0-2 (0-2)  1. FC Saarbrücken
   16.30  Erzgebirge Aue           2-1 (1-0)  Dynamo Dresden
-  19.30  TSV 1860 München         1-0 (1-0)  Hallescher FC
 
 
 Matchday 21
@@ -447,13 +452,13 @@ Matchday 27
   14.00  Jahn Regensburg          0-0  Erzgebirge Aue
          Viktoria Köln            2-1 (0-0)  SV Sandhausen
          SSV Ulm 1846             0-0  FC Ingolstadt 04
-         SpVgg Unterhaching       3-4 (1-0)  Borussia Dortmund II
-         Dynamo Dresden           2-2 (1-2)  Rot-Weiss Essen
   16.30  SC Verl                  0-1 (0-0)  TSV 1860 München
+  14.00  Dynamo Dresden           2-2 (1-2)  Rot-Weiss Essen
+         SpVgg Unterhaching       3-4 (1-0)  Borussia Dortmund II
 [Sun Feb/25]
+  19.30  SC Freiburg II           1-0 (1-0)  Waldhof Mannheim
   13.30  Hallescher FC            3-0 (2-0)  VfB Lübeck
   16.30  1. FC Saarbrücken        1-1 (0-0)  Arminia Bielefeld
-  19.30  SC Freiburg II           1-0 (1-0)  Waldhof Mannheim
 
 
 Matchday 28
@@ -464,24 +469,24 @@ Matchday 28
          Hallescher FC            1-0 (0-0)  Dynamo Dresden
          Erzgebirge Aue           2-3 (1-2)  Preußen Münster
          VfB Lübeck               0-0  1. FC Saarbrücken
-         TSV 1860 München         0-1 (0-0)  SSV Ulm 1846
   16.30  Rot-Weiss Essen          1-3 (1-2)  SpVgg Unterhaching
+  14.00  TSV 1860 München         0-1 (0-0)  SSV Ulm 1846
 [Sun Mar/3]
+  19.30  MSV Duisburg             2-1 (2-0)  Borussia Dortmund II
   13.30  FC Ingolstadt 04         1-3 (1-0)  Viktoria Köln
   16.30  Arminia Bielefeld        0-0  SC Verl
-  19.30  MSV Duisburg             2-1 (2-0)  Borussia Dortmund II
 
 
 Matchday 29
 [Fri Mar/8]
   19.00  Dynamo Dresden           2-1 (1-1)  TSV 1860 München
 [Sat Mar/9]
-  14.00  Viktoria Köln            2-2 (1-0)  Waldhof Mannheim
-         Borussia Dortmund II     0-2 (0-2)  Arminia Bielefeld
+  16.30  Preußen Münster          1-0 (0-0)  Hallescher FC
+  14.00  Borussia Dortmund II     0-2 (0-2)  Arminia Bielefeld
          SC Freiburg II           3-0 (1-0)  VfB Lübeck
          1. FC Saarbrücken        2-0 (2-0)  Erzgebirge Aue
          Jahn Regensburg          1-1 (0-1)  FC Ingolstadt 04
-  16.30  Preußen Münster          1-0 (0-0)  Hallescher FC
+         Viktoria Köln            2-2 (1-0)  Waldhof Mannheim
 [Sun Mar/10]
   13.30  SpVgg Unterhaching       1-0 (0-0)  MSV Duisburg
   16.30  SC Verl                  1-1 (0-0)  Rot-Weiss Essen
@@ -492,12 +497,12 @@ Matchday 30
 [Fri Mar/15]
   19.00  Waldhof Mannheim         1-0 (1-0)  Arminia Bielefeld
 [Sat Mar/16]
-  14.00  MSV Duisburg             2-0 (1-0)  1. FC Saarbrücken
-         VfB Lübeck               1-0 (1-0)  Jahn Regensburg
+  16.30  Hallescher FC            2-2 (2-1)  SC Freiburg II
+  14.00  VfB Lübeck               1-0 (1-0)  Jahn Regensburg
          Erzgebirge Aue           2-1 (0-1)  Viktoria Köln
          Dynamo Dresden           0-0  SSV Ulm 1846
          TSV 1860 München         1-2 (0-1)  Preußen Münster
-  16.30  Hallescher FC            2-2 (2-1)  SC Freiburg II
+         MSV Duisburg             2-0 (1-0)  1. FC Saarbrücken
 [Sun Mar/17]
   13.30  Rot-Weiss Essen          4-0 (1-0)  Borussia Dortmund II
   16.30  SV Sandhausen            1-0 (0-0)  SpVgg Unterhaching
@@ -513,25 +518,25 @@ Matchday 31
          SSV Ulm 1846             2-2 (1-0)  Erzgebirge Aue
   16.30  SC Freiburg II           1-0 (0-0)  TSV 1860 München
 [Sun Mar/31]
+  19.30  Arminia Bielefeld        2-0 (2-0)  MSV Duisburg
   13.30  Viktoria Köln            1-0 (0-0)  VfB Lübeck
   16.30  SC Verl                  4-4 (1-2)  SV Sandhausen
-  19.30  Arminia Bielefeld        2-0 (2-0)  MSV Duisburg
 
 
 Matchday 32
 [Fri Apr/5]
   19.00  FC Ingolstadt 04         1-1 (0-1)  Arminia Bielefeld
 [Sat Apr/6]
+  15.00  TSV 1860 München         3-1 (2-0)  Viktoria Köln
   14.00  VfB Lübeck               0-0  SC Verl
          Preußen Münster          1-3 (0-3)  Jahn Regensburg
          Erzgebirge Aue           2-1 (0-0)  SC Freiburg II
          SV Sandhausen            3-2 (1-0)  Borussia Dortmund II
-  15.00  TSV 1860 München         3-1 (2-0)  Viktoria Köln
   16.30  Waldhof Mannheim         6-1 (0-1)  SpVgg Unterhaching
 [Sun Apr/7]
-  13.30  Dynamo Dresden           1-3 (0-1)  1. FC Saarbrücken
-  16.30  Rot-Weiss Essen          4-1 (1-1)  MSV Duisburg
   19.30  Hallescher FC            0-2 (0-1)  SSV Ulm 1846
+  16.30  Rot-Weiss Essen          4-1 (1-1)  MSV Duisburg
+  13.30  Dynamo Dresden           1-3 (0-1)  1. FC Saarbrücken
 
 
 Matchday 25
@@ -543,11 +548,11 @@ Matchday 33
 [Fri Apr/12]
   19.00  MSV Duisburg             1-1 (1-0)  Waldhof Mannheim
 [Sat Apr/13]
-  14.00  SC Verl                  3-1 (1-0)  Erzgebirge Aue
+  14.00  Viktoria Köln            4-2 (0-0)  Hallescher FC
+         SC Verl                  3-1 (1-0)  Erzgebirge Aue
          SSV Ulm 1846             2-0 (1-0)  Preußen Münster
          SpVgg Unterhaching       4-1 (3-0)  VfB Lübeck
          Borussia Dortmund II     1-1 (1-0)  FC Ingolstadt 04
-         Viktoria Köln            4-2 (0-0)  Hallescher FC
   16.30  1. FC Saarbrücken        4-1 (0-1)  SV Sandhausen
 [Sun Apr/14]
   13.30  Jahn Regensburg          1-1 (0-0)  TSV 1860 München
@@ -559,12 +564,12 @@ Matchday 34
 [Fri Apr/19]
   19.00  SV Sandhausen            1-2 (0-0)  Arminia Bielefeld
 [Sat Apr/20]
-  14.00  VfB Lübeck               0-5 (0-3)  Borussia Dortmund II
-         Erzgebirge Aue           2-1 (1-0)  SpVgg Unterhaching
+  16.30  FC Ingolstadt 04         2-0 (1-0)  MSV Duisburg
+  14.00  Erzgebirge Aue           2-1 (1-0)  SpVgg Unterhaching
          TSV 1860 München         1-1 (0-1)  1. FC Saarbrücken
          Dynamo Dresden           0-2 (0-0)  Viktoria Köln
          Hallescher FC            1-0 (1-0)  SC Verl
-  16.30  FC Ingolstadt 04         2-0 (1-0)  MSV Duisburg
+         VfB Lübeck               0-5 (0-3)  Borussia Dortmund II
 [Sun Apr/21]
   13.30  Waldhof Mannheim         0-2 (0-1)  Rot-Weiss Essen
   16.30  Preußen Münster          2-0 (1-0)  SC Freiburg II
@@ -580,16 +585,16 @@ Matchday 35
 [Fri Apr/26]
   19.00  Arminia Bielefeld        0-0  VfB Lübeck
 [Sat Apr/27]
-  14.00  MSV Duisburg             3-1 (2-0)  SV Sandhausen
+  14.00  Jahn Regensburg          1-1 (0-0)  Dynamo Dresden
+         MSV Duisburg             3-1 (2-0)  SV Sandhausen
          Borussia Dortmund II     2-2 (1-1)  Erzgebirge Aue
          Viktoria Köln            3-5 (2-1)  Preußen Münster
          1. FC Saarbrücken        0-1 (0-0)  Hallescher FC
-         Jahn Regensburg          1-1 (0-0)  Dynamo Dresden
   16.30  SC Verl                  1-1 (0-1)  Waldhof Mannheim
 [Sun Apr/28]
-  13.30  Rot-Weiss Essen          4-0 (3-0)  FC Ingolstadt 04
   16.30  SC Freiburg II           1-2 (0-0)  SSV Ulm 1846
   19.30  SpVgg Unterhaching       2-0 (1-0)  TSV 1860 München
+  13.30  Rot-Weiss Essen          4-0 (3-0)  FC Ingolstadt 04
 
 
 Matchday 36
@@ -619,9 +624,9 @@ Matchday 37
          FC Ingolstadt 04         6-1 (3-1)  VfB Lübeck
   16.30  Waldhof Mannheim         4-2 (4-0)  SV Sandhausen
 [Sun May/12]
-  13.30  MSV Duisburg             2-2 (0-1)  Erzgebirge Aue
   16.30  SC Verl                  2-0 (0-0)  Preußen Münster
   19.30  1. FC Saarbrücken        2-1 (0-0)  SC Freiburg II
+  13.30  MSV Duisburg             2-2 (0-1)  Erzgebirge Aue
 
 
 Matchday 38

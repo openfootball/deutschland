@@ -1,0 +1,643 @@
+= Deutsche 3. Liga 2022/23
+
+# Date       Fri Jul/22 2022 - Sat May/27 2023 (309d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Fri Jul/22]
+  19.00  VfL Osnabrück            1-0 (0-0)  MSV Duisburg
+[Sat Jul/23]
+  14.00  VfB Oldenburg            1-1 (0-1)  SV Meppen
+         FC Ingolstadt 04         1-0 (1-0)  SpVgg Bayreuth
+         Waldhof Mannheim         3-1 (0-0)  Viktoria Köln
+         Rot-Weiss Essen          1-5 (1-4)  SV 07 Elversberg
+         Dynamo Dresden           3-4 (0-2)  TSV 1860 München
+         1. FC Saarbrücken        1-0 (0-0)  SC Verl
+[Sun Jul/24]
+  14.00  FSV Zwickau              3-2 (2-0)  Hallescher FC
+  13.00  SC Freiburg II           1-1 (0-1)  Erzgebirge Aue
+[Mon Jul/25]
+  19.00  SV Wehen Wiesbaden       1-1 (0-0)  Borussia Dortmund II
+
+
+Matchday 2
+[Fri Aug/5]
+  19.00  MSV Duisburg             2-2 (1-0)  Rot-Weiss Essen
+[Sat Aug/6]
+  14.00  TSV 1860 München         1-0 (0-0)  VfB Oldenburg
+         SV 07 Elversberg         0-2 (0-0)  1. FC Saarbrücken
+         Viktoria Köln            1-0 (0-0)  SV Wehen Wiesbaden
+         SV Meppen                3-0 (0-0)  FSV Zwickau
+         Hallescher FC            0-2 (0-1)  Dynamo Dresden
+         SpVgg Bayreuth           0-1 (0-0)  SC Freiburg II
+[Sun Aug/7]
+  14.00  Erzgebirge Aue           1-1 (1-1)  VfL Osnabrück
+  15.00  SC Verl                  2-2 (1-0)  Waldhof Mannheim
+  13.00  Borussia Dortmund II     0-4 (0-2)  FC Ingolstadt 04
+
+
+Matchday 3
+[Tue Aug/9]
+  18.30  VfB Oldenburg            2-3 (0-1)  SV 07 Elversberg
+  19.00  TSV 1860 München         4-0 (1-0)  SV Meppen
+         Rot-Weiss Essen          1-4 (0-2)  Viktoria Köln
+         FSV Zwickau              0-1 (0-1)  MSV Duisburg
+         SC Freiburg II           2-0 (0-0)  Hallescher FC
+[Wed Aug/10]
+  19.00  VfL Osnabrück            0-1 (0-1)  FC Ingolstadt 04
+         Waldhof Mannheim         1-0 (0-0)  Erzgebirge Aue
+         Dynamo Dresden           2-0 (1-0)  SC Verl
+         1. FC Saarbrücken        1-0 (0-0)  Borussia Dortmund II
+         SV Wehen Wiesbaden       4-1 (2-0)  SpVgg Bayreuth
+
+
+Matchday 4
+[Fri Aug/12]
+  19.00  Hallescher FC            2-0 (0-0)  VfB Oldenburg
+[Sat Aug/13]
+  14.00  FC Ingolstadt 04         0-0  1. FC Saarbrücken
+         SV 07 Elversberg         5-0 (2-0)  FSV Zwickau
+         Borussia Dortmund II     1-0 (1-0)  Rot-Weiss Essen
+         Viktoria Köln            2-1 (2-1)  Dynamo Dresden
+         SC Verl                  0-1 (0-0)  TSV 1860 München
+         SpVgg Bayreuth           1-0 (0-0)  VfL Osnabrück
+[Sun Aug/14]
+  14.00  Erzgebirge Aue           1-5 (0-2)  SV Wehen Wiesbaden
+  13.00  SV Meppen                6-2 (3-1)  Waldhof Mannheim
+[Mon Aug/15]
+  19.00  MSV Duisburg             3-1 (1-0)  SC Freiburg II
+
+
+Matchday 5
+[Fri Aug/19]
+  19.00  TSV 1860 München         3-1 (1-0)  Hallescher FC
+[Sat Aug/20]
+  14.00  SV Wehen Wiesbaden       1-1 (0-0)  VfL Osnabrück
+         Waldhof Mannheim         2-1 (0-1)  Borussia Dortmund II
+         Rot-Weiss Essen          2-2 (2-0)  FC Ingolstadt 04
+         Dynamo Dresden           2-3 (1-2)  SV 07 Elversberg
+         1. FC Saarbrücken        0-0  Erzgebirge Aue
+         SC Freiburg II           1-0 (1-0)  Viktoria Köln
+[Sun Aug/21]
+  14.00  SV Meppen                0-3 (0-1)  MSV Duisburg
+  13.00  VfB Oldenburg            1-0 (1-0)  SC Verl
+[Mon Aug/22]
+  19.00  FSV Zwickau              2-0 (2-0)  SpVgg Bayreuth
+
+
+Matchday 6
+[Fri Aug/26]
+  19.00  Hallescher FC            1-1 (1-0)  SV Meppen
+[Sat Aug/27]
+  14.00  VfL Osnabrück            2-2 (1-1)  1. FC Saarbrücken
+         FC Ingolstadt 04         2-3 (2-1)  SV Wehen Wiesbaden
+         SV 07 Elversberg         1-0 (1-0)  Waldhof Mannheim
+         Viktoria Köln            1-1 (1-0)  TSV 1860 München
+         SC Verl                  3-0 (2-0)  FSV Zwickau
+         SpVgg Bayreuth           1-1 (1-0)  Rot-Weiss Essen
+[Sun Aug/28]
+  13.00  Borussia Dortmund II     0-2 (0-1)  SC Freiburg II
+  14.00  Erzgebirge Aue           0-1 (0-0)  Dynamo Dresden
+[Mon Aug/29]
+  19.00  MSV Duisburg             1-1 (0-0)  VfB Oldenburg
+
+
+Matchday 7
+[Fri Sep/2]
+  19.00  Rot-Weiss Essen          2-1 (1-0)  Erzgebirge Aue
+[Sat Sep/3]
+  14.00  VfB Oldenburg            4-3 (1-2)  VfL Osnabrück
+         TSV 1860 München         4-1 (4-1)  MSV Duisburg
+         Waldhof Mannheim         2-1 (1-1)  SpVgg Bayreuth
+         Hallescher FC            5-1 (1-0)  SC Verl
+         Dynamo Dresden           3-0 (1-0)  Borussia Dortmund II
+         SC Freiburg II           1-0 (0-0)  FC Ingolstadt 04
+[Sun Sep/4]
+  14.00  FSV Zwickau              0-0  Viktoria Köln
+  13.00  SV Meppen                0-0  SV 07 Elversberg
+[Mon Sep/5]
+  19.00  1. FC Saarbrücken        2-2 (1-1)  SV Wehen Wiesbaden
+
+
+Matchday 8
+[Fri Sep/9]
+  19.00  VfL Osnabrück            1-0 (1-0)  Rot-Weiss Essen
+[Sat Sep/10]
+  14.00  SV Wehen Wiesbaden       3-1 (1-1)  SC Freiburg II
+         FC Ingolstadt 04         1-0 (0-0)  Waldhof Mannheim
+         SV 07 Elversberg         4-1 (3-0)  TSV 1860 München
+         Borussia Dortmund II     1-2 (0-1)  VfB Oldenburg
+         Viktoria Köln            2-2 (1-0)  Hallescher FC
+         SpVgg Bayreuth           0-6 (0-3)  1. FC Saarbrücken
+[Sun Sep/11]
+  14.00  Erzgebirge Aue           0-1 (0-1)  FSV Zwickau
+  13.00  MSV Duisburg             0-1 (0-0)  Dynamo Dresden
+[Mon Sep/12]
+  19.00  SC Verl                  2-2 (1-2)  SV Meppen
+
+
+Matchday 9
+[Fri Sep/16]
+  19.00  TSV 1860 München         3-1 (1-0)  Erzgebirge Aue
+[Sat Sep/17]
+  14.00  VfB Oldenburg            1-1 (1-0)  SpVgg Bayreuth
+         Waldhof Mannheim         1-0 (0-0)  SV Wehen Wiesbaden
+         SV Meppen                2-2 (1-0)  Viktoria Köln
+         Hallescher FC            1-3 (1-1)  SV 07 Elversberg
+         Dynamo Dresden           1-1 (1-1)  FC Ingolstadt 04
+         FSV Zwickau              1-2 (1-0)  Borussia Dortmund II
+[Sun Sep/18]
+  14.00  SC Verl                  1-0 (0-0)  MSV Duisburg
+  13.00  SC Freiburg II           1-1 (0-0)  VfL Osnabrück
+[Mon Sep/19]
+  19.00  Rot-Weiss Essen          1-0 (1-0)  1. FC Saarbrücken
+
+
+Matchday 10
+[Fri Sep/30]
+  19.00  Erzgebirge Aue           3-0 (2-0)  SV Meppen
+[Sat Oct/1]
+  14.00  VfL Osnabrück            5-0 (3-0)  Waldhof Mannheim
+         MSV Duisburg             1-0 (0-0)  Hallescher FC
+         SV 07 Elversberg         1-2 (1-0)  SC Verl
+         Borussia Dortmund II     1-1 (0-0)  TSV 1860 München
+         1. FC Saarbrücken        2-2 (0-1)  SC Freiburg II
+  14.15  SpVgg Bayreuth           1-1 (1-1)  Dynamo Dresden
+[Sun Oct/2]
+  14.00  SV Wehen Wiesbaden       3-1 (1-0)  Rot-Weiss Essen
+  13.00  Viktoria Köln            1-2 (0-0)  VfB Oldenburg
+[Mon Oct/3]
+  19.00  FC Ingolstadt 04         0-0  FSV Zwickau
+
+
+Matchday 11
+[Fri Oct/7]
+  19.00  SC Verl                  2-2 (0-0)  Viktoria Köln
+[Sat Oct/8]
+  14.00  VfB Oldenburg            1-3 (1-1)  Erzgebirge Aue
+         TSV 1860 München         1-2 (0-1)  FC Ingolstadt 04
+         Waldhof Mannheim         1-0 (1-0)  1. FC Saarbrücken
+         SV 07 Elversberg         3-0 (1-0)  MSV Duisburg
+         SV Meppen                0-1 (0-0)  SpVgg Bayreuth
+         FSV Zwickau              0-1 (0-1)  SV Wehen Wiesbaden
+[Sun Oct/9]
+  13.00  Dynamo Dresden           3-2 (0-2)  VfL Osnabrück
+  14.00  SC Freiburg II           0-3 (0-1)  Rot-Weiss Essen
+[Mon Oct/10]
+  19.00  Hallescher FC            0-0  Borussia Dortmund II
+
+
+Matchday 12
+[Fri Oct/14]
+  19.00  Erzgebirge Aue           1-1 (0-1)  Hallescher FC
+[Sat Oct/15]
+  14.00  Rot-Weiss Essen          1-1 (1-0)  Dynamo Dresden
+         Viktoria Köln            0-2 (0-0)  SV 07 Elversberg
+         1. FC Saarbrücken        3-2 (2-0)  FSV Zwickau
+         SC Freiburg II           3-2 (0-1)  Waldhof Mannheim
+         VfL Osnabrück            0-2 (0-1)  TSV 1860 München
+         FC Ingolstadt 04         3-1 (2-1)  SV Meppen
+[Sun Oct/16]
+  14.00  Borussia Dortmund II     2-0 (1-0)  MSV Duisburg
+  13.00  SpVgg Bayreuth           1-3 (1-1)  SC Verl
+[Mon Oct/17]
+  19.00  SV Wehen Wiesbaden       3-1 (1-1)  VfB Oldenburg
+
+
+Matchday 13
+[Fri Oct/21]
+  19.00  FSV Zwickau              0-1 (0-0)  SC Freiburg II
+[Sat Oct/22]
+  14.00  MSV Duisburg             1-1 (0-1)  Viktoria Köln
+         TSV 1860 München         3-1 (0-0)  SV Wehen Wiesbaden
+         Waldhof Mannheim         1-2 (1-2)  Rot-Weiss Essen
+         SV 07 Elversberg         4-1 (2-0)  VfL Osnabrück
+         SV Meppen                0-2 (0-0)  Borussia Dortmund II
+  14.03  Dynamo Dresden           1-2 (0-1)  1. FC Saarbrücken
+[Sun Oct/23]
+  14.00  SC Verl                  3-2 (2-1)  Erzgebirge Aue
+  13.00  VfB Oldenburg            0-3 (0-2)  FC Ingolstadt 04
+[Mon Oct/24]
+  19.00  Hallescher FC            3-0 (2-0)  SpVgg Bayreuth
+
+
+Matchday 14
+[Fri Oct/28]
+  19.00  SV Wehen Wiesbaden       1-3 (0-0)  MSV Duisburg
+[Sat Oct/29]
+  14.00  Erzgebirge Aue           1-1 (0-0)  SV 07 Elversberg
+         Waldhof Mannheim         2-1 (2-0)  Dynamo Dresden
+         Rot-Weiss Essen          1-1 (1-1)  FSV Zwickau
+         Borussia Dortmund II     1-0 (0-0)  SC Verl
+         1. FC Saarbrücken        0-0  SV Meppen
+         SpVgg Bayreuth           1-0 (1-0)  TSV 1860 München
+[Sun Oct/30]
+  14.00  FC Ingolstadt 04         1-3 (1-2)  Viktoria Köln
+  13.00  SC Freiburg II           1-0 (0-0)  VfB Oldenburg
+[Mon Oct/31]
+  19.00  VfL Osnabrück            3-2 (1-2)  Hallescher FC
+
+
+Matchday 15
+[Fri Nov/4]
+  19.00  SV Meppen                0-3 (0-2)  SV Wehen Wiesbaden
+[Sat Nov/5]
+  14.00  MSV Duisburg             1-1 (0-1)  SpVgg Bayreuth
+         SV 07 Elversberg         3-1 (2-1)  Borussia Dortmund II
+         Viktoria Köln            3-0 (0-0)  Erzgebirge Aue
+         Hallescher FC            3-1 (2-1)  Waldhof Mannheim
+         Dynamo Dresden           1-1 (0-0)  SC Freiburg II
+         SC Verl                  2-1 (1-1)  FC Ingolstadt 04
+[Sun Nov/6]
+  14.00  FSV Zwickau              4-3 (3-2)  VfL Osnabrück
+  15.00  TSV 1860 München         0-1 (0-0)  1. FC Saarbrücken
+  13.00  VfB Oldenburg            3-5 (1-2)  Rot-Weiss Essen
+
+
+Matchday 16
+[Tue Nov/8]
+  19.00  Erzgebirge Aue           0-2 (0-1)  MSV Duisburg
+         FC Ingolstadt 04         1-0 (0-0)  Hallescher FC
+         Borussia Dortmund II     0-2 (0-0)  Viktoria Köln
+         SpVgg Bayreuth           0-1 (0-1)  SV 07 Elversberg
+         SV Wehen Wiesbaden       1-0 (0-0)  Dynamo Dresden
+[Wed Nov/9]
+  19.00  VfL Osnabrück            2-1 (0-1)  SC Verl
+         Waldhof Mannheim         2-1 (0-0)  FSV Zwickau
+         Rot-Weiss Essen          0-0  SV Meppen
+         1. FC Saarbrücken        3-1 (3-0)  VfB Oldenburg
+         SC Freiburg II           2-0 (1-0)  TSV 1860 München
+
+
+Matchday 17
+[Fri Nov/11]
+  19.00  Borussia Dortmund II     0-1 (0-0)  Erzgebirge Aue
+[Sat Nov/12]
+  14.00  SV 07 Elversberg         3-0 (2-0)  SC Freiburg II
+         SV Meppen                0-3 (0-1)  VfL Osnabrück
+         Hallescher FC            1-2 (0-0)  1. FC Saarbrücken
+         Dynamo Dresden           0-0  FSV Zwickau
+         SC Verl                  1-1 (0-1)  SV Wehen Wiesbaden
+         MSV Duisburg             0-1 (0-0)  FC Ingolstadt 04
+[Sun Nov/13]
+  13.00  VfB Oldenburg            1-1 (1-0)  Waldhof Mannheim
+  14.00  Viktoria Köln            2-1 (0-1)  SpVgg Bayreuth
+[Mon Nov/14]
+  19.00  TSV 1860 München         1-1 (0-0)  Rot-Weiss Essen
+
+
+Matchday 18
+[Fri Jan/13]
+  19.00  FSV Zwickau              0-1 (0-1)  VfB Oldenburg
+[Sat Jan/14]
+  14.00  SV Wehen Wiesbaden       1-0 (1-0)  SV 07 Elversberg
+         VfL Osnabrück            3-1 (2-1)  Viktoria Köln
+         Waldhof Mannheim         3-1 (1-1)  TSV 1860 München
+         Rot-Weiss Essen          0-0  Hallescher FC
+         1. FC Saarbrücken        2-3 (0-2)  MSV Duisburg
+         SC Freiburg II           1-1 (0-0)  SC Verl
+[Sun Jan/15]
+  14.00  SpVgg Bayreuth           3-1 (0-1)  Borussia Dortmund II
+  13.00  Dynamo Dresden           1-1 (0-0)  SV Meppen
+[Mon Jan/16]
+  19.00  FC Ingolstadt 04         1-2 (1-1)  Erzgebirge Aue
+
+
+Matchday 19
+[Fri Jan/20]
+  19.00  Viktoria Köln            0-2 (0-1)  1. FC Saarbrücken
+[Sat Jan/21]
+  14.00  Erzgebirge Aue           4-0 (3-0)  SpVgg Bayreuth
+         TSV 1860 München         3-1 (3-0)  FSV Zwickau
+         SV 07 Elversberg         4-3 (3-1)  FC Ingolstadt 04
+         SV Meppen                1-2 (0-2)  SC Freiburg II
+         SC Verl                  1-1 (0-0)  Rot-Weiss Essen
+[Sun Jan/22]
+  14.00  Hallescher FC            2-3 (0-1)  SV Wehen Wiesbaden
+  13.00  VfB Oldenburg            1-3 (1-0)  Dynamo Dresden
+[Mon Jan/23]
+  19.00  MSV Duisburg             1-3 (1-1)  Waldhof Mannheim
+[Tue Jan/24]
+  19.00  Borussia Dortmund II     1-2 (1-2)  VfL Osnabrück
+
+
+Matchday 20
+[Fri Jan/27]
+  19.00  SV 07 Elversberg         3-0 (0-0)  Rot-Weiss Essen
+[Sat Jan/28]
+  14.00  SV Meppen                1-1 (1-1)  VfB Oldenburg
+         SpVgg Bayreuth           1-0 (1-0)  FC Ingolstadt 04
+         Hallescher FC            0-2 (0-1)  FSV Zwickau
+         SC Verl                  2-0 (1-0)  1. FC Saarbrücken
+         Erzgebirge Aue           0-0  SC Freiburg II
+         MSV Duisburg             1-2 (0-2)  VfL Osnabrück
+[Sun Jan/29]
+  14.00  Borussia Dortmund II     0-1 (0-0)  SV Wehen Wiesbaden
+  13.00  Viktoria Köln            1-4 (0-2)  Waldhof Mannheim
+[Mon Jan/30]
+  19.00  TSV 1860 München         1-2 (1-0)  Dynamo Dresden
+
+
+Matchday 21
+[Fri Feb/3]
+  19.00  SC Freiburg II           2-0 (1-0)  SpVgg Bayreuth
+[Sat Feb/4]
+  14.00  VfL Osnabrück            3-1 (1-1)  Erzgebirge Aue
+         1. FC Saarbrücken        0-4 (0-3)  SV 07 Elversberg
+         FC Ingolstadt 04         1-2 (0-2)  Borussia Dortmund II
+         SV Wehen Wiesbaden       1-1 (0-0)  Viktoria Köln
+         FSV Zwickau              1-1 (0-1)  SV Meppen
+         Dynamo Dresden           7-1 (3-0)  Hallescher FC
+[Sun Feb/5]
+  14.00  Rot-Weiss Essen          1-1 (0-0)  MSV Duisburg
+  13.00  VfB Oldenburg            2-2 (0-0)  TSV 1860 München
+[Mon Feb/6]
+  19.00  Waldhof Mannheim         1-1 (1-1)  SC Verl
+
+
+Matchday 22
+[Fri Feb/10]
+  19.00  Erzgebirge Aue           2-1 (2-0)  Waldhof Mannheim
+[Sat Feb/11]
+  14.00  SV 07 Elversberg         3-0 (2-0)  VfB Oldenburg
+         SV Meppen                2-1 (1-1)  TSV 1860 München
+         SC Verl                  2-3 (1-2)  Dynamo Dresden
+         MSV Duisburg             4-0 (2-0)  FSV Zwickau
+         Borussia Dortmund II     1-2 (1-1)  1. FC Saarbrücken
+         Hallescher FC            1-3 (1-1)  SC Freiburg II
+[Sun Feb/12]
+  14.00  SpVgg Bayreuth           2-3 (0-0)  SV Wehen Wiesbaden
+  13.00  FC Ingolstadt 04         1-4 (1-3)  VfL Osnabrück
+[Mon Feb/13]
+  19.00  Viktoria Köln            1-0 (0-0)  Rot-Weiss Essen
+
+
+Matchday 23
+[Fri Feb/17]
+  19.00  SV Wehen Wiesbaden       1-2 (0-1)  Erzgebirge Aue
+[Sat Feb/18]
+  14.00  SC Freiburg II           2-0 (1-0)  MSV Duisburg
+         1. FC Saarbrücken        3-4 (2-1)  FC Ingolstadt 04
+         FSV Zwickau              0-2 (0-0)  SV 07 Elversberg
+         Dynamo Dresden           1-1 (1-1)  Viktoria Köln
+         Waldhof Mannheim         3-1 (2-1)  SV Meppen
+         VfL Osnabrück            2-3 (1-0)  SpVgg Bayreuth
+[Sun Feb/19]
+  14.00  Rot-Weiss Essen          2-0 (0-0)  Borussia Dortmund II
+  13.00  TSV 1860 München         0-3 (0-0)  SC Verl
+[Mon Feb/20]
+  19.00  VfB Oldenburg            0-1 (0-0)  Hallescher FC
+
+
+Matchday 24
+[Fri Feb/24]
+  19.00  Hallescher FC            0-0  TSV 1860 München
+[Sat Feb/25]
+  14.00  VfL Osnabrück            4-1 (2-0)  SV Wehen Wiesbaden
+         SC Verl                  2-1 (1-0)  VfB Oldenburg
+         Borussia Dortmund II     4-0 (2-0)  Waldhof Mannheim
+         FC Ingolstadt 04         1-1 (0-0)  Rot-Weiss Essen
+         MSV Duisburg             0-0  SV Meppen
+         SpVgg Bayreuth           5-3 (1-1)  FSV Zwickau
+[Sun Feb/26]
+  14.00  Erzgebirge Aue           2-1 (0-1)  1. FC Saarbrücken
+  13.00  SV 07 Elversberg         1-1 (0-1)  Dynamo Dresden
+[Mon Feb/27]
+  19.00  Viktoria Köln            0-3 (0-1)  SC Freiburg II
+
+
+Matchday 25
+[Fri Mar/3]
+  19.00  SC Freiburg II           1-0 (0-0)  Borussia Dortmund II
+[Sat Mar/4]
+  14.00  1. FC Saarbrücken        1-2 (1-0)  VfL Osnabrück
+         Dynamo Dresden           1-0 (1-0)  Erzgebirge Aue
+         SV Wehen Wiesbaden       4-1 (2-1)  FC Ingolstadt 04
+         TSV 1860 München         0-1 (0-1)  Viktoria Köln
+         SV Meppen                2-3 (0-1)  Hallescher FC
+         FSV Zwickau              2-1 (2-0)  SC Verl
+[Sun Mar/5]
+  13.00  Rot-Weiss Essen          2-0 (0-0)  SpVgg Bayreuth
+  14.00  VfB Oldenburg            2-3 (1-3)  MSV Duisburg
+[Mon Mar/6]
+  19.00  Waldhof Mannheim         2-1 (0-1)  SV 07 Elversberg
+
+
+Matchday 26
+[Fri Mar/10]
+  19.00  SC Verl                  2-2 (2-1)  Hallescher FC
+[Sat Mar/11]
+  14.00  MSV Duisburg             2-2 (0-0)  TSV 1860 München
+         SpVgg Bayreuth           1-3 (1-2)  Waldhof Mannheim
+         Erzgebirge Aue           2-1 (2-0)  Rot-Weiss Essen
+         SV 07 Elversberg         2-2 (2-2)  SV Meppen
+         Viktoria Köln            1-1 (0-1)  FSV Zwickau
+         VfL Osnabrück            2-0 (1-0)  VfB Oldenburg
+[Sun Mar/12]
+  13.00  FC Ingolstadt 04         0-1 (0-0)  SC Freiburg II
+  14.00  SV Wehen Wiesbaden       0-2 (0-0)  1. FC Saarbrücken
+  15.00  Borussia Dortmund II     1-3 (0-3)  Dynamo Dresden
+
+
+Matchday 27
+[Tue Mar/14]
+  19.00  TSV 1860 München         1-1 (1-1)  SV 07 Elversberg
+         Hallescher FC            2-2 (0-0)  Viktoria Köln
+         SV Meppen                1-3 (0-2)  SC Verl
+  19.15  Rot-Weiss Essen          1-1 (0-1)  VfL Osnabrück
+  19.00  FSV Zwickau              0-2 (0-0)  Erzgebirge Aue
+[Wed Mar/15]
+  19.00  SC Freiburg II           4-2 (0-0)  SV Wehen Wiesbaden
+         Dynamo Dresden           2-0 (0-0)  MSV Duisburg
+         Waldhof Mannheim         3-2 (1-0)  FC Ingolstadt 04
+         VfB Oldenburg            2-1 (1-1)  Borussia Dortmund II
+         1. FC Saarbrücken        5-0 (1-0)  SpVgg Bayreuth
+
+
+Matchday 28
+[Fri Mar/17]
+  19.00  Viktoria Köln            3-1 (1-1)  SV Meppen
+[Sat Mar/18]
+  14.00  SpVgg Bayreuth           1-2 (0-1)  VfB Oldenburg
+         Erzgebirge Aue           1-3 (0-2)  TSV 1860 München
+         SV Wehen Wiesbaden       3-0 (0-0)  Waldhof Mannheim
+         1. FC Saarbrücken        3-0 (2-0)  Rot-Weiss Essen
+         MSV Duisburg             3-3 (2-2)  SC Verl
+         VfL Osnabrück            1-1 (1-1)  SC Freiburg II
+[Sun Mar/19]
+  14.00  Borussia Dortmund II     4-0 (2-0)  FSV Zwickau
+  13.00  SV 07 Elversberg         1-1 (1-0)  Hallescher FC
+[Mon Mar/20]
+  19.00  FC Ingolstadt 04         2-3 (1-2)  Dynamo Dresden
+
+
+Matchday 29
+[Fri Mar/24]
+  19.00  Hallescher FC            2-2 (1-1)  MSV Duisburg
+[Sat Mar/25]
+  14.00  Rot-Weiss Essen          1-3 (1-2)  SV Wehen Wiesbaden
+         Waldhof Mannheim         0-2 (0-1)  VfL Osnabrück
+         SV Meppen                3-2 (1-1)  Erzgebirge Aue
+         SC Verl                  1-2 (0-1)  SV 07 Elversberg
+         VfB Oldenburg            1-3 (0-2)  Viktoria Köln
+         Dynamo Dresden           1-2 (0-1)  SpVgg Bayreuth
+[Sun Mar/26]
+  14.00  FSV Zwickau              2-0 (0-0)  FC Ingolstadt 04
+  13.00  TSV 1860 München         1-4 (0-3)  Borussia Dortmund II
+[Mon Mar/27]
+  19.00  SC Freiburg II           1-1 (0-1)  1. FC Saarbrücken
+
+
+Matchday 30
+[Fri Mar/31]
+  19.00  SpVgg Bayreuth           3-0 (1-0)  SV Meppen
+[Sat Apr/1]
+  14.00  Erzgebirge Aue           1-0 (0-0)  VfB Oldenburg
+         Borussia Dortmund II     0-0  Hallescher FC
+         SV Wehen Wiesbaden       4-3 (0-2)  FSV Zwickau
+         Viktoria Köln            2-1 (0-1)  SC Verl
+         Rot-Weiss Essen          2-0 (1-0)  SC Freiburg II
+[Sun Apr/2]
+  14.00  1. FC Saarbrücken        2-1 (0-1)  Waldhof Mannheim
+  13.00  VfL Osnabrück            0-1 (0-0)  Dynamo Dresden
+[Mon Apr/3]
+  19.00  FC Ingolstadt 04         1-3 (0-2)  TSV 1860 München
+
+
+Matchday 31
+[Sat Apr/8]
+  14.00  Dynamo Dresden           2-1 (1-1)  Rot-Weiss Essen
+         MSV Duisburg             0-5 (0-1)  Borussia Dortmund II
+         Waldhof Mannheim         2-1 (0-1)  SC Freiburg II
+         VfB Oldenburg            1-2 (0-2)  SV Wehen Wiesbaden
+         Hallescher FC            5-2 (1-2)  Erzgebirge Aue
+         TSV 1860 München         3-0 (1-0)  VfL Osnabrück
+[Sun Apr/9]
+  15.00  SC Verl                  4-1 (2-0)  SpVgg Bayreuth
+  13.00  SV Meppen                0-3 (0-0)  FC Ingolstadt 04
+  14.00  FSV Zwickau              2-2 (1-0)  1. FC Saarbrücken
+[Mon Apr/10]
+  19.00  SV 07 Elversberg         3-2 (2-1)  Viktoria Köln
+
+
+Matchday 32
+[Fri Apr/14]
+  19.00  1. FC Saarbrücken        2-0 (2-0)  Dynamo Dresden
+[Sat Apr/15]
+  14.00  FC Ingolstadt 04         0-2 (0-2)  VfB Oldenburg
+         SV Wehen Wiesbaden       2-0 (1-0)  TSV 1860 München
+         VfL Osnabrück            1-0 (0-0)  SV 07 Elversberg
+         Erzgebirge Aue           2-3 (0-1)  SC Verl
+         SpVgg Bayreuth           0-1 (0-1)  Hallescher FC
+         Borussia Dortmund II     1-0 (0-0)  SV Meppen
+[Sun Apr/16]
+  14.00  Rot-Weiss Essen          0-3 (0-1)  Waldhof Mannheim
+  13.00  SC Freiburg II           4-0 (4-0)  FSV Zwickau
+[Mon Apr/17]
+  19.10  Viktoria Köln            2-2 (2-2)  MSV Duisburg
+
+
+Matchday 33
+[Fri Apr/21]
+  19.00  Hallescher FC            0-1 (0-1)  VfL Osnabrück
+[Sat Apr/22]
+  14.00  VfB Oldenburg            0-0  SC Freiburg II
+         MSV Duisburg             1-1 (0-1)  SV Wehen Wiesbaden
+         SV 07 Elversberg         0-1 (0-0)  Erzgebirge Aue
+         Viktoria Köln            3-1 (1-0)  FC Ingolstadt 04
+         Dynamo Dresden           2-1 (1-1)  Waldhof Mannheim
+         TSV 1860 München         2-0 (1-0)  SpVgg Bayreuth
+[Sun Apr/23]
+  13.00  SV Meppen                1-0 (0-0)  1. FC Saarbrücken
+  14.00  FSV Zwickau              0-2  Rot-Weiss Essen          [awarded]
+[Mon Apr/24]
+  19.00  SC Verl                  2-1 (2-0)  Borussia Dortmund II
+
+
+Matchday 30
+[Tue Apr/25]
+  19.00  MSV Duisburg             2-2 (1-2)  SV 07 Elversberg
+
+
+Matchday 34
+[Fri Apr/28]
+  19.00  Waldhof Mannheim         4-1 (2-1)  Hallescher FC
+[Sat Apr/29]
+  14.00  SpVgg Bayreuth           0-4 (0-1)  MSV Duisburg
+         Borussia Dortmund II     2-0 (1-0)  SV 07 Elversberg
+         Erzgebirge Aue           1-1 (0-1)  Viktoria Köln
+         SV Wehen Wiesbaden       1-2 (1-1)  SV Meppen
+         SC Freiburg II           1-1 (0-1)  Dynamo Dresden
+         FC Ingolstadt 04         3-1 (2-0)  SC Verl
+[Sun Apr/30]
+  14.00  1. FC Saarbrücken        2-0 (2-0)  TSV 1860 München
+  15.00  Rot-Weiss Essen          0-0  VfB Oldenburg
+  13.00  VfL Osnabrück            4-3 (1-2)  FSV Zwickau
+
+
+Matchday 35
+[Fri May/5]
+  19.00  MSV Duisburg             3-0 (1-0)  Erzgebirge Aue
+[Sat May/6]
+  14.00  Dynamo Dresden           3-1 (1-1)  SV Wehen Wiesbaden
+         Hallescher FC            1-0 (0-0)  FC Ingolstadt 04
+         FSV Zwickau              3-1 (0-1)  Waldhof Mannheim
+         SV Meppen                2-0 (1-0)  Rot-Weiss Essen
+         TSV 1860 München         1-0 (1-0)  SC Freiburg II
+         SV 07 Elversberg         5-2 (4-2)  SpVgg Bayreuth
+[Sun May/7]
+  13.00  VfB Oldenburg            0-1 (0-0)  1. FC Saarbrücken
+  14.00  Viktoria Köln            1-1 (0-1)  Borussia Dortmund II
+[Mon May/8]
+  19.00  SC Verl                  0-1 (0-1)  VfL Osnabrück
+
+
+Matchday 36
+[Fri May/12]
+  19.00  FC Ingolstadt 04         2-0 (1-0)  MSV Duisburg
+[Sat May/13]
+  14.00  SC Freiburg II           2-1 (0-0)  SV 07 Elversberg
+         SpVgg Bayreuth           1-4 (1-1)  Viktoria Köln
+         1. FC Saarbrücken        2-0 (1-0)  Hallescher FC
+         FSV Zwickau              0-1 (0-1)  Dynamo Dresden
+         SV Wehen Wiesbaden       2-1 (1-1)  SC Verl
+         Waldhof Mannheim         1-3 (0-2)  VfB Oldenburg
+[Sun May/14]
+  13.00  Rot-Weiss Essen          2-2 (1-0)  TSV 1860 München
+  14.00  VfL Osnabrück            2-2 (1-1)  SV Meppen
+[Mon May/15]
+  19.00  Erzgebirge Aue           3-3 (1-1)  Borussia Dortmund II
+
+
+Matchday 37
+[Fri May/19]
+  19.00  TSV 1860 München         3-1 (3-0)  Waldhof Mannheim
+[Sat May/20]
+  14.00  SV 07 Elversberg         1-1 (0-0)  SV Wehen Wiesbaden
+         Viktoria Köln            0-2 (0-0)  VfL Osnabrück
+         Erzgebirge Aue           0-3 (0-3)  FC Ingolstadt 04
+         Hallescher FC            2-0 (1-0)  Rot-Weiss Essen
+         SC Verl                  1-2 (0-0)  SC Freiburg II
+         Borussia Dortmund II     1-0 (0-0)  SpVgg Bayreuth
+[Sun May/21]
+  14.00  MSV Duisburg             2-2 (2-1)  1. FC Saarbrücken
+  13.00  VfB Oldenburg            1-2 (1-0)  FSV Zwickau
+[Mon May/22]
+  19.00  SV Meppen                4-1 (0-1)  Dynamo Dresden
+
+
+Matchday 38
+[Sat May/27]
+  13.30  SpVgg Bayreuth           3-3 (0-1)  Erzgebirge Aue
+         Dynamo Dresden           2-1 (1-1)  VfB Oldenburg
+         Waldhof Mannheim         3-1 (2-0)  MSV Duisburg
+         FSV Zwickau              2-2 (0-0)  TSV 1860 München
+         FC Ingolstadt 04         1-2 (0-1)  SV 07 Elversberg
+         VfL Osnabrück            2-1 (0-0)  Borussia Dortmund II
+         1. FC Saarbrücken        2-1 (2-1)  Viktoria Köln
+         SC Freiburg II           2-0 (1-0)  SV Meppen
+         SV Wehen Wiesbaden       1-0 (1-0)  Hallescher FC
+         Rot-Weiss Essen          2-2 (1-0)  SC Verl

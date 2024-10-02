@@ -53,32 +53,32 @@ Matchday 3
 
 Matchday 4
 [Fri Sep/20]
-  20.30  FC Augsburg              -  1. FSV Mainz 05
+  20.30  FC Augsburg              2-3 (1-2)  1. FSV Mainz 05
 [Sat Sep/21]
-  15.30  1. FC Heidenheim 1846    -  SC Freiburg
-         SV Werder Bremen         -  FC Bayern München
-         1. FC Union Berlin       -  TSG 1899 Hoffenheim
-         VfL Bochum 1848          -  Holstein Kiel
-  18.30  Eintracht Frankfurt      -  Borussia Mönchengladbach
+  15.30  1. FC Heidenheim 1846    0-3 (0-0)  SC Freiburg
+         SV Werder Bremen         0-5 (0-2)  FC Bayern München
+         1. FC Union Berlin       2-1 (2-0)  TSG 1899 Hoffenheim
+         VfL Bochum 1848          2-2 (2-1)  Holstein Kiel
+  18.30  Eintracht Frankfurt      2-0 (1-0)  Borussia Mönchengladbach
 [Sun Sep/22]
-  15.30  Bayer 04 Leverkusen      -  VfL Wolfsburg
-  17.30  VfB Stuttgart            -  Borussia Dortmund
-  19.30  FC St. Pauli 1910        -  RB Leipzig
+  15.30  Bayer 04 Leverkusen      4-3 (2-3)  VfL Wolfsburg
+  17.30  VfB Stuttgart            5-1 (2-0)  Borussia Dortmund
+  19.30  FC St. Pauli 1910        0-0  RB Leipzig
 
 
 Matchday 5
 [Fri Sep/27]
-  20.30  Borussia Dortmund        -  VfL Bochum 1848
+  20.30  Borussia Dortmund        4-2 (1-2)  VfL Bochum 1848
 [Sat Sep/28]
-  15.30  RB Leipzig               -  FC Augsburg
-         SC Freiburg              -  FC St. Pauli 1910
-         VfL Wolfsburg            -  VfB Stuttgart
-         1. FSV Mainz 05          -  1. FC Heidenheim 1846
-         Borussia Mönchengladbach  -  1. FC Union Berlin
-  18.30  FC Bayern München        -  Bayer 04 Leverkusen
+  15.30  RB Leipzig               4-0 (2-0)  FC Augsburg
+         SC Freiburg              0-3 (0-2)  FC St. Pauli 1910
+         VfL Wolfsburg            2-2 (1-1)  VfB Stuttgart
+         1. FSV Mainz 05          0-2 (0-1)  1. FC Heidenheim 1846
+         Borussia Mönchengladbach  1-0 (0-0)  1. FC Union Berlin
+  18.30  FC Bayern München        1-1 (1-1)  Bayer 04 Leverkusen
 [Sun Sep/29]
-  15.30  Holstein Kiel            -  Eintracht Frankfurt
-  17.30  TSG 1899 Hoffenheim      -  SV Werder Bremen
+  15.30  Holstein Kiel            2-4 (1-1)  Eintracht Frankfurt
+  17.30  TSG 1899 Hoffenheim      3-4 (3-3)  SV Werder Bremen
 
 
 Matchday 6

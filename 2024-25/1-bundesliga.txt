@@ -6,7 +6,7 @@
 
 
 
-Round 1
+Matchday 1
 [Fri Aug/23]
   20.30  Borussia Mönchengladbach  2-3 (0-2)  Bayer 04 Leverkusen
 [Sat Aug/24]
@@ -21,7 +21,7 @@ Round 1
   17.30  FC St. Pauli 1910        0-2 (0-0)  1. FC Heidenheim 1846
 
 
-Round 2
+Matchday 2
 [Fri Aug/30]
   20.30  1. FC Union Berlin       1-0 (1-0)  FC St. Pauli 1910
 [Sat Aug/31]
@@ -36,7 +36,7 @@ Round 2
   17.30  FC Bayern München        2-0 (1-0)  SC Freiburg
 
 
-Round 3
+Matchday 3
 [Fri Sep/13]
   20.30  Borussia Dortmund        4-2 (3-1)  1. FC Heidenheim 1846
 [Sat Sep/14]
@@ -51,7 +51,7 @@ Round 3
   17.30  1. FSV Mainz 05          1-2 (1-1)  SV Werder Bremen
 
 
-Round 4
+Matchday 4
 [Fri Sep/20]
   20.30  FC Augsburg              2-3 (1-2)  1. FSV Mainz 05
 [Sat Sep/21]
@@ -66,7 +66,7 @@ Round 4
   19.30  FC St. Pauli 1910        0-0  RB Leipzig
 
 
-Round 5
+Matchday 5
 [Fri Sep/27]
   20.30  Borussia Dortmund        4-2 (1-2)  VfL Bochum 1848
 [Sat Sep/28]
@@ -81,7 +81,7 @@ Round 5
   17.30  TSG 1899 Hoffenheim      3-4 (3-3)  SV Werder Bremen
 
 
-Round 6
+Matchday 6
 [Fri Oct/4]
   20.30  FC Augsburg              2-1 (1-0)  Borussia Mönchengladbach
 [Sat Oct/5]
@@ -96,7 +96,7 @@ Round 6
   19.30  VfB Stuttgart            1-1 (0-1)  TSG 1899 Hoffenheim
 
 
-Round 7
+Matchday 7
 [Fri Oct/18]
   20.30  Borussia Dortmund        2-1 (1-0)  FC St. Pauli 1910
 [Sat Oct/19]
@@ -111,7 +111,7 @@ Round 7
   17.30  VfL Wolfsburg            2-4 (1-1)  SV Werder Bremen
 
 
-Round 8
+Matchday 8
 [Fri Oct/25]
   20.30  1. FSV Mainz 05          1-1 (0-0)  Borussia Mönchengladbach
 [Sat Oct/26]
@@ -126,7 +126,7 @@ Round 8
   19.30  1. FC Heidenheim 1846    0-0  TSG 1899 Hoffenheim
 
 
-Round 9
+Matchday 9
 [Fri Nov/1]
   20.30  Bayer 04 Leverkusen      0-0  VfB Stuttgart
 [Sat Nov/2]
@@ -141,7 +141,7 @@ Round 9
   17.30  Borussia Mönchengladbach  4-1 (3-0)  SV Werder Bremen
 
 
-Round 10
+Matchday 10
 [Fri Nov/8]
   20.30  1. FC Union Berlin       0-0  SC Freiburg
 [Sat Nov/9]
@@ -156,7 +156,7 @@ Round 10
   19.30  1. FC Heidenheim 1846    1-3 (0-2)  VfL Wolfsburg
 
 
-Round 11
+Matchday 11
 [Fri Nov/22]
   20.30  FC Bayern München        3-0 (0-0)  FC Augsburg
 [Sat Nov/23]
@@ -171,7 +171,7 @@ Round 11
   17.30  Borussia Mönchengladbach  2-0 (2-0)  FC St. Pauli 1910
 
 
-Round 12
+Matchday 12
 [Fri Nov/29]
   20.30  FC St. Pauli 1910        3-1 (1-0)  Holstein Kiel
 [Sat Nov/30]
@@ -186,7 +186,7 @@ Round 12
   17.30  1. FC Heidenheim 1846    0-4 (0-1)  Eintracht Frankfurt
 
 
-Round 13
+Matchday 13
 [Fri Dec/6]
   20.30  VfB Stuttgart            3-2 (0-1)  1. FC Union Berlin
 [Sat Dec/7]
@@ -201,7 +201,7 @@ Round 13
   17.30  TSG 1899 Hoffenheim      1-1 (0-0)  SC Freiburg
 
 
-Round 14
+Matchday 14
 [Fri Dec/13]
   20.30  SC Freiburg              3-2 (1-0)  VfL Wolfsburg
 [Sat Dec/14]
@@ -216,7 +216,7 @@ Round 14
   19.30  RB Leipzig               2-1 (1-1)  Eintracht Frankfurt
 
 
-Round 15
+Matchday 15
 [Fri Dec/20]
   20.30  FC Bayern München        5-1 (3-1)  RB Leipzig
 [Sat Dec/21]
@@ -231,7 +231,7 @@ Round 15
   17.30  VfL Wolfsburg            1-3 (0-3)  Borussia Dortmund
 
 
-Round 16
+Matchday 16
 [Fri Jan/10]
   20.30  Borussia Dortmund        -  Bayer 04 Leverkusen
 [Sat Jan/11]
@@ -246,7 +246,7 @@ Round 16
   17.30  FC Augsburg              -  VfB Stuttgart
 
 
-Round 17
+Matchday 17
 [Tue Jan/14]
   18.30  Holstein Kiel            -  Borussia Dortmund
   20.30  Bayer 04 Leverkusen      -  1. FSV Mainz 05
@@ -260,7 +260,7 @@ Round 17
          1. FC Union Berlin       -  FC Augsburg
 
 
-Round 18
+Matchday 18
 [Fri Jan/17]
   20.30  Eintracht Frankfurt      -  Borussia Dortmund
 [Sat Jan/18]
@@ -275,7 +275,7 @@ Round 18
   17.30  SV Werder Bremen         -  FC Augsburg
 
 
-Round 19
+Matchday 19
 [Fri Jan/24]
   20.30  VfL Wolfsburg            -  Holstein Kiel
 [Sat Jan/25]
@@ -290,7 +290,7 @@ Round 19
   17.30  FC St. Pauli 1910        -  1. FC Union Berlin
 
 
-Round 20
+Matchday 20
 [Fri Jan/31]
   20.30  SV Werder Bremen         -  1. FSV Mainz 05
 [Sat Feb/1]
@@ -305,7 +305,7 @@ Round 20
   17.30  Bayer 04 Leverkusen      -  TSG 1899 Hoffenheim
 
 
-Round 21
+Matchday 21
 [Fri Feb/7]
   20.30  FC Bayern München        -  SV Werder Bremen
 [Sat Feb/8]
@@ -320,7 +320,7 @@ Round 21
   17.30  RB Leipzig               -  FC St. Pauli 1910
 
 
-Round 22
+Matchday 22
 [Fri Feb/14]
   20.30  FC Augsburg              -  RB Leipzig
 [Sat Feb/15]
@@ -335,7 +335,7 @@ Round 22
   19.30  1. FC Heidenheim 1846    -  1. FSV Mainz 05
 
 
-Round 23
+Matchday 23
 [Fri Feb/21]
   20.30  SC Freiburg              -  SV Werder Bremen
 [Sat Feb/22]
@@ -350,7 +350,7 @@ Round 23
   19.30  TSG 1899 Hoffenheim      -  VfB Stuttgart
 
 
-Round 24
+Matchday 24
 [Fri Feb/28]
   20.30  VfB Stuttgart            -  FC Bayern München
 [Sat Mar/1]
@@ -365,7 +365,7 @@ Round 24
   17.30  FC Augsburg              -  SC Freiburg
 
 
-Round 25
+Matchday 25
 [Sat Mar/8]
          Holstein Kiel            -  VfB Stuttgart
          SC Freiburg              -  RB Leipzig
@@ -378,7 +378,7 @@ Round 25
          VfL Wolfsburg            -  FC St. Pauli 1910
 
 
-Round 26
+Matchday 26
 [Sat Mar/15]
          VfB Stuttgart            -  Bayer 04 Leverkusen
          1. FC Union Berlin       -  FC Bayern München
@@ -391,7 +391,7 @@ Round 26
          1. FC Heidenheim 1846    -  Holstein Kiel
 
 
-Round 27
+Matchday 27
 [Sat Mar/29]
          Eintracht Frankfurt      -  VfB Stuttgart
          Borussia Mönchengladbach  -  RB Leipzig
@@ -404,7 +404,7 @@ Round 27
          FC Bayern München        -  FC St. Pauli 1910
 
 
-Round 28
+Matchday 28
 [Sat Apr/5]
          1. FC Heidenheim 1846    -  Bayer 04 Leverkusen
          VfL Bochum 1848          -  VfB Stuttgart
@@ -417,7 +417,7 @@ Round 28
          1. FSV Mainz 05          -  Holstein Kiel
 
 
-Round 29
+Matchday 29
 [Sat Apr/12]
          VfL Wolfsburg            -  RB Leipzig
          FC Bayern München        -  Borussia Dortmund
@@ -430,7 +430,7 @@ Round 29
          Holstein Kiel            -  FC St. Pauli 1910
 
 
-Round 30
+Matchday 30
 [Sat Apr/19]
          FC St. Pauli 1910        -  Bayer 04 Leverkusen
          1. FC Union Berlin       -  VfB Stuttgart
@@ -443,7 +443,7 @@ Round 30
          RB Leipzig               -  Holstein Kiel
 
 
-Round 31
+Matchday 31
 [Sat Apr/26]
          Eintracht Frankfurt      -  RB Leipzig
          TSG 1899 Hoffenheim      -  Borussia Dortmund
@@ -456,7 +456,7 @@ Round 31
          Bayer 04 Leverkusen      -  FC Augsburg
 
 
-Round 32
+Matchday 32
 [Sat May/3]
          SC Freiburg              -  Bayer 04 Leverkusen
          FC St. Pauli 1910        -  VfB Stuttgart
@@ -469,7 +469,7 @@ Round 32
          FC Augsburg              -  Holstein Kiel
 
 
-Round 33
+Matchday 33
 [Sat May/10]
          SV Werder Bremen         -  RB Leipzig
          Bayer 04 Leverkusen      -  Borussia Dortmund
@@ -482,7 +482,7 @@ Round 33
          Eintracht Frankfurt      -  FC St. Pauli 1910
 
 
-Round 34
+Matchday 34
 [Sat May/17]
   15.30  1. FSV Mainz 05          -  Bayer 04 Leverkusen
          RB Leipzig               -  VfB Stuttgart

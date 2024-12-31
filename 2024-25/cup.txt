@@ -1,17 +1,17 @@
 = DFB Pokal 2024/25
 
-# Date       Fri Aug/16 - Wed Oct/30 2024 (75d)
+# Date       Fri Aug/16 2024 - Sat May/24 2025 (281d)
 # Teams      64
-# Matches    48
+# Matches    63
 
 
 
 Round 1
 [Fri Aug/16]
-  18.00  SV Wehen Wiesbaden       1-3 a.e.t. (1-1, 1-0)  1. FSV Mainz 05
+  18.00  Würzburger Kickers       3-5 pen. 2-2 a.e.t. (1-1, 1-1)  1899 Hoffenheim
+         SV Wehen Wiesbaden       1-3 a.e.t. (1-1, 1-0)  1. FSV Mainz 05
          Hallescher FC            2-3 a.e.t. (2-2, 1-0)  FC St. Pauli
   20.45  SSV Ulm 1846             0-4 (0-2)  Bayern München
-  18.00  Würzburger Kickers       3-5 pen. 2-2 a.e.t. (1-1, 1-1)  1899 Hoffenheim
 [Sat Aug/17]
   13.00  Erzgebirge Aue           1-3 (1-1)  Bor. Mönchengladbach
          TSV Schott Mainz         0-2 (0-1)  SpVgg Greuther Fürth
@@ -37,10 +37,10 @@ Round 1
          Sportfreunde Lotte       0-5 (0-2)  Karlsruher SC
          SV Meppen                1-7 (0-2)  Hamburger SV
 [Mon Aug/19]
-  18.00  Energie Cottbus          1-3 (0-2)  Werder Bremen
+  18.00  TuS Koblenz              0-1 (0-1)  VfL Wolfsburg
+         Energie Cottbus          1-3 (0-2)  Werder Bremen
          Kickers Offenbach        2-1 (1-0)  1. FC Magdeburg
   20.45  Eintracht Braunschweig   1-4 (0-0)  Eintracht Frankfurt
-  18.00  TuS Koblenz              0-1 (0-1)  VfL Wolfsburg
 [Tue Aug/27]
   20.45  Preußen Münster          0-5 (0-3)  VfB Stuttgart
 [Wed Aug/28]
@@ -49,20 +49,56 @@ Round 1
 
 Round 2
 [Tue Oct/29]
-  18.00  RB Leipzig               -  FC St. Pauli
-         FC Augsburg              -  FC Schalke 04
-         Bayer Leverkusen         -  SV 07 Elversberg
-         Kickers Offenbach        -  Karlsruher SC
-  20.45  VfL Wolfsburg            -  Borussia Dortmund
-         VfB Stuttgart            -  1. FC Kaiserslautern
-         1. FC Köln               -  Holstein Kiel
-         Jahn Regensburg          -  SpVgg Greuther Fürth
+  18.00  RB Leipzig               4-2 (3-1)  FC St. Pauli
+         FC Augsburg              3-0 (1-0)  FC Schalke 04
+         Bayer Leverkusen         3-0 (3-0)  SV 07 Elversberg
+         Kickers Offenbach        0-2 (0-0)  Karlsruher SC
+  20.45  VfL Wolfsburg            1-0 a.e.t. (0-0)  Borussia Dortmund
+         VfB Stuttgart            2-1 (1-1)  1. FC Kaiserslautern
+         1. FC Köln               3-0 (1-0)  Holstein Kiel
+         Jahn Regensburg          1-0 (0-0)  SpVgg Greuther Fürth
 [Wed Oct/30]
-  18.00  SC Freiburg              -  Hamburger SV
-         Hertha BSC               -  1. FC Heidenheim 1846
-         SC Paderborn 07          -  Werder Bremen
-  20.45  1. FSV Mainz 05          -  Bayern München
-         1899 Hoffenheim          -  1. FC Nürnberg
-         Arminia Bielefeld        -  1. FC Union Berlin
-         Dynamo Dresden           -  SV Darmstadt 98
-  18.00  Eintracht Frankfurt      -  Bor. Mönchengladbach
+  18.00  Eintracht Frankfurt      2-1 (1-0)  Bor. Mönchengladbach
+         SC Freiburg              2-1 (2-0)  Hamburger SV
+         Hertha BSC               2-1 (1-0)  1. FC Heidenheim 1846
+         SC Paderborn 07          0-1 (0-1)  Werder Bremen
+  20.45  1. FSV Mainz 05          0-4 (0-4)  Bayern München
+         1899 Hoffenheim          2-1 (1-0)  1. FC Nürnberg
+         Arminia Bielefeld        2-0 (1-0)  1. FC Union Berlin
+         Dynamo Dresden           2-3 a.e.t. (2-2, 0-0)  SV Darmstadt 98
+
+
+Round of 16
+[Tue Dec/3]
+  18.00  Arminia Bielefeld        3-1 (2-0)  SC Freiburg
+         Jahn Regensburg          0-3 (0-2)  VfB Stuttgart
+  20.45  Bayern München           0-1 (0-0)  Bayer Leverkusen
+         Werder Bremen            1-0 (0-0)  SV Darmstadt 98
+[Wed Dec/4]
+  18.00  1. FC Köln               2-1 a.e.t. (1-1, 1-1)  Hertha BSC
+         VfL Wolfsburg            3-0 (0-0)  1899 Hoffenheim
+  20.45  RB Leipzig               3-0 (1-0)  Eintracht Frankfurt
+         Karlsruher SC            4-5 pen. 2-2 a.e.t. (1-1, 0-1)  FC Augsburg
+
+
+Quarterfinals
+[Tue Feb/4]
+  20.45  VfB Stuttgart            -  FC Augsburg
+[Wed Feb/5]
+  20.45  Bayer Leverkusen         -  1. FC Köln
+[Tue Feb/25]
+  20.45  Arminia Bielefeld        -  Werder Bremen
+[Wed Feb/26]
+  20.45  RB Leipzig               -  VfL Wolfsburg
+
+
+Semifinals
+[Tue Apr/1]
+         N.N.                     -  N.N.
+[Wed Apr/2]
+         N.N.                     -  N.N.
+
+
+Final
+[Sat May/24]
+         N.N.                     -  N.N.

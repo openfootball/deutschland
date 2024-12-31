@@ -16,9 +16,9 @@ Matchday 1
          1. FC Magdeburg          0-0  SV 07 Elversberg
   20.30  FC Schalke 04            5-1 (2-1)  Eintracht Braunschweig
 [Sun Aug/4]
-  13.30  SpVgg Greuther Fürth     3-1 (1-1)  Preußen Münster
+  13.30  SV Darmstadt 98          0-2 (0-0)  Fortuna Düsseldorf
+         SpVgg Greuther Fürth     3-1 (1-1)  Preußen Münster
          SSV Ulm 1846             1-2 (0-0)  1. FC Kaiserslautern
-         SV Darmstadt 98          0-2 (0-0)  Fortuna Düsseldorf
 
 
 Matchday 2
@@ -26,14 +26,14 @@ Matchday 2
   18.30  1. FC Kaiserslautern     2-2 (1-2)  SpVgg Greuther Fürth
          Jahn Regensburg          1-0 (1-0)  SSV Ulm 1846
 [Sat Aug/10]
-  13.00  SV 07 Elversberg         2-2 (0-1)  1. FC Köln
+  13.00  Fortuna Düsseldorf       0-0  Karlsruher SC
+         SV 07 Elversberg         2-2 (0-1)  1. FC Köln
          1. FC Nürnberg           3-1 (0-1)  FC Schalke 04
   20.30  Hamburger SV             1-1 (1-0)  Hertha BSC
-  13.00  Fortuna Düsseldorf       0-0  Karlsruher SC
 [Sun Aug/11]
-  13.30  Eintracht Braunschweig   1-3 (0-1)  1. FC Magdeburg
+  13.30  SC Paderborn 07          3-1 (0-1)  SV Darmstadt 98
+         Eintracht Braunschweig   1-3 (0-1)  1. FC Magdeburg
          Preußen Münster          0-0  Hannover 96
-         SC Paderborn 07          3-1 (0-1)  SV Darmstadt 98
 
 
 Matchday 3
@@ -41,14 +41,14 @@ Matchday 3
   18.30  Karlsruher SC            3-2 (1-1)  SV 07 Elversberg
          Hannover 96              1-0 (0-0)  Hamburger SV
 [Sat Aug/24]
-  13.00  Hertha BSC               2-0 (0-0)  Jahn Regensburg
+  13.00  SpVgg Greuther Fürth     1-1 (0-0)  SC Paderborn 07
+         Hertha BSC               2-0 (0-0)  Jahn Regensburg
          Preußen Münster          0-1 (0-0)  1. FC Kaiserslautern
   20.30  1. FC Köln               5-0 (2-0)  Eintracht Braunschweig
-  13.00  SpVgg Greuther Fürth     1-1 (0-0)  SC Paderborn 07
 [Sun Aug/25]
-  13.30  1. FC Magdeburg          2-2 (2-1)  FC Schalke 04
+  13.30  SV Darmstadt 98          1-1 (1-0)  1. FC Nürnberg
+         1. FC Magdeburg          2-2 (2-1)  FC Schalke 04
          SSV Ulm 1846             1-2 (1-0)  Fortuna Düsseldorf
-         SV Darmstadt 98          1-1 (1-0)  1. FC Nürnberg
 
 
 Matchday 4
@@ -56,14 +56,14 @@ Matchday 4
   18.30  Fortuna Düsseldorf       1-0 (0-0)  Hannover 96
          Jahn Regensburg          0-4 (0-1)  SpVgg Greuther Fürth
 [Sat Aug/31]
-  13.00  SV 07 Elversberg         4-0 (2-0)  SV Darmstadt 98
+  13.00  Hamburger SV             4-1 (3-0)  Preußen Münster
+         SV 07 Elversberg         4-0 (2-0)  SV Darmstadt 98
          1. FC Nürnberg           0-4 (0-1)  1. FC Magdeburg
   20.30  1. FC Kaiserslautern     3-4 (2-1)  Hertha BSC
-  13.00  Hamburger SV             4-1 (3-0)  Preußen Münster
 [Sun Sep/1]
-  13.30  FC Schalke 04            1-3 (0-2)  1. FC Köln
+  13.30  SC Paderborn 07          0-0  SSV Ulm 1846
+         FC Schalke 04            1-3 (0-2)  1. FC Köln
          Eintracht Braunschweig   1-2 (1-0)  Karlsruher SC
-         SC Paderborn 07          0-0  SSV Ulm 1846
 
 
 Matchday 5
@@ -71,10 +71,10 @@ Matchday 5
   18.30  Karlsruher SC            2-0 (1-0)  FC Schalke 04
          Preußen Münster          3-3 (1-1)  SC Paderborn 07
 [Sat Sep/14]
-  13.00  Hannover 96              3-1 (1-0)  1. FC Kaiserslautern
+  13.00  SV Darmstadt 98          1-1 (1-0)  Eintracht Braunschweig
+         Hannover 96              3-1 (1-0)  1. FC Kaiserslautern
          SSV Ulm 1846             1-2 (0-0)  1. FC Nürnberg
   20.30  1. FC Köln               1-2 (0-0)  1. FC Magdeburg
-  13.00  SV Darmstadt 98          1-1 (1-0)  Eintracht Braunschweig
 [Sun Sep/15]
   13.30  Hamburger SV             5-0 (2-0)  Jahn Regensburg
          SpVgg Greuther Fürth     0-0  SV 07 Elversberg
@@ -83,384 +83,404 @@ Matchday 5
 
 Matchday 6
 [Fri Sep/20]
-  18.30  FC Schalke 04            3-5 (3-1)  SV Darmstadt 98
-         SC Paderborn 07          2-1 (1-1)  Hannover 96
+  18.30  SC Paderborn 07          2-1 (1-1)  Hannover 96
+         FC Schalke 04            3-5 (3-1)  SV Darmstadt 98
 [Sat Sep/21]
   13.00  Fortuna Düsseldorf       2-2 (1-1)  1. FC Köln
          1. FC Nürnberg           0-2 (0-1)  Hertha BSC
          Eintracht Braunschweig   2-0 (1-0)  SpVgg Greuther Fürth
   20.30  1. FC Kaiserslautern     2-2 (1-0)  Hamburger SV
 [Sun Sep/22]
-  13.30  1. FC Magdeburg          2-2 (1-2)  Karlsruher SC
+  13.30  SV 07 Elversberg         1-3 (0-1)  SSV Ulm 1846
+         1. FC Magdeburg          2-2 (1-2)  Karlsruher SC
          Jahn Regensburg          0-3 (0-1)  Preußen Münster
-         SV 07 Elversberg         1-3 (0-1)  SSV Ulm 1846
 
 
 Matchday 7
 [Fri Sep/27]
-  18.30  SSV Ulm 1846             3-1 (2-0)  Eintracht Braunschweig
-         SpVgg Greuther Fürth     1-2 (1-1)  Fortuna Düsseldorf
+  18.30  SpVgg Greuther Fürth     1-2 (1-1)  Fortuna Düsseldorf
+         SSV Ulm 1846             3-1 (2-0)  Eintracht Braunschweig
 [Sat Sep/28]
   13.00  SV Darmstadt 98          1-2 (1-1)  1. FC Magdeburg
          Hamburger SV             2-2 (0-0)  SC Paderborn 07
          Jahn Regensburg          0-0  1. FC Kaiserslautern
   20.30  Preußen Münster          1-2 (0-0)  FC Schalke 04
 [Sun Sep/29]
-  13.30  Hertha BSC               1-4 (0-2)  SV 07 Elversberg
-  13.40  1. FC Köln               4-4 (4-2)  Karlsruher SC
   13.30  Hannover 96              2-0 (0-0)  1. FC Nürnberg
+         Hertha BSC               1-4 (0-2)  SV 07 Elversberg
+  13.40  1. FC Köln               4-4 (4-2)  Karlsruher SC
 
 
 Matchday 8
 [Fri Oct/4]
-  18.30  SC Paderborn 07          3-0 (1-0)  Jahn Regensburg
-         Karlsruher SC            3-3 (2-1)  SV Darmstadt 98
+  18.30  Karlsruher SC            3-3 (2-1)  SV Darmstadt 98
+         SC Paderborn 07          3-0 (1-0)  Jahn Regensburg
 [Sat Oct/5]
   13.00  1. FC Köln               2-0 (1-0)  SSV Ulm 1846
          SV 07 Elversberg         1-0 (0-0)  1. FC Kaiserslautern
          1. FC Nürnberg           3-2 (1-2)  Preußen Münster
   20.30  FC Schalke 04            2-2 (2-1)  Hertha BSC
 [Sun Oct/6]
-  13.30  1. FC Magdeburg          2-2 (2-1)  SpVgg Greuther Fürth
+  13.30  Fortuna Düsseldorf       0-3 (0-1)  Hamburger SV
+         1. FC Magdeburg          2-2 (2-1)  SpVgg Greuther Fürth
          Eintracht Braunschweig   2-0 (1-0)  Hannover 96
-         Fortuna Düsseldorf       0-3 (0-1)  Hamburger SV
 
 
 Matchday 9
 [Fri Oct/18]
-  18.30  Hertha BSC               -  Eintracht Braunschweig
-         SV Darmstadt 98          -  1. FC Köln
+  18.30  SV Darmstadt 98          5-1 (2-1)  1. FC Köln
+         Hertha BSC               3-1 (0-1)  Eintracht Braunschweig
 [Sat Oct/19]
-  13.00  Hannover 96              -  FC Schalke 04
-         Preußen Münster          -  SV 07 Elversberg
-         Jahn Regensburg          -  Fortuna Düsseldorf
-  20.30  1. FC Kaiserslautern     -  SC Paderborn 07
+  13.00  Hannover 96              1-0 (1-0)  FC Schalke 04
+         Preußen Münster          1-1 (1-0)  SV 07 Elversberg
+         Jahn Regensburg          0-3 (0-1)  Fortuna Düsseldorf
+  20.30  1. FC Kaiserslautern     3-0 (1-0)  SC Paderborn 07
 [Sun Oct/20]
-  13.30  SpVgg Greuther Fürth     -  1. FC Nürnberg
-         SSV Ulm 1846             -  Karlsruher SC
-         Hamburger SV             -  1. FC Magdeburg
+  13.30  Hamburger SV             3-1 (3-0)  1. FC Magdeburg
+         SpVgg Greuther Fürth     0-4 (0-3)  1. FC Nürnberg
+         SSV Ulm 1846             0-1 (0-0)  Karlsruher SC
 
 
 Matchday 10
 [Fri Oct/25]
-  18.30  1. FC Köln               -  SC Paderborn 07
-         1. FC Nürnberg           -  Jahn Regensburg
+  18.30  1. FC Köln               1-2 (0-0)  SC Paderborn 07
+         1. FC Nürnberg           8-3 (3-2)  Jahn Regensburg
 [Sat Oct/26]
-  13.00  FC Schalke 04            -  SpVgg Greuther Fürth
-         SV 07 Elversberg         -  Hamburger SV
-  20.30  Fortuna Düsseldorf       -  1. FC Kaiserslautern
-  13.00  Karlsruher SC            -  Hertha BSC
+  13.00  Karlsruher SC            1-3 (1-1)  Hertha BSC
+         FC Schalke 04            3-4 (1-3)  SpVgg Greuther Fürth
+         SV 07 Elversberg         4-2 (1-1)  Hamburger SV
+  20.30  Fortuna Düsseldorf       3-4 (1-1)  1. FC Kaiserslautern
 [Sun Oct/27]
-  13.30  SV Darmstadt 98          -  SSV Ulm 1846
-         1. FC Magdeburg          -  Hannover 96
-         Eintracht Braunschweig   -  Preußen Münster
+  13.30  SV Darmstadt 98          1-1 (1-1)  SSV Ulm 1846
+         1. FC Magdeburg          0-3 (0-2)  Hannover 96
+         Eintracht Braunschweig   1-1 (1-1)  Preußen Münster
 
 
 Matchday 11
 [Fri Nov/1]
-  18.30  Preußen Münster          -  Fortuna Düsseldorf
-         SSV Ulm 1846             -  FC Schalke 04
+  18.30  SSV Ulm 1846             0-0  FC Schalke 04
+         Preußen Münster          1-0 (1-0)  Fortuna Düsseldorf
 [Sat Nov/2]
-  13.00  SpVgg Greuther Fürth     -  SV Darmstadt 98
-         Jahn Regensburg          -  SV 07 Elversberg
-  20.30  Hertha BSC               -  1. FC Köln
-  13.00  Hannover 96              -  Karlsruher SC
+  13.00  Hannover 96              2-1 (0-1)  Karlsruher SC
+         SpVgg Greuther Fürth     1-5 (0-3)  SV Darmstadt 98
+         Jahn Regensburg          1-0 (1-0)  SV 07 Elversberg
+  20.30  Hertha BSC               0-1 (0-1)  1. FC Köln
 [Sun Nov/3]
-  13.30  Hamburger SV             -  1. FC Nürnberg
-         SC Paderborn 07          -  Eintracht Braunschweig
-         1. FC Kaiserslautern     -  1. FC Magdeburg
+  13.30  Hamburger SV             1-1 (1-0)  1. FC Nürnberg
+         SC Paderborn 07          0-0  Eintracht Braunschweig
+         1. FC Kaiserslautern     2-2 (1-2)  1. FC Magdeburg
 
 
 Matchday 12
 [Fri Nov/8]
-  18.30  Eintracht Braunschweig   -  Hamburger SV
-         1. FC Nürnberg           -  1. FC Kaiserslautern
+  18.30  1. FC Nürnberg           0-0  1. FC Kaiserslautern
+         Eintracht Braunschweig   3-1 (1-0)  Hamburger SV
 [Sat Nov/9]
-  13.00  SV Darmstadt 98          -  Hertha BSC
-         1. FC Magdeburg          -  SSV Ulm 1846
-  20.30  Fortuna Düsseldorf       -  SC Paderborn 07
-  13.00  1. FC Köln               -  SpVgg Greuther Fürth
+  13.00  1. FC Köln               1-0 (0-0)  SpVgg Greuther Fürth
+         SV Darmstadt 98          3-1 (1-1)  Hertha BSC
+         1. FC Magdeburg          0-0  SSV Ulm 1846
+  20.30  Fortuna Düsseldorf       1-1 (0-0)  SC Paderborn 07
 [Sun Nov/10]
-  13.30  Karlsruher SC            -  Preußen Münster
-         FC Schalke 04            -  Jahn Regensburg
-         SV 07 Elversberg         -  Hannover 96
+  13.30  Karlsruher SC            1-1 (1-0)  Preußen Münster
+         FC Schalke 04            2-0 (1-0)  Jahn Regensburg
+         SV 07 Elversberg         3-1 (2-0)  Hannover 96
 
 
 Matchday 13
 [Fri Nov/22]
-  18.30  Preußen Münster          -  1. FC Köln
-         SC Paderborn 07          -  1. FC Nürnberg
+  18.30  SC Paderborn 07          3-2 (1-1)  1. FC Nürnberg
+  18.45  Preußen Münster          0-1 (0-0)  1. FC Köln
 [Sat Nov/23]
-  13.00  SpVgg Greuther Fürth     -  Karlsruher SC
-         Hertha BSC               -  SSV Ulm 1846
-  20.30  Hamburger SV             -  FC Schalke 04
-  13.00  Fortuna Düsseldorf       -  SV 07 Elversberg
+  13.00  Fortuna Düsseldorf       0-2 (0-0)  SV 07 Elversberg
+         Hannover 96              1-2 (0-0)  SV Darmstadt 98
+         SpVgg Greuther Fürth     2-3 (1-0)  Karlsruher SC
+         Hertha BSC               2-2 (1-1)  SSV Ulm 1846
+  20.30  Hamburger SV             2-2 (2-0)  FC Schalke 04
 [Sun Nov/24]
-  13.30  Hannover 96              -  SV Darmstadt 98
-         1. FC Kaiserslautern     -  Eintracht Braunschweig
-         Jahn Regensburg          -  1. FC Magdeburg
+  13.30  1. FC Kaiserslautern     3-2 (3-1)  Eintracht Braunschweig
+         Jahn Regensburg          0-1 (0-1)  1. FC Magdeburg
 
 
 Matchday 14
 [Fri Nov/29]
-  18.30  1. FC Magdeburg          -  Hertha BSC
-         FC Schalke 04            -  1. FC Kaiserslautern
+  18.30  FC Schalke 04            0-3 (0-1)  1. FC Kaiserslautern
+         1. FC Magdeburg          1-3 (0-0)  Hertha BSC
 [Sat Nov/30]
-  13.00  1. FC Köln               -  Hannover 96
-         SV 07 Elversberg         -  SC Paderborn 07
-         Eintracht Braunschweig   -  Jahn Regensburg
-  20.30  SV Darmstadt 98          -  Preußen Münster
+  13.00  1. FC Köln               2-2 (0-1)  Hannover 96
+         SV 07 Elversberg         1-3 (1-1)  SC Paderborn 07
+         Eintracht Braunschweig   0-0  Jahn Regensburg
+  20.30  SV Darmstadt 98          0-0  Preußen Münster
 [Sun Dec/1]
-  13.30  1. FC Nürnberg           -  Fortuna Düsseldorf
-         SSV Ulm 1846             -  SpVgg Greuther Fürth
-         Karlsruher SC            -  Hamburger SV
+  13.30  Karlsruher SC            1-3 (1-1)  Hamburger SV
+         1. FC Nürnberg           2-2 (1-0)  Fortuna Düsseldorf
+         SSV Ulm 1846             1-1 (1-1)  SpVgg Greuther Fürth
 
 
 Matchday 15
+[Fri Dec/6]
+  18.30  SC Paderborn 07          2-4 (1-2)  FC Schalke 04
+         SV 07 Elversberg         2-1 (1-1)  1. FC Nürnberg
 [Sat Dec/7]
-  Fortuna Düsseldorf       -  Eintracht Braunschweig
-  Hamburger SV             -  SV Darmstadt 98
-  Hannover 96              -  SSV Ulm 1846
-  SC Paderborn 07          -  FC Schalke 04
-  SpVgg Greuther Fürth     -  Hertha BSC
-  SV 07 Elversberg         -  1. FC Nürnberg
-  1. FC Kaiserslautern     -  Karlsruher SC
-  Preußen Münster          -  1. FC Magdeburg
-  Jahn Regensburg          -  1. FC Köln
+  13.00  Hannover 96              3-2 (0-1)  SSV Ulm 1846
+         SpVgg Greuther Fürth     2-1 (1-1)  Hertha BSC
+         1. FC Kaiserslautern     3-1 (1-0)  Karlsruher SC
+  20.30  Preußen Münster          1-2 (1-1)  1. FC Magdeburg
+[Sun Dec/8]
+  13.30  Fortuna Düsseldorf       5-0 (3-0)  Eintracht Braunschweig
+         Hamburger SV             2-2 (2-1)  SV Darmstadt 98
+         Jahn Regensburg          0-1 (0-1)  1. FC Köln
 
 
 Matchday 16
+[Fri Dec/13]
+  18.30  Karlsruher SC            4-2 (1-1)  Jahn Regensburg
+         Hertha BSC               1-2 (1-0)  Preußen Münster
 [Sat Dec/14]
-  1. FC Köln               -  1. FC Nürnberg
-  SV Darmstadt 98          -  1. FC Kaiserslautern
-  Karlsruher SC            -  Jahn Regensburg
-  SpVgg Greuther Fürth     -  Hannover 96
-  Hertha BSC               -  Preußen Münster
-  FC Schalke 04            -  Fortuna Düsseldorf
-  1. FC Magdeburg          -  SC Paderborn 07
-  Eintracht Braunschweig   -  SV 07 Elversberg
-  SSV Ulm 1846             -  Hamburger SV
+  13.00  FC Schalke 04            1-1 (0-0)  Fortuna Düsseldorf
+         1. FC Magdeburg          1-1 (0-0)  SC Paderborn 07
+         SSV Ulm 1846             1-1 (1-0)  Hamburger SV
+  20.30  SV Darmstadt 98          5-1 (2-0)  1. FC Kaiserslautern
+[Sun Dec/15]
+  13.30  1. FC Köln               3-1 (3-0)  1. FC Nürnberg
+         SpVgg Greuther Fürth     1-0 (0-0)  Hannover 96
+         Eintracht Braunschweig   0-3 (0-0)  SV 07 Elversberg
 
 
 Matchday 17
+[Fri Dec/20]
+  18.30  Fortuna Düsseldorf       2-5 (2-1)  1. FC Magdeburg
+         SV 07 Elversberg         1-4 (1-1)  FC Schalke 04
 [Sat Dec/21]
-  Fortuna Düsseldorf       -  1. FC Magdeburg
-  Hamburger SV             -  SpVgg Greuther Fürth
-  Hannover 96              -  Hertha BSC
-  SC Paderborn 07          -  Karlsruher SC
-  SV 07 Elversberg         -  FC Schalke 04
-  1. FC Nürnberg           -  Eintracht Braunschweig
-  1. FC Kaiserslautern     -  1. FC Köln
-  Preußen Münster          -  SSV Ulm 1846
-  Jahn Regensburg          -  SV Darmstadt 98
+  13.00  Hamburger SV             5-0 (3-0)  SpVgg Greuther Fürth
+         SC Paderborn 07          1-2 (1-2)  Karlsruher SC
+         Preußen Münster          0-0  SSV Ulm 1846
+  20.30  1. FC Nürnberg           1-0 (0-0)  Eintracht Braunschweig
+[Sun Dec/22]
+  13.30  Hannover 96              0-0  Hertha BSC
+         1. FC Kaiserslautern     0-1 (0-1)  1. FC Köln
+         Jahn Regensburg          2-1 (0-0)  SV Darmstadt 98
 
 
 Matchday 18
+[Fri Jan/17]
+  18.30  Fortuna Düsseldorf       -  SV Darmstadt 98
+         Jahn Regensburg          -  Hannover 96
 [Sat Jan/18]
-  Fortuna Düsseldorf       -  SV Darmstadt 98
-  1. FC Nürnberg           -  Karlsruher SC
-  Jahn Regensburg          -  Hannover 96
-  Preußen Münster          -  SpVgg Greuther Fürth
-  SC Paderborn 07          -  Hertha BSC
-  Eintracht Braunschweig   -  FC Schalke 04
-  SV 07 Elversberg         -  1. FC Magdeburg
-  1. FC Kaiserslautern     -  SSV Ulm 1846
-  Hamburger SV             -  1. FC Köln
+  13.00  Preußen Münster          -  SpVgg Greuther Fürth
+         Eintracht Braunschweig   -  FC Schalke 04
+         1. FC Kaiserslautern     -  SSV Ulm 1846
+  20.30  Hamburger SV             -  1. FC Köln
+[Sun Jan/19]
+  13.30  1. FC Nürnberg           -  Karlsruher SC
+         SC Paderborn 07          -  Hertha BSC
+         SV 07 Elversberg         -  1. FC Magdeburg
 
 
 Matchday 19
+[Fri Jan/24]
+  18.30  SpVgg Greuther Fürth     -  1. FC Kaiserslautern
+         1. FC Magdeburg          -  Eintracht Braunschweig
 [Sat Jan/25]
-  Karlsruher SC            -  Fortuna Düsseldorf
-  Hertha BSC               -  Hamburger SV
-  SV Darmstadt 98          -  SC Paderborn 07
-  1. FC Köln               -  SV 07 Elversberg
-  FC Schalke 04            -  1. FC Nürnberg
-  SpVgg Greuther Fürth     -  1. FC Kaiserslautern
-  1. FC Magdeburg          -  Eintracht Braunschweig
-  Hannover 96              -  Preußen Münster
-  SSV Ulm 1846             -  Jahn Regensburg
+  13.00  Karlsruher SC            -  Fortuna Düsseldorf
+         1. FC Köln               -  SV 07 Elversberg
+         FC Schalke 04            -  1. FC Nürnberg
+  20.30  Hertha BSC               -  Hamburger SV
+[Sun Jan/26]
+  13.30  SV Darmstadt 98          -  SC Paderborn 07
+         Hannover 96              -  Preußen Münster
+         SSV Ulm 1846             -  Jahn Regensburg
 
 
 Matchday 20
+[Fri Jan/31]
+  18.30  1. FC Nürnberg           -  SV Darmstadt 98
+         SV 07 Elversberg         -  Karlsruher SC
 [Sat Feb/1]
-  Eintracht Braunschweig   -  1. FC Köln
-  1. FC Nürnberg           -  SV Darmstadt 98
-  SV 07 Elversberg         -  Karlsruher SC
-  Hamburger SV             -  Hannover 96
-  SC Paderborn 07          -  SpVgg Greuther Fürth
-  Jahn Regensburg          -  Hertha BSC
-  FC Schalke 04            -  1. FC Magdeburg
-  Fortuna Düsseldorf       -  SSV Ulm 1846
-  1. FC Kaiserslautern     -  Preußen Münster
+  13.00  Eintracht Braunschweig   -  1. FC Köln
+         Jahn Regensburg          -  Hertha BSC
+         Fortuna Düsseldorf       -  SSV Ulm 1846
+  20.30  FC Schalke 04            -  1. FC Magdeburg
+[Sun Feb/2]
+  13.30  Hamburger SV             -  Hannover 96
+         SC Paderborn 07          -  SpVgg Greuther Fürth
+         1. FC Kaiserslautern     -  Preußen Münster
 
 
 Matchday 21
+[Fri Feb/7]
+  18.30  Preußen Münster          -  Hamburger SV
+         SpVgg Greuther Fürth     -  Jahn Regensburg
 [Sat Feb/8]
-  Hannover 96              -  Fortuna Düsseldorf
-  Preußen Münster          -  Hamburger SV
-  SSV Ulm 1846             -  SC Paderborn 07
-  1. FC Köln               -  FC Schalke 04
-  SV Darmstadt 98          -  SV 07 Elversberg
-  1. FC Magdeburg          -  1. FC Nürnberg
-  Hertha BSC               -  1. FC Kaiserslautern
-  Karlsruher SC            -  Eintracht Braunschweig
-  SpVgg Greuther Fürth     -  Jahn Regensburg
+  13.00  SSV Ulm 1846             -  SC Paderborn 07
+         SV Darmstadt 98          -  SV 07 Elversberg
+         1. FC Magdeburg          -  1. FC Nürnberg
+  20.30  Hertha BSC               -  1. FC Kaiserslautern
+[Sun Feb/9]
+  13.30  Hannover 96              -  Fortuna Düsseldorf
+         1. FC Köln               -  FC Schalke 04
+         Karlsruher SC            -  Eintracht Braunschweig
 
 
 Matchday 22
+[Fri Feb/14]
+  18.30  1. FC Magdeburg          -  1. FC Köln
+         SC Paderborn 07          -  Preußen Münster
 [Sat Feb/15]
-  1. FC Magdeburg          -  1. FC Köln
-  Eintracht Braunschweig   -  SV Darmstadt 98
-  Jahn Regensburg          -  Hamburger SV
-  FC Schalke 04            -  Karlsruher SC
-  1. FC Kaiserslautern     -  Hannover 96
-  SV 07 Elversberg         -  SpVgg Greuther Fürth
-  Fortuna Düsseldorf       -  Hertha BSC
-  1. FC Nürnberg           -  SSV Ulm 1846
-  SC Paderborn 07          -  Preußen Münster
+  13.00  Eintracht Braunschweig   -  SV Darmstadt 98
+         1. FC Kaiserslautern     -  Hannover 96
+         SV 07 Elversberg         -  SpVgg Greuther Fürth
+  20.30  Fortuna Düsseldorf       -  Hertha BSC
+[Sun Feb/16]
+  13.30  Jahn Regensburg          -  Hamburger SV
+         FC Schalke 04            -  Karlsruher SC
+         1. FC Nürnberg           -  SSV Ulm 1846
 
 
 Matchday 23
+[Fri Feb/21]
+  18.30  Hertha BSC               -  1. FC Nürnberg
+         Hamburger SV             -  1. FC Kaiserslautern
 [Sat Feb/22]
-  1. FC Köln               -  Fortuna Düsseldorf
-  Hannover 96              -  SC Paderborn 07
-  SV Darmstadt 98          -  FC Schalke 04
-  SSV Ulm 1846             -  SV 07 Elversberg
-  Hertha BSC               -  1. FC Nürnberg
-  Hamburger SV             -  1. FC Kaiserslautern
-  Karlsruher SC            -  1. FC Magdeburg
-  SpVgg Greuther Fürth     -  Eintracht Braunschweig
-  Preußen Münster          -  Jahn Regensburg
+  13.00  SSV Ulm 1846             -  SV 07 Elversberg
+         Karlsruher SC            -  1. FC Magdeburg
+         Preußen Münster          -  Jahn Regensburg
+  20.30  Hannover 96              -  SC Paderborn 07
+[Sun Feb/23]
+  13.30  1. FC Köln               -  Fortuna Düsseldorf
+         SV Darmstadt 98          -  FC Schalke 04
+         SpVgg Greuther Fürth     -  Eintracht Braunschweig
 
 
 Matchday 24
+[Fri Feb/28]
+  18.30  Fortuna Düsseldorf       -  SpVgg Greuther Fürth
+         FC Schalke 04            -  Preußen Münster
 [Sat Mar/1]
-  Karlsruher SC            -  1. FC Köln
-  1. FC Magdeburg          -  SV Darmstadt 98
-  SC Paderborn 07          -  Hamburger SV
-  1. FC Nürnberg           -  Hannover 96
-  Fortuna Düsseldorf       -  SpVgg Greuther Fürth
-  SV 07 Elversberg         -  Hertha BSC
-  Eintracht Braunschweig   -  SSV Ulm 1846
-  FC Schalke 04            -  Preußen Münster
-  1. FC Kaiserslautern     -  Jahn Regensburg
+  13.00  1. FC Nürnberg           -  Hannover 96
+         Eintracht Braunschweig   -  SSV Ulm 1846
+         1. FC Kaiserslautern     -  Jahn Regensburg
+  13.30  1. FC Magdeburg          -  SV Darmstadt 98
+  20.30  Karlsruher SC            -  1. FC Köln
+[Sun Mar/2]
+  13.30  SC Paderborn 07          -  Hamburger SV
+         SV 07 Elversberg         -  Hertha BSC
 
 
 Matchday 25
 [Sat Mar/8]
-  SSV Ulm 1846             -  1. FC Köln
-  Hamburger SV             -  Fortuna Düsseldorf
-  SV Darmstadt 98          -  Karlsruher SC
-  Jahn Regensburg          -  SC Paderborn 07
-  Hertha BSC               -  FC Schalke 04
-  1. FC Kaiserslautern     -  SV 07 Elversberg
-  Preußen Münster          -  1. FC Nürnberg
-  SpVgg Greuther Fürth     -  1. FC Magdeburg
-  Hannover 96              -  Eintracht Braunschweig
+         SSV Ulm 1846             -  1. FC Köln
+         Hamburger SV             -  Fortuna Düsseldorf
+         SV Darmstadt 98          -  Karlsruher SC
+         Jahn Regensburg          -  SC Paderborn 07
+         Hertha BSC               -  FC Schalke 04
+         1. FC Kaiserslautern     -  SV 07 Elversberg
+         Preußen Münster          -  1. FC Nürnberg
+         SpVgg Greuther Fürth     -  1. FC Magdeburg
+         Hannover 96              -  Eintracht Braunschweig
 
 
 Matchday 26
 [Sat Mar/15]
-  1. FC Köln               -  SV Darmstadt 98
-  1. FC Magdeburg          -  Hamburger SV
-  FC Schalke 04            -  Hannover 96
-  1. FC Nürnberg           -  SpVgg Greuther Fürth
-  Eintracht Braunschweig   -  Hertha BSC
-  SC Paderborn 07          -  1. FC Kaiserslautern
-  Karlsruher SC            -  SSV Ulm 1846
-  SV 07 Elversberg         -  Preußen Münster
-  Fortuna Düsseldorf       -  Jahn Regensburg
+         1. FC Köln               -  SV Darmstadt 98
+         1. FC Magdeburg          -  Hamburger SV
+         FC Schalke 04            -  Hannover 96
+         1. FC Nürnberg           -  SpVgg Greuther Fürth
+         Eintracht Braunschweig   -  Hertha BSC
+         SC Paderborn 07          -  1. FC Kaiserslautern
+         Karlsruher SC            -  SSV Ulm 1846
+         SV 07 Elversberg         -  Preußen Münster
+         Fortuna Düsseldorf       -  Jahn Regensburg
 
 
 Matchday 27
 [Sat Mar/29]
-  SC Paderborn 07          -  1. FC Köln
-  SSV Ulm 1846             -  SV Darmstadt 98
-  1. FC Kaiserslautern     -  Fortuna Düsseldorf
-  Hertha BSC               -  Karlsruher SC
-  SpVgg Greuther Fürth     -  FC Schalke 04
-  Hamburger SV             -  SV 07 Elversberg
-  Jahn Regensburg          -  1. FC Nürnberg
-  Hannover 96              -  1. FC Magdeburg
-  Preußen Münster          -  Eintracht Braunschweig
+         SC Paderborn 07          -  1. FC Köln
+         SSV Ulm 1846             -  SV Darmstadt 98
+         1. FC Kaiserslautern     -  Fortuna Düsseldorf
+         Hertha BSC               -  Karlsruher SC
+         SpVgg Greuther Fürth     -  FC Schalke 04
+         Hamburger SV             -  SV 07 Elversberg
+         Jahn Regensburg          -  1. FC Nürnberg
+         Hannover 96              -  1. FC Magdeburg
+         Preußen Münster          -  Eintracht Braunschweig
 
 
 Matchday 28
 [Sat Apr/5]
-  1. FC Nürnberg           -  Hamburger SV
-  Karlsruher SC            -  Hannover 96
-  Eintracht Braunschweig   -  SC Paderborn 07
-  SV Darmstadt 98          -  SpVgg Greuther Fürth
-  1. FC Köln               -  Hertha BSC
-  1. FC Magdeburg          -  1. FC Kaiserslautern
-  FC Schalke 04            -  SSV Ulm 1846
-  Fortuna Düsseldorf       -  Preußen Münster
-  SV 07 Elversberg         -  Jahn Regensburg
+         1. FC Nürnberg           -  Hamburger SV
+         Karlsruher SC            -  Hannover 96
+         Eintracht Braunschweig   -  SC Paderborn 07
+         SV Darmstadt 98          -  SpVgg Greuther Fürth
+         1. FC Köln               -  Hertha BSC
+         1. FC Magdeburg          -  1. FC Kaiserslautern
+         FC Schalke 04            -  SSV Ulm 1846
+         Fortuna Düsseldorf       -  Preußen Münster
+         SV 07 Elversberg         -  Jahn Regensburg
 
 
 Matchday 29
 [Sat Apr/12]
-  SpVgg Greuther Fürth     -  1. FC Köln
-  Hertha BSC               -  SV Darmstadt 98
-  SC Paderborn 07          -  Fortuna Düsseldorf
-  Preußen Münster          -  Karlsruher SC
-  Jahn Regensburg          -  FC Schalke 04
-  Hannover 96              -  SV 07 Elversberg
-  1. FC Kaiserslautern     -  1. FC Nürnberg
-  SSV Ulm 1846             -  1. FC Magdeburg
-  Hamburger SV             -  Eintracht Braunschweig
+         SpVgg Greuther Fürth     -  1. FC Köln
+         Hertha BSC               -  SV Darmstadt 98
+         SC Paderborn 07          -  Fortuna Düsseldorf
+         Preußen Münster          -  Karlsruher SC
+         Jahn Regensburg          -  FC Schalke 04
+         Hannover 96              -  SV 07 Elversberg
+         1. FC Kaiserslautern     -  1. FC Nürnberg
+         SSV Ulm 1846             -  1. FC Magdeburg
+         Hamburger SV             -  Eintracht Braunschweig
 
 
 Matchday 30
 [Sat Apr/19]
-  SV 07 Elversberg         -  Fortuna Düsseldorf
-  FC Schalke 04            -  Hamburger SV
-  SV Darmstadt 98          -  Hannover 96
-  1. FC Nürnberg           -  SC Paderborn 07
-  Karlsruher SC            -  SpVgg Greuther Fürth
-  SSV Ulm 1846             -  Hertha BSC
-  Eintracht Braunschweig   -  1. FC Kaiserslautern
-  1. FC Köln               -  Preußen Münster
-  1. FC Magdeburg          -  Jahn Regensburg
+         SV 07 Elversberg         -  Fortuna Düsseldorf
+         FC Schalke 04            -  Hamburger SV
+         SV Darmstadt 98          -  Hannover 96
+         1. FC Nürnberg           -  SC Paderborn 07
+         Karlsruher SC            -  SpVgg Greuther Fürth
+         SSV Ulm 1846             -  Hertha BSC
+         Eintracht Braunschweig   -  1. FC Kaiserslautern
+         1. FC Köln               -  Preußen Münster
+         1. FC Magdeburg          -  Jahn Regensburg
 
 
 Matchday 31
 [Sat Apr/26]
-  Hannover 96              -  1. FC Köln
-  Preußen Münster          -  SV Darmstadt 98
-  Hamburger SV             -  Karlsruher SC
-  1. FC Kaiserslautern     -  FC Schalke 04
-  SC Paderborn 07          -  SV 07 Elversberg
-  Fortuna Düsseldorf       -  1. FC Nürnberg
-  Hertha BSC               -  1. FC Magdeburg
-  Jahn Regensburg          -  Eintracht Braunschweig
-  SpVgg Greuther Fürth     -  SSV Ulm 1846
+         Hannover 96              -  1. FC Köln
+         Preußen Münster          -  SV Darmstadt 98
+         Hamburger SV             -  Karlsruher SC
+         1. FC Kaiserslautern     -  FC Schalke 04
+         SC Paderborn 07          -  SV 07 Elversberg
+         Fortuna Düsseldorf       -  1. FC Nürnberg
+         Hertha BSC               -  1. FC Magdeburg
+         Jahn Regensburg          -  Eintracht Braunschweig
+         SpVgg Greuther Fürth     -  SSV Ulm 1846
 
 
 Matchday 32
 [Sat May/3]
-  Eintracht Braunschweig   -  Fortuna Düsseldorf
-  SV Darmstadt 98          -  Hamburger SV
-  SSV Ulm 1846             -  Hannover 96
-  FC Schalke 04            -  SC Paderborn 07
-  Hertha BSC               -  SpVgg Greuther Fürth
-  1. FC Nürnberg           -  SV 07 Elversberg
-  Karlsruher SC            -  1. FC Kaiserslautern
-  1. FC Magdeburg          -  Preußen Münster
-  1. FC Köln               -  Jahn Regensburg
+         Eintracht Braunschweig   -  Fortuna Düsseldorf
+         SV Darmstadt 98          -  Hamburger SV
+         SSV Ulm 1846             -  Hannover 96
+         FC Schalke 04            -  SC Paderborn 07
+         Hertha BSC               -  SpVgg Greuther Fürth
+         1. FC Nürnberg           -  SV 07 Elversberg
+         Karlsruher SC            -  1. FC Kaiserslautern
+         1. FC Magdeburg          -  Preußen Münster
+         1. FC Köln               -  Jahn Regensburg
 
 
 Matchday 33
 [Sat May/10]
-  1. FC Nürnberg           -  1. FC Köln
-  1. FC Kaiserslautern     -  SV Darmstadt 98
-  Jahn Regensburg          -  Karlsruher SC
-  Hannover 96              -  SpVgg Greuther Fürth
-  Preußen Münster          -  Hertha BSC
-  Fortuna Düsseldorf       -  FC Schalke 04
-  SC Paderborn 07          -  1. FC Magdeburg
-  SV 07 Elversberg         -  Eintracht Braunschweig
-  Hamburger SV             -  SSV Ulm 1846
+         1. FC Nürnberg           -  1. FC Köln
+         1. FC Kaiserslautern     -  SV Darmstadt 98
+         Jahn Regensburg          -  Karlsruher SC
+         Hannover 96              -  SpVgg Greuther Fürth
+         Preußen Münster          -  Hertha BSC
+         Fortuna Düsseldorf       -  FC Schalke 04
+         SC Paderborn 07          -  1. FC Magdeburg
+         SV 07 Elversberg         -  Eintracht Braunschweig
+         Hamburger SV             -  SSV Ulm 1846
 
 
 Matchday 34

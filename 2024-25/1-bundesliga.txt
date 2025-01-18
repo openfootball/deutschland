@@ -207,7 +207,7 @@ Matchday 14
 [Sat Dec/14]
   15.30  1. FSV Mainz 05          2-1 (1-0)  FC Bayern München
          Borussia Mönchengladbach  4-1 (3-1)  Holstein Kiel
-         1. FC Union Berlin       0-2 (1-1)  VfL Bochum 1848
+         1. FC Union Berlin       1-1 (1-1)  VfL Bochum 1848
          FC Augsburg              0-2 (0-2)  Bayer 04 Leverkusen
   18.30  FC St. Pauli 1910        0-2 (0-1)  SV Werder Bremen
 [Sun Dec/15]
@@ -248,27 +248,27 @@ Matchday 16
 
 Matchday 17
 [Tue Jan/14]
-  18.30  Holstein Kiel            -  Borussia Dortmund
-  20.30  Bayer 04 Leverkusen      -  1. FSV Mainz 05
-         Eintracht Frankfurt      -  SC Freiburg
-         VfL Wolfsburg            -  Borussia Mönchengladbach
+  18.30  Holstein Kiel            4-2 (3-0)  Borussia Dortmund
+  20.30  Bayer 04 Leverkusen      1-0 (0-0)  1. FSV Mainz 05
+         Eintracht Frankfurt      4-1 (1-1)  SC Freiburg
+         VfL Wolfsburg            5-1 (1-0)  Borussia Mönchengladbach
 [Wed Jan/15]
-  18.30  VfL Bochum 1848          -  FC St. Pauli 1910
-  20.30  VfB Stuttgart            -  RB Leipzig
-         FC Bayern München        -  TSG 1899 Hoffenheim
-         SV Werder Bremen         -  1. FC Heidenheim 1846
-         1. FC Union Berlin       -  FC Augsburg
+  18.30  VfL Bochum 1848          1-0 (0-0)  FC St. Pauli 1910
+  20.30  VfB Stuttgart            2-1 (0-1)  RB Leipzig
+         FC Bayern München        5-0 (3-0)  TSG 1899 Hoffenheim
+         SV Werder Bremen         3-3 (1-1)  1. FC Heidenheim 1846
+         1. FC Union Berlin       0-2 (0-2)  FC Augsburg
 
 
 Matchday 18
 [Fri Jan/17]
-  20.30  Eintracht Frankfurt      -  Borussia Dortmund
+  20.30  Eintracht Frankfurt      2-0 (1-0)  Borussia Dortmund
 [Sat Jan/18]
-  15.30  VfB Stuttgart            -  SC Freiburg
-         FC Bayern München        -  VfL Wolfsburg
-         1. FC Heidenheim 1846    -  FC St. Pauli 1910
-         VfL Bochum 1848          -  RB Leipzig
-         Holstein Kiel            -  TSG 1899 Hoffenheim
+  15.30  VfB Stuttgart            4-0 (3-0)  SC Freiburg
+         FC Bayern München        3-2 (2-1)  VfL Wolfsburg
+         1. FC Heidenheim 1846    0-2 (0-1)  FC St. Pauli 1910
+         VfL Bochum 1848          3-3 (0-3)  RB Leipzig
+         Holstein Kiel            1-3 (0-2)  TSG 1899 Hoffenheim
   18.30  Bayer 04 Leverkusen      -  Borussia Mönchengladbach
 [Sun Jan/19]
   15.30  1. FC Union Berlin       -  1. FSV Mainz 05

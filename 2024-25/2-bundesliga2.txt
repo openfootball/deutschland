@@ -263,17 +263,17 @@ Matchday 17
 
 Matchday 18
 [Fri Jan/17]
-  18.30  Fortuna Düsseldorf       -  SV Darmstadt 98
-         Jahn Regensburg          -  Hannover 96
+  18.30  Fortuna Düsseldorf       2-2 (1-0)  SV Darmstadt 98
+         Jahn Regensburg          0-1 (0-1)  Hannover 96
 [Sat Jan/18]
-  13.00  Preußen Münster          -  SpVgg Greuther Fürth
-         Eintracht Braunschweig   -  FC Schalke 04
-         1. FC Kaiserslautern     -  SSV Ulm 1846
-  20.30  Hamburger SV             -  1. FC Köln
+  13.00  Preußen Münster          2-1 (1-1)  SpVgg Greuther Fürth
+         Eintracht Braunschweig   0-0  FC Schalke 04
+         1. FC Kaiserslautern     2-1 (2-1)  SSV Ulm 1846
+  20.45  Hamburger SV             1-0 (0-0)  1. FC Köln
 [Sun Jan/19]
-  13.30  1. FC Nürnberg           -  Karlsruher SC
-         SC Paderborn 07          -  Hertha BSC
-         SV 07 Elversberg         -  1. FC Magdeburg
+  13.30  1. FC Nürnberg           2-1 (1-1)  Karlsruher SC
+         SC Paderborn 07          1-2 (0-1)  Hertha BSC
+         SV 07 Elversberg         2-5 (2-0)  1. FC Magdeburg
 
 
 Matchday 19

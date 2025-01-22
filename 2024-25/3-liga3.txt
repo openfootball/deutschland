@@ -310,18 +310,18 @@ Matchday 19
 
 Matchday 20
 [Fri Jan/17]
-  19.00  Hannover 96 II           -  Erzgebirge Aue
+  19.00  Hannover 96 II           2-1 (1-1)  Erzgebirge Aue
 [Sat Jan/18]
-  14.00  1. FC Saarbrücken        -  TSV 1860 München
-         VfB Stuttgart II         -  Hansa Rostock
-         SpVgg Unterhaching       -  Borussia Dortmund II
-         Arminia Bielefeld        -  Energie Cottbus
-         VfL Osnabrück            -  SV Sandhausen
-  16.30  SV Wehen Wiesbaden       -  SC Verl
+  14.00  1. FC Saarbrücken        4-0 (2-0)  TSV 1860 München
+         VfB Stuttgart II         0-3 (0-1)  Hansa Rostock
+         SpVgg Unterhaching       1-2 (1-1)  Borussia Dortmund II
+         Arminia Bielefeld        0-2 (0-1)  Energie Cottbus
+         VfL Osnabrück            3-2 (2-1)  SV Sandhausen
+  16.30  SV Wehen Wiesbaden       0-1 (0-1)  SC Verl
 [Sun Jan/19]
-  13.30  Dynamo Dresden           -  Viktoria Köln
-  16.30  Alemannia Aachen         -  Rot-Weiss Essen
-  19.30  Waldhof Mannheim         -  FC Ingolstadt 04
+  13.30  Dynamo Dresden           2-3 (1-2)  Viktoria Köln
+  16.30  Alemannia Aachen         2-0 (0-0)  Rot-Weiss Essen
+  19.30  Waldhof Mannheim         0-0  FC Ingolstadt 04
 
 
 Matchday 21

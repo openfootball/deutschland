@@ -277,17 +277,17 @@ Matchday 18
 
 Matchday 19
 [Fri Jan/24]
-  20.30  VfL Wolfsburg            -  Holstein Kiel
+  20.30  VfL Wolfsburg            2-2 (0-1)  Holstein Kiel
 [Sat Jan/25]
-  15.30  RB Leipzig               -  Bayer 04 Leverkusen
-         1. FSV Mainz 05          -  VfB Stuttgart
-         SC Freiburg              -  FC Bayern München
-         FC Augsburg              -  1. FC Heidenheim 1846
-         Borussia Dortmund        -  SV Werder Bremen
-  18.30  Borussia Mönchengladbach  -  VfL Bochum 1848
+  15.30  RB Leipzig               2-2 (1-2)  Bayer 04 Leverkusen
+         1. FSV Mainz 05          2-0 (1-0)  VfB Stuttgart
+         SC Freiburg              1-2 (0-1)  FC Bayern München
+         FC Augsburg              2-1 (1-0)  1. FC Heidenheim 1846
+         Borussia Dortmund        2-2 (1-0)  SV Werder Bremen
+  18.30  Borussia Mönchengladbach  3-0 (1-0)  VfL Bochum 1848
 [Sun Jan/26]
-  15.30  TSG 1899 Hoffenheim      -  Eintracht Frankfurt
-  17.30  FC St. Pauli 1910        -  1. FC Union Berlin
+  15.30  TSG 1899 Hoffenheim      2-2 (0-1)  Eintracht Frankfurt
+  17.30  FC St. Pauli 1910        3-0 (1-0)  1. FC Union Berlin
 
 
 Matchday 20

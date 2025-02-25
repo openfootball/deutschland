@@ -337,17 +337,17 @@ Matchday 22
 
 Matchday 23
 [Fri Feb/21]
-  20.30  SC Freiburg              -  SV Werder Bremen
+  20.30  SC Freiburg              5-0 (2-0)  SV Werder Bremen
 [Sat Feb/22]
-  15.30  Holstein Kiel            -  Bayer 04 Leverkusen
-         Borussia Mönchengladbach  -  FC Augsburg
-         VfL Wolfsburg            -  VfL Bochum 1848
-         1. FSV Mainz 05          -  FC St. Pauli 1910
-  18.30  Borussia Dortmund        -  1. FC Union Berlin
+  15.30  Holstein Kiel            0-2 (0-2)  Bayer 04 Leverkusen
+         Borussia Mönchengladbach  0-3 (0-0)  FC Augsburg
+         VfL Wolfsburg            1-1 (0-0)  VfL Bochum 1848
+         1. FSV Mainz 05          2-0 (0-0)  FC St. Pauli 1910
+  18.30  Borussia Dortmund        6-0 (2-0)  1. FC Union Berlin
 [Sun Feb/23]
-  15.30  RB Leipzig               -  1. FC Heidenheim 1846
-  17.30  FC Bayern München        -  Eintracht Frankfurt
-  19.30  TSG 1899 Hoffenheim      -  VfB Stuttgart
+  15.30  RB Leipzig               2-2 (1-2)  1. FC Heidenheim 1846
+  17.30  FC Bayern München        4-0 (1-0)  Eintracht Frankfurt
+  19.30  TSG 1899 Hoffenheim      1-1 (0-1)  VfB Stuttgart
 
 
 Matchday 24

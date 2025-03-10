@@ -367,17 +367,17 @@ Matchday 24
 
 Matchday 25
 [Fri Mar/7]
-  20.30  Borussia Mönchengladbach  -  1. FSV Mainz 05
+  20.30  Borussia Mönchengladbach  1-3 (0-1)  1. FSV Mainz 05
 [Sat Mar/8]
-  15.30  Holstein Kiel            -  VfB Stuttgart
-         Bayer 04 Leverkusen      -  SV Werder Bremen
-         Borussia Dortmund        -  FC Augsburg
-         FC Bayern München        -  VfL Bochum 1848
-         VfL Wolfsburg            -  FC St. Pauli 1910
-  18.30  SC Freiburg              -  RB Leipzig
+  15.30  Holstein Kiel            2-2 (1-1)  VfB Stuttgart
+         Bayer 04 Leverkusen      0-2 (0-1)  SV Werder Bremen
+         Borussia Dortmund        0-1 (0-1)  FC Augsburg
+         FC Bayern München        2-3 (2-1)  VfL Bochum 1848
+         VfL Wolfsburg            1-1 (0-1)  FC St. Pauli 1910
+  18.30  SC Freiburg              0-0  RB Leipzig
 [Sun Mar/9]
-  15.30  Eintracht Frankfurt      -  1. FC Union Berlin
-  17.30  TSG 1899 Hoffenheim      -  1. FC Heidenheim 1846
+  15.30  Eintracht Frankfurt      1-2 (1-0)  1. FC Union Berlin
+  17.30  TSG 1899 Hoffenheim      1-1 (1-0)  1. FC Heidenheim 1846
 
 
 Matchday 26
@@ -411,42 +411,47 @@ Matchday 27
 
 
 Matchday 28
+[Fri Apr/4]
+  20.30  FC Augsburg              -  FC Bayern München
 [Sat Apr/5]
-         1. FC Heidenheim 1846    -  Bayer 04 Leverkusen
+  15.30  1. FC Heidenheim 1846    -  Bayer 04 Leverkusen
          VfL Bochum 1848          -  VfB Stuttgart
-         FC Augsburg              -  FC Bayern München
          SC Freiburg              -  Borussia Dortmund
-         SV Werder Bremen         -  Eintracht Frankfurt
          RB Leipzig               -  TSG 1899 Hoffenheim
-         1. FC Union Berlin       -  VfL Wolfsburg
-         FC St. Pauli 1910        -  Borussia Mönchengladbach
          1. FSV Mainz 05          -  Holstein Kiel
+  18.30  SV Werder Bremen         -  Eintracht Frankfurt
+[Sun Apr/6]
+  15.30  FC St. Pauli 1910        -  Borussia Mönchengladbach
+  17.30  1. FC Union Berlin       -  VfL Wolfsburg
 
 
 Matchday 29
+[Fri Apr/11]
+  20.30  VfL Wolfsburg            -  RB Leipzig
 [Sat Apr/12]
-         VfL Wolfsburg            -  RB Leipzig
-         FC Bayern München        -  Borussia Dortmund
-         Eintracht Frankfurt      -  1. FC Heidenheim 1846
-         VfB Stuttgart            -  SV Werder Bremen
-         Borussia Mönchengladbach  -  SC Freiburg
+  15.30  Borussia Mönchengladbach  -  SC Freiburg
          VfL Bochum 1848          -  FC Augsburg
          TSG 1899 Hoffenheim      -  1. FSV Mainz 05
          Bayer 04 Leverkusen      -  1. FC Union Berlin
          Holstein Kiel            -  FC St. Pauli 1910
+  18.30  FC Bayern München        -  Borussia Dortmund
+[Sun Apr/13]
+  15.30  VfB Stuttgart            -  SV Werder Bremen
+  17.30  Eintracht Frankfurt      -  1. FC Heidenheim 1846
 
 
 Matchday 30
 [Sat Apr/19]
-         FC St. Pauli 1910        -  Bayer 04 Leverkusen
-         1. FC Union Berlin       -  VfB Stuttgart
-         1. FC Heidenheim 1846    -  FC Bayern München
-         FC Augsburg              -  Eintracht Frankfurt
+  15.30  1. FC Heidenheim 1846    -  FC Bayern München
          SC Freiburg              -  TSG 1899 Hoffenheim
          1. FSV Mainz 05          -  VfL Wolfsburg
-         Borussia Dortmund        -  Borussia Mönchengladbach
          SV Werder Bremen         -  VfL Bochum 1848
          RB Leipzig               -  Holstein Kiel
+  18.30  1. FC Union Berlin       -  VfB Stuttgart
+[Sun Apr/20]
+  15.30  FC Augsburg              -  Eintracht Frankfurt
+  17.30  Borussia Dortmund        -  Borussia Mönchengladbach
+  19.30  FC St. Pauli 1910        -  Bayer 04 Leverkusen
 
 
 Matchday 31

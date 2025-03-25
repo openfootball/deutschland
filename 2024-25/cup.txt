@@ -6,99 +6,99 @@
 
 
 
-Round 1
-[Fri Aug/16]
-  18.00  Würzburger Kickers       3-5 pen. 2-2 a.e.t. (1-1, 1-1)  1899 Hoffenheim
-         SV Wehen Wiesbaden       1-3 a.e.t. (1-1, 1-0)  1. FSV Mainz 05
-         Hallescher FC            2-3 a.e.t. (2-2, 1-0)  FC St. Pauli
-  20.45  SSV Ulm 1846             0-4 (0-2)  Bayern München
-[Sat Aug/17]
-  13.00  Erzgebirge Aue           1-3 (1-1)  Bor. Mönchengladbach
-         TSV Schott Mainz         0-2 (0-1)  SpVgg Greuther Fürth
-  15.30  FC 08 Villingen          0-4 (0-1)  1. FC Heidenheim 1846
-         Rot-Weiss Essen          1-4 (1-2)  RB Leipzig
-         FC Ingolstadt 04         1-2 (0-2)  1. FC Kaiserslautern
-         VfR Aalen                0-2 (0-1)  FC Schalke 04
-         VfL Osnabrück            0-4 (0-2)  SC Freiburg
-         Greifswalder FC          0-1 (0-0)  1. FC Union Berlin
-  18.00  Arminia Bielefeld        2-0 (2-0)  Hannover 96
-         1. FC Phönix Lübeck      1-4 (0-3)  Borussia Dortmund
-         Alemannia Aachen         2-3 (1-1)  Holstein Kiel
-[Sun Aug/18]
-  13.00  1. FC Saarbrücken        3-5 pen. 1-1 a.e.t. (1-1, 0-1)  1. FC Nürnberg
-         FC Viktoria 1889 Berlin  1-4 (1-1)  FC Augsburg
-  15.30  Bremer SV                0-4 (0-1)  SC Paderborn 07
-         Jahn Regensburg          1-0 (0-0)  VfL Bochum
-         VfV Hildesheim           0-7 (0-3)  SV 07 Elversberg
-         SV Sandhausen            2-3 a.e.t. (2-2, 0-2)  1. FC Köln
-         Hansa Rostock            1-5 (0-1)  Hertha BSC
-         FC Teutonia 05           1-3 (0-2)  SV Darmstadt 98
-  18.00  Dynamo Dresden           2-0 (1-0)  Fortuna Düsseldorf
-         Sportfreunde Lotte       0-5 (0-2)  Karlsruher SC
-         SV Meppen                1-7 (0-2)  Hamburger SV
-[Mon Aug/19]
-  18.00  TuS Koblenz              0-1 (0-1)  VfL Wolfsburg
-         Energie Cottbus          1-3 (0-2)  Werder Bremen
-         Kickers Offenbach        2-1 (1-0)  1. FC Magdeburg
-  20.45  Eintracht Braunschweig   1-4 (0-0)  Eintracht Frankfurt
-[Tue Aug/27]
-  20.45  Preußen Münster          0-5 (0-3)  VfB Stuttgart
-[Wed Aug/28]
-  18.00  FC Carl Zeiss Jena       0-1 (0-0)  Bayer Leverkusen
+» Round 1
+  Fri Aug/16 2024
+    18.00  Würzburger Kickers      v 1899 Hoffenheim          3-5 pen. 2-2 a.e.t. (1-1, 1-1)
+           SV Wehen Wiesbaden      v 1. FSV Mainz 05          1-3 a.e.t. (1-1, 1-0)
+           Hallescher FC           v FC St. Pauli             2-3 a.e.t. (2-2, 1-0)
+    20.45  SSV Ulm 1846            v Bayern München           0-4 (0-2)
+  Sat Aug/17
+    13.00  Erzgebirge Aue          v Bor. Mönchengladbach     1-3 (1-1)
+           TSV Schott Mainz        v SpVgg Greuther Fürth     0-2 (0-1)
+    15.30  FC 08 Villingen         v 1. FC Heidenheim 1846    0-4 (0-1)
+           Rot-Weiss Essen         v RB Leipzig               1-4 (1-2)
+           FC Ingolstadt 04        v 1. FC Kaiserslautern     1-2 (0-2)
+           VfR Aalen               v FC Schalke 04            0-2 (0-1)
+           VfL Osnabrück           v SC Freiburg              0-4 (0-2)
+           Greifswalder FC         v 1. FC Union Berlin       0-1 (0-0)
+    18.00  Arminia Bielefeld       v Hannover 96              2-0 (2-0)
+           1. FC Phönix Lübeck     v Borussia Dortmund        1-4 (0-3)
+           Alemannia Aachen        v Holstein Kiel            2-3 (1-1)
+  Sun Aug/18
+    13.00  1. FC Saarbrücken       v 1. FC Nürnberg           3-5 pen. 1-1 a.e.t. (1-1, 0-1)
+           FC Viktoria 1889 Berlin v FC Augsburg              1-4 (1-1)
+    15.30  Bremer SV               v SC Paderborn 07          0-4 (0-1)
+           Jahn Regensburg         v VfL Bochum               1-0 (0-0)
+           VfV Hildesheim          v SV 07 Elversberg         0-7 (0-3)
+           SV Sandhausen           v 1. FC Köln               2-3 a.e.t. (2-2, 0-2)
+           Hansa Rostock           v Hertha BSC               1-5 (0-1)
+           FC Teutonia 05          v SV Darmstadt 98          1-3 (0-2)
+    18.00  Dynamo Dresden          v Fortuna Düsseldorf       2-0 (1-0)
+           Sportfreunde Lotte      v Karlsruher SC            0-5 (0-2)
+           SV Meppen               v Hamburger SV             1-7 (0-2)
+  Mon Aug/19
+    18.00  TuS Koblenz             v VfL Wolfsburg            0-1 (0-1)
+           Energie Cottbus         v Werder Bremen            1-3 (0-2)
+           Kickers Offenbach       v 1. FC Magdeburg          2-1 (1-0)
+    20.45  Eintracht Braunschweig  v Eintracht Frankfurt      1-4 (0-0)
+  Tue Aug/27
+    20.45  Preußen Münster         v VfB Stuttgart            0-5 (0-3)
+  Wed Aug/28
+    18.00  FC Carl Zeiss Jena      v Bayer Leverkusen         0-1 (0-0)
 
 
-Round 2
-[Tue Oct/29]
-  18.00  RB Leipzig               4-2 (3-1)  FC St. Pauli
-         FC Augsburg              3-0 (1-0)  FC Schalke 04
-         Bayer Leverkusen         3-0 (3-0)  SV 07 Elversberg
-         Kickers Offenbach        0-2 (0-0)  Karlsruher SC
-  20.45  VfL Wolfsburg            1-0 a.e.t. (0-0)  Borussia Dortmund
-         VfB Stuttgart            2-1 (1-1)  1. FC Kaiserslautern
-         1. FC Köln               3-0 (1-0)  Holstein Kiel
-         Jahn Regensburg          1-0 (0-0)  SpVgg Greuther Fürth
-[Wed Oct/30]
-  18.00  Eintracht Frankfurt      2-1 (1-0)  Bor. Mönchengladbach
-         SC Freiburg              2-1 (2-0)  Hamburger SV
-         Hertha BSC               2-1 (1-0)  1. FC Heidenheim 1846
-         SC Paderborn 07          0-1 (0-1)  Werder Bremen
-  20.45  1. FSV Mainz 05          0-4 (0-4)  Bayern München
-         1899 Hoffenheim          2-1 (1-0)  1. FC Nürnberg
-         Arminia Bielefeld        2-0 (1-0)  1. FC Union Berlin
-         Dynamo Dresden           2-3 a.e.t. (2-2, 0-0)  SV Darmstadt 98
+» Round 2
+  Tue Oct/29
+    18.00  RB Leipzig              v FC St. Pauli             4-2 (3-1)
+           FC Augsburg             v FC Schalke 04            3-0 (1-0)
+           Bayer Leverkusen        v SV 07 Elversberg         3-0 (3-0)
+           Kickers Offenbach       v Karlsruher SC            0-2 (0-0)
+    20.45  VfL Wolfsburg           v Borussia Dortmund        1-0 a.e.t. (0-0)
+           VfB Stuttgart           v 1. FC Kaiserslautern     2-1 (1-1)
+           1. FC Köln              v Holstein Kiel            3-0 (1-0)
+           Jahn Regensburg         v SpVgg Greuther Fürth     1-0 (0-0)
+  Wed Oct/30
+    18.00  Eintracht Frankfurt     v Bor. Mönchengladbach     2-1 (1-0)
+           SC Freiburg             v Hamburger SV             2-1 (2-0)
+           Hertha BSC              v 1. FC Heidenheim 1846    2-1 (1-0)
+           SC Paderborn 07         v Werder Bremen            0-1 (0-1)
+    20.45  1. FSV Mainz 05         v Bayern München           0-4 (0-4)
+           1899 Hoffenheim         v 1. FC Nürnberg           2-1 (1-0)
+           Arminia Bielefeld       v 1. FC Union Berlin       2-0 (1-0)
+           Dynamo Dresden          v SV Darmstadt 98          2-3 a.e.t. (2-2, 0-0)
 
 
-Round of 16
-[Tue Dec/3]
-  18.00  Arminia Bielefeld        3-1 (2-0)  SC Freiburg
-         Jahn Regensburg          0-3 (0-2)  VfB Stuttgart
-  20.45  Bayern München           0-1 (0-0)  Bayer Leverkusen
-         Werder Bremen            1-0 (0-0)  SV Darmstadt 98
-[Wed Dec/4]
-  18.00  1. FC Köln               2-1 a.e.t. (1-1, 1-1)  Hertha BSC
-         VfL Wolfsburg            3-0 (0-0)  1899 Hoffenheim
-  20.45  RB Leipzig               3-0 (1-0)  Eintracht Frankfurt
-         Karlsruher SC            4-5 pen. 2-2 a.e.t. (1-1, 0-1)  FC Augsburg
+» Round of 16
+  Tue Dec/3
+    18.00  Arminia Bielefeld       v SC Freiburg              3-1 (2-0)
+           Jahn Regensburg         v VfB Stuttgart            0-3 (0-2)
+    20.45  Bayern München          v Bayer Leverkusen         0-1 (0-0)
+           Werder Bremen           v SV Darmstadt 98          1-0 (0-0)
+  Wed Dec/4
+    18.00  1. FC Köln              v Hertha BSC               2-1 a.e.t. (1-1, 1-1)
+           VfL Wolfsburg           v 1899 Hoffenheim          3-0 (0-0)
+    20.45  RB Leipzig              v Eintracht Frankfurt      3-0 (1-0)
+           Karlsruher SC           v FC Augsburg              4-5 pen. 2-2 a.e.t. (1-1, 0-1)
 
 
-Quarterfinals
-[Tue Feb/4]
-  20.45  VfB Stuttgart            -  FC Augsburg
-[Wed Feb/5]
-  20.45  Bayer Leverkusen         -  1. FC Köln
-[Tue Feb/25]
-  20.45  Arminia Bielefeld        -  Werder Bremen
-[Wed Feb/26]
-  20.45  RB Leipzig               -  VfL Wolfsburg
+» Quarterfinals
+  Tue Feb/4 2025
+    20.45  VfB Stuttgart           v FC Augsburg              1-0 (1-0)
+  Wed Feb/5
+    20.45  Bayer Leverkusen        v 1. FC Köln               3-2 a.e.t. (2-2, 0-1)
+  Tue Feb/25
+    20.45  Arminia Bielefeld       v Werder Bremen            2-1 (2-0)
+  Wed Feb/26
+    20.45  RB Leipzig              v VfL Wolfsburg            1-0 (0-0)
 
 
-Semifinals
-[Tue Apr/1]
-         N.N.                     -  N.N.
-[Wed Apr/2]
-         N.N.                     -  N.N.
+» Semifinals
+  Tue Apr/1
+    20.45  Arminia Bielefeld       v Bayer Leverkusen
+  Wed Apr/2
+    20.45  VfB Stuttgart           v RB Leipzig
 
 
-Final
-[Sat May/24]
-         N.N.                     -  N.N.
+» Final
+  Sat May/24
+           N.N.                    v N.N.

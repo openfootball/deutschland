@@ -1,0 +1,638 @@
+= Deutsche 3. Liga 2018/19
+
+# Date       Fri Jul/27 2018 - Sat May/18 2019 (295d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Jul/27 2018
+    19.00  Eintracht Braunschweig  v Karlsruher SC            1-1 (0-1)
+  Sat Jul/28
+    14.00  VfR Aalen               v SV Wehen Wiesbaden       1-2 (0-0)
+           VfL Osnabrück           v Würzburger Kickers       2-1 (0-1)
+           1. FC Kaiserslautern    v TSV 1860 München         1-0 (0-0)
+           FC Carl Zeiss Jena      v SG Sonnenhof Großaspach  3-2 (1-1)
+           Fortuna Köln            v Preußen Münster          1-4 (0-2)
+           FSV Zwickau             v Hallescher FC            2-0 (2-0)
+  Sun Jul/29
+    13.00  Energie Cottbus         v Hansa Rostock            3-0 (2-0)
+    14.00  KFC Uerdingen 05        v SpVgg Unterhaching       1-3 (0-1)
+  Mon Jul/30
+    19.00  Sportfreunde Lotte      v SV Meppen                0-0
+
+
+» Matchday 2
+  Fri Aug/3
+    19.00  Hansa Rostock           v Eintracht Braunschweig   2-0 (2-0)
+  Sat Aug/4
+    14.00  Hallescher FC           v Fortuna Köln             1-2 (0-1)
+           Preußen Münster         v FC Carl Zeiss Jena       1-2 (0-2)
+           SG Sonnenhof Großaspach v 1. FC Kaiserslautern     1-1 (1-1)
+           TSV 1860 München        v Sportfreunde Lotte       5-1 (2-0)
+           Würzburger Kickers      v KFC Uerdingen 05         0-2 (0-0)
+           SpVgg Unterhaching      v VfR Aalen                0-0
+           Karlsruher SC           v FSV Zwickau              1-1 (0-0)
+  Sun Aug/5
+    13.00  SV Wehen Wiesbaden      v Energie Cottbus          0-2 (0-1)
+    14.00  SV Meppen               v VfL Osnabrück            0-2 (0-0)
+
+
+» Matchday 3
+  Tue Aug/7
+    19.00  Eintracht Braunschweig  v FSV Zwickau              1-1 (0-1)
+           VfR Aalen               v Würzburger Kickers       3-2 (3-1)
+           1. FC Kaiserslautern    v Preußen Münster          1-2 (0-0)
+           FC Carl Zeiss Jena      v Hallescher FC            0-3 (0-3)
+           Fortuna Köln            v Karlsruher SC            0-1 (0-0)
+  Wed Aug/8
+    19.00  KFC Uerdingen 05        v SV Meppen                3-2 (0-1)
+           VfL Osnabrück           v TSV 1860 München         2-2 (0-1)
+           Sportfreunde Lotte      v SG Sonnenhof Großaspach  0-2 (0-2)
+           Hansa Rostock           v SV Wehen Wiesbaden       3-2 (2-1)
+           Energie Cottbus         v SpVgg Unterhaching       2-2 (0-1)
+
+
+» Matchday 4
+  Fri Aug/10
+    19.00  Karlsruher SC           v FC Carl Zeiss Jena       1-1 (0-0)
+  Sat Aug/11
+    14.00  Hallescher FC           v 1. FC Kaiserslautern     2-0 (1-0)
+           SG Sonnenhof Großaspach v VfL Osnabrück            0-0
+           SV Meppen               v VfR Aalen                1-0 (0-0)
+           SpVgg Unterhaching      v Hansa Rostock            2-1 (1-0)
+           SV Wehen Wiesbaden      v Eintracht Braunschweig   3-3 (0-1)
+           FSV Zwickau             v Fortuna Köln             1-0 (0-0)
+  Sun Aug/12
+    13.00  TSV 1860 München        v KFC Uerdingen 05         0-1 (0-0)
+    14.00  Würzburger Kickers      v Energie Cottbus          3-1 (2-0)
+  Mon Aug/13
+    19.00  Preußen Münster         v Sportfreunde Lotte       1-0 (0-0)
+
+
+» Matchday 5
+  Fri Aug/24
+    19.00  KFC Uerdingen 05        v SG Sonnenhof Großaspach  0-0
+  Sat Aug/25
+    14.00  VfR Aalen               v TSV 1860 München         1-4 (0-2)
+           VfL Osnabrück           v Preußen Münster          3-0 (2-0)
+           1. FC Kaiserslautern    v Karlsruher SC            0-0
+           SV Wehen Wiesbaden      v SpVgg Unterhaching       1-2 (1-0)
+           Hansa Rostock           v Würzburger Kickers       0-4 (0-1)
+           Energie Cottbus         v SV Meppen                1-1 (1-0)
+  Sun Aug/26
+    13.00  Sportfreunde Lotte      v Hallescher FC            0-1 (0-0)
+    14.00  Eintracht Braunschweig  v Fortuna Köln             0-2 (0-1)
+  Mon Aug/27
+    19.00  FC Carl Zeiss Jena      v FSV Zwickau              2-1 (0-1)
+
+
+» Matchday 6
+  Fri Aug/31
+    19.00  TSV 1860 München        v Energie Cottbus          2-0 (1-0)
+  Sat Sep/1
+    14.00  Hallescher FC           v VfL Osnabrück            1-1 (0-0)
+           Preußen Münster         v KFC Uerdingen 05         0-1 (0-0)
+           SV Meppen               v Hansa Rostock            1-3 (0-2)
+           Würzburger Kickers      v SV Wehen Wiesbaden       3-1 (1-1)
+           SpVgg Unterhaching      v Eintracht Braunschweig   3-0 (1-0)
+           Karlsruher SC           v Sportfreunde Lotte       1-3 (1-3)
+  Sun Sep/2
+    13.00  FSV Zwickau             v 1. FC Kaiserslautern     1-1 (0-0)
+    14.00  Fortuna Köln            v FC Carl Zeiss Jena       2-0 (0-0)
+  Mon Sep/3
+    19.00  SG Sonnenhof Großaspach v VfR Aalen                1-1 (1-0)
+
+
+» Matchday 7
+  Fri Sep/14
+    19.00  Eintracht Braunschweig  v FC Carl Zeiss Jena       2-0 (0-0)
+  Sat Sep/15
+    14.00  VfR Aalen               v Preußen Münster          4-1 (2-0)
+           KFC Uerdingen 05        v Hallescher FC            2-1 (1-0)
+           VfL Osnabrück           v Karlsruher SC            0-1 (0-0)
+           SV Wehen Wiesbaden      v SV Meppen                3-0 (0-0)
+           Hansa Rostock           v TSV 1860 München         2-2 (0-1)
+           Energie Cottbus         v SG Sonnenhof Großaspach  0-0
+  Sun Sep/16
+    13.00  Sportfreunde Lotte      v FSV Zwickau              2-1 (0-0)
+    14.00  SpVgg Unterhaching      v Würzburger Kickers       0-1 (0-0)
+  Mon Sep/17
+    19.00  1. FC Kaiserslautern    v Fortuna Köln             3-3 (2-2)
+
+
+» Matchday 8
+  Fri Sep/21
+    19.00  Preußen Münster         v Energie Cottbus          3-0 (2-0)
+  Sat Sep/22
+    14.00  SG Sonnenhof Großaspach v Hansa Rostock            0-0
+           TSV 1860 München        v SV Wehen Wiesbaden       1-2 (1-0)
+           SV Meppen               v SpVgg Unterhaching       3-3 (1-1)
+           Würzburger Kickers      v Eintracht Braunschweig   1-1 (1-1)
+           FC Carl Zeiss Jena      v 1. FC Kaiserslautern     3-3 (1-1)
+           Fortuna Köln            v Sportfreunde Lotte       1-1 (1-0)
+           Karlsruher SC           v KFC Uerdingen 05         2-0 (1-0)
+  Sun Sep/23
+    13.00  FSV Zwickau             v VfL Osnabrück            0-1 (0-0)
+    14.00  Hallescher FC           v VfR Aalen                1-0 (1-0)
+
+
+» Matchday 9
+  Tue Sep/25
+    19.00  Eintracht Braunschweig  v 1. FC Kaiserslautern     1-4 (1-1)
+           Sportfreunde Lotte      v FC Carl Zeiss Jena       2-0 (1-0)
+           Würzburger Kickers      v SV Meppen                2-1 (1-1)
+           SV Wehen Wiesbaden      v SG Sonnenhof Großaspach  2-0 (0-0)
+           Hansa Rostock           v Preußen Münster          1-4 (0-2)
+  Wed Sep/26
+    19.00  VfR Aalen               v Karlsruher SC            1-3 (0-1)
+           KFC Uerdingen 05        v FSV Zwickau              1-2 (0-0)
+           VfL Osnabrück           v Fortuna Köln             1-0 (0-0)
+           SpVgg Unterhaching      v TSV 1860 München         1-1 (0-0)
+  Wed Oct/10
+    19.00  Energie Cottbus         v Hallescher FC            1-2 (1-2)
+
+
+» Matchday 10
+  Fri Sep/28
+    19.00  Preußen Münster         v SV Wehen Wiesbaden       3-0 (1-0)
+  Sat Sep/29
+    14.00  SG Sonnenhof Großaspach v SpVgg Unterhaching       1-1 (1-0)
+           SV Meppen               v Eintracht Braunschweig   4-2 (2-0)
+           1. FC Kaiserslautern    v Sportfreunde Lotte       2-1 (1-0)
+           Fortuna Köln            v KFC Uerdingen 05         1-2 (0-0)
+           Karlsruher SC           v Energie Cottbus          2-0 (1-0)
+  Sun Sep/30
+    13.00  FC Carl Zeiss Jena      v VfL Osnabrück            0-0
+    14.00  FSV Zwickau             v VfR Aalen                2-3 (1-2)
+  Mon Oct/1
+    19.00  TSV 1860 München        v Würzburger Kickers       1-1 (0-0)
+  Tue Oct/16
+    19.00  Hallescher FC           v Hansa Rostock            0-1 (0-1)
+
+
+» Matchday 11
+  Fri Oct/5
+    19.00  Hansa Rostock           v Karlsruher SC            1-0 (0-0)
+  Sat Oct/6
+    14.00  Eintracht Braunschweig  v Sportfreunde Lotte       2-2 (2-0)
+           VfR Aalen               v Fortuna Köln             0-1 (0-0)
+           KFC Uerdingen 05        v FC Carl Zeiss Jena       2-1 (1-1)
+           VfL Osnabrück           v 1. FC Kaiserslautern     2-0 (0-0)
+           SpVgg Unterhaching      v Preußen Münster          1-1 (1-0)
+           Energie Cottbus         v FSV Zwickau              2-1 (1-1)
+  Sun Oct/7
+    13.00  SV Meppen               v TSV 1860 München         1-0 (1-0)
+    14.00  SV Wehen Wiesbaden      v Hallescher FC            2-0 (1-0)
+  Mon Oct/8
+    19.00  Würzburger Kickers      v SG Sonnenhof Großaspach  0-0
+
+
+» Matchday 12
+  Fri Oct/19
+    19.00  FC Carl Zeiss Jena      v VfR Aalen                0-0
+  Sat Oct/20
+    14.00  Hallescher FC           v SpVgg Unterhaching       1-1 (0-0)
+           SG Sonnenhof Großaspach v SV Meppen                1-0 (0-0)
+           TSV 1860 München        v Eintracht Braunschweig   2-0 (0-0)
+           Sportfreunde Lotte      v VfL Osnabrück            0-0
+           1. FC Kaiserslautern    v KFC Uerdingen 05         2-0 (1-0)
+           Fortuna Köln            v Energie Cottbus          3-1 (2-0)
+  Sun Oct/21
+    13.00  FSV Zwickau             v Hansa Rostock            2-2 (2-0)
+    14.00  Preußen Münster         v Würzburger Kickers       1-0 (0-0)
+           Karlsruher SC           v SV Wehen Wiesbaden       2-5 (1-4)
+
+
+» Matchday 13
+  Fri Oct/26
+    19.00  Eintracht Braunschweig  v VfL Osnabrück            3-4 (2-2)
+  Sat Oct/27
+    14.00  KFC Uerdingen 05        v Sportfreunde Lotte       0-2 (0-1)
+           Würzburger Kickers      v Hallescher FC            1-2 (1-1)
+           SpVgg Unterhaching      v Karlsruher SC            0-0
+           SV Wehen Wiesbaden      v FSV Zwickau              0-0
+           Hansa Rostock           v Fortuna Köln             3-1 (3-0)
+           Energie Cottbus         v FC Carl Zeiss Jena       2-1 (1-0)
+  Sun Oct/28
+    13.00  TSV 1860 München        v SG Sonnenhof Großaspach  2-2 (1-1)
+    14.00  SV Meppen               v Preußen Münster          1-2 (0-0)
+  Mon Oct/29
+    19.00  VfR Aalen               v 1. FC Kaiserslautern     1-2 (1-0)
+
+
+» Matchday 14
+  Fri Nov/2
+    19.00  1. FC Kaiserslautern    v Energie Cottbus          0-2 (0-0)
+  Sat Nov/3
+    14.00  Preußen Münster         v TSV 1860 München         0-0
+           SG Sonnenhof Großaspach v Eintracht Braunschweig   1-1 (0-0)
+           Sportfreunde Lotte      v VfR Aalen                1-1 (0-0)
+           FC Carl Zeiss Jena      v Hansa Rostock            1-1 (0-0)
+           FSV Zwickau             v SpVgg Unterhaching       2-2 (1-1)
+           Karlsruher SC           v Würzburger Kickers       2-1 (1-0)
+  Sun Nov/4
+    13.00  Hallescher FC           v SV Meppen                2-1 (2-0)
+    14.00  Fortuna Köln            v SV Wehen Wiesbaden       0-7 (0-4)
+  Mon Nov/5
+    19.00  VfL Osnabrück           v KFC Uerdingen 05         2-1 (0-0)
+
+
+» Matchday 15
+  Fri Nov/9
+    19.00  Würzburger Kickers      v FSV Zwickau              0-2 (0-2)
+  Sat Nov/10
+    14.00  Eintracht Braunschweig  v KFC Uerdingen 05         0-2 (0-2)
+           VfR Aalen               v VfL Osnabrück            1-1 (0-0)
+           TSV 1860 München        v Hallescher FC            1-1 (0-1)
+           SV Meppen               v Karlsruher SC            2-3 (0-3)
+           Hansa Rostock           v 1. FC Kaiserslautern     4-1 (3-1)
+           Energie Cottbus         v Sportfreunde Lotte       2-2 (0-1)
+  Sun Nov/11
+    13.00  SpVgg Unterhaching      v Fortuna Köln             6-0 (3-0)
+    14.00  SG Sonnenhof Großaspach v Preußen Münster          3-1 (2-0)
+  Mon Nov/12
+    19.00  SV Wehen Wiesbaden      v FC Carl Zeiss Jena       2-3 (1-1)
+
+
+» Matchday 16
+  Fri Nov/23
+    19.00  Sportfreunde Lotte      v Hansa Rostock            1-0 (1-0)
+  Sat Nov/24
+    14.00  Hallescher FC           v SG Sonnenhof Großaspach  2-0 (1-0)
+           KFC Uerdingen 05        v VfR Aalen                2-0 (1-0)
+           VfL Osnabrück           v Energie Cottbus          3-1 (1-0)
+           FC Carl Zeiss Jena      v SpVgg Unterhaching       4-5 (2-2)
+           Fortuna Köln            v Würzburger Kickers       0-0
+           FSV Zwickau             v SV Meppen                1-1 (0-1)
+  Sun Nov/25
+    13.00  Karlsruher SC           v TSV 1860 München         3-2 (3-1)
+    14.00  1. FC Kaiserslautern    v SV Wehen Wiesbaden       0-0
+  Mon Nov/26
+    19.00  Preußen Münster         v Eintracht Braunschweig   3-0 (2-0)
+
+
+» Matchday 17
+  Fri Nov/30
+    19.00  SpVgg Unterhaching      v 1. FC Kaiserslautern     5-0 (2-0)
+  Sat Dec/1
+    14.00  Eintracht Braunschweig  v VfR Aalen                2-2 (0-1)
+           Preußen Münster         v Hallescher FC            1-2 (0-2)
+           TSV 1860 München        v FSV Zwickau              2-0 (2-0)
+           Würzburger Kickers      v FC Carl Zeiss Jena       5-2 (1-2)
+           SV Wehen Wiesbaden      v Sportfreunde Lotte       2-0 (2-0)
+           Energie Cottbus         v KFC Uerdingen 05         0-2 (0-0)
+  Sun Dec/2
+    13.00  SV Meppen               v Fortuna Köln             3-0 (2-0)
+    14.00  SG Sonnenhof Großaspach v Karlsruher SC            1-2 (0-1)
+  Mon Dec/3
+    19.00  Hansa Rostock           v VfL Osnabrück            1-1 (0-0)
+
+
+» Matchday 18
+  Fri Dec/7
+    19.00  FC Carl Zeiss Jena      v SV Meppen                1-2 (1-0)
+  Sat Dec/8
+    14.00  Eintracht Braunschweig  v Hallescher FC            0-1 (0-1)
+           KFC Uerdingen 05        v Hansa Rostock            2-1 (1-1)
+           VfL Osnabrück           v SV Wehen Wiesbaden       2-1 (2-1)
+           1. FC Kaiserslautern    v Würzburger Kickers       0-0
+           Fortuna Köln            v TSV 1860 München         0-0
+           Karlsruher SC           v Preußen Münster          5-0 (3-0)
+  Sun Dec/9
+    13.00  Sportfreunde Lotte      v SpVgg Unterhaching       0-0
+    14.00  VfR Aalen               v Energie Cottbus          3-3 (1-1)
+  Mon Dec/10
+    19.00  FSV Zwickau             v SG Sonnenhof Großaspach  3-0 (1-0)
+
+
+» Matchday 19
+  Fri Dec/14
+    19.00  SG Sonnenhof Großaspach v Fortuna Köln             1-1 (1-0)
+  Sat Dec/15
+    14.00  Hallescher FC           v Karlsruher SC            0-3 (0-1)
+           Preußen Münster         v FSV Zwickau              0-2 (0-2)
+           SV Meppen               v 1. FC Kaiserslautern     0-1 (0-1)
+           SpVgg Unterhaching      v VfL Osnabrück            1-1 (0-0)
+           Hansa Rostock           v VfR Aalen                1-1 (0-0)
+           Energie Cottbus         v Eintracht Braunschweig   0-1 (0-0)
+  Sun Dec/16
+    13.00  TSV 1860 München        v FC Carl Zeiss Jena       1-3 (0-1)
+    14.00  Würzburger Kickers      v Sportfreunde Lotte       2-2 (1-1)
+  Mon Dec/17
+    19.00  SV Wehen Wiesbaden      v KFC Uerdingen 05         0-2 (0-0)
+
+
+» Matchday 20
+  Fri Dec/21
+    19.00  SV Wehen Wiesbaden      v VfR Aalen                2-1 (2-1)
+  Sat Dec/22
+    14.00  Karlsruher SC           v Eintracht Braunschweig   1-1 (0-1)
+           Würzburger Kickers      v VfL Osnabrück            1-2 (1-1)
+           SV Meppen               v Sportfreunde Lotte       2-0 (2-0)
+           TSV 1860 München        v 1. FC Kaiserslautern     2-1 (0-0)
+           Preußen Münster         v Fortuna Köln             0-2 (0-1)
+           Hallescher FC           v FSV Zwickau              2-0 (1-0)
+           Hansa Rostock           v Energie Cottbus          0-2 (0-1)
+  Sun Dec/23
+    13.00  SpVgg Unterhaching      v KFC Uerdingen 05         4-0 (3-0)
+    14.00  SG Sonnenhof Großaspach v FC Carl Zeiss Jena       0-0
+
+
+» Matchday 21
+  Fri Jan/25 2019
+    19.00  Sportfreunde Lotte      v TSV 1860 München         1-1 (0-1)
+  Sat Jan/26
+    14.00  Fortuna Köln            v Hallescher FC            0-1 (0-0)
+           FC Carl Zeiss Jena      v Preußen Münster          0-0
+           1. FC Kaiserslautern    v SG Sonnenhof Großaspach  2-0 (1-0)
+           VfL Osnabrück           v SV Meppen                1-0 (1-0)
+           Energie Cottbus         v SV Wehen Wiesbaden       2-3 (0-3)
+  Sun Jan/27
+    14.00  Eintracht Braunschweig  v Hansa Rostock            2-0 (0-0)
+    15.00  KFC Uerdingen 05        v Würzburger Kickers       0-3 (0-1)
+  Tue Feb/12
+    19.00  FSV Zwickau             v Karlsruher SC            1-1 (1-0)
+  Wed Feb/27
+    19.00  VfR Aalen               v SpVgg Unterhaching       4-1 (2-0)
+
+
+» Matchday 22
+  Fri Feb/1
+    19.00  Preußen Münster         v 1. FC Kaiserslautern     2-0 (2-0)
+  Sat Feb/2
+    14.00  Würzburger Kickers      v VfR Aalen                2-1 (1-0)
+           SV Meppen               v KFC Uerdingen 05         3-2 (0-0)
+           TSV 1860 München        v VfL Osnabrück            1-2 (0-1)
+           SG Sonnenhof Großaspach v Sportfreunde Lotte       0-1 (0-0)
+           Hallescher FC           v FC Carl Zeiss Jena       0-0
+           Karlsruher SC           v Fortuna Köln             3-1 (0-1)
+  Sun Feb/3
+    13.00  SV Wehen Wiesbaden      v Hansa Rostock            2-0 (1-0)
+  Mon Feb/4
+    19.00  FSV Zwickau             v Eintracht Braunschweig   0-1 (0-0)
+  Wed Mar/20
+    19.00  SpVgg Unterhaching      v Energie Cottbus          0-0
+
+
+» Matchday 23
+  Fri Feb/8
+    19.00  VfL Osnabrück           v SG Sonnenhof Großaspach  0-2 (0-1)
+  Sat Feb/9
+    14.00  1. FC Kaiserslautern    v Hallescher FC            0-0
+           KFC Uerdingen 05        v TSV 1860 München         1-1 (0-0)
+           Energie Cottbus         v Würzburger Kickers       1-2 (0-1)
+           Hansa Rostock           v SpVgg Unterhaching       2-0 (1-0)
+           Fortuna Köln            v FSV Zwickau              1-0 (0-0)
+           FC Carl Zeiss Jena      v Karlsruher SC            1-1 (1-1)
+  Sun Feb/10
+    13.00  VfR Aalen               v SV Meppen                1-2 (1-1)
+    14.00  Eintracht Braunschweig  v SV Wehen Wiesbaden       2-3 (1-2)
+  Mon Feb/11
+    19.00  Sportfreunde Lotte      v Preußen Münster          1-0 (1-0)
+
+
+» Matchday 24
+  Fri Feb/15
+    19.00  SpVgg Unterhaching      v SV Wehen Wiesbaden       1-2 (1-1)
+  Sat Feb/16
+    14.00  Fortuna Köln            v Eintracht Braunschweig   1-3 (0-0)
+           SG Sonnenhof Großaspach v KFC Uerdingen 05         3-2 (1-1)
+           Preußen Münster         v VfL Osnabrück            0-0
+           Hallescher FC           v Sportfreunde Lotte       0-0
+           Karlsruher SC           v 1. FC Kaiserslautern     0-1 (0-0)
+           SV Meppen               v Energie Cottbus          3-0 (2-0)
+  Sun Feb/17
+    13.00  Würzburger Kickers      v Hansa Rostock            0-2 (0-2)
+    14.00  FSV Zwickau             v FC Carl Zeiss Jena       2-0 (1-0)
+  Mon Feb/18
+    19.00  TSV 1860 München        v VfR Aalen                2-1 (0-0)
+
+
+» Matchday 25
+  Fri Feb/22
+    19.00  VfR Aalen               v SG Sonnenhof Großaspach  1-1 (1-1)
+  Sat Feb/23
+    14.00  VfL Osnabrück           v Hallescher FC            2-0 (2-0)
+           Energie Cottbus         v TSV 1860 München         1-2 (0-0)
+           Hansa Rostock           v SV Meppen                0-2 (0-0)
+           Eintracht Braunschweig  v SpVgg Unterhaching       1-0 (1-0)
+           FC Carl Zeiss Jena      v Fortuna Köln             0-1 (0-1)
+           Sportfreunde Lotte      v Karlsruher SC            0-0
+  Sun Feb/24
+    13.00  1. FC Kaiserslautern    v FSV Zwickau              1-1 (1-0)
+    14.00  SV Wehen Wiesbaden      v Würzburger Kickers       0-2 (0-1)
+  Mon Feb/25
+    19.00  KFC Uerdingen 05        v Preußen Münster          0-0
+
+
+» Matchday 26
+  Fri Mar/1
+    19.00  Hallescher FC           v KFC Uerdingen 05         4-0 (3-0)
+  Sat Mar/2
+    14.00  Preußen Münster         v VfR Aalen                4-0 (1-0)
+           Karlsruher SC           v VfL Osnabrück            2-1 (0-0)
+           FSV Zwickau             v Sportfreunde Lotte       0-2 (0-1)
+           Fortuna Köln            v 1. FC Kaiserslautern     2-2 (1-2)
+           SV Meppen               v SV Wehen Wiesbaden       1-1 (1-1)
+           SG Sonnenhof Großaspach v Energie Cottbus          0-0
+  Sun Mar/3
+    13.00  TSV 1860 München        v Hansa Rostock            1-2 (0-2)
+    14.00  FC Carl Zeiss Jena      v Eintracht Braunschweig   0-0
+  Mon Mar/4
+    19.00  Würzburger Kickers      v SpVgg Unterhaching       0-1 (0-1)
+
+
+» Matchday 27
+  Fri Mar/8
+    19.00  KFC Uerdingen 05        v Karlsruher SC            1-3 (1-2)
+  Sat Mar/9
+    14.00  Energie Cottbus         v Preußen Münster          3-0 (3-0)
+           Hansa Rostock           v SG Sonnenhof Großaspach  0-0
+           SV Wehen Wiesbaden      v TSV 1860 München         0-1 (0-0)
+           SpVgg Unterhaching      v SV Meppen                0-1 (0-1)
+           Eintracht Braunschweig  v Würzburger Kickers       2-2 (0-1)
+           Sportfreunde Lotte      v Fortuna Köln             1-2 (0-1)
+           VfL Osnabrück           v FSV Zwickau              3-0 (2-0)
+  Sun Mar/10
+    13.00  1. FC Kaiserslautern    v FC Carl Zeiss Jena       4-1 (1-1)
+    14.00  VfR Aalen               v Hallescher FC            0-1 (0-1)
+
+
+» Matchday 28
+  Tue Mar/12
+    19.00  FSV Zwickau             v KFC Uerdingen 05         2-0 (1-0)
+           Fortuna Köln            v VfL Osnabrück            0-0
+           SV Meppen               v Würzburger Kickers       1-1 (0-1)
+           TSV 1860 München        v SpVgg Unterhaching       1-0 (1-0)
+           Preußen Münster         v Hansa Rostock            0-1 (0-0)
+  Wed Mar/13
+    19.00  1. FC Kaiserslautern    v Eintracht Braunschweig   0-0
+           Karlsruher SC           v VfR Aalen                0-3 (0-2)
+           FC Carl Zeiss Jena      v Sportfreunde Lotte       1-1 (0-0)
+           SG Sonnenhof Großaspach v SV Wehen Wiesbaden       2-3 (0-0)
+           Hallescher FC           v Energie Cottbus          2-3 (2-1)
+
+
+» Matchday 29
+  Fri Mar/15
+    19.00  KFC Uerdingen 05        v Fortuna Köln             1-1 (1-1)
+  Sat Mar/16
+    14.00  SV Wehen Wiesbaden      v Preußen Münster          2-0 (1-0)
+           SpVgg Unterhaching      v SG Sonnenhof Großaspach  0-0
+           Würzburger Kickers      v TSV 1860 München         2-1 (2-1)
+           Sportfreunde Lotte      v 1. FC Kaiserslautern     0-2 (0-0)
+           VfL Osnabrück           v FC Carl Zeiss Jena       3-1 (1-1)
+           VfR Aalen               v FSV Zwickau              1-1 (1-1)
+  Sun Mar/17
+    13.00  Energie Cottbus         v Karlsruher SC            0-2 (0-1)
+    14.00  Eintracht Braunschweig  v SV Meppen                3-0 (1-0)
+  Mon Mar/18
+    19.00  Hansa Rostock           v Hallescher FC            1-1 (0-1)
+
+
+» Matchday 30
+  Fri Mar/22
+    19.00  Fortuna Köln            v VfR Aalen                1-1 (0-0)
+  Sat Mar/23
+    14.00  FC Carl Zeiss Jena      v KFC Uerdingen 05         0-0
+           TSV 1860 München        v SV Meppen                1-0 (1-0)
+           SG Sonnenhof Großaspach v Würzburger Kickers       2-1 (0-0)
+           Preußen Münster         v SpVgg Unterhaching       3-0 (1-0)
+           Hallescher FC           v SV Wehen Wiesbaden       1-4 (0-2)
+           Karlsruher SC           v Hansa Rostock            1-1 (1-0)
+  Sun Mar/24
+    13.00  1. FC Kaiserslautern    v VfL Osnabrück            1-3 (0-2)
+    14.00  Sportfreunde Lotte      v Eintracht Braunschweig   0-1 (0-0)
+  Mon Mar/25
+    19.00  FSV Zwickau             v Energie Cottbus          2-1 (1-0)
+
+
+» Matchday 31
+  Fri Mar/29
+    19.00  KFC Uerdingen 05        v 1. FC Kaiserslautern     2-4 (1-2)
+  Sat Mar/30
+    14.00  SpVgg Unterhaching      v Hallescher FC            0-0
+           Würzburger Kickers      v Preußen Münster          3-2 (1-0)
+           SV Meppen               v SG Sonnenhof Großaspach  2-1 (0-1)
+           Eintracht Braunschweig  v TSV 1860 München         1-1 (0-0)
+           Energie Cottbus         v Fortuna Köln             4-3 (2-2)
+           Hansa Rostock           v FSV Zwickau              3-1 (2-0)
+  Sun Mar/31
+    13.00  VfR Aalen               v FC Carl Zeiss Jena       1-1 (1-1)
+    14.00  SV Wehen Wiesbaden      v Karlsruher SC            2-0 (0-0)
+  Mon Apr/1
+    19.00  VfL Osnabrück           v Sportfreunde Lotte       1-0 (0-0)
+
+
+» Matchday 32
+  Fri Apr/5
+    19.00  Preußen Münster         v SV Meppen                1-1 (1-1)
+  Sat Apr/6
+    14.00  1. FC Kaiserslautern    v VfR Aalen                0-1 (0-0)
+           Sportfreunde Lotte      v KFC Uerdingen 05         1-3 (0-3)
+           Hallescher FC           v Würzburger Kickers       1-0 (1-0)
+           Karlsruher SC           v SpVgg Unterhaching       4-0 (0-0)
+           FSV Zwickau             v SV Wehen Wiesbaden       2-1 (2-1)
+           FC Carl Zeiss Jena      v Energie Cottbus          2-1 (1-1)
+  Sun Apr/7
+    13.00  Fortuna Köln            v Hansa Rostock            1-1 (1-0)
+    14.00  VfL Osnabrück           v Eintracht Braunschweig   1-0 (1-0)
+  Mon Apr/8
+    19.00  SG Sonnenhof Großaspach v TSV 1860 München         1-0 (0-0)
+
+
+» Matchday 33
+  Fri Apr/12
+    19.00  SV Meppen               v Hallescher FC            0-2 (0-2)
+  Sat Apr/13
+    14.00  TSV 1860 München        v Preußen Münster          0-1 (0-1)
+           Eintracht Braunschweig  v SG Sonnenhof Großaspach  1-1 (0-0)
+           VfR Aalen               v Sportfreunde Lotte       1-2 (0-1)
+           Energie Cottbus         v 1. FC Kaiserslautern     1-1 (0-0)
+           Hansa Rostock           v FC Carl Zeiss Jena       1-2 (1-1)
+           SV Wehen Wiesbaden      v Fortuna Köln             3-0 (1-0)
+  Sun Apr/14
+    13.00  SpVgg Unterhaching      v FSV Zwickau              0-1 (0-0)
+    14.00  KFC Uerdingen 05        v VfL Osnabrück            1-3 (0-1)
+  Mon Apr/15
+    19.00  Würzburger Kickers      v Karlsruher SC            0-0
+
+
+» Matchday 34
+  Sat Apr/20
+    14.00  VfL Osnabrück           v VfR Aalen                2-0 (1-0)
+           Preußen Münster         v SG Sonnenhof Großaspach  1-0 (0-0)
+           Hallescher FC           v TSV 1860 München         3-0 (1-0)
+           Karlsruher SC           v SV Meppen                3-1 (1-1)
+           FSV Zwickau             v Würzburger Kickers       2-0 (0-0)
+           Fortuna Köln            v SpVgg Unterhaching       1-1 (1-1)
+           FC Carl Zeiss Jena      v SV Wehen Wiesbaden       3-1 (2-0)
+  Sun Apr/21
+    13.00  1. FC Kaiserslautern    v Hansa Rostock            0-2 (0-0)
+    14.00  Sportfreunde Lotte      v Energie Cottbus          0-3 (0-0)
+  Mon Apr/22
+    19.00  KFC Uerdingen 05        v Eintracht Braunschweig   0-3 (0-1)
+
+
+» Matchday 35
+  Fri Apr/26
+    19.00  SG Sonnenhof Großaspach v Hallescher FC            1-1 (0-1)
+  Sat Apr/27
+    13.15  TSV 1860 München        v Karlsruher SC            0-2 (0-1)
+    14.00  VfR Aalen               v KFC Uerdingen 05         2-4 (0-1)
+           Energie Cottbus         v VfL Osnabrück            1-2 (0-0)
+           Hansa Rostock           v Sportfreunde Lotte       0-0
+           Würzburger Kickers      v Fortuna Köln             2-0 (0-0)
+           SV Meppen               v FSV Zwickau              2-0 (1-0)
+  Sun Apr/28
+    13.00  SpVgg Unterhaching      v FC Carl Zeiss Jena       0-1 (0-0)
+    14.00  Eintracht Braunschweig  v Preußen Münster          3-3 (1-2)
+  Mon Apr/29
+    19.00  SV Wehen Wiesbaden      v 1. FC Kaiserslautern     2-0 (2-0)
+
+
+» Matchday 36
+  Fri May/3
+    19.00  VfL Osnabrück           v Hansa Rostock            1-2 (1-2)
+  Sat May/4
+    14.00  Hallescher FC           v Preußen Münster          1-2 (0-2)
+           Karlsruher SC           v SG Sonnenhof Großaspach  2-1 (2-0)
+           FSV Zwickau             v TSV 1860 München         5-2 (2-1)
+           FC Carl Zeiss Jena      v Würzburger Kickers       3-4 (1-2)
+           1. FC Kaiserslautern    v SpVgg Unterhaching       4-0 (0-0)
+           Sportfreunde Lotte      v SV Wehen Wiesbaden       0-1 (0-0)
+  Sun May/5
+    13.00  KFC Uerdingen 05        v Energie Cottbus          1-2 (1-1)
+    14.00  VfR Aalen               v Eintracht Braunschweig   1-3 (0-2)
+  Mon May/6
+    19.00  Fortuna Köln            v SV Meppen                1-1 (1-0)
+
+
+» Matchday 37
+  Sat May/11
+    13.30  Hallescher FC           v Eintracht Braunschweig   1-0 (1-0)
+           Energie Cottbus         v VfR Aalen                2-1 (1-1)
+           Hansa Rostock           v KFC Uerdingen 05         1-1 (1-1)
+           SV Wehen Wiesbaden      v VfL Osnabrück            1-0 (1-0)
+           SpVgg Unterhaching      v Sportfreunde Lotte       3-0 (1-0)
+           Würzburger Kickers      v 1. FC Kaiserslautern     2-0 (1-0)
+           SV Meppen               v FC Carl Zeiss Jena       0-1 (0-1)
+           TSV 1860 München        v Fortuna Köln             3-2 (2-2)
+           SG Sonnenhof Großaspach v FSV Zwickau              5-2 (3-1)
+           Preußen Münster         v Karlsruher SC            1-4 (0-2)
+
+
+» Matchday 38
+  Sat May/18
+    13.30  Karlsruher SC           v Hallescher FC            2-3 (1-1)
+           FSV Zwickau             v Preußen Münster          2-0 (0-0)
+           Fortuna Köln            v SG Sonnenhof Großaspach  0-2 (0-1)
+           FC Carl Zeiss Jena      v TSV 1860 München         4-0 (2-0)
+           1. FC Kaiserslautern    v SV Meppen                4-2 (4-2)
+           Sportfreunde Lotte      v Würzburger Kickers       1-2 (1-0)
+           VfL Osnabrück           v SpVgg Unterhaching       1-4 (0-3)
+           KFC Uerdingen 05        v SV Wehen Wiesbaden       2-3 (1-2)
+           VfR Aalen               v Hansa Rostock            1-1 (0-0)
+           Eintracht Braunschweig  v Energie Cottbus          1-1 (1-0)

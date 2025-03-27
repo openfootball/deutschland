@@ -1,0 +1,535 @@
+= Deutsche 2. Bundesliga 2019/20
+
+# Date       Fri Jul/26 2019 - Sun Jun/28 2020 (338d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Jul/26 2019
+    20.30  VfB Stuttgart           v Hannover 96              2-1 (2-1)
+  Sat Jul/27
+    13.00  Dynamo Dresden          v 1. FC Nürnberg           0-1 (0-0)
+    15.30  Holstein Kiel           v SV Sandhausen            1-1 (0-1)
+           VfL Osnabrück           v 1. FC Heidenheim 1846    1-3 (0-0)
+  Sun Jul/28
+    13.30  Hamburger SV            v SV Darmstadt 98          1-1 (0-0)
+    15.30  Jahn Regensburg         v VfL Bochum               3-1 (1-0)
+           SpVgg Greuther Fürth    v Erzgebirge Aue           0-2 (0-1)
+           SV Wehen Wiesbaden      v Karlsruher SC            1-2 (0-1)
+  Mon Jul/29
+    20.30  Arminia Bielefeld       v FC St. Pauli             1-1 (0-1)
+
+
+» Matchday 2
+  Fri Aug/2
+    18.30  VfL Bochum              v Arminia Bielefeld        3-3 (0-0)
+           SV Sandhausen           v VfL Osnabrück            0-1 (0-0)
+    20.30  FC St. Pauli            v SpVgg Greuther Fürth     1-3 (1-2)
+  Sat Aug/3
+    13.00  Karlsruher SC           v Dynamo Dresden           4-2 (1-1)
+    15.30  Hannover 96             v Jahn Regensburg          1-1 (0-0)
+  Sun Aug/4
+    13.30  1. FC Heidenheim 1846   v VfB Stuttgart            2-2 (0-0)
+    15.30  SV Darmstadt 98         v Holstein Kiel            2-0 (1-0)
+           Erzgebirge Aue          v SV Wehen Wiesbaden       3-2 (2-1)
+  Mon Aug/5
+    20.30  1. FC Nürnberg          v Hamburger SV             0-4 (0-2)
+
+
+» Matchday 3
+  Fri Aug/16
+    18.30  Hamburger SV            v VfL Bochum               1-0 (0-0)
+           SV Sandhausen           v 1. FC Nürnberg           3-2 (2-1)
+  Sat Aug/17
+    13.00  VfB Stuttgart           v FC St. Pauli             2-1 (0-1)
+           Arminia Bielefeld       v Erzgebirge Aue           3-1 (1-0)
+           SV Wehen Wiesbaden      v Hannover 96              0-3 (0-1)
+  Sun Aug/18
+    13.30  Holstein Kiel           v Karlsruher SC            2-1 (1-1)
+           Dynamo Dresden          v 1. FC Heidenheim 1846    2-1 (0-0)
+           SpVgg Greuther Fürth    v Jahn Regensburg          1-0 (0-0)
+  Mon Aug/19
+    20.30  VfL Osnabrück           v SV Darmstadt 98          4-0 (1-0)
+
+
+» Matchday 4
+  Fri Aug/23
+    18.30  SV Darmstadt 98         v Dynamo Dresden           0-0
+           Erzgebirge Aue          v VfB Stuttgart            0-0
+  Sat Aug/24
+    13.00  Hannover 96             v SpVgg Greuther Fürth     1-1 (0-1)
+           Jahn Regensburg         v Arminia Bielefeld        1-3 (0-1)
+           VfL Bochum              v SV Wehen Wiesbaden       3-3 (0-3)
+  Sun Aug/25
+    13.30  1. FC Nürnberg          v VfL Osnabrück            1-0 (0-0)
+           1. FC Heidenheim 1846   v SV Sandhausen            0-2 (0-0)
+           Karlsruher SC           v Hamburger SV             2-4 (0-2)
+  Mon Aug/26
+    20.30  FC St. Pauli            v Holstein Kiel            2-1 (0-0)
+
+
+» Matchday 5
+  Fri Aug/30
+    18.30  1. FC Nürnberg          v 1. FC Heidenheim 1846    2-2 (1-0)
+           SV Sandhausen           v SV Darmstadt 98          1-0 (0-0)
+  Sat Aug/31
+    13.00  Arminia Bielefeld       v SpVgg Greuther Fürth     2-2 (1-2)
+           Dynamo Dresden          v FC St. Pauli             3-3 (1-3)
+           SV Wehen Wiesbaden      v Jahn Regensburg          0-5 (0-2)
+  Sun Sep/1
+    13.30  Hamburger SV            v Hannover 96              3-0 (1-0)
+           Holstein Kiel           v Erzgebirge Aue           1-1 (0-0)
+           VfL Osnabrück           v Karlsruher SC            3-0 (1-0)
+  Mon Sep/2
+    20.30  VfB Stuttgart           v VfL Bochum               2-1 (1-1)
+
+
+» Matchday 6
+  Fri Sep/13
+    18.30  SpVgg Greuther Fürth    v SV Wehen Wiesbaden       2-1 (0-0)
+           Karlsruher SC           v SV Sandhausen            1-0 (0-0)
+  Sat Sep/14
+    13.00  Hannover 96             v Arminia Bielefeld        0-2 (0-1)
+           1. FC Heidenheim 1846   v Holstein Kiel            3-0 (2-0)
+           Jahn Regensburg         v VfB Stuttgart            2-3 (0-1)
+  Sun Sep/15
+    13.30  SV Darmstadt 98         v 1. FC Nürnberg           3-3 (1-2)
+           VfL Bochum              v Dynamo Dresden           2-2 (0-0)
+           Erzgebirge Aue          v VfL Osnabrück            1-0 (1-0)
+  Mon Sep/16
+    20.30  FC St. Pauli            v Hamburger SV             2-0 (1-0)
+
+
+» Matchday 7
+  Fri Sep/20
+    18.30  1. FC Heidenheim 1846   v SV Darmstadt 98          1-0 (0-0)
+           Holstein Kiel           v Hannover 96              1-2 (0-1)
+  Sat Sep/21
+    13.00  VfB Stuttgart           v SpVgg Greuther Fürth     2-0 (1-0)
+           1. FC Nürnberg          v Karlsruher SC            1-1 (1-1)
+           SV Sandhausen           v VfL Bochum               1-1 (0-0)
+           SV Wehen Wiesbaden      v Arminia Bielefeld        2-5 (1-3)
+  Sun Sep/22
+    13.30  Hamburger SV            v Erzgebirge Aue           4-0 (2-0)
+           Dynamo Dresden          v Jahn Regensburg          2-1 (0-1)
+           VfL Osnabrück           v FC St. Pauli             1-1 (1-1)
+
+
+» Matchday 8
+  Fri Sep/27
+    18.30  Arminia Bielefeld       v VfB Stuttgart            0-1 (0-0)
+           SV Wehen Wiesbaden      v VfL Osnabrück            2-0 (1-0)
+  Sat Sep/28
+    13.00  Jahn Regensburg         v Hamburger SV             2-2 (1-0)
+           VfL Bochum              v SV Darmstadt 98          2-2 (2-1)
+           Karlsruher SC           v 1. FC Heidenheim 1846    1-1 (1-0)
+  Sun Sep/29
+    13.30  FC St. Pauli            v SV Sandhausen            2-0 (2-0)
+           SpVgg Greuther Fürth    v Holstein Kiel            0-3 (0-1)
+           Erzgebirge Aue          v Dynamo Dresden           4-1 (3-1)
+  Mon Sep/30
+    20.30  Hannover 96             v 1. FC Nürnberg           0-4 (0-3)
+
+
+» Matchday 9
+  Fri Oct/4
+    18.30  VfB Stuttgart           v SV Wehen Wiesbaden       1-2 (1-2)
+           SV Darmstadt 98         v Karlsruher SC            1-1 (1-1)
+  Sat Oct/5
+    13.00  Hamburger SV            v SpVgg Greuther Fürth     2-0 (0-0)
+           Dynamo Dresden          v Hannover 96              0-2 (0-0)
+           SV Sandhausen           v Erzgebirge Aue           2-2 (2-1)
+  Sun Oct/6
+    13.30  1. FC Nürnberg          v FC St. Pauli             1-1 (0-1)
+           1. FC Heidenheim 1846   v VfL Bochum               2-3 (1-2)
+           Holstein Kiel           v Jahn Regensburg          1-2 (1-1)
+  Mon Oct/7
+    20.30  VfL Osnabrück           v Arminia Bielefeld        0-1 (0-0)
+
+
+» Matchday 10
+  Fri Oct/18
+    18.30  SpVgg Greuther Fürth    v Dynamo Dresden           2-0 (2-0)
+           Erzgebirge Aue          v 1. FC Nürnberg           4-3 (0-0)
+  Sat Oct/19
+    13.00  Jahn Regensburg         v SV Sandhausen            1-0 (0-0)
+           FC St. Pauli            v SV Darmstadt 98          0-1 (0-0)
+           SV Wehen Wiesbaden      v 1. FC Heidenheim 1846    0-0
+  Sun Oct/20
+    13.30  VfB Stuttgart           v Holstein Kiel            0-1 (0-0)
+           Hannover 96             v VfL Osnabrück            0-0
+           VfL Bochum              v Karlsruher SC            3-3 (3-2)
+  Mon Oct/21
+    20.30  Arminia Bielefeld       v Hamburger SV             1-1 (0-1)
+
+
+» Matchday 11
+  Fri Oct/25
+    18.30  Holstein Kiel           v VfL Bochum               2-1 (1-1)
+           SV Darmstadt 98         v Erzgebirge Aue           1-0 (0-0)
+  Sat Oct/26
+    13.00  Hamburger SV            v VfB Stuttgart            6-2 (3-1)
+           Dynamo Dresden          v Arminia Bielefeld        0-1 (0-0)
+           Karlsruher SC           v Hannover 96              3-3 (1-2)
+  Sun Oct/27
+    13.30  1. FC Nürnberg          v Jahn Regensburg          1-1 (1-0)
+           1. FC Heidenheim 1846   v FC St. Pauli             1-0 (0-0)
+           VfL Osnabrück           v SpVgg Greuther Fürth     0-0
+  Mon Oct/28
+    20.30  SV Sandhausen           v SV Wehen Wiesbaden       0-0
+
+
+» Matchday 12
+  Fri Nov/1
+    18.30  Hannover 96             v SV Sandhausen            1-1 (1-0)
+           Jahn Regensburg         v VfL Osnabrück            3-3 (2-0)
+  Sat Nov/2
+    13.00  FC St. Pauli            v Karlsruher SC            2-2 (0-0)
+           SpVgg Greuther Fürth    v SV Darmstadt 98          3-1 (2-0)
+           Erzgebirge Aue          v 1. FC Heidenheim 1846    1-1 (0-0)
+  Sun Nov/3
+    13.30  VfB Stuttgart           v Dynamo Dresden           3-1 (2-0)
+           Arminia Bielefeld       v Holstein Kiel            2-1 (1-0)
+           SV Wehen Wiesbaden      v Hamburger SV             1-1 (0-0)
+  Mon Nov/4
+    20.30  VfL Bochum              v 1. FC Nürnberg           3-1 (3-0)
+
+
+» Matchday 13
+  Fri Nov/8
+    18.30  FC St. Pauli            v VfL Bochum               1-1 (1-1)
+           Dynamo Dresden          v SV Wehen Wiesbaden       1-0 (1-0)
+  Sat Nov/9
+    13.00  Holstein Kiel           v Hamburger SV             1-1 (1-0)
+           SV Sandhausen           v SpVgg Greuther Fürth     3-2 (1-1)
+           VfL Osnabrück           v VfB Stuttgart            1-0 (1-0)
+  Sun Nov/10
+    13.30  1. FC Nürnberg          v Arminia Bielefeld        1-5 (0-3)
+           1. FC Heidenheim 1846   v Hannover 96              4-0 (1-0)
+           SV Darmstadt 98         v Jahn Regensburg          2-2 (0-1)
+  Mon Nov/11
+    20.30  Karlsruher SC           v Erzgebirge Aue           1-1 (0-1)
+
+
+» Matchday 14
+  Fri Nov/22
+    18.30  VfL Bochum              v VfL Osnabrück            1-1 (1-1)
+           Erzgebirge Aue          v FC St. Pauli             3-1 (2-0)
+  Sat Nov/23
+    13.00  Hamburger SV            v Dynamo Dresden           2-1 (0-0)
+           Arminia Bielefeld       v SV Sandhausen            1-1 (1-1)
+           SV Wehen Wiesbaden      v Holstein Kiel            3-6 (2-4)
+  Sun Nov/24
+    13.30  VfB Stuttgart           v Karlsruher SC            3-0 (0-0)
+           Jahn Regensburg         v 1. FC Heidenheim 1846    3-1 (1-0)
+           SpVgg Greuther Fürth    v 1. FC Nürnberg           0-0
+  Mon Nov/25
+    20.30  Hannover 96             v SV Darmstadt 98          1-2 (1-2)
+
+
+» Matchday 15
+  Fri Nov/29
+    18.30  VfL Osnabrück           v Hamburger SV             2-1 (2-0)
+           Karlsruher SC           v Jahn Regensburg          4-1 (2-0)
+  Sat Nov/30
+    13.00  1. FC Nürnberg          v SV Wehen Wiesbaden       0-2 (0-1)
+           FC St. Pauli            v Hannover 96              0-1 (0-1)
+           VfL Bochum              v Erzgebirge Aue           2-0 (0-0)
+           Dynamo Dresden          v Holstein Kiel            1-2 (0-2)
+  Sun Dec/1
+    13.30  1. FC Heidenheim 1846   v SpVgg Greuther Fürth     1-0 (0-0)
+           SV Darmstadt 98         v Arminia Bielefeld        1-3 (0-0)
+           SV Sandhausen           v VfB Stuttgart            2-1 (2-0)
+
+
+» Matchday 16
+  Fri Dec/6
+    18.30  Hamburger SV            v 1. FC Heidenheim 1846    0-1 (0-0)
+           Arminia Bielefeld       v Karlsruher SC            2-2 (0-1)
+  Sat Dec/7
+    13.00  Hannover 96             v Erzgebirge Aue           3-2 (1-1)
+           Holstein Kiel           v VfL Osnabrück            2-4 (2-1)
+           SpVgg Greuther Fürth    v VfL Bochum               3-1 (1-0)
+  Sun Dec/8
+    13.30  Jahn Regensburg         v FC St. Pauli             1-0 (1-0)
+           Dynamo Dresden          v SV Sandhausen            1-1 (1-1)
+           SV Wehen Wiesbaden      v SV Darmstadt 98          0-0
+  Mon Dec/9
+    20.30  VfB Stuttgart           v 1. FC Nürnberg           3-1 (0-1)
+
+
+» Matchday 17
+  Fri Dec/13
+    18.30  VfL Bochum              v Hannover 96              2-1 (2-0)
+           Erzgebirge Aue          v Jahn Regensburg          1-0 (1-0)
+  Sat Dec/14
+    13.00  1. FC Heidenheim 1846   v Arminia Bielefeld        0-0
+           FC St. Pauli            v SV Wehen Wiesbaden       3-1 (1-0)
+           Karlsruher SC           v SpVgg Greuther Fürth     1-5 (1-2)
+  Sun Dec/15
+    13.30  1. FC Nürnberg          v Holstein Kiel            2-2 (1-0)
+           SV Sandhausen           v Hamburger SV             1-1 (1-0)
+           VfL Osnabrück           v Dynamo Dresden           3-0 (1-0)
+  Mon Dec/16
+    20.30  SV Darmstadt 98         v VfB Stuttgart            1-1 (1-1)
+
+
+» Matchday 18
+  Fri Dec/20
+    18.30  1. FC Nürnberg          v Dynamo Dresden           2-0 (1-0)
+           Karlsruher SC           v SV Wehen Wiesbaden       0-1 (0-0)
+  Sat Dec/21
+    13.00  FC St. Pauli            v Arminia Bielefeld        3-0 (2-0)
+           Erzgebirge Aue          v SpVgg Greuther Fürth     3-1 (1-0)
+           Hannover 96             v VfB Stuttgart            2-2 (1-0)
+           SV Darmstadt 98         v Hamburger SV             2-2 (1-2)
+  Sun Dec/22
+    13.30  SV Sandhausen           v Holstein Kiel            2-2 (0-1)
+           VfL Bochum              v Jahn Regensburg          2-3 (1-2)
+           1. FC Heidenheim 1846   v VfL Osnabrück            3-1 (1-0)
+
+
+» Matchday 19
+  Tue Jan/28 2020
+    18.30  Arminia Bielefeld       v VfL Bochum               2-0 (1-0)
+    20.30  Jahn Regensburg         v Hannover 96              1-0 (1-0)
+           SpVgg Greuther Fürth    v FC St. Pauli             3-0 (1-0)
+           SV Wehen Wiesbaden      v Erzgebirge Aue           1-0 (1-0)
+  Wed Jan/29
+    18.30  VfB Stuttgart           v 1. FC Heidenheim 1846    3-0 (1-0)
+    20.30  Holstein Kiel           v SV Darmstadt 98          1-1 (1-1)
+           Dynamo Dresden          v Karlsruher SC            1-0 (1-0)
+           VfL Osnabrück           v SV Sandhausen            1-3 (0-1)
+  Thu Jan/30
+    20.30  Hamburger SV            v 1. FC Nürnberg           4-1 (2-0)
+
+
+» Matchday 20
+  Fri Jan/31
+    18.30  Erzgebirge Aue          v Arminia Bielefeld        0-0
+           Jahn Regensburg         v SpVgg Greuther Fürth     0-2 (0-2)
+  Sat Feb/1
+    13.00  FC St. Pauli            v VfB Stuttgart            1-1 (0-0)
+           Karlsruher SC           v Holstein Kiel            0-2 (0-2)
+           Hannover 96             v SV Wehen Wiesbaden       2-2 (0-1)
+  Sun Feb/2
+    13.30  1. FC Heidenheim 1846   v Dynamo Dresden           0-0
+           1. FC Nürnberg          v SV Sandhausen            2-0 (1-0)
+           SV Darmstadt 98         v VfL Osnabrück            2-2 (1-1)
+  Mon Feb/3
+    20.30  VfL Bochum              v Hamburger SV             1-3 (0-0)
+
+
+» Matchday 21
+  Fri Feb/7
+    18.30  SV Sandhausen           v 1. FC Heidenheim 1846    0-1 (0-1)
+           Dynamo Dresden          v SV Darmstadt 98          2-3 (1-3)
+  Sat Feb/8
+    13.00  VfL Osnabrück           v 1. FC Nürnberg           0-1 (0-0)
+           VfB Stuttgart           v Erzgebirge Aue           3-0 (2-0)
+           Hamburger SV            v Karlsruher SC            2-0 (0-0)
+  Sun Feb/9
+    13.30  SpVgg Greuther Fürth    v Hannover 96              1-3 (0-1)
+           Arminia Bielefeld       v Jahn Regensburg          6-0 (2-0)
+           SV Wehen Wiesbaden      v VfL Bochum               0-1 (0-1)
+  Mon Feb/10
+    20.30  Holstein Kiel           v FC St. Pauli             2-1 (1-0)
+
+
+» Matchday 22
+  Fri Feb/14
+    18.30  1. FC Heidenheim 1846   v 1. FC Nürnberg           2-2 (1-1)
+           FC St. Pauli            v Dynamo Dresden           0-0
+  Sat Feb/15
+    13.00  Hannover 96             v Hamburger SV             1-1 (0-0)
+           SpVgg Greuther Fürth    v Arminia Bielefeld        2-4 (0-2)
+           Jahn Regensburg         v SV Wehen Wiesbaden       1-0 (0-0)
+  Sun Feb/16
+    13.30  Erzgebirge Aue          v Holstein Kiel            1-2 (0-1)
+           SV Darmstadt 98         v SV Sandhausen            1-0 (0-0)
+           Karlsruher SC           v VfL Osnabrück            1-1 (1-0)
+  Mon Feb/17
+    20.30  VfL Bochum              v VfB Stuttgart            0-1 (0-0)
+
+
+» Matchday 23
+  Fri Feb/21
+    18.30  VfL Osnabrück           v Erzgebirge Aue           0-0
+           SV Wehen Wiesbaden      v SpVgg Greuther Fürth     1-1 (1-0)
+  Sat Feb/22
+    13.00  VfB Stuttgart           v Jahn Regensburg          2-0 (0-0)
+           Hamburger SV            v FC St. Pauli             0-2 (0-2)
+           Holstein Kiel           v 1. FC Heidenheim 1846    0-1 (0-0)
+           Dynamo Dresden          v VfL Bochum               1-2 (0-0)
+  Sun Feb/23
+    13.30  1. FC Nürnberg          v SV Darmstadt 98          1-2 (1-0)
+           SV Sandhausen           v Karlsruher SC            0-2 (0-2)
+    14.00  Arminia Bielefeld       v Hannover 96              1-0 (0-0)
+
+
+» Matchday 24
+  Fri Feb/28
+    18.30  Jahn Regensburg         v Dynamo Dresden           1-2 (0-0)
+           Karlsruher SC           v 1. FC Nürnberg           0-1 (0-0)
+  Sat Feb/29
+    13.00  SV Darmstadt 98         v 1. FC Heidenheim 1846    2-0 (2-0)
+           SpVgg Greuther Fürth    v VfB Stuttgart            2-0 (0-0)
+           Erzgebirge Aue          v Hamburger SV             3-0 (1-0)
+  Sun Mar/1
+    13.30  Arminia Bielefeld       v SV Wehen Wiesbaden       1-0 (0-0)
+           FC St. Pauli            v VfL Osnabrück            3-1 (2-0)
+           VfL Bochum              v SV Sandhausen            4-4 (2-2)
+  Mon Mar/2
+    20.30  Hannover 96             v Holstein Kiel            3-1 (1-0)
+
+
+» Matchday 25
+  Fri Mar/6
+    18.30  1. FC Nürnberg          v Hannover 96              0-3 (0-2)
+           VfL Osnabrück           v SV Wehen Wiesbaden       2-6 (2-5)
+  Sat Mar/7
+    13.00  Hamburger SV            v Jahn Regensburg          2-1 (1-1)
+           SV Darmstadt 98         v VfL Bochum               0-0
+           1. FC Heidenheim 1846   v Karlsruher SC            3-1 (3-0)
+  Sun Mar/8
+    13.30  SV Sandhausen           v FC St. Pauli             2-2 (1-1)
+           Holstein Kiel           v SpVgg Greuther Fürth     1-1 (1-1)
+           Dynamo Dresden          v Erzgebirge Aue           2-1 (1-1)
+  Mon Mar/9
+    20.30  VfB Stuttgart           v Arminia Bielefeld        1-1 (0-0)
+
+
+» Matchday 26
+  Sat May/16
+    13.00  VfL Bochum              v 1. FC Heidenheim 1846    3-0 (2-0)
+           Jahn Regensburg         v Holstein Kiel            2-2 (0-1)
+           Karlsruher SC           v SV Darmstadt 98          2-0 (0-0)
+           Erzgebirge Aue          v SV Sandhausen            3-1 (1-0)
+  Sun May/17
+    13.30  SV Wehen Wiesbaden      v VfB Stuttgart            2-1 (0-0)
+           FC St. Pauli            v 1. FC Nürnberg           1-0 (0-0)
+           SpVgg Greuther Fürth    v Hamburger SV             2-2 (1-1)
+           Arminia Bielefeld       v VfL Osnabrück            1-1 (1-0)
+  Wed Jun/3
+    18.30  Hannover 96             v Dynamo Dresden           3-0 (3-0)
+
+
+» Matchday 27
+  Fri May/22
+    18.30  1. FC Nürnberg          v Erzgebirge Aue           1-1 (0-0)
+           1. FC Heidenheim 1846   v SV Wehen Wiesbaden       1-0 (0-0)
+  Sat May/23
+    13.00  VfL Osnabrück           v Hannover 96              2-4 (1-1)
+           SV Sandhausen           v Jahn Regensburg          0-0
+           SV Darmstadt 98         v FC St. Pauli             4-0 (1-0)
+  Sun May/24
+    13.30  Holstein Kiel           v VfB Stuttgart            3-2 (1-0)
+           Hamburger SV            v Arminia Bielefeld        0-0
+           Karlsruher SC           v VfL Bochum               0-0
+  Tue Jun/9
+    18.30  Dynamo Dresden          v SpVgg Greuther Fürth     1-1 (0-1)
+
+
+» Matchday 28
+  Tue May/26
+    18.30  Jahn Regensburg         v 1. FC Nürnberg           2-2 (1-1)
+           Erzgebirge Aue          v SV Darmstadt 98          1-3 (1-1)
+           SV Wehen Wiesbaden      v SV Sandhausen            0-1 (0-1)
+           SpVgg Greuther Fürth    v VfL Osnabrück            0-2 (0-1)
+  Wed May/27
+    18.30  FC St. Pauli            v 1. FC Heidenheim 1846    0-0
+           VfL Bochum              v Holstein Kiel            2-1 (0-0)
+           Hannover 96             v Karlsruher SC            1-1 (0-0)
+  Thu May/28
+    20.30  VfB Stuttgart           v Hamburger SV             3-2 (0-2)
+  Mon Jun/15
+    20.30  Arminia Bielefeld       v Dynamo Dresden           4-0 (1-0)
+
+
+» Matchday 29
+  Fri May/29
+    18.30  VfL Osnabrück           v Jahn Regensburg          2-2 (0-2)
+           SV Darmstadt 98         v SpVgg Greuther Fürth     1-1 (0-0)
+  Sat May/30
+    13.00  SV Sandhausen           v Hannover 96              3-1 (0-0)
+           Holstein Kiel           v Arminia Bielefeld        1-2 (0-1)
+           Karlsruher SC           v FC St. Pauli             1-1 (0-0)
+           1. FC Nürnberg          v VfL Bochum               0-0
+  Sun May/31
+    13.30  Dynamo Dresden          v VfB Stuttgart            0-2 (0-1)
+           1. FC Heidenheim 1846   v Erzgebirge Aue           3-0 (0-0)
+           Hamburger SV            v SV Wehen Wiesbaden       3-2 (2-1)
+
+
+» Matchday 30
+  Fri Jun/5
+    18.30  VfL Bochum              v FC St. Pauli             2-0 (1-0)
+           SpVgg Greuther Fürth    v SV Sandhausen            1-2 (0-2)
+  Sat Jun/6
+    13.00  Arminia Bielefeld       v 1. FC Nürnberg           1-1 (1-1)
+           Jahn Regensburg         v SV Darmstadt 98          3-0 (1-0)
+           SV Wehen Wiesbaden      v Dynamo Dresden           2-3 (2-2)
+  Sun Jun/7
+    13.30  Hannover 96             v 1. FC Heidenheim 1846    2-1 (2-0)
+           VfB Stuttgart           v VfL Osnabrück            0-0
+           Erzgebirge Aue          v Karlsruher SC            1-0 (1-0)
+  Mon Jun/8
+    20.30  Hamburger SV            v Holstein Kiel            3-3 (2-1)
+
+
+» Matchday 31
+  Fri Jun/12
+    18.30  Dynamo Dresden          v Hamburger SV             0-1 (0-0)
+           SV Sandhausen           v Arminia Bielefeld        0-0
+  Sat Jun/13
+    13.00  1. FC Heidenheim 1846   v Jahn Regensburg          4-1 (1-0)
+           VfL Osnabrück           v VfL Bochum               0-2 (0-1)
+           1. FC Nürnberg          v SpVgg Greuther Fürth     0-1 (0-0)
+           Holstein Kiel           v SV Wehen Wiesbaden       1-2 (1-1)
+  Sun Jun/14
+    13.30  Karlsruher SC           v VfB Stuttgart            2-1 (1-1)
+           SV Darmstadt 98         v Hannover 96              3-2 (1-0)
+           FC St. Pauli            v Erzgebirge Aue           2-1 (2-0)
+
+
+» Matchday 32
+  Tue Jun/16
+    18.30  SV Wehen Wiesbaden      v 1. FC Nürnberg           0-6 (0-3)
+           SpVgg Greuther Fürth    v 1. FC Heidenheim 1846    0-0
+           Hamburger SV            v VfL Osnabrück            1-1 (1-0)
+  Wed Jun/17
+    18.30  Hannover 96             v FC St. Pauli             4-0 (2-0)
+           Erzgebirge Aue          v VfL Bochum               1-2 (0-2)
+           Jahn Regensburg         v Karlsruher SC            2-1 (1-0)
+    18.45  VfB Stuttgart           v SV Sandhausen            5-1 (4-0)
+  Thu Jun/18
+    18.30  Holstein Kiel           v Dynamo Dresden           2-0 (1-0)
+    20.30  Arminia Bielefeld       v SV Darmstadt 98          1-0 (0-0)
+
+
+» Matchday 33
+  Sun Jun/21
+    15.30  1. FC Nürnberg          v VfB Stuttgart            0-6 (0-3)
+           Erzgebirge Aue          v Hannover 96              2-1 (1-0)
+           1. FC Heidenheim 1846   v Hamburger SV             2-1 (0-0)
+           VfL Osnabrück           v Holstein Kiel            4-1 (2-0)
+           Karlsruher SC           v Arminia Bielefeld        3-3 (1-3)
+           FC St. Pauli            v Jahn Regensburg          1-1 (1-1)
+           SV Sandhausen           v Dynamo Dresden           0-1 (0-0)
+           VfL Bochum              v SpVgg Greuther Fürth     2-2 (1-1)
+           SV Darmstadt 98         v SV Wehen Wiesbaden       3-1 (0-1)
+
+
+» Matchday 34
+  Sun Jun/28
+    15.30  Holstein Kiel           v 1. FC Nürnberg           1-1 (0-1)
+           Arminia Bielefeld       v 1. FC Heidenheim 1846    3-0 (2-0)
+           SV Wehen Wiesbaden      v FC St. Pauli             5-3 (3-2)
+           VfB Stuttgart           v SV Darmstadt 98          1-3 (1-1)
+           Hannover 96             v VfL Bochum               2-0 (1-0)
+           Jahn Regensburg         v Erzgebirge Aue           1-2 (1-1)
+           Hamburger SV            v SV Sandhausen            1-5 (0-2)
+           Dynamo Dresden          v VfL Osnabrück            2-2 (1-0)
+           SpVgg Greuther Fürth    v Karlsruher SC            1-2 (1-1)

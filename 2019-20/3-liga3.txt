@@ -1,0 +1,629 @@
+= Deutsche 3. Liga 2019/20
+
+# Date       Fri Jul/19 2019 - Sat Jul/4 2020 (351d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Jul/19 2019
+    19.00  TSV 1860 München        v Preußen Münster          1-1 (0-1)
+  Sat Jul/20
+    14.00  Würzburger Kickers      v Bayern München II        3-1 (1-0)
+           1. FC Kaiserslautern    v SpVgg Unterhaching       1-1 (1-0)
+           MSV Duisburg            v SG Sonnenhof Großaspach  4-1 (1-1)
+           SV Meppen               v FSV Zwickau              0-2 (0-0)
+           Hansa Rostock           v Viktoria Köln            3-3 (3-1)
+    17.45  1. FC Magdeburg         v Eintracht Braunschweig   2-4 (1-3)
+  Sun Jul/21
+    13.00  Chemnitzer FC           v Waldhof Mannheim         1-1 (0-1)
+    14.00  KFC Uerdingen 05        v Hallescher FC            1-0 (0-0)
+  Mon Jul/22
+    19.00  FC Carl Zeiss Jena      v FC Ingolstadt 04         1-2 (0-0)
+
+
+» Matchday 2
+  Fri Jul/26
+    19.00  Bayern München II       v KFC Uerdingen 05         2-1 (1-1)
+  Sat Jul/27
+    14.00  Eintracht Braunschweig  v TSV 1860 München         2-1 (1-1)
+           Preußen Münster         v FC Carl Zeiss Jena       2-0 (0-0)
+           FC Ingolstadt 04        v MSV Duisburg             3-2 (1-0)
+           SG Sonnenhof Großaspach v 1. FC Kaiserslautern     1-3 (0-2)
+           SpVgg Unterhaching      v Würzburger Kickers       5-4 (2-3)
+           Hallescher FC           v Hansa Rostock            1-0 (0-0)
+           Waldhof Mannheim        v SV Meppen                0-0
+  Sun Jul/28
+    13.00  Viktoria Köln           v Chemnitzer FC            3-2 (2-0)
+    14.00  FSV Zwickau             v 1. FC Magdeburg          0-0
+
+
+» Matchday 3
+  Tue Jul/30
+    19.00  KFC Uerdingen 05        v SpVgg Unterhaching       2-2 (2-2)
+           Würzburger Kickers      v SG Sonnenhof Großaspach  0-3 (0-1)
+           1. FC Kaiserslautern    v FC Ingolstadt 04         0-0
+           FC Carl Zeiss Jena      v Eintracht Braunschweig   0-2 (0-1)
+           Hansa Rostock           v Bayern München II        2-1 (1-0)
+  Wed Jul/31
+    19.00  Chemnitzer FC           v SV Meppen                2-4 (1-0)
+           MSV Duisburg            v Preußen Münster          2-0 (0-0)
+           TSV 1860 München        v FSV Zwickau              3-0 (1-0)
+           1. FC Magdeburg         v Waldhof Mannheim         1-1 (1-1)
+           Viktoria Köln           v Hallescher FC            0-2 (0-0)
+
+
+» Matchday 4
+  Fri Aug/2
+    19.00  FC Ingolstadt 04        v Würzburger Kickers       3-0 (0-0)
+  Sat Aug/3
+    14.00  Preußen Münster         v 1. FC Kaiserslautern     3-2 (0-1)
+           SG Sonnenhof Großaspach v KFC Uerdingen 05         2-2 (1-1)
+           SpVgg Unterhaching      v Hansa Rostock            1-0 (1-0)
+           Bayern München II       v Viktoria Köln            2-5 (0-3)
+           Hallescher FC           v Chemnitzer FC            3-1 (1-0)
+           SV Meppen               v 1. FC Magdeburg          1-3 (1-0)
+  Sun Aug/4
+    13.00  Eintracht Braunschweig  v MSV Duisburg             0-3 (0-1)
+    14.00  FSV Zwickau             v FC Carl Zeiss Jena       2-0 (1-0)
+  Mon Aug/5
+    19.00  Waldhof Mannheim        v TSV 1860 München         4-0 (1-0)
+
+
+» Matchday 5
+  Fri Aug/16
+    19.00  Chemnitzer FC           v 1. FC Magdeburg          0-0
+  Sat Aug/17
+    14.00  KFC Uerdingen 05        v FC Ingolstadt 04         0-3 (0-1)
+           Würzburger Kickers      v Preußen Münster          3-2 (2-1)
+           MSV Duisburg            v FSV Zwickau              3-1 (0-0)
+           TSV 1860 München        v SV Meppen                0-0
+           Viktoria Köln           v SpVgg Unterhaching       0-2 (0-0)
+           Hansa Rostock           v SG Sonnenhof Großaspach  0-1 (0-0)
+  Sun Aug/18
+    13.00  1. FC Kaiserslautern    v Eintracht Braunschweig   0-3 (0-0)
+    14.00  FC Carl Zeiss Jena      v Waldhof Mannheim         1-2 (1-1)
+  Mon Aug/19
+    19.00  Hallescher FC           v Bayern München II        1-2 (1-1)
+
+
+» Matchday 6
+  Fri Aug/23
+    19.00  FC Ingolstadt 04        v Hansa Rostock            2-2 (1-0)
+  Sat Aug/24
+    14.00  Eintracht Braunschweig  v Würzburger Kickers       5-2 (2-2)
+           Preußen Münster         v KFC Uerdingen 05         1-1 (0-0)
+           SG Sonnenhof Großaspach v Viktoria Köln            0-3 (0-2)
+           Bayern München II       v Chemnitzer FC            2-2 (0-0)
+           1. FC Magdeburg         v TSV 1860 München         5-1 (4-0)
+           SV Meppen               v FC Carl Zeiss Jena       3-0 (0-0)
+  Sun Aug/25
+    13.00  Waldhof Mannheim        v MSV Duisburg             4-3 (2-2)
+    14.00  SpVgg Unterhaching      v Hallescher FC            0-3 (0-1)
+  Mon Aug/26
+    19.00  FSV Zwickau             v 1. FC Kaiserslautern     3-5 (0-2)
+
+
+» Matchday 7
+  Fri Aug/30
+    18.00  Chemnitzer FC           v TSV 1860 München         0-1 (0-0)
+  Sat Aug/31
+    14.00  Würzburger Kickers      v FSV Zwickau              0-2 (0-2)
+           Bayern München II       v SpVgg Unterhaching       1-2 (1-1)
+           Hallescher FC           v SG Sonnenhof Großaspach  4-0 (2-0)
+           Viktoria Köln           v FC Ingolstadt 04         3-0 (2-0)
+           Hansa Rostock           v Preußen Münster          1-0 (0-0)
+  Sun Sep/1
+    13.00  1. FC Kaiserslautern    v Waldhof Mannheim         1-1 (1-1)
+    14.00  KFC Uerdingen 05        v Eintracht Braunschweig   1-2 (0-0)
+  Mon Sep/2
+    19.00  FC Carl Zeiss Jena      v 1. FC Magdeburg          1-1 (1-0)
+  Wed Oct/2
+    19.00  MSV Duisburg            v SV Meppen                1-3 (1-3)
+
+
+» Matchday 8
+  Fri Sep/13
+    19.00  1. FC Magdeburg         v MSV Duisburg             1-1 (0-1)
+  Sat Sep/14
+    14.00  FSV Zwickau             v KFC Uerdingen 05         1-2 (0-1)
+           Preußen Münster         v Viktoria Köln            2-3 (0-2)
+           SG Sonnenhof Großaspach v Bayern München II        2-2 (0-2)
+           SV Meppen               v 1. FC Kaiserslautern     6-1 (3-1)
+           Waldhof Mannheim        v Würzburger Kickers       1-2 (1-1)
+    14.15  TSV 1860 München        v FC Carl Zeiss Jena       3-1 (2-0)
+  Sun Sep/15
+    13.00  FC Ingolstadt 04        v Hallescher FC            2-3 (0-0)
+    14.00  Eintracht Braunschweig  v Hansa Rostock            1-2 (1-2)
+  Mon Sep/16
+    19.00  SpVgg Unterhaching      v Chemnitzer FC            2-1 (1-0)
+
+
+» Matchday 9
+  Fri Sep/20
+    19.00  Würzburger Kickers      v SV Meppen                3-2 (3-1)
+  Sat Sep/21
+    14.00  Chemnitzer FC           v FC Carl Zeiss Jena       3-2 (1-1)
+           1. FC Kaiserslautern    v 1. FC Magdeburg          1-1 (0-0)
+           MSV Duisburg            v TSV 1860 München         2-1 (1-1)
+           SpVgg Unterhaching      v SG Sonnenhof Großaspach  2-0 (2-0)
+           Hallescher FC           v Preußen Münster          2-2 (0-0)
+           Viktoria Köln           v Eintracht Braunschweig   0-0
+  Sun Sep/22
+    13.00  Hansa Rostock           v FSV Zwickau              1-1 (1-0)
+    14.00  Bayern München II       v FC Ingolstadt 04         2-1 (1-1)
+  Mon Sep/23
+    19.00  KFC Uerdingen 05        v Waldhof Mannheim         0-3 (0-0)
+
+
+» Matchday 10
+  Fri Sep/27
+    19.00  1. FC Magdeburg         v Würzburger Kickers       3-0 (1-0)
+  Sat Sep/28
+    14.00  FSV Zwickau             v Viktoria Köln            4-0 (3-0)
+           Eintracht Braunschweig  v Hallescher FC            1-1 (1-0)
+           Preußen Münster         v Bayern München II        1-4 (0-4)
+           SG Sonnenhof Großaspach v Chemnitzer FC            2-0 (1-0)
+           FC Carl Zeiss Jena      v MSV Duisburg             1-2 (0-0)
+           TSV 1860 München        v 1. FC Kaiserslautern     3-1 (1-0)
+  Sun Sep/29
+    13.00  Waldhof Mannheim        v Hansa Rostock            1-1 (0-0)
+    14.00  SV Meppen               v KFC Uerdingen 05         1-2 (0-1)
+  Mon Sep/30
+    19.00  FC Ingolstadt 04        v SpVgg Unterhaching       0-0
+
+
+» Matchday 11
+  Fri Oct/4
+    19.00  KFC Uerdingen 05        v 1. FC Magdeburg          0-0
+  Sat Oct/5
+    14.00  1. FC Kaiserslautern    v FC Carl Zeiss Jena       3-1 (1-1)
+           SG Sonnenhof Großaspach v FC Ingolstadt 04         1-5 (1-3)
+           SpVgg Unterhaching      v Preußen Münster          2-2 (2-0)
+           Hallescher FC           v FSV Zwickau              1-1 (0-1)
+           Viktoria Köln           v Waldhof Mannheim         2-2 (2-2)
+           Hansa Rostock           v SV Meppen                2-1 (2-0)
+  Sun Oct/6
+    13.00  Bayern München II       v Eintracht Braunschweig   2-0 (1-0)
+    14.00  Chemnitzer FC           v MSV Duisburg             3-1 (0-0)
+  Mon Oct/7
+    19.00  Würzburger Kickers      v TSV 1860 München         2-1 (1-0)
+
+
+» Matchday 12
+  Fri Oct/18
+    19.00  MSV Duisburg            v 1. FC Kaiserslautern     3-1 (2-0)
+  Sat Oct/19
+    14.00  Eintracht Braunschweig  v SpVgg Unterhaching       0-0
+           Preußen Münster         v SG Sonnenhof Großaspach  1-1 (1-0)
+           FC Ingolstadt 04        v Chemnitzer FC            1-1 (1-0)
+           TSV 1860 München        v KFC Uerdingen 05         0-1 (0-0)
+           1. FC Magdeburg         v Hansa Rostock            0-1 (0-1)
+           Waldhof Mannheim        v Hallescher FC            0-4 (0-2)
+  Sun Oct/20
+    13.00  FSV Zwickau             v Bayern München II        3-0 (1-0)
+    14.00  FC Carl Zeiss Jena      v Würzburger Kickers       1-1 (0-0)
+  Mon Oct/21
+    19.00  SV Meppen               v Viktoria Köln            1-1 (1-0)
+
+
+» Matchday 13
+  Fri Oct/25
+    19.00  Viktoria Köln           v 1. FC Magdeburg          1-1 (1-1)
+  Sat Oct/26
+    14.00  KFC Uerdingen 05        v FC Carl Zeiss Jena       2-0 (1-0)
+           Würzburger Kickers      v MSV Duisburg             0-2 (0-2)
+           FC Ingolstadt 04        v Preußen Münster          3-2 (1-2)
+           SpVgg Unterhaching      v FSV Zwickau              0-0
+           Hallescher FC           v SV Meppen                3-3 (2-2)
+           Hansa Rostock           v TSV 1860 München         2-1 (1-0)
+  Sun Oct/27
+    13.00  Chemnitzer FC           v 1. FC Kaiserslautern     3-1 (3-1)
+    14.00  SG Sonnenhof Großaspach v Eintracht Braunschweig   1-3 (1-2)
+  Mon Oct/28
+    19.00  Bayern München II       v Waldhof Mannheim         2-2 (1-0)
+
+
+» Matchday 14
+  Fri Nov/1
+    19.00  FSV Zwickau             v SG Sonnenhof Großaspach  0-1 (0-0)
+  Sat Nov/2
+    14.00  Eintracht Braunschweig  v FC Ingolstadt 04         0-3 (0-3)
+           Preußen Münster         v Chemnitzer FC            3-3 (2-2)
+           1. FC Kaiserslautern    v Würzburger Kickers       2-3 (1-1)
+           TSV 1860 München        v Viktoria Köln            4-2 (2-0)
+           1. FC Magdeburg         v Hallescher FC            1-0 (1-0)
+           Waldhof Mannheim        v SpVgg Unterhaching       0-3 (0-1)
+  Sun Nov/3
+    13.00  SV Meppen               v Bayern München II        5-3 (1-1)
+    14.00  FC Carl Zeiss Jena      v Hansa Rostock            3-1 (1-0)
+  Mon Nov/4
+    19.00  MSV Duisburg            v KFC Uerdingen 05         2-0 (2-0)
+
+
+» Matchday 15
+  Fri Nov/8
+    19.00  Viktoria Köln           v FC Carl Zeiss Jena       2-2 (0-1)
+  Sat Nov/9
+    14.00  KFC Uerdingen 05        v 1. FC Kaiserslautern     0-3 (0-1)
+           FC Ingolstadt 04        v FSV Zwickau              4-2 (3-2)
+           SG Sonnenhof Großaspach v Waldhof Mannheim         0-3 (0-1)
+           SpVgg Unterhaching      v SV Meppen                0-0
+           Hallescher FC           v TSV 1860 München         0-1 (0-1)
+           Hansa Rostock           v MSV Duisburg             1-2 (0-0)
+  Sun Nov/10
+    13.00  Bayern München II       v 1. FC Magdeburg          2-1 (2-0)
+    14.00  Chemnitzer FC           v Würzburger Kickers       0-0
+  Mon Nov/11
+    19.00  Preußen Münster         v Eintracht Braunschweig   1-1 (0-0)
+
+
+» Matchday 16
+  Fri Nov/22
+    19.00  FC Carl Zeiss Jena      v Hallescher FC            0-3 (0-1)
+  Sat Nov/23
+    14.00  FSV Zwickau             v Preußen Münster          4-2 (2-1)
+           Eintracht Braunschweig  v Chemnitzer FC            2-1 (0-1)
+           Würzburger Kickers      v KFC Uerdingen 05         1-2 (0-1)
+           1. FC Magdeburg         v SpVgg Unterhaching       3-0 (2-0)
+           SV Meppen               v SG Sonnenhof Großaspach  2-1 (1-0)
+           Waldhof Mannheim        v FC Ingolstadt 04         0-0
+  Sun Nov/24
+    13.00  1. FC Kaiserslautern    v Hansa Rostock            2-0 (2-0)
+    14.00  TSV 1860 München        v Bayern München II        1-1 (0-1)
+  Mon Nov/25
+    19.00  MSV Duisburg            v Viktoria Köln            2-1 (1-1)
+
+
+» Matchday 17
+  Fri Nov/29
+    19.00  Bayern München II       v FC Carl Zeiss Jena       2-3 (1-2)
+  Sat Nov/30
+    14.00  Chemnitzer FC           v KFC Uerdingen 05         1-1 (0-0)
+           Preußen Münster         v Waldhof Mannheim         1-3 (1-0)
+           SG Sonnenhof Großaspach v 1. FC Magdeburg          1-2 (0-1)
+           Hallescher FC           v MSV Duisburg             1-0 (0-0)
+           Viktoria Köln           v 1. FC Kaiserslautern     2-4 (0-2)
+           Hansa Rostock           v Würzburger Kickers       1-0 (1-0)
+  Sun Dec/1
+    13.00  FC Ingolstadt 04        v SV Meppen                1-1 (1-0)
+    14.00  SpVgg Unterhaching      v TSV 1860 München         2-3 (1-1)
+  Mon Dec/2
+    19.00  Eintracht Braunschweig  v FSV Zwickau              3-1 (2-0)
+
+
+» Matchday 18
+  Fri Dec/6
+    19.00  Chemnitzer FC           v FSV Zwickau              2-2 (2-2)
+  Sat Dec/7
+    14.00  KFC Uerdingen 05        v Hansa Rostock            4-1 (2-1)
+           Würzburger Kickers      v Viktoria Köln            3-1 (0-0)
+           1. FC Kaiserslautern    v Hallescher FC            1-0 (0-0)
+           FC Carl Zeiss Jena      v SpVgg Unterhaching       0-3 (0-2)
+           TSV 1860 München        v SG Sonnenhof Großaspach  1-1 (1-0)
+           1. FC Magdeburg         v FC Ingolstadt 04         0-2 (0-1)
+  Sun Dec/8
+    13.00  Waldhof Mannheim        v Eintracht Braunschweig   0-0
+    14.00  MSV Duisburg            v Bayern München II        3-2 (2-0)
+  Mon Dec/9
+    19.00  SV Meppen               v Preußen Münster          3-1 (1-0)
+
+
+» Matchday 19
+  Fri Dec/13
+    19.00  Preußen Münster         v 1. FC Magdeburg          2-0 (1-0)
+  Sat Dec/14
+    14.00  FSV Zwickau             v Waldhof Mannheim         0-1 (0-1)
+           Eintracht Braunschweig  v SV Meppen                1-2 (1-2)
+           Bayern München II       v 1. FC Kaiserslautern     1-3 (1-1)
+           Hallescher FC           v Würzburger Kickers       2-5 (2-2)
+           Viktoria Köln           v KFC Uerdingen 05         0-1 (0-0)
+           Hansa Rostock           v Chemnitzer FC            1-2 (1-1)
+  Sun Dec/15
+    13.00  SG Sonnenhof Großaspach v FC Carl Zeiss Jena       1-2 (0-2)
+    14.00  SpVgg Unterhaching      v MSV Duisburg             2-2 (2-2)
+  Mon Dec/16
+    19.00  FC Ingolstadt 04        v TSV 1860 München         2-2 (1-2)
+
+
+» Matchday 20
+  Fri Dec/20
+    19.00  Viktoria Köln           v Hansa Rostock            1-5 (0-3)
+  Sat Dec/21
+    14.00  Preußen Münster         v TSV 1860 München         0-1 (0-0)
+           SpVgg Unterhaching      v 1. FC Kaiserslautern     1-1 (1-0)
+           SG Sonnenhof Großaspach v MSV Duisburg             1-1 (1-0)
+           FSV Zwickau             v SV Meppen                2-2 (2-0)
+           Eintracht Braunschweig  v 1. FC Magdeburg          2-2 (0-0)
+           Waldhof Mannheim        v Chemnitzer FC            4-3 (2-3)
+  Sun Dec/22
+    13.00  Hallescher FC           v KFC Uerdingen 05         1-1 (0-0)
+    14.00  FC Ingolstadt 04        v FC Carl Zeiss Jena       5-1 (2-0)
+    15.00  Bayern München II       v Würzburger Kickers       1-1 (0-0)
+
+
+» Matchday 21
+  Fri Jan/24 2020
+    19.00  Hansa Rostock           v Hallescher FC            1-0 (0-0)
+  Sat Jan/25
+    14.00  1. FC Magdeburg         v FSV Zwickau              1-2 (1-0)
+           FC Carl Zeiss Jena      v Preußen Münster          1-2 (0-1)
+           MSV Duisburg            v FC Ingolstadt 04         1-1 (0-0)
+           Würzburger Kickers      v SpVgg Unterhaching       1-2 (0-0)
+           Chemnitzer FC           v Viktoria Köln            2-2 (2-2)
+           SV Meppen               v Waldhof Mannheim         0-1 (0-1)
+  Sun Jan/26
+    13.00  TSV 1860 München        v Eintracht Braunschweig   4-1 (2-1)
+    14.00  KFC Uerdingen 05        v Bayern München II        0-3 (0-2)
+  Mon Jan/27
+    19.00  1. FC Kaiserslautern    v SG Sonnenhof Großaspach  0-0
+
+
+» Matchday 22
+  Fri Jan/31
+    19.00  Hallescher FC           v Viktoria Köln            3-4 (0-1)
+  Sat Feb/1
+    14.00  SV Meppen               v Chemnitzer FC            1-2 (1-0)
+           SpVgg Unterhaching      v KFC Uerdingen 05         1-0 (1-0)
+           FC Ingolstadt 04        v 1. FC Kaiserslautern     2-1 (0-0)
+           Preußen Münster         v MSV Duisburg             1-4 (1-2)
+           Eintracht Braunschweig  v FC Carl Zeiss Jena       1-1 (0-1)
+           Bayern München II       v Hansa Rostock            1-0 (1-0)
+  Sun Feb/2
+    13.00  Waldhof Mannheim        v 1. FC Magdeburg          1-1 (0-0)
+    14.00  FSV Zwickau             v TSV 1860 München         2-2 (1-1)
+  Mon Feb/3
+    19.00  SG Sonnenhof Großaspach v Würzburger Kickers       0-6 (0-2)
+
+
+» Matchday 23
+  Fri Feb/7
+    19.00  MSV Duisburg            v Eintracht Braunschweig   1-1 (0-1)
+  Sat Feb/8
+    14.00  1. FC Kaiserslautern    v Preußen Münster          1-1 (1-1)
+           KFC Uerdingen 05        v SG Sonnenhof Großaspach  2-1 (0-0)
+           Hansa Rostock           v SpVgg Unterhaching       1-1 (0-0)
+           Viktoria Köln           v Bayern München II        2-4 (0-1)
+           1. FC Magdeburg         v SV Meppen                0-2 (0-0)
+           TSV 1860 München        v Waldhof Mannheim         1-1 (0-0)
+  Sun Feb/9
+    13.00  Würzburger Kickers      v FC Ingolstadt 04         3-1 (0-1)
+    14.00  Chemnitzer FC           v Hallescher FC            3-0 (0-0)
+  Mon Feb/10
+    19.00  FC Carl Zeiss Jena      v FSV Zwickau              2-1 (0-1)
+
+
+» Matchday 24
+  Fri Feb/14
+    19.00  Preußen Münster         v Würzburger Kickers       0-0
+  Sat Feb/15
+    14.00  1. FC Magdeburg         v Chemnitzer FC            1-1 (0-1)
+           FC Ingolstadt 04        v KFC Uerdingen 05         0-1 (0-0)
+           Eintracht Braunschweig  v 1. FC Kaiserslautern     2-0 (2-0)
+           SV Meppen               v TSV 1860 München         1-1 (1-0)
+           SpVgg Unterhaching      v Viktoria Köln            1-1 (0-1)
+           SG Sonnenhof Großaspach v Hansa Rostock            0-1 (0-1)
+  Sun Feb/16
+    13.00  FSV Zwickau             v MSV Duisburg             1-0 (0-0)
+    14.00  Waldhof Mannheim        v FC Carl Zeiss Jena       1-1 (0-1)
+  Mon Feb/17
+    19.00  Bayern München II       v Hallescher FC            6-1 (2-1)
+
+
+» Matchday 25
+  Fri Feb/21
+    19.00  Viktoria Köln           v SG Sonnenhof Großaspach  1-0 (1-0)
+  Sat Feb/22
+    14.00  1. FC Kaiserslautern    v FSV Zwickau              0-0
+           Würzburger Kickers      v Eintracht Braunschweig   3-1 (2-0)
+           KFC Uerdingen 05        v Preußen Münster          0-2 (0-1)
+           Hansa Rostock           v FC Ingolstadt 04         3-0 (2-0)
+           FC Carl Zeiss Jena      v SV Meppen                0-2 (0-1)
+           MSV Duisburg            v Waldhof Mannheim         2-3 (2-0)
+  Sun Feb/23
+    13.00  TSV 1860 München        v 1. FC Magdeburg          1-1 (1-0)
+    14.00  Hallescher FC           v SpVgg Unterhaching       3-5 (1-2)
+  Mon Feb/24
+    19.00  Chemnitzer FC           v Bayern München II        1-0 (1-0)
+
+
+» Matchday 26
+  Fri Feb/28
+    19.00  SpVgg Unterhaching      v Bayern München II        0-1 (0-1)
+  Sat Feb/29
+    14.00  TSV 1860 München        v Chemnitzer FC            4-3 (1-2)
+           Eintracht Braunschweig  v KFC Uerdingen 05         4-1 (3-0)
+           FSV Zwickau             v Würzburger Kickers       1-2 (1-0)
+           Waldhof Mannheim        v 1. FC Kaiserslautern     1-1 (0-0)
+           1. FC Magdeburg         v FC Carl Zeiss Jena       6-2 (2-1)
+           SG Sonnenhof Großaspach v Hallescher FC            1-0 (0-0)
+  Sun Mar/1
+    13.00  FC Ingolstadt 04        v Viktoria Köln            0-1 (0-0)
+    14.00  SV Meppen               v MSV Duisburg             1-0 (0-0)
+  Mon Mar/2
+    19.00  Preußen Münster         v Hansa Rostock            1-0 (0-0)
+
+
+» Matchday 27
+  Fri Mar/6
+    19.00  MSV Duisburg            v 1. FC Magdeburg          1-0 (1-0)
+  Sat Mar/7
+    14.00  Viktoria Köln           v Preußen Münster          2-1 (0-0)
+           Bayern München II       v SG Sonnenhof Großaspach  2-0 (0-0)
+           Chemnitzer FC           v SpVgg Unterhaching       1-0 (1-0)
+           FC Carl Zeiss Jena      v TSV 1860 München         0-3 (0-2)
+           1. FC Kaiserslautern    v SV Meppen                3-3 (1-1)
+           Würzburger Kickers      v Waldhof Mannheim         0-0
+  Sun Mar/8
+    13.00  KFC Uerdingen 05        v FSV Zwickau              4-2 (2-1)
+    14.00  Hallescher FC           v FC Ingolstadt 04         1-1 (0-0)
+  Mon Mar/9
+    19.00  Hansa Rostock           v Eintracht Braunschweig   3-0 (2-0)
+
+
+» Matchday 28
+  Sat May/30
+    14.00  Waldhof Mannheim        v KFC Uerdingen 05         1-2 (0-1)
+           SV Meppen               v Würzburger Kickers       1-3 (0-0)
+           1. FC Magdeburg         v 1. FC Kaiserslautern     0-1 (0-1)
+           SG Sonnenhof Großaspach v SpVgg Unterhaching       0-2 (0-1)
+           FC Ingolstadt 04        v Bayern München II        1-2 (1-1)
+           Eintracht Braunschweig  v Viktoria Köln            4-2 (2-1)
+           FSV Zwickau             v Hansa Rostock            2-2 (0-2)
+  Sun May/31
+    13.00  TSV 1860 München        v MSV Duisburg             3-2 (0-1)
+    14.00  Preußen Münster         v Hallescher FC            4-2 (3-0)
+    17.00  FC Carl Zeiss Jena      v Chemnitzer FC            0-1 (0-0)
+
+
+» Matchday 29
+  Tue Jun/2
+    19.00  Viktoria Köln           v FSV Zwickau              3-0 (0-0)
+           Würzburger Kickers      v 1. FC Magdeburg          0-1 (0-1)
+           KFC Uerdingen 05        v SV Meppen                0-0
+    20.30  SpVgg Unterhaching      v FC Ingolstadt 04         1-2 (1-1)
+           Hansa Rostock           v Waldhof Mannheim         0-1 (0-0)
+  Wed Jun/3
+    19.00  Hallescher FC           v Eintracht Braunschweig   0-1 (0-1)
+           Bayern München II       v Preußen Münster          3-2 (2-2)
+           MSV Duisburg            v FC Carl Zeiss Jena       1-1 (1-0)
+    20.30  Chemnitzer FC           v SG Sonnenhof Großaspach  0-1 (0-0)
+           1. FC Kaiserslautern    v TSV 1860 München         1-1 (1-1)
+
+
+» Matchday 30
+  Fri Jun/5
+    19.00  1. FC Magdeburg         v KFC Uerdingen 05         1-1 (0-1)
+  Sat Jun/6
+    14.00  MSV Duisburg            v Chemnitzer FC            2-1 (1-0)
+           TSV 1860 München        v Würzburger Kickers       1-2 (0-1)
+           Eintracht Braunschweig  v Bayern München II        1-1 (1-1)
+           FSV Zwickau             v Hallescher FC            5-1 (1-0)
+           Waldhof Mannheim        v Viktoria Köln            2-1 (0-1)
+           SV Meppen               v Hansa Rostock            0-3 (0-2)
+  Sun Jun/7
+    13.00  Preußen Münster         v SpVgg Unterhaching       2-1 (2-0)
+    14.00  FC Carl Zeiss Jena      v 1. FC Kaiserslautern     1-2 (0-2)
+    17.00  FC Ingolstadt 04        v SG Sonnenhof Großaspach  1-1 (1-1)
+
+
+» Matchday 31
+  Tue Jun/9
+    19.00  Bayern München II       v FSV Zwickau              2-0 (0-0)
+           KFC Uerdingen 05        v TSV 1860 München         1-3 (1-0)
+           Viktoria Köln           v SV Meppen                1-3 (1-2)
+    20.30  Hansa Rostock           v 1. FC Magdeburg          3-1 (1-0)
+           Hallescher FC           v Waldhof Mannheim         3-0 (1-0)
+  Wed Jun/10
+    19.00  SG Sonnenhof Großaspach v Preußen Münster          0-0
+           Chemnitzer FC           v FC Ingolstadt 04         0-1 (0-1)
+           Würzburger Kickers      v FC Carl Zeiss Jena       4-2 (0-1)
+    20.30  SpVgg Unterhaching      v Eintracht Braunschweig   1-3 (1-3)
+           1. FC Kaiserslautern    v MSV Duisburg             1-3 (1-2)
+
+
+» Matchday 32
+  Fri Jun/12
+    19.00  SV Meppen               v Hallescher FC            2-3 (0-1)
+  Sat Jun/13
+    14.00  1. FC Kaiserslautern    v Chemnitzer FC            2-0 (0-0)
+           MSV Duisburg            v Würzburger Kickers       1-1 (0-1)
+           Preußen Münster         v FC Ingolstadt 04         0-0
+           Eintracht Braunschweig  v SG Sonnenhof Großaspach  2-1 (1-0)
+           1. FC Magdeburg         v Viktoria Köln            2-0 (1-0)
+           TSV 1860 München        v Hansa Rostock            0-1 (0-0)
+  Sun Jun/14
+    13.00  FC Carl Zeiss Jena      v KFC Uerdingen 05         0-0
+    14.00  FSV Zwickau             v SpVgg Unterhaching       3-3 (2-2)
+    17.00  Waldhof Mannheim        v Bayern München II        2-3 (1-3)
+
+
+» Matchday 33
+  Tue Jun/16
+    19.00  FC Ingolstadt 04        v Eintracht Braunschweig   0-0
+           Chemnitzer FC           v Preußen Münster          1-0 (0-0)
+           Würzburger Kickers      v 1. FC Kaiserslautern     2-0 (0-0)
+    20.30  Viktoria Köln           v TSV 1860 München         2-0 (0-0)
+           Hallescher FC           v 1. FC Magdeburg          1-1 (0-0)
+  Wed Jun/17
+    19.00  SG Sonnenhof Großaspach v FSV Zwickau              1-0 (0-0)
+           Bayern München II       v SV Meppen                5-1 (2-0)
+           SpVgg Unterhaching      v Waldhof Mannheim         0-0
+    20.30  KFC Uerdingen 05        v MSV Duisburg             1-1 (0-0)
+           Hansa Rostock           v FC Carl Zeiss Jena       4-0 (3-0)
+
+
+» Matchday 34
+  Fri Jun/19
+    19.00  Würzburger Kickers      v Chemnitzer FC            3-0 (0-0)
+  Sat Jun/20
+    14.00  1. FC Kaiserslautern    v KFC Uerdingen 05         4-0 (2-0)
+           Eintracht Braunschweig  v Preußen Münster          1-0 (1-0)
+           Waldhof Mannheim        v SG Sonnenhof Großaspach  3-2 (2-0)
+           1. FC Magdeburg         v Bayern München II        2-2 (2-0)
+           FC Carl Zeiss Jena      v Viktoria Köln            2-3 (1-1)
+           MSV Duisburg            v Hansa Rostock            0-0
+  Sun Jun/21
+    13.00  SV Meppen               v SpVgg Unterhaching       3-0 (1-0)
+    14.00  TSV 1860 München        v Hallescher FC            2-1 (1-1)
+    17.00  FSV Zwickau             v FC Ingolstadt 04         0-3 (0-2)
+
+
+» Matchday 35
+  Tue Jun/23
+    19.00  Chemnitzer FC           v Eintracht Braunschweig   1-2 (0-2)
+           KFC Uerdingen 05        v Würzburger Kickers       1-2 (1-1)
+    20.30  Hansa Rostock           v 1. FC Kaiserslautern     1-1 (0-1)
+           Viktoria Köln           v MSV Duisburg             1-0 (0-0)
+  Wed Jun/24
+    19.00  Preußen Münster         v FSV Zwickau              2-1 (0-0)
+           SpVgg Unterhaching      v 1. FC Magdeburg          0-0
+           SG Sonnenhof Großaspach v SV Meppen                1-2 (1-0)
+    20.30  Hallescher FC           v FC Carl Zeiss Jena       5-3 (2-2)
+           Bayern München II       v TSV 1860 München         2-1 (1-1)
+           FC Ingolstadt 04        v Waldhof Mannheim         2-0 (1-0)
+
+
+» Matchday 36
+  Fri Jun/26
+    19.00  KFC Uerdingen 05        v Chemnitzer FC            1-1 (1-0)
+  Sat Jun/27
+    14.00  FSV Zwickau             v Eintracht Braunschweig   3-2 (0-1)
+           Waldhof Mannheim        v Preußen Münster          0-0
+           TSV 1860 München        v SpVgg Unterhaching       3-0 (1-0)
+           FC Carl Zeiss Jena      v Bayern München II        1-2 (1-1)
+           MSV Duisburg            v Hallescher FC            2-2 (1-2)
+           1. FC Kaiserslautern    v Viktoria Köln            3-0 (1-0)
+           Würzburger Kickers      v Hansa Rostock            3-1 (2-0)
+  Sun Jun/28
+    13.00  SV Meppen               v FC Ingolstadt 04         0-2 (0-1)
+    14.00  1. FC Magdeburg         v SG Sonnenhof Großaspach  0-1 (0-0)
+
+
+» Matchday 37
+  Wed Jul/1
+    19.00  FSV Zwickau             v Chemnitzer FC            2-1 (0-0)
+           Hansa Rostock           v KFC Uerdingen 05         1-0 (1-0)
+           Viktoria Köln           v Würzburger Kickers       5-1 (0-0)
+           Hallescher FC           v 1. FC Kaiserslautern     1-1 (1-0)
+           Bayern München II       v MSV Duisburg             2-2 (0-1)
+           SpVgg Unterhaching      v FC Carl Zeiss Jena       2-2 (0-0)
+           SG Sonnenhof Großaspach v TSV 1860 München         2-4 (2-2)
+           FC Ingolstadt 04        v 1. FC Magdeburg          0-2 (0-0)
+           Preußen Münster         v SV Meppen                0-3 (0-1)
+           Eintracht Braunschweig  v Waldhof Mannheim         3-2 (2-1)
+
+
+» Matchday 38
+  Sat Jul/4
+    14.00  Waldhof Mannheim        v FSV Zwickau              0-0
+           SV Meppen               v Eintracht Braunschweig   4-3 (3-1)
+           1. FC Magdeburg         v Preußen Münster          2-2 (0-0)
+           TSV 1860 München        v FC Ingolstadt 04         0-2 (0-0)
+           FC Carl Zeiss Jena      v SG Sonnenhof Großaspach  1-0 (0-0)
+           MSV Duisburg            v SpVgg Unterhaching       4-0 (1-0)
+           1. FC Kaiserslautern    v Bayern München II        1-0 (0-0)
+           Würzburger Kickers      v Hallescher FC            2-2 (1-1)
+           KFC Uerdingen 05        v Viktoria Köln            1-1 (1-0)
+           Chemnitzer FC           v Hansa Rostock            4-2 (0-0)

@@ -1,0 +1,538 @@
+= Deutsche 2. Bundesliga 2018/19
+
+# Date       Fri Aug/3 2018 - Sun May/19 2019 (289d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/3 2018
+    20.30  Hamburger SV            v Holstein Kiel            0-3 (0-0)
+  Sat Aug/4
+    13.00  VfL Bochum              v 1. FC Köln               0-2 (0-1)
+    15.30  Jahn Regensburg         v FC Ingolstadt 04         2-1 (1-1)
+           SpVgg Greuther Fürth    v SV Sandhausen            3-1 (0-0)
+  Sun Aug/5
+    13.30  1. FC Magdeburg         v FC St. Pauli             1-2 (1-1)
+    15.30  1. FC Union Berlin      v Erzgebirge Aue           1-0 (0-0)
+           SV Darmstadt 98         v SC Paderborn 07          1-0 (0-0)
+           1. FC Heidenheim 1846   v Arminia Bielefeld        1-1 (1-1)
+  Mon Aug/6
+    20.30  Dynamo Dresden          v MSV Duisburg             1-0 (1-0)
+
+
+» Matchday 2
+  Fri Aug/10
+    18.30  FC Ingolstadt 04        v SpVgg Greuther Fürth     1-1 (0-0)
+           SC Paderborn 07         v Jahn Regensburg          2-0 (1-0)
+    20.30  FC St. Pauli            v SV Darmstadt 98          2-0 (0-0)
+  Sat Aug/11
+    13.00  MSV Duisburg            v VfL Bochum               0-2 (0-0)
+    15.30  Arminia Bielefeld       v Dynamo Dresden           2-1 (2-0)
+  Sun Aug/12
+    13.30  SV Sandhausen           v Hamburger SV             0-3 (0-2)
+    15.30  Holstein Kiel           v 1. FC Heidenheim 1846    1-1 (1-1)
+           Erzgebirge Aue          v 1. FC Magdeburg          0-0
+  Mon Aug/13
+    20.30  1. FC Köln              v 1. FC Union Berlin       1-1 (1-0)
+
+
+» Matchday 3
+  Fri Aug/24
+    18.30  VfL Bochum              v SV Sandhausen            1-0 (0-0)
+           SV Darmstadt 98         v MSV Duisburg             3-0 (0-0)
+  Sat Aug/25
+    13.00  1. FC Köln              v Erzgebirge Aue           3-1 (1-1)
+           SpVgg Greuther Fürth    v SC Paderborn 07          2-2 (0-0)
+           1. FC Magdeburg         v FC Ingolstadt 04         1-1 (1-1)
+  Sun Aug/26
+    13.30  Jahn Regensburg         v Holstein Kiel            0-0
+           1. FC Union Berlin      v FC St. Pauli             4-1 (2-0)
+           Dynamo Dresden          v 1. FC Heidenheim 1846    1-3 (0-2)
+  Mon Aug/27
+    20.30  Hamburger SV            v Arminia Bielefeld        3-0 (1-0)
+
+
+» Matchday 4
+  Fri Aug/31
+    18.30  FC Ingolstadt 04        v Erzgebirge Aue           3-2 (1-1)
+           SC Paderborn 07         v VfL Bochum               2-2 (0-1)
+  Sat Sep/1
+    13.00  Arminia Bielefeld       v Jahn Regensburg          5-3 (3-2)
+           MSV Duisburg            v SpVgg Greuther Fürth     0-1 (0-1)
+  Sun Sep/2
+    13.30  SV Sandhausen           v 1. FC Union Berlin       0-0
+           FC St. Pauli            v 1. FC Köln               3-5 (2-2)
+           1. FC Heidenheim 1846   v SV Darmstadt 98          0-1 (0-1)
+  Mon Sep/3
+    20.30  Holstein Kiel           v 1. FC Magdeburg          2-1 (0-0)
+  Tue Sep/18
+    18.30  Dynamo Dresden          v Hamburger SV             0-1 (0-0)
+
+
+» Matchday 5
+  Fri Sep/14
+    18.30  Jahn Regensburg         v Dynamo Dresden           0-2 (0-1)
+           1. FC Union Berlin      v MSV Duisburg             2-2 (1-0)
+  Sat Sep/15
+    13.00  Hamburger SV            v 1. FC Heidenheim 1846    3-2 (0-0)
+           SV Darmstadt 98         v SV Sandhausen            1-1 (0-0)
+           SpVgg Greuther Fürth    v Holstein Kiel            4-1 (0-0)
+  Sun Sep/16
+    13.30  1. FC Köln              v SC Paderborn 07          3-5 (1-1)
+           VfL Bochum              v FC Ingolstadt 04         6-0 (3-0)
+           Erzgebirge Aue          v FC St. Pauli             3-1 (2-1)
+  Mon Sep/17
+    20.30  1. FC Magdeburg         v Arminia Bielefeld        0-0
+
+
+» Matchday 6
+  Fri Sep/21
+    18.30  FC Ingolstadt 04        v FC St. Pauli             0-1 (0-0)
+           SV Sandhausen           v 1. FC Köln               0-2 (0-1)
+  Sat Sep/22
+    13.00  Holstein Kiel           v VfL Bochum               2-2 (0-1)
+           Arminia Bielefeld       v 1. FC Union Berlin       1-1 (0-1)
+           Dynamo Dresden          v SV Darmstadt 98          4-1 (1-1)
+  Sun Sep/23
+    13.30  Hamburger SV            v Jahn Regensburg          0-5 (0-3)
+           MSV Duisburg            v Erzgebirge Aue           1-2 (1-0)
+           1. FC Heidenheim 1846   v SpVgg Greuther Fürth     2-0 (0-0)
+           SC Paderborn 07         v 1. FC Magdeburg          4-4 (2-1)
+
+
+» Matchday 7
+  Tue Sep/25
+    18.30  1. FC Köln              v FC Ingolstadt 04         2-1 (0-0)
+           VfL Bochum              v Dynamo Dresden           0-1 (0-1)
+           1. FC Union Berlin      v Holstein Kiel            2-0 (0-0)
+           SV Darmstadt 98         v Arminia Bielefeld        1-2 (0-0)
+  Wed Sep/26
+    18.30  Jahn Regensburg         v 1. FC Heidenheim 1846    2-1 (2-1)
+           FC St. Pauli            v SC Paderborn 07          2-1 (1-1)
+           Erzgebirge Aue          v SV Sandhausen            0-2 (0-1)
+           1. FC Magdeburg         v MSV Duisburg             3-3 (0-1)
+  Thu Sep/27
+    20.30  SpVgg Greuther Fürth    v Hamburger SV             0-0
+
+
+» Matchday 8
+  Fri Sep/28
+    18.30  Holstein Kiel           v SV Darmstadt 98          4-2 (3-2)
+           Arminia Bielefeld       v 1. FC Köln               1-3 (0-1)
+  Sat Sep/29
+    13.00  MSV Duisburg            v Jahn Regensburg          1-3 (1-2)
+           1. FC Heidenheim 1846   v VfL Bochum               3-2 (1-2)
+           SC Paderborn 07         v Erzgebirge Aue           1-0 (1-0)
+  Sun Sep/30
+    13.30  Hamburger SV            v FC St. Pauli             0-0
+           SV Sandhausen           v 1. FC Magdeburg          0-1 (0-0)
+           Dynamo Dresden          v SpVgg Greuther Fürth     0-1 (0-0)
+  Mon Oct/1
+    20.30  FC Ingolstadt 04        v 1. FC Union Berlin       1-2 (0-1)
+
+
+» Matchday 9
+  Fri Oct/5
+    18.30  VfL Bochum              v Arminia Bielefeld        1-0 (1-0)
+           SV Darmstadt 98         v Hamburger SV             1-2 (0-2)
+  Sat Oct/6
+    13.00  SpVgg Greuther Fürth    v Jahn Regensburg          1-1 (0-0)
+           Erzgebirge Aue          v Holstein Kiel            2-1 (0-1)
+           1. FC Magdeburg         v Dynamo Dresden           2-2 (0-2)
+  Sun Oct/7
+    13.30  1. FC Union Berlin      v 1. FC Heidenheim 1846    1-1 (0-0)
+           FC Ingolstadt 04        v SC Paderborn 07          1-2 (0-1)
+           FC St. Pauli            v SV Sandhausen            3-1 (1-0)
+  Mon Oct/8
+    20.30  1. FC Köln              v MSV Duisburg             1-2 (1-1)
+
+
+» Matchday 10
+  Fri Oct/19
+    18.30  SV Sandhausen           v FC Ingolstadt 04         4-0 (1-0)
+           Dynamo Dresden          v Erzgebirge Aue           1-1 (1-1)
+  Sat Oct/20
+    13.00  Holstein Kiel           v 1. FC Köln               1-1 (0-1)
+           Arminia Bielefeld       v SpVgg Greuther Fürth     2-3 (2-0)
+           1. FC Heidenheim 1846   v 1. FC Magdeburg          3-0 (2-0)
+  Sun Oct/21
+    13.30  Hamburger SV            v VfL Bochum               0-0
+           Jahn Regensburg         v SV Darmstadt 98          1-1 (0-1)
+           SC Paderborn 07         v 1. FC Union Berlin       0-0
+  Mon Oct/22
+    20.30  MSV Duisburg            v FC St. Pauli             0-1 (0-0)
+
+
+» Matchday 11
+  Fri Oct/26
+    18.30  SV Darmstadt 98         v SpVgg Greuther Fürth     2-0 (1-0)
+           1. FC Magdeburg         v Hamburger SV             0-1 (0-0)
+  Sat Oct/27
+    13.00  1. FC Köln              v 1. FC Heidenheim 1846    1-1 (0-1)
+           Erzgebirge Aue          v Arminia Bielefeld        1-0 (0-0)
+           SC Paderborn 07         v SV Sandhausen            3-3 (1-2)
+  Sun Oct/28
+    13.30  1. FC Union Berlin      v Dynamo Dresden           0-0
+           FC Ingolstadt 04        v MSV Duisburg             1-1 (0-0)
+           FC St. Pauli            v Holstein Kiel            0-1 (0-0)
+  Mon Oct/29
+    20.30  VfL Bochum              v Jahn Regensburg          3-3 (1-1)
+
+
+» Matchday 12
+  Fri Nov/2
+    18.30  Dynamo Dresden          v SV Sandhausen            3-1 (2-1)
+           SpVgg Greuther Fürth    v VfL Bochum               2-2 (0-2)
+  Sat Nov/3
+    13.00  Holstein Kiel           v FC Ingolstadt 04         2-2 (0-0)
+           MSV Duisburg            v SC Paderborn 07          2-0 (1-0)
+           SV Darmstadt 98         v 1. FC Magdeburg          3-1 (1-0)
+  Sun Nov/4
+    13.30  Arminia Bielefeld       v FC St. Pauli             1-2 (1-0)
+           Jahn Regensburg         v 1. FC Union Berlin       1-1 (1-1)
+           1. FC Heidenheim 1846   v Erzgebirge Aue           1-0 (0-0)
+  Mon Nov/5
+    20.30  Hamburger SV            v 1. FC Köln               1-0 (0-0)
+
+
+» Matchday 13
+  Fri Nov/9
+    18.30  SV Sandhausen           v MSV Duisburg             0-0
+           SC Paderborn 07         v Holstein Kiel            4-4 (3-1)
+  Sat Nov/10
+    13.00  1. FC Köln              v Dynamo Dresden           8-1 (2-0)
+           FC St. Pauli            v 1. FC Heidenheim 1846    1-1 (0-0)
+           Erzgebirge Aue          v Hamburger SV             1-3 (1-1)
+  Sun Nov/11
+    13.30  1. FC Union Berlin      v SpVgg Greuther Fürth     4-0 (3-0)
+           FC Ingolstadt 04        v Arminia Bielefeld        1-1 (0-0)
+           1. FC Magdeburg         v Jahn Regensburg          2-3 (1-1)
+  Mon Nov/12
+    20.30  VfL Bochum              v SV Darmstadt 98          1-0 (0-0)
+
+
+» Matchday 14
+  Fri Nov/23
+    18.30  Arminia Bielefeld       v MSV Duisburg             0-1 (0-0)
+           SpVgg Greuther Fürth    v 1. FC Magdeburg          3-2 (1-1)
+  Sat Nov/24
+    13.00  Holstein Kiel           v SV Sandhausen            2-1 (2-0)
+           VfL Bochum              v Erzgebirge Aue           2-1 (0-1)
+           SV Darmstadt 98         v 1. FC Köln               0-3 (0-0)
+  Sun Nov/25
+    13.30  Jahn Regensburg         v FC St. Pauli             1-1 (0-1)
+           1. FC Heidenheim 1846   v SC Paderborn 07          1-5 (1-2)
+           Dynamo Dresden          v FC Ingolstadt 04         2-0 (2-0)
+  Mon Nov/26
+    20.30  Hamburger SV            v 1. FC Union Berlin       2-2 (0-1)
+
+
+» Matchday 15
+  Fri Nov/30
+    18.30  Erzgebirge Aue          v Jahn Regensburg          1-1 (1-1)
+           SC Paderborn 07         v Arminia Bielefeld        2-2 (0-0)
+  Sat Dec/1
+    13.00  1. FC Köln              v SpVgg Greuther Fürth     4-0 (1-0)
+           1. FC Union Berlin      v SV Darmstadt 98          3-1 (2-0)
+           FC Ingolstadt 04        v Hamburger SV             1-2 (0-1)
+           FC St. Pauli            v Dynamo Dresden           1-1 (0-0)
+  Sun Dec/2
+    13.30  MSV Duisburg            v Holstein Kiel            0-4 (0-0)
+           SV Sandhausen           v 1. FC Heidenheim 1846    1-2 (1-2)
+           1. FC Magdeburg         v VfL Bochum               0-0
+
+
+» Matchday 16
+  Fri Dec/7
+    18.30  Hamburger SV            v SC Paderborn 07          1-0 (1-0)
+           Jahn Regensburg         v 1. FC Köln               1-3 (0-2)
+  Sat Dec/8
+    13.00  SV Darmstadt 98         v FC Ingolstadt 04         1-1 (0-1)
+           1. FC Heidenheim 1846   v MSV Duisburg             4-1 (1-0)
+           SpVgg Greuther Fürth    v Erzgebirge Aue           0-5 (0-1)
+  Sun Dec/9
+    13.30  Arminia Bielefeld       v SV Sandhausen            1-1 (0-0)
+           Dynamo Dresden          v Holstein Kiel            0-2 (0-2)
+           1. FC Magdeburg         v 1. FC Union Berlin       1-1 (1-0)
+  Mon Dec/10
+    20.30  VfL Bochum              v FC St. Pauli             1-3 (1-2)
+
+
+» Matchday 17
+  Fri Dec/14
+    18.30  Holstein Kiel           v Arminia Bielefeld        1-2 (0-1)
+           MSV Duisburg            v Hamburger SV             1-2 (1-2)
+  Sat Dec/15
+    13.00  1. FC Union Berlin      v VfL Bochum               2-0 (0-0)
+           FC St. Pauli            v SpVgg Greuther Fürth     2-0 (1-0)
+           SC Paderborn 07         v Dynamo Dresden           3-0 (0-0)
+  Sun Dec/16
+    13.30  FC Ingolstadt 04        v 1. FC Heidenheim 1846    1-1 (1-0)
+           SV Sandhausen           v Jahn Regensburg          2-2 (2-1)
+           Erzgebirge Aue          v SV Darmstadt 98          2-2 (0-0)
+  Mon Dec/17
+    20.30  1. FC Köln              v 1. FC Magdeburg          3-0 (1-0)
+
+
+» Matchday 18
+  Fri Dec/21
+    18.30  1. FC Köln              v VfL Bochum               2-3 (1-1)
+           SV Sandhausen           v SpVgg Greuther Fürth     0-0
+  Sat Dec/22
+    13.00  FC Ingolstadt 04        v Jahn Regensburg          1-2 (1-1)
+           Arminia Bielefeld       v 1. FC Heidenheim 1846    1-2 (1-1)
+           FC St. Pauli            v 1. FC Magdeburg          4-1 (1-1)
+  Sun Dec/23
+    13.30  Holstein Kiel           v Hamburger SV             3-1 (2-0)
+           Erzgebirge Aue          v 1. FC Union Berlin       3-0 (2-0)
+           SC Paderborn 07         v SV Darmstadt 98          6-2 (1-1)
+           MSV Duisburg            v Dynamo Dresden           1-3 (0-2)
+
+
+» Matchday 19
+  Tue Jan/29 2019
+    18.30  VfL Bochum              v MSV Duisburg             2-1 (2-0)
+    20.30  SpVgg Greuther Fürth    v FC Ingolstadt 04         0-1 (0-0)
+           SV Darmstadt 98         v FC St. Pauli             2-1 (0-1)
+           1. FC Magdeburg         v Erzgebirge Aue           1-0 (1-0)
+  Wed Jan/30
+    18.30  Jahn Regensburg         v SC Paderborn 07          2-0 (0-0)
+    20.30  1. FC Heidenheim 1846   v Holstein Kiel            2-2 (2-1)
+           Dynamo Dresden          v Arminia Bielefeld        3-4 (3-1)
+           Hamburger SV            v SV Sandhausen            2-1 (1-0)
+  Thu Jan/31
+    20.30  1. FC Union Berlin      v 1. FC Köln               2-0 (2-0)
+
+
+» Matchday 20
+  Fri Feb/1
+    18.30  MSV Duisburg            v SV Darmstadt 98          3-2 (2-0)
+           FC Ingolstadt 04        v 1. FC Magdeburg          0-1 (0-0)
+  Sat Feb/2
+    13.00  Arminia Bielefeld       v Hamburger SV             2-0 (2-0)
+           1. FC Heidenheim 1846   v Dynamo Dresden           1-0 (1-0)
+           SC Paderborn 07         v SpVgg Greuther Fürth     6-0 (3-0)
+  Sun Feb/3
+    13.30  Holstein Kiel           v Jahn Regensburg          2-0 (1-0)
+           SV Sandhausen           v VfL Bochum               3-0 (0-0)
+  Mon Feb/4
+    20.30  FC St. Pauli            v 1. FC Union Berlin       3-2 (1-0)
+  Wed Feb/27
+    19.30  Erzgebirge Aue          v 1. FC Köln               0-1 (0-1)
+
+
+» Matchday 21
+  Fri Feb/8
+    18.30  Jahn Regensburg         v Arminia Bielefeld        0-3 (0-2)
+           1. FC Köln              v FC St. Pauli             4-1 (1-1)
+  Sat Feb/9
+    13.00  SpVgg Greuther Fürth    v MSV Duisburg             1-0 (0-0)
+           1. FC Union Berlin      v SV Sandhausen            2-0 (1-0)
+           VfL Bochum              v SC Paderborn 07          1-2 (0-2)
+  Sun Feb/10
+    13.30  1. FC Magdeburg         v Holstein Kiel            1-1 (1-1)
+           Erzgebirge Aue          v FC Ingolstadt 04         0-3 (0-1)
+           SV Darmstadt 98         v 1. FC Heidenheim 1846    1-2 (0-1)
+  Mon Feb/11
+    20.30  Hamburger SV            v Dynamo Dresden           1-0 (0-0)
+
+
+» Matchday 22
+  Fri Feb/15
+    18.30  SC Paderborn 07         v 1. FC Köln               3-2 (0-1)
+           SV Sandhausen           v SV Darmstadt 98          1-1 (1-1)
+  Sat Feb/16
+    13.00  1. FC Heidenheim 1846   v Hamburger SV             2-2 (1-1)
+           FC Ingolstadt 04        v VfL Bochum               2-1 (2-0)
+           MSV Duisburg            v 1. FC Union Berlin       2-3 (1-1)
+           FC St. Pauli            v Erzgebirge Aue           1-2 (1-1)
+  Sun Feb/17
+    13.30  Dynamo Dresden          v Jahn Regensburg          0-0
+           Holstein Kiel           v SpVgg Greuther Fürth     2-2 (0-0)
+           Arminia Bielefeld       v 1. FC Magdeburg          1-3 (0-2)
+
+
+» Matchday 23
+  Fri Feb/22
+    18.30  1. FC Union Berlin      v Arminia Bielefeld        1-1 (1-0)
+           SpVgg Greuther Fürth    v 1. FC Heidenheim 1846    0-0
+  Sat Feb/23
+    13.00  VfL Bochum              v Holstein Kiel            1-3 (0-3)
+           FC St. Pauli            v FC Ingolstadt 04         1-0 (0-0)
+           1. FC Köln              v SV Sandhausen            3-1 (0-1)
+           SV Darmstadt 98         v Dynamo Dresden           2-0 (1-0)
+  Sun Feb/24
+    13.30  Jahn Regensburg         v Hamburger SV             2-1 (0-1)
+           Erzgebirge Aue          v MSV Duisburg             0-0
+           1. FC Magdeburg         v SC Paderborn 07          1-1 (1-0)
+
+
+» Matchday 24
+  Fri Mar/1
+    18.30  Holstein Kiel           v 1. FC Union Berlin       0-2 (0-1)
+           MSV Duisburg            v 1. FC Magdeburg          1-0 (0-0)
+  Sat Mar/2
+    13.00  1. FC Heidenheim 1846   v Jahn Regensburg          1-2 (0-1)
+           SC Paderborn 07         v FC St. Pauli             0-1 (0-0)
+           SV Sandhausen           v Erzgebirge Aue           0-3 (0-1)
+  Sun Mar/3
+    13.30  FC Ingolstadt 04        v 1. FC Köln               1-2 (0-1)
+           Dynamo Dresden          v VfL Bochum               2-2 (1-2)
+           Arminia Bielefeld       v SV Darmstadt 98          1-0 (1-0)
+  Mon Mar/4
+    20.30  Hamburger SV            v SpVgg Greuther Fürth     1-0 (0-0)
+
+
+» Matchday 25
+  Fri Mar/8
+    18.30  1. FC Union Berlin      v FC Ingolstadt 04         2-0 (1-0)
+           VfL Bochum              v 1. FC Heidenheim 1846    1-0 (0-0)
+  Sat Mar/9
+    13.00  SV Darmstadt 98         v Holstein Kiel            3-2 (2-1)
+           1. FC Köln              v Arminia Bielefeld        5-1 (2-0)
+           Jahn Regensburg         v MSV Duisburg             1-1 (1-0)
+           Erzgebirge Aue          v SC Paderborn 07          2-1 (1-0)
+  Sun Mar/10
+    13.30  FC St. Pauli            v Hamburger SV             0-4 (0-1)
+           1. FC Magdeburg         v SV Sandhausen            0-1 (0-0)
+  Thu Apr/4
+    19.00  SpVgg Greuther Fürth    v Dynamo Dresden           0-0
+
+
+» Matchday 26
+  Fri Mar/15
+    18.30  1. FC Heidenheim 1846   v 1. FC Union Berlin       2-1 (0-1)
+           Holstein Kiel           v Erzgebirge Aue           5-1 (2-1)
+  Sat Mar/16
+    13.00  Hamburger SV            v SV Darmstadt 98          2-3 (2-0)
+           SV Sandhausen           v FC St. Pauli             4-0 (2-0)
+           Dynamo Dresden          v 1. FC Magdeburg          1-1 (0-1)
+  Sun Mar/17
+    13.30  Arminia Bielefeld       v VfL Bochum               3-1 (0-0)
+           SC Paderborn 07         v FC Ingolstadt 04         3-1 (0-0)
+  Mon Mar/18
+    20.30  Jahn Regensburg         v SpVgg Greuther Fürth     0-2 (0-0)
+  Wed Apr/10
+    18.45  MSV Duisburg            v 1. FC Köln               4-4 (2-1)
+
+
+» Matchday 27
+  Fri Mar/29
+    18.30  FC St. Pauli            v MSV Duisburg             0-0
+           1. FC Magdeburg         v 1. FC Heidenheim 1846    0-0
+  Sat Mar/30
+    13.00  VfL Bochum              v Hamburger SV             0-0
+           SV Darmstadt 98         v Jahn Regensburg          1-1 (0-0)
+           1. FC Union Berlin      v SC Paderborn 07          1-3 (0-1)
+  Sun Mar/31
+    13.30  1. FC Köln              v Holstein Kiel            4-0 (2-0)
+           SpVgg Greuther Fürth    v Arminia Bielefeld        2-2 (2-0)
+           FC Ingolstadt 04        v SV Sandhausen            1-2 (1-0)
+  Mon Apr/1
+    20.30  Erzgebirge Aue          v Dynamo Dresden           1-3 (1-0)
+
+
+» Matchday 28
+  Fri Apr/5
+    18.30  Jahn Regensburg         v VfL Bochum               2-1 (0-0)
+           Arminia Bielefeld       v Erzgebirge Aue           2-1 (1-0)
+  Sat Apr/6
+    13.00  MSV Duisburg            v FC Ingolstadt 04         2-4 (0-1)
+           Holstein Kiel           v FC St. Pauli             2-1 (0-1)
+           SV Sandhausen           v SC Paderborn 07          1-1 (1-0)
+  Sun Apr/7
+    13.30  1. FC Heidenheim 1846   v 1. FC Köln               0-2 (0-2)
+           Dynamo Dresden          v 1. FC Union Berlin       0-0
+           SpVgg Greuther Fürth    v SV Darmstadt 98          2-1 (0-0)
+  Mon Apr/8
+    20.30  Hamburger SV            v 1. FC Magdeburg          1-2 (1-0)
+
+
+» Matchday 29
+  Fri Apr/12
+    18.30  1. FC Union Berlin      v Jahn Regensburg          2-2 (1-1)
+           Erzgebirge Aue          v 1. FC Heidenheim 1846    0-1 (0-1)
+  Sat Apr/13
+    13.00  SC Paderborn 07         v MSV Duisburg             4-0 (2-0)
+           1. FC Magdeburg         v SV Darmstadt 98          0-1 (0-0)
+           SV Sandhausen           v Dynamo Dresden           3-1 (0-0)
+  Sun Apr/14
+    13.30  FC Ingolstadt 04        v Holstein Kiel            1-1 (1-0)
+           FC St. Pauli            v Arminia Bielefeld        1-1 (0-1)
+           VfL Bochum              v SpVgg Greuther Fürth     3-2 (1-2)
+  Mon Apr/15
+    20.30  1. FC Köln              v Hamburger SV             1-1 (1-0)
+
+
+» Matchday 30
+  Sat Apr/20
+    13.00  SpVgg Greuther Fürth    v 1. FC Union Berlin       1-1 (0-1)
+           MSV Duisburg            v SV Sandhausen            2-2 (0-1)
+           Hamburger SV            v Erzgebirge Aue           1-1 (0-1)
+           Holstein Kiel           v SC Paderborn 07          1-2 (0-0)
+  Sun Apr/21
+    13.30  Dynamo Dresden          v 1. FC Köln               3-0 (2-0)
+           SV Darmstadt 98         v VfL Bochum               0-0
+           Arminia Bielefeld       v FC Ingolstadt 04         1-3 (0-1)
+           1. FC Heidenheim 1846   v FC St. Pauli             3-0 (3-0)
+           Jahn Regensburg         v 1. FC Magdeburg          1-0 (1-0)
+
+
+» Matchday 31
+  Fri Apr/26
+    18.30  1. FC Köln              v SV Darmstadt 98          1-2 (0-1)
+           FC Ingolstadt 04        v Dynamo Dresden           1-0 (0-0)
+  Sat Apr/27
+    13.00  SV Sandhausen           v Holstein Kiel            3-2 (2-2)
+           FC St. Pauli            v Jahn Regensburg          4-3 (1-2)
+           1. FC Magdeburg         v SpVgg Greuther Fürth     2-1 (2-1)
+  Sun Apr/28
+    13.30  1. FC Union Berlin      v Hamburger SV             2-0 (0-0)
+           Erzgebirge Aue          v VfL Bochum               3-2 (2-1)
+           SC Paderborn 07         v 1. FC Heidenheim 1846    3-1 (0-0)
+  Mon Apr/29
+    20.30  MSV Duisburg            v Arminia Bielefeld        2-2 (1-1)
+
+
+» Matchday 32
+  Fri May/3
+    18.30  Dynamo Dresden          v FC St. Pauli             2-1 (1-0)
+           Arminia Bielefeld       v SC Paderborn 07          2-0 (1-0)
+  Sat May/4
+    13.00  Hamburger SV            v FC Ingolstadt 04         0-3 (0-1)
+           1. FC Heidenheim 1846   v SV Sandhausen            2-3 (1-0)
+           VfL Bochum              v 1. FC Magdeburg          4-2 (1-0)
+  Sun May/5
+    13.30  Holstein Kiel           v MSV Duisburg             0-2 (0-0)
+           SV Darmstadt 98         v 1. FC Union Berlin       2-1 (0-0)
+           Jahn Regensburg         v Erzgebirge Aue           1-3 (0-0)
+  Mon May/6
+    20.30  SpVgg Greuther Fürth    v 1. FC Köln               0-4 (0-3)
+
+
+» Matchday 33
+  Sun May/12
+    15.30  SC Paderborn 07         v Hamburger SV             4-1 (1-0)
+           SV Sandhausen           v Arminia Bielefeld        0-3 (0-2)
+           1. FC Köln              v Jahn Regensburg          3-5 (0-3)
+           FC St. Pauli            v VfL Bochum               0-0
+           FC Ingolstadt 04        v SV Darmstadt 98          3-0 (2-0)
+           MSV Duisburg            v 1. FC Heidenheim 1846    3-4 (1-2)
+           Holstein Kiel           v Dynamo Dresden           3-0 (1-0)
+           Erzgebirge Aue          v SpVgg Greuther Fürth     1-1 (1-1)
+           1. FC Union Berlin      v 1. FC Magdeburg          3-0 (2-0)
+
+
+» Matchday 34
+  Sun May/19
+    15.30  1. FC Magdeburg         v 1. FC Köln               1-1 (0-1)
+           Arminia Bielefeld       v Holstein Kiel            1-0 (0-0)
+           Hamburger SV            v MSV Duisburg             3-0 (1-0)
+           VfL Bochum              v 1. FC Union Berlin       2-2 (1-0)
+           1. FC Heidenheim 1846   v FC Ingolstadt 04         4-2 (2-0)
+           Jahn Regensburg         v SV Sandhausen            2-2 (1-1)
+           SpVgg Greuther Fürth    v FC St. Pauli             2-1 (0-0)
+           SV Darmstadt 98         v Erzgebirge Aue           1-0 (1-0)
+           Dynamo Dresden          v SC Paderborn 07          3-1 (2-1)

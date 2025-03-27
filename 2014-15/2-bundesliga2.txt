@@ -1,0 +1,537 @@
+= Deutsche 2. Bundesliga 2014/15
+
+# Date       Fri Aug/1 2014 - Sun May/24 2015 (296d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/1 2014
+    20.30  Fortuna Düsseldorf      v Eintracht Braunschweig   2-2 (1-0)
+  Sat Aug/2
+    13.00  RB Leipzig              v VfR Aalen                0-0
+    15.30  VfL Bochum              v SpVgg Greuther Fürth     1-1 (1-1)
+           FC St. Pauli            v FC Ingolstadt 04         1-1 (0-1)
+  Sun Aug/3
+    13.30  1. FC Heidenheim 1846   v FSV Frankfurt            2-1 (1-1)
+    15.30  1. FC Nürnberg          v Erzgebirge Aue           1-0 (0-0)
+           SV Darmstadt 98         v SV Sandhausen            1-0 (1-0)
+           Karlsruher SC           v 1. FC Union Berlin       0-0
+  Mon Aug/4
+    20.15  1. FC Kaiserslautern    v TSV 1860 München         3-2 (0-2)
+
+
+» Matchday 2
+  Fri Aug/8
+    18.30  VfR Aalen               v FC St. Pauli             2-0 (1-0)
+           FSV Frankfurt           v Karlsruher SC            2-3 (2-3)
+    20.30  1. FC Union Berlin      v Fortuna Düsseldorf       1-1 (0-1)
+  Sat Aug/9
+    15.30  Eintracht Braunschweig  v 1. FC Heidenheim 1846    3-0 (1-0)
+           Erzgebirge Aue          v VfL Bochum               1-5 (1-3)
+  Sun Aug/10
+    13.30  FC Ingolstadt 04        v SV Darmstadt 98          2-2 (1-1)
+    15.30  TSV 1860 München        v RB Leipzig               0-3 (0-1)
+           SV Sandhausen           v 1. FC Kaiserslautern     1-1 (0-0)
+  Mon Aug/11
+    20.15  SpVgg Greuther Fürth    v 1. FC Nürnberg           5-1 (2-1)
+
+
+» Matchday 3
+  Fri Aug/22
+    18.30  FC St. Pauli            v SV Sandhausen            2-1 (1-1)
+           1. FC Heidenheim 1846   v TSV 1860 München         2-2 (0-1)
+           RB Leipzig              v Erzgebirge Aue           1-0 (1-0)
+  Sat Aug/23
+    13.00  1. FC Nürnberg          v FSV Frankfurt            0-1 (0-1)
+           Fortuna Düsseldorf      v Karlsruher SC            0-2 (0-1)
+  Sun Aug/24
+    13.30  1. FC Kaiserslautern    v Eintracht Braunschweig   2-1 (1-1)
+           FC Ingolstadt 04        v SpVgg Greuther Fürth     2-0 (0-0)
+           SV Darmstadt 98         v VfR Aalen                2-0 (0-0)
+  Mon Aug/25
+    20.15  VfL Bochum              v 1. FC Union Berlin       1-1 (0-0)
+
+
+» Matchday 4
+  Fri Aug/29
+    18.30  1. FC Union Berlin      v 1. FC Nürnberg           0-4 (0-2)
+           VfR Aalen               v 1. FC Kaiserslautern     2-2 (0-1)
+           FSV Frankfurt           v RB Leipzig               0-0
+  Sat Aug/30
+    13.00  Karlsruher SC           v 1. FC Heidenheim 1846    1-1 (0-1)
+           Erzgebirge Aue          v Fortuna Düsseldorf       0-3 (0-2)
+  Sun Aug/31
+    13.30  Eintracht Braunschweig  v VfL Bochum               1-2 (1-1)
+           TSV 1860 München        v SV Darmstadt 98          1-1 (0-1)
+           SV Sandhausen           v FC Ingolstadt 04         0-3 (0-1)
+  Mon Sep/1
+    20.15  SpVgg Greuther Fürth    v FC St. Pauli             3-0 (2-0)
+
+
+» Matchday 5
+  Fri Sep/12
+    18.30  1. FC Kaiserslautern    v FSV Frankfurt            1-0 (1-0)
+           FC Ingolstadt 04        v VfR Aalen                4-1 (1-0)
+           VfL Bochum              v Karlsruher SC            1-1 (0-1)
+  Sat Sep/13
+    13.00  RB Leipzig              v Eintracht Braunschweig   3-1 (2-0)
+           SV Darmstadt 98         v Erzgebirge Aue           2-0 (1-0)
+  Sun Sep/14
+    13.30  FC St. Pauli            v TSV 1860 München         1-2 (1-2)
+           SV Sandhausen           v SpVgg Greuther Fürth     1-0 (0-0)
+           1. FC Heidenheim 1846   v 1. FC Union Berlin       3-1 (0-0)
+  Mon Sep/15
+    20.15  1. FC Nürnberg          v Fortuna Düsseldorf       0-2 (0-1)
+
+
+» Matchday 6
+  Fri Sep/19
+    18.30  Eintracht Braunschweig  v SV Darmstadt 98          2-0 (1-0)
+           VfR Aalen               v SV Sandhausen            0-1 (0-0)
+           Erzgebirge Aue          v FC St. Pauli             3-0 (1-0)
+  Sat Sep/20
+    13.00  SpVgg Greuther Fürth    v 1. FC Kaiserslautern     2-1 (0-1)
+           TSV 1860 München        v FC Ingolstadt 04         1-1 (1-1)
+           FSV Frankfurt           v VfL Bochum               1-5 (1-1)
+  Sun Sep/21
+    13.30  Karlsruher SC           v 1. FC Nürnberg           3-0 (3-0)
+           Fortuna Düsseldorf      v 1. FC Heidenheim 1846    3-2 (2-1)
+           1. FC Union Berlin      v RB Leipzig               2-1 (0-0)
+
+
+» Matchday 7
+  Tue Sep/23
+    17.30  SpVgg Greuther Fürth    v VfR Aalen                1-1 (0-1)
+           FC St. Pauli            v Eintracht Braunschweig   1-0 (1-0)
+           FC Ingolstadt 04        v Erzgebirge Aue           1-1 (1-1)
+           SV Sandhausen           v TSV 1860 München         1-0 (0-0)
+  Wed Sep/24
+    17.30  1. FC Kaiserslautern    v 1. FC Union Berlin       1-0 (1-0)
+           1. FC Heidenheim 1846   v 1. FC Nürnberg           3-0 (2-0)
+           RB Leipzig              v Karlsruher SC            3-1 (1-1)
+           SV Darmstadt 98         v FSV Frankfurt            4-0 (3-0)
+  Thu Sep/25
+    20.15  VfL Bochum              v Fortuna Düsseldorf       1-1 (1-0)
+
+
+» Matchday 8
+  Fri Sep/26
+    18.30  Eintracht Braunschweig  v SV Sandhausen            2-1 (1-0)
+           TSV 1860 München        v SpVgg Greuther Fürth     2-0 (1-0)
+           Erzgebirge Aue          v VfR Aalen                1-0 (0-0)
+  Sat Sep/27
+    13.00  Karlsruher SC           v FC Ingolstadt 04         0-1 (0-1)
+           1. FC Union Berlin      v SV Darmstadt 98          1-1 (0-0)
+  Sun Sep/28
+    13.30  Fortuna Düsseldorf      v RB Leipzig               2-2 (0-1)
+           FSV Frankfurt           v FC St. Pauli             3-3 (1-2)
+           1. FC Heidenheim 1846   v VfL Bochum               5-0 (4-0)
+  Mon Sep/29
+    20.15  1. FC Nürnberg          v 1. FC Kaiserslautern     3-2 (2-0)
+
+
+» Matchday 9
+  Fri Oct/3
+    18.30  SpVgg Greuther Fürth    v Erzgebirge Aue           2-0 (2-0)
+           VfR Aalen               v TSV 1860 München         2-0 (0-0)
+           VfL Bochum              v 1. FC Nürnberg           1-1 (1-0)
+  Sat Oct/4
+    13.00  1. FC Kaiserslautern    v Karlsruher SC            2-0 (2-0)
+           FC St. Pauli            v 1. FC Union Berlin       3-0 (1-0)
+  Sun Oct/5
+    13.30  FC Ingolstadt 04        v Eintracht Braunschweig   1-0 (0-0)
+           SV Sandhausen           v FSV Frankfurt            0-3 (0-0)
+           SV Darmstadt 98         v Fortuna Düsseldorf       1-4 (0-2)
+  Mon Oct/6
+    20.15  RB Leipzig              v 1. FC Heidenheim 1846    1-1 (1-1)
+
+
+» Matchday 10
+  Fri Oct/17
+    18.30  VfL Bochum              v SV Darmstadt 98          1-1 (0-1)
+           1. FC Heidenheim 1846   v 1. FC Kaiserslautern     1-1 (0-0)
+    20.30  1. FC Nürnberg          v RB Leipzig               1-0 (0-0)
+  Sat Oct/18
+    13.00  Eintracht Braunschweig  v SpVgg Greuther Fürth     2-2 (0-0)
+           1. FC Union Berlin      v SV Sandhausen            3-1 (0-1)
+  Sun Oct/19
+    13.30  Karlsruher SC           v VfR Aalen                0-0
+           FSV Frankfurt           v FC Ingolstadt 04         0-1 (0-1)
+           Erzgebirge Aue          v TSV 1860 München         4-1 (3-0)
+  Mon Oct/20
+    20.15  Fortuna Düsseldorf      v FC St. Pauli             1-0 (1-0)
+
+
+» Matchday 11
+  Fri Oct/24
+    18.30  SpVgg Greuther Fürth    v FSV Frankfurt            2-5 (2-3)
+           VfR Aalen               v 1. FC Union Berlin       1-2 (1-0)
+           RB Leipzig              v VfL Bochum               2-0 (2-0)
+  Sat Oct/25
+    13.00  1. FC Kaiserslautern    v Fortuna Düsseldorf       1-1 (0-0)
+           FC St. Pauli            v Karlsruher SC            0-4 (0-2)
+  Sun Oct/26
+    13.30  TSV 1860 München        v Eintracht Braunschweig   1-2 (1-1)
+           FC Ingolstadt 04        v 1. FC Heidenheim 1846    1-0 (1-0)
+           SV Sandhausen           v Erzgebirge Aue           1-1 (0-0)
+  Mon Oct/27
+    20.15  SV Darmstadt 98         v 1. FC Nürnberg           3-0 (1-0)
+
+
+» Matchday 12
+  Fri Oct/31
+    18.30  Karlsruher SC           v SV Sandhausen            1-1 (0-0)
+           Fortuna Düsseldorf      v FC Ingolstadt 04         0-0
+           1. FC Union Berlin      v SpVgg Greuther Fürth     0-1 (0-1)
+  Sat Nov/1
+    13.00  1. FC Nürnberg          v FC St. Pauli             2-2 (1-1)
+           1. FC Heidenheim 1846   v SV Darmstadt 98          1-1 (1-1)
+  Sun Nov/2
+    13.30  Eintracht Braunschweig  v VfR Aalen                2-1 (1-0)
+           FSV Frankfurt           v Erzgebirge Aue           1-1 (1-0)
+           VfL Bochum              v TSV 1860 München         0-3 (0-0)
+  Mon Nov/3
+    20.15  RB Leipzig              v 1. FC Kaiserslautern     0-0
+
+
+» Matchday 13
+  Fri Nov/7
+    18.30  1. FC Kaiserslautern    v VfL Bochum               2-2 (0-1)
+           VfR Aalen               v FSV Frankfurt            0-1 (0-0)
+    18.40  SV Sandhausen           v 1. FC Nürnberg           2-1 (1-1)
+  Sat Nov/8
+    13.00  FC St. Pauli            v 1. FC Heidenheim 1846    0-3 (0-2)
+           SV Darmstadt 98         v RB Leipzig               1-0 (1-0)
+  Sun Nov/9
+    13.30  SpVgg Greuther Fürth    v Karlsruher SC            0-3 (0-0)
+           FC Ingolstadt 04        v 1. FC Union Berlin       3-3 (2-2)
+           Erzgebirge Aue          v Eintracht Braunschweig   1-2 (1-1)
+  Mon Nov/10
+    20.15  TSV 1860 München        v Fortuna Düsseldorf       0-1 (0-1)
+
+
+» Matchday 14
+  Fri Nov/21
+    18.30  VfL Bochum              v VfR Aalen                4-0 (1-0)
+           1. FC Heidenheim 1846   v SV Sandhausen            3-0 (1-0)
+    20.30  1. FC Kaiserslautern    v SV Darmstadt 98          0-0
+  Sat Nov/22
+    13.00  1. FC Union Berlin      v TSV 1860 München         1-4 (0-2)
+           FSV Frankfurt           v Eintracht Braunschweig   0-3 (0-2)
+  Sun Nov/23
+    13.30  1. FC Nürnberg          v FC Ingolstadt 04         2-1 (2-0)
+           Karlsruher SC           v Erzgebirge Aue           1-0 (0-0)
+           RB Leipzig              v FC St. Pauli             4-1 (2-0)
+  Mon Nov/24
+    20.15  Fortuna Düsseldorf      v SpVgg Greuther Fürth     3-3 (1-1)
+
+
+» Matchday 15
+  Fri Nov/28
+    18.30  SpVgg Greuther Fürth    v 1. FC Heidenheim 1846    0-0
+           Erzgebirge Aue          v 1. FC Union Berlin       1-2 (0-0)
+           SV Darmstadt 98         v Karlsruher SC            0-0
+  Sat Nov/29
+    13.00  FC Ingolstadt 04        v VfL Bochum               3-0 (1-0)
+           VfR Aalen               v Fortuna Düsseldorf       2-0 (1-0)
+  Sun Nov/30
+    13.30  TSV 1860 München        v FSV Frankfurt            0-2 (0-1)
+           FC St. Pauli            v 1. FC Kaiserslautern     1-3 (0-2)
+           SV Sandhausen           v RB Leipzig               0-0
+  Mon Dec/1
+    20.15  Eintracht Braunschweig  v 1. FC Nürnberg           1-0 (1-0)
+
+
+» Matchday 16
+  Fri Dec/5
+    18.30  Fortuna Düsseldorf      v SV Sandhausen            1-3 (1-1)
+           VfL Bochum              v FC St. Pauli             3-3 (1-2)
+           1. FC Heidenheim 1846   v VfR Aalen                0-1 (0-0)
+  Sat Dec/6
+    13.00  1. FC Kaiserslautern    v Erzgebirge Aue           3-0 (3-0)
+           SV Darmstadt 98         v SpVgg Greuther Fürth     0-0
+  Sun Dec/7
+    13.30  Karlsruher SC           v Eintracht Braunschweig   1-0 (1-0)
+           1. FC Union Berlin      v FSV Frankfurt            2-1 (0-0)
+           RB Leipzig              v FC Ingolstadt 04         0-1 (0-1)
+  Mon Dec/8
+    20.15  1. FC Nürnberg          v TSV 1860 München         2-1 (2-1)
+
+
+» Matchday 17
+  Fri Dec/12
+    18.30  SpVgg Greuther Fürth    v RB Leipzig               0-1 (0-0)
+           SV Sandhausen           v VfL Bochum               0-0
+           Erzgebirge Aue          v 1. FC Heidenheim 1846    1-1 (1-0)
+  Sat Dec/13
+    13.00  Eintracht Braunschweig  v 1. FC Union Berlin       1-1 (1-1)
+           TSV 1860 München        v Karlsruher SC            2-3 (1-0)
+           FSV Frankfurt           v Fortuna Düsseldorf       0-2 (0-1)
+  Sun Dec/14
+    13.30  FC St. Pauli            v SV Darmstadt 98          0-1 (0-0)
+           FC Ingolstadt 04        v 1. FC Kaiserslautern     2-0 (0-0)
+           VfR Aalen               v 1. FC Nürnberg           1-2 (0-1)
+
+
+» Matchday 18
+  Tue Dec/16
+    17.30  Eintracht Braunschweig  v Fortuna Düsseldorf       2-1 (0-0)
+           SpVgg Greuther Fürth    v VfL Bochum               0-0
+           FSV Frankfurt           v 1. FC Heidenheim 1846    2-0 (1-0)
+           1. FC Union Berlin      v Karlsruher SC            2-0 (1-0)
+  Wed Dec/17
+    17.30  Erzgebirge Aue          v 1. FC Nürnberg           0-1 (0-0)
+           VfR Aalen               v RB Leipzig               0-0
+           SV Sandhausen           v SV Darmstadt 98          1-2 (0-1)
+           FC Ingolstadt 04        v FC St. Pauli             2-1 (1-0)
+           TSV 1860 München        v 1. FC Kaiserslautern     1-1 (1-0)
+
+
+» Matchday 19
+  Fri Dec/19
+    18.30  1. FC Heidenheim 1846   v Eintracht Braunschweig   0-1 (0-0)
+           Fortuna Düsseldorf      v 1. FC Union Berlin       1-0 (0-0)
+           Karlsruher SC           v FSV Frankfurt            4-1 (2-0)
+  Sat Dec/20
+    13.00  1. FC Nürnberg          v SpVgg Greuther Fürth     0-0
+           FC St. Pauli            v VfR Aalen                3-1 (1-0)
+  Sun Dec/21
+    13.30  SV Darmstadt 98         v FC Ingolstadt 04         2-2 (1-2)
+           1. FC Kaiserslautern    v SV Sandhausen            1-0 (0-0)
+           VfL Bochum              v Erzgebirge Aue           1-1 (0-1)
+  Mon Dec/22
+    20.15  RB Leipzig              v TSV 1860 München         1-1 (1-0)
+
+
+» Matchday 20
+  Fri Feb/6 2015
+    18.30  SpVgg Greuther Fürth    v FC Ingolstadt 04         0-1 (0-1)
+           Erzgebirge Aue          v RB Leipzig               2-0 (1-0)
+           VfR Aalen               v SV Darmstadt 98          0-0
+  Sat Feb/7
+    13.00  SV Sandhausen           v FC St. Pauli             0-0
+           1. FC Union Berlin      v VfL Bochum               2-1 (0-1)
+  Sun Feb/8
+    13.30  Eintracht Braunschweig  v 1. FC Kaiserslautern     0-2 (0-1)
+           Karlsruher SC           v Fortuna Düsseldorf       1-1 (0-0)
+           FSV Frankfurt           v 1. FC Nürnberg           2-1 (1-1)
+  Mon Feb/9
+    20.15  TSV 1860 München        v 1. FC Heidenheim 1846    1-2 (1-0)
+
+
+» Matchday 21
+  Fri Feb/13
+    18.30  VfL Bochum              v Eintracht Braunschweig   3-2 (2-1)
+           1. FC Heidenheim 1846   v Karlsruher SC            0-1 (0-1)
+           Fortuna Düsseldorf      v Erzgebirge Aue           2-3 (1-3)
+  Sat Feb/14
+    13.00  1. FC Kaiserslautern    v VfR Aalen                1-0 (1-0)
+           FC Ingolstadt 04        v SV Sandhausen            1-3 (0-2)
+  Sun Feb/15
+    13.30  SV Darmstadt 98         v TSV 1860 München         1-1 (0-1)
+           1. FC Nürnberg          v 1. FC Union Berlin       3-1 (1-1)
+           RB Leipzig              v FSV Frankfurt            0-1 (0-0)
+  Mon Feb/16
+    20.15  FC St. Pauli            v SpVgg Greuther Fürth     0-1 (0-1)
+
+
+» Matchday 22
+  Fri Feb/20
+    18.30  VfR Aalen               v FC Ingolstadt 04         1-1 (0-0)
+           SpVgg Greuther Fürth    v SV Sandhausen            0-0
+           Erzgebirge Aue          v SV Darmstadt 98          0-1 (0-0)
+  Sat Feb/21
+    13.00  TSV 1860 München        v FC St. Pauli             2-1 (1-0)
+           Karlsruher SC           v VfL Bochum               0-0
+  Sun Feb/22
+    13.30  Fortuna Düsseldorf      v 1. FC Nürnberg           1-3 (0-0)
+           FSV Frankfurt           v 1. FC Kaiserslautern     2-0 (0-0)
+           1. FC Union Berlin      v 1. FC Heidenheim 1846    3-1 (2-1)
+  Mon Feb/23
+    20.15  Eintracht Braunschweig  v RB Leipzig               1-1 (1-0)
+
+
+» Matchday 23
+  Fri Feb/27
+    18.30  SV Darmstadt 98         v Eintracht Braunschweig   1-0 (0-0)
+           1. FC Kaiserslautern    v SpVgg Greuther Fürth     2-1 (1-0)
+           VfL Bochum              v FSV Frankfurt            3-3 (1-0)
+  Sat Feb/28
+    13.00  1. FC Nürnberg          v Karlsruher SC            1-1 (1-1)
+           SV Sandhausen           v VfR Aalen                2-0 (0-0)
+  Sun Mar/1
+    13.30  1. FC Heidenheim 1846   v Fortuna Düsseldorf       1-2 (1-1)
+           RB Leipzig              v 1. FC Union Berlin       3-2 (3-2)
+           FC St. Pauli            v Erzgebirge Aue           0-0
+  Mon Mar/2
+    20.15  FC Ingolstadt 04        v TSV 1860 München         1-1 (1-0)
+
+
+» Matchday 24
+  Fri Mar/6
+    18.30  Erzgebirge Aue          v FC Ingolstadt 04         0-3 (0-0)
+           Fortuna Düsseldorf      v VfL Bochum               2-2 (2-2)
+           1. FC Nürnberg          v 1. FC Heidenheim 1846    0-1 (0-1)
+  Sat Mar/7
+    13.00  VfR Aalen               v SpVgg Greuther Fürth     1-1 (0-1)
+           Eintracht Braunschweig  v FC St. Pauli             0-2 (0-1)
+  Sun Mar/8
+    13.30  1. FC Union Berlin      v 1. FC Kaiserslautern     0-0
+           TSV 1860 München        v SV Sandhausen            2-3 (1-1)
+           FSV Frankfurt           v SV Darmstadt 98          1-1 (0-0)
+  Mon Mar/9
+    20.15  Karlsruher SC           v RB Leipzig               0-0
+
+
+» Matchday 25
+  Fri Mar/13
+    18.30  SpVgg Greuther Fürth    v TSV 1860 München         0-3 (0-1)
+           SV Darmstadt 98         v 1. FC Union Berlin       5-0 (2-0)
+           VfL Bochum              v 1. FC Heidenheim 1846    4-1 (2-1)
+  Sat Mar/14
+    13.00  1. FC Kaiserslautern    v 1. FC Nürnberg           2-1 (2-0)
+           FC St. Pauli            v FSV Frankfurt            1-1 (0-0)
+  Sun Mar/15
+    13.30  SV Sandhausen           v Eintracht Braunschweig   0-1 (0-0)
+           FC Ingolstadt 04        v Karlsruher SC            1-3 (1-1)
+           VfR Aalen               v Erzgebirge Aue           3-0 (1-0)
+  Mon Mar/16
+    20.15  RB Leipzig              v Fortuna Düsseldorf       3-1 (2-0)
+
+
+» Matchday 26
+  Fri Mar/20
+    18.30  1. FC Union Berlin      v FC St. Pauli             1-0 (0-0)
+           TSV 1860 München        v VfR Aalen                1-1 (0-0)
+           FSV Frankfurt           v SV Sandhausen            1-1 (0-1)
+  Sat Mar/21
+    13.00  Eintracht Braunschweig  v FC Ingolstadt 04         0-0
+           Fortuna Düsseldorf      v SV Darmstadt 98          2-0 (1-0)
+  Sun Mar/22
+    13.30  Erzgebirge Aue          v SpVgg Greuther Fürth     0-0
+           Karlsruher SC           v 1. FC Kaiserslautern     0-0
+           1. FC Heidenheim 1846   v RB Leipzig               1-0 (0-0)
+  Mon Mar/23
+    20.15  1. FC Nürnberg          v VfL Bochum               1-2 (0-1)
+
+
+» Matchday 27
+  Sat Apr/4
+    13.00  SpVgg Greuther Fürth    v Eintracht Braunschweig   1-2 (1-1)
+           1. FC Kaiserslautern    v 1. FC Heidenheim 1846    4-0 (2-0)
+  Sun Apr/5
+    13.30  RB Leipzig              v 1. FC Nürnberg           2-1 (0-1)
+           VfR Aalen               v Karlsruher SC            2-2 (0-1)
+           SV Sandhausen           v 1. FC Union Berlin       1-1 (1-0)
+           FC Ingolstadt 04        v FSV Frankfurt            2-0 (1-0)
+           TSV 1860 München        v Erzgebirge Aue           0-1 (0-1)
+    13.40  SV Darmstadt 98         v VfL Bochum               2-0 (1-0)
+  Mon Apr/6
+    20.15  FC St. Pauli            v Fortuna Düsseldorf       4-0 (3-0)
+
+
+» Matchday 28
+  Fri Apr/10
+    18.30  Karlsruher SC           v FC St. Pauli             3-0 (2-0)
+           1. FC Heidenheim 1846   v FC Ingolstadt 04         0-1 (0-1)
+    18.45  1. FC Nürnberg          v SV Darmstadt 98          1-1 (1-0)
+  Sat Apr/11
+    13.00  FSV Frankfurt           v SpVgg Greuther Fürth     1-1 (1-0)
+           Eintracht Braunschweig  v TSV 1860 München         2-0 (1-0)
+  Sun Apr/12
+    13.30  1. FC Union Berlin      v VfR Aalen                1-1 (0-0)
+           Erzgebirge Aue          v SV Sandhausen            0-1 (0-0)
+           VfL Bochum              v RB Leipzig               1-2 (0-1)
+  Mon Apr/13
+    20.15  Fortuna Düsseldorf      v 1. FC Kaiserslautern     1-1 (0-1)
+
+
+» Matchday 29
+  Fri Apr/17
+    18.30  FC St. Pauli            v 1. FC Nürnberg           1-0 (0-0)
+           SV Sandhausen           v Karlsruher SC            0-0
+           FC Ingolstadt 04        v Fortuna Düsseldorf       3-2 (0-1)
+  Sat Apr/18
+    13.00  VfR Aalen               v Eintracht Braunschweig   2-1 (0-0)
+           TSV 1860 München        v VfL Bochum               2-1 (0-1)
+  Sun Apr/19
+    13.30  SpVgg Greuther Fürth    v 1. FC Union Berlin       2-2 (0-1)
+           Erzgebirge Aue          v FSV Frankfurt            1-0 (0-0)
+           SV Darmstadt 98         v 1. FC Heidenheim 1846    1-1 (0-0)
+  Mon Apr/20
+    20.15  1. FC Kaiserslautern    v RB Leipzig               1-1 (1-1)
+
+
+» Matchday 30
+  Fri Apr/24
+    18.30  1. FC Nürnberg          v SV Sandhausen            2-0 (0-0)
+           RB Leipzig              v SV Darmstadt 98          2-1 (0-0)
+    18.45  VfL Bochum              v 1. FC Kaiserslautern     0-2 (0-1)
+  Sat Apr/25
+    13.00  Karlsruher SC           v SpVgg Greuther Fürth     2-1 (0-1)
+           Fortuna Düsseldorf      v TSV 1860 München         1-1 (0-1)
+  Sun Apr/26
+    13.30  1. FC Heidenheim 1846   v FC St. Pauli             2-1 (0-0)
+           1. FC Union Berlin      v FC Ingolstadt 04         2-2 (0-1)
+           FSV Frankfurt           v VfR Aalen                1-1 (1-0)
+  Mon Apr/27
+    20.15  Eintracht Braunschweig  v Erzgebirge Aue           4-2 (1-2)
+
+
+» Matchday 31
+  Sat May/2
+    13.00  SV Darmstadt 98         v 1. FC Kaiserslautern     3-2 (3-1)
+           Eintracht Braunschweig  v FSV Frankfurt            2-0 (0-0)
+  Sun May/3
+    13.30  Erzgebirge Aue          v Karlsruher SC            3-1 (1-0)
+           SpVgg Greuther Fürth    v Fortuna Düsseldorf       3-0 (1-0)
+           TSV 1860 München        v 1. FC Union Berlin       0-3 (0-1)
+           VfR Aalen               v VfL Bochum               2-4 (0-2)
+           SV Sandhausen           v 1. FC Heidenheim 1846    2-2 (0-0)
+           FC St. Pauli            v RB Leipzig               1-0 (1-0)
+  Mon May/4
+    20.15  FC Ingolstadt 04        v 1. FC Nürnberg           1-1 (0-0)
+
+
+» Matchday 32
+  Fri May/8
+    18.30  FSV Frankfurt           v TSV 1860 München         0-1 (0-0)
+           Fortuna Düsseldorf      v VfR Aalen                0-2 (0-1)
+           RB Leipzig              v SV Sandhausen            0-4 (0-1)
+  Sat May/9
+    13.00  1. FC Kaiserslautern    v FC St. Pauli             0-2 (0-0)
+           1. FC Union Berlin      v Erzgebirge Aue           1-2 (0-1)
+  Sun May/10
+    13.30  1. FC Nürnberg          v Eintracht Braunschweig   3-1 (1-0)
+           1. FC Heidenheim 1846   v SpVgg Greuther Fürth     3-0 (2-0)
+           VfL Bochum              v FC Ingolstadt 04         3-1 (1-1)
+  Mon May/11
+    20.15  Karlsruher SC           v SV Darmstadt 98          0-1 (0-0)
+
+
+» Matchday 33
+  Sun May/17
+    15.30  TSV 1860 München        v 1. FC Nürnberg           2-1 (0-1)
+           Erzgebirge Aue          v 1. FC Kaiserslautern     0-0
+           Eintracht Braunschweig  v Karlsruher SC            0-2 (0-1)
+           SV Sandhausen           v Fortuna Düsseldorf       0-2 (0-1)
+           FSV Frankfurt           v 1. FC Union Berlin       1-3 (1-1)
+           FC St. Pauli            v VfL Bochum               5-1 (2-1)
+           VfR Aalen               v 1. FC Heidenheim 1846    2-4 (1-2)
+           FC Ingolstadt 04        v RB Leipzig               2-1 (1-1)
+           SpVgg Greuther Fürth    v SV Darmstadt 98          1-0 (0-0)
+
+
+» Matchday 34
+  Sun May/24
+    15.30  1. FC Union Berlin      v Eintracht Braunschweig   2-0 (0-0)
+           RB Leipzig              v SpVgg Greuther Fürth     2-0 (2-0)
+           Karlsruher SC           v TSV 1860 München         2-0 (1-0)
+           SV Darmstadt 98         v FC St. Pauli             1-0 (0-0)
+           1. FC Kaiserslautern    v FC Ingolstadt 04         1-1 (1-0)
+           1. FC Nürnberg          v VfR Aalen                2-1 (1-0)
+           VfL Bochum              v SV Sandhausen            0-0
+           Fortuna Düsseldorf      v FSV Frankfurt            2-3 (2-2)
+           1. FC Heidenheim 1846   v Erzgebirge Aue           2-2 (0-0)

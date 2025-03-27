@@ -1,0 +1,515 @@
+= Deutsche Bundesliga 2019/20
+
+# Date       Fri Aug/16 2019 - Sat Jun/27 2020 (316d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/16 2019
+    20.30  Bayern München          v Hertha BSC               2-2 (1-2)
+  Sat Aug/17
+    15.30  Borussia Dortmund       v FC Augsburg              5-1 (1-1)
+           Bayer Leverkusen        v SC Paderborn 07          3-2 (2-2)
+           VfL Wolfsburg           v 1. FC Köln               2-1 (1-0)
+           Werder Bremen           v Fortuna Düsseldorf       1-3 (0-1)
+           SC Freiburg             v 1. FSV Mainz 05          3-0 (0-0)
+    18.30  Bor. Mönchengladbach    v FC Schalke 04            0-0
+  Sun Aug/18
+    15.30  Eintracht Frankfurt     v 1899 Hoffenheim          1-0 (1-0)
+    18.00  1. FC Union Berlin      v RB Leipzig               0-4 (0-3)
+
+
+» Matchday 2
+  Fri Aug/23
+    20.30  1. FC Köln              v Borussia Dortmund        1-3 (1-0)
+  Sat Aug/24
+    15.30  1899 Hoffenheim         v Werder Bremen            3-2 (0-1)
+           Fortuna Düsseldorf      v Bayer Leverkusen         1-3 (0-3)
+           1. FSV Mainz 05         v Bor. Mönchengladbach     1-3 (1-1)
+           FC Augsburg             v 1. FC Union Berlin       1-1 (0-0)
+           SC Paderborn 07         v SC Freiburg              1-3 (1-2)
+    18.30  FC Schalke 04           v Bayern München           0-3 (0-1)
+  Sun Aug/25
+    15.30  RB Leipzig              v Eintracht Frankfurt      2-1 (1-0)
+    18.00  Hertha BSC              v VfL Wolfsburg            0-3 (0-1)
+
+
+» Matchday 3
+  Fri Aug/30
+    20.30  Bor. Mönchengladbach    v RB Leipzig               1-3 (0-1)
+  Sat Aug/31
+    15.30  Bayern München          v 1. FSV Mainz 05          6-1 (2-1)
+           Bayer Leverkusen        v 1899 Hoffenheim          0-0
+           VfL Wolfsburg           v SC Paderborn 07          1-1 (0-1)
+           SC Freiburg             v 1. FC Köln               1-2 (1-0)
+           FC Schalke 04           v Hertha BSC               3-0 (1-0)
+    18.30  1. FC Union Berlin      v Borussia Dortmund        3-1 (1-1)
+  Sun Sep/1
+    15.30  Werder Bremen           v FC Augsburg              3-2 (2-1)
+    18.00  Eintracht Frankfurt     v Fortuna Düsseldorf       2-1 (0-1)
+
+
+» Matchday 4
+  Fri Sep/13
+    20.30  Fortuna Düsseldorf      v VfL Wolfsburg            1-1 (1-1)
+  Sat Sep/14
+    15.30  Borussia Dortmund       v Bayer Leverkusen         4-0 (1-0)
+           1. FSV Mainz 05         v Hertha BSC               2-1 (1-0)
+           FC Augsburg             v Eintracht Frankfurt      2-1 (2-0)
+           1. FC Köln              v Bor. Mönchengladbach     0-1 (0-1)
+           1. FC Union Berlin      v Werder Bremen            1-2 (1-1)
+    18.30  RB Leipzig              v Bayern München           1-1 (1-1)
+  Sun Sep/15
+    15.30  1899 Hoffenheim         v SC Freiburg              0-3 (0-2)
+    18.00  SC Paderborn 07         v FC Schalke 04            1-5 (1-1)
+
+
+» Matchday 5
+  Fri Sep/20
+    20.30  FC Schalke 04           v 1. FSV Mainz 05          2-1 (1-0)
+  Sat Sep/21
+    15.30  Bayern München          v 1. FC Köln               4-0 (1-0)
+           Bayer Leverkusen        v 1. FC Union Berlin       2-0 (2-0)
+           Hertha BSC              v SC Paderborn 07          2-1 (1-0)
+           SC Freiburg             v FC Augsburg              1-1 (1-1)
+    18.30  Werder Bremen           v RB Leipzig               0-3 (0-2)
+  Sun Sep/22
+    15.30  Bor. Mönchengladbach    v Fortuna Düsseldorf       2-1 (0-1)
+    18.00  Eintracht Frankfurt     v Borussia Dortmund        2-2 (1-1)
+  Mon Sep/23
+    20.30  VfL Wolfsburg           v 1899 Hoffenheim          1-1 (1-1)
+
+
+» Matchday 6
+  Fri Sep/27
+    20.30  1. FC Union Berlin      v Eintracht Frankfurt      1-2 (0-0)
+  Sat Sep/28
+    15.30  RB Leipzig              v FC Schalke 04            1-3 (0-2)
+           1899 Hoffenheim         v Bor. Mönchengladbach     0-3 (0-1)
+           1. FSV Mainz 05         v VfL Wolfsburg            0-1 (0-1)
+           FC Augsburg             v Bayer Leverkusen         0-3 (0-1)
+           SC Paderborn 07         v Bayern München           2-3 (0-1)
+    18.30  Borussia Dortmund       v Werder Bremen            2-2 (2-1)
+  Sun Sep/29
+    15.30  Fortuna Düsseldorf      v SC Freiburg              1-2 (1-1)
+    18.00  1. FC Köln              v Hertha BSC               0-4 (0-1)
+
+
+» Matchday 7
+  Fri Oct/4
+    20.30  Hertha BSC              v Fortuna Düsseldorf       3-1 (2-1)
+  Sat Oct/5
+    15.30  Bayern München          v 1899 Hoffenheim          1-2 (0-0)
+           Bayer Leverkusen        v RB Leipzig               1-1 (0-0)
+           SC Freiburg             v Borussia Dortmund        2-2 (0-1)
+           SC Paderborn 07         v 1. FSV Mainz 05          1-2 (1-2)
+    18.30  FC Schalke 04           v 1. FC Köln               1-1 (0-0)
+  Sun Oct/6
+    13.30  Bor. Mönchengladbach    v FC Augsburg              5-1 (4-0)
+    15.30  VfL Wolfsburg           v 1. FC Union Berlin       1-0 (0-0)
+    18.00  Eintracht Frankfurt     v Werder Bremen            2-2 (0-1)
+
+
+» Matchday 8
+  Fri Oct/18
+    20.30  Eintracht Frankfurt     v Bayer Leverkusen         3-0 (2-0)
+  Sat Oct/19
+    15.30  RB Leipzig              v VfL Wolfsburg            1-1 (0-0)
+           Werder Bremen           v Hertha BSC               1-1 (1-0)
+           Fortuna Düsseldorf      v 1. FSV Mainz 05          1-0 (0-0)
+           FC Augsburg             v Bayern München           2-2 (1-1)
+           1. FC Union Berlin      v SC Freiburg              2-0 (1-0)
+    18.30  Borussia Dortmund       v Bor. Mönchengladbach     1-0 (0-0)
+  Sun Oct/20
+    15.30  1. FC Köln              v SC Paderborn 07          3-0 (1-0)
+    18.00  1899 Hoffenheim         v FC Schalke 04            2-0 (0-0)
+
+
+» Matchday 9
+  Fri Oct/25
+    20.30  1. FSV Mainz 05         v 1. FC Köln               3-1 (1-1)
+  Sat Oct/26
+    15.30  Bayern München          v 1. FC Union Berlin       2-1 (1-0)
+           Hertha BSC              v 1899 Hoffenheim          2-3 (0-2)
+           SC Freiburg             v RB Leipzig               2-1 (1-0)
+           FC Schalke 04           v Borussia Dortmund        0-0
+           SC Paderborn 07         v Fortuna Düsseldorf       2-0 (1-0)
+    18.30  Bayer Leverkusen        v Werder Bremen            2-2 (1-1)
+  Sun Oct/27
+    15.30  VfL Wolfsburg           v FC Augsburg              0-0
+    18.00  Bor. Mönchengladbach    v Eintracht Frankfurt      4-2 (2-0)
+
+
+» Matchday 10
+  Fri Nov/1
+    20.30  1899 Hoffenheim         v SC Paderborn 07          3-0 (3-0)
+  Sat Nov/2
+    15.30  Borussia Dortmund       v VfL Wolfsburg            3-0 (0-0)
+           RB Leipzig              v 1. FSV Mainz 05          8-0 (5-0)
+           Bayer Leverkusen        v Bor. Mönchengladbach     1-2 (1-2)
+           Eintracht Frankfurt     v Bayern München           5-1 (2-1)
+           Werder Bremen           v SC Freiburg              2-2 (1-1)
+    18.30  1. FC Union Berlin      v Hertha BSC               1-0 (0-0)
+  Sun Nov/3
+    15.30  Fortuna Düsseldorf      v 1. FC Köln               2-0 (1-0)
+    18.00  FC Augsburg             v FC Schalke 04            2-3 (1-1)
+
+
+» Matchday 11
+  Fri Nov/8
+    20.30  1. FC Köln              v 1899 Hoffenheim          1-2 (1-0)
+  Sat Nov/9
+    15.30  Hertha BSC              v RB Leipzig               2-4 (1-2)
+           1. FSV Mainz 05         v 1. FC Union Berlin       2-3 (0-2)
+           FC Schalke 04           v Fortuna Düsseldorf       3-3 (1-0)
+           SC Paderborn 07         v FC Augsburg              0-1 (0-1)
+    18.30  Bayern München          v Borussia Dortmund        4-0 (1-0)
+  Sun Nov/10
+    13.30  Bor. Mönchengladbach    v Werder Bremen            3-1 (2-0)
+    15.30  VfL Wolfsburg           v Bayer Leverkusen         0-2 (0-1)
+    18.00  SC Freiburg             v Eintracht Frankfurt      1-0 (0-0)
+
+
+» Matchday 12
+  Fri Nov/22
+    20.30  Borussia Dortmund       v SC Paderborn 07          3-3 (0-3)
+  Sat Nov/23
+    15.30  Bayer Leverkusen        v SC Freiburg              1-1 (1-1)
+           Eintracht Frankfurt     v VfL Wolfsburg            0-2 (0-1)
+           Werder Bremen           v FC Schalke 04            1-2 (0-1)
+           Fortuna Düsseldorf      v Bayern München           0-4 (0-3)
+           1. FC Union Berlin      v Bor. Mönchengladbach     2-0 (1-0)
+    18.30  RB Leipzig              v 1. FC Köln               4-1 (3-1)
+  Sun Nov/24
+    15.30  FC Augsburg             v Hertha BSC               4-0 (2-0)
+    18.00  1899 Hoffenheim         v 1. FSV Mainz 05          1-5 (0-1)
+
+
+» Matchday 13
+  Fri Nov/29
+    20.30  FC Schalke 04           v 1. FC Union Berlin       2-1 (1-1)
+  Sat Nov/30
+    15.30  1899 Hoffenheim         v Fortuna Düsseldorf       1-1 (1-0)
+           Hertha BSC              v Borussia Dortmund        1-2 (1-2)
+           1. FC Köln              v FC Augsburg              1-1 (0-1)
+           SC Paderborn 07         v RB Leipzig               2-3 (0-3)
+    18.30  Bayern München          v Bayer Leverkusen         1-2 (1-2)
+  Sun Dec/1
+    15.30  Bor. Mönchengladbach    v SC Freiburg              4-2 (1-1)
+    18.00  VfL Wolfsburg           v Werder Bremen            2-3 (1-2)
+  Mon Dec/2
+    20.30  1. FSV Mainz 05         v Eintracht Frankfurt      2-1 (0-1)
+
+
+» Matchday 14
+  Fri Dec/6
+    20.30  Eintracht Frankfurt     v Hertha BSC               2-2 (0-1)
+  Sat Dec/7
+    15.30  Borussia Dortmund       v Fortuna Düsseldorf       5-0 (1-0)
+           RB Leipzig              v 1899 Hoffenheim          3-1 (1-0)
+           Bor. Mönchengladbach    v Bayern München           2-1 (0-0)
+           SC Freiburg             v VfL Wolfsburg            1-0 (0-0)
+           FC Augsburg             v 1. FSV Mainz 05          2-1 (1-1)
+    18.30  Bayer Leverkusen        v FC Schalke 04            2-1 (1-0)
+  Sun Dec/8
+    15.30  1. FC Union Berlin      v 1. FC Köln               2-0 (1-0)
+    18.00  Werder Bremen           v SC Paderborn 07          0-1 (0-0)
+
+
+» Matchday 15
+  Fri Dec/13
+    20.30  1899 Hoffenheim         v FC Augsburg              2-4 (1-1)
+  Sat Dec/14
+    15.30  Bayern München          v Werder Bremen            6-1 (2-1)
+           Hertha BSC              v SC Freiburg              1-0 (0-0)
+           1. FSV Mainz 05         v Borussia Dortmund        0-4 (0-1)
+           1. FC Köln              v Bayer Leverkusen         2-0 (0-0)
+           SC Paderborn 07         v 1. FC Union Berlin       1-1 (1-1)
+    18.30  Fortuna Düsseldorf      v RB Leipzig               0-3 (0-1)
+  Sun Dec/15
+    15.30  VfL Wolfsburg           v Bor. Mönchengladbach     2-1 (1-1)
+    18.00  FC Schalke 04           v Eintracht Frankfurt      1-0 (0-0)
+
+
+» Matchday 16
+  Tue Dec/17
+    18.30  Werder Bremen           v 1. FSV Mainz 05          0-5 (0-4)
+    20.30  Borussia Dortmund       v RB Leipzig               3-3 (2-0)
+           FC Augsburg             v Fortuna Düsseldorf       3-0 (1-0)
+           1. FC Union Berlin      v 1899 Hoffenheim          0-2 (0-0)
+  Wed Dec/18
+    18.30  Bayer Leverkusen        v Hertha BSC               0-1 (0-0)
+    20.30  Bor. Mönchengladbach    v SC Paderborn 07          2-0 (0-0)
+           VfL Wolfsburg           v FC Schalke 04            1-1 (0-0)
+           Eintracht Frankfurt     v 1. FC Köln               2-4 (2-1)
+           SC Freiburg             v Bayern München           1-3 (0-1)
+
+
+» Matchday 17
+  Fri Dec/20
+    20.30  1899 Hoffenheim         v Borussia Dortmund        2-1 (0-1)
+  Sat Dec/21
+    15.30  Bayern München          v VfL Wolfsburg            2-0 (0-0)
+           RB Leipzig              v FC Augsburg              3-1 (0-1)
+           1. FSV Mainz 05         v Bayer Leverkusen         0-1 (0-0)
+           FC Schalke 04           v SC Freiburg              2-2 (1-0)
+           1. FC Köln              v Werder Bremen            1-0 (1-0)
+    18.30  Hertha BSC              v Bor. Mönchengladbach     0-0
+  Sun Dec/22
+    15.30  Fortuna Düsseldorf      v 1. FC Union Berlin       2-1 (1-0)
+    18.00  SC Paderborn 07         v Eintracht Frankfurt      2-1 (2-0)
+
+
+» Matchday 18
+  Fri Jan/17 2020
+    20.30  FC Schalke 04           v Bor. Mönchengladbach     2-0 (0-0)
+  Sat Jan/18
+    15.30  FC Augsburg             v Borussia Dortmund        3-5 (1-0)
+           1. FC Köln              v VfL Wolfsburg            3-1 (2-0)
+           1899 Hoffenheim         v Eintracht Frankfurt      1-2 (0-1)
+           Fortuna Düsseldorf      v Werder Bremen            0-1 (0-0)
+           1. FSV Mainz 05         v SC Freiburg              1-2 (0-2)
+    18.30  RB Leipzig              v 1. FC Union Berlin       3-1 (0-1)
+  Sun Jan/19
+    15.30  Hertha BSC              v Bayern München           0-4 (0-0)
+    18.00  SC Paderborn 07         v Bayer Leverkusen         1-4 (0-3)
+
+
+» Matchday 19
+  Fri Jan/24
+    20.30  Borussia Dortmund       v 1. FC Köln               5-1 (2-0)
+  Sat Jan/25
+    15.30  Eintracht Frankfurt     v RB Leipzig               2-0 (0-0)
+           VfL Wolfsburg           v Hertha BSC               1-2 (0-0)
+           Bor. Mönchengladbach    v 1. FSV Mainz 05          3-1 (1-1)
+           1. FC Union Berlin      v FC Augsburg              2-0 (0-0)
+           SC Freiburg             v SC Paderborn 07          0-2 (0-0)
+    18.30  Bayern München          v FC Schalke 04            5-0 (2-0)
+  Sun Jan/26
+    15.30  Werder Bremen           v 1899 Hoffenheim          0-3 (0-0)
+    18.00  Bayer Leverkusen        v Fortuna Düsseldorf       3-0 (1-0)
+
+
+» Matchday 20
+  Fri Jan/31
+    20.30  Hertha BSC              v FC Schalke 04            0-0
+  Sat Feb/1
+    15.30  1. FSV Mainz 05         v Bayern München           1-3 (1-3)
+           1899 Hoffenheim         v Bayer Leverkusen         2-1 (1-1)
+           Fortuna Düsseldorf      v Eintracht Frankfurt      1-1 (0-0)
+           FC Augsburg             v Werder Bremen            2-1 (0-1)
+           Borussia Dortmund       v 1. FC Union Berlin       5-0 (2-0)
+    18.30  RB Leipzig              v Bor. Mönchengladbach     2-2 (0-2)
+  Sun Feb/2
+    15.30  1. FC Köln              v SC Freiburg              4-0 (1-0)
+    18.00  SC Paderborn 07         v VfL Wolfsburg            2-4 (1-2)
+
+
+» Matchday 21
+  Fri Feb/7
+    20.30  Eintracht Frankfurt     v FC Augsburg              5-0 (1-0)
+  Sat Feb/8
+    15.30  SC Freiburg             v 1899 Hoffenheim          1-0 (1-0)
+           VfL Wolfsburg           v Fortuna Düsseldorf       1-1 (0-1)
+           Hertha BSC              v 1. FSV Mainz 05          1-3 (0-1)
+           FC Schalke 04           v SC Paderborn 07          1-1 (0-0)
+           Werder Bremen           v 1. FC Union Berlin       0-2 (0-0)
+    18.30  Bayer Leverkusen        v Borussia Dortmund        4-3 (2-2)
+  Sun Feb/9
+    18.00  Bayern München          v RB Leipzig               0-0
+  Wed Mar/11
+    18.30  Bor. Mönchengladbach    v 1. FC Köln               2-1 (1-0)
+
+
+» Matchday 22
+  Fri Feb/14
+    20.30  Borussia Dortmund       v Eintracht Frankfurt      4-0 (1-0)
+  Sat Feb/15
+    15.30  1. FC Union Berlin      v Bayer Leverkusen         2-3 (1-1)
+           1899 Hoffenheim         v VfL Wolfsburg            2-3 (1-1)
+           RB Leipzig              v Werder Bremen            3-0 (2-0)
+           SC Paderborn 07         v Hertha BSC               1-2 (0-1)
+           FC Augsburg             v SC Freiburg              1-1 (1-0)
+    18.30  Fortuna Düsseldorf      v Bor. Mönchengladbach     1-4 (1-1)
+  Sun Feb/16
+    15.30  1. FC Köln              v Bayern München           1-4 (0-3)
+    18.00  1. FSV Mainz 05         v FC Schalke 04            0-0
+
+
+» Matchday 23
+  Fri Feb/21
+    20.30  Bayern München          v SC Paderborn 07          3-2 (1-1)
+  Sat Feb/22
+    15.30  Werder Bremen           v Borussia Dortmund        0-2 (0-0)
+           Bor. Mönchengladbach    v 1899 Hoffenheim          1-1 (1-0)
+           SC Freiburg             v Fortuna Düsseldorf       0-2 (0-1)
+           Hertha BSC              v 1. FC Köln               0-5 (0-3)
+    18.30  FC Schalke 04           v RB Leipzig               0-5 (0-1)
+  Sun Feb/23
+    15.30  Bayer Leverkusen        v FC Augsburg              2-0 (1-0)
+    18.00  VfL Wolfsburg           v 1. FSV Mainz 05          4-0 (2-0)
+  Mon Feb/24
+    20.30  Eintracht Frankfurt     v 1. FC Union Berlin       1-2 (0-0)
+
+
+» Matchday 24
+  Fri Feb/28
+    20.30  Fortuna Düsseldorf      v Hertha BSC               3-3 (3-0)
+  Sat Feb/29
+    15.30  1899 Hoffenheim         v Bayern München           0-6 (0-4)
+           FC Augsburg             v Bor. Mönchengladbach     2-3 (0-0)
+           Borussia Dortmund       v SC Freiburg              1-0 (1-0)
+           1. FSV Mainz 05         v SC Paderborn 07          2-0 (2-0)
+    18.30  1. FC Köln              v FC Schalke 04            3-0 (2-0)
+  Sun Mar/1
+    13.30  1. FC Union Berlin      v VfL Wolfsburg            2-2 (1-0)
+    15.30  RB Leipzig              v Bayer Leverkusen         1-1 (1-1)
+  Wed Jun/3
+    20.30  Werder Bremen           v Eintracht Frankfurt      0-3 (0-0)
+
+
+» Matchday 25
+  Fri Mar/6
+    20.00  SC Paderborn 07         v 1. FC Köln               1-2 (0-2)
+  Sat Mar/7
+    15.30  VfL Wolfsburg           v RB Leipzig               0-0
+           Bayer Leverkusen        v Eintracht Frankfurt      4-0 (2-0)
+           Hertha BSC              v Werder Bremen            2-2 (1-2)
+           FC Schalke 04           v 1899 Hoffenheim          1-1 (1-0)
+           SC Freiburg             v 1. FC Union Berlin       3-1 (1-0)
+    18.30  Bor. Mönchengladbach    v Borussia Dortmund        1-2 (0-1)
+  Sun Mar/8
+    15.30  Bayern München          v FC Augsburg              2-0 (0-0)
+    18.00  1. FSV Mainz 05         v Fortuna Düsseldorf       1-1 (0-0)
+
+
+» Matchday 26
+  Sat May/16
+    15.30  FC Augsburg             v VfL Wolfsburg            1-2 (0-1)
+           1899 Hoffenheim         v Hertha BSC               0-3 (0-0)
+           RB Leipzig              v SC Freiburg              1-1 (0-1)
+           Borussia Dortmund       v FC Schalke 04            4-0 (2-0)
+           Fortuna Düsseldorf      v SC Paderborn 07          0-0
+    18.30  Eintracht Frankfurt     v Bor. Mönchengladbach     1-3 (0-2)
+  Sun May/17
+    15.30  1. FC Köln              v 1. FSV Mainz 05          2-2 (1-0)
+    18.00  1. FC Union Berlin      v Bayern München           0-2 (0-1)
+  Mon May/18
+    20.30  Werder Bremen           v Bayer Leverkusen         1-4 (1-2)
+
+
+» Matchday 27
+  Fri May/22
+    20.30  Hertha BSC              v 1. FC Union Berlin       4-0 (0-0)
+  Sat May/23
+    15.30  VfL Wolfsburg           v Borussia Dortmund        0-2 (0-1)
+           Bor. Mönchengladbach    v Bayer Leverkusen         1-3 (0-1)
+           SC Freiburg             v Werder Bremen            0-1 (0-1)
+           SC Paderborn 07         v 1899 Hoffenheim          1-1 (1-1)
+    18.30  Bayern München          v Eintracht Frankfurt      5-2 (2-0)
+  Sun May/24
+    13.30  FC Schalke 04           v FC Augsburg              0-3 (0-1)
+    15.30  1. FSV Mainz 05         v RB Leipzig               0-5 (0-3)
+    18.00  1. FC Köln              v Fortuna Düsseldorf       2-2 (0-1)
+
+
+» Matchday 28
+  Tue May/26
+    18.30  Borussia Dortmund       v Bayern München           0-1 (0-1)
+    20.30  Werder Bremen           v Bor. Mönchengladbach     0-0
+           Bayer Leverkusen        v VfL Wolfsburg            1-4 (0-1)
+           Eintracht Frankfurt     v SC Freiburg              3-3 (1-1)
+  Wed May/27
+    18.30  RB Leipzig              v Hertha BSC               2-2 (1-1)
+    20.30  1. FC Union Berlin      v 1. FSV Mainz 05          1-1 (1-1)
+           Fortuna Düsseldorf      v FC Schalke 04            2-1 (0-0)
+           1899 Hoffenheim         v 1. FC Köln               3-1 (1-0)
+           FC Augsburg             v SC Paderborn 07          0-0
+
+
+» Matchday 29
+  Fri May/29
+    20.30  SC Freiburg             v Bayer Leverkusen         0-1 (0-0)
+  Sat May/30
+    15.30  VfL Wolfsburg           v Eintracht Frankfurt      1-2 (0-1)
+           FC Schalke 04           v Werder Bremen            0-1 (0-1)
+           1. FSV Mainz 05         v 1899 Hoffenheim          0-1 (0-1)
+           Hertha BSC              v FC Augsburg              2-0 (1-0)
+    18.30  Bayern München          v Fortuna Düsseldorf       5-0 (3-0)
+  Sun May/31
+    15.30  Bor. Mönchengladbach    v 1. FC Union Berlin       4-1 (2-0)
+    18.00  SC Paderborn 07         v Borussia Dortmund        1-6 (0-0)
+  Mon Jun/1
+    20.30  1. FC Köln              v RB Leipzig               2-4 (1-2)
+
+
+» Matchday 30
+  Fri Jun/5
+    20.30  SC Freiburg             v Bor. Mönchengladbach     1-0 (0-0)
+  Sat Jun/6
+    15.30  Bayer Leverkusen        v Bayern München           2-4 (1-3)
+           Fortuna Düsseldorf      v 1899 Hoffenheim          2-2 (1-1)
+           Eintracht Frankfurt     v 1. FSV Mainz 05          0-2 (0-1)
+           RB Leipzig              v SC Paderborn 07          1-1 (1-0)
+    18.30  Borussia Dortmund       v Hertha BSC               1-0 (0-0)
+  Sun Jun/7
+    13.30  Werder Bremen           v VfL Wolfsburg            0-1 (0-0)
+    15.30  1. FC Union Berlin      v FC Schalke 04            1-1 (1-1)
+    18.00  FC Augsburg             v 1. FC Köln               1-1 (0-0)
+
+
+» Matchday 31
+  Fri Jun/12
+    20.30  1899 Hoffenheim         v RB Leipzig               0-2 (0-2)
+  Sat Jun/13
+    15.30  Fortuna Düsseldorf      v Borussia Dortmund        0-1 (0-0)
+           Hertha BSC              v Eintracht Frankfurt      1-4 (1-0)
+           SC Paderborn 07         v Werder Bremen            1-5 (0-3)
+           VfL Wolfsburg           v SC Freiburg              2-2 (2-1)
+           1. FC Köln              v 1. FC Union Berlin       1-2 (0-1)
+    18.30  Bayern München          v Bor. Mönchengladbach     2-1 (1-1)
+  Sun Jun/14
+    15.30  1. FSV Mainz 05         v FC Augsburg              0-1 (0-1)
+    18.00  FC Schalke 04           v Bayer Leverkusen         1-1 (0-0)
+
+
+» Matchday 32
+  Tue Jun/16
+    18.30  Bor. Mönchengladbach    v VfL Wolfsburg            3-0 (2-0)
+    20.30  Werder Bremen           v Bayern München           0-1 (0-1)
+           SC Freiburg             v Hertha BSC               2-1 (0-0)
+           1. FC Union Berlin      v SC Paderborn 07          1-0 (1-0)
+  Wed Jun/17
+    18.30  Eintracht Frankfurt     v FC Schalke 04            2-1 (1-0)
+    20.30  FC Augsburg             v 1899 Hoffenheim          1-3 (0-0)
+           RB Leipzig              v Fortuna Düsseldorf       2-2 (0-0)
+           Borussia Dortmund       v 1. FSV Mainz 05          0-2 (0-1)
+           Bayer Leverkusen        v 1. FC Köln               3-1 (2-0)
+
+
+» Matchday 33
+  Sat Jun/20
+    15.30  RB Leipzig              v Borussia Dortmund        0-2 (0-1)
+           Hertha BSC              v Bayer Leverkusen         2-0 (1-0)
+           SC Paderborn 07         v Bor. Mönchengladbach     1-3 (0-1)
+           FC Schalke 04           v VfL Wolfsburg            1-4 (0-1)
+           1. FC Köln              v Eintracht Frankfurt      1-1 (1-0)
+           1. FSV Mainz 05         v Werder Bremen            3-1 (2-0)
+           Bayern München          v SC Freiburg              3-1 (3-1)
+           Fortuna Düsseldorf      v FC Augsburg              1-1 (1-1)
+           1899 Hoffenheim         v 1. FC Union Berlin       4-0 (3-0)
+
+
+» Matchday 34
+  Sat Jun/27
+    15.30  VfL Wolfsburg           v Bayern München           0-4 (0-2)
+           FC Augsburg             v RB Leipzig               1-2 (0-1)
+           Borussia Dortmund       v 1899 Hoffenheim          0-4 (0-2)
+           1. FC Union Berlin      v Fortuna Düsseldorf       3-0 (1-0)
+           Bor. Mönchengladbach    v Hertha BSC               2-1 (1-0)
+           Bayer Leverkusen        v 1. FSV Mainz 05          1-0 (1-0)
+           SC Freiburg             v FC Schalke 04            4-0 (2-0)
+           Werder Bremen           v 1. FC Köln               6-1 (3-0)
+           Eintracht Frankfurt     v SC Paderborn 07          3-2 (2-0)

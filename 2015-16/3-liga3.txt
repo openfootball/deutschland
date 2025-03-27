@@ -1,0 +1,603 @@
+= Deutsche 3. Liga 2015/16
+
+# Date       Fri Jul/24 2015 - Sat May/14 2016 (295d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Jul/24 2015
+    20.30  1. FC Magdeburg         v Rot-Weiß Erfurt          2-1 (0-1)
+  Sat Jul/25
+    14.00  Erzgebirge Aue          v VfL Osnabrück            0-0
+           Dynamo Dresden          v VfB Stuttgart II         4-1 (2-0)
+           SV Wehen Wiesbaden      v Würzburger Kickers       0-0
+           Holstein Kiel           v 1. FSV Mainz 05 II       0-4 (0-3)
+           Hansa Rostock           v Werder Bremen II         1-2 (1-0)
+           VfR Aalen               v Chemnitzer FC            0-0
+           Stuttgarter Kickers     v Fortuna Köln             2-1 (1-0)
+           Preußen Münster         v SG Sonnenhof Großaspach  1-1 (0-0)
+  Sun Jul/26
+    14.00  Energie Cottbus         v Hallescher FC            2-0 (1-0)
+
+
+» Matchday 2
+  Fri Jul/31
+    19.00  1. FSV Mainz 05 II      v 1. FC Magdeburg          2-2 (0-2)
+           VfB Stuttgart II        v Preußen Münster          1-3 (1-2)
+  Sat Aug/1
+    14.00  Fortuna Köln            v VfR Aalen                1-1 (1-0)
+           Chemnitzer FC           v Hansa Rostock            1-1 (0-0)
+           Werder Bremen II        v Energie Cottbus          0-2 (0-1)
+           Rot-Weiß Erfurt         v SV Wehen Wiesbaden       0-0
+           Würzburger Kickers      v Dynamo Dresden           1-1 (0-0)
+           VfL Osnabrück           v Stuttgarter Kickers      1-1 (0-1)
+  Sun Aug/2
+    14.00  Hallescher FC           v Holstein Kiel            0-2 (0-0)
+           SG Sonnenhof Großaspach v Erzgebirge Aue           2-0 (1-0)
+
+
+» Matchday 3
+  Thu Aug/13
+    20.30  Dynamo Dresden          v Rot-Weiß Erfurt          3-1 (0-0)
+  Fri Aug/14
+    19.00  VfR Aalen               v VfL Osnabrück            1-0 (0-0)
+  Sat Aug/15
+    14.00  Erzgebirge Aue          v Stuttgarter Kickers      2-0 (1-0)
+           SV Wehen Wiesbaden      v 1. FSV Mainz 05 II       1-1 (1-1)
+           Holstein Kiel           v Werder Bremen II         3-0 (1-0)
+           Energie Cottbus         v Chemnitzer FC            0-1 (0-0)
+           Hansa Rostock           v Fortuna Köln             4-2 (3-2)
+           SG Sonnenhof Großaspach v VfB Stuttgart II         1-3 (1-0)
+           Preußen Münster         v Würzburger Kickers       0-0
+  Sun Aug/16
+    14.00  1. FC Magdeburg         v Hallescher FC            2-1 (1-1)
+
+
+» Matchday 4
+  Fri Aug/21
+    19.00  Fortuna Köln            v Energie Cottbus          3-0 (1-0)
+           Werder Bremen II        v 1. FC Magdeburg          1-1 (0-0)
+  Sat Aug/22
+    13.30  VfL Osnabrück           v Hansa Rostock            0-1 (0-0)
+    14.00  Chemnitzer FC           v Holstein Kiel            4-2 (2-1)
+           Hallescher FC           v SV Wehen Wiesbaden       3-0 (1-0)
+           Rot-Weiß Erfurt         v Preußen Münster          1-1 (1-1)
+           Würzburger Kickers      v SG Sonnenhof Großaspach  0-1 (0-1)
+           VfB Stuttgart II        v Erzgebirge Aue           1-2 (1-0)
+  Sun Aug/23
+    14.00  1. FSV Mainz 05 II      v Dynamo Dresden           1-1 (0-0)
+           Stuttgarter Kickers     v VfR Aalen                0-0
+
+
+» Matchday 5
+  Tue Aug/25
+    19.00  SV Wehen Wiesbaden      v Werder Bremen II         3-1 (0-0)
+           Holstein Kiel           v Fortuna Köln             2-2 (1-1)
+           Energie Cottbus         v VfL Osnabrück            1-2 (1-0)
+           VfB Stuttgart II        v Würzburger Kickers       0-2 (0-0)
+    20.30  1. FC Magdeburg         v Chemnitzer FC            2-0 (1-0)
+  Wed Aug/26
+    18.30  SG Sonnenhof Großaspach v Rot-Weiß Erfurt          2-2 (2-0)
+    19.00  Erzgebirge Aue          v VfR Aalen                1-0 (1-0)
+           Hansa Rostock           v Stuttgarter Kickers      0-1 (0-0)
+           Preußen Münster         v 1. FSV Mainz 05 II       0-1 (0-1)
+    20.30  Dynamo Dresden          v Hallescher FC            3-2 (1-1)
+
+
+» Matchday 6
+  Fri Aug/28
+    19.00  Fortuna Köln            v 1. FC Magdeburg          2-1 (1-1)
+  Sat Aug/29
+    14.00  Chemnitzer FC           v SV Wehen Wiesbaden       1-0 (0-0)
+           Werder Bremen II        v Dynamo Dresden           1-2 (1-0)
+           Hallescher FC           v Preußen Münster          1-3 (1-0)
+           Rot-Weiß Erfurt         v VfB Stuttgart II         3-0 (2-0)
+           Würzburger Kickers      v Erzgebirge Aue           1-0 (0-0)
+           Stuttgarter Kickers     v Energie Cottbus          0-0
+           VfL Osnabrück           v Holstein Kiel            3-2 (3-0)
+  Sun Aug/30
+    14.00  1. FSV Mainz 05 II      v SG Sonnenhof Großaspach  2-1 (0-0)
+           VfR Aalen               v Hansa Rostock            1-1 (1-1)
+
+
+» Matchday 7
+  Sat Sep/5
+    14.00  Erzgebirge Aue          v Hansa Rostock            0-0
+           SV Wehen Wiesbaden      v Fortuna Köln             3-0 (0-0)
+           Holstein Kiel           v Stuttgarter Kickers      1-2 (1-1)
+           Energie Cottbus         v VfR Aalen                0-4 (0-3)
+           Würzburger Kickers      v Rot-Weiß Erfurt          0-0
+           Preußen Münster         v Werder Bremen II         3-1 (1-0)
+  Sun Sep/6
+    14.00  Dynamo Dresden          v Chemnitzer FC            1-0 (0-0)
+  Tue Sep/15
+    18.30  1. FC Magdeburg         v VfL Osnabrück            3-0 (0-0)
+           SG Sonnenhof Großaspach v Hallescher FC            0-0
+    19.00  VfB Stuttgart II        v 1. FSV Mainz 05 II       1-1 (0-1)
+
+
+» Matchday 8
+  Fri Sep/11
+    19.00  Hansa Rostock           v Energie Cottbus          1-1 (0-1)
+           Stuttgarter Kickers     v 1. FC Magdeburg          1-0 (1-0)
+  Sat Sep/12
+    14.00  Fortuna Köln            v Dynamo Dresden           1-5 (0-2)
+           Chemnitzer FC           v Preußen Münster          0-1 (0-0)
+           Werder Bremen II        v SG Sonnenhof Großaspach  0-4 (0-1)
+           Hallescher FC           v VfB Stuttgart II         3-0 (1-0)
+           1. FSV Mainz 05 II      v Würzburger Kickers       1-0 (0-0)
+           Rot-Weiß Erfurt         v Erzgebirge Aue           0-1 (0-0)
+           VfL Osnabrück           v SV Wehen Wiesbaden       4-0 (1-0)
+  Sun Sep/13
+    14.00  VfR Aalen               v Holstein Kiel            0-0
+
+
+» Matchday 9
+  Fri Sep/18
+    19.00  1. FC Magdeburg         v VfR Aalen                1-2 (1-1)
+    20.30  Erzgebirge Aue          v Energie Cottbus          1-0 (1-0)
+  Sat Sep/19
+    14.00  Dynamo Dresden          v VfL Osnabrück            2-1 (1-1)
+           SV Wehen Wiesbaden      v Stuttgarter Kickers      3-3 (1-2)
+           Holstein Kiel           v Hansa Rostock            0-0
+           Rot-Weiß Erfurt         v 1. FSV Mainz 05 II       3-0 (0-0)
+           Würzburger Kickers      v Hallescher FC            0-1 (0-0)
+           VfB Stuttgart II        v Werder Bremen II         1-1 (1-1)
+           SG Sonnenhof Großaspach v Chemnitzer FC            4-2 (0-0)
+           Preußen Münster         v Fortuna Köln             3-1 (1-1)
+
+
+» Matchday 10
+  Tue Sep/22
+    18.30  1. FSV Mainz 05 II      v Erzgebirge Aue           1-1 (1-1)
+    19.00  Chemnitzer FC           v VfB Stuttgart II         2-1 (2-1)
+           Werder Bremen II        v Würzburger Kickers       0-0
+           VfR Aalen               v SV Wehen Wiesbaden       3-1 (1-1)
+    19.15  Hallescher FC           v Rot-Weiß Erfurt          2-1 (2-0)
+  Wed Sep/23
+    18.00  VfL Osnabrück           v Preußen Münster          2-2 (1-1)
+    19.00  Fortuna Köln            v SG Sonnenhof Großaspach  2-2 (1-0)
+           Energie Cottbus         v Holstein Kiel            1-2 (0-1)
+           Stuttgarter Kickers     v Dynamo Dresden           1-2 (0-1)
+    20.30  Hansa Rostock           v 1. FC Magdeburg          1-1 (0-0)
+
+
+» Matchday 11
+  Fri Sep/25
+    19.00  1. FSV Mainz 05 II      v Hallescher FC            2-0 (0-0)
+           Würzburger Kickers      v Chemnitzer FC            1-1 (1-0)
+  Sat Sep/26
+    14.00  Erzgebirge Aue          v Holstein Kiel            0-0
+           SV Wehen Wiesbaden      v Hansa Rostock            0-0
+           1. FC Magdeburg         v Energie Cottbus          2-2 (0-0)
+           Rot-Weiß Erfurt         v Werder Bremen II         2-1 (0-1)
+           SG Sonnenhof Großaspach v VfL Osnabrück            3-3 (3-3)
+           Preußen Münster         v Stuttgarter Kickers      4-2 (1-1)
+  Sun Sep/27
+    14.00  Dynamo Dresden          v VfR Aalen                4-0 (2-0)
+           VfB Stuttgart II        v Fortuna Köln             3-0 (1-0)
+
+
+» Matchday 12
+  Thu Oct/1
+    19.30  Chemnitzer FC           v Rot-Weiß Erfurt          1-1 (0-0)
+  Fri Oct/2
+    19.00  Holstein Kiel           v 1. FC Magdeburg          0-0
+  Sat Oct/3
+    14.00  Fortuna Köln            v Würzburger Kickers       0-3 (0-2)
+           Werder Bremen II        v 1. FSV Mainz 05 II       2-1 (0-1)
+           Hallescher FC           v Erzgebirge Aue           1-0 (0-0)
+           Hansa Rostock           v Dynamo Dresden           1-3 (0-1)
+           VfR Aalen               v Preußen Münster          0-0
+           Stuttgarter Kickers     v SG Sonnenhof Großaspach  0-4 (0-1)
+           VfL Osnabrück           v VfB Stuttgart II         1-1 (1-0)
+  Sun Oct/4
+    14.00  Energie Cottbus         v SV Wehen Wiesbaden       2-2 (0-2)
+
+
+» Matchday 13
+  Fri Oct/16
+    19.15  Preußen Münster         v Hansa Rostock            1-1 (1-0)
+  Sat Oct/17
+    14.00  Dynamo Dresden          v Energie Cottbus          0-1 (0-0)
+           SV Wehen Wiesbaden      v Holstein Kiel            3-1 (2-0)
+           Hallescher FC           v Werder Bremen II         6-2 (3-1)
+           1. FSV Mainz 05 II      v Chemnitzer FC            0-0
+           Rot-Weiß Erfurt         v Fortuna Köln             0-2 (0-1)
+           Würzburger Kickers      v VfL Osnabrück            0-1 (0-0)
+           SG Sonnenhof Großaspach v VfR Aalen                2-0 (0-0)
+  Sun Oct/18
+    14.00  Erzgebirge Aue          v 1. FC Magdeburg          0-0
+    15.30  VfB Stuttgart II        v Stuttgarter Kickers      2-1 (0-0)
+
+
+» Matchday 14
+  Fri Oct/23
+    19.00  Werder Bremen II        v Erzgebirge Aue           4-0 (1-0)
+  Sat Oct/24
+    14.00  Fortuna Köln            v 1. FSV Mainz 05 II       3-1 (1-0)
+           1. FC Magdeburg         v SV Wehen Wiesbaden       1-0 (0-0)
+           Holstein Kiel           v Dynamo Dresden           1-2 (0-2)
+           Energie Cottbus         v Preußen Münster          0-0
+           Hansa Rostock           v SG Sonnenhof Großaspach  1-3 (0-1)
+           VfR Aalen               v VfB Stuttgart II         1-0 (0-0)
+           Stuttgarter Kickers     v Würzburger Kickers       1-2 (1-1)
+           VfL Osnabrück           v Rot-Weiß Erfurt          1-0 (0-0)
+  Sun Oct/25
+    15.00  Chemnitzer FC           v Hallescher FC            3-1 (1-0)
+
+
+» Matchday 15
+  Fri Oct/30
+    19.00  Erzgebirge Aue          v SV Wehen Wiesbaden       1-1 (0-1)
+           VfB Stuttgart II        v Hansa Rostock            3-1 (0-0)
+  Sat Oct/31
+    14.00  Dynamo Dresden          v 1. FC Magdeburg          3-2 (1-1)
+           Hallescher FC           v Fortuna Köln             1-1 (0-1)
+           1. FSV Mainz 05 II      v VfL Osnabrück            0-0
+           Rot-Weiß Erfurt         v Stuttgarter Kickers      1-0 (1-0)
+           Würzburger Kickers      v VfR Aalen                2-2 (0-0)
+           SG Sonnenhof Großaspach v Energie Cottbus          1-1 (1-1)
+    14.15  Preußen Münster         v Holstein Kiel            2-0 (2-0)
+  Sun Nov/1
+    14.00  Werder Bremen II        v Chemnitzer FC            3-2 (2-1)
+
+
+» Matchday 16
+  Fri Nov/6
+    19.00  SV Wehen Wiesbaden      v Dynamo Dresden           2-2 (1-0)
+           VfL Osnabrück           v Hallescher FC            2-0 (1-0)
+  Sat Nov/7
+    14.00  Fortuna Köln            v Werder Bremen II         2-1 (1-0)
+           Holstein Kiel           v SG Sonnenhof Großaspach  3-1 (2-0)
+           Energie Cottbus         v VfB Stuttgart II         2-2 (2-0)
+           Hansa Rostock           v Würzburger Kickers       0-0
+           VfR Aalen               v Rot-Weiß Erfurt          2-2 (1-1)
+           Stuttgarter Kickers     v 1. FSV Mainz 05 II       1-4 (0-3)
+    14.05  1. FC Magdeburg         v Preußen Münster          3-0 (2-0)
+    14.15  Chemnitzer FC           v Erzgebirge Aue           1-2 (1-2)
+
+
+» Matchday 17
+  Fri Nov/20
+    19.00  VfB Stuttgart II        v Holstein Kiel            1-3 (0-1)
+  Sat Nov/21
+    14.00  Erzgebirge Aue          v Dynamo Dresden           1-1 (0-1)
+           Werder Bremen II        v VfL Osnabrück            0-1 (0-0)
+           Hallescher FC           v Stuttgarter Kickers      1-1 (0-0)
+           1. FSV Mainz 05 II      v VfR Aalen                1-0 (0-0)
+           Rot-Weiß Erfurt         v Hansa Rostock            3-2 (1-1)
+           Würzburger Kickers      v Energie Cottbus          2-2 (0-1)
+           SG Sonnenhof Großaspach v 1. FC Magdeburg          1-0 (0-0)
+    14.05  Preußen Münster         v SV Wehen Wiesbaden       0-0
+  Sun Nov/22
+    14.00  Chemnitzer FC           v Fortuna Köln             3-1 (0-1)
+
+
+» Matchday 18
+  Sat Nov/28
+    14.00  Dynamo Dresden          v Preußen Münster          0-0
+           SV Wehen Wiesbaden      v SG Sonnenhof Großaspach  2-2 (1-1)
+           1. FC Magdeburg         v VfB Stuttgart II         2-2 (2-0)
+           Holstein Kiel           v Würzburger Kickers       1-2 (1-1)
+           Energie Cottbus         v Rot-Weiß Erfurt          2-1 (1-0)
+           Hansa Rostock           v 1. FSV Mainz 05 II       1-0 (0-0)
+           VfR Aalen               v Hallescher FC            0-0
+           Stuttgarter Kickers     v Werder Bremen II         0-2 (0-1)
+           VfL Osnabrück           v Chemnitzer FC            2-0 (0-0)
+  Sun Nov/29
+    14.00  Erzgebirge Aue          v Fortuna Köln             2-0 (2-0)
+
+
+» Matchday 19
+  Fri Dec/4
+    19.00  Fortuna Köln            v VfL Osnabrück            3-1 (2-0)
+    19.15  SG Sonnenhof Großaspach v Dynamo Dresden           0-0
+  Sat Dec/5
+    14.00  Chemnitzer FC           v Stuttgarter Kickers      1-0 (0-0)
+           Werder Bremen II        v VfR Aalen                1-1 (0-1)
+           Hallescher FC           v Hansa Rostock            2-0 (1-0)
+           1. FSV Mainz 05 II      v Energie Cottbus          0-1 (0-1)
+           Rot-Weiß Erfurt         v Holstein Kiel            1-3 (1-2)
+           Würzburger Kickers      v 1. FC Magdeburg          1-1 (0-1)
+           VfB Stuttgart II        v SV Wehen Wiesbaden       1-2 (1-0)
+           Preußen Münster         v Erzgebirge Aue           0-1 (0-0)
+
+
+» Matchday 20
+  Fri Dec/11
+    19.00  VfB Stuttgart II        v Dynamo Dresden           1-1 (0-0)
+  Sat Dec/12
+    14.00  Würzburger Kickers      v SV Wehen Wiesbaden       0-0
+           1. FSV Mainz 05 II      v Holstein Kiel            0-0
+           Chemnitzer FC           v VfR Aalen                1-1 (1-0)
+           Fortuna Köln            v Stuttgarter Kickers      3-1 (2-0)
+           SG Sonnenhof Großaspach v Preußen Münster          3-1 (1-0)
+    14.05  VfL Osnabrück           v Erzgebirge Aue           0-0
+  Sun Dec/13
+    14.00  Hallescher FC           v Energie Cottbus          1-1 (1-0)
+           Werder Bremen II        v Hansa Rostock            1-1 (0-0)
+  Mon Dec/14
+    18.30  Rot-Weiß Erfurt         v 1. FC Magdeburg          0-2 (0-2)
+
+
+» Matchday 21
+  Thu Dec/17
+    20.30  Dynamo Dresden          v Würzburger Kickers       2-1 (2-1)
+  Fri Dec/18
+    19.00  Holstein Kiel           v Hallescher FC            0-4 (0-2)
+           Stuttgarter Kickers     v VfL Osnabrück            2-2 (1-1)
+    20.00  SV Wehen Wiesbaden      v Rot-Weiß Erfurt          3-0 (1-0)
+  Sat Dec/19
+    14.00  VfR Aalen               v Fortuna Köln             0-2 (0-2)
+           Hansa Rostock           v Chemnitzer FC            1-0 (0-0)
+           Energie Cottbus         v Werder Bremen II         1-1 (1-1)
+           1. FC Magdeburg         v 1. FSV Mainz 05 II       3-1 (2-1)
+           Preußen Münster         v VfB Stuttgart II         1-2 (0-2)
+           Erzgebirge Aue          v SG Sonnenhof Großaspach  2-0 (0-0)
+
+
+» Matchday 22
+  Fri Jan/22 2016
+    19.00  Stuttgarter Kickers     v Erzgebirge Aue           1-1 (1-0)
+           Fortuna Köln            v Hansa Rostock            5-1 (3-1)
+  Sat Jan/23
+    14.00  Rot-Weiß Erfurt         v Dynamo Dresden           3-2 (1-1)
+           1. FSV Mainz 05 II      v SV Wehen Wiesbaden       0-0
+           VfL Osnabrück           v VfR Aalen                2-1 (1-1)
+  Sun Jan/24
+    14.00  Hallescher FC           v 1. FC Magdeburg          1-2 (1-1)
+           Werder Bremen II        v Holstein Kiel            2-1 (1-0)
+           VfB Stuttgart II        v SG Sonnenhof Großaspach  0-3 (0-2)
+  Wed Feb/17
+    19.00  Würzburger Kickers      v Preußen Münster          3-0 (2-0)
+  Thu Mar/24
+    19.00  Chemnitzer FC           v Energie Cottbus          4-0 (1-0)
+
+
+» Matchday 23
+  Sat Jan/30
+    14.00  Holstein Kiel           v Chemnitzer FC            5-2 (4-1)
+           1. FC Magdeburg         v Werder Bremen II         1-1 (0-0)
+           Dynamo Dresden          v 1. FSV Mainz 05 II       3-0 (2-0)
+           Preußen Münster         v Rot-Weiß Erfurt          2-0 (2-0)
+           SG Sonnenhof Großaspach v Würzburger Kickers       1-2 (1-1)
+           Erzgebirge Aue          v VfB Stuttgart II         1-0 (0-0)
+           VfR Aalen               v Stuttgarter Kickers      3-0 (0-0)
+           Hansa Rostock           v VfL Osnabrück            0-0
+  Sun Jan/31
+    14.00  Energie Cottbus         v Fortuna Köln             0-0
+           SV Wehen Wiesbaden      v Hallescher FC            1-0 (1-0)
+
+
+» Matchday 24
+  Fri Feb/5
+    17.00  Chemnitzer FC           v 1. FC Magdeburg          0-0
+    19.00  VfR Aalen               v Erzgebirge Aue           0-2 (0-0)
+           VfL Osnabrück           v Energie Cottbus          0-0
+  Sat Feb/6
+    14.00  Werder Bremen II        v SV Wehen Wiesbaden       1-0 (0-0)
+           Stuttgarter Kickers     v Hansa Rostock            2-0 (1-0)
+           Würzburger Kickers      v VfB Stuttgart II         0-0
+           Rot-Weiß Erfurt         v SG Sonnenhof Großaspach  0-2 (0-0)
+           1. FSV Mainz 05 II      v Preußen Münster          2-3 (1-2)
+  Sun Feb/7
+    14.00  Hallescher FC           v Dynamo Dresden           0-0
+           Fortuna Köln            v Holstein Kiel            2-3 (1-2)
+
+
+» Matchday 25
+  Fri Feb/12
+    19.00  VfB Stuttgart II        v Rot-Weiß Erfurt          1-2 (0-0)
+  Sat Feb/13
+    14.00  1. FC Magdeburg         v Fortuna Köln             0-0
+           SV Wehen Wiesbaden      v Chemnitzer FC            1-1 (1-0)
+           Preußen Münster         v Hallescher FC            0-1 (0-1)
+           SG Sonnenhof Großaspach v 1. FSV Mainz 05 II       0-3 (0-2)
+           Hansa Rostock           v VfR Aalen                3-0 (1-0)
+           Energie Cottbus         v Stuttgarter Kickers      1-2 (1-1)
+           Holstein Kiel           v VfL Osnabrück            0-1 (0-0)
+  Sun Feb/14
+    14.00  Dynamo Dresden          v Werder Bremen II         2-1 (1-1)
+           Erzgebirge Aue          v Würzburger Kickers       0-0
+
+
+» Matchday 26
+  Fri Feb/19
+    19.00  Stuttgarter Kickers     v Holstein Kiel            0-0
+  Sat Feb/20
+    14.00  Hansa Rostock           v Erzgebirge Aue           0-2 (0-1)
+           Fortuna Köln            v SV Wehen Wiesbaden       4-1 (2-0)
+           VfL Osnabrück           v 1. FC Magdeburg          2-0 (1-0)
+           VfR Aalen               v Energie Cottbus          3-0 (0-0)
+           1. FSV Mainz 05 II      v VfB Stuttgart II         3-1 (1-1)
+           Hallescher FC           v SG Sonnenhof Großaspach  4-1 (1-1)
+           Werder Bremen II        v Preußen Münster          0-0
+    15.00  Chemnitzer FC           v Dynamo Dresden           2-2 (1-2)
+  Sun Feb/21
+    14.00  Rot-Weiß Erfurt         v Würzburger Kickers       1-0 (0-0)
+
+
+» Matchday 27
+  Fri Feb/26
+    19.00  VfB Stuttgart II        v Hallescher FC            1-1 (0-1)
+  Sat Feb/27
+    14.00  Dynamo Dresden          v Fortuna Köln             4-0 (2-0)
+           SG Sonnenhof Großaspach v Werder Bremen II         0-1 (0-1)
+           Würzburger Kickers      v 1. FSV Mainz 05 II       1-0 (1-0)
+           Energie Cottbus         v Hansa Rostock            0-1 (0-1)
+           Holstein Kiel           v VfR Aalen                1-0 (1-0)
+           SV Wehen Wiesbaden      v VfL Osnabrück            0-2 (0-1)
+    14.05  Preußen Münster         v Chemnitzer FC            3-1 (0-1)
+  Sun Feb/28
+    14.00  Erzgebirge Aue          v Rot-Weiß Erfurt          2-2 (1-1)
+           1. FC Magdeburg         v Stuttgarter Kickers      2-1 (2-0)
+
+
+» Matchday 28
+  Tue Mar/1
+    18.30  Chemnitzer FC           v SG Sonnenhof Großaspach  0-2 (0-0)
+    19.00  Hansa Rostock           v Holstein Kiel            1-0 (1-0)
+           Hallescher FC           v Würzburger Kickers       1-3 (0-1)
+           Werder Bremen II        v VfB Stuttgart II         0-1 (0-0)
+           Fortuna Köln            v Preußen Münster          2-1 (1-0)
+  Wed Mar/2
+    18.30  Energie Cottbus         v Erzgebirge Aue           0-0
+           VfR Aalen               v 1. FC Magdeburg          0-0
+    19.00  Stuttgarter Kickers     v SV Wehen Wiesbaden       1-0 (0-0)
+           1. FSV Mainz 05 II      v Rot-Weiß Erfurt          1-0 (1-0)
+    20.30  VfL Osnabrück           v Dynamo Dresden           0-3 (0-2)
+
+
+» Matchday 29
+  Sat Mar/5
+    14.00  SG Sonnenhof Großaspach v Fortuna Köln             1-1 (1-1)
+           Würzburger Kickers      v Werder Bremen II         1-1 (0-0)
+           Rot-Weiß Erfurt         v Hallescher FC            1-1 (1-1)
+           Holstein Kiel           v Energie Cottbus          1-2 (0-2)
+           1. FC Magdeburg         v Hansa Rostock            4-1 (2-1)
+           SV Wehen Wiesbaden      v VfR Aalen                0-1 (0-1)
+  Sun Mar/6
+    14.00  VfB Stuttgart II        v Chemnitzer FC            1-1 (0-0)
+           Erzgebirge Aue          v 1. FSV Mainz 05 II       1-0 (0-0)
+           Dynamo Dresden          v Stuttgarter Kickers      1-1 (0-0)
+           Preußen Münster         v VfL Osnabrück            0-0
+
+
+» Matchday 30
+  Fri Mar/11
+    19.00  VfR Aalen               v Dynamo Dresden           0-0
+           Hallescher FC           v 1. FSV Mainz 05 II       1-1 (0-0)
+  Sat Mar/12
+    14.00  Holstein Kiel           v Erzgebirge Aue           3-0 (2-0)
+           Hansa Rostock           v SV Wehen Wiesbaden       4-0 (1-0)
+           Energie Cottbus         v 1. FC Magdeburg          2-0 (2-0)
+           Werder Bremen II        v Rot-Weiß Erfurt          0-1 (0-1)
+           Chemnitzer FC           v Würzburger Kickers       0-1 (0-1)
+           Fortuna Köln            v VfB Stuttgart II         1-3 (0-1)
+           VfL Osnabrück           v SG Sonnenhof Großaspach  2-2 (1-1)
+           Stuttgarter Kickers     v Preußen Münster          1-0 (1-0)
+
+
+» Matchday 31
+  Fri Mar/18
+    17.30  Erzgebirge Aue          v Hallescher FC            4-0 (1-0)
+    19.00  Würzburger Kickers      v Fortuna Köln             4-1 (1-1)
+           VfB Stuttgart II        v VfL Osnabrück            0-1 (0-0)
+  Sat Mar/19
+    14.00  1. FSV Mainz 05 II      v Werder Bremen II         2-2 (1-1)
+           SV Wehen Wiesbaden      v Energie Cottbus          0-0
+           Preußen Münster         v VfR Aalen                0-2 (0-2)
+           SG Sonnenhof Großaspach v Stuttgarter Kickers      1-1 (0-1)
+    14.05  Dynamo Dresden          v Hansa Rostock            2-2 (1-0)
+  Sun Mar/20
+    14.00  Rot-Weiß Erfurt         v Chemnitzer FC            0-2 (0-0)
+           1. FC Magdeburg         v Holstein Kiel            0-1 (0-1)
+
+
+» Matchday 32
+  Fri Apr/1
+    20.30  1. FC Magdeburg         v Erzgebirge Aue           0-3 (0-3)
+  Sat Apr/2
+    14.00  Energie Cottbus         v Dynamo Dresden           0-2 (0-1)
+           Holstein Kiel           v SV Wehen Wiesbaden       1-1 (0-1)
+           Werder Bremen II        v Hallescher FC            2-0 (1-0)
+           Chemnitzer FC           v 1. FSV Mainz 05 II       5-1 (3-1)
+           Fortuna Köln            v Rot-Weiß Erfurt          1-3 (1-2)
+           VfR Aalen               v SG Sonnenhof Großaspach  0-1 (0-0)
+           Hansa Rostock           v Preußen Münster          0-0
+    14.05  VfL Osnabrück           v Würzburger Kickers       1-1 (1-1)
+    15.30  Stuttgarter Kickers     v VfB Stuttgart II         4-1 (3-0)
+
+
+» Matchday 33
+  Fri Apr/8
+    19.00  SV Wehen Wiesbaden      v 1. FC Magdeburg          0-0
+           SG Sonnenhof Großaspach v Hansa Rostock            0-1 (0-1)
+  Sat Apr/9
+    14.00  1. FSV Mainz 05 II      v Fortuna Köln             0-1 (0-0)
+           Dynamo Dresden          v Holstein Kiel            0-0
+           Preußen Münster         v Energie Cottbus          3-0 (1-0)
+           VfB Stuttgart II        v VfR Aalen                1-1 (0-1)
+           Würzburger Kickers      v Stuttgarter Kickers      2-1 (1-0)
+    14.05  Erzgebirge Aue          v Werder Bremen II         1-0 (0-0)
+           Rot-Weiß Erfurt         v VfL Osnabrück            4-2 (1-1)
+  Sun Apr/10
+    14.00  Hallescher FC           v Chemnitzer FC            1-2 (0-0)
+
+
+» Matchday 34
+  Fri Apr/15
+    19.00  SV Wehen Wiesbaden      v Erzgebirge Aue           1-0 (1-0)
+           VfR Aalen               v Würzburger Kickers       0-1 (0-1)
+  Sat Apr/16
+    14.00  1. FC Magdeburg         v Dynamo Dresden           2-2 (1-0)
+           Chemnitzer FC           v Werder Bremen II         2-1 (1-0)
+           VfL Osnabrück           v 1. FSV Mainz 05 II       1-1 (0-1)
+           Stuttgarter Kickers     v Rot-Weiß Erfurt          0-1 (0-0)
+           Hansa Rostock           v VfB Stuttgart II         2-0 (1-0)
+           Energie Cottbus         v SG Sonnenhof Großaspach  0-5 (0-4)
+           Holstein Kiel           v Preußen Münster          0-0
+  Sun Apr/17
+    14.00  Fortuna Köln            v Hallescher FC            0-2 (0-1)
+
+
+» Matchday 35
+  Fri Apr/22
+    19.00  Werder Bremen II        v Fortuna Köln             1-3 (1-2)
+           Preußen Münster         v 1. FC Magdeburg          1-2 (1-1)
+           VfB Stuttgart II        v Energie Cottbus          0-1 (0-1)
+  Sat Apr/23
+    14.00  Dynamo Dresden          v SV Wehen Wiesbaden       4-0 (0-0)
+           SG Sonnenhof Großaspach v Holstein Kiel            0-0
+           Würzburger Kickers      v Hansa Rostock            2-1 (2-0)
+           Rot-Weiß Erfurt         v VfR Aalen                2-0 (0-0)
+           1. FSV Mainz 05 II      v Stuttgarter Kickers      1-2 (0-0)
+    14.05  Hallescher FC           v VfL Osnabrück            1-0 (1-0)
+  Sun Apr/24
+    14.00  Erzgebirge Aue          v Chemnitzer FC            2-0 (1-0)
+
+
+» Matchday 36
+  Fri Apr/29
+    19.00  Fortuna Köln            v Chemnitzer FC            0-3 (0-1)
+           SV Wehen Wiesbaden      v Preußen Münster          0-2 (0-1)
+  Sat Apr/30
+    14.00  Dynamo Dresden          v Erzgebirge Aue           1-1 (1-0)
+           VfL Osnabrück           v Werder Bremen II         3-1 (3-0)
+           Stuttgarter Kickers     v Hallescher FC            1-0 (1-0)
+           VfR Aalen               v 1. FSV Mainz 05 II       3-2 (1-2)
+           Hansa Rostock           v Rot-Weiß Erfurt          3-1 (2-1)
+           Energie Cottbus         v Würzburger Kickers       1-2 (1-0)
+           Holstein Kiel           v VfB Stuttgart II         1-0 (0-0)
+           1. FC Magdeburg         v SG Sonnenhof Großaspach  4-0 (2-0)
+
+
+» Matchday 37
+  Sat May/7
+    13.30  Fortuna Köln            v Erzgebirge Aue           0-2 (0-1)
+           Preußen Münster         v Dynamo Dresden           2-3 (0-3)
+           SG Sonnenhof Großaspach v SV Wehen Wiesbaden       0-1 (0-1)
+           VfB Stuttgart II        v 1. FC Magdeburg          0-1 (0-0)
+           Würzburger Kickers      v Holstein Kiel            1-1 (0-1)
+           Rot-Weiß Erfurt         v Energie Cottbus          0-1 (0-1)
+           1. FSV Mainz 05 II      v Hansa Rostock            4-0 (1-0)
+           Hallescher FC           v VfR Aalen                3-1 (2-1)
+           Werder Bremen II        v Stuttgarter Kickers      1-0 (0-0)
+           Chemnitzer FC           v VfL Osnabrück            2-1 (1-0)
+
+
+» Matchday 38
+  Sat May/14
+    13.45  VfL Osnabrück           v Fortuna Köln             1-3 (0-0)
+           Stuttgarter Kickers     v Chemnitzer FC            0-1 (0-0)
+           VfR Aalen               v Werder Bremen II         1-2 (0-2)
+           Hansa Rostock           v Hallescher FC            3-1 (1-1)
+           Energie Cottbus         v 1. FSV Mainz 05 II       2-3 (0-0)
+           Holstein Kiel           v Rot-Weiß Erfurt          0-3 (0-1)
+           1. FC Magdeburg         v Würzburger Kickers       0-1 (0-1)
+           SV Wehen Wiesbaden      v VfB Stuttgart II         3-1 (1-0)
+           Dynamo Dresden          v SG Sonnenhof Großaspach  2-1 (0-1)
+           Erzgebirge Aue          v Preußen Münster          3-0 (2-0)

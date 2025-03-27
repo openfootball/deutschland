@@ -1,0 +1,509 @@
+= Deutsche Bundesliga 2011/12
+
+# Date       Fri Aug/5 2011 - Sat May/5 2012 (274d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/5 2011
+    20.30  Borussia Dortmund       v Hamburger SV             3-1 (2-0)
+  Sat Aug/6
+    15.30  Werder Bremen           v 1. FC Kaiserslautern     2-0 (0-0)
+           Hannover 96             v 1899 Hoffenheim          2-1 (2-1)
+           VfB Stuttgart           v FC Schalke 04            3-0 (1-0)
+           1. FC Köln              v VfL Wolfsburg            0-3 (0-1)
+           FC Augsburg             v SC Freiburg              2-2 (0-0)
+    18.30  Hertha BSC              v 1. FC Nürnberg           0-1 (0-0)
+  Sun Aug/7
+    15.30  1. FSV Mainz 05         v Bayer Leverkusen         2-0 (1-0)
+    17.30  Bayern München          v Bor. Mönchengladbach     0-1 (0-0)
+
+
+» Matchday 2
+  Sat Aug/13
+    15.30  Hamburger SV            v Hertha BSC               2-2 (1-1)
+           1. FC Nürnberg          v Hannover 96              1-2 (0-2)
+           SC Freiburg             v 1. FSV Mainz 05          1-2 (0-0)
+           1899 Hoffenheim         v Borussia Dortmund        1-0 (1-0)
+           VfL Wolfsburg           v Bayern München           0-1 (0-0)
+    15.40  FC Schalke 04           v 1. FC Köln               5-1 (1-1)
+    18.30  Bor. Mönchengladbach    v VfB Stuttgart            1-1 (0-0)
+  Sun Aug/14
+    15.30  1. FC Kaiserslautern    v FC Augsburg              1-1 (0-1)
+    17.30  Bayer Leverkusen        v Werder Bremen            1-0 (0-0)
+
+
+» Matchday 3
+  Fri Aug/19
+    20.30  Bor. Mönchengladbach    v VfL Wolfsburg            4-1 (3-1)
+  Sat Aug/20
+    15.30  Borussia Dortmund       v 1. FC Nürnberg           2-0 (0-0)
+           Bayern München          v Hamburger SV             5-0 (3-0)
+           Werder Bremen           v SC Freiburg              5-3 (2-1)
+           VfB Stuttgart           v Bayer Leverkusen         0-1 (0-1)
+           FC Augsburg             v 1899 Hoffenheim          0-2 (0-1)
+    18.30  1. FC Köln              v 1. FC Kaiserslautern     1-1 (1-1)
+  Sun Aug/21
+    15.30  1. FSV Mainz 05         v FC Schalke 04            2-4 (2-0)
+    17.30  Hannover 96             v Hertha BSC               1-1 (1-0)
+
+
+» Matchday 4
+  Fri Aug/26
+    20.30  Hertha BSC              v VfB Stuttgart            1-0 (0-0)
+  Sat Aug/27
+    15.30  Hamburger SV            v 1. FC Köln               3-4 (1-1)
+           1. FC Nürnberg          v FC Augsburg              1-0 (0-0)
+           SC Freiburg             v VfL Wolfsburg            3-0 (2-0)
+           1. FC Kaiserslautern    v Bayern München           0-3 (0-1)
+           1899 Hoffenheim         v Werder Bremen            1-2 (1-1)
+    18.30  Bayer Leverkusen        v Borussia Dortmund        0-0
+  Sun Aug/28
+    15.30  Hannover 96             v 1. FSV Mainz 05          1-1 (1-1)
+    17.30  FC Schalke 04           v Bor. Mönchengladbach     1-0 (0-0)
+
+
+» Matchday 5
+  Fri Sep/9
+    20.30  FC Augsburg             v Bayer Leverkusen         1-4 (1-2)
+  Sat Sep/10
+    15.30  Borussia Dortmund       v Hertha BSC               1-2 (0-0)
+           Bayern München          v SC Freiburg              7-0 (3-0)
+           1. FSV Mainz 05         v 1899 Hoffenheim          0-4 (0-2)
+           VfB Stuttgart           v Hannover 96              3-0 (1-0)
+           Bor. Mönchengladbach    v 1. FC Kaiserslautern     1-0 (0-0)
+    18.30  Werder Bremen           v Hamburger SV             2-0 (0-0)
+  Sun Sep/11
+    15.30  1. FC Köln              v 1. FC Nürnberg           1-2 (1-2)
+    17.30  VfL Wolfsburg           v FC Schalke 04            2-1 (1-1)
+
+
+» Matchday 6
+  Fri Sep/16
+    20.45  SC Freiburg             v VfB Stuttgart            1-2 (0-1)
+  Sat Sep/17
+    15.30  Bayer Leverkusen        v 1. FC Köln               1-4 (0-1)
+           Hamburger SV            v Bor. Mönchengladbach     0-1 (0-0)
+           1. FC Nürnberg          v Werder Bremen            1-1 (0-1)
+           1899 Hoffenheim         v VfL Wolfsburg            3-1 (2-0)
+           Hertha BSC              v FC Augsburg              2-2 (0-1)
+    18.30  1. FC Kaiserslautern    v 1. FSV Mainz 05          3-1 (1-1)
+  Sun Sep/18
+    15.30  Hannover 96             v Borussia Dortmund        2-1 (0-0)
+    17.30  FC Schalke 04           v Bayern München           0-2 (0-1)
+
+
+» Matchday 7
+  Fri Sep/23
+    20.40  VfB Stuttgart           v Hamburger SV             1-2 (1-0)
+  Sat Sep/24
+    15.30  FC Schalke 04           v SC Freiburg              4-2 (1-1)
+           1. FSV Mainz 05         v Borussia Dortmund        1-2 (1-0)
+           VfL Wolfsburg           v 1. FC Kaiserslautern     1-0 (0-0)
+           Bor. Mönchengladbach    v 1. FC Nürnberg           1-0 (0-0)
+           FC Augsburg             v Hannover 96              0-0
+    18.30  Bayern München          v Bayer Leverkusen         3-0 (2-0)
+  Sun Sep/25
+    15.40  1. FC Köln              v 1899 Hoffenheim          2-0 (1-0)
+    17.30  Werder Bremen           v Hertha BSC               2-1 (1-1)
+
+
+» Matchday 8
+  Fri Sep/30
+    20.40  1. FC Kaiserslautern    v VfB Stuttgart            0-2 (0-0)
+  Sat Oct/1
+    15.30  Borussia Dortmund       v FC Augsburg              4-0 (2-0)
+           Bayer Leverkusen        v VfL Wolfsburg            3-1 (1-0)
+           1. FC Nürnberg          v 1. FSV Mainz 05          3-3 (2-2)
+           SC Freiburg             v Bor. Mönchengladbach     1-0 (1-0)
+           1899 Hoffenheim         v Bayern München           0-0
+    18.30  Hertha BSC              v 1. FC Köln               3-0 (3-0)
+  Sun Oct/2
+    15.30  Hannover 96             v Werder Bremen            3-2 (2-1)
+    17.30  Hamburger SV            v FC Schalke 04            1-2 (1-1)
+
+
+» Matchday 9
+  Fri Oct/14
+    20.30  Werder Bremen           v Borussia Dortmund        0-2 (0-1)
+  Sat Oct/15
+    15.30  Bayern München          v Hertha BSC               4-0 (3-0)
+           1. FSV Mainz 05         v FC Augsburg              0-1 (0-0)
+           VfB Stuttgart           v 1899 Hoffenheim          2-0 (0-0)
+           VfL Wolfsburg           v 1. FC Nürnberg           2-1 (1-0)
+           Bor. Mönchengladbach    v Bayer Leverkusen         2-2 (0-1)
+    18.30  FC Schalke 04           v 1. FC Kaiserslautern     1-2 (0-1)
+  Sun Oct/16
+    15.30  SC Freiburg             v Hamburger SV             1-2 (0-1)
+    17.30  1. FC Köln              v Hannover 96              2-0 (1-0)
+
+
+» Matchday 10
+  Fri Oct/21
+    20.30  FC Augsburg             v Werder Bremen            1-1 (0-0)
+  Sat Oct/22
+    15.30  Borussia Dortmund       v 1. FC Köln               5-0 (3-0)
+           1. FC Nürnberg          v VfB Stuttgart            2-2 (1-0)
+           1. FC Kaiserslautern    v SC Freiburg              1-0 (0-0)
+           1899 Hoffenheim         v Bor. Mönchengladbach     1-0 (0-0)
+           Hertha BSC              v 1. FSV Mainz 05          0-0
+    18.30  Hamburger SV            v VfL Wolfsburg            1-1 (0-1)
+  Sun Oct/23
+    15.30  Bayer Leverkusen        v FC Schalke 04            0-1 (0-0)
+    17.30  Hannover 96             v Bayern München           2-1 (1-0)
+
+
+» Matchday 11
+  Fri Oct/28
+    20.30  SC Freiburg             v Bayer Leverkusen         0-1 (0-1)
+  Sat Oct/29
+    15.30  Bayern München          v 1. FC Nürnberg           4-0 (3-0)
+           FC Schalke 04           v 1899 Hoffenheim          3-1 (1-0)
+           VfL Wolfsburg           v Hertha BSC               2-3 (1-2)
+           Bor. Mönchengladbach    v Hannover 96              2-1 (1-1)
+    15.45  VfB Stuttgart           v Borussia Dortmund        1-1 (1-1)
+    18.30  1. FSV Mainz 05         v Werder Bremen            1-3 (1-1)
+  Sun Oct/30
+    15.30  1. FC Köln              v FC Augsburg              3-0 (2-0)
+    17.30  Hamburger SV            v 1. FC Kaiserslautern     1-1 (0-1)
+
+
+» Matchday 12
+  Fri Nov/4
+    20.30  1. FSV Mainz 05         v VfB Stuttgart            3-1 (0-0)
+  Sat Nov/5
+    15.30  Borussia Dortmund       v VfL Wolfsburg            5-1 (2-0)
+           Werder Bremen           v 1. FC Köln               3-2 (0-2)
+           1. FC Nürnberg          v SC Freiburg              1-2 (1-1)
+           1899 Hoffenheim         v 1. FC Kaiserslautern     1-1 (1-0)
+           Hertha BSC              v Bor. Mönchengladbach     1-2 (1-1)
+    18.30  Bayer Leverkusen        v Hamburger SV             2-2 (2-1)
+  Sun Nov/6
+    15.30  Hannover 96             v FC Schalke 04            2-2 (1-1)
+    17.30  FC Augsburg             v Bayern München           1-2 (0-2)
+
+
+» Matchday 13
+  Fri Nov/18
+    20.30  1. FC Kaiserslautern    v Bayer Leverkusen         0-2 (0-0)
+  Sat Nov/19
+    15.30  FC Schalke 04           v 1. FC Nürnberg           4-0 (2-0)
+           SC Freiburg             v Hertha BSC               2-2 (0-2)
+           VfL Wolfsburg           v Hannover 96              4-1 (2-1)
+           Bor. Mönchengladbach    v Werder Bremen            5-0 (3-0)
+    18.30  Bayern München          v Borussia Dortmund        0-1 (0-0)
+  Sun Nov/20
+    15.30  VfB Stuttgart           v FC Augsburg              2-1 (1-0)
+    17.30  Hamburger SV            v 1899 Hoffenheim          2-0 (1-0)
+  Tue Dec/13
+    20.30  1. FC Köln              v 1. FSV Mainz 05          1-1 (0-0)
+
+
+» Matchday 14
+  Fri Nov/25
+    20.30  1. FC Köln              v Bor. Mönchengladbach     0-3 (0-2)
+  Sat Nov/26
+    15.30  Borussia Dortmund       v FC Schalke 04            2-0 (1-0)
+           1. FC Nürnberg          v 1. FC Kaiserslautern     1-0 (1-0)
+           1899 Hoffenheim         v SC Freiburg              1-1 (1-0)
+           FC Augsburg             v VfL Wolfsburg            2-0 (0-0)
+           Hertha BSC              v Bayer Leverkusen         3-3 (2-1)
+    18.30  Hannover 96             v Hamburger SV             1-1 (0-0)
+  Sun Nov/27
+    15.30  Werder Bremen           v VfB Stuttgart            2-0 (0-0)
+    17.30  1. FSV Mainz 05         v Bayern München           3-2 (1-0)
+
+
+» Matchday 15
+  Fri Dec/2
+    20.30  Bayer Leverkusen        v 1899 Hoffenheim          2-0 (1-0)
+  Sat Dec/3
+    15.30  Bayern München          v Werder Bremen            4-1 (1-0)
+           SC Freiburg             v Hannover 96              1-1 (0-1)
+           1. FC Kaiserslautern    v Hertha BSC               1-1 (1-1)
+           VfL Wolfsburg           v 1. FSV Mainz 05          2-2 (2-0)
+           Bor. Mönchengladbach    v Borussia Dortmund        1-1 (0-1)
+    18.30  VfB Stuttgart           v 1. FC Köln               2-2 (2-1)
+  Sun Dec/4
+    15.30  Hamburger SV            v 1. FC Nürnberg           2-0 (1-0)
+    17.30  FC Schalke 04           v FC Augsburg              3-1 (1-0)
+
+
+» Matchday 16
+  Fri Dec/9
+    20.30  Hertha BSC              v FC Schalke 04            1-2 (1-2)
+  Sat Dec/10
+    15.30  Werder Bremen           v VfL Wolfsburg            4-1 (2-0)
+           1. FSV Mainz 05         v Hamburger SV             0-0
+           1. FC Nürnberg          v 1899 Hoffenheim          0-2 (0-1)
+           1. FC Köln              v SC Freiburg              4-0 (1-0)
+           FC Augsburg             v Bor. Mönchengladbach     1-0 (0-0)
+    18.30  Hannover 96             v Bayer Leverkusen         0-0
+  Sun Dec/11
+    15.30  Borussia Dortmund       v 1. FC Kaiserslautern     1-1 (1-0)
+    17.30  VfB Stuttgart           v Bayern München           1-2 (1-1)
+
+
+» Matchday 17
+  Fri Dec/16
+    20.30  Bayern München          v 1. FC Köln               3-0 (0-0)
+  Sat Dec/17
+    15.30  Bayer Leverkusen        v 1. FC Nürnberg           0-3 (0-2)
+           Hamburger SV            v FC Augsburg              1-1 (0-0)
+           SC Freiburg             v Borussia Dortmund        1-4 (1-2)
+           1899 Hoffenheim         v Hertha BSC               1-1 (1-0)
+           VfL Wolfsburg           v VfB Stuttgart            1-0 (0-0)
+    18.30  FC Schalke 04           v Werder Bremen            5-0 (2-0)
+  Sun Dec/18
+    15.30  1. FC Kaiserslautern    v Hannover 96              1-1 (0-1)
+    17.30  Bor. Mönchengladbach    v 1. FSV Mainz 05          1-0 (1-0)
+
+
+» Matchday 18
+  Fri Jan/20 2012
+    20.30  Bor. Mönchengladbach    v Bayern München           3-1 (2-0)
+  Sat Jan/21
+    15.30  1899 Hoffenheim         v Hannover 96              0-0
+           FC Schalke 04           v VfB Stuttgart            3-1 (1-0)
+           VfL Wolfsburg           v 1. FC Köln               1-0 (0-0)
+           SC Freiburg             v FC Augsburg              1-0 (0-0)
+           1. FC Nürnberg          v Hertha BSC               2-0 (1-0)
+    18.30  1. FC Kaiserslautern    v Werder Bremen            0-0
+  Sun Jan/22
+    15.30  Hamburger SV            v Borussia Dortmund        1-5 (0-2)
+    17.30  Bayer Leverkusen        v 1. FSV Mainz 05          3-2 (2-0)
+
+
+» Matchday 19
+  Fri Jan/27
+    20.30  Hannover 96             v 1. FC Nürnberg           1-0 (1-0)
+  Sat Jan/28
+    15.30  Werder Bremen           v Bayer Leverkusen         1-1 (1-0)
+           Hertha BSC              v Hamburger SV             1-2 (0-2)
+           FC Augsburg             v 1. FC Kaiserslautern     2-2 (1-1)
+           Borussia Dortmund       v 1899 Hoffenheim          3-1 (2-0)
+           Bayern München          v VfL Wolfsburg            2-0 (0-0)
+    18.30  1. FC Köln              v FC Schalke 04            1-4 (1-0)
+  Sun Jan/29
+    15.30  1. FSV Mainz 05         v SC Freiburg              3-1 (3-0)
+    17.30  VfB Stuttgart           v Bor. Mönchengladbach     0-3 (0-1)
+
+
+» Matchday 20
+  Fri Feb/3
+    20.30  1. FC Nürnberg          v Borussia Dortmund        0-2 (0-0)
+  Sat Feb/4
+    15.30  Hertha BSC              v Hannover 96              0-1 (0-0)
+           FC Schalke 04           v 1. FSV Mainz 05          1-1 (0-1)
+           Bayer Leverkusen        v VfB Stuttgart            2-2 (1-1)
+           VfL Wolfsburg           v Bor. Mönchengladbach     0-0
+           1899 Hoffenheim         v FC Augsburg              2-2 (1-1)
+    18.30  Hamburger SV            v Bayern München           1-1 (1-0)
+  Sun Feb/5
+    15.30  SC Freiburg             v Werder Bremen            2-2 (1-1)
+    17.30  1. FC Kaiserslautern    v 1. FC Köln               0-1 (0-0)
+
+
+» Matchday 21
+  Fri Feb/10
+    20.30  VfL Wolfsburg           v SC Freiburg              3-2 (2-2)
+  Sat Feb/11
+    15.30  Borussia Dortmund       v Bayer Leverkusen         1-0 (1-0)
+           1. FSV Mainz 05         v Hannover 96              1-1 (1-0)
+           Bayern München          v 1. FC Kaiserslautern     2-0 (2-0)
+           Werder Bremen           v 1899 Hoffenheim          1-1 (0-1)
+           VfB Stuttgart           v Hertha BSC               5-0 (4-0)
+    18.30  Bor. Mönchengladbach    v FC Schalke 04            3-0 (3-0)
+  Sun Feb/12
+    15.30  FC Augsburg             v 1. FC Nürnberg           0-0
+    17.30  1. FC Köln              v Hamburger SV             0-1 (0-0)
+
+
+» Matchday 22
+  Fri Feb/17
+    20.30  1899 Hoffenheim         v 1. FSV Mainz 05          1-1 (1-1)
+  Sat Feb/18
+    15.30  Hertha BSC              v Borussia Dortmund        0-1 (0-0)
+           Hamburger SV            v Werder Bremen            1-3 (0-2)
+           1. FC Nürnberg          v 1. FC Köln               2-1 (1-0)
+           1. FC Kaiserslautern    v Bor. Mönchengladbach     1-2 (0-2)
+           Bayer Leverkusen        v FC Augsburg              4-1 (1-0)
+    18.30  SC Freiburg             v Bayern München           0-0
+  Sun Feb/19
+    15.30  FC Schalke 04           v VfL Wolfsburg            4-0 (2-0)
+    17.30  Hannover 96             v VfB Stuttgart            4-2 (2-0)
+
+
+» Matchday 23
+  Fri Feb/24
+    20.30  Bor. Mönchengladbach    v Hamburger SV             1-1 (1-0)
+  Sat Feb/25
+    15.30  1. FC Köln              v Bayer Leverkusen         0-2 (0-1)
+           VfB Stuttgart           v SC Freiburg              4-1 (2-1)
+           1. FSV Mainz 05         v 1. FC Kaiserslautern     4-0 (3-0)
+           VfL Wolfsburg           v 1899 Hoffenheim          1-2 (0-1)
+           FC Augsburg             v Hertha BSC               3-0 (0-0)
+    18.30  Werder Bremen           v 1. FC Nürnberg           0-1 (0-0)
+  Sun Feb/26
+    15.30  Bayern München          v FC Schalke 04            2-0 (1-0)
+    17.30  Borussia Dortmund       v Hannover 96              3-1 (1-0)
+
+
+» Matchday 24
+  Sat Mar/3
+    15.30  Bayer Leverkusen        v Bayern München           2-0 (0-0)
+           SC Freiburg             v FC Schalke 04            2-1 (1-0)
+           Hertha BSC              v Werder Bremen            1-0 (0-0)
+           Hamburger SV            v VfB Stuttgart            0-4 (0-2)
+           1. FC Kaiserslautern    v VfL Wolfsburg            0-0
+           Hannover 96             v FC Augsburg              2-2 (1-1)
+    18.30  Borussia Dortmund       v 1. FSV Mainz 05          2-1 (1-0)
+  Sun Mar/4
+    15.30  1. FC Nürnberg          v Bor. Mönchengladbach     1-0 (0-0)
+    17.30  1899 Hoffenheim         v 1. FC Köln               1-1 (1-0)
+
+
+» Matchday 25
+  Fri Mar/9
+    20.30  VfB Stuttgart           v 1. FC Kaiserslautern     0-0
+  Sat Mar/10
+    15.30  VfL Wolfsburg           v Bayer Leverkusen         3-2 (2-1)
+           1. FSV Mainz 05         v 1. FC Nürnberg           2-1 (2-0)
+           Bor. Mönchengladbach    v SC Freiburg              0-0
+           Bayern München          v 1899 Hoffenheim          7-1 (5-0)
+           1. FC Köln              v Hertha BSC               1-0 (1-0)
+    18.30  FC Augsburg             v Borussia Dortmund        0-0
+  Sun Mar/11
+    15.30  Werder Bremen           v Hannover 96              3-0 (1-0)
+    17.30  FC Schalke 04           v Hamburger SV             3-1 (3-1)
+
+
+» Matchday 26
+  Fri Mar/16
+    20.30  1899 Hoffenheim         v VfB Stuttgart            1-2 (0-2)
+  Sat Mar/17
+    15.30  Borussia Dortmund       v Werder Bremen            1-0 (1-0)
+           FC Augsburg             v 1. FSV Mainz 05          2-1 (1-1)
+           Hamburger SV            v SC Freiburg              1-3 (0-2)
+           1. FC Nürnberg          v VfL Wolfsburg            1-3 (1-2)
+           Bayer Leverkusen        v Bor. Mönchengladbach     1-2 (0-1)
+    18.30  Hertha BSC              v Bayern München           0-6 (0-3)
+  Sun Mar/18
+    15.30  1. FC Kaiserslautern    v FC Schalke 04            1-4 (1-2)
+    17.30  Hannover 96             v 1. FC Köln               4-1 (1-1)
+
+
+» Matchday 27
+  Fri Mar/23
+    20.30  VfL Wolfsburg           v Hamburger SV             2-1 (0-0)
+  Sat Mar/24
+    15.30  Bayern München          v Hannover 96              2-1 (1-0)
+           SC Freiburg             v 1. FC Kaiserslautern     2-0 (2-0)
+           Bor. Mönchengladbach    v 1899 Hoffenheim          1-2 (1-0)
+           Werder Bremen           v FC Augsburg              1-1 (0-0)
+           1. FSV Mainz 05         v Hertha BSC               1-3 (0-1)
+    18.30  FC Schalke 04           v Bayer Leverkusen         2-0 (1-0)
+  Sun Mar/25
+    15.30  VfB Stuttgart           v 1. FC Nürnberg           1-0 (0-0)
+    17.40  1. FC Köln              v Borussia Dortmund        1-6 (1-1)
+
+
+» Matchday 28
+  Fri Mar/30
+    20.30  Borussia Dortmund       v VfB Stuttgart            4-4 (1-0)
+  Sat Mar/31
+    15.30  1. FC Nürnberg          v Bayern München           0-1 (0-0)
+           1. FC Kaiserslautern    v Hamburger SV             0-1 (0-1)
+           Werder Bremen           v 1. FSV Mainz 05          0-3 (0-1)
+           Bayer Leverkusen        v SC Freiburg              0-2 (0-1)
+           FC Augsburg             v 1. FC Köln               2-1 (2-1)
+    18.30  Hertha BSC              v VfL Wolfsburg            1-4 (1-2)
+  Sun Apr/1
+    15.30  Hannover 96             v Bor. Mönchengladbach     2-1 (0-0)
+    17.30  1899 Hoffenheim         v FC Schalke 04            1-1 (1-0)
+
+
+» Matchday 29
+  Sat Apr/7
+    15.30  VfL Wolfsburg           v Borussia Dortmund        1-3 (0-1)
+           1. FC Köln              v Werder Bremen            1-1 (1-1)
+           VfB Stuttgart           v 1. FSV Mainz 05          4-1 (1-1)
+           SC Freiburg             v 1. FC Nürnberg           2-2 (0-2)
+           1. FC Kaiserslautern    v 1899 Hoffenheim          1-2 (0-1)
+           Bayern München          v FC Augsburg              2-1 (1-1)
+    18.30  Bor. Mönchengladbach    v Hertha BSC               0-0
+  Sun Apr/8
+    15.30  FC Schalke 04           v Hannover 96              3-0 (1-0)
+    17.30  Hamburger SV            v Bayer Leverkusen         1-1 (1-0)
+
+
+» Matchday 30
+  Tue Apr/10
+    20.00  Hertha BSC              v SC Freiburg              1-2 (0-1)
+           FC Augsburg             v VfB Stuttgart            1-3 (1-2)
+           1. FSV Mainz 05         v 1. FC Köln               4-0 (3-0)
+           Werder Bremen           v Bor. Mönchengladbach     2-2 (1-0)
+  Wed Apr/11
+    20.00  Borussia Dortmund       v Bayern München           1-0 (0-0)
+           1. FC Nürnberg          v FC Schalke 04            4-1 (3-0)
+           1899 Hoffenheim         v Hamburger SV             4-0 (2-0)
+           Bayer Leverkusen        v 1. FC Kaiserslautern     3-1 (1-1)
+           Hannover 96             v VfL Wolfsburg            2-0 (1-0)
+
+
+» Matchday 31
+  Fri Apr/13
+    20.30  VfB Stuttgart           v Werder Bremen            4-1 (2-1)
+  Sat Apr/14
+    15.30  FC Schalke 04           v Borussia Dortmund        1-2 (1-1)
+           Hamburger SV            v Hannover 96              1-0 (1-0)
+           1. FC Kaiserslautern    v 1. FC Nürnberg           0-2 (0-1)
+           VfL Wolfsburg           v FC Augsburg              1-2 (1-1)
+           Bayer Leverkusen        v Hertha BSC               3-3 (1-0)
+    18.30  Bayern München          v 1. FSV Mainz 05          0-0
+  Sun Apr/15
+    15.30  Bor. Mönchengladbach    v 1. FC Köln               3-0 (1-0)
+    17.30  SC Freiburg             v 1899 Hoffenheim          0-0
+
+
+» Matchday 32
+  Fri Apr/20
+    20.30  1. FSV Mainz 05         v VfL Wolfsburg            0-0
+  Sat Apr/21
+    15.30  1899 Hoffenheim         v Bayer Leverkusen         0-1 (0-0)
+           Werder Bremen           v Bayern München           1-2 (0-0)
+           1. FC Nürnberg          v Hamburger SV             1-1 (0-0)
+           Hertha BSC              v 1. FC Kaiserslautern     1-2 (0-2)
+           1. FC Köln              v VfB Stuttgart            1-1 (0-0)
+    18.30  Borussia Dortmund       v Bor. Mönchengladbach     2-0 (1-0)
+  Sun Apr/22
+    15.30  FC Augsburg             v FC Schalke 04            1-1 (1-1)
+    17.30  Hannover 96             v SC Freiburg              0-0
+
+
+» Matchday 33
+  Sat Apr/28
+    15.30  1. FC Kaiserslautern    v Borussia Dortmund        2-5 (1-3)
+           VfL Wolfsburg           v Werder Bremen            3-1 (1-1)
+           Bayer Leverkusen        v Hannover 96              1-0 (0-0)
+           Hamburger SV            v 1. FSV Mainz 05          0-0
+           1899 Hoffenheim         v 1. FC Nürnberg           2-3 (1-2)
+           Bayern München          v VfB Stuttgart            2-0 (1-0)
+           SC Freiburg             v 1. FC Köln               4-1 (1-0)
+           Bor. Mönchengladbach    v FC Augsburg              0-0
+           FC Schalke 04           v Hertha BSC               4-0 (1-0)
+
+
+» Matchday 34
+  Sat May/5
+    15.30  1. FC Nürnberg          v Bayer Leverkusen         1-4 (0-2)
+           1. FC Köln              v Bayern München           1-4 (0-1)
+           Werder Bremen           v FC Schalke 04            2-3 (1-1)
+           FC Augsburg             v Hamburger SV             1-0 (1-0)
+           Borussia Dortmund       v SC Freiburg              4-0 (4-0)
+           Hannover 96             v 1. FC Kaiserslautern     2-1 (1-1)
+           Hertha BSC              v 1899 Hoffenheim          3-1 (1-0)
+           VfB Stuttgart           v VfL Wolfsburg            3-2 (0-1)
+           1. FSV Mainz 05         v Bor. Mönchengladbach     0-3 (0-1)

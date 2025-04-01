@@ -390,24 +390,24 @@
            SV Werder Bremen        v Borussia Mönchengladbach  2-4 (2-2)
     18.30  RB Leipzig              v Borussia Dortmund        2-0 (1-0)
   Sun Mar/16
-    15.30  VfL Bochum 1848         v Eintracht Frankfurt      1-3 (0-2)
+    16.20  VfL Bochum 1848         v Eintracht Frankfurt      1-3 (0-2)
     17.30  1. FC Heidenheim 1846   v Holstein Kiel            3-1 (1-0)
     19.30  VfB Stuttgart           v Bayer 04 Leverkusen      3-4 (1-0)
 
 
 » Matchday 27
   Fri Mar/28
-    20.30  Bayer 04 Leverkusen     v VfL Bochum 1848
+    20.30  Bayer 04 Leverkusen     v VfL Bochum 1848          3-1 (1-1)
   Sat Mar/29
-    15.30  Borussia Mönchengladbach v RB Leipzig
-           VfL Wolfsburg           v 1. FC Heidenheim 1846
-           Holstein Kiel           v SV Werder Bremen
-           TSG 1899 Hoffenheim     v FC Augsburg
-           FC Bayern München       v FC St. Pauli 1910
-    18.30  Eintracht Frankfurt     v VfB Stuttgart
+    15.30  Borussia Mönchengladbach v RB Leipzig               1-0 (0-0)
+           VfL Wolfsburg           v 1. FC Heidenheim 1846    0-1 (0-1)
+           Holstein Kiel           v SV Werder Bremen         0-3 (0-1)
+           TSG 1899 Hoffenheim     v FC Augsburg              1-1 (0-0)
+           FC Bayern München       v FC St. Pauli 1910        3-2 (1-1)
+    18.30  Eintracht Frankfurt     v VfB Stuttgart            1-0 (0-0)
   Sun Mar/30
-    15.30  SC Freiburg             v 1. FC Union Berlin
-    17.30  Borussia Dortmund       v 1. FSV Mainz 05
+    15.30  SC Freiburg             v 1. FC Union Berlin       1-2 (1-1)
+    17.30  Borussia Dortmund       v 1. FSV Mainz 05          3-1 (2-0)
 
 
 » Matchday 28
@@ -455,42 +455,48 @@
 
 
 » Matchday 31
+  Fri Apr/25
+    20.30  VfB Stuttgart           v 1. FC Heidenheim 1846
   Sat Apr/26
-    02.00  Eintracht Frankfurt     v RB Leipzig
-           TSG 1899 Hoffenheim     v Borussia Dortmund
-           VfB Stuttgart           v 1. FC Heidenheim 1846
+    15.30  TSG 1899 Hoffenheim     v Borussia Dortmund
            VfL Wolfsburg           v SC Freiburg
            FC Bayern München       v 1. FSV Mainz 05
            Holstein Kiel           v Borussia Mönchengladbach
-           VfL Bochum 1848         v 1. FC Union Berlin
-           SV Werder Bremen        v FC St. Pauli 1910
            Bayer 04 Leverkusen     v FC Augsburg
+    18.30  Eintracht Frankfurt     v RB Leipzig
+  Sun Apr/27
+    15.30  VfL Bochum 1848         v 1. FC Union Berlin
+    17.30  SV Werder Bremen        v FC St. Pauli 1910
 
 
 » Matchday 32
+  Fri May/2
+    20.30  1. FC Heidenheim 1846   v VfL Bochum 1848
   Sat May/3
-    02.00  SC Freiburg             v Bayer 04 Leverkusen
-           FC St. Pauli 1910       v VfB Stuttgart
+    15.30  FC St. Pauli 1910       v VfB Stuttgart
            RB Leipzig              v FC Bayern München
-           1. FSV Mainz 05         v Eintracht Frankfurt
            Borussia Mönchengladbach v TSG 1899 Hoffenheim
            1. FC Union Berlin      v SV Werder Bremen
-           Borussia Dortmund       v VfL Wolfsburg
-           1. FC Heidenheim 1846   v VfL Bochum 1848
-           FC Augsburg             v Holstein Kiel
+    18.30  Borussia Dortmund       v VfL Wolfsburg
+  Sun May/4
+    15.30  FC Augsburg             v Holstein Kiel
+    17.30  SC Freiburg             v Bayer 04 Leverkusen
+    19.30  1. FSV Mainz 05         v Eintracht Frankfurt
 
 
 » Matchday 33
+  Fri May/9
+    20.30  VfL Wolfsburg           v TSG 1899 Hoffenheim
   Sat May/10
-    02.00  SV Werder Bremen        v RB Leipzig
-           Bayer 04 Leverkusen     v Borussia Dortmund
-           VfL Wolfsburg           v TSG 1899 Hoffenheim
+    15.30  SV Werder Bremen        v RB Leipzig
            1. FC Union Berlin      v 1. FC Heidenheim 1846
            Holstein Kiel           v SC Freiburg
-           VfB Stuttgart           v FC Augsburg
            VfL Bochum 1848         v 1. FSV Mainz 05
-           FC Bayern München       v Borussia Mönchengladbach
-           Eintracht Frankfurt     v FC St. Pauli 1910
+    18.30  FC Bayern München       v Borussia Mönchengladbach
+  Sun May/11
+    15.30  Bayer 04 Leverkusen     v Borussia Dortmund
+    17.30  Eintracht Frankfurt     v FC St. Pauli 1910
+    19.30  VfB Stuttgart           v FC Augsburg
 
 
 » Matchday 34

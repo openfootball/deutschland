@@ -427,27 +427,27 @@
 
 » Matchday 29
   Fri Apr/11
-    20.30  VfL Wolfsburg           v RB Leipzig
+    20.30  VfL Wolfsburg           v RB Leipzig               2-3 (0-2)
   Sat Apr/12
-    15.30  Borussia Mönchengladbach v SC Freiburg
-           VfL Bochum 1848         v FC Augsburg
-           TSG 1899 Hoffenheim     v 1. FSV Mainz 05
-           Bayer 04 Leverkusen     v 1. FC Union Berlin
-           Holstein Kiel           v FC St. Pauli 1910
-    18.30  FC Bayern München       v Borussia Dortmund
+    15.30  Borussia Mönchengladbach v SC Freiburg              1-2 (1-1)
+           VfL Bochum 1848         v FC Augsburg              1-2 (0-1)
+           TSG 1899 Hoffenheim     v 1. FSV Mainz 05          2-0 (2-0)
+           Bayer 04 Leverkusen     v 1. FC Union Berlin       0-0
+           Holstein Kiel           v FC St. Pauli 1910        1-2 (1-1)
+    18.30  FC Bayern München       v Borussia Dortmund        2-2 (0-0)
   Sun Apr/13
-    15.30  VfB Stuttgart           v SV Werder Bremen
-    17.30  Eintracht Frankfurt     v 1. FC Heidenheim 1846
+    15.30  VfB Stuttgart           v SV Werder Bremen         1-2 (1-1)
+    17.30  Eintracht Frankfurt     v 1. FC Heidenheim 1846    3-0 (2-0)
 
 
 » Matchday 30
   Sat Apr/19
-    15.30  1. FC Heidenheim 1846   v FC Bayern München
-           SC Freiburg             v TSG 1899 Hoffenheim
-           1. FSV Mainz 05         v VfL Wolfsburg
-           SV Werder Bremen        v VfL Bochum 1848
-           RB Leipzig              v Holstein Kiel
-    18.30  1. FC Union Berlin      v VfB Stuttgart
+    15.30  1. FC Heidenheim 1846   v FC Bayern München        0-4 (0-3)
+           SC Freiburg             v TSG 1899 Hoffenheim      3-2 (2-2)
+           1. FSV Mainz 05         v VfL Wolfsburg            2-2 (2-1)
+           SV Werder Bremen        v VfL Bochum 1848          1-0 (0-0)
+           RB Leipzig              v Holstein Kiel            1-1 (0-1)
+    18.30  1. FC Union Berlin      v VfB Stuttgart            4-4 (4-4)
   Sun Apr/20
     15.30  FC Augsburg             v Eintracht Frankfurt
     17.30  Borussia Dortmund       v Borussia Mönchengladbach

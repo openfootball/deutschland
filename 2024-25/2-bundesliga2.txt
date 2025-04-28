@@ -398,76 +398,76 @@
 
 » Matchday 27
   Fri Mar/28
-    18.30  SSV Ulm 1846            v SV Darmstadt 98
-           Hamburger SV            v SV 07 Elversberg
+    18.30  SSV Ulm 1846            v SV Darmstadt 98          2-1 (0-0)
+           Hamburger SV            v SV 07 Elversberg         0-0
   Sat Mar/29
-    13.00  SC Paderborn 07         v 1. FC Köln
-           Hertha BSC              v Karlsruher SC
-           Hannover 96             v 1. FC Magdeburg
-    20.30  1. FC Kaiserslautern    v Fortuna Düsseldorf
+    13.00  SC Paderborn 07         v 1. FC Köln               1-2 (1-1)
+           Hertha BSC              v Karlsruher SC            3-1 (1-0)
+           Hannover 96             v 1. FC Magdeburg          0-0
+    20.30  1. FC Kaiserslautern    v Fortuna Düsseldorf       3-1 (1-0)
   Sun Mar/30
-    13.30  SpVgg Greuther Fürth    v FC Schalke 04
-           Jahn Regensburg         v 1. FC Nürnberg
-           Preußen Münster         v Eintracht Braunschweig
+    13.30  SpVgg Greuther Fürth    v FC Schalke 04            3-3 (2-1)
+           Jahn Regensburg         v 1. FC Nürnberg           2-1 (0-1)
+           Preußen Münster         v Eintracht Braunschweig   1-1 (1-1)
 
 
 » Matchday 28
   Fri Apr/4
-    18.30  Karlsruher SC           v Hannover 96
-           Eintracht Braunschweig  v SC Paderborn 07
+    18.30  Karlsruher SC           v Hannover 96              1-0 (0-0)
+           Eintracht Braunschweig  v SC Paderborn 07          3-2 (1-1)
   Sat Apr/5
-    13.00  1. FC Nürnberg          v Hamburger SV
-           SV Darmstadt 98         v SpVgg Greuther Fürth
-           Fortuna Düsseldorf      v Preußen Münster
-    20.30  1. FC Köln              v Hertha BSC
+    13.00  1. FC Nürnberg          v Hamburger SV             0-3 (0-2)
+           SV Darmstadt 98         v SpVgg Greuther Fürth     1-0 (0-0)
+           Fortuna Düsseldorf      v Preußen Münster          1-0 (1-0)
+    20.30  1. FC Köln              v Hertha BSC               0-1 (0-0)
   Sun Apr/6
-    13.30  1. FC Magdeburg         v 1. FC Kaiserslautern
-           FC Schalke 04           v SSV Ulm 1846
-           SV 07 Elversberg        v Jahn Regensburg
+    13.30  1. FC Magdeburg         v 1. FC Kaiserslautern     2-0 (2-0)
+           FC Schalke 04           v SSV Ulm 1846             2-1 (0-1)
+           SV 07 Elversberg        v Jahn Regensburg          6-0 (3-0)
 
 
 » Matchday 29
   Fri Apr/11
-    18.30  SpVgg Greuther Fürth    v 1. FC Köln
-           Hamburger SV            v Eintracht Braunschweig
+    18.30  SpVgg Greuther Fürth    v 1. FC Köln               1-1 (1-1)
+           Hamburger SV            v Eintracht Braunschweig   2-4 (0-2)
   Sat Apr/12
-    13.00  Hertha BSC              v SV Darmstadt 98
-           Hannover 96             v SV 07 Elversberg
-           SSV Ulm 1846            v 1. FC Magdeburg
-    20.30  1. FC Kaiserslautern    v 1. FC Nürnberg
+    13.00  Hertha BSC              v SV Darmstadt 98          1-1 (0-0)
+           Hannover 96             v SV 07 Elversberg         1-3 (1-0)
+           SSV Ulm 1846            v 1. FC Magdeburg          1-0 (1-0)
+    20.30  1. FC Kaiserslautern    v 1. FC Nürnberg           1-2 (0-1)
   Sun Apr/13
-    13.30  SC Paderborn 07         v Fortuna Düsseldorf
-           Preußen Münster         v Karlsruher SC
-           Jahn Regensburg         v FC Schalke 04
+    13.30  SC Paderborn 07         v Fortuna Düsseldorf       1-2 (0-1)
+           Preußen Münster         v Karlsruher SC            1-1 (0-1)
+           Jahn Regensburg         v FC Schalke 04            2-0 (1-0)
 
 
 » Matchday 30
   Sat Apr/19
-    13.00  SV 07 Elversberg        v Fortuna Düsseldorf
-           1. FC Nürnberg          v SC Paderborn 07
-           Eintracht Braunschweig  v 1. FC Kaiserslautern
-    20.30  FC Schalke 04           v Hamburger SV
+    13.00  SV 07 Elversberg        v Fortuna Düsseldorf       1-1 (0-0)
+           1. FC Nürnberg          v SC Paderborn 07          2-3 (1-1)
+           Eintracht Braunschweig  v 1. FC Kaiserslautern     2-0 (0-0)
+    20.30  FC Schalke 04           v Hamburger SV             2-2 (1-2)
   Sun Apr/20
-    13.30  SV Darmstadt 98         v Hannover 96
-           Karlsruher SC           v SpVgg Greuther Fürth
-           SSV Ulm 1846            v Hertha BSC
-           1. FC Köln              v Preußen Münster
-           1. FC Magdeburg         v Jahn Regensburg
+    13.30  SV Darmstadt 98         v Hannover 96              3-1 (1-0)
+           Karlsruher SC           v SpVgg Greuther Fürth     1-0 (0-0)
+           SSV Ulm 1846            v Hertha BSC               2-3 (1-0)
+           1. FC Köln              v Preußen Münster          3-1 (2-1)
+           1. FC Magdeburg         v Jahn Regensburg          3-0 (1-0)
 
 
 » Matchday 31
   Fri Apr/25
-    18.30  Hertha BSC              v 1. FC Magdeburg
-           SpVgg Greuther Fürth    v SSV Ulm 1846
+    18.30  Hertha BSC              v 1. FC Magdeburg          1-1 (1-1)
+           SpVgg Greuther Fürth    v SSV Ulm 1846             0-1 (0-0)
   Sat Apr/26
-    13.00  Preußen Münster         v SV Darmstadt 98
-           SC Paderborn 07         v SV 07 Elversberg
-           Jahn Regensburg         v Eintracht Braunschweig
-    20.30  Fortuna Düsseldorf      v 1. FC Nürnberg
+    13.00  Preußen Münster         v SV Darmstadt 98          1-1 (0-1)
+           SC Paderborn 07         v SV 07 Elversberg         1-1 (0-0)
+           Jahn Regensburg         v Eintracht Braunschweig   1-1 (1-1)
+    20.30  Fortuna Düsseldorf      v 1. FC Nürnberg           3-3 (0-2)
   Sun Apr/27
-    13.30  Hannover 96             v 1. FC Köln
-           Hamburger SV            v Karlsruher SC
-           1. FC Kaiserslautern    v FC Schalke 04
+    13.30  Hannover 96             v 1. FC Köln               1-0 (0-0)
+           Hamburger SV            v Karlsruher SC            1-2 (1-2)
+           1. FC Kaiserslautern    v FC Schalke 04            2-1 (1-0)
 
 
 » Matchday 32

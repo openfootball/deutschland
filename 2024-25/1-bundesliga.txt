@@ -207,7 +207,7 @@
   Sat Dec/14
     15.30  1. FSV Mainz 05         v FC Bayern München        2-1 (1-0)
            Borussia Mönchengladbach v Holstein Kiel            4-1 (3-1)
-           1. FC Union Berlin      v VfL Bochum 1848          0-2
+           1. FC Union Berlin      v VfL Bochum 1848          0-2    [awarded]
            FC Augsburg             v Bayer 04 Leverkusen      0-2 (0-2)
     18.30  FC St. Pauli 1910       v SV Werder Bremen         0-2 (0-1)
   Sun Dec/15
@@ -486,17 +486,17 @@
 
 » Matchday 33
   Fri May/9
-    20.30  VfL Wolfsburg           v TSG 1899 Hoffenheim
+    20.30  VfL Wolfsburg           v TSG 1899 Hoffenheim      2-2 (1-1)
   Sat May/10
-    15.30  SV Werder Bremen        v RB Leipzig
-           1. FC Union Berlin      v 1. FC Heidenheim 1846
-           Holstein Kiel           v SC Freiburg
-           VfL Bochum 1848         v 1. FSV Mainz 05
-    18.30  FC Bayern München       v Borussia Mönchengladbach
+    15.30  SV Werder Bremen        v RB Leipzig               0-0
+           1. FC Union Berlin      v 1. FC Heidenheim 1846    0-3 (0-1)
+           Holstein Kiel           v SC Freiburg              1-2 (1-1)
+           VfL Bochum 1848         v 1. FSV Mainz 05          1-4 (0-1)
+    18.30  FC Bayern München       v Borussia Mönchengladbach  2-0 (1-0)
   Sun May/11
-    15.30  Bayer 04 Leverkusen     v Borussia Dortmund
-    17.30  Eintracht Frankfurt     v FC St. Pauli 1910
-    19.30  VfB Stuttgart           v FC Augsburg
+    15.30  Bayer 04 Leverkusen     v Borussia Dortmund        2-4 (1-2)
+    17.30  Eintracht Frankfurt     v FC St. Pauli 1910        2-2 (1-2)
+    19.30  VfB Stuttgart           v FC Augsburg              4-0 (1-0)
 
 
 » Matchday 34

@@ -501,12 +501,12 @@
 
 » Matchday 34
   Sat May/17
-    15.30  1. FSV Mainz 05         v Bayer 04 Leverkusen
-           RB Leipzig              v VfB Stuttgart
-           TSG 1899 Hoffenheim     v FC Bayern München
-           SC Freiburg             v Eintracht Frankfurt
-           1. FC Heidenheim 1846   v SV Werder Bremen
-           Borussia Mönchengladbach v VfL Wolfsburg
-           FC Augsburg             v 1. FC Union Berlin
-           FC St. Pauli 1910       v VfL Bochum 1848
-           Borussia Dortmund       v Holstein Kiel
+    15.30  1. FSV Mainz 05         v Bayer 04 Leverkusen      2-2 (1-0)
+           RB Leipzig              v VfB Stuttgart            2-3 (2-1)
+           TSG 1899 Hoffenheim     v FC Bayern München        0-4 (0-1)
+           SC Freiburg             v Eintracht Frankfurt      1-3 (1-1)
+           1. FC Heidenheim 1846   v SV Werder Bremen         1-4 (0-2)
+           Borussia Mönchengladbach v VfL Wolfsburg            0-1 (0-0)
+           FC Augsburg             v 1. FC Union Berlin       1-2 (1-0)
+           FC St. Pauli 1910       v VfL Bochum 1848          0-2 (0-1)
+           Borussia Dortmund       v Holstein Kiel            3-0 (1-0)

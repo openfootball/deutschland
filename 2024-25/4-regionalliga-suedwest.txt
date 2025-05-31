@@ -380,125 +380,129 @@
 
 » Matchday 26
   Fri Mar/28
-    19.00  1899 Hoffenheim II      v SG Barockstadt Fulda-Lehnerz
+    19.00  1899 Hoffenheim II      v SG Barockstadt Fulda-Lehnerz  2-0 (2-0)
   Sat Mar/29
-    14.00  Bahlinger SC            v SC Freiburg II
-           SGV Freiberg            v Eintracht Trier
-           FC Gießen               v FC 08 Villingen
-           FC-Astoria Walldorf     v FC 08 Homburg
-           Göppinger SV            v Eintracht Frankfurt II
-           TSV Steinbach Haiger    v Hessen Kassel
-           Kickers Offenbach       v 1. FSV Mainz 05 II
+    14.00  Bahlinger SC            v SC Freiburg II           3-3 (1-3)
+           SGV Freiberg            v Eintracht Trier          1-0 (1-0)
+           FC Gießen               v FC 08 Villingen          2-1 (1-0)
+           FC-Astoria Walldorf     v FC 08 Homburg            1-1 (0-0)
+           Göppinger SV            v Eintracht Frankfurt II   2-3 (0-2)
+           TSV Steinbach Haiger    v Hessen Kassel            1-3 (0-2)
+           Kickers Offenbach       v 1. FSV Mainz 05 II       3-2 (1-1)
   Sun Mar/30
-    14.00  FSV Frankfurt           v Stuttgarter Kickers
+    14.00  FSV Frankfurt           v Stuttgarter Kickers      0-1 (0-0)
 
 
 » Matchday 27
   Tue Apr/1
-    19.00  FC 08 Homburg           v Göppinger SV
-           FC 08 Villingen         v FC-Astoria Walldorf
-           SC Freiburg II          v FC Gießen
-           SG Barockstadt Fulda-Lehnerz v Bahlinger SC
-           Eintracht Trier         v 1899 Hoffenheim II
-           Hessen Kassel           v Kickers Offenbach
+    19.00  FC 08 Homburg           v Göppinger SV             2-1 (1-1)
+           FC 08 Villingen         v FC-Astoria Walldorf      1-2 (0-2)
+           SC Freiburg II          v FC Gießen                0-1 (0-0)
+           SG Barockstadt Fulda-Lehnerz v Bahlinger SC             0-1 (0-1)
+           Eintracht Trier         v 1899 Hoffenheim II       0-4 (0-1)
+           Hessen Kassel           v Kickers Offenbach        4-1 (2-0)
   Wed Apr/2
-    19.00  Eintracht Frankfurt II  v TSV Steinbach Haiger
-           1. FSV Mainz 05 II      v FSV Frankfurt
+    19.00  Eintracht Frankfurt II  v TSV Steinbach Haiger     0-1 (0-0)
+           1. FSV Mainz 05 II      v FSV Frankfurt            3-0 (1-0)
   Wed Apr/9
-    19.00  Stuttgarter Kickers     v SGV Freiberg
+    19.00  Stuttgarter Kickers     v SGV Freiberg             3-2 (0-0)
 
 
 » Matchday 28
   Sat Apr/5
-    14.00  SG Barockstadt Fulda-Lehnerz v SC Freiburg II
-           Bahlinger SC            v Eintracht Trier
-           FC-Astoria Walldorf     v FC Gießen
-           Göppinger SV            v FC 08 Villingen
-           TSV Steinbach Haiger    v FC 08 Homburg
-           Kickers Offenbach       v Eintracht Frankfurt II
-           SGV Freiberg            v 1. FSV Mainz 05 II
+    14.00  SG Barockstadt Fulda-Lehnerz v SC Freiburg II           1-0 (0-0)
+           Bahlinger SC            v Eintracht Trier          3-3 (1-1)
+           FC-Astoria Walldorf     v FC Gießen                3-1 (1-1)
+           Göppinger SV            v FC 08 Villingen          1-6 (0-2)
+           TSV Steinbach Haiger    v FC 08 Homburg            1-1 (1-0)
+           Kickers Offenbach       v Eintracht Frankfurt II   1-0 (0-0)
+           SGV Freiberg            v 1. FSV Mainz 05 II       0-1 (0-0)
   Sun Apr/6
-    14.00  1899 Hoffenheim II      v Stuttgarter Kickers
-           FSV Frankfurt           v Hessen Kassel
+    14.00  1899 Hoffenheim II      v Stuttgarter Kickers      3-0 (2-0)
+           FSV Frankfurt           v Hessen Kassel            1-4 (0-2)
 
 
 » Matchday 29
   Fri Apr/11
-    19.00  SC Freiburg II          v FC-Astoria Walldorf
-           Eintracht Frankfurt II  v FSV Frankfurt
-           FC 08 Homburg           v Kickers Offenbach
+    19.00  SC Freiburg II          v FC-Astoria Walldorf      2-0 (1-0)
+           Eintracht Frankfurt II  v FSV Frankfurt            2-2 (2-1)
+           FC 08 Homburg           v Kickers Offenbach        5-1 (0-1)
   Sat Apr/12
-    14.00  FC 08 Villingen         v TSV Steinbach Haiger
-           FC Gießen               v Göppinger SV
-           Eintracht Trier         v SG Barockstadt Fulda-Lehnerz
-           Stuttgarter Kickers     v Bahlinger SC
-           Hessen Kassel           v SGV Freiberg
+    14.00  FC 08 Villingen         v TSV Steinbach Haiger     1-3 (1-2)
+           FC Gießen               v Göppinger SV             1-1 (1-0)
+           Eintracht Trier         v SG Barockstadt Fulda-Lehnerz  0-0
+           Stuttgarter Kickers     v Bahlinger SC             1-2 (0-0)
+           Hessen Kassel           v SGV Freiberg             1-0 (0-0)
   Sun Apr/13
-    14.00  1. FSV Mainz 05 II      v 1899 Hoffenheim II
+    14.00  1. FSV Mainz 05 II      v 1899 Hoffenheim II       1-5 (0-3)
 
 
 » Matchday 30
   Thu Apr/17
-    19.00  TSV Steinbach Haiger    v FC Gießen
-           Kickers Offenbach       v FC 08 Villingen
+    19.00  TSV Steinbach Haiger    v FC Gießen                2-3 (2-1)
+           Kickers Offenbach       v FC 08 Villingen          3-1 (2-1)
   Sat Apr/19
-    14.00  Eintracht Trier         v SC Freiburg II
-           SG Barockstadt Fulda-Lehnerz v Stuttgarter Kickers
-           Göppinger SV            v FC-Astoria Walldorf
-           FSV Frankfurt           v FC 08 Homburg
-           SGV Freiberg            v Eintracht Frankfurt II
-           Bahlinger SC            v 1. FSV Mainz 05 II
+    14.00  Eintracht Trier         v SC Freiburg II           1-3 (0-0)
+           SG Barockstadt Fulda-Lehnerz v Stuttgarter Kickers      2-1 (1-1)
+           Göppinger SV            v FC-Astoria Walldorf      2-3 (2-2)
+           FSV Frankfurt           v FC 08 Homburg            0-3 (0-2)
+           SGV Freiberg            v Eintracht Frankfurt II   1-0 (1-0)
+           Bahlinger SC            v 1. FSV Mainz 05 II       4-3 (1-1)
   Sun Apr/20
-    14.00  1899 Hoffenheim II      v Hessen Kassel
+    14.00  1899 Hoffenheim II      v Hessen Kassel            2-1 (0-0)
 
 
 » Matchday 31
+  Fri Apr/25
+    19.00  FC-Astoria Walldorf     v TSV Steinbach Haiger     1-3 (0-2)
+           FC 08 Homburg           v SGV Freiberg             1-2 (0-2)
+           FC 08 Villingen         v FSV Frankfurt            1-5 (1-0)
   Sat Apr/26
-           FC-Astoria Walldorf     v TSV Steinbach Haiger
-           SC Freiburg II          v Göppinger SV
-           Stuttgarter Kickers     v Eintracht Trier
-           1. FSV Mainz 05 II      v SG Barockstadt Fulda-Lehnerz
-           Hessen Kassel           v Bahlinger SC
-           Eintracht Frankfurt II  v 1899 Hoffenheim II
-           FC 08 Homburg           v SGV Freiberg
-           FC 08 Villingen         v FSV Frankfurt
-           FC Gießen               v Kickers Offenbach
+    14.00  SC Freiburg II          v Göppinger SV             4-2 (1-1)
+           Hessen Kassel           v Bahlinger SC             2-0 (0-0)
+           Eintracht Frankfurt II  v 1899 Hoffenheim II       1-2 (0-1)
+  Sun Apr/27
+    14.00  Stuttgarter Kickers     v Eintracht Trier          3-2 (2-0)
+           1. FSV Mainz 05 II      v SG Barockstadt Fulda-Lehnerz  0-1 (0-1)
+           FC Gießen               v Kickers Offenbach        1-1 (1-0)
 
 
 » Matchday 32
+  Fri May/2
+    19.00  1899 Hoffenheim II      v FC 08 Homburg            3-2 (1-0)
   Sat May/3
-           Stuttgarter Kickers     v SC Freiburg II
-           TSV Steinbach Haiger    v Göppinger SV
-           Kickers Offenbach       v FC-Astoria Walldorf
-           FSV Frankfurt           v FC Gießen
-           SGV Freiberg            v FC 08 Villingen
-           1899 Hoffenheim II      v FC 08 Homburg
-           Bahlinger SC            v Eintracht Frankfurt II
-           SG Barockstadt Fulda-Lehnerz v Hessen Kassel
-           Eintracht Trier         v 1. FSV Mainz 05 II
+    14.00  Stuttgarter Kickers     v SC Freiburg II           0-2 (0-0)
+           TSV Steinbach Haiger    v Göppinger SV             0-1 (0-0)
+           Kickers Offenbach       v FC-Astoria Walldorf      3-2 (1-1)
+           FSV Frankfurt           v FC Gießen                0-1 (0-0)
+           SGV Freiberg            v FC 08 Villingen          3-1 (1-1)
+           Bahlinger SC            v Eintracht Frankfurt II   0-1 (0-0)
+           SG Barockstadt Fulda-Lehnerz v Hessen Kassel            1-2 (0-1)
+  Sun May/4
+    14.00  Eintracht Trier         v 1. FSV Mainz 05 II       1-1 (0-0)
 
 
 » Matchday 33
   Sat May/10
-           TSV Steinbach Haiger    v SC Freiburg II
-           1. FSV Mainz 05 II      v Stuttgarter Kickers
-           Hessen Kassel           v Eintracht Trier
-           Eintracht Frankfurt II  v SG Barockstadt Fulda-Lehnerz
-           FC 08 Homburg           v Bahlinger SC
-           FC 08 Villingen         v 1899 Hoffenheim II
-           FC Gießen               v SGV Freiberg
-           FC-Astoria Walldorf     v FSV Frankfurt
-           Göppinger SV            v Kickers Offenbach
+    14.00  TSV Steinbach Haiger    v SC Freiburg II           3-0 (2-0)
+           1. FSV Mainz 05 II      v Stuttgarter Kickers      4-1 (2-1)
+           Hessen Kassel           v Eintracht Trier          0-0
+           Eintracht Frankfurt II  v SG Barockstadt Fulda-Lehnerz  2-3 (2-0)
+           FC 08 Homburg           v Bahlinger SC             0-1 (0-0)
+           FC 08 Villingen         v 1899 Hoffenheim II       3-1 (2-1)
+           FC Gießen               v SGV Freiberg             1-0 (1-0)
+           FC-Astoria Walldorf     v FSV Frankfurt            3-1 (0-1)
+           Göppinger SV            v Kickers Offenbach        2-2 (1-2)
 
 
 » Matchday 34
   Sat May/17
-           Kickers Offenbach       v TSV Steinbach Haiger
-           FSV Frankfurt           v Göppinger SV
-           SGV Freiberg            v FC-Astoria Walldorf
-           1899 Hoffenheim II      v FC Gießen
-           Bahlinger SC            v FC 08 Villingen
-           SG Barockstadt Fulda-Lehnerz v FC 08 Homburg
-           Eintracht Trier         v Eintracht Frankfurt II
-           Stuttgarter Kickers     v Hessen Kassel
-           SC Freiburg II          v 1. FSV Mainz 05 II
+    14.00  Kickers Offenbach       v TSV Steinbach Haiger     5-1 (3-1)
+           FSV Frankfurt           v Göppinger SV             5-2 (2-1)
+           SGV Freiberg            v FC-Astoria Walldorf      2-1 (2-1)
+           1899 Hoffenheim II      v FC Gießen                4-1 (3-0)
+           Bahlinger SC            v FC 08 Villingen          3-4 (0-0)
+           SG Barockstadt Fulda-Lehnerz v FC 08 Homburg            1-1 (0-0)
+           Eintracht Trier         v Eintracht Frankfurt II   1-2 (0-1)
+           Stuttgarter Kickers     v Hessen Kassel            1-5 (0-2)
+           SC Freiburg II          v 1. FSV Mainz 05 II       1-3 (1-1)

@@ -195,7 +195,7 @@
   Sat Feb/22 2025
     14.00  Bayern München II       v 1. FC Schweinfurt 05     1-2 (0-2)
   Tue Apr/8
-    18.00  DJK Vilzing             v SpVgg Hankofen-Hailing
+    18.00  DJK Vilzing             v SpVgg Hankofen-Hailing   3-1 (1-1)
 
 
 » Matchday 14
@@ -309,7 +309,7 @@
   Sat Feb/22 2025
     14.00  FV Illertissen          v SpVgg Hankofen-Hailing   3-1 (2-1)
   Tue Apr/8
-    18.00  SpVgg Ansbach           v Würzburger Kickers
+    18.00  SpVgg Ansbach           v Würzburger Kickers       1-2 (0-0)
 
 
 » Matchday 22
@@ -324,9 +324,9 @@
   Sun Feb/23 2025
     14.00  TSV Aubstadt            v TSV Schwaben Augsburg    2-3 (1-0)
   Tue Apr/1
-    17.45  SpVgg Hankofen-Hailing  v Türkgücü München
+    17.45  SpVgg Hankofen-Hailing  v Türkgücü München         0-2 (0-1)
   Tue Apr/15
-    18.00  DJK Vilzing             v SpVgg Ansbach
+    18.00  DJK Vilzing             v SpVgg Ansbach            1-0 (1-0)
 
 
 » Matchday 23
@@ -365,7 +365,7 @@
            SpVgg Bayreuth          v Würzburger Kickers       1-1 (1-1)
            Wacker Burghausen       v TSV Buchbach             2-2 (0-0)
   Sat Mar/15
-           Türkgücü München        v 1. FC Schweinfurt 05     [postponed]
+           Türkgücü München        v 1. FC Schweinfurt 05     0-2    [awarded]
     14.00  1. FC Nürnberg II       v TSV Aubstadt             1-0 (1-0)
            FV Illertissen          v SpVgg Greuther Fürth II  0-0
            SpVgg Ansbach           v SpVgg Hankofen-Hailing   4-0 (2-0)
@@ -384,120 +384,121 @@
            SpVgg Greuther Fürth II v Türkgücü München         3-2 (2-1)
            SpVgg Hankofen-Hailing  v 1. FC Nürnberg II        1-2 (0-1)
   Tue Apr/15
-    18.30  FV Illertissen          v SpVgg Bayreuth
+    18.30  FV Illertissen          v SpVgg Bayreuth           3-3 (3-1)
   Tue Apr/22
-    18.15  Eintracht Bamberg       v Wacker Burghausen
+    17.00  Eintracht Bamberg       v Wacker Burghausen        0-4 (0-3)
   Wed Apr/23
-    18.15  TSV Aubstadt            v Bayern München II
+    18.15  TSV Aubstadt            v Bayern München II        2-1 (1-0)
 
 
 » Matchday 27
   Fri Mar/28
-    19.00  Bayern München II       v SpVgg Hankofen-Hailing
-           Wacker Burghausen       v 1. FC Schweinfurt 05
+    19.00  Bayern München II       v SpVgg Hankofen-Hailing   1-1 (1-0)
+           Wacker Burghausen       v 1. FC Schweinfurt 05     2-5 (2-3)
   Sat Mar/29
-    14.00  1. FC Nürnberg II       v TSV Buchbach
-           SpVgg Ansbach           v Eintracht Bamberg
-           SpVgg Bayreuth          v DJK Vilzing
-           TSV Schwaben Augsburg   v SpVgg Greuther Fürth II
-           Türkgücü München        v FV Illertissen
-           Viktoria Aschaffenburg  v TSV Aubstadt
-           Würzburger Kickers      v FC Augsburg II
+    14.00  1. FC Nürnberg II       v TSV Buchbach             1-2 (0-1)
+           SpVgg Ansbach           v Eintracht Bamberg        1-1 (0-1)
+           SpVgg Bayreuth          v DJK Vilzing              2-4 (1-3)
+           TSV Schwaben Augsburg   v SpVgg Greuther Fürth II  2-3 (2-2)
+           Türkgücü München        v FV Illertissen           2-2 (1-1)
+           Viktoria Aschaffenburg  v TSV Aubstadt             1-1 (1-1)
+           Würzburger Kickers      v FC Augsburg II           0-3 (0-0)
 
 
 » Matchday 28
   Fri Apr/4
-    19.00  FV Illertissen          v TSV Schwaben Augsburg
-           TSV Buchbach            v Bayern München II
+    19.00  FV Illertissen          v TSV Schwaben Augsburg    1-1 (1-1)
+           TSV Buchbach            v Bayern München II        2-1 (1-0)
   Sat Apr/5
-    14.00  1. FC Schweinfurt 05    v SpVgg Ansbach
-           FC Augsburg II          v DJK Vilzing
-           Eintracht Bamberg       v 1. FC Nürnberg II
-           SpVgg Greuther Fürth II v Wacker Burghausen
-           SpVgg Hankofen-Hailing  v Viktoria Aschaffenburg
-           TSV Aubstadt            v Würzburger Kickers
-           Türkgücü München        v SpVgg Bayreuth
+    14.00  1. FC Schweinfurt 05    v SpVgg Ansbach            1-2 (0-1)
+           FC Augsburg II          v DJK Vilzing              0-2 (0-1)
+           Eintracht Bamberg       v 1. FC Nürnberg II        4-4 (2-3)
+           SpVgg Greuther Fürth II v Wacker Burghausen        3-1 (2-0)
+           SpVgg Hankofen-Hailing  v Viktoria Aschaffenburg   0-3 (0-2)
+           TSV Aubstadt            v Würzburger Kickers       0-1 (0-1)
+           Türkgücü München        v SpVgg Bayreuth           1-4 (0-2)
 
 
 » Matchday 29
   Fri Apr/11
-    18.30  SpVgg Bayreuth          v FC Augsburg II
-    19.00  Bayern München II       v Eintracht Bamberg
-           TSV Schwaben Augsburg   v Türkgücü München
-           Wacker Burghausen       v FV Illertissen
+    18.30  SpVgg Bayreuth          v FC Augsburg II           2-2 (0-2)
+    19.00  Bayern München II       v Eintracht Bamberg        6-0 (2-0)
+           TSV Schwaben Augsburg   v Türkgücü München         1-1 (1-0)
+           Wacker Burghausen       v FV Illertissen           1-1 (1-1)
   Sat Apr/12
-    14.00  1. FC Nürnberg II       v 1. FC Schweinfurt 05
-           DJK Vilzing             v TSV Aubstadt
-           SpVgg Ansbach           v SpVgg Greuther Fürth II
-           Viktoria Aschaffenburg  v TSV Buchbach
-           Würzburger Kickers      v SpVgg Hankofen-Hailing
+    14.00  1. FC Nürnberg II       v 1. FC Schweinfurt 05     2-3 (0-2)
+           DJK Vilzing             v TSV Aubstadt             0-1 (0-0)
+           SpVgg Ansbach           v SpVgg Greuther Fürth II  0-0
+           Viktoria Aschaffenburg  v TSV Buchbach             0-0
+           Würzburger Kickers      v SpVgg Hankofen-Hailing   5-1 (3-1)
 
 
 » Matchday 30
   Thu Apr/17
-    19.00  1. FC Schweinfurt 05    v Bayern München II
+    19.00  1. FC Schweinfurt 05    v Bayern München II        1-2 (0-1)
   Sat Apr/19
-    14.00  Eintracht Bamberg       v Viktoria Aschaffenburg
-           FV Illertissen          v SpVgg Ansbach
-           SpVgg Greuther Fürth II v 1. FC Nürnberg II
-           SpVgg Hankofen-Hailing  v DJK Vilzing
-           TSV Aubstadt            v FC Augsburg II
-           TSV Schwaben Augsburg   v SpVgg Bayreuth
-           Türkgücü München        v Wacker Burghausen
+           Türkgücü München        v Wacker Burghausen        0-2    [awarded]
+    14.00  Eintracht Bamberg       v Viktoria Aschaffenburg   1-1 (1-1)
+           FV Illertissen          v SpVgg Ansbach            0-0
+           SpVgg Greuther Fürth II v 1. FC Nürnberg II        1-1 (1-0)
+           SpVgg Hankofen-Hailing  v DJK Vilzing              2-3 (1-0)
+           TSV Aubstadt            v FC Augsburg II           0-5 (0-3)
+           TSV Schwaben Augsburg   v SpVgg Bayreuth           1-1 (0-1)
   Sun Apr/20
-    16.00  TSV Buchbach            v Würzburger Kickers
+    16.00  TSV Buchbach            v Würzburger Kickers       1-0 (0-0)
 
 
 » Matchday 31
   Fri Apr/25
-    18.30  Würzburger Kickers      v Eintracht Bamberg
-    19.00  FC Augsburg II          v SpVgg Hankofen-Hailing
-           Viktoria Aschaffenburg  v 1. FC Schweinfurt 05
+    18.30  Würzburger Kickers      v Eintracht Bamberg        1-1 (1-0)
+    19.00  FC Augsburg II          v SpVgg Hankofen-Hailing   1-1 (0-1)
+           Viktoria Aschaffenburg  v 1. FC Schweinfurt 05     2-2 (1-1)
   Sat Apr/26
-    14.00  1. FC Nürnberg II       v FV Illertissen
-           SpVgg Greuther Fürth II v Bayern München II
-           DJK Vilzing             v TSV Buchbach
-           SpVgg Ansbach           v Türkgücü München
-           SpVgg Bayreuth          v TSV Aubstadt
-           Wacker Burghausen       v TSV Schwaben Augsburg
+    14.00  1. FC Nürnberg II       v FV Illertissen           2-0 (0-0)
+           SpVgg Greuther Fürth II v Bayern München II        5-1 (1-1)
+           DJK Vilzing             v TSV Buchbach             3-1 (1-1)
+           SpVgg Ansbach           v Türkgücü München         1-1 (1-1)
+           SpVgg Bayreuth          v TSV Aubstadt             3-0 (1-0)
+           Wacker Burghausen       v TSV Schwaben Augsburg    1-0 (1-0)
 
 
 » Matchday 32
   Fri May/2
-    18.30  SpVgg Hankofen-Hailing  v TSV Aubstadt
-    19.00  1. FC Schweinfurt 05    v Würzburger Kickers
-           TSV Buchbach            v FC Augsburg II
-           Wacker Burghausen       v SpVgg Bayreuth
+    18.30  SpVgg Hankofen-Hailing  v TSV Aubstadt             1-0 (1-0)
+    19.00  1. FC Schweinfurt 05    v Würzburger Kickers       2-1 (1-0)
+           TSV Buchbach            v FC Augsburg II           5-2 (2-2)
+           Wacker Burghausen       v SpVgg Bayreuth           3-1 (1-1)
   Sat May/3
-    14.00  Eintracht Bamberg       v DJK Vilzing
-           FV Illertissen          v Bayern München II
-           SpVgg Greuther Fürth II v Viktoria Aschaffenburg
-           TSV Schwaben Augsburg   v SpVgg Ansbach
-           Türkgücü München        v 1. FC Nürnberg II
+    14.00  Eintracht Bamberg       v DJK Vilzing              1-2 (1-2)
+           FV Illertissen          v Bayern München II        2-2 (2-1)
+           SpVgg Greuther Fürth II v Viktoria Aschaffenburg   3-1 (1-1)
+           TSV Schwaben Augsburg   v SpVgg Ansbach            2-3 (1-2)
+           Türkgücü München        v 1. FC Nürnberg II        0-1 (0-0)
 
 
 » Matchday 33
   Fri May/9
-    19.00  Bayern München II       v Türkgücü München
-           FC Augsburg II          v Eintracht Bamberg
-           Viktoria Aschaffenburg  v FV Illertissen
+    18.30  DJK Vilzing             v 1. FC Schweinfurt 05     3-1 (2-0)
+    19.00  Bayern München II       v Türkgücü München         5-0 (3-0)
+           FC Augsburg II          v Eintracht Bamberg        0-1 (0-1)
+           Viktoria Aschaffenburg  v FV Illertissen           1-0 (1-0)
   Sat May/10
-    14.00  1. FC Nürnberg II       v TSV Schwaben Augsburg
-           DJK Vilzing             v 1. FC Schweinfurt 05
-           SpVgg Ansbach           v Wacker Burghausen
-           SpVgg Hankofen-Hailing  v SpVgg Bayreuth
-           TSV Aubstadt            v TSV Buchbach
-           Würzburger Kickers      v SpVgg Greuther Fürth II
+    14.00  1. FC Nürnberg II       v TSV Schwaben Augsburg    2-1 (1-1)
+           SpVgg Hankofen-Hailing  v SpVgg Bayreuth           1-0 (0-0)
+           TSV Aubstadt            v TSV Buchbach             1-1 (0-0)
+           Würzburger Kickers      v SpVgg Greuther Fürth II  1-1 (0-0)
+    16.00  SpVgg Ansbach           v Wacker Burghausen        0-3 (0-0)
 
 
 » Matchday 34
+  Fri May/16
+    19.00  1. FC Schweinfurt 05    v FC Augsburg II           2-0 (1-0)
   Sat May/17
-    14.00  1. FC Schweinfurt 05    v FC Augsburg II
-           Eintracht Bamberg       v TSV Aubstadt
-           FV Illertissen          v Würzburger Kickers
-           SpVgg Bayreuth          v SpVgg Ansbach
-           SpVgg Greuther Fürth II v DJK Vilzing
-           TSV Buchbach            v SpVgg Hankofen-Hailing
-           TSV Schwaben Augsburg   v Bayern München II
-           Türkgücü München        v Viktoria Aschaffenburg
-           Wacker Burghausen       v 1. FC Nürnberg II
+           Türkgücü München        v Viktoria Aschaffenburg   0-2    [awarded]
+    14.00  Eintracht Bamberg       v TSV Aubstadt             0-3 (0-2)
+           FV Illertissen          v Würzburger Kickers       0-1 (0-0)
+           SpVgg Bayreuth          v SpVgg Ansbach            1-3 (1-1)
+           SpVgg Greuther Fürth II v DJK Vilzing              2-0 (2-0)
+           TSV Buchbach            v SpVgg Hankofen-Hailing   5-1 (4-0)
+           TSV Schwaben Augsburg   v Bayern München II        1-1 (1-0)
+           Wacker Burghausen       v 1. FC Nürnberg II        3-3 (1-0)

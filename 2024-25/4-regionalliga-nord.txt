@@ -309,12 +309,12 @@
   Wed Mar/19 2025
     16.00  Holstein Kiel II        v SSV Jeddeloh II          1-1 (0-1)
   Wed Mar/26
-    19.00  FC St. Pauli II         v TSV Havelse
+    19.00  FC St. Pauli II         v TSV Havelse              1-0 (1-0)
   Wed Apr/2
-    19.00  Hamburger SV II         v VfB Lübeck
+    19.00  Hamburger SV II         v VfB Lübeck               2-3 (1-0)
   Mon Apr/21
-    14.00  Weiche Flensburg 08     v Bremer SV
-           SV Todesfelde           v Eintracht Norderstedt
+    14.00  Weiche Flensburg 08     v Bremer SV                3-2 (0-1)
+           SV Todesfelde           v Eintracht Norderstedt    0-1 (0-0)
 
 
 » Matchday 21
@@ -331,9 +331,9 @@
   Wed Mar/5
     19.00  SSV Jeddeloh II         v Weiche Flensburg 08      1-1 (0-0)
   Wed Mar/26
-    19.00  1. FC Phönix Lübeck     v Werder Bremen II
+    19.00  1. FC Phönix Lübeck     v Werder Bremen II         0-0
   Wed Apr/2
-    17.00  Bremer SV               v SV Drochtersen/Assel
+    17.30  Bremer SV               v SV Drochtersen/Assel     3-2 (1-0)
 
 
 » Matchday 22
@@ -348,9 +348,9 @@
   Wed Mar/19
     19.00  FC St. Pauli II         v FC Teutonia 05           1-0 (1-0)
   Thu Apr/17
-    18.00  Bremer SV               v SV Meppen
-    18.30  VfB Oldenburg           v Blau-Weiß Lohne
-    19.00  Weiche Flensburg 08     v VfB Lübeck
+    18.00  Bremer SV               v SV Meppen                2-5 (2-3)
+    18.30  VfB Oldenburg           v Blau-Weiß Lohne          2-4 (1-2)
+    19.30  Weiche Flensburg 08     v VfB Lübeck               1-1 (1-0)
 
 
 » Matchday 23
@@ -366,7 +366,7 @@
     14.00  Eintracht Norderstedt   v Holstein Kiel II         4-2 (2-0)
            TSV Havelse             v Weiche Flensburg 08      2-1 (1-0)
   Mon Apr/21
-    14.00  1. FC Phönix Lübeck     v FC St. Pauli II
+    14.00  1. FC Phönix Lübeck     v FC St. Pauli II          2-0 (1-0)
 
 
 » Matchday 24
@@ -428,109 +428,111 @@
            TSV Havelse             v VfB Lübeck               1-1 (1-0)
            Eintracht Norderstedt   v SSV Jeddeloh II          1-1 (0-1)
   Thu Apr/17
-    14.00  Werder Bremen II        v FC St. Pauli II
+    14.00  Werder Bremen II        v FC St. Pauli II          3-1 (1-0)
 
 
 » Matchday 28
   Sun Feb/16
     13.00  Hamburger SV II         v Werder Bremen II         1-4 (0-1)
   Fri Mar/28
-    19.30  Weiche Flensburg 08     v Blau-Weiß Lohne
-           SV Drochtersen/Assel    v Kickers Emden
+    19.30  Weiche Flensburg 08     v Blau-Weiß Lohne          0-3 (0-0)
+           SV Drochtersen/Assel    v Kickers Emden            3-1 (1-0)
   Sat Mar/29
-    13.00  TSV Havelse             v SV Meppen
-    14.00  VfB Lübeck              v Eintracht Norderstedt
-    16.00  SSV Jeddeloh II         v FC Teutonia 05
+    13.00  TSV Havelse             v SV Meppen                2-1 (2-1)
+    14.00  VfB Lübeck              v Eintracht Norderstedt    2-3 (1-1)
   Sun Mar/30
-    14.00  FC St. Pauli II         v SV Todesfelde
-           Holstein Kiel II        v VfB Oldenburg
-    15.00  Bremer SV               v 1. FC Phönix Lübeck
+    14.00  FC St. Pauli II         v SV Todesfelde            4-0 (1-0)
+           Holstein Kiel II        v VfB Oldenburg            2-4 (1-1)
+    15.00  Bremer SV               v 1. FC Phönix Lübeck      3-2 (1-2)
+  Thu Apr/17
+    19.00  SSV Jeddeloh II         v FC Teutonia 05           2-2 (1-2)
 
 
 » Matchday 29
   Fri Apr/4
-    18.30  VfB Oldenburg           v Weiche Flensburg 08
+    14.00  Werder Bremen II        v Holstein Kiel II         3-1 (0-0)
+    18.30  VfB Oldenburg           v Weiche Flensburg 08      5-1 (0-1)
   Sat Apr/5
-    14.00  Werder Bremen II        v Holstein Kiel II
-    16.00  Blau-Weiß Lohne         v SV Drochtersen/Assel
+    18.00  Blau-Weiß Lohne         v SV Drochtersen/Assel     0-0
   Sun Apr/6
-    13.30  FC Teutonia 05          v VfB Lübeck
-    14.00  1. FC Phönix Lübeck     v SSV Jeddeloh II
-           SV Meppen               v FC St. Pauli II
-           SV Todesfelde           v Hamburger SV II
-           Eintracht Norderstedt   v TSV Havelse
-    15.00  Bremer SV               v Kickers Emden
+    13.30  FC Teutonia 05          v VfB Lübeck               0-5 (0-4)
+    14.00  1. FC Phönix Lübeck     v SSV Jeddeloh II          3-1 (0-0)
+           SV Meppen               v FC St. Pauli II          2-0 (1-0)
+           SV Todesfelde           v Hamburger SV II          0-1 (0-0)
+           Eintracht Norderstedt   v TSV Havelse              2-0 (1-0)
+    15.00  Bremer SV               v Kickers Emden            1-2 (1-0)
 
 
 » Matchday 30
-  Fri Apr/11
-    19.00  SSV Jeddeloh II         v Kickers Emden
   Sat Apr/12
-    13.30  Weiche Flensburg 08     v Werder Bremen II
-    14.00  VfB Lübeck              v 1. FC Phönix Lübeck
-    15.00  Hamburger SV II         v FC St. Pauli II
-    17.30  SV Drochtersen/Assel    v VfB Oldenburg
+    13.30  Weiche Flensburg 08     v Werder Bremen II         3-3 (0-0)
+    14.00  SSV Jeddeloh II         v Kickers Emden            2-7 (1-2)
+           VfB Lübeck              v 1. FC Phönix Lübeck      2-2 (2-2)
+           Eintracht Norderstedt   v SV Meppen                1-3 (0-2)
+    15.00  Hamburger SV II         v FC St. Pauli II          4-2 (1-1)
+    17.30  SV Drochtersen/Assel    v VfB Oldenburg            1-1 (0-0)
   Sun Apr/13
-    14.00  Eintracht Norderstedt   v SV Meppen
-           TSV Havelse             v FC Teutonia 05
-           Holstein Kiel II        v SV Todesfelde
-    15.00  Bremer SV               v Blau-Weiß Lohne
+    14.00  TSV Havelse             v FC Teutonia 05           2-0 (1-0)
+           Holstein Kiel II        v SV Todesfelde            1-3 (1-0)
+    15.00  Bremer SV               v Blau-Weiß Lohne          3-4 (1-2)
 
 
 » Matchday 31
   Fri Apr/25
-    19.30  Kickers Emden           v VfB Lübeck
-           Blau-Weiß Lohne         v SSV Jeddeloh II
-  Sat Apr/26
-    14.00  Werder Bremen II        v SV Drochtersen/Assel
-    15.00  SV Meppen               v Hamburger SV II
+    19.00  SV Meppen               v Hamburger SV II          5-1 (2-0)
+    19.30  Kickers Emden           v VfB Lübeck               1-3 (0-2)
+           Blau-Weiß Lohne         v SSV Jeddeloh II          0-3 (0-1)
   Sun Apr/27
-    13.30  FC Teutonia 05          v Eintracht Norderstedt
-    14.00  1. FC Phönix Lübeck     v TSV Havelse
-           FC St. Pauli II         v Holstein Kiel II
-           SV Todesfelde           v Weiche Flensburg 08
-    15.00  VfB Oldenburg           v Bremer SV
+    13.30  FC Teutonia 05          v Eintracht Norderstedt    2-1 (2-0)
+    14.00  1. FC Phönix Lübeck     v TSV Havelse              1-1 (1-0)
+           FC St. Pauli II         v Holstein Kiel II         3-0 (1-0)
+           SV Todesfelde           v Weiche Flensburg 08      1-3 (0-2)
+    15.00  VfB Oldenburg           v Bremer SV                3-0 (1-0)
+  Wed Apr/30
+    19.00  Werder Bremen II        v SV Drochtersen/Assel     1-1 (0-0)
 
 
 » Matchday 32
   Fri May/2
-    19.00  TSV Havelse             v Kickers Emden
-    19.30  VfB Lübeck              v Blau-Weiß Lohne
+    19.00  TSV Havelse             v Kickers Emden            0-1 (0-0)
+    19.30  VfB Lübeck              v Blau-Weiß Lohne          2-1 (2-0)
   Sat May/3
-    13.30  Weiche Flensburg 08     v FC St. Pauli II
-    16.00  SSV Jeddeloh II         v VfB Oldenburg
-    17.00  SV Drochtersen/Assel    v SV Todesfelde
+    13.30  Weiche Flensburg 08     v FC St. Pauli II          0-1 (0-0)
+    16.00  SSV Jeddeloh II         v VfB Oldenburg            1-2 (0-0)
+    17.00  SV Drochtersen/Assel    v SV Todesfelde            1-1 (1-1)
   Sun May/4
-    13.30  FC Teutonia 05          v SV Meppen
-    14.00  Holstein Kiel II        v Hamburger SV II
-           Eintracht Norderstedt   v 1. FC Phönix Lübeck
-    15.00  Bremer SV               v Werder Bremen II
+    13.30  FC Teutonia 05          v SV Meppen                0-3 (0-0)
+    14.00  Holstein Kiel II        v Hamburger SV II          2-0 (2-0)
+    15.00  Bremer SV               v Werder Bremen II         1-1 (0-1)
+  Tue May/6
+    19.00  Eintracht Norderstedt   v 1. FC Phönix Lübeck      3-2 (1-1)
 
 
 » Matchday 33
   Fri May/9
-    18.30  VfB Oldenburg           v VfB Lübeck
+    18.30  VfB Oldenburg           v VfB Lübeck               0-2 (0-2)
+    19.00  Werder Bremen II        v SSV Jeddeloh II          8-1 (4-1)
+    19.30  Hamburger SV II         v Weiche Flensburg 08      2-1 (2-0)
   Sat May/10
-    13.00  Hamburger SV II         v Weiche Flensburg 08
-    14.00  Werder Bremen II        v SSV Jeddeloh II
-    16.00  Blau-Weiß Lohne         v TSV Havelse
-           SV Todesfelde           v Bremer SV
-    18.00  Kickers Emden           v Eintracht Norderstedt
+    16.00  Blau-Weiß Lohne         v TSV Havelse              1-3 (1-2)
+           SV Todesfelde           v Bremer SV                1-4 (0-3)
+    17.00  Kickers Emden           v Eintracht Norderstedt    3-1 (1-1)
   Sun May/11
-    14.00  1. FC Phönix Lübeck     v FC Teutonia 05
-           Holstein Kiel II        v SV Meppen
-           FC St. Pauli II         v SV Drochtersen/Assel
+    14.00  1. FC Phönix Lübeck     v FC Teutonia 05           3-2 (2-0)
+           Holstein Kiel II        v SV Meppen                1-2 (0-0)
+           FC St. Pauli II         v SV Drochtersen/Assel     3-4 (2-2)
 
 
 » Matchday 34
+  Fri May/16
+    19.00  VfB Lübeck              v Werder Bremen II         1-6 (0-2)
+    19.30  Eintracht Norderstedt   v Blau-Weiß Lohne          3-3 (1-1)
   Sat May/17
-    13.30  Weiche Flensburg 08     v Holstein Kiel II
-    14.00  VfB Lübeck              v Werder Bremen II
-    15.00  SV Meppen               v 1. FC Phönix Lübeck
-    16.00  SSV Jeddeloh II         v SV Todesfelde
+    12.00  FC Teutonia 05          v Kickers Emden            0-2 (0-0)
+    13.30  Weiche Flensburg 08     v Holstein Kiel II         2-4 (0-2)
+    14.00  SV Meppen               v 1. FC Phönix Lübeck      0-3 (0-2)
+    16.00  SSV Jeddeloh II         v SV Todesfelde            0-0
   Sun May/18
-    13.30  FC Teutonia 05          v Kickers Emden
-    14.00  TSV Havelse             v VfB Oldenburg
-           Eintracht Norderstedt   v Blau-Weiß Lohne
-    15.00  SV Drochtersen/Assel    v Hamburger SV II
-           Bremer SV               v FC St. Pauli II
+    13.00  SV Drochtersen/Assel    v Hamburger SV II          3-1 (0-1)
+    14.00  TSV Havelse             v VfB Oldenburg            4-1 (1-1)
+    15.00  Bremer SV               v FC St. Pauli II          2-0 (1-0)

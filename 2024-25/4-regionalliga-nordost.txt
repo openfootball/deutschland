@@ -297,8 +297,8 @@
     19.00  Hertha Zehlendorf       v FC Carl Zeiss Jena       2-2 (1-2)
            VSG Altglienicke        v FC Eilenburg             3-1 (1-1)
   Wed Apr/9
-    19.00  Chemnitzer FC           v Hertha BSC II
-           BSG Chemie Leipzig      v ZFC Meuselwitz
+    19.00  Chemnitzer FC           v Hertha BSC II            1-1 (0-0)
+           BSG Chemie Leipzig      v ZFC Meuselwitz           1-1 (0-1)
 
 
 » Matchday 20
@@ -346,10 +346,10 @@
   Wed Mar/12
     18.30  ZFC Meuselwitz          v Greifswalder FC          2-1 (1-1)
   Tue Mar/25
-    19.00  FC Carl Zeiss Jena      v VFC Plauen
-           Hertha BSC II           v VSG Altglienicke
+    19.00  FC Carl Zeiss Jena      v VFC Plauen               2-1 (1-0)
+           Hertha BSC II           v VSG Altglienicke         2-4 (1-2)
   Wed Mar/26
-    19.00  FSV Zwickau             v Rot-Weiß Erfurt
+    19.00  FSV Zwickau             v Rot-Weiß Erfurt          3-2 (0-1)
 
 
 » Matchday 23
@@ -358,18 +358,18 @@
   Sun Feb/23
     14.00  Chemnitzer FC           v ZFC Meuselwitz           4-0 (2-0)
   Tue Mar/25
-    19.00  FC Eilenburg            v Hallescher FC
+    19.00  FC Eilenburg            v Hallescher FC            2-2 (1-2)
   Wed Mar/26
-    18.00  Greifswalder FC         v BSG Chemie Leipzig
-    19.00  Hertha Zehlendorf       v BFC Dynamo
+    18.00  Greifswalder FC         v BSG Chemie Leipzig       0-0
+    19.00  Hertha Zehlendorf       v BFC Dynamo               3-5 (3-1)
   Tue Apr/1
-    19.00  FSV 63 Luckenwalde      v FC Viktoria 1889 Berlin
+    19.00  FSV 63 Luckenwalde      v FC Viktoria 1889 Berlin  1-0 (0-0)
   Wed Apr/2
-    19.00  VFC Plauen              v SV Babelsberg 03
+    19.00  VFC Plauen              v SV Babelsberg 03         0-0
   Tue Apr/8
-    19.00  Rot-Weiß Erfurt         v FC Carl Zeiss Jena
+    19.00  Rot-Weiß Erfurt         v FC Carl Zeiss Jena       3-1 (3-0)
   Wed Apr/9
-    19.00  VSG Altglienicke        v FSV Zwickau
+    19.00  VSG Altglienicke        v FSV Zwickau              3-1 (0-0)
 
 
 » Matchday 24
@@ -419,112 +419,120 @@
 
 » Matchday 27
   Fri Mar/28
-    19.00  FC Eilenburg            v SV Babelsberg 03
-           FC Viktoria 1889 Berlin v FC Carl Zeiss Jena
-           FSV 63 Luckenwalde      v Hertha BSC II
+    19.00  FC Eilenburg            v SV Babelsberg 03         3-2 (0-1)
+           FC Viktoria 1889 Berlin v FC Carl Zeiss Jena       4-2 (2-1)
+           FSV 63 Luckenwalde      v Hertha BSC II            1-0 (0-0)
   Sat Mar/29
-    13.00  Chemnitzer FC           v Greifswalder FC
-           Rot-Weiß Erfurt         v BFC Dynamo
-    16.00  Hallescher FC           v FSV Zwickau
+    13.00  Chemnitzer FC           v Greifswalder FC          2-2 (1-1)
+           Rot-Weiß Erfurt         v BFC Dynamo               4-1 (0-1)
+    16.00  Hallescher FC           v FSV Zwickau              2-0 (1-0)
   Sun Mar/30
-    13.00  VFC Plauen              v Hertha Zehlendorf
-           VSG Altglienicke        v BSG Chemie Leipzig
-           1. FC Lok Leipzig       v ZFC Meuselwitz
+    13.00  VFC Plauen              v Hertha Zehlendorf        0-1 (0-1)
+           VSG Altglienicke        v BSG Chemie Leipzig       2-1 (0-1)
+           1. FC Lok Leipzig       v ZFC Meuselwitz           3-1 (0-1)
 
 
 » Matchday 28
   Fri Apr/4
-    19.00  Hertha Zehlendorf       v Rot-Weiß Erfurt
-           FSV Zwickau             v Hertha BSC II
-    20.20  FC Carl Zeiss Jena      v Hallescher FC
+    19.00  Hertha Zehlendorf       v Rot-Weiß Erfurt          3-3 (1-2)
+           FSV Zwickau             v Hertha BSC II            2-0 (1-0)
+    20.20  FC Carl Zeiss Jena      v Hallescher FC            2-0 (2-0)
   Sat Apr/5
-    13.00  SV Babelsberg 03        v FC Viktoria 1889 Berlin
-           BFC Dynamo              v VSG Altglienicke
-    14.00  ZFC Meuselwitz          v FC Eilenburg
+    13.00  SV Babelsberg 03        v FC Viktoria 1889 Berlin  3-1 (2-0)
+           BFC Dynamo              v VSG Altglienicke         3-0 (2-0)
+    14.00  ZFC Meuselwitz          v FC Eilenburg             2-1 (1-1)
   Sun Apr/6
-    13.00  Chemnitzer FC           v FSV 63 Luckenwalde
-           Greifswalder FC         v VFC Plauen
-    14.00  BSG Chemie Leipzig      v 1. FC Lok Leipzig
+    13.00  Chemnitzer FC           v FSV 63 Luckenwalde       2-0 (1-0)
+           Greifswalder FC         v VFC Plauen               3-0 (0-0)
+    14.00  BSG Chemie Leipzig      v 1. FC Lok Leipzig        0-3 (0-1)
 
 
 » Matchday 29
   Fri Apr/11
-    19.00  Hallescher FC           v SV Babelsberg 03
+    19.00  Hallescher FC           v SV Babelsberg 03         2-0 (1-0)
   Sat Apr/12
-    13.00  FSV 63 Luckenwalde      v FSV Zwickau
-           Rot-Weiß Erfurt         v Greifswalder FC
-    14.00  VFC Plauen              v Chemnitzer FC
-    16.00  1. FC Lok Leipzig       v BFC Dynamo
+    13.00  FSV 63 Luckenwalde      v FSV Zwickau              0-1 (0-0)
+           Rot-Weiß Erfurt         v Greifswalder FC          2-0 (1-0)
+    14.00  VFC Plauen              v Chemnitzer FC            1-1 (0-0)
+    16.00  1. FC Lok Leipzig       v BFC Dynamo               4-0 (1-0)
   Sun Apr/13
-    13.00  Hertha BSC II           v FC Carl Zeiss Jena
-           VSG Altglienicke        v Hertha Zehlendorf
-           FC Eilenburg            v BSG Chemie Leipzig
-           FC Viktoria 1889 Berlin v ZFC Meuselwitz
+    13.00  Hertha BSC II           v FC Carl Zeiss Jena       1-4 (0-1)
+           VSG Altglienicke        v Hertha Zehlendorf        2-0 (2-0)
+           FC Eilenburg            v BSG Chemie Leipzig       0-0
+           FC Viktoria 1889 Berlin v ZFC Meuselwitz           1-1 (0-0)
 
 
 » Matchday 30
   Thu Apr/17
-    18.00  Greifswalder FC         v VSG Altglienicke
-    19.00  BFC Dynamo              v FC Eilenburg
+    18.00  Greifswalder FC         v VSG Altglienicke         2-1 (0-1)
+    19.00  BFC Dynamo              v FC Eilenburg             1-1 (0-0)
   Sat Apr/19
-    13.00  VFC Plauen              v FSV 63 Luckenwalde
-           SV Babelsberg 03        v Hertha BSC II
-           ZFC Meuselwitz          v Hallescher FC
-    14.00  FC Carl Zeiss Jena      v FSV Zwickau
+    13.00  VFC Plauen              v FSV 63 Luckenwalde       0-2 (0-1)
+           SV Babelsberg 03        v Hertha BSC II            1-2 (1-1)
+           ZFC Meuselwitz          v Hallescher FC            1-2 (1-0)
+    14.00  FC Carl Zeiss Jena      v FSV Zwickau              1-2 (0-2)
   Sun Apr/20
-    13.00  Chemnitzer FC           v Rot-Weiß Erfurt
-           Hertha Zehlendorf       v 1. FC Lok Leipzig
+    13.00  Chemnitzer FC           v Rot-Weiß Erfurt          2-0 (0-0)
+           Hertha Zehlendorf       v 1. FC Lok Leipzig        2-1 (1-1)
   Mon Apr/21
-    14.00  BSG Chemie Leipzig      v FC Viktoria 1889 Berlin
+    14.00  BSG Chemie Leipzig      v FC Viktoria 1889 Berlin  4-0 (0-0)
 
 
 » Matchday 31
+  Fri Apr/25
+    19.00  1. FC Lok Leipzig       v Greifswalder FC          0-0
+           Hallescher FC           v BSG Chemie Leipzig       3-1 (2-0)
+  Sat Apr/26
+    13.00  FC Viktoria 1889 Berlin v BFC Dynamo               1-1 (0-0)
+           Hertha BSC II           v ZFC Meuselwitz           4-1 (2-0)
+    16.00  Rot-Weiß Erfurt         v VFC Plauen               1-1 (0-0)
   Sun Apr/27
-           FSV Zwickau             v SV Babelsberg 03
-           FSV 63 Luckenwalde      v FC Carl Zeiss Jena
-           Rot-Weiß Erfurt         v VFC Plauen
-           VSG Altglienicke        v Chemnitzer FC
-           1. FC Lok Leipzig       v Greifswalder FC
-           FC Eilenburg            v Hertha Zehlendorf
-           FC Viktoria 1889 Berlin v BFC Dynamo
-           Hallescher FC           v BSG Chemie Leipzig
-           Hertha BSC II           v ZFC Meuselwitz
+    13.00  FSV 63 Luckenwalde      v FC Carl Zeiss Jena       0-1 (0-0)
+           VSG Altglienicke        v Chemnitzer FC            0-2 (0-2)
+           FC Eilenburg            v Hertha Zehlendorf        4-3 (1-2)
+    14.00  FSV Zwickau             v SV Babelsberg 03         2-1 (1-0)
 
 
 » Matchday 32
+  Fri May/2
+    19.00  BFC Dynamo              v Hallescher FC            1-2 (1-2)
+           Hertha Zehlendorf       v FC Viktoria 1889 Berlin  5-1 (2-0)
+  Sat May/3
+    13.00  Rot-Weiß Erfurt         v FSV 63 Luckenwalde       3-2 (3-1)
+           VFC Plauen              v VSG Altglienicke         0-3 (0-1)
+    14.00  Chemnitzer FC           v 1. FC Lok Leipzig        1-1 (1-0)
   Sun May/4
-           Rot-Weiß Erfurt         v FSV 63 Luckenwalde
-           SV Babelsberg 03        v FC Carl Zeiss Jena
-           ZFC Meuselwitz          v FSV Zwickau
-           BSG Chemie Leipzig      v Hertha BSC II
-           BFC Dynamo              v Hallescher FC
-           Hertha Zehlendorf       v FC Viktoria 1889 Berlin
-           Greifswalder FC         v FC Eilenburg
-           Chemnitzer FC           v 1. FC Lok Leipzig
-           VFC Plauen              v VSG Altglienicke
+    13.00  BSG Chemie Leipzig      v Hertha BSC II            2-2 (1-2)
+           Greifswalder FC         v FC Eilenburg             4-2 (1-1)
+    13.30  ZFC Meuselwitz          v FSV Zwickau              2-0 (1-0)
+  Tue May/6
+    19.00  SV Babelsberg 03        v FC Carl Zeiss Jena       1-4 (1-2)
 
 
 » Matchday 33
+  Fri May/9
+    19.00  FC Eilenburg            v Chemnitzer FC            2-2 (1-0)
+           Hertha BSC II           v BFC Dynamo               1-2 (1-1)
+  Sat May/10
+    13.00  SV Babelsberg 03        v FSV 63 Luckenwalde       1-2 (1-1)
+           FC Carl Zeiss Jena      v ZFC Meuselwitz           0-1 (0-1)
+    16.15  1. FC Lok Leipzig       v VFC Plauen               2-0 (0-0)
   Sun May/11
-           SV Babelsberg 03        v FSV 63 Luckenwalde
-           VSG Altglienicke        v Rot-Weiß Erfurt
-           1. FC Lok Leipzig       v VFC Plauen
-           FC Eilenburg            v Chemnitzer FC
-           FC Viktoria 1889 Berlin v Greifswalder FC
-           Hallescher FC           v Hertha Zehlendorf
-           Hertha BSC II           v BFC Dynamo
-           FSV Zwickau             v BSG Chemie Leipzig
-           FC Carl Zeiss Jena      v ZFC Meuselwitz
+    13.00  VSG Altglienicke        v Rot-Weiß Erfurt          0-1 (0-1)
+           FC Viktoria 1889 Berlin v Greifswalder FC          1-1 (0-1)
+           Hallescher FC           v Hertha Zehlendorf        4-1 (3-0)
+    14.00  FSV Zwickau             v BSG Chemie Leipzig       1-1 (1-1)
 
 
 » Matchday 34
+  Sat May/17
+    13.30  Chemnitzer FC           v FC Viktoria 1889 Berlin  1-1 (0-1)
   Sun May/18
-           ZFC Meuselwitz          v SV Babelsberg 03
-           BSG Chemie Leipzig      v FC Carl Zeiss Jena
-           BFC Dynamo              v FSV Zwickau
-           Hertha Zehlendorf       v Hertha BSC II
-           Greifswalder FC         v Hallescher FC
-           Chemnitzer FC           v FC Viktoria 1889 Berlin
-           VFC Plauen              v FC Eilenburg
-           Rot-Weiß Erfurt         v 1. FC Lok Leipzig
-           FSV 63 Luckenwalde      v VSG Altglienicke
+    13.00  ZFC Meuselwitz          v SV Babelsberg 03         2-3 (1-1)
+           BSG Chemie Leipzig      v FC Carl Zeiss Jena       0-3 (0-1)
+           BFC Dynamo              v FSV Zwickau              2-2 (1-1)
+           Hertha Zehlendorf       v Hertha BSC II            4-0 (1-0)
+           VFC Plauen              v FC Eilenburg             1-1 (0-1)
+           FSV 63 Luckenwalde      v VSG Altglienicke         0-0
+    13.05  Greifswalder FC         v Hallescher FC            4-0 (2-0)
+           Rot-Weiß Erfurt         v 1. FC Lok Leipzig        2-4 (1-2)

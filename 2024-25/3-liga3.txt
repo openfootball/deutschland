@@ -418,7 +418,7 @@
     13.30  Waldhof Mannheim        v Alemannia Aachen         2-1 (1-0)
     19.30  Arminia Bielefeld       v VfB Stuttgart II         4-1 (3-0)
   Wed May/7
-    19.00  SpVgg Unterhaching      v Hansa Rostock
+    19.00  SpVgg Unterhaching      v Hansa Rostock            0-2 (0-1)
 
 
 » Matchday 27
@@ -580,29 +580,29 @@
 
 » Matchday 37
   Fri May/9
-    19.00  Borussia Dortmund II    v VfB Stuttgart II
+    19.00  Borussia Dortmund II    v VfB Stuttgart II         0-1 (0-0)
   Sat May/10
-    14.00  Alemannia Aachen        v 1. FC Saarbrücken
-           Hansa Rostock           v Energie Cottbus
-           Waldhof Mannheim        v Dynamo Dresden
-           Erzgebirge Aue          v SV Sandhausen
-           SC Verl                 v TSV 1860 München
-    16.30  FC Ingolstadt 04        v SV Wehen Wiesbaden
+    14.00  Alemannia Aachen        v 1. FC Saarbrücken        4-2 (1-0)
+           Hansa Rostock           v Energie Cottbus          1-3 (0-2)
+           Waldhof Mannheim        v Dynamo Dresden           1-0 (0-0)
+           Erzgebirge Aue          v SV Sandhausen            2-3 (0-1)
+           SC Verl                 v TSV 1860 München         2-2 (0-1)
+    16.30  FC Ingolstadt 04        v SV Wehen Wiesbaden       2-3 (2-1)
   Sun May/11
-    13.30  SpVgg Unterhaching      v Arminia Bielefeld
-    16.30  Rot-Weiss Essen         v VfL Osnabrück
-    19.30  Viktoria Köln           v Hannover 96 II
+    13.30  SpVgg Unterhaching      v Arminia Bielefeld        1-2 (0-1)
+    16.30  Rot-Weiss Essen         v VfL Osnabrück            3-1 (1-0)
+    19.30  Viktoria Köln           v Hannover 96 II           2-0 (0-0)
 
 
 » Matchday 38
   Sat May/17
-    13.30  TSV 1860 München        v Erzgebirge Aue
-           Arminia Bielefeld       v Waldhof Mannheim
-           Energie Cottbus         v FC Ingolstadt 04
-           Hannover 96 II          v Hansa Rostock
-           1. FC Saarbrücken       v Borussia Dortmund II
-           SV Wehen Wiesbaden      v Alemannia Aachen
-           VfB Stuttgart II        v Rot-Weiss Essen
-           SV Sandhausen           v Viktoria Köln
-           Dynamo Dresden          v SpVgg Unterhaching
-           VfL Osnabrück           v SC Verl
+    13.30  TSV 1860 München        v Erzgebirge Aue           1-1 (0-1)
+           Arminia Bielefeld       v Waldhof Mannheim         1-0 (0-0)
+           Energie Cottbus         v FC Ingolstadt 04         1-4 (1-1)
+           Hannover 96 II          v Hansa Rostock            2-1 (0-0)
+           1. FC Saarbrücken       v Borussia Dortmund II     2-1 (0-1)
+           SV Wehen Wiesbaden      v Alemannia Aachen         2-1 (0-0)
+           VfB Stuttgart II        v Rot-Weiss Essen          1-1 (1-1)
+           SV Sandhausen           v Viktoria Köln            0-4 (0-3)
+           Dynamo Dresden          v SpVgg Unterhaching       3-0 (0-0)
+           VfL Osnabrück           v SC Verl                  0-3 (0-2)

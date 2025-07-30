@@ -1,0 +1,458 @@
+= Deutsche Bundesliga 2025/26
+
+# Date       Fri Aug/22 2025 - Sat May/16 2026 (267d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/22 2025
+    20.30  Bayern München          v RB Leipzig
+  Sat Aug/23
+    15.30  Eintracht Frankfurt     v Werder Bremen
+           Bayer Leverkusen        v 1899 Hoffenheim
+           SC Freiburg             v FC Augsburg
+           1. FC Union Berlin      v VfB Stuttgart
+           1. FC Heidenheim 1846   v VfL Wolfsburg
+    18.30  FC St. Pauli            v Borussia Dortmund
+  Sun Aug/24
+    15.30  1. FSV Mainz 05         v 1. FC Köln
+    17.30  Bor. Mönchengladbach    v Hamburger SV
+
+
+» Matchday 2
+  Fri Aug/29
+    20.30  Hamburger SV            v FC St. Pauli
+  Sat Aug/30
+    15.30  RB Leipzig              v 1. FC Heidenheim 1846
+           Werder Bremen           v Bayer Leverkusen
+           VfB Stuttgart           v Bor. Mönchengladbach
+           1899 Hoffenheim         v Eintracht Frankfurt
+    18.30  FC Augsburg             v Bayern München
+  Sun Aug/31
+    15.30  VfL Wolfsburg           v 1. FSV Mainz 05
+    17.30  Borussia Dortmund       v 1. FC Union Berlin
+    19.30  1. FC Köln              v SC Freiburg
+
+
+» Matchday 3
+  Fri Sep/12
+    20.30  Bayer Leverkusen        v Eintracht Frankfurt
+  Sat Sep/13
+    15.30  SC Freiburg             v VfB Stuttgart
+           1. FSV Mainz 05         v RB Leipzig
+           VfL Wolfsburg           v 1. FC Köln
+           1. FC Union Berlin      v 1899 Hoffenheim
+           1. FC Heidenheim 1846   v Borussia Dortmund
+    18.30  Bayern München          v Hamburger SV
+  Sun Sep/14
+    15.30  FC St. Pauli            v FC Augsburg
+    17.30  Bor. Mönchengladbach    v Werder Bremen
+
+
+» Matchday 4
+  Fri Sep/19
+    20.30  VfB Stuttgart           v FC St. Pauli
+  Sat Sep/20
+    15.30  Werder Bremen           v SC Freiburg
+           FC Augsburg             v 1. FSV Mainz 05
+           1899 Hoffenheim         v Bayern München
+           Hamburger SV            v 1. FC Heidenheim 1846
+    18.30  RB Leipzig              v 1. FC Köln
+  Sun Sep/21
+    15.30  Eintracht Frankfurt     v 1. FC Union Berlin
+    17.30  Bayer Leverkusen        v Bor. Mönchengladbach
+    19.30  Borussia Dortmund       v VfL Wolfsburg
+
+
+» Matchday 5
+  Fri Sep/26
+    20.30  Bayern München          v Werder Bremen
+  Sat Sep/27
+    15.30  1. FSV Mainz 05         v Borussia Dortmund
+           VfL Wolfsburg           v RB Leipzig
+           FC St. Pauli            v Bayer Leverkusen
+           1. FC Heidenheim 1846   v FC Augsburg
+    18.30  Bor. Mönchengladbach    v Eintracht Frankfurt
+  Sun Sep/28
+    15.30  SC Freiburg             v 1899 Hoffenheim
+    17.30  1. FC Köln              v VfB Stuttgart
+    19.30  1. FC Union Berlin      v Hamburger SV
+
+
+» Matchday 6
+  Sat Oct/4
+           Bayer Leverkusen        v 1. FC Union Berlin
+           Eintracht Frankfurt     v Bayern München
+           Borussia Dortmund       v RB Leipzig
+           Werder Bremen           v FC St. Pauli
+           VfB Stuttgart           v 1. FC Heidenheim 1846
+           Bor. Mönchengladbach    v SC Freiburg
+           FC Augsburg             v VfL Wolfsburg
+           1899 Hoffenheim         v 1. FC Köln
+           Hamburger SV            v 1. FSV Mainz 05
+
+
+» Matchday 7
+  Sat Oct/18
+           Bayern München          v Borussia Dortmund
+           SC Freiburg             v Eintracht Frankfurt
+           1. FSV Mainz 05         v Bayer Leverkusen
+           RB Leipzig              v Hamburger SV
+           VfL Wolfsburg           v VfB Stuttgart
+           1. FC Union Berlin      v Bor. Mönchengladbach
+           FC St. Pauli            v 1899 Hoffenheim
+           1. FC Heidenheim 1846   v Werder Bremen
+           1. FC Köln              v FC Augsburg
+
+
+» Matchday 8
+  Sat Oct/25
+           Bayer Leverkusen        v SC Freiburg
+           Eintracht Frankfurt     v FC St. Pauli
+           Borussia Dortmund       v 1. FC Köln
+           Werder Bremen           v 1. FC Union Berlin
+           VfB Stuttgart           v 1. FSV Mainz 05
+           Bor. Mönchengladbach    v Bayern München
+           FC Augsburg             v RB Leipzig
+           1899 Hoffenheim         v 1. FC Heidenheim 1846
+           Hamburger SV            v VfL Wolfsburg
+
+
+» Matchday 9
+  Sat Nov/1
+           Bayern München          v Bayer Leverkusen
+           1. FSV Mainz 05         v Werder Bremen
+           RB Leipzig              v VfB Stuttgart
+           VfL Wolfsburg           v 1899 Hoffenheim
+           FC Augsburg             v Borussia Dortmund
+           1. FC Union Berlin      v SC Freiburg
+           FC St. Pauli            v Bor. Mönchengladbach
+           1. FC Heidenheim 1846   v Eintracht Frankfurt
+           1. FC Köln              v Hamburger SV
+
+
+» Matchday 10
+  Sat Nov/8
+           Bayer Leverkusen        v 1. FC Heidenheim 1846
+           Eintracht Frankfurt     v 1. FSV Mainz 05
+           SC Freiburg             v FC St. Pauli
+           Werder Bremen           v VfL Wolfsburg
+           VfB Stuttgart           v FC Augsburg
+           Bor. Mönchengladbach    v 1. FC Köln
+           1. FC Union Berlin      v Bayern München
+           1899 Hoffenheim         v RB Leipzig
+           Hamburger SV            v Borussia Dortmund
+
+
+» Matchday 11
+  Sat Nov/22
+           Bayern München          v SC Freiburg
+           Borussia Dortmund       v VfB Stuttgart
+           1. FSV Mainz 05         v 1899 Hoffenheim
+           RB Leipzig              v Werder Bremen
+           VfL Wolfsburg           v Bayer Leverkusen
+           FC Augsburg             v Hamburger SV
+           FC St. Pauli            v 1. FC Union Berlin
+           1. FC Heidenheim 1846   v Bor. Mönchengladbach
+           1. FC Köln              v Eintracht Frankfurt
+
+
+» Matchday 12
+  Sat Nov/29
+           Bayern München          v FC St. Pauli
+           Bayer Leverkusen        v Borussia Dortmund
+           Eintracht Frankfurt     v VfL Wolfsburg
+           SC Freiburg             v 1. FSV Mainz 05
+           Werder Bremen           v 1. FC Köln
+           Bor. Mönchengladbach    v RB Leipzig
+           1. FC Union Berlin      v 1. FC Heidenheim 1846
+           1899 Hoffenheim         v FC Augsburg
+           Hamburger SV            v VfB Stuttgart
+
+
+» Matchday 13
+  Sat Dec/6
+           Borussia Dortmund       v 1899 Hoffenheim
+           1. FSV Mainz 05         v Bor. Mönchengladbach
+           RB Leipzig              v Eintracht Frankfurt
+           VfB Stuttgart           v Bayern München
+           VfL Wolfsburg           v 1. FC Union Berlin
+           1. FC Heidenheim 1846   v SC Freiburg
+           1. FC Köln              v FC St. Pauli
+           Hamburger SV            v Werder Bremen
+           FC Augsburg             v Bayer Leverkusen
+
+
+» Matchday 14
+  Sat Dec/13
+           Bayern München          v 1. FSV Mainz 05
+           Bayer Leverkusen        v 1. FC Köln
+           Eintracht Frankfurt     v FC Augsburg
+           SC Freiburg             v Borussia Dortmund
+           Werder Bremen           v VfB Stuttgart
+           Bor. Mönchengladbach    v VfL Wolfsburg
+           1. FC Union Berlin      v RB Leipzig
+           FC St. Pauli            v 1. FC Heidenheim 1846
+           1899 Hoffenheim         v Hamburger SV
+
+
+» Matchday 15
+  Sat Dec/20
+           Borussia Dortmund       v Bor. Mönchengladbach
+           1. FSV Mainz 05         v FC St. Pauli
+           RB Leipzig              v Bayer Leverkusen
+           VfB Stuttgart           v 1899 Hoffenheim
+           VfL Wolfsburg           v SC Freiburg
+           FC Augsburg             v Werder Bremen
+           1. FC Heidenheim 1846   v Bayern München
+           1. FC Köln              v 1. FC Union Berlin
+           Hamburger SV            v Eintracht Frankfurt
+
+
+» Matchday 16
+  Sat Jan/10 2026
+           Bayern München          v VfL Wolfsburg
+           Bayer Leverkusen        v VfB Stuttgart
+           Eintracht Frankfurt     v Borussia Dortmund
+           SC Freiburg             v Hamburger SV
+           Werder Bremen           v 1899 Hoffenheim
+           Bor. Mönchengladbach    v FC Augsburg
+           1. FC Union Berlin      v 1. FSV Mainz 05
+           FC St. Pauli            v RB Leipzig
+           1. FC Heidenheim 1846   v 1. FC Köln
+
+
+» Matchday 17
+  Wed Jan/14
+           Borussia Dortmund       v Werder Bremen
+           1. FSV Mainz 05         v 1. FC Heidenheim 1846
+           RB Leipzig              v SC Freiburg
+           VfB Stuttgart           v Eintracht Frankfurt
+           VfL Wolfsburg           v FC St. Pauli
+           FC Augsburg             v 1. FC Union Berlin
+           1899 Hoffenheim         v Bor. Mönchengladbach
+           1. FC Köln              v Bayern München
+           Hamburger SV            v Bayer Leverkusen
+
+
+» Matchday 18
+  Sat Jan/17
+           RB Leipzig              v Bayern München
+           Werder Bremen           v Eintracht Frankfurt
+           1899 Hoffenheim         v Bayer Leverkusen
+           FC Augsburg             v SC Freiburg
+           1. FC Köln              v 1. FSV Mainz 05
+           Hamburger SV            v Bor. Mönchengladbach
+           VfB Stuttgart           v 1. FC Union Berlin
+           Borussia Dortmund       v FC St. Pauli
+           VfL Wolfsburg           v 1. FC Heidenheim 1846
+
+
+» Matchday 19
+  Sat Jan/24
+           1. FC Union Berlin      v Borussia Dortmund
+           1. FC Heidenheim 1846   v RB Leipzig
+           Bayer Leverkusen        v Werder Bremen
+           Bor. Mönchengladbach    v VfB Stuttgart
+           1. FSV Mainz 05         v VfL Wolfsburg
+           Bayern München          v FC Augsburg
+           Eintracht Frankfurt     v 1899 Hoffenheim
+           SC Freiburg             v 1. FC Köln
+           FC St. Pauli            v Hamburger SV
+
+
+» Matchday 20
+  Sat Jan/31
+           Hamburger SV            v Bayern München
+           Eintracht Frankfurt     v Bayer Leverkusen
+           VfB Stuttgart           v SC Freiburg
+           RB Leipzig              v 1. FSV Mainz 05
+           Werder Bremen           v Bor. Mönchengladbach
+           1. FC Köln              v VfL Wolfsburg
+           1899 Hoffenheim         v 1. FC Union Berlin
+           FC Augsburg             v FC St. Pauli
+           Borussia Dortmund       v 1. FC Heidenheim 1846
+
+
+» Matchday 21
+  Sat Feb/7
+           Bor. Mönchengladbach    v Bayer Leverkusen
+           1. FC Union Berlin      v Eintracht Frankfurt
+           VfL Wolfsburg           v Borussia Dortmund
+           1. FC Köln              v RB Leipzig
+           SC Freiburg             v Werder Bremen
+           FC St. Pauli            v VfB Stuttgart
+           1. FSV Mainz 05         v FC Augsburg
+           Bayern München          v 1899 Hoffenheim
+           1. FC Heidenheim 1846   v Hamburger SV
+
+
+» Matchday 22
+  Sat Feb/14
+           Werder Bremen           v Bayern München
+           1899 Hoffenheim         v SC Freiburg
+           Borussia Dortmund       v 1. FSV Mainz 05
+           Eintracht Frankfurt     v Bor. Mönchengladbach
+           RB Leipzig              v VfL Wolfsburg
+           Hamburger SV            v 1. FC Union Berlin
+           Bayer Leverkusen        v FC St. Pauli
+           FC Augsburg             v 1. FC Heidenheim 1846
+           VfB Stuttgart           v 1. FC Köln
+
+
+» Matchday 23
+  Sat Feb/21
+           1. FC Union Berlin      v Bayer Leverkusen
+           Bayern München          v Eintracht Frankfurt
+           RB Leipzig              v Borussia Dortmund
+           FC St. Pauli            v Werder Bremen
+           1. FC Heidenheim 1846   v VfB Stuttgart
+           SC Freiburg             v Bor. Mönchengladbach
+           VfL Wolfsburg           v FC Augsburg
+           1. FC Köln              v 1899 Hoffenheim
+           1. FSV Mainz 05         v Hamburger SV
+
+
+» Matchday 24
+  Sat Feb/28
+           Borussia Dortmund       v Bayern München
+           Eintracht Frankfurt     v SC Freiburg
+           Bayer Leverkusen        v 1. FSV Mainz 05
+           Hamburger SV            v RB Leipzig
+           VfB Stuttgart           v VfL Wolfsburg
+           Bor. Mönchengladbach    v 1. FC Union Berlin
+           1899 Hoffenheim         v FC St. Pauli
+           Werder Bremen           v 1. FC Heidenheim 1846
+           FC Augsburg             v 1. FC Köln
+
+
+» Matchday 25
+  Sat Mar/7
+           SC Freiburg             v Bayer Leverkusen
+           FC St. Pauli            v Eintracht Frankfurt
+           1. FC Köln              v Borussia Dortmund
+           1. FC Union Berlin      v Werder Bremen
+           1. FSV Mainz 05         v VfB Stuttgart
+           Bayern München          v Bor. Mönchengladbach
+           RB Leipzig              v FC Augsburg
+           1. FC Heidenheim 1846   v 1899 Hoffenheim
+           VfL Wolfsburg           v Hamburger SV
+
+
+» Matchday 26
+  Sat Mar/14
+           Bayer Leverkusen        v Bayern München
+           Werder Bremen           v 1. FSV Mainz 05
+           VfB Stuttgart           v RB Leipzig
+           1899 Hoffenheim         v VfL Wolfsburg
+           Borussia Dortmund       v FC Augsburg
+           SC Freiburg             v 1. FC Union Berlin
+           Bor. Mönchengladbach    v FC St. Pauli
+           Eintracht Frankfurt     v 1. FC Heidenheim 1846
+           Hamburger SV            v 1. FC Köln
+
+
+» Matchday 27
+  Sat Mar/21
+           1. FC Heidenheim 1846   v Bayer Leverkusen
+           1. FSV Mainz 05         v Eintracht Frankfurt
+           FC St. Pauli            v SC Freiburg
+           VfL Wolfsburg           v Werder Bremen
+           FC Augsburg             v VfB Stuttgart
+           1. FC Köln              v Bor. Mönchengladbach
+           Bayern München          v 1. FC Union Berlin
+           RB Leipzig              v 1899 Hoffenheim
+           Borussia Dortmund       v Hamburger SV
+
+
+» Matchday 28
+  Sun Apr/5
+           SC Freiburg             v Bayern München
+           VfB Stuttgart           v Borussia Dortmund
+           1899 Hoffenheim         v 1. FSV Mainz 05
+           Werder Bremen           v RB Leipzig
+           Bayer Leverkusen        v VfL Wolfsburg
+           Hamburger SV            v FC Augsburg
+           1. FC Union Berlin      v FC St. Pauli
+           Bor. Mönchengladbach    v 1. FC Heidenheim 1846
+           Eintracht Frankfurt     v 1. FC Köln
+
+
+» Matchday 29
+  Sat Apr/11
+           FC St. Pauli            v Bayern München
+           Borussia Dortmund       v Bayer Leverkusen
+           VfL Wolfsburg           v Eintracht Frankfurt
+           1. FSV Mainz 05         v SC Freiburg
+           1. FC Köln              v Werder Bremen
+           RB Leipzig              v Bor. Mönchengladbach
+           1. FC Heidenheim 1846   v 1. FC Union Berlin
+           FC Augsburg             v 1899 Hoffenheim
+           VfB Stuttgart           v Hamburger SV
+
+
+» Matchday 30
+  Sat Apr/18
+           1899 Hoffenheim         v Borussia Dortmund
+           Bor. Mönchengladbach    v 1. FSV Mainz 05
+           Eintracht Frankfurt     v RB Leipzig
+           Bayern München          v VfB Stuttgart
+           1. FC Union Berlin      v VfL Wolfsburg
+           SC Freiburg             v 1. FC Heidenheim 1846
+           FC St. Pauli            v 1. FC Köln
+           Werder Bremen           v Hamburger SV
+           Bayer Leverkusen        v FC Augsburg
+
+
+» Matchday 31
+  Sat Apr/25
+           1. FSV Mainz 05         v Bayern München
+           1. FC Köln              v Bayer Leverkusen
+           FC Augsburg             v Eintracht Frankfurt
+           Borussia Dortmund       v SC Freiburg
+           VfB Stuttgart           v Werder Bremen
+           VfL Wolfsburg           v Bor. Mönchengladbach
+           RB Leipzig              v 1. FC Union Berlin
+           1. FC Heidenheim 1846   v FC St. Pauli
+           Hamburger SV            v 1899 Hoffenheim
+
+
+» Matchday 32
+  Sun May/3
+           Bor. Mönchengladbach    v Borussia Dortmund
+           FC St. Pauli            v 1. FSV Mainz 05
+           Bayer Leverkusen        v RB Leipzig
+           1899 Hoffenheim         v VfB Stuttgart
+           SC Freiburg             v VfL Wolfsburg
+           Werder Bremen           v FC Augsburg
+           Bayern München          v 1. FC Heidenheim 1846
+           1. FC Union Berlin      v 1. FC Köln
+           Eintracht Frankfurt     v Hamburger SV
+
+
+» Matchday 33
+  Sat May/9
+           VfL Wolfsburg           v Bayern München
+           VfB Stuttgart           v Bayer Leverkusen
+           Borussia Dortmund       v Eintracht Frankfurt
+           Hamburger SV            v SC Freiburg
+           1899 Hoffenheim         v Werder Bremen
+           FC Augsburg             v Bor. Mönchengladbach
+           1. FSV Mainz 05         v 1. FC Union Berlin
+           RB Leipzig              v FC St. Pauli
+           1. FC Köln              v 1. FC Heidenheim 1846
+
+
+» Matchday 34
+  Sat May/16
+    15.30  Werder Bremen           v Borussia Dortmund
+           1. FC Heidenheim 1846   v 1. FSV Mainz 05
+           SC Freiburg             v RB Leipzig
+           Eintracht Frankfurt     v VfB Stuttgart
+           FC St. Pauli            v VfL Wolfsburg
+           1. FC Union Berlin      v FC Augsburg
+           Bor. Mönchengladbach    v 1899 Hoffenheim
+           Bayern München          v 1. FC Köln
+           Bayer Leverkusen        v Hamburger SV

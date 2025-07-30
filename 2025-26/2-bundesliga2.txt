@@ -1,0 +1,462 @@
+= Deutsche 2. Bundesliga 2025/26
+
+# Date       Fri Aug/1 2025 - Sun May/17 2026 (289d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Aug/1 2025
+    20.30  FC Schalke 04           v Hertha BSC
+  Sat Aug/2
+    13.00  SV 07 Elversberg        v 1. FC Nürnberg
+           SC Paderborn 07         v Holstein Kiel
+           Karlsruher SC           v Preußen Münster
+           SV Darmstadt 98         v VfL Bochum
+    20.30  Arminia Bielefeld       v Fortuna Düsseldorf
+  Sun Aug/3
+    13.30  1. FC Magdeburg         v Eintracht Braunschweig
+           Hannover 96             v 1. FC Kaiserslautern
+           SpVgg Greuther Fürth    v Dynamo Dresden
+
+
+» Matchday 2
+  Fri Aug/8
+    18.30  1. FC Nürnberg          v SV Darmstadt 98
+           Preußen Münster         v SC Paderborn 07
+  Sat Aug/9
+    13.00  Fortuna Düsseldorf      v Hannover 96
+           Eintracht Braunschweig  v SpVgg Greuther Fürth
+           Dynamo Dresden          v 1. FC Magdeburg
+    20.30  1. FC Kaiserslautern    v FC Schalke 04
+  Sun Aug/10
+    13.30  Holstein Kiel           v Arminia Bielefeld
+           VfL Bochum              v SV 07 Elversberg
+           Hertha BSC              v Karlsruher SC
+
+
+» Matchday 3
+  Fri Aug/22
+    18.30  SV 07 Elversberg        v 1. FC Kaiserslautern
+           Preußen Münster         v 1. FC Nürnberg
+  Sat Aug/23
+    13.00  SC Paderborn 07         v Fortuna Düsseldorf
+           Karlsruher SC           v Eintracht Braunschweig
+           Hannover 96             v 1. FC Magdeburg
+    20.30  FC Schalke 04           v VfL Bochum
+  Sun Aug/24
+    13.30  SV Darmstadt 98         v Hertha BSC
+           SpVgg Greuther Fürth    v Holstein Kiel
+           Arminia Bielefeld       v Dynamo Dresden
+
+
+» Matchday 4
+  Fri Aug/29
+    18.30  1. FC Nürnberg          v SC Paderborn 07
+           Hertha BSC              v SV 07 Elversberg
+  Sat Aug/30
+    13.00  Holstein Kiel           v Hannover 96
+           VfL Bochum              v Preußen Münster
+           Eintracht Braunschweig  v Arminia Bielefeld
+    20.30  Fortuna Düsseldorf      v Karlsruher SC
+  Sun Aug/31
+    13.30  1. FC Magdeburg         v SpVgg Greuther Fürth
+           1. FC Kaiserslautern    v SV Darmstadt 98
+           Dynamo Dresden          v FC Schalke 04
+
+
+» Matchday 5
+  Fri Sep/12
+    18.30  SC Paderborn 07         v VfL Bochum
+           Arminia Bielefeld       v 1. FC Magdeburg
+  Sat Sep/13
+    13.00  Karlsruher SC           v 1. FC Nürnberg
+           SV Darmstadt 98         v Eintracht Braunschweig
+           FC Schalke 04           v Holstein Kiel
+    20.30  Hannover 96             v Hertha BSC
+  Sun Sep/14
+    13.30  SV 07 Elversberg        v Dynamo Dresden
+           SpVgg Greuther Fürth    v 1. FC Kaiserslautern
+           Preußen Münster         v Fortuna Düsseldorf
+
+
+» Matchday 6
+  Fri Sep/19
+    18.30  1. FC Kaiserslautern    v Preußen Münster
+           Arminia Bielefeld       v SpVgg Greuther Fürth
+  Sat Sep/20
+    13.00  1. FC Magdeburg         v FC Schalke 04
+           Hertha BSC              v SC Paderborn 07
+           Eintracht Braunschweig  v SV 07 Elversberg
+    20.30  1. FC Nürnberg          v VfL Bochum
+  Sun Sep/21
+    13.30  Holstein Kiel           v Karlsruher SC
+           Fortuna Düsseldorf      v SV Darmstadt 98
+           Dynamo Dresden          v Hannover 96
+
+
+» Matchday 7
+  Fri Sep/26
+    18.30  SV Darmstadt 98         v Dynamo Dresden
+           FC Schalke 04           v SpVgg Greuther Fürth
+  Sat Sep/27
+    13.00  SV 07 Elversberg        v Holstein Kiel
+           SC Paderborn 07         v 1. FC Kaiserslautern
+           Karlsruher SC           v 1. FC Magdeburg
+    20.30  VfL Bochum              v Fortuna Düsseldorf
+  Sun Sep/28
+    13.30  Hannover 96             v Arminia Bielefeld
+           1. FC Nürnberg          v Hertha BSC
+           Preußen Münster         v Eintracht Braunschweig
+
+
+» Matchday 8
+  Fri Oct/3
+           Holstein Kiel           v SV Darmstadt 98
+           1. FC Magdeburg         v SV 07 Elversberg
+           Fortuna Düsseldorf      v 1. FC Nürnberg
+           1. FC Kaiserslautern    v VfL Bochum
+           Hertha BSC              v Preußen Münster
+           SpVgg Greuther Fürth    v Hannover 96
+           Eintracht Braunschweig  v SC Paderborn 07
+           Arminia Bielefeld       v FC Schalke 04
+           Dynamo Dresden          v Karlsruher SC
+
+
+» Matchday 9
+  Sat Oct/18
+           VfL Bochum              v Hertha BSC
+           SV 07 Elversberg        v SpVgg Greuther Fürth
+           SC Paderborn 07         v Arminia Bielefeld
+           Fortuna Düsseldorf      v Eintracht Braunschweig
+           Karlsruher SC           v 1. FC Kaiserslautern
+           Hannover 96             v FC Schalke 04
+           1. FC Nürnberg          v Holstein Kiel
+           SV Darmstadt 98         v 1. FC Magdeburg
+           Preußen Münster         v Dynamo Dresden
+
+
+» Matchday 10
+  Fri Oct/24
+           Holstein Kiel           v VfL Bochum
+           1. FC Magdeburg         v Preußen Münster
+           1. FC Kaiserslautern    v 1. FC Nürnberg
+           Hertha BSC              v Fortuna Düsseldorf
+           SpVgg Greuther Fürth    v Karlsruher SC
+           FC Schalke 04           v SV Darmstadt 98
+           Eintracht Braunschweig  v Hannover 96
+           Arminia Bielefeld       v SV 07 Elversberg
+           Dynamo Dresden          v SC Paderborn 07
+
+
+» Matchday 11
+  Sat Nov/1
+           VfL Bochum              v 1. FC Magdeburg
+           SV 07 Elversberg        v Hannover 96
+           SC Paderborn 07         v SpVgg Greuther Fürth
+           Fortuna Düsseldorf      v 1. FC Kaiserslautern
+           Karlsruher SC           v FC Schalke 04
+           1. FC Nürnberg          v Eintracht Braunschweig
+           Hertha BSC              v Dynamo Dresden
+           SV Darmstadt 98         v Arminia Bielefeld
+           Preußen Münster         v Holstein Kiel
+
+
+» Matchday 12
+  Fri Nov/7
+           Holstein Kiel           v Fortuna Düsseldorf
+           1. FC Magdeburg         v SC Paderborn 07
+           1. FC Kaiserslautern    v Hertha BSC
+           Hannover 96             v SV Darmstadt 98
+           SpVgg Greuther Fürth    v Preußen Münster
+           FC Schalke 04           v SV 07 Elversberg
+           Eintracht Braunschweig  v VfL Bochum
+           Arminia Bielefeld       v Karlsruher SC
+           Dynamo Dresden          v 1. FC Nürnberg
+
+
+» Matchday 13
+  Sat Nov/22
+           VfL Bochum              v Dynamo Dresden
+           SC Paderborn 07         v Hannover 96
+           Fortuna Düsseldorf      v 1. FC Magdeburg
+           1. FC Kaiserslautern    v Holstein Kiel
+           Karlsruher SC           v SV 07 Elversberg
+           1. FC Nürnberg          v Arminia Bielefeld
+           Hertha BSC              v Eintracht Braunschweig
+           SV Darmstadt 98         v SpVgg Greuther Fürth
+           Preußen Münster         v FC Schalke 04
+
+
+» Matchday 14
+  Fri Nov/28
+           Holstein Kiel           v Hertha BSC
+           SV 07 Elversberg        v SV Darmstadt 98
+           1. FC Magdeburg         v 1. FC Nürnberg
+           Hannover 96             v Karlsruher SC
+           SpVgg Greuther Fürth    v VfL Bochum
+           FC Schalke 04           v SC Paderborn 07
+           Eintracht Braunschweig  v 1. FC Kaiserslautern
+           Arminia Bielefeld       v Preußen Münster
+           Dynamo Dresden          v Fortuna Düsseldorf
+
+
+» Matchday 15
+  Sat Dec/6
+           VfL Bochum              v Arminia Bielefeld
+           SC Paderborn 07         v SV 07 Elversberg
+           Fortuna Düsseldorf      v FC Schalke 04
+           1. FC Kaiserslautern    v Dynamo Dresden
+           1. FC Nürnberg          v SpVgg Greuther Fürth
+           Hertha BSC              v 1. FC Magdeburg
+           SV Darmstadt 98         v Karlsruher SC
+           Preußen Münster         v Hannover 96
+           Eintracht Braunschweig  v Holstein Kiel
+
+
+» Matchday 16
+  Fri Dec/12
+           SV 07 Elversberg        v Fortuna Düsseldorf
+           1. FC Magdeburg         v Holstein Kiel
+           Karlsruher SC           v SC Paderborn 07
+           Hannover 96             v VfL Bochum
+           SV Darmstadt 98         v Preußen Münster
+           SpVgg Greuther Fürth    v Hertha BSC
+           FC Schalke 04           v 1. FC Nürnberg
+           Arminia Bielefeld       v 1. FC Kaiserslautern
+           Dynamo Dresden          v Eintracht Braunschweig
+
+
+» Matchday 17
+  Sat Dec/20
+           Holstein Kiel           v Dynamo Dresden
+           VfL Bochum              v Karlsruher SC
+           SC Paderborn 07         v SV Darmstadt 98
+           Fortuna Düsseldorf      v SpVgg Greuther Fürth
+           1. FC Kaiserslautern    v 1. FC Magdeburg
+           1. FC Nürnberg          v Hannover 96
+           Hertha BSC              v Arminia Bielefeld
+           Preußen Münster         v SV 07 Elversberg
+           Eintracht Braunschweig  v FC Schalke 04
+
+
+» Matchday 18
+  Sat Jan/17 2026
+           1. FC Nürnberg          v SV 07 Elversberg
+           Holstein Kiel           v SC Paderborn 07
+           Eintracht Braunschweig  v 1. FC Magdeburg
+           Preußen Münster         v Karlsruher SC
+           1. FC Kaiserslautern    v Hannover 96
+           VfL Bochum              v SV Darmstadt 98
+           Dynamo Dresden          v SpVgg Greuther Fürth
+           Fortuna Düsseldorf      v Arminia Bielefeld
+           Hertha BSC              v FC Schalke 04
+
+
+» Matchday 19
+  Fri Jan/23
+           SV 07 Elversberg        v VfL Bochum
+           Hannover 96             v Fortuna Düsseldorf
+           FC Schalke 04           v 1. FC Kaiserslautern
+           SV Darmstadt 98         v 1. FC Nürnberg
+           Karlsruher SC           v Hertha BSC
+           SC Paderborn 07         v Preußen Münster
+           SpVgg Greuther Fürth    v Eintracht Braunschweig
+           1. FC Magdeburg         v Dynamo Dresden
+           Arminia Bielefeld       v Holstein Kiel
+
+
+» Matchday 20
+  Sat Jan/31
+           1. FC Kaiserslautern    v SV 07 Elversberg
+           Fortuna Düsseldorf      v SC Paderborn 07
+           Eintracht Braunschweig  v Karlsruher SC
+           1. FC Magdeburg         v Hannover 96
+           Hertha BSC              v SV Darmstadt 98
+           Holstein Kiel           v SpVgg Greuther Fürth
+           VfL Bochum              v FC Schalke 04
+           1. FC Nürnberg          v Preußen Münster
+           Dynamo Dresden          v Arminia Bielefeld
+
+
+» Matchday 21
+  Fri Feb/6
+           Hannover 96             v Holstein Kiel
+           Preußen Münster         v VfL Bochum
+           SpVgg Greuther Fürth    v 1. FC Magdeburg
+           Karlsruher SC           v Fortuna Düsseldorf
+           SV Darmstadt 98         v 1. FC Kaiserslautern
+           SC Paderborn 07         v 1. FC Nürnberg
+           SV 07 Elversberg        v Hertha BSC
+           Arminia Bielefeld       v Eintracht Braunschweig
+           FC Schalke 04           v Dynamo Dresden
+
+
+» Matchday 22
+  Sat Feb/14
+           Dynamo Dresden          v SV 07 Elversberg
+           VfL Bochum              v SC Paderborn 07
+           1. FC Nürnberg          v Karlsruher SC
+           Hertha BSC              v Hannover 96
+           Eintracht Braunschweig  v SV Darmstadt 98
+           1. FC Kaiserslautern    v SpVgg Greuther Fürth
+           Holstein Kiel           v FC Schalke 04
+           Fortuna Düsseldorf      v Preußen Münster
+           1. FC Magdeburg         v Arminia Bielefeld
+
+
+» Matchday 23
+  Fri Feb/20
+           Karlsruher SC           v Holstein Kiel
+           FC Schalke 04           v 1. FC Magdeburg
+           SV Darmstadt 98         v Fortuna Düsseldorf
+           Preußen Münster         v 1. FC Kaiserslautern
+           VfL Bochum              v 1. FC Nürnberg
+           SC Paderborn 07         v Hertha BSC
+           SV 07 Elversberg        v Eintracht Braunschweig
+           SpVgg Greuther Fürth    v Arminia Bielefeld
+           Hannover 96             v Dynamo Dresden
+
+
+» Matchday 24
+  Sat Feb/28
+           Fortuna Düsseldorf      v VfL Bochum
+           Holstein Kiel           v SV 07 Elversberg
+           1. FC Kaiserslautern    v SC Paderborn 07
+           1. FC Magdeburg         v Karlsruher SC
+           Arminia Bielefeld       v Hannover 96
+           Hertha BSC              v 1. FC Nürnberg
+           Dynamo Dresden          v SV Darmstadt 98
+           SpVgg Greuther Fürth    v FC Schalke 04
+           Eintracht Braunschweig  v Preußen Münster
+
+
+» Matchday 25
+  Fri Mar/6
+           SV Darmstadt 98         v Holstein Kiel
+           SV 07 Elversberg        v 1. FC Magdeburg
+           1. FC Nürnberg          v Fortuna Düsseldorf
+           VfL Bochum              v 1. FC Kaiserslautern
+           Preußen Münster         v Hertha BSC
+           Hannover 96             v SpVgg Greuther Fürth
+           SC Paderborn 07         v Eintracht Braunschweig
+           FC Schalke 04           v Arminia Bielefeld
+           Karlsruher SC           v Dynamo Dresden
+
+
+» Matchday 26
+  Sat Mar/14
+           Hertha BSC              v VfL Bochum
+           SpVgg Greuther Fürth    v SV 07 Elversberg
+           Arminia Bielefeld       v SC Paderborn 07
+           Eintracht Braunschweig  v Fortuna Düsseldorf
+           1. FC Kaiserslautern    v Karlsruher SC
+           FC Schalke 04           v Hannover 96
+           Holstein Kiel           v 1. FC Nürnberg
+           1. FC Magdeburg         v SV Darmstadt 98
+           Dynamo Dresden          v Preußen Münster
+
+
+» Matchday 27
+  Fri Mar/20
+           VfL Bochum              v Holstein Kiel
+           Preußen Münster         v 1. FC Magdeburg
+           1. FC Nürnberg          v 1. FC Kaiserslautern
+           Fortuna Düsseldorf      v Hertha BSC
+           Karlsruher SC           v SpVgg Greuther Fürth
+           SV Darmstadt 98         v FC Schalke 04
+           Hannover 96             v Eintracht Braunschweig
+           SV 07 Elversberg        v Arminia Bielefeld
+           SC Paderborn 07         v Dynamo Dresden
+
+
+» Matchday 28
+  Sun Apr/5
+           1. FC Magdeburg         v VfL Bochum
+           Hannover 96             v SV 07 Elversberg
+           SpVgg Greuther Fürth    v SC Paderborn 07
+           1. FC Kaiserslautern    v Fortuna Düsseldorf
+           FC Schalke 04           v Karlsruher SC
+           Eintracht Braunschweig  v 1. FC Nürnberg
+           Dynamo Dresden          v Hertha BSC
+           Arminia Bielefeld       v SV Darmstadt 98
+           Holstein Kiel           v Preußen Münster
+
+
+» Matchday 29
+  Fri Apr/10
+           Fortuna Düsseldorf      v Holstein Kiel
+           SC Paderborn 07         v 1. FC Magdeburg
+           Hertha BSC              v 1. FC Kaiserslautern
+           SV Darmstadt 98         v Hannover 96
+           Preußen Münster         v SpVgg Greuther Fürth
+           SV 07 Elversberg        v FC Schalke 04
+           VfL Bochum              v Eintracht Braunschweig
+           Karlsruher SC           v Arminia Bielefeld
+           1. FC Nürnberg          v Dynamo Dresden
+
+
+» Matchday 30
+  Sat Apr/18
+           Dynamo Dresden          v VfL Bochum
+           Hannover 96             v SC Paderborn 07
+           1. FC Magdeburg         v Fortuna Düsseldorf
+           Holstein Kiel           v 1. FC Kaiserslautern
+           SV 07 Elversberg        v Karlsruher SC
+           Arminia Bielefeld       v 1. FC Nürnberg
+           Eintracht Braunschweig  v Hertha BSC
+           SpVgg Greuther Fürth    v SV Darmstadt 98
+           FC Schalke 04           v Preußen Münster
+
+
+» Matchday 31
+  Fri Apr/24
+           Hertha BSC              v Holstein Kiel
+           SV Darmstadt 98         v SV 07 Elversberg
+           1. FC Nürnberg          v 1. FC Magdeburg
+           Karlsruher SC           v Hannover 96
+           VfL Bochum              v SpVgg Greuther Fürth
+           SC Paderborn 07         v FC Schalke 04
+           1. FC Kaiserslautern    v Eintracht Braunschweig
+           Preußen Münster         v Arminia Bielefeld
+           Fortuna Düsseldorf      v Dynamo Dresden
+
+
+» Matchday 32
+  Sun May/3
+           Arminia Bielefeld       v VfL Bochum
+           SV 07 Elversberg        v SC Paderborn 07
+           FC Schalke 04           v Fortuna Düsseldorf
+           Dynamo Dresden          v 1. FC Kaiserslautern
+           SpVgg Greuther Fürth    v 1. FC Nürnberg
+           1. FC Magdeburg         v Hertha BSC
+           Karlsruher SC           v SV Darmstadt 98
+           Hannover 96             v Preußen Münster
+           Holstein Kiel           v Eintracht Braunschweig
+
+
+» Matchday 33
+  Fri May/8
+           Fortuna Düsseldorf      v SV 07 Elversberg
+           Holstein Kiel           v 1. FC Magdeburg
+           SC Paderborn 07         v Karlsruher SC
+           VfL Bochum              v Hannover 96
+           Preußen Münster         v SV Darmstadt 98
+           Hertha BSC              v SpVgg Greuther Fürth
+           1. FC Nürnberg          v FC Schalke 04
+           1. FC Kaiserslautern    v Arminia Bielefeld
+           Eintracht Braunschweig  v Dynamo Dresden
+
+
+» Matchday 34
+  Sun May/17
+    15.30  Dynamo Dresden          v Holstein Kiel
+           Karlsruher SC           v VfL Bochum
+           SV Darmstadt 98         v SC Paderborn 07
+           SpVgg Greuther Fürth    v Fortuna Düsseldorf
+           1. FC Magdeburg         v 1. FC Kaiserslautern
+           Hannover 96             v 1. FC Nürnberg
+           Arminia Bielefeld       v Hertha BSC
+           SV 07 Elversberg        v Preußen Münster
+           FC Schalke 04           v Eintracht Braunschweig

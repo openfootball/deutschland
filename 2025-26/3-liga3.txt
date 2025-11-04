@@ -6,247 +6,261 @@
 
 
 
-» Matchday 1
+» 1. Round
   Fri Aug/1 2025
-    19.00  Rot-Weiss Essen         v TSV 1860 München
+    18.00  Rot-Weiss Essen         v TSV 1860 München         1-1 (1-0)
   Sat Aug/2
-    14.00  Waldhof Mannheim        v SC Verl
-           FC Ingolstadt 04        v Jahn Regensburg
-           VfL Osnabrück           v Alemannia Aachen
-           Energie Cottbus         v 1. FC Saarbrücken
-           1899 Hoffenheim II      v TSV Havelse
-    16.30  MSV Duisburg            v VfB Stuttgart II
+    13.00  Waldhof Mannheim        v SC Verl                  2-2 (1-1)
+           FC Ingolstadt 04        v Jahn Regensburg          1-1 (1-0)
+           VfL Osnabrück           v Alemannia Aachen         0-0
+           Energie Cottbus         v 1. FC Saarbrücken        3-3 (2-1)
+           1899 Hoffenheim II      v TSV Havelse              0-0
+    15.30  MSV Duisburg            v VfB Stuttgart II         2-1 (0-0)
   Sun Aug/3
-    13.30  Erzgebirge Aue          v Hansa Rostock
-    16.30  Viktoria Köln           v 1. FC Schweinfurt 05
-    19.30  SV Wehen Wiesbaden      v SSV Ulm 1846
+    12.30  Erzgebirge Aue          v Hansa Rostock            0-0
+    15.30  Viktoria Köln           v 1. FC Schweinfurt 05     2-0 (0-0)
+    18.30  SV Wehen Wiesbaden      v SSV Ulm 1846             3-1 (1-0)
 
 
-» Matchday 2
+» 2. Round
   Fri Aug/8
-    19.00  1. FC Schweinfurt 05    v Energie Cottbus
+    18.00  1. FC Schweinfurt 05    v Energie Cottbus          0-2 (0-0)
   Sat Aug/9
-    14.00  1. FC Saarbrücken       v Viktoria Köln
-           SSV Ulm 1846            v Erzgebirge Aue
-           TSV Havelse             v Rot-Weiss Essen
-           Alemannia Aachen        v 1899 Hoffenheim II
-           TSV 1860 München        v VfL Osnabrück
-    16.30  SC Verl                 v SV Wehen Wiesbaden
+    13.00  1. FC Saarbrücken       v Viktoria Köln            2-1 (2-0)
+           SSV Ulm 1846            v Erzgebirge Aue           1-0 (1-0)
+           TSV Havelse             v Rot-Weiss Essen          1-1 (0-0)
+           Alemannia Aachen        v 1899 Hoffenheim II       2-4 (1-2)
+           TSV 1860 München        v VfL Osnabrück            3-1 (2-0)
+    15.30  SC Verl                 v SV Wehen Wiesbaden       2-2 (1-2)
   Sun Aug/10
-    13.30  Jahn Regensburg         v MSV Duisburg
-    16.30  Hansa Rostock           v Waldhof Mannheim
-    19.30  VfB Stuttgart II        v FC Ingolstadt 04
+    12.30  Jahn Regensburg         v MSV Duisburg             0-4 (0-2)
+    15.30  Hansa Rostock           v Waldhof Mannheim         1-0 (0-0)
+    18.30  VfB Stuttgart II        v FC Ingolstadt 04         2-1 (2-0)
 
 
-» Matchday 3
+» 3. Round
   Fri Aug/22
-    19.00  SV Wehen Wiesbaden      v Rot-Weiss Essen
+    18.00  SV Wehen Wiesbaden      v Rot-Weiss Essen          3-4 (1-0)
   Sat Aug/23
-    14.00  VfB Stuttgart II        v SC Verl
-           VfL Osnabrück           v 1. FC Saarbrücken
-           Jahn Regensburg         v 1. FC Schweinfurt 05
-           Alemannia Aachen        v TSV 1860 München
-           1899 Hoffenheim II      v Energie Cottbus
-    16.30  MSV Duisburg            v SSV Ulm 1846
+    13.00  VfB Stuttgart II        v SC Verl                  1-1 (1-1)
+           VfL Osnabrück           v 1. FC Saarbrücken        2-0 (0-0)
+           Jahn Regensburg         v 1. FC Schweinfurt 05     3-0 (1-0)
+           Alemannia Aachen        v TSV 1860 München         0-2 (0-0)
+           1899 Hoffenheim II      v Energie Cottbus          4-1 (3-0)
+    15.30  MSV Duisburg            v SSV Ulm 1846             2-1 (1-0)
   Sun Aug/24
-    13.30  FC Ingolstadt 04        v Hansa Rostock
-    16.30  Erzgebirge Aue          v TSV Havelse
-    19.30  Waldhof Mannheim        v Viktoria Köln
+    12.30  FC Ingolstadt 04        v Hansa Rostock            1-1 (0-0)
+    15.30  Erzgebirge Aue          v TSV Havelse              2-1 (0-1)
+    18.30  Waldhof Mannheim        v Viktoria Köln            2-0 (2-0)
 
 
-» Matchday 4
+» 4. Round
   Fri Aug/29
-    19.00  Viktoria Köln           v Jahn Regensburg
+    18.00  Viktoria Köln           v Jahn Regensburg          1-0 (1-0)
   Sat Aug/30
-    14.00  1. FC Saarbrücken       v Erzgebirge Aue
-           Energie Cottbus         v FC Ingolstadt 04
-           TSV Havelse             v VfL Osnabrück
-           TSV 1860 München        v VfB Stuttgart II
-           SC Verl                 v MSV Duisburg
-    16.30  Hansa Rostock           v 1899 Hoffenheim II
+    13.00  1. FC Saarbrücken       v Erzgebirge Aue           4-1 (2-0)
+           Energie Cottbus         v FC Ingolstadt 04         1-1 (1-0)
+           TSV Havelse             v VfL Osnabrück            0-2 (0-1)
+           TSV 1860 München        v VfB Stuttgart II         1-1 (0-1)
+           SC Verl                 v MSV Duisburg             2-3 (1-0)
+    15.30  Hansa Rostock           v 1899 Hoffenheim II       0-1 (0-1)
   Sun Aug/31
-    13.30  SSV Ulm 1846            v Waldhof Mannheim
-    16.30  1. FC Schweinfurt 05    v SV Wehen Wiesbaden
-    19.30  Rot-Weiss Essen         v Alemannia Aachen
+    12.30  SSV Ulm 1846            v Waldhof Mannheim         1-2 (1-2)
+    15.30  1. FC Schweinfurt 05    v SV Wehen Wiesbaden       0-1 (0-0)
+    18.30  Rot-Weiss Essen         v Alemannia Aachen         2-3 (0-2)
 
 
-» Matchday 5
+» 5. Round
   Fri Sep/12
-    19.00  Jahn Regensburg         v Rot-Weiss Essen
+    18.00  Jahn Regensburg         v Rot-Weiss Essen          1-3 (0-1)
   Sat Sep/13
-    14.00  FC Ingolstadt 04        v 1. FC Schweinfurt 05
-           VfB Stuttgart II        v 1. FC Saarbrücken
-           Erzgebirge Aue          v Viktoria Köln
-           MSV Duisburg            v SV Wehen Wiesbaden
-           1899 Hoffenheim II      v SC Verl
-    16.30  Alemannia Aachen        v SSV Ulm 1846
+    13.00  FC Ingolstadt 04        v 1. FC Schweinfurt 05     2-3 (2-1)
+           VfB Stuttgart II        v 1. FC Saarbrücken        1-3 (1-2)
+           Erzgebirge Aue          v Viktoria Köln            0-3 (0-2)
+           MSV Duisburg            v SV Wehen Wiesbaden       3-1 (2-0)
+           1899 Hoffenheim II      v SC Verl                  2-4 (1-1)
+    15.30  Alemannia Aachen        v SSV Ulm 1846             1-3 (0-2)
   Sun Sep/14
-    13.30  VfL Osnabrück           v Hansa Rostock
-    16.30  Waldhof Mannheim        v Energie Cottbus
-    19.30  TSV 1860 München        v TSV Havelse
+    12.30  VfL Osnabrück           v Hansa Rostock            0-0
+    15.30  Waldhof Mannheim        v Energie Cottbus          0-3 (0-2)
+    18.30  TSV 1860 München        v TSV Havelse              3-2 (2-0)
 
 
-» Matchday 6
+» 6. Round
   Tue Sep/16
-    19.00  1. FC Saarbrücken       v SSV Ulm 1846
-           Viktoria Köln           v 1899 Hoffenheim II
-           SV Wehen Wiesbaden      v Jahn Regensburg
-           SC Verl                 v Alemannia Aachen
-           1. FC Schweinfurt 05    v MSV Duisburg
+    18.00  1. FC Saarbrücken       v SSV Ulm 1846             3-1 (1-0)
+           Viktoria Köln           v 1899 Hoffenheim II       2-1 (1-0)
+           SV Wehen Wiesbaden      v Jahn Regensburg          2-0 (0-0)
+           SC Verl                 v Alemannia Aachen         2-1 (0-0)
+           1. FC Schweinfurt 05    v MSV Duisburg             0-3 (0-1)
   Wed Sep/17
-    19.00  Waldhof Mannheim        v VfB Stuttgart II
-           Energie Cottbus         v Erzgebirge Aue
-           Hansa Rostock           v TSV 1860 München
-           TSV Havelse             v FC Ingolstadt 04
-           Rot-Weiss Essen         v VfL Osnabrück
+    18.00  Waldhof Mannheim        v VfB Stuttgart II         0-1 (0-0)
+           Energie Cottbus         v Erzgebirge Aue           2-1 (1-1)
+           Hansa Rostock           v TSV 1860 München         2-1 (2-0)
+           TSV Havelse             v FC Ingolstadt 04         2-6 (2-2)
+           Rot-Weiss Essen         v VfL Osnabrück            1-1 (0-0)
 
 
-» Matchday 7
+» 7. Round
   Fri Sep/19
-    19.00  1. FC Saarbrücken       v 1. FC Schweinfurt 05
+    18.00  1. FC Saarbrücken       v 1. FC Schweinfurt 05     2-1 (2-0)
   Sat Sep/20
-    14.00  FC Ingolstadt 04        v SV Wehen Wiesbaden
-           VfB Stuttgart II        v Viktoria Köln
-           VfL Osnabrück           v Erzgebirge Aue
-           Alemannia Aachen        v Waldhof Mannheim
-           Rot-Weiss Essen         v Hansa Rostock
-    16.30  TSV 1860 München        v 1899 Hoffenheim II
+    13.00  FC Ingolstadt 04        v SV Wehen Wiesbaden       0-0
+           VfB Stuttgart II        v Viktoria Köln            2-1 (1-0)
+           VfL Osnabrück           v Erzgebirge Aue           3-1 (0-0)
+           Alemannia Aachen        v Waldhof Mannheim         3-2 (1-0)
+           Rot-Weiss Essen         v Hansa Rostock            3-0 (3-0)
+    15.30  TSV 1860 München        v 1899 Hoffenheim II       1-5 (0-2)
   Sun Sep/21
-    13.30  TSV Havelse             v MSV Duisburg
-    16.30  SC Verl                 v Energie Cottbus
-    19.30  SSV Ulm 1846            v Jahn Regensburg
+    12.30  TSV Havelse             v MSV Duisburg             1-1 (0-0)
+    15.30  SC Verl                 v Energie Cottbus          2-1 (0-0)
+    18.30  SSV Ulm 1846            v Jahn Regensburg          2-1 (0-1)
 
 
-» Matchday 8
+» 8. Round
   Fri Sep/26
-    19.00  Energie Cottbus         v VfB Stuttgart II
+    18.00  Energie Cottbus         v VfB Stuttgart II         5-0 (2-0)
   Sat Sep/27
-    14.00  Erzgebirge Aue          v TSV 1860 München
-           Hansa Rostock           v TSV Havelse
-           SV Wehen Wiesbaden      v 1. FC Saarbrücken
-           MSV Duisburg            v FC Ingolstadt 04
-           1. FC Schweinfurt 05    v Alemannia Aachen
-    16.30  Waldhof Mannheim        v Rot-Weiss Essen
+    13.00  Erzgebirge Aue          v TSV 1860 München         2-0 (1-0)
+           Hansa Rostock           v TSV Havelse              1-1 (0-1)
+           SV Wehen Wiesbaden      v 1. FC Saarbrücken        1-1 (1-0)
+           MSV Duisburg            v FC Ingolstadt 04         2-1 (0-0)
+           1. FC Schweinfurt 05    v Alemannia Aachen         1-5 (1-1)
+    15.30  Waldhof Mannheim        v Rot-Weiss Essen          6-1 (2-0)
   Sun Sep/28
-    13.30  Jahn Regensburg         v SC Verl
-    16.30  1899 Hoffenheim II      v SSV Ulm 1846
-    19.30  Viktoria Köln           v VfL Osnabrück
+    12.30  Jahn Regensburg         v SC Verl                  2-0 (0-0)
+    15.30  1899 Hoffenheim II      v SSV Ulm 1846             1-1 (1-1)
+    18.30  Viktoria Köln           v VfL Osnabrück            0-0
 
 
-» Matchday 9
+» 9. Round
   Tue Sep/30
-    19.00  1. FC Saarbrücken       v MSV Duisburg
-           VfB Stuttgart II        v SV Wehen Wiesbaden
-           Hansa Rostock           v Energie Cottbus
-           TSV Havelse             v Waldhof Mannheim
-           Alemannia Aachen        v Erzgebirge Aue
+    18.00  1. FC Saarbrücken       v MSV Duisburg             0-0
+           VfB Stuttgart II        v SV Wehen Wiesbaden       0-0
+           Hansa Rostock           v Energie Cottbus          1-3 (1-1)
+           TSV Havelse             v Waldhof Mannheim         2-3 (0-1)
+           Alemannia Aachen        v Erzgebirge Aue           0-1 (0-1)
   Wed Oct/1
-    19.00  SSV Ulm 1846            v 1. FC Schweinfurt 05
-           VfL Osnabrück           v Jahn Regensburg
-           Rot-Weiss Essen         v 1899 Hoffenheim II
-           TSV 1860 München        v Viktoria Köln
-           SC Verl                 v FC Ingolstadt 04
+    18.00  SSV Ulm 1846            v 1. FC Schweinfurt 05     5-1 (2-1)
+           VfL Osnabrück           v Jahn Regensburg          2-0 (1-0)
+           Rot-Weiss Essen         v 1899 Hoffenheim II       3-1 (2-0)
+           TSV 1860 München        v Viktoria Köln            2-2 (1-2)
+           SC Verl                 v FC Ingolstadt 04         2-2 (1-0)
 
 
-» Matchday 10
+» 10. Round
   Fri Oct/3
-           Waldhof Mannheim        v VfL Osnabrück
-           FC Ingolstadt 04        v SSV Ulm 1846
-           Viktoria Köln           v TSV Havelse
-           Erzgebirge Aue          v Rot-Weiss Essen
-           Energie Cottbus         v Alemannia Aachen
-           SV Wehen Wiesbaden      v TSV 1860 München
-           Jahn Regensburg         v 1. FC Saarbrücken
-           MSV Duisburg            v Hansa Rostock
-           1899 Hoffenheim II      v VfB Stuttgart II
-           1. FC Schweinfurt 05    v SC Verl
+    18.00  MSV Duisburg            v Hansa Rostock            2-2 (1-1)
+  Sat Oct/4
+    13.00  Waldhof Mannheim        v VfL Osnabrück            1-4 (1-0)
+           FC Ingolstadt 04        v SSV Ulm 1846             4-1 (1-1)
+           Viktoria Köln           v TSV Havelse              4-1 (2-0)
+           Jahn Regensburg         v 1. FC Saarbrücken        1-1 (0-1)
+           1. FC Schweinfurt 05    v SC Verl                  1-2 (1-0)
+    15.30  Energie Cottbus         v Alemannia Aachen         3-2 (1-2)
+  Sun Oct/5
+    12.30  Erzgebirge Aue          v Rot-Weiss Essen          2-2 (2-1)
+    15.30  SV Wehen Wiesbaden      v TSV 1860 München         1-0 (0-0)
+    18.30  1899 Hoffenheim II      v VfB Stuttgart II         1-3 (1-1)
 
 
-» Matchday 11
+» 11. Round
   Fri Oct/17
-           1. FC Saarbrücken       v SC Verl
-           VfB Stuttgart II        v 1. FC Schweinfurt 05
-           SSV Ulm 1846            v Energie Cottbus
-           Erzgebirge Aue          v Waldhof Mannheim
-           VfL Osnabrück           v 1899 Hoffenheim II
-           Hansa Rostock           v SV Wehen Wiesbaden
-           TSV Havelse             v Jahn Regensburg
-           Alemannia Aachen        v FC Ingolstadt 04
-           Rot-Weiss Essen         v Viktoria Köln
-           TSV 1860 München        v MSV Duisburg
+    18.00  Erzgebirge Aue          v Waldhof Mannheim         0-2 (0-1)
+  Sat Oct/18
+    13.00  1. FC Saarbrücken       v SC Verl                  2-4 (1-2)
+           VfB Stuttgart II        v 1. FC Schweinfurt 05     3-0 (1-0)
+           VfL Osnabrück           v 1899 Hoffenheim II       0-4 (0-1)
+           Hansa Rostock           v SV Wehen Wiesbaden       3-0 (1-0)
+           Alemannia Aachen        v FC Ingolstadt 04         0-1 (0-0)
+    15.30  Rot-Weiss Essen         v Viktoria Köln            1-0 (1-0)
+  Sun Oct/19
+    12.30  SSV Ulm 1846            v Energie Cottbus          1-2 (0-0)
+    15.30  TSV 1860 München        v MSV Duisburg             3-1 (1-1)
+    18.30  TSV Havelse             v Jahn Regensburg          1-2 (1-1)
 
 
-» Matchday 12
+» 12. Round
   Fri Oct/24
-           Waldhof Mannheim        v TSV 1860 München
-           FC Ingolstadt 04        v 1. FC Saarbrücken
-           Viktoria Köln           v Hansa Rostock
-           Energie Cottbus         v TSV Havelse
-           SV Wehen Wiesbaden      v Alemannia Aachen
-           Jahn Regensburg         v VfB Stuttgart II
-           MSV Duisburg            v Rot-Weiss Essen
-           1899 Hoffenheim II      v Erzgebirge Aue
-           SC Verl                 v SSV Ulm 1846
-           1. FC Schweinfurt 05    v VfL Osnabrück
+    18.00  SV Wehen Wiesbaden      v Alemannia Aachen         1-2 (0-2)
+  Sat Oct/25
+    13.00  Waldhof Mannheim        v TSV 1860 München         3-1 (1-1)
+           FC Ingolstadt 04        v 1. FC Saarbrücken        2-1 (1-0)
+           Energie Cottbus         v TSV Havelse              4-3 (2-1)
+           Jahn Regensburg         v VfB Stuttgart II         3-2 (0-2)
+           SC Verl                 v SSV Ulm 1846             5-0 (2-0)
+    15.30  1. FC Schweinfurt 05    v VfL Osnabrück            1-2 (0-1)
+  Sun Oct/26
+    12.30  1899 Hoffenheim II      v Erzgebirge Aue           1-1 (1-0)
+    15.30  Viktoria Köln           v Hansa Rostock            2-4 (1-2)
+    18.30  MSV Duisburg            v Rot-Weiss Essen          1-1 (1-1)
 
 
-» Matchday 13
+» 13. Round
   Fri Oct/31
-           Viktoria Köln           v FC Ingolstadt 04
-           SSV Ulm 1846            v VfB Stuttgart II
-           Erzgebirge Aue          v Jahn Regensburg
-           VfL Osnabrück           v MSV Duisburg
-           Hansa Rostock           v SC Verl
-           TSV Havelse             v SV Wehen Wiesbaden
-           Alemannia Aachen        v 1. FC Saarbrücken
-           Rot-Weiss Essen         v 1. FC Schweinfurt 05
-           TSV 1860 München        v Energie Cottbus
-           1899 Hoffenheim II      v Waldhof Mannheim
+    18.00  Viktoria Köln           v FC Ingolstadt 04         3-1 (0-1)
+  Sat Nov/1
+    13.00  SSV Ulm 1846            v VfB Stuttgart II         1-3 (1-1)
+           Erzgebirge Aue          v Jahn Regensburg          4-3 (1-1)
+           VfL Osnabrück           v MSV Duisburg             0-0
+           TSV Havelse             v SV Wehen Wiesbaden       0-2 (0-1)
+           TSV 1860 München        v Energie Cottbus          3-0 (2-0)
+    15.30  Hansa Rostock           v SC Verl                  2-2 (1-1)
+  Sun Nov/2
+    12.30  1899 Hoffenheim II      v Waldhof Mannheim         2-0 (0-0)
+    15.30  Rot-Weiss Essen         v 1. FC Schweinfurt 05     2-1 (1-1)
+    18.30  Alemannia Aachen        v 1. FC Saarbrücken        2-0 (2-0)
 
 
-» Matchday 14
+» 14. Round
   Fri Nov/7
-           1. FC Saarbrücken       v TSV Havelse
-           FC Ingolstadt 04        v Rot-Weiss Essen
-           VfB Stuttgart II        v Alemannia Aachen
+    18.00  MSV Duisburg            v Waldhof Mannheim
+  Sat Nov/8
+    13.00  FC Ingolstadt 04        v Rot-Weiss Essen
            SSV Ulm 1846            v Hansa Rostock
            Energie Cottbus         v VfL Osnabrück
-           SV Wehen Wiesbaden      v Viktoria Köln
-           Jahn Regensburg         v TSV 1860 München
-           MSV Duisburg            v Waldhof Mannheim
            SC Verl                 v Erzgebirge Aue
            1. FC Schweinfurt 05    v 1899 Hoffenheim II
+    15.30  1. FC Saarbrücken       v TSV Havelse
+  Sun Nov/9
+    12.30  VfB Stuttgart II        v Alemannia Aachen
+    15.30  Jahn Regensburg         v TSV 1860 München
+    18.30  SV Wehen Wiesbaden      v Viktoria Köln
 
 
-» Matchday 15
+» 15. Round
   Fri Nov/21
-           Waldhof Mannheim        v SV Wehen Wiesbaden
+    18.00  1899 Hoffenheim II      v MSV Duisburg
+  Sat Nov/22
+    13.00  Waldhof Mannheim        v SV Wehen Wiesbaden
            Viktoria Köln           v SC Verl
-           Erzgebirge Aue          v VfB Stuttgart II
-           VfL Osnabrück           v FC Ingolstadt 04
            Hansa Rostock           v 1. FC Schweinfurt 05
            TSV Havelse             v SSV Ulm 1846
            Alemannia Aachen        v Jahn Regensburg
-           Rot-Weiss Essen         v Energie Cottbus
-           TSV 1860 München        v 1. FC Saarbrücken
-           1899 Hoffenheim II      v MSV Duisburg
+    15.30  VfL Osnabrück           v FC Ingolstadt 04
+  Sun Nov/23
+    12.30  TSV 1860 München        v 1. FC Saarbrücken
+    15.30  Erzgebirge Aue          v VfB Stuttgart II
+    18.30  Rot-Weiss Essen         v Energie Cottbus
 
 
-» Matchday 16
+» 16. Round
   Fri Nov/28
-           1. FC Saarbrücken       v Rot-Weiss Essen
+    18.00  SV Wehen Wiesbaden      v Erzgebirge Aue
+  Sat Nov/29
+    13.00  1. FC Saarbrücken       v Rot-Weiss Essen
            FC Ingolstadt 04        v 1899 Hoffenheim II
-           VfB Stuttgart II        v TSV Havelse
            SSV Ulm 1846            v TSV 1860 München
            Energie Cottbus         v Viktoria Köln
-           SV Wehen Wiesbaden      v Erzgebirge Aue
-           Jahn Regensburg         v Hansa Rostock
            MSV Duisburg            v Alemannia Aachen
-           SC Verl                 v VfL Osnabrück
-           1. FC Schweinfurt 05    v Waldhof Mannheim
+    15.30  1. FC Schweinfurt 05    v Waldhof Mannheim
+  Sun Nov/30
+    12.30  Jahn Regensburg         v Hansa Rostock
+    15.30  SC Verl                 v VfL Osnabrück
+    18.30  VfB Stuttgart II        v TSV Havelse
 
 
-» Matchday 17
+» 17. Round
   Fri Dec/5
            Waldhof Mannheim        v 1. FC Saarbrücken
            Viktoria Köln           v SSV Ulm 1846
@@ -260,7 +274,7 @@
            1899 Hoffenheim II      v Jahn Regensburg
 
 
-» Matchday 18
+» 18. Round
   Fri Dec/12
            1. FC Saarbrücken       v 1899 Hoffenheim II
            FC Ingolstadt 04        v TSV 1860 München
@@ -274,7 +288,7 @@
            1. FC Schweinfurt 05    v TSV Havelse
 
 
-» Matchday 19
+» 19. Round
   Fri Dec/19
            Waldhof Mannheim        v FC Ingolstadt 04
            Viktoria Köln           v MSV Duisburg
@@ -288,7 +302,7 @@
            1899 Hoffenheim II      v SV Wehen Wiesbaden
 
 
-» Matchday 20
+» 20. Round
   Fri Jan/16 2026
            SC Verl                 v Waldhof Mannheim
            Jahn Regensburg         v FC Ingolstadt 04
@@ -302,7 +316,7 @@
            TSV 1860 München        v Rot-Weiss Essen
 
 
-» Matchday 21
+» 21. Round
   Fri Jan/23
            Viktoria Köln           v 1. FC Saarbrücken
            FC Ingolstadt 04        v VfB Stuttgart II
@@ -316,7 +330,7 @@
            Energie Cottbus         v 1. FC Schweinfurt 05
 
 
-» Matchday 22
+» 22. Round
   Fri Jan/30
            Viktoria Köln           v Waldhof Mannheim
            Hansa Rostock           v FC Ingolstadt 04
@@ -330,7 +344,7 @@
            Energie Cottbus         v 1899 Hoffenheim II
 
 
-» Matchday 23
+» 23. Round
   Fri Feb/6
            Erzgebirge Aue          v 1. FC Saarbrücken
            Jahn Regensburg         v Viktoria Köln
@@ -344,7 +358,7 @@
            SV Wehen Wiesbaden      v 1. FC Schweinfurt 05
 
 
-» Matchday 24
+» 24. Round
   Fri Feb/13
            Energie Cottbus         v Waldhof Mannheim
            1. FC Schweinfurt 05    v FC Ingolstadt 04
@@ -358,7 +372,7 @@
            SC Verl                 v 1899 Hoffenheim II
 
 
-» Matchday 25
+» 25. Round
   Fri Feb/20
            SSV Ulm 1846            v 1. FC Saarbrücken
            VfB Stuttgart II        v Waldhof Mannheim
@@ -372,7 +386,7 @@
            MSV Duisburg            v 1. FC Schweinfurt 05
 
 
-» Matchday 26
+» 26. Round
   Fri Feb/27
            1. FC Schweinfurt 05    v 1. FC Saarbrücken
            SV Wehen Wiesbaden      v FC Ingolstadt 04
@@ -386,7 +400,7 @@
            Energie Cottbus         v SC Verl
 
 
-» Matchday 27
+» 27. Round
   Tue Mar/3
            Rot-Weiss Essen         v Waldhof Mannheim
            VfL Osnabrück           v Viktoria Köln
@@ -400,7 +414,7 @@
            Alemannia Aachen        v 1. FC Schweinfurt 05
 
 
-» Matchday 28
+» 28. Round
   Fri Mar/6
            MSV Duisburg            v 1. FC Saarbrücken
            SV Wehen Wiesbaden      v VfB Stuttgart II
@@ -414,7 +428,7 @@
            FC Ingolstadt 04        v SC Verl
 
 
-» Matchday 29
+» 29. Round
   Fri Mar/13
            VfL Osnabrück           v Waldhof Mannheim
            SSV Ulm 1846            v FC Ingolstadt 04
@@ -428,7 +442,7 @@
            SC Verl                 v 1. FC Schweinfurt 05
 
 
-» Matchday 30
+» 30. Round
   Fri Mar/20
            SC Verl                 v 1. FC Saarbrücken
            1. FC Schweinfurt 05    v VfB Stuttgart II
@@ -442,7 +456,7 @@
            MSV Duisburg            v TSV 1860 München
 
 
-» Matchday 31
+» 31. Round
   Sat Apr/4
            TSV 1860 München        v Waldhof Mannheim
            1. FC Saarbrücken       v FC Ingolstadt 04
@@ -456,7 +470,7 @@
            VfL Osnabrück           v 1. FC Schweinfurt 05
 
 
-» Matchday 32
+» 32. Round
   Tue Apr/7
            FC Ingolstadt 04        v Viktoria Köln
            VfB Stuttgart II        v SSV Ulm 1846
@@ -470,7 +484,7 @@
            Waldhof Mannheim        v 1899 Hoffenheim II
 
 
-» Matchday 33
+» 33. Round
   Fri Apr/10
            TSV Havelse             v 1. FC Saarbrücken
            Rot-Weiss Essen         v FC Ingolstadt 04
@@ -484,7 +498,7 @@
            1899 Hoffenheim II      v 1. FC Schweinfurt 05
 
 
-» Matchday 34
+» 34. Round
   Fri Apr/17
            SV Wehen Wiesbaden      v Waldhof Mannheim
            SC Verl                 v Viktoria Köln
@@ -498,7 +512,7 @@
            MSV Duisburg            v 1899 Hoffenheim II
 
 
-» Matchday 35
+» 35. Round
   Fri Apr/24
            Rot-Weiss Essen         v 1. FC Saarbrücken
            1899 Hoffenheim II      v FC Ingolstadt 04
@@ -512,7 +526,7 @@
            Waldhof Mannheim        v 1. FC Schweinfurt 05
 
 
-» Matchday 36
+» 36. Round
   Sat May/2
            1. FC Saarbrücken       v Waldhof Mannheim
            SSV Ulm 1846            v Viktoria Köln
@@ -526,7 +540,7 @@
            Jahn Regensburg         v 1899 Hoffenheim II
 
 
-» Matchday 37
+» 37. Round
   Fri May/8
            1899 Hoffenheim II      v 1. FC Saarbrücken
            TSV 1860 München        v FC Ingolstadt 04
@@ -540,9 +554,9 @@
            TSV Havelse             v 1. FC Schweinfurt 05
 
 
-» Matchday 38
+» 38. Round
   Sat May/16
-    13.30  FC Ingolstadt 04        v Waldhof Mannheim
+    12.30  FC Ingolstadt 04        v Waldhof Mannheim
            MSV Duisburg            v Viktoria Köln
            1. FC Schweinfurt 05    v Erzgebirge Aue
            VfB Stuttgart II        v VfL Osnabrück

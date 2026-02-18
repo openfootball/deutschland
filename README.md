@@ -26,20 +26,19 @@ Example:
 ```
 = Deutsche Bundesliga
 
-1. Spieltag
-
-[Fr 22.8.]
-  20.30  Bayern München        -  VfL Wolfsburg
-[Sa 23.8.]
-  15.30  1899 Hoffenheim       -  FC Augsburg
-  15.30  Hannover 96           -  FC Schalke 04
-  15.30  Hertha BSC            -  Werder Bremen
-  15.30  Eintracht Frankfurt   -  SC Freiburg
-  15.30  1. FC Köln            -  Hamburger SV
-  18.30  Borussia Dortmund     -  Bayer Leverkusen
-[So 24.8.]
-  15.30  SC Paderborn 07       -  1. FSV Mainz 05
-  17.30  Bor. Mönchengladbach  -  VfB Stuttgart
+▪ Matchday 1
+Fri Aug 22
+  20:30  Bayern München         v VfL Wolfsburg
+Sat Aug 23
+  15:30  1899 Hoffenheim        v FC Augsburg
+         Hannover 96            v FC Schalke 04
+         Hertha BSC             v Werder Bremen
+         Eintracht Frankfurt    v SC Freiburg
+         1. FC Köln             v Hamburger SV
+  18.30  Borussia Dortmund      v Bayer Leverkusen
+Sun Aug 24
+  15.30  SC Paderborn 07        v 1. FSV Mainz 05
+  17.30  Bor. Mönchengladbach   v VfB Stuttgart
 ...
 ```
 

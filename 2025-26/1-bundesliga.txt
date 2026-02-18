@@ -158,245 +158,269 @@
 
 » Matchday 11
   Fri Nov/21
-    20.30  1. FSV Mainz 05         v TSG 1899 Hoffenheim
+    20.30  1. FSV Mainz 05         v TSG 1899 Hoffenheim      1-1 (0-1)
   Sat Nov/22
-    15.30  FC Bayern München       v SC Freiburg
-           Borussia Dortmund       v VfB Stuttgart
-           VfL Wolfsburg           v Bayer 04 Leverkusen
-           FC Augsburg             v Hamburger SV
-           1. FC Heidenheim 1846   v Borussia Mönchengladbach
-    18.30  1. FC Köln              v Eintracht Frankfurt
+    15.30  FC Bayern München       v SC Freiburg              6-2 (2-2)
+           Borussia Dortmund       v VfB Stuttgart            3-3 (2-0)
+           VfL Wolfsburg           v Bayer 04 Leverkusen      1-3 (0-3)
+           FC Augsburg             v Hamburger SV             1-0 (0-0)
+           1. FC Heidenheim 1846   v Borussia Mönchengladbach  0-3 (0-1)
+    18.30  1. FC Köln              v Eintracht Frankfurt      3-4 (1-2)
   Sun Nov/23
-    15.30  RB Leipzig              v SV Werder Bremen
-    17.30  FC St. Pauli 1910       v 1. FC Union Berlin
+    15.30  RB Leipzig              v SV Werder Bremen         2-0 (0-0)
+    17.30  FC St. Pauli 1910       v 1. FC Union Berlin       0-1 (0-1)
 
 
 » Matchday 12
   Fri Nov/28
-    20.30  Borussia Mönchengladbach v RB Leipzig
+    20.30  Borussia Mönchengladbach v RB Leipzig               0-0
   Sat Nov/29
-    15.30  FC Bayern München       v FC St. Pauli 1910
-           SV Werder Bremen        v 1. FC Köln
-           1. FC Union Berlin      v 1. FC Heidenheim 1846
-           TSG 1899 Hoffenheim     v FC Augsburg
-    18.30  Bayer 04 Leverkusen     v Borussia Dortmund
+    15.30  FC Bayern München       v FC St. Pauli 1910        3-1 (1-1)
+           SV Werder Bremen        v 1. FC Köln               1-1 (1-0)
+           1. FC Union Berlin      v 1. FC Heidenheim 1846    1-2 (1-0)
+           TSG 1899 Hoffenheim     v FC Augsburg              3-0 (3-0)
+    18.30  Bayer 04 Leverkusen     v Borussia Dortmund        1-2 (0-1)
   Sun Nov/30
-    15.30  Hamburger SV            v VfB Stuttgart
-    17.30  Eintracht Frankfurt     v VfL Wolfsburg
-    19.30  SC Freiburg             v 1. FSV Mainz 05
+    15.30  Hamburger SV            v VfB Stuttgart            2-1 (1-0)
+    17.30  Eintracht Frankfurt     v VfL Wolfsburg            1-1 (0-0)
+    19.30  SC Freiburg             v 1. FSV Mainz 05          4-0 (2-0)
 
 
 » Matchday 13
   Fri Dec/5
-    20.30  1. FSV Mainz 05         v Borussia Mönchengladbach
+    20.30  1. FSV Mainz 05         v Borussia Mönchengladbach  0-1 (0-0)
   Sat Dec/6
-    15.30  VfB Stuttgart           v FC Bayern München
-           VfL Wolfsburg           v 1. FC Union Berlin
-           1. FC Heidenheim 1846   v SC Freiburg
-           1. FC Köln              v FC St. Pauli 1910
-           FC Augsburg             v Bayer 04 Leverkusen
-    18.30  RB Leipzig              v Eintracht Frankfurt
+    15.30  VfB Stuttgart           v FC Bayern München        0-5 (0-1)
+           VfL Wolfsburg           v 1. FC Union Berlin       3-1 (2-0)
+           1. FC Heidenheim 1846   v SC Freiburg              2-1 (0-1)
+           1. FC Köln              v FC St. Pauli 1910        1-1 (0-0)
+           FC Augsburg             v Bayer 04 Leverkusen      2-0 (2-0)
+    18.30  RB Leipzig              v Eintracht Frankfurt      6-0 (2-0)
   Sun Dec/7
-    15.30  Hamburger SV            v SV Werder Bremen
-    17.30  Borussia Dortmund       v TSG 1899 Hoffenheim
+    15.30  Hamburger SV            v SV Werder Bremen         3-2 (0-1)
+    17.30  Borussia Dortmund       v TSG 1899 Hoffenheim      2-0 (1-0)
 
 
 » Matchday 14
   Fri Dec/12
-    20.30  1. FC Union Berlin      v RB Leipzig
+    20.30  1. FC Union Berlin      v RB Leipzig               3-1 (0-0)
   Sat Dec/13
-    15.30  Eintracht Frankfurt     v FC Augsburg
-           Borussia Mönchengladbach v VfL Wolfsburg
-           FC St. Pauli 1910       v 1. FC Heidenheim 1846
-           TSG 1899 Hoffenheim     v Hamburger SV
-    18.30  Bayer 04 Leverkusen     v 1. FC Köln
+    15.30  Eintracht Frankfurt     v FC Augsburg              1-0 (0-0)
+           Borussia Mönchengladbach v VfL Wolfsburg            1-3 (1-3)
+           FC St. Pauli 1910       v 1. FC Heidenheim 1846    2-1 (1-0)
+           TSG 1899 Hoffenheim     v Hamburger SV             4-1 (2-0)
+    18.30  Bayer 04 Leverkusen     v 1. FC Köln               2-0 (0-0)
   Sun Dec/14
-    15.30  SC Freiburg             v Borussia Dortmund
-    17.30  FC Bayern München       v 1. FSV Mainz 05
-    19.30  SV Werder Bremen        v VfB Stuttgart
+    15.30  SC Freiburg             v Borussia Dortmund        1-1 (0-1)
+    17.30  FC Bayern München       v 1. FSV Mainz 05          2-2 (1-1)
+    19.30  SV Werder Bremen        v VfB Stuttgart            0-4 (0-2)
 
 
 » Matchday 15
   Fri Dec/19
-    20.30  Borussia Dortmund       v Borussia Mönchengladbach
+    20.30  Borussia Dortmund       v Borussia Mönchengladbach  2-0 (1-0)
   Sat Dec/20
-    15.30  VfB Stuttgart           v TSG 1899 Hoffenheim
-           VfL Wolfsburg           v SC Freiburg
-           FC Augsburg             v SV Werder Bremen
-           1. FC Köln              v 1. FC Union Berlin
-           Hamburger SV            v Eintracht Frankfurt
-    18.30  RB Leipzig              v Bayer 04 Leverkusen
+    15.30  VfB Stuttgart           v TSG 1899 Hoffenheim      0-0
+           VfL Wolfsburg           v SC Freiburg              3-4 (1-1)
+           FC Augsburg             v SV Werder Bremen         0-0
+           1. FC Köln              v 1. FC Union Berlin       0-1 (0-0)
+           Hamburger SV            v Eintracht Frankfurt      1-1 (1-1)
+    18.30  RB Leipzig              v Bayer 04 Leverkusen      1-3 (1-2)
   Sun Dec/21
-    15.30  1. FSV Mainz 05         v FC St. Pauli 1910
-    17.30  1. FC Heidenheim 1846   v FC Bayern München
+    15.30  1. FSV Mainz 05         v FC St. Pauli 1910        0-0
+    17.30  1. FC Heidenheim 1846   v FC Bayern München        0-4 (0-2)
 
 
 » Matchday 16
   Fri Jan/9 2026
-    20.30  Eintracht Frankfurt     v Borussia Dortmund
+    20.30  Eintracht Frankfurt     v Borussia Dortmund        3-3 (1-1)
   Sat Jan/10
-    15.30  SC Freiburg             v Hamburger SV
-           SV Werder Bremen        v TSG 1899 Hoffenheim
-           1. FC Union Berlin      v 1. FSV Mainz 05
-           FC St. Pauli 1910       v RB Leipzig
-           1. FC Heidenheim 1846   v 1. FC Köln
-    18.30  Bayer 04 Leverkusen     v VfB Stuttgart
+    15.30  SC Freiburg             v Hamburger SV             2-1 (0-0)
+           1. FC Union Berlin      v 1. FSV Mainz 05          2-2 (0-1)
+           1. FC Heidenheim 1846   v 1. FC Köln               2-2 (2-1)
+    18.30  Bayer 04 Leverkusen     v VfB Stuttgart            1-4 (0-4)
   Sun Jan/11
-    15.30  Borussia Mönchengladbach v FC Augsburg
-    17.30  FC Bayern München       v VfL Wolfsburg
+    15.30  Borussia Mönchengladbach v FC Augsburg              4-0 (3-0)
+    17.30  FC Bayern München       v VfL Wolfsburg            8-1 (2-1)
 
 
 » Matchday 17
   Tue Jan/13
-    18.30  VfB Stuttgart           v Eintracht Frankfurt
-    20.30  Borussia Dortmund       v SV Werder Bremen
-           1. FSV Mainz 05         v 1. FC Heidenheim 1846
-           Hamburger SV            v Bayer 04 Leverkusen
+    18.30  VfB Stuttgart           v Eintracht Frankfurt      3-2 (2-1)
+    20.30  Borussia Dortmund       v SV Werder Bremen         3-0 (1-0)
+           1. FSV Mainz 05         v 1. FC Heidenheim 1846    2-1 (1-0)
   Wed Jan/14
-    18.30  VfL Wolfsburg           v FC St. Pauli 1910
-    20.30  RB Leipzig              v SC Freiburg
-           TSG 1899 Hoffenheim     v Borussia Mönchengladbach
-           1. FC Köln              v FC Bayern München
+    18.30  VfL Wolfsburg           v FC St. Pauli 1910        2-1 (1-1)
+    20.30  RB Leipzig              v SC Freiburg              2-0 (0-0)
+           TSG 1899 Hoffenheim     v Borussia Mönchengladbach  5-1 (4-0)
+           1. FC Köln              v FC Bayern München        1-3 (1-1)
   Thu Jan/15
-    20.30  FC Augsburg             v 1. FC Union Berlin
+    20.30  FC Augsburg             v 1. FC Union Berlin       1-1 (1-0)
 
 
 » Matchday 18
   Fri Jan/16
-    20.30  SV Werder Bremen        v Eintracht Frankfurt
+    20.30  SV Werder Bremen        v Eintracht Frankfurt      3-3 (1-1)
   Sat Jan/17
-    15.30  TSG 1899 Hoffenheim     v Bayer 04 Leverkusen
-           1. FC Köln              v 1. FSV Mainz 05
-           Hamburger SV            v Borussia Mönchengladbach
-           Borussia Dortmund       v FC St. Pauli 1910
-           VfL Wolfsburg           v 1. FC Heidenheim 1846
-    18.30  RB Leipzig              v FC Bayern München
+    15.30  TSG 1899 Hoffenheim     v Bayer 04 Leverkusen      1-0 (1-0)
+           1. FC Köln              v 1. FSV Mainz 05          2-1 (0-1)
+           Hamburger SV            v Borussia Mönchengladbach  0-0
+           Borussia Dortmund       v FC St. Pauli 1910        3-2 (1-0)
+           VfL Wolfsburg           v 1. FC Heidenheim 1846    1-1 (0-1)
+    18.30  RB Leipzig              v FC Bayern München        1-5 (1-0)
   Sun Jan/18
-    15.30  VfB Stuttgart           v 1. FC Union Berlin
-    17.30  FC Augsburg             v SC Freiburg
+    15.30  VfB Stuttgart           v 1. FC Union Berlin       1-1 (0-0)
+    17.30  FC Augsburg             v SC Freiburg              2-2 (0-0)
 
 
 » Matchday 19
   Fri Jan/23
-    20.30  FC St. Pauli 1910       v Hamburger SV
+    20.30  FC St. Pauli 1910       v Hamburger SV             0-0
   Sat Jan/24
-    15.30  1. FC Heidenheim 1846   v RB Leipzig
-           Bayer 04 Leverkusen     v SV Werder Bremen
-           1. FSV Mainz 05         v VfL Wolfsburg
-           FC Bayern München       v FC Augsburg
-           Eintracht Frankfurt     v TSG 1899 Hoffenheim
-    18.30  1. FC Union Berlin      v Borussia Dortmund
+    15.30  1. FC Heidenheim 1846   v RB Leipzig               0-3 (0-0)
+           Bayer 04 Leverkusen     v SV Werder Bremen         1-0 (1-0)
+           1. FSV Mainz 05         v VfL Wolfsburg            3-1 (0-1)
+           FC Bayern München       v FC Augsburg              1-2 (1-0)
+           Eintracht Frankfurt     v TSG 1899 Hoffenheim      1-3 (1-0)
+    18.30  1. FC Union Berlin      v Borussia Dortmund        0-3 (0-1)
   Sun Jan/25
-    15.30  Borussia Mönchengladbach v VfB Stuttgart
-    17.30  SC Freiburg             v 1. FC Köln
+    15.30  Borussia Mönchengladbach v VfB Stuttgart            0-3 (0-1)
+    17.30  SC Freiburg             v 1. FC Köln               2-1 (2-1)
+
+
+» Matchday 16
+  Tue Jan/27
+    20.30  SV Werder Bremen        v TSG 1899 Hoffenheim      0-2 (0-1)
+           FC St. Pauli 1910       v RB Leipzig               1-1 (0-0)
 
 
 » Matchday 20
+  Fri Jan/30
+    20.30  1. FC Köln              v VfL Wolfsburg            1-0 (1-0)
   Sat Jan/31
-           Hamburger SV            v FC Bayern München
-           Eintracht Frankfurt     v Bayer 04 Leverkusen
-           VfB Stuttgart           v SC Freiburg
-           RB Leipzig              v 1. FSV Mainz 05
-           SV Werder Bremen        v Borussia Mönchengladbach
-           1. FC Köln              v VfL Wolfsburg
-           TSG 1899 Hoffenheim     v 1. FC Union Berlin
-           FC Augsburg             v FC St. Pauli 1910
-           Borussia Dortmund       v 1. FC Heidenheim 1846
+    15.30  Eintracht Frankfurt     v Bayer 04 Leverkusen      1-3 (0-2)
+           RB Leipzig              v 1. FSV Mainz 05          1-2 (1-1)
+           SV Werder Bremen        v Borussia Mönchengladbach  1-1 (0-0)
+           TSG 1899 Hoffenheim     v 1. FC Union Berlin       3-1 (2-0)
+           FC Augsburg             v FC St. Pauli 1910        2-1 (1-1)
+    18.30  Hamburger SV            v FC Bayern München        2-2 (1-1)
+  Sun Feb/1
+    15.30  VfB Stuttgart           v SC Freiburg              1-0 (0-0)
+    17.30  Borussia Dortmund       v 1. FC Heidenheim 1846    3-2 (1-1)
 
 
 » Matchday 21
+  Fri Feb/6
+    20.30  1. FC Union Berlin      v Eintracht Frankfurt      1-1 (0-0)
   Sat Feb/7
-           Borussia Mönchengladbach v Bayer 04 Leverkusen
-           1. FC Union Berlin      v Eintracht Frankfurt
-           VfL Wolfsburg           v Borussia Dortmund
-           1. FC Köln              v RB Leipzig
-           SC Freiburg             v SV Werder Bremen
-           FC St. Pauli 1910       v VfB Stuttgart
-           1. FSV Mainz 05         v FC Augsburg
-           FC Bayern München       v TSG 1899 Hoffenheim
-           1. FC Heidenheim 1846   v Hamburger SV
+    15.30  VfL Wolfsburg           v Borussia Dortmund        1-2 (0-1)
+           SC Freiburg             v SV Werder Bremen         1-0 (1-0)
+           FC St. Pauli 1910       v VfB Stuttgart            2-1 (1-0)
+           1. FSV Mainz 05         v FC Augsburg              2-0 (1-0)
+           1. FC Heidenheim 1846   v Hamburger SV             0-2 (0-1)
+    18.30  Borussia Mönchengladbach v Bayer 04 Leverkusen      1-1 (1-1)
+  Sun Feb/8
+    15.30  1. FC Köln              v RB Leipzig               1-2 (0-1)
+    17.30  FC Bayern München       v TSG 1899 Hoffenheim      5-1 (3-1)
 
 
 » Matchday 22
+  Fri Feb/13
+    20.30  Borussia Dortmund       v 1. FSV Mainz 05          4-0 (3-0)
   Sat Feb/14
-           SV Werder Bremen        v FC Bayern München
-           TSG 1899 Hoffenheim     v SC Freiburg
-           Borussia Dortmund       v 1. FSV Mainz 05
-           Eintracht Frankfurt     v Borussia Mönchengladbach
-           RB Leipzig              v VfL Wolfsburg
-           Hamburger SV            v 1. FC Union Berlin
-           Bayer 04 Leverkusen     v FC St. Pauli 1910
-           FC Augsburg             v 1. FC Heidenheim 1846
-           VfB Stuttgart           v 1. FC Köln
+    15.30  SV Werder Bremen        v FC Bayern München        0-3 (0-2)
+           TSG 1899 Hoffenheim     v SC Freiburg              3-0 (0-0)
+           Eintracht Frankfurt     v Borussia Mönchengladbach  3-0 (2-0)
+           Hamburger SV            v 1. FC Union Berlin       3-2 (2-1)
+           Bayer 04 Leverkusen     v FC St. Pauli 1910        4-0 (2-0)
+    18.30  VfB Stuttgart           v 1. FC Köln               3-1 (1-0)
+  Sun Feb/15
+    15.30  FC Augsburg             v 1. FC Heidenheim 1846    1-0 (0-0)
+    17.30  RB Leipzig              v VfL Wolfsburg            2-2 (0-0)
 
 
 » Matchday 23
+  Fri Feb/20
+    20.30  1. FSV Mainz 05         v Hamburger SV
   Sat Feb/21
-           1. FC Union Berlin      v Bayer 04 Leverkusen
+    15.30  1. FC Union Berlin      v Bayer 04 Leverkusen
            FC Bayern München       v Eintracht Frankfurt
-           RB Leipzig              v Borussia Dortmund
-           FC St. Pauli 1910       v SV Werder Bremen
-           1. FC Heidenheim 1846   v VfB Stuttgart
-           SC Freiburg             v Borussia Mönchengladbach
            VfL Wolfsburg           v FC Augsburg
            1. FC Köln              v TSG 1899 Hoffenheim
-           1. FSV Mainz 05         v Hamburger SV
+    18.30  RB Leipzig              v Borussia Dortmund
+  Sun Feb/22
+    15.30  SC Freiburg             v Borussia Mönchengladbach
+    17.30  FC St. Pauli 1910       v SV Werder Bremen
+    19.30  1. FC Heidenheim 1846   v VfB Stuttgart
 
 
 » Matchday 24
+  Fri Feb/27
+    20.30  FC Augsburg             v 1. FC Köln
   Sat Feb/28
-           Borussia Dortmund       v FC Bayern München
-           Eintracht Frankfurt     v SC Freiburg
-           Bayer 04 Leverkusen     v 1. FSV Mainz 05
-           Hamburger SV            v RB Leipzig
-           VfB Stuttgart           v VfL Wolfsburg
+    15.30  Bayer 04 Leverkusen     v 1. FSV Mainz 05
            Borussia Mönchengladbach v 1. FC Union Berlin
            TSG 1899 Hoffenheim     v FC St. Pauli 1910
            SV Werder Bremen        v 1. FC Heidenheim 1846
-           FC Augsburg             v 1. FC Köln
+    18.30  Borussia Dortmund       v FC Bayern München
+  Sun Mar/1
+    15.30  VfB Stuttgart           v VfL Wolfsburg
+    17.30  Eintracht Frankfurt     v SC Freiburg
+    19.30  Hamburger SV            v RB Leipzig
+
+
+» Matchday 17
+  Wed Mar/4
+    20.30  Hamburger SV            v Bayer 04 Leverkusen
 
 
 » Matchday 25
+  Fri Mar/6
+    20.30  FC Bayern München       v Borussia Mönchengladbach
   Sat Mar/7
-           SC Freiburg             v Bayer 04 Leverkusen
-           FC St. Pauli 1910       v Eintracht Frankfurt
-           1. FC Köln              v Borussia Dortmund
-           1. FC Union Berlin      v SV Werder Bremen
+    15.30  SC Freiburg             v Bayer 04 Leverkusen
            1. FSV Mainz 05         v VfB Stuttgart
-           FC Bayern München       v Borussia Mönchengladbach
            RB Leipzig              v FC Augsburg
            1. FC Heidenheim 1846   v TSG 1899 Hoffenheim
            VfL Wolfsburg           v Hamburger SV
+    18.30  1. FC Köln              v Borussia Dortmund
+  Sun Mar/8
+    15.30  FC St. Pauli 1910       v Eintracht Frankfurt
+    17.30  1. FC Union Berlin      v SV Werder Bremen
 
 
 » Matchday 26
+  Fri Mar/13
+    20.30  Borussia Mönchengladbach v FC St. Pauli 1910
   Sat Mar/14
-           Bayer 04 Leverkusen     v FC Bayern München
-           SV Werder Bremen        v 1. FSV Mainz 05
-           VfB Stuttgart           v RB Leipzig
+    15.30  Bayer 04 Leverkusen     v FC Bayern München
            TSG 1899 Hoffenheim     v VfL Wolfsburg
            Borussia Dortmund       v FC Augsburg
-           SC Freiburg             v 1. FC Union Berlin
-           Borussia Mönchengladbach v FC St. Pauli 1910
            Eintracht Frankfurt     v 1. FC Heidenheim 1846
-           Hamburger SV            v 1. FC Köln
+    18.30  Hamburger SV            v 1. FC Köln
+  Sun Mar/15
+    15.30  SV Werder Bremen        v 1. FSV Mainz 05
+    17.30  SC Freiburg             v 1. FC Union Berlin
+    19.30  VfB Stuttgart           v RB Leipzig
 
 
 » Matchday 27
+  Fri Mar/20
+    20.30  RB Leipzig              v TSG 1899 Hoffenheim
   Sat Mar/21
-           1. FC Heidenheim 1846   v Bayer 04 Leverkusen
-           1. FSV Mainz 05         v Eintracht Frankfurt
-           FC St. Pauli 1910       v SC Freiburg
+    15.30  1. FC Heidenheim 1846   v Bayer 04 Leverkusen
            VfL Wolfsburg           v SV Werder Bremen
-           FC Augsburg             v VfB Stuttgart
            1. FC Köln              v Borussia Mönchengladbach
            FC Bayern München       v 1. FC Union Berlin
-           RB Leipzig              v TSG 1899 Hoffenheim
-           Borussia Dortmund       v Hamburger SV
+    18.30  Borussia Dortmund       v Hamburger SV
+  Sun Mar/22
+    15.30  1. FSV Mainz 05         v Eintracht Frankfurt
+    17.30  FC St. Pauli 1910       v SC Freiburg
+    19.30  FC Augsburg             v VfB Stuttgart
 
 
 » Matchday 28
-  Sun Apr/5
+  Sat Apr/4
            SC Freiburg             v FC Bayern München
            VfB Stuttgart           v Borussia Dortmund
            TSG 1899 Hoffenheim     v 1. FSV Mainz 05
@@ -448,7 +472,7 @@
 
 
 » Matchday 32
-  Sun May/3
+  Sat May/2
            Borussia Mönchengladbach v Borussia Dortmund
            FC St. Pauli 1910       v 1. FSV Mainz 05
            Bayer 04 Leverkusen     v RB Leipzig

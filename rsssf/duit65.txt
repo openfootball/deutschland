@@ -1,0 +1,430 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tablesd/duit65.html
+
+
+=Bundesliga 1964/65=
+
+
+<!-- Final Table:
+
+ 1. Werder Bremen                30 15 11  4  54- 29  41
+ 2. 1. FC Köln                   30 14 10  6  66- 45  38
+ 3. Borussia Dortmund            30 15  6  9  67- 48  36
+ 4. TSV 1860 München             30 14  7  9  70- 50  35
+ 5. Hannover 96                  30 13  7 10  48- 42  33
+ 6. 1. FC Nürnberg               30 11 10  9  44- 38  32
+ 7. Meidericher SV               30 12  8 10  46- 48  32
+ 8. Eintracht Frankfurt          30 11  7 12  50- 58  29
+ 9. Eintracht Braunschweig       30 10  8 12  42- 47  28
+10. Borussia Neunkirchen         30  9  9 12  44- 48  27
+11. Hamburger SV                 30 11  5 14  46- 56  27
+12. VfB Stuttgart                30  9  8 13  46- 50  26
+13. 1. FC Kaiserslautern         30 11  3 16  41- 53  25
+14. Hertha BSC Berlin            30  7 11 12  40- 62  25
+15. Karlsruher SC                30  9  6 15  47- 62  24
+16. Schalke 04                   30  7  8 15  45- 60  22
+
+Note. No relegation, league extended to 18 teams. Hertha BSC 
+forcibly relegated for lack of license and replaced by
+Tasmania Berlin   -->
+
+
+
+
+▪ Round 1 
+Aug 22
+1. FC Köln  2-3 Hertha      (Schäfer 18, Thielen 62 - Faeder 70, Rühl 77,
+                            K.Schulz 89)
+Hamburger   2-2 Stuttgart   (Wulf 77, Krug 81 - Siebert 9, Arnold 15 p)
+Nürnberg    2-0 Neunkirchen (Strehl 79, Ertz 89 og)
+Dortmund    0-2 Hannover    (Rodekamp 52, 58)
+B'schweig   1-1 TSV 1860    (Moll 16 - Brunnenmeier 55)
+K'lautern   2-1 Werder      (Richter 14, Leydecker 38 - Matischak 17)
+Karlsruher  2-1 Meidericher (Marx 2, Geisert 64 - Lotz 58)
+Frankfurt   2-2 Schalke     (Huberts 54, Höfer 70 - Horst 19, Libuda 30)
+
+▪ Round 2 
+Aug 29
+Hertha      0-0 Hamburger
+Stuttgart   3-1 Nürnberg    (Böhringer 18, Geiger 72, Huttary 75 - Strehl 11)
+Neunkirchen 1-2 Dortmund    (Heiden 88 - A.Schmidt 61, Kurat 72)
+Hannover    2-0 1. FC Köln  (Gräber 30, 35)
+TSV 1860    0-1 Frankfurt   (Stinka 50)
+Werder      5-1 B'schweig   (Hänel 10, Piontek 23, Schütz 25, Zebrowski 58,
+                            Matinschak 74 - Moll 30)
+Meidericher 3-1 K'lautern   (Lotz 17, Krämer 34, Gecks 29 - Neumann 82 p)
+Schalke     1-1 Karlsruher  (W.Schulz 80 - Cieslarczyk 72)
+
+▪ Round 3 
+Sep 5
+1. FC Köln  4-3 Neunkirchen (C.Müller 8, 61, 68, Overath 25 - Pidancet 2,
+                            May 3, Glod 9)
+Hamburger   3-0 Hannover    (Wulf 48, G.Dörfel 81, B.Dörfel 85)
+Nürnberg    2-0 Hertha      (Strehl 35, T.Wild 60)
+Dortmund    1-0 Stuttgart   (Brungs 64)
+B'schweig   0-1 Meidericher (R.Schmidt 13)
+K'lautern   3-0 Schalke     (Richter 4, Leydecker 12, Kapitulski 42)
+Karlsruher  1-5 TSV 1860    (Jendrosch 70 - Küppers 30, 65, 80, Luttrop 2,
+                            Heiß 82)
+Frankfurt   0-2 Werder      (Zebrowski 32, 55)
+
+▪ Round 4 
+Sep 12
+Hertha      0-0 Dortmund
+Stuttgart   3-3 1. FC Köln  (Geiger 27, 50, Siebert 35 - Hornig 16, Schäfer 37,
+                            Löhr 48) 
+Neunkirchen 3-1 Hamburger   (Pidancet 6, May 37 p, Melcher 54 - U.Seeler 22)
+                    # sent off: Kurbjuhn (Hamburger, 80)
+Hannover    2-2 Nürnberg    (Mittrowski 18, Heiser 23 - Strehl 6, Dachlauer 21)
+TSV 1860    2-2 K'lautern   (Brunnenmeier 2, Küppers 58 - Wrenger 32,
+                            Leydecker 37) 
+Werder      1-0 Karlsruher  (Schütz 62)
+Meidericher 1-3 Frankfurt   (Krämer 18 - Huberts 21, 57, H.Kraus 29)
+Schalke     0-3 B'schweig   (Hosung 42, Ulsaß 51, Brase 83) 
+
+▪ Round 5 
+Sep 19
+1. FC Köln  4-2 Werder      (Schäfer 38, 87, C.Müller 20, Hornig 79 -
+                            Schütz 60, Zebrowski 83)
+Stuttgart   1-1 Hertha      (Geiger 6 - Kremner 17)
+Hamburger   3-0 Meidericher (U.Seeler 28, 77, Mate 10)
+Nürnberg    3-2 Schalke     (T.Wild 25, 82, Greiff 68 - Koslowski 34, 
+                            Crawatzo 89)
+Dortmund    1-1 TSV 1860    (Konietzka 75 - Brunnenmeier 79)
+B'schweig   1-0 Neunkirchen (Ulsaß 80)
+K'lautern   1-0 Hannover    (Reitgaßl 43)
+Frankfurt   0-7 Karlsruher  (H.Wild 6, 30, Cieslarczyk 12, 13, 
+                            Wischnowsky 53 p, 84 p, Zaczyk 4) 
+
+▪ Round 6 
+Sep 26
+Hertha      1-3 Frankfurt   (Faeder 26 - Solz 39, 84, Schämer 9)
+Neunkirchen 0-3 K'lautern   (Neumann 10, Kapitulski 68, Richter 84)
+Hannover    2-2 B'schweig   (Rodekamp 3, 80 - Dulz 20, Ulsaß 53)
+TSV 1860    2-0 Nürnberg    (Wagner 28, 65)
+Werder      0-0 Hamburger
+Meidericher 0-3 1. FC Köln  (Heidemann 25 og, Schäfer 36, C.Müller 42)
+Karlsruher  0-0 Stuttgart
+Schalke     2-6 Dortmund    (Grau 57, Libuda 89 - Konietzka 20, 23, 
+                            A.Schmidt 10, Brungs 11, 36, Emmerich 32)
+
+▪ Round 7 
+Oct 10
+Hertha      2-1 TSV 1860    (K.Schulz 33, Kremer 74 - Brunnenmeier 32)
+1. FC Köln  5-1 B'schweig   (C.Müller 20, 62, 75, 83, Thielen 49 - Ulsaß 38)
+Stuttgart   2-1 Schalke     (Menne 59, Höller 61 - Koslowski 35)
+Hamburger   2-1 Frankfurt   (Woldmann 27, Wulf 86 - Schämer 35)
+Neunkirchen 4-2 Meidericher (G.Kuntz 17, 52, 65, May 32 - Versteeg 66, 
+                            Krämer 81)
+Nürnberg    4-1 Karlsruher  (Allemann 88, 53, Reisch 39 og, Greif 83 - 
+                            H.Wild 47) 
+Hannover    1-2 Werder      (Gräber 39 - Matischak 43, 82)
+Dortmund    3-2 K'lautern   (Wosab 23, A.Schmidt 59, Brungs 70 - 
+                            Reitgaßl 35, 60)
+
+▪ Round 8 
+Oct 17
+TSV 1860    4-0 Hannover    (Brunnenmeier 54, 60, 82, Küppers 81)
+B'schweig   0-1 Dortmund    (Konietzka 73)
+Werder      2-0 Neunkirchen (Klöckner 28, Zebrowski 38)
+K'lautern   3-2 Nürnberg    (Kapitulski 54, 56, Wrenger 36 - Mangold 20 og,
+                            T.Wild 69)
+Meidericher 3-3 Stuttgart   (Lotz 30, 61, 73 - Geiger 11, 13, Hoffmann 58 p)
+                  # sent off: Eisele (Stuttgart, 64)
+Karlsruher  2-2 Hamburger   (H.Wild 26, Jendrosch 64 - U.Seeler 12, Wulf 36)
+Schalke     3-0 Hertha      (Nowak 34, 43, Herrmann 57)
+Frankfurt   1-4 1. FC Köln  (Solz 50 - C.Müller 45, 60, 85, Thielen 83)
+
+▪ Round 9 
+Oct 24
+Hertha      2-2 Meidericher (Faeder 10, Rühl 39 - Krämer 32, Gecks 52)
+1. FC Köln  4-1 Karlsruher  (Thielen 31, 57, 86, C.Müller 47 - Cieslarczyk 17)
+Stuttgart   1-1 Werder      (Geiger 86 - Schütz 11)
+Hamburger   3-2 K'lautern   (G.Dörfel 29, 44, Wulf 52 - Krug 28 og, Braner 30)
+Neunkirchen 3-0 TSV 1860    (Pidancet 48, 80, May 84)
+Nürnberg    3-2 B'schweig   (Reisch 55 p, Allemann 74, Strehl 81 -
+                             Wuttich 22, Hosung 33) 
+Hannover    1-0 Schalke     (Mülhausen 7)
+Dortmund    1-3 Frankfurt   (Konietzka 11 - Huberts 22, 80, Solz 72)
+
+▪ Round 10 
+Nov 7
+TSV 1860    1-0 Stuttgart   (Kohlars 58)
+B'schweig   2-0 Hamburger   (Wuttich 26, 37)
+Werder      5-1 Hertha      (Schütz 69, 80, H.Schulz 69, Zebrowski 83, Soya 86)
+K'lautern   2-2 1. FC Köln  (Neumann 58 p, Leydecker 76 - Hornig 20, 
+                            Thielen 27)
+Meidericher 1-0 Hannover    (Nolden 8 p)
+Karlsruher  2-0 Dortmund    (Cieslarczyk 15, Berking 70)
+Schalke     1-1 Neunkirchen (Herrmann 58 - G.Kuntz 4)
+Frankfurt   1-1 Nürnberg    (Stein 57 - Strehl 22)
+
+▪ Round 11 
+Nov 14
+Hertha      5-3 K'lautern   (Rehhagel 40, 45 p, Altendorff 17, Mangold 38 og,
+                            Krampitz 68 - Kapitulski 54, 90 p, Leydecker 51)
+1. FC Köln  1-1 TSV 1860    (Hornig 25 - Brunnenmeier 57)
+Stuttgart   3-1 B'schweig   (Pfisterer 21, 82, Entemann 25 - Wuttich 11)
+Neunkirchen 1-0 Karlsruher  (May 58)
+Nürnberg    2-3 Hamburger   (Strehl 3, Allemann 39 - U.Seeler 30, 40, 60)
+Hannover    3-2 Frankfurt   (Rodekamp 38, Nix 56, Bandura 70 - Stein 62,
+                            Schämer 80)
+Dortmund    0-0 Meidericher 
+Werder      2-2 Schalke     (Soya 17, Schütz 50 - Herrmann 42 p, Kreuz 46)
+
+▪ Round 12 
+Nov 21
+Hamburger   1-4 Dortmund    (Dehn 60 - Konietzka 37, 54, Assauer 24, 
+                            A.Schmidt 75)
+TSV 1860    3-1 Werder      (Kohlars 13, Jagielski 70 og, Heiß 85 - Klöckner 2)
+B'schweig   1-1 Hertha      (Krafczyk 61 - Krampitz 31)
+K'lautern   2-1 Stuttgart   (Braner 2, Prins 37 - Höller 12)
+Meidericher 2-0 Nürnberg    (Krämer 30, Tagliari 34)
+Karlsruher  2-3 Hannover    (Cieslarczyk 68, Zaczyk 83 - Rodekamp 31,
+                            Mülhausen 59, Bandura 60)
+Schalke     2-3 1. FC Köln  (Gerhardt 25, Kreuz 54 - Schäfer 10, Overath 35,
+                            Thielen 60)
+Frankfurt   1-0 Neunkirchen (Huberts 68)
+
+▪ Round 13 
+Nov 28
+Hertha      2-1 Karlsruher  (Rühl 48, Kremer 83 - Madl 64)
+1. FC Köln  3-0 Hamburger   (Overath 12, 33, 38)
+Stuttgart   1-2 Frankfurt   (Waldner 28 - Stein 5, Lindner 31)
+Neunkirchen 2-1 Hannover    (Glod 51, G.Kuntz 64 - Gräber 88)
+Nürnberg    1-0 Dortmund    (Strehl 68)
+B'schweig   2-0 K'lautern   (Ulsaß 11 p, Krafczyk 53)
+Werder      1-0 Meidericher (Zebrowski 88)
+Schalke     2-2 TSV 1860    (Koslowski 34, 49 - Grosser 41, Steiner 75)
+                            
+
+▪ Round 14 
+Dec 5
+Hamburger   3-2 TSV 1860    (U.Seeler 63, 75, Kurth 5 - Grosser 12, 
+                            Giesemann 15 og)
+Neunkirchen 2-2 Hertha      (Heiden 10, 37 - Groß 16, Krampitz 64)
+Nürnberg    3-0 1. FC Köln  (Wüthrich 6, Greif 26, Strehl 37)
+Hannover    2-1 Stuttgart   (Heiser 34, 54 - Weiß 75)
+Dortmund    1-2 Werder      (Konietzka 28 - Höttges 37 p, Klöckner 60)
+Meidericher 2-1 Schalke     (Nolden 58 p, 67 p - Grau 15)
+Karlsruher  6-1 K'lautern   (H.Wild 11, 24, Jendrosch 56, 84, Madl 4,
+                             Geisert 76 - Braner 39)
+Frankfurt   2-2 B'schweig   (Stinka 45, Blusch 52 - Ulsaß 54, Gerwien 60)
+
+▪ Round 15 
+Dec 12
+Hertha      1-1 Hannover    (K.Schulz 51 - Heiser 17)
+1. FC Köln  3-3 Dortmund    (Hornig 29, Sturm 46 p, Overath 56 - 
+                             Emmerich 80, 83, Konietzka 68)
+Stuttgart   3-2 Neunkirchen (Waldner 38, Höller 40 p, Weiß 78 - Glod 74,
+                            Peter 84)
+TSV 1860    2-1 Meidericher (Brunnenmeier 25, Luttrop 75 - Krämer 29)
+B'schweig   3-0 Karlsruher  (Moll 29, Gerwien 57, Ulsaß 82)
+Werder      1-1 Nürnberg    (H.Schulz 32 - Strehl 84)
+K'lautern   0-1 Frankfurt   (Huberts 84 p)
+Schalke     3-1 Hamburger   (Koslowski 8, 72, Gerhardt 44 - U.Seeler 64)
+
+▪ Round 16 
+Dec 19
+Hertha      1-3 1. FC Köln  (Steinert 27 - C.Müller 8, Overath 11, Löhr 13)
+Stuttgart   2-4 Hamburger   (Geiger 31, Höller 90 p - Wulf 40, U.Seeler 44,
+                            Mate 56, G.Dörfel 58)
+Neunkirchen 1-1 Nürnberg    (May 38 - Wüthrich 54)
+                  # sent off: G.Kuntz (Neunkirchen, 77)
+Hannover    2-0 Dortmund    (Heiser 16, 41)
+TSV 1860    2-0 B'schweig   (Luttrop 68, Brunnenmeier 86) 
+Werder      1-1 K'lautern   (Ferner 60 - Kapitulski 10)
+Meidericher 1-1 Karlsruher  (Gecks 6 - Madl 3)
+Schalke     1-1 Frankfurt   (Gerhardt 50 - Stein 51)
+
+▪ Round 17 
+Jan 2
+1. FC Köln  0-1 Hannover    (Bandura 5)
+Hamburger   4-1 Hertha      (U.Seeler 1, 41, Klimaschewski 26,
+                             Schimmöller 46 og - Wulf 43)
+Nürnberg    1-1 Stuttgart   (L.Müller 77 - Weiß 3)
+Dortmund    5-1 Neunkirchen (Konietzka 29, 86, A.Schmidt 48, Wosab 73, 85 -
+                            Berg 55)
+B'schweig   1-1 Werder      (Krafczyk 37 - Zebrowski 90) 
+K'lautern   2-0 Meidericher (Mangold 61, Meier 90)
+Karlsruher  2-2 Schalke     (Madl 31, 73 - Marx 22 og, Koslowski 60)
+Frankfurt   4-1 TSV 1860    (Huberts 7, Solz 23, Lechner 56, Trimhold 73 -
+                            Grosser 85)
+                    # sent off: Bena (TSV, 68)
+
+▪ Round 18 
+Jan 9
+Hertha      1-2 Nürnberg    (Rehhagel 68 p - T.Wild 12, Strehl 51)
+Stuttgart   3-2 Dortmund    (Weiß 32, 51, Reiner 43 - Emmerich 10, 
+                            Konietzka 30) 
+Neunkirchen 1-1 1. FC Köln  (May 45 - Weber 10)
+Hannover    1-2 Hamburger   (Rodekamp 65 - Dehn 9, Woldmann 52)
+Werder      2-2 Frankfurt   (Lorenz 40, Schütz 48 - Stein 46, Stinka 86)
+Meidericher 2-0 B'schweig   (Tagliari 82, Krämer 90)
+Schalke     1-0 K'lautern   (Nowak 55)
+
+▪ Round 19 
+Jan 2
+1. FC Köln  2-1 Stuttgart   (C.Müller 40, Overath 74 - Weiß 47)
+Hamburger   1-2 Neunkirchen (Kurth 55 - May 12, 15)
+Nürnberg    1-0 Hannover    (Wüthrich 56)
+Dortmund    6-3 Hertha      (Konietzka 41, 63, 71, Emmerich 8, 13, Brungs 14 -
+                            Altendorff 7, K.Schulz 52, Klimaschewski 65) 
+B'schweig   1-2 Schalke     (Krafczyk 10 - Gerhardt 8, Libuda 85)
+K'lautern   1-2 TSV 1860    (Neumann 27 - Küppers 32, Grosser 89)
+Karlsruher  0-2 Werder      (Schulz 30, Kahn 84 og)
+Frankfurt   2-3 Meidericher (Tutschek 31, Stinka 80 - Krämer 58, Versteeg 73,
+                            Lotz 87)
+
+▪ Round 20 
+Jan 30
+Hertha      0-0 Stuttgart
+Neunkirchen 0-0 B'schweig
+TSV 1860    4-4 Dortmund    (Brunnenmeier 24, 72, Grosser 33, Küppers 74 -
+                            Brungs 12, 32, 57, Konietzka 48)
+Werder      0-0 1. FC Köln
+Meidericher 3-2 Hamburger   (Lotz 64, 85 Gecks 74 - U.Seeler 48, B.Dörfel 84)
+Karlsruher  3-1 Frankfurt   (H.Wild 62, 73, Madl 21 - Trimhold 34)
+Schalke     1-3 Nürnberg    (Gerhardt 31 - Reisch 37 p, 63 p, Albrecht 71)
+
+
+▪ Round 21 
+Feb 13
+1. FC Köln  1-2 Meidericher (C.Müller 68 - Gecks 72, 74)
+Stuttgart   1-2 Karlsruher  (Weiß 84 - Madl 15, Geisert 55)
+Hamburger   0-4 Werder      (Matischak 16, 26, D.Seeler 78 og, Schütz 80)
+Nürnberg    2-2 TSV 1860    (T.Wild 36, L.Müller 89 - Brunnenmeier 16, 
+                            Luttrop 69)
+Dortmund    4-0 Schalke     (Stratschitz 1, 27 p, Wosab 36, Konietzka 38)
+B'schweig   2-2 Hannover    (Maas 30, Krafczyk 34 - Nix 8, Gräber 84)
+Frankfurt   3-0 Hertha      (Solz 24, 86, Huberts 80)
+
+▪ Round 22 
+Feb 20
+TSV 1860    6-4 Hertha      (Heiß 10, 85, Grosser 15, Brunnenmeier 27, 
+                             Rebele 35, 60 - Krampitz 54, 63, Rehhagel 35 p)
+B'schweig   1-1 1. FC Köln  (Krafczyk 28 - Benthaus 37 p)
+Werder      3-0 Hannover    (Matischak 65, 71, Piontek 25)
+K'lautern   1-3 Dortmund    (Reitgaßl 33 - Konietzka 5, 73, Emmerich 29)
+Meidericher 1-1 Neunkirchen (van Haaren 84 - May 57)
+Karlsruher  1-1 Nürnberg    (H.Wild 89 - Strehl 18)
+Schalke     3-1 Stuttgart   (Gerhardt 23, 66, Grau 86 - Hoffmann 75 p) 
+Frankfurt   2-1 Hamburger   (Schämer 57, Lechner 63 - Kurbjuhn 23)
+Feb 27
+K'lautern   2-0 Neunkirchen (Wrenger 4, Kapitulski 72)
+TSV 1860    9-0 Karlsruher  (Brunnenmeier 2, 6, 57 p, 77, 85, Zeiser 24, 
+                            Küppers 43, Heiß 45, Grosser 59)
+
+▪ Round 23 
+Mar 6
+1. FC Köln  3-4 Frankfurt   (C.Müller 3, Löhr 48, Overath 52 p - 
+                             Lechner 9, 74 p, 79, Hornig 75 og) 
+Stuttgart   4-2 Meidericher (Höller 17, Hoffmann 22 p, Weiß 73, Arnold 82 -
+                            R.Schmidt 60, Nolden 69 p)
+                # sent off: Lotz (Meidericher, 86)
+Hamburger   2-1 Karlsruher  (Marx 19 og, Giesemann 83 - Madl 42)
+Neunkirchen 1-1 Werder      (Schack 55 - Matischak 77)
+Nürnberg    1-0 K'lautern   (Strehl 74)
+Hannover    0-2 TSV 1860    (Brunnenmeier 66, Küppers 90)
+Dortmund    5-4 B'schweig   (Konietzka 69, 86, Brungs 9, Emmerich 57,
+                            Straschitz 72 p - Maas 30, Ulsaß 52, 67 p, Moll 62)
+Mar 13
+Hertha      2-1 Schalke     (Rehhagel 42 p, Krampitz 66 - Kreuz 84)
+
+▪ Round 24 
+Mar 20
+TSV 1860    4-2 Neunkirchen (Brunnenmeier 10, 52, Grosser 22, 57 - May 70,
+                            Simmet 75)
+B'schweig   1-0 Nürnberg    (Moll 79)
+Werder      1-0 Stuttgart   (Lorenz 52)
+K'lautern   2-1 Hamburger   (Giesemann 19 og, Kapitulski 66 - Peltonen 29)
+Meidericher 2-2 Hertha      (Danzberg 20, M.Müller 69 - Kremer 18, Steinert 24)
+Karlsruher  2-4 1. FC Köln  (Madl 3, Kentschke 65 - Weber 66, 68, Overath 10 p,
+                            Löhr 71)
+Schalke     2-2 Hannover    (Steinwedel 11 og, Kreuz 40 p - Bandura 30,
+                            Heiser 65)
+Frankfurt   0-2 Dortmund    (Emmerich 66, Wosab 70) 
+
+▪ Round 25 
+Mar 27
+Hertha      0-0 Werder
+1. FC Köln  3-0 K'lautern   (Zeze 60, Thielen 73, Löhr 75)
+Stuttgart   3-0 TSV 1860    (Pfisterer 23, Höller 33, Waldner 64)
+Hamburger   0-1 B'schweig   (Ulsaß 88)
+Neunkirchen 3-2 Schalke     (Glod 9, G.Kuntz 70, Heiden 88 - Kreuz 4,
+                            Gerhardt 78)
+Nürnberg    0-0 Frankfurt
+Hannover    2-0 Meidericher (Bandura 19, 32)
+Dortmund    5-1 Karlsruher  (Wosab 28, 74, Brungs 34, 73, 89 - Cieslarczyk 21)
+
+▪ Round 26 
+Apr 3
+Hamburger   2-1 Nürnberg    (Giesemann 35, Bähre 83 - Allemann 59)
+TSV 1860    2-3 1. FC Köln  (Grosser 70, Wagner 88 - Thielen 45, 82, Hornig 34)
+                    # sent off: Overath (Köln, 24)
+B'schweig   2-1 Stuttgart   (Ulsaß 18, Bäse 72 - Weiß 33)
+K'lautern   1-2 Hertha      (Reitgaßl 42 p - Krampitz 68, Rehhagel 73 p)
+Meidericher 3-2 Dortmund    (Redder 30 og, van Haaren 40, R.Schmidt 62 -
+                            Brungs 67, Emmerich 81)
+Karlsruher  2-1 Neunkirchen (Jendrosch 20, Madl 42 - Heiden 48)
+Schalke     1-0 Werder      (Crawatzo 11)
+Frankfurt   3-3 Hannover    (Tutschek 43, 60, Steinwedel 74 og - Mülhausen 27,
+                            Nix 83, Rodekamp 87)
+
+▪ Round 27 
+Apr 10
+Hertha      0-3 B'schweig   (Maas 78, 80, Gerwien 47)
+1. FC Köln  2-1 Schalke     (Schäfer 25, Thielen 72 - Bechmann 77)
+Stuttgart   1-0 K'lautern   (Geiger 67)
+                    # sent off: Waldner (Stuttgart, 86), 
+                    #           Wenger (K'lautern, 82)
+Neunkirchen 4-0 Frankfurt   (Simmet 33, 34, Weber 54 og, May 83 p)
+Nürnberg    1-1 Meidericher (Allemann 32 - Mielke 33)
+Hannover    4-2 Karlsruher  (Hoff 8, 25, Bandura 28, Mülhausen 54 - 
+                            Madl 64, 65)
+Dortmund    2-0 Hamburger   (Wosab 19, Straschitz 79 p)
+Werder      3-2 TSV 1860    (Zebrowski 42, Schulz 62, Bena 76 og - Heiß 7,
+                            E.Kraus 43)
+Apr 14
+Hannover    4-0 K'lautern   (Mülhausen 12, 58, 70, Hoff 30)
+
+▪ Round 28 
+Apr 30
+Hamburger   0-0 1. FC Köln
+Hannover    1-1 Neunkirchen (Rodekamp 72 - Simmet 3)
+                    # sent off: Mülhausen (Hannover, 81)
+Dortmund    2-1 Nürnberg    (Wosab 17, Brungs 85 - Flachenecker 51)
+TSV 1860    3-1 Schalke     (Grosser 3, 57, Brunnenmeier 85 - W.Schulz 73)
+K'lautern   2-1 B'schweig   (Richter 48, Prins 70 - Dulz 84)
+Meidericher 2-2 Werder      (R.Schmidt 67, van Haaren 79 - Matischak 24,
+                            Schütz 51)
+Karlsruher  0-1 Hertha      (K.Schulz 77)
+Frankfurt   2-3 Stuttgart   (Solz 33, 86 - Höller 6, Wanner 25, Reiner 88)
+
+▪ Round 29 
+May 8
+Hertha      1-1 Neunkirchen (K.Schulz 89 - Simmet 8)
+1. FC Köln  0-0 Nürnberg
+Stuttgart   0-3 Hannover    (Rodekamp 17, 46, Bandura 27)
+TSV 1860    4-1 Hamburger   (Luttrop 11 p, Heiß 16, Küppers 85, 
+                             Brunnenmeier 87 - Grosser 10 og)
+B'schweig   3-2 Frankfurt   (Gerwien 33, Ulsaß 55 p, Moll 76 - Lechner 37, 88)
+Werder      3-0 Dortmund    (Matischak 13, Klöckner 45, Zebrowski 87)
+K'lautern   0-1 Karlsruher  (H.Wild 20) 
+Schalke     1-2 Meidericher (Gerhardt 58 - Tagliari 34, R.Schmidt 47)
+
+▪ Round 30 
+May 15
+Hamburger   2-4 Schalke     (Giesemann 16, Peltonen 82 - Gerhardt 13, 50,
+                            Klose 66, 81)
+                  # sent off: Koslowski (Schalke, 59)
+Neunkirchen 3-1 Stuttgart   (Simmet 28, 88, G.Kuntz 17 - Hoffmann 68 p)
+Nürnberg    2-3 Werder      (Strehl 8, 43 - Zebrowski 10, Matischak 39,
+                            Piontek 54)
+Hannover    3-1 Hertha      (Bandura 19, Klose 72, Laszig 81 p - K.Schulz 34)
+Dortmund    2-2 1. FC Köln  (Konietzka 23, Wosab 74 - Schäfer 15, C.Müller 73)
+Meidericher 3-0 TSV 1860    (Werner 36, Radenkovic 57 og, van Haaren 73)
+Karlsruher  3-0 B'schweig   (H.Wild 75 p, Cieslarczyk 82, Witlatschil 84)
+Frankfurt   1-2 K'lautern   (Lechner 21 - Prins 22, Wrenger 55)
+

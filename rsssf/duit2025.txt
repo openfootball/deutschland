@@ -1,0 +1,508 @@
+###
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tablesd/duit2025.html
+
+
+=Bundesliga 2024/25=
+
+<!-- Final Table:
+
+ 1.FC Bayern München            34  25  7  2  99-32  82       Champions
+ 2.Bayer 04 Leverkusen          34  19 12  3  72-43  69  [C]
+ 3.Eintracht Frankfurt          34  17  9  8  68-46  60
+ 4.Borussia Dortmund            34  17  6 11  71-51  57
+ 5.SC Freiburg                  34  16  7 11  49-53  55
+ 6.1.FSV Mainz 05               34  14 10 10  55-43  52
+ 7.RB Leipzig                   34  13 12  9  53-48  51
+ 8.SV Werder Bremen             34  14  9 11  54-57  51
+ 9.VfB Stuttgart                34  14  8 12  64-53  50
+10.Borussia Mönchengladbach     34  13  6 15  55-57  45
+11.VfL Wolfsburg                34  11 10 13  56-54  43
+12.FC Augsburg                  34  11 10 13  35-51  43
+13.1.FC Union Berlin            34  10 10 14  35-51  40
+14.FC Sankt Pauli               34   8  8 18  28-41  32  [P]
+15.TSG 1899 Hoffenheim          34   7 11 16  46-68  32
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+16.1.FC Heidenheim              34   8  5 21  37-64  29       Relegation Playoff
+-------------------------------------------------------
+17.Holstein Kiel                34   6  7 21  49-80  25  [P]  Relegated
+18.VfL Bochum                   34   6  7 21  33-67  25       Relegated  -->
+
+
+
+▪ Round 1
+Aug 23
+  Mönchengladbach 2-3 Leverkusen      
+Aug 24
+  Mainz           1-1 Union           
+  Augsburg        2-2 Bremen          
+  Leipzig         1-0 Bochum          
+  Freiburg        3-1 Stuttgart       
+  Hoffenheim      3-2 Kiel            
+  Dortmund        2-0 Frankfurt       
+Aug 25
+  Wolfsburg       2-3 Bayern          
+  Sankt Pauli     0-2 Heidenheim      
+
+▪ Round 2
+Aug 30
+Union           1-0 Sankt Pauli     
+Aug 31
+Frankfurt       3-1 Hoffenheim      
+Kiel            0-2 Wolfsburg       
+Stuttgart       3-3 Mainz           
+Bochum          0-2 Mönchengladbach 
+Bremen          0-0 Dortmund        
+Leverkusen      2-3 Leipzig         
+Sep 1
+Heidenheim      4-0 Augsburg        
+Bayern          2-0 Freiburg        
+
+▪ Round 3
+Sep 13
+Dortmund        4-2 Heidenheim      
+Sep 14
+Mönchengladbach 1-3 Stuttgart       
+Leipzig         0-0 Union           
+Freiburg        2-1 Bochum          
+Hoffenheim      1-4 Leverkusen      
+Wolfsburg       1-2 Frankfurt       
+Kiel            1-6 Bayern          
+Sep 15
+Augsburg        3-1 Sankt Pauli     
+Mainz           1-2 Bremen          
+
+▪ Round 4
+Sep 20
+Augsburg        2-3 Mainz           
+Sep 21
+Heidenheim      0-3 Freiburg        
+Union           2-1 Hoffenheim      
+Bochum          2-2 Kiel            
+Bremen          0-5 Bayern          
+Frankfurt       2-0 Mönchengladbach 
+Sep 22
+Leverkusen      4-3 Wolfsburg       
+Stuttgart       5-1 Dortmund        
+Sankt Pauli     0-0 Leipzig         
+
+▪ Round 5
+Sep 27
+Dortmund        4-2 Bochum          
+Sep 28
+Mainz           0-2 Heidenheim      
+Mönchengladbach 1-0 Union           
+Leipzig         4-0 Augsburg        
+Freiburg        0-3 Sankt Pauli     
+Wolfsburg       2-2 Stuttgart       
+Bayern          1-1 Leverkusen      
+Sep 29
+Kiel            2-4 Frankfurt       
+Hoffenheim      3-4 Bremen          
+
+▪ Round 6
+Oct 4
+Augsburg        2-1 Mönchengladbach 
+Oct 5
+Union           2-1 Dortmund        
+Leverkusen      2-2 Kiel            
+Bochum          1-3 Wolfsburg       
+Bremen          0-1 Freiburg        
+Sankt Pauli     0-3 Mainz           
+Oct 6
+Heidenheim      0-1 Leipzig         
+Frankfurt       3-3 Bayern          
+Stuttgart       1-1 Hoffenheim      
+
+▪ Round 7
+Oct 18
+Dortmund        2-1 Sankt Pauli     
+Oct 19
+Mainz           0-2 Leipzig         
+Leverkusen      2-1 Frankfurt       
+Mönchengladbach 3-2 Heidenheim      
+Freiburg        3-1 Augsburg        
+Hoffenheim      3-1 Bochum          
+Bayern          4-0 Stuttgart       
+Oct 20
+Kiel            0-2 Union           
+Wolfsburg       2-4 Bremen          
+
+▪ Round 8
+Oct 25
+Mainz           1-1 Mönchengladbach 
+Oct 26
+Augsburg        2-1 Dortmund        
+Sankt Pauli     0-0 Wolfsburg       
+Leipzig         3-1 Freiburg        
+Stuttgart       2-1 Kiel            
+Bremen          2-2 Leverkusen      
+Oct 27
+Bochum          0-5 Bayern          
+Union           1-1 Frankfurt       
+Heidenheim      0-0 Hoffenheim      
+
+▪ Round 9
+Nov 1
+Leverkusen      0-0 Stuttgart       
+Nov 2
+Frankfurt       7-2 Bochum          
+Bayern          3-0 Union           
+Kiel            1-0 Heidenheim      
+Hoffenheim      0-2 Sankt Pauli     
+Wolfsburg       1-1 Augsburg        
+Dortmund        2-1 Leipzig         
+Nov 3
+Freiburg        0-0 Mainz           
+Mönchengladbach 4-1 Bremen          
+
+▪ Round 10
+Nov 8
+Union           0-0 Freiburg        
+Nov 9
+Mainz           3-1 Dortmund        
+Sankt Pauli     0-1 Bayern          
+Bochum          1-1 Leverkusen      
+Bremen          2-1 Kiel            
+Leipzig         0-0 Mönchengladbach 
+Nov 10
+Augsburg        0-0 Hoffenheim      
+Stuttgart       2-3 Frankfurt       
+Heidenheim      1-3 Wolfsburg       
+
+▪ Round 11
+Nov 22
+Bayern          3-0 Augsburg        
+Nov 23
+Leverkusen      5-2 Heidenheim      
+Dortmund        4-0 Freiburg        
+Hoffenheim      4-3 Leipzig         
+Stuttgart       2-0 Bochum          
+Wolfsburg       1-0 Union           
+Frankfurt       1-0 Bremen          
+Nov 24
+Kiel            0-3 Mainz           
+Mönchengladbach 2-0 Sankt Pauli     
+
+▪ Round 12
+Nov 29
+Sankt Pauli     3-1 Kiel            
+Nov 30
+Union           1-2 Leverkusen      
+Augsburg        1-0 Bochum          
+Leipzig         1-5 Wolfsburg       
+Freiburg        3-1 Mönchengladbach 
+Bremen          2-2 Stuttgart       
+Dortmund        1-1 Bayern          
+Dec 1
+Mainz           2-0 Hoffenheim      
+Heidenheim      0-4 Frankfurt       
+
+▪ Round 13
+Dec 6
+Stuttgart       3-2 Union           
+Dec 7
+Leverkusen      2-1 Sankt Pauli     
+Frankfurt       2-2 Augsburg        
+Bayern          4-2 Heidenheim      
+Kiel            0-2 Leipzig         
+Bochum          0-1 Bremen          
+Mönchengladbach 1-1 Dortmund        
+Dec 8
+Wolfsburg       4-3 Mainz           
+Hoffenheim      1-1 Freiburg        
+
+▪ Round 14
+Dec 13
+Freiburg        3-2 Wolfsburg       
+Dec 14
+Union           0-2awd Bochum          [awarded; originally 1-1, Bochum 'keeper was hit by a lighter thrown from the crowd]
+Mainz           2-1 Bayern           
+Mönchengladbach 4-1 Kiel            
+Augsburg        0-2 Leverkusen      
+Sankt Pauli     0-2 Bremen          
+Dec 15
+Heidenheim      1-3 Stuttgart       
+Dortmund        1-1 Hoffenheim      
+Leipzig         2-1 Frankfurt       
+
+▪ Round 15
+Dec 20
+Bayern          5-1 Leipzig         
+Dec 21
+Frankfurt       1-3 Mainz           
+Kiel            5-1 Augsburg        
+Hoffenheim      1-2 Mönchengladbach 
+Stuttgart       0-1 Sankt Pauli     
+Bremen          4-1 Union           
+Leverkusen      5-1 Freiburg        
+Dec 22
+Bochum          2-0 Heidenheim      
+Wolfsburg       1-3 Dortmund        
+
+▪ Round 16
+Jan 10
+Dortmund        2-3 Leverkusen      
+Jan 11
+Heidenheim      2-0 Union           
+Mainz           2-0 Bochum          
+Sankt Pauli     0-1 Frankfurt       
+Freiburg        3-2 Kiel            
+Hoffenheim      0-1 Wolfsburg       
+Mönchengladbach 0-1 Bayern          
+Jan 12
+Leipzig         4-2 Bremen          
+Augsburg        0-1 Stuttgart       
+
+▪ Round 17
+Jan 14
+Kiel            4-2 Dortmund        
+Leverkusen      1-0 Mainz           
+Frankfurt       4-1 Freiburg        
+Wolfsburg       5-1 Mönchengladbach 
+Jan 15
+Bochum          1-0 Sankt Pauli     
+Union           0-2 Augsburg        
+Bayern          5-0 Hoffenheim      
+Stuttgart       2-1 Leipzig         
+Bremen          3-3 Heidenheim      
+
+▪ Round 18
+Jan 17
+Frankfurt       2-0 Dortmund        
+Jan 18
+Heidenheim      0-2 Sankt Pauli     
+Bayern          3-2 Wolfsburg       
+Kiel            1-3 Hoffenheim      
+Stuttgart       4-0 Freiburg        
+Bochum          3-3 Leipzig         
+Leverkusen      3-1 Mönchengladbach 
+Jan 19
+Union           2-1 Mainz           
+Bremen          0-2 Augsburg        
+
+▪ Round 19
+Jan 24
+Wolfsburg       2-2 Kiel            
+Jan 25
+Mainz           2-0 Stuttgart       
+Dortmund        2-2 Bremen          
+Augsburg        2-1 Heidenheim      
+Leipzig         2-2 Leverkusen      
+Freiburg        1-2 Bayern          
+Mönchengladbach 3-0 Bochum          
+Jan 26
+Hoffenheim      2-2 Frankfurt       
+Sankt Pauli     3-0 Union           
+
+▪ Round 20
+Jan 31
+Bremen          1-0 Mainz           
+Feb 1
+Heidenheim      1-2 Dortmund        
+Bayern          4-3 Kiel            
+Sankt Pauli     1-1 Augsburg        
+Stuttgart       1-2 Mönchengladbach 
+Bochum          0-1 Freiburg        
+Union           0-0 Leipzig         
+Feb 2
+Frankfurt       1-1 Wolfsburg       
+Leverkusen      3-1 Hoffenheim      
+
+▪ Round 21
+Feb 7
+Bayern          3-0 Bremen          
+Feb 8
+Mainz           0-0 Augsburg        
+Dortmund        1-2 Stuttgart       
+Freiburg        1-0 Heidenheim      
+Hoffenheim      0-4 Union           
+Wolfsburg       0-0 Leverkusen      
+Mönchengladbach 1-1 Frankfurt       
+Feb 9
+Kiel            2-2 Bochum          
+Leipzig         2-0 Sankt Pauli     
+
+▪ Round 22
+Feb 14
+Augsburg        0-0 Leipzig         
+Feb 15
+Union           1-2 Mönchengladbach 
+Sankt Pauli     0-1 Freiburg        
+Stuttgart       1-2 Wolfsburg       
+Bochum          2-0 Dortmund        
+Leverkusen      0-0 Bayern          
+Feb 16
+Bremen          1-3 Hoffenheim      
+Frankfurt       3-1 Kiel            
+Heidenheim      0-2 Mainz           
+
+▪ Round 23
+Feb 21
+Freiburg        5-0 Bremen          
+Feb 22
+Mainz           2-0 Sankt Pauli     
+Kiel            0-2 Leverkusen      
+Wolfsburg       1-1 Bochum          
+Mönchengladbach 0-3 Augsburg        
+Dortmund        6-0 Union           
+Feb 23
+Leipzig         2-2 Heidenheim      
+Bayern          4-0 Frankfurt       
+Hoffenheim      1-1 Stuttgart       
+
+▪ Round 24
+Feb 28
+Stuttgart       1-3 Bayern          
+Mar 1
+Heidenheim      0-3 Mönchengladbach 
+Sankt Pauli     0-2 Dortmund        
+Leipzig         1-2 Mainz           
+Bochum          0-1 Hoffenheim      
+Bremen          1-2 Wolfsburg       
+Frankfurt       1-4 Leverkusen      
+Mar 2
+Union           0-1 Kiel            
+Augsburg        0-0 Freiburg        
+
+▪ Round 25
+Mar 7
+Mönchengladbach 1-3 Mainz           
+Mar 8
+Leverkusen      0-2 Bremen          
+Dortmund        0-1 Augsburg        
+Bayern          2-3 Bochum          
+Kiel            2-2 Stuttgart       
+Wolfsburg       1-1 Sankt Pauli     
+Freiburg        0-0 Leipzig         
+Mar 9
+Frankfurt       1-2 Union           
+Hoffenheim      1-1 Heidenheim      
+
+▪ Round 26
+Mar 14
+Sankt Pauli     1-0 Hoffenheim      
+Mar 15
+Union           1-1 Bayern          
+Mainz           2-2 Freiburg        
+Augsburg        1-0 Wolfsburg       
+Bremen          2-4 Mönchengladbach 
+Leipzig         2-0 Dortmund        
+Mar 16
+Bochum          1-3 Frankfurt       
+Heidenheim      3-1 Kiel            
+Stuttgart       3-4 Leverkusen      
+
+▪ Round 27
+Mar 28
+Leverkusen      3-1 Bochum          
+Mar 29
+Mönchengladbach 1-0 Leipzig         
+Bayern          3-2 Sankt Pauli     
+Kiel            0-3 Bremen          
+Hoffenheim      1-1 Augsburg        
+Wolfsburg       0-1 Heidenheim      
+Frankfurt       1-0 Stuttgart       
+Mar 30
+Freiburg        1-2 Union           
+Dortmund        3-1 Mainz           
+
+▪ Round 28
+Apr 4
+Augsburg        1-3 Bayern          
+Apr 5
+Heidenheim      0-1 Leverkusen      
+Mainz           1-1 Kiel            
+Leipzig         3-1 Hoffenheim      
+Freiburg        1-4 Dortmund        
+Bochum          0-4 Stuttgart       
+Bremen          2-0 Frankfurt       
+Apr 6
+Sankt Pauli     1-1 Mönchengladbach 
+Union           1-0 Wolfsburg       
+
+▪ Round 29
+Apr 11
+Wolfsburg       2-3 Leipzig         
+Apr 12
+Leverkusen      0-0 Union           
+Mönchengladbach 1-2 Freiburg        
+Kiel            1-2 Sankt Pauli     
+Hoffenheim      2-0 Mainz           
+Bochum          1-2 Augsburg        
+Bayern          2-2 Dortmund        
+Apr 13
+Stuttgart       1-2 Bremen          
+Frankfurt       3-0 Heidenheim      
+
+▪ Round 30
+Apr 19
+Heidenheim      0-4 Bayern          
+Mainz           2-2 Wolfsburg       
+Leipzig         1-1 Kiel            
+Freiburg        3-2 Hoffenheim      
+Bremen          1-0 Bochum          
+Union           4-4 Stuttgart       
+Apr 20
+Augsburg        0-0 Frankfurt       
+Dortmund        3-2 Mönchengladbach 
+Sankt Pauli     1-1 Leverkusen      
+
+▪ Round 31
+Apr 25
+Stuttgart       0-1 Heidenheim      
+Apr 26
+Leverkusen      2-0 Augsburg        
+Bayern          3-0 Mainz           
+Kiel            4-3 Mönchengladbach 
+Hoffenheim      2-3 Dortmund        
+Wolfsburg       0-1 Freiburg        
+Frankfurt       4-0 Leipzig         
+Apr 27
+Bochum          1-1 Union           
+Bremen          0-0 Sankt Pauli     
+
+▪ Round 32
+May 2
+Heidenheim      0-0 Bochum          
+May 3
+Union           2-2 Bremen          
+Mönchengladbach 4-4 Hoffenheim      
+Sankt Pauli     0-1 Stuttgart       
+Leipzig         3-3 Bayern          
+Dortmund        4-0 Wolfsburg       
+May 4
+Augsburg        1-3 Kiel            
+Freiburg        2-2 Leverkusen      
+Mainz           1-1 Frankfurt       
+
+▪ Round 33
+May 9
+Wolfsburg       2-2 Hoffenheim      
+May 10
+Union           0-3 Heidenheim      
+Kiel            1-2 Freiburg        
+Bochum          1-4 Mainz           
+Bremen          0-0 Leipzig         
+Bayern          2-0 Mönchengladbach 
+May 11
+Leverkusen      2-4 Dortmund        
+Frankfurt       2-2 Sankt Pauli     
+Stuttgart       4-0 Augsburg        
+
+▪ Round 34 
+May 17
+  Heidenheim      1-4 Bremen          
+  Mainz           2-2 Leverkusen      
+  Dortmund        3-0 Kiel            
+  Mönchengladbach 0-1 Wolfsburg       
+  Augsburg        1-2 Union           
+  Sankt Pauli     0-2 Bochum          
+  Leipzig         2-3 Stuttgart       
+  Freiburg        1-3 Frankfurt       
+  Hoffenheim      0-4 Bayern          
+
+
+
+
+

@@ -35,10 +35,10 @@ Sat Aug 23
          Hertha BSC             v Werder Bremen
          Eintracht Frankfurt    v SC Freiburg
          1. FC Köln             v Hamburger SV
-  18.30  Borussia Dortmund      v Bayer Leverkusen
+  18:30  Borussia Dortmund      v Bayer Leverkusen
 Sun Aug 24
-  15.30  SC Paderborn 07        v 1. FSV Mainz 05
-  17.30  Bor. Mönchengladbach   v VfB Stuttgart
+  15:30  SC Paderborn 07        v 1. FSV Mainz 05
+  17:30  Bor. Mönchengladbach   v VfB Stuttgart
 ...
 ```
 

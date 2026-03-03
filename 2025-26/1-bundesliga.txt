@@ -356,17 +356,17 @@
 
 » Matchday 24
   Fri Feb/27
-    20.30  FC Augsburg             v 1. FC Köln
+    20.30  FC Augsburg             v 1. FC Köln               2-0 (0-0)
   Sat Feb/28
-    15.30  Bayer 04 Leverkusen     v 1. FSV Mainz 05
-           Borussia Mönchengladbach v 1. FC Union Berlin
-           TSG 1899 Hoffenheim     v FC St. Pauli 1910
-           SV Werder Bremen        v 1. FC Heidenheim 1846
-    18.30  Borussia Dortmund       v FC Bayern München
+    15.30  Bayer 04 Leverkusen     v 1. FSV Mainz 05          1-1 (0-0)
+           Borussia Mönchengladbach v 1. FC Union Berlin       1-0 (0-0)
+           TSG 1899 Hoffenheim     v FC St. Pauli 1910        0-1 (0-1)
+           SV Werder Bremen        v 1. FC Heidenheim 1846    2-0 (0-0)
+    18.30  Borussia Dortmund       v FC Bayern München        2-3 (1-0)
   Sun Mar/1
-    15.30  VfB Stuttgart           v VfL Wolfsburg
-    17.30  Eintracht Frankfurt     v SC Freiburg
-    19.30  Hamburger SV            v RB Leipzig
+    15.30  VfB Stuttgart           v VfL Wolfsburg            4-0 (3-0)
+    17.30  Eintracht Frankfurt     v SC Freiburg              2-0 (0-0)
+    19.30  Hamburger SV            v RB Leipzig               1-2 (1-1)
 
 
 » Matchday 17

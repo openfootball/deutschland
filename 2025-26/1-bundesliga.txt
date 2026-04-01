@@ -464,42 +464,47 @@
 
 
 » Matchday 31
+  Fri Apr/24
+    20.30  RB Leipzig              v 1. FC Union Berlin
   Sat Apr/25
-           1. FSV Mainz 05         v FC Bayern München
+    15.30  1. FSV Mainz 05         v FC Bayern München
            1. FC Köln              v Bayer 04 Leverkusen
            FC Augsburg             v Eintracht Frankfurt
-           Borussia Dortmund       v SC Freiburg
-           VfB Stuttgart           v SV Werder Bremen
            VfL Wolfsburg           v Borussia Mönchengladbach
-           RB Leipzig              v 1. FC Union Berlin
            1. FC Heidenheim 1846   v FC St. Pauli 1910
-           Hamburger SV            v TSG 1899 Hoffenheim
+    18.30  Hamburger SV            v TSG 1899 Hoffenheim
+  Sun Apr/26
+    15.30  VfB Stuttgart           v SV Werder Bremen
+    17.30  Borussia Dortmund       v SC Freiburg
 
 
 » Matchday 32
   Sat May/2
-           Borussia Mönchengladbach v Borussia Dortmund
-           FC St. Pauli 1910       v 1. FSV Mainz 05
-           Bayer 04 Leverkusen     v RB Leipzig
-           TSG 1899 Hoffenheim     v VfB Stuttgart
-           SC Freiburg             v VfL Wolfsburg
+    15.30  TSG 1899 Hoffenheim     v VfB Stuttgart
            SV Werder Bremen        v FC Augsburg
            FC Bayern München       v 1. FC Heidenheim 1846
            1. FC Union Berlin      v 1. FC Köln
            Eintracht Frankfurt     v Hamburger SV
+    18.30  Bayer 04 Leverkusen     v RB Leipzig
+  Sun May/3
+    15.30  FC St. Pauli 1910       v 1. FSV Mainz 05
+    17.30  Borussia Mönchengladbach v Borussia Dortmund
+    19.30  SC Freiburg             v VfL Wolfsburg
 
 
 » Matchday 33
+  Fri May/8
+    20.30  Borussia Dortmund       v Eintracht Frankfurt
   Sat May/9
-           VfL Wolfsburg           v FC Bayern München
-           VfB Stuttgart           v Bayer 04 Leverkusen
-           Borussia Dortmund       v Eintracht Frankfurt
-           Hamburger SV            v SC Freiburg
+    15.30  VfB Stuttgart           v Bayer 04 Leverkusen
            TSG 1899 Hoffenheim     v SV Werder Bremen
            FC Augsburg             v Borussia Mönchengladbach
-           1. FSV Mainz 05         v 1. FC Union Berlin
            RB Leipzig              v FC St. Pauli 1910
-           1. FC Köln              v 1. FC Heidenheim 1846
+    18.30  VfL Wolfsburg           v FC Bayern München
+  Sun May/10
+    15.30  Hamburger SV            v SC Freiburg
+    17.30  1. FC Köln              v 1. FC Heidenheim 1846
+    19.30  1. FSV Mainz 05         v 1. FC Union Berlin
 
 
 » Matchday 34

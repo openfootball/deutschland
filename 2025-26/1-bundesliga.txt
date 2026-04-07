@@ -421,16 +421,16 @@
 
 » Matchday 28
   Sat Apr/4
-    15.30  SC Freiburg             v FC Bayern München
-           TSG 1899 Hoffenheim     v 1. FSV Mainz 05
-           SV Werder Bremen        v RB Leipzig
-           Bayer 04 Leverkusen     v VfL Wolfsburg
-           Hamburger SV            v FC Augsburg
-           Borussia Mönchengladbach v 1. FC Heidenheim 1846
-    18.30  VfB Stuttgart           v Borussia Dortmund
+    15.30  SC Freiburg             v FC Bayern München        2-3 (0-0)
+           TSG 1899 Hoffenheim     v 1. FSV Mainz 05          1-2 (1-1)
+           SV Werder Bremen        v RB Leipzig               1-2 (0-1)
+           Bayer 04 Leverkusen     v VfL Wolfsburg            6-3 (2-3)
+           Hamburger SV            v FC Augsburg              1-1 (0-1)
+           Borussia Mönchengladbach v 1. FC Heidenheim 1846    2-2 (1-1)
+    18.30  VfB Stuttgart           v Borussia Dortmund        0-2 (0-0)
   Sun Apr/5
-    15.30  1. FC Union Berlin      v FC St. Pauli 1910
-    17.30  Eintracht Frankfurt     v 1. FC Köln
+    15.30  1. FC Union Berlin      v FC St. Pauli 1910        1-1 (0-1)
+    17.30  Eintracht Frankfurt     v 1. FC Köln               2-2 (0-0)
 
 
 » Matchday 29

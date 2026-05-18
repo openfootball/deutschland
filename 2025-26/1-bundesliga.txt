@@ -509,12 +509,12 @@
 
 » Matchday 34
   Sat May/16
-    15.30  SV Werder Bremen        v Borussia Dortmund
-           1. FC Heidenheim 1846   v 1. FSV Mainz 05
-           SC Freiburg             v RB Leipzig
-           Eintracht Frankfurt     v VfB Stuttgart
-           FC St. Pauli 1910       v VfL Wolfsburg
-           1. FC Union Berlin      v FC Augsburg
-           Borussia Mönchengladbach v TSG 1899 Hoffenheim
-           FC Bayern München       v 1. FC Köln
-           Bayer 04 Leverkusen     v Hamburger SV
+    15.30  SV Werder Bremen        v Borussia Dortmund        0-2 (0-0)
+           1. FC Heidenheim 1846   v 1. FSV Mainz 05          0-2 (0-2)
+           SC Freiburg             v RB Leipzig               4-1 (2-1)
+           Eintracht Frankfurt     v VfB Stuttgart            2-2 (0-2)
+           FC St. Pauli 1910       v VfL Wolfsburg            1-3 (0-1)
+           1. FC Union Berlin      v FC Augsburg              4-0 (2-0)
+           Borussia Mönchengladbach v TSG 1899 Hoffenheim      4-0 (2-0)
+           FC Bayern München       v 1. FC Köln               5-1 (3-1)
+           Bayer 04 Leverkusen     v Hamburger SV             1-1 (0-0)

@@ -3,8 +3,9 @@
 ## What's `football.db`?
 
 A free open public domain football database & schema
-for use in any (programming) language (e.g. uses plain text datasets).
+for use in any (programming) language using datasets in the Football.TXT format.
 More [`football.db` Project Site »](http://openfootball.github.io)
+
 
 ## Intro
 
@@ -74,8 +75,13 @@ Sun Aug 24
 ```
 
 
-## Build Your Own `deutschland.db` Copy
+## Build Your Own `deutschland.db` Database or `deutschland.json/.csv` Datasets
 
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+
+
+
+<!--
 Use the `sportdb` command line tool to build your own `deutschland.db` copy
 from the plain text datasets. [More »](https://github.com/openfootball/datafile)
 
@@ -114,13 +120,13 @@ This will
 - read in all datasets in plain text (`.txt`)
 
 That's it.
-
+-->
 
 
 
 ## License
 
-The football.db schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The football.db schema, data and scripts are dedicated to the public domain. Use as you please with no restrictions whatsoever.
 
 
 
@@ -128,4 +134,3 @@ The football.db schema, data and scripts are dedicated to the public domain. Use
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
-

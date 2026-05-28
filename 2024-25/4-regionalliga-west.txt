@@ -1,16 +1,16 @@
 = Deutsche Regionalliga West 2024/25
 
-# Date       Fri Jul/26 2024 - Sat May/17 2025 (295d)
+# Date       Fri Jul 26 2024 - Sat May 17 2025 (295d)
 # Teams      18
 # Matches    306
 
 
 
-» Matchday 1
-  Fri Jul/26 2024
-    19.00  FC Gütersloh            v MSV Duisburg             0-1 (0-0)
-  Sat Jul/27
-    14.00  KFC Uerdingen 05        v Sportfreunde Lotte       [cancelled]
+▪ Matchday 1
+  Fri Jul 26 2024
+    19:00  FC Gütersloh            v MSV Duisburg             0-1 (0-0)
+  Sat Jul 27
+    14:00  KFC Uerdingen 05        v Sportfreunde Lotte       [cancelled]
            Fortuna Köln            v SV Rödinghausen          2-0 (0-0)
            Fortuna Düsseldorf II   v 1. FC Bocholt            1-0 (0-0)
            SC Paderborn 07 II      v 1. FC Düren              1-1 (0-1)
@@ -20,28 +20,28 @@
            SC Wiedenbrück          v FC Schalke 04 II         0-2 (0-0)
 
 
-» Matchday 2
-  Fri Aug/2
-    19.00  Sportfreunde Lotte      v FC Gütersloh             3-2 (1-1)
-  Sat Aug/3
-    12.30  FC Schalke 04 II        v KFC Uerdingen 05         [cancelled]
-    14.00  MSV Duisburg            v Türkspor Dortmund        [cancelled]
+▪ Matchday 2
+  Fri Aug 2
+    19:00  Sportfreunde Lotte      v FC Gütersloh             3-2 (1-1)
+  Sat Aug 3
+    12:30  FC Schalke 04 II        v KFC Uerdingen 05         [cancelled]
+    14:00  MSV Duisburg            v Türkspor Dortmund        [cancelled]
            Wuppertaler SV          v Rot-Weiß Oberhausen      0-5 (0-3)
            Bor. Mönchengladbach II v Eintracht Hohkeppel      1-1 (1-0)
            1. FC Köln II           v SC Paderborn 07 II       5-0 (2-0)
            1. FC Bocholt           v Fortuna Köln             3-5 (1-2)
            SV Rödinghausen         v SC Wiedenbrück           3-2 (1-2)
-  Sun Aug/4
-    14.00  1. FC Düren             v Fortuna Düsseldorf II    2-0 (1-0)
+  Sun Aug 4
+    14:00  1. FC Düren             v Fortuna Düsseldorf II    2-0 (1-0)
 
 
-» Matchday 3
-  Fri Aug/9
-    18.00  Bor. Mönchengladbach II v SC Paderborn 07 II       2-1 (0-1)
-    18.30  FC Schalke 04 II        v SV Rödinghausen          2-2 (0-2)
-    19.30  Fortuna Köln            v 1. FC Düren              1-0 (0-0)
-  Sat Aug/10
-    14.00  KFC Uerdingen 05        v FC Gütersloh             [cancelled]
+▪ Matchday 3
+  Fri Aug 9
+    18:00  Bor. Mönchengladbach II v SC Paderborn 07 II       2-1 (0-1)
+    18:30  FC Schalke 04 II        v SV Rödinghausen          2-2 (0-2)
+    19:30  Fortuna Köln            v 1. FC Düren              1-0 (0-0)
+  Sat Aug 10
+    14:00  KFC Uerdingen 05        v FC Gütersloh             [cancelled]
            Fortuna Düsseldorf II   v 1. FC Köln II            0-0
            Eintracht Hohkeppel     v Wuppertaler SV           3-1 (0-0)
            Rot-Weiß Oberhausen     v MSV Duisburg             0-2 (0-1)
@@ -49,73 +49,73 @@
            SC Wiedenbrück          v 1. FC Bocholt            2-1 (1-1)
 
 
-» Matchday 4
-  Fri Aug/16
-    19.30  MSV Duisburg            v Eintracht Hohkeppel      2-0 (0-0)
-  Sat Aug/17
-    14.00  Bor. Mönchengladbach II v Fortuna Düsseldorf II    2-1 (1-0)
+▪ Matchday 4
+  Fri Aug 16
+    19:30  MSV Duisburg            v Eintracht Hohkeppel      2-0 (0-0)
+  Sat Aug 17
+    14:00  Bor. Mönchengladbach II v Fortuna Düsseldorf II    2-1 (1-0)
            1. FC Düren             v SC Wiedenbrück           1-0 (0-0)
            1. FC Bocholt           v FC Schalke 04 II         3-1 (1-0)
            SV Rödinghausen         v KFC Uerdingen 05         [cancelled]
            FC Gütersloh            v Türkspor Dortmund        [cancelled]
-  Sun Aug/18
-    14.00  Wuppertaler SV          v SC Paderborn 07 II       1-4 (0-2)
+  Sun Aug 18
+    14:00  Wuppertaler SV          v SC Paderborn 07 II       1-4 (0-2)
            1. FC Köln II           v Fortuna Köln             1-2 (1-1)
-  Sat Sep/7
-    14.00  Sportfreunde Lotte      v Rot-Weiß Oberhausen      1-4 (0-1)
+  Sat Sep 7
+    14:00  Sportfreunde Lotte      v Rot-Weiß Oberhausen      1-4 (0-1)
 
 
-» Matchday 5
-  Fri Aug/23
-    19.00  SC Paderborn 07 II      v MSV Duisburg             2-1 (1-0)
-    19.30  Fortuna Köln            v Bor. Mönchengladbach II  4-2 (2-2)
+▪ Matchday 5
+  Fri Aug 23
+    19:00  SC Paderborn 07 II      v MSV Duisburg             2-1 (1-0)
+    19:30  Fortuna Köln            v Bor. Mönchengladbach II  4-2 (2-2)
            Rot-Weiß Oberhausen     v FC Gütersloh             3-2 (2-0)
-  Sat Aug/24
-    14.00  KFC Uerdingen 05        v Türkspor Dortmund        [cancelled]
+  Sat Aug 24
+    14:00  KFC Uerdingen 05        v Türkspor Dortmund        [cancelled]
            Eintracht Hohkeppel     v Sportfreunde Lotte       2-2 (0-1)
            SV Rödinghausen         v 1. FC Bocholt            2-0 (0-0)
            FC Schalke 04 II        v 1. FC Düren              1-4 (1-1)
            SC Wiedenbrück          v 1. FC Köln II            1-2 (0-1)
-  Sun Aug/25
-    14.00  Fortuna Düsseldorf II   v Wuppertaler SV           0-2 (0-0)
+  Sun Aug 25
+    14:00  Fortuna Düsseldorf II   v Wuppertaler SV           0-2 (0-0)
 
 
-» Matchday 6
-  Fri Aug/30
-    19.30  MSV Duisburg            v Fortuna Düsseldorf II    2-2 (0-2)
+▪ Matchday 6
+  Fri Aug 30
+    19:30  MSV Duisburg            v Fortuna Düsseldorf II    2-2 (0-2)
            Wuppertaler SV          v Fortuna Köln             3-1 (1-1)
-  Sat Aug/31
-    14.00  Bor. Mönchengladbach II v SC Wiedenbrück           1-1 (0-0)
+  Sat Aug 31
+    14:00  Bor. Mönchengladbach II v SC Wiedenbrück           1-1 (0-0)
            1. FC Düren             v SV Rödinghausen          0-4 (0-4)
            1. FC Bocholt           v KFC Uerdingen 05         [cancelled]
            Türkspor Dortmund       v Rot-Weiß Oberhausen      [cancelled]
            FC Gütersloh            v Eintracht Hohkeppel      3-0 (2-0)
-  Sun Sep/1
-    14.00  1. FC Köln II           v FC Schalke 04 II         4-0 (3-0)
+  Sun Sep 1
+    14:00  1. FC Köln II           v FC Schalke 04 II         4-0 (3-0)
            Sportfreunde Lotte      v SC Paderborn 07 II       3-2 (0-2)
 
 
-» Matchday 7
-  Fri Sep/13
-    19.30  KFC Uerdingen 05        v Rot-Weiß Oberhausen      [cancelled]
+▪ Matchday 7
+  Fri Sep 13
+    19:30  KFC Uerdingen 05        v Rot-Weiß Oberhausen      [cancelled]
            SC Paderborn 07 II      v FC Gütersloh             1-2 (1-1)
            SC Wiedenbrück          v Wuppertaler SV           0-0
-  Sat Sep/14
-    14.00  Fortuna Köln            v MSV Duisburg             0-0
+  Sat Sep 14
+    14:00  Fortuna Köln            v MSV Duisburg             0-0
            Eintracht Hohkeppel     v Türkspor Dortmund        [cancelled]
            1. FC Bocholt           v 1. FC Düren              1-1 (1-0)
            SV Rödinghausen         v 1. FC Köln II            2-0 (1-0)
            FC Schalke 04 II        v Bor. Mönchengladbach II  0-1 (0-1)
-  Sun Sep/15
-    14.00  Fortuna Düsseldorf II   v Sportfreunde Lotte       1-4 (1-3)
+  Sun Sep 15
+    14:00  Fortuna Düsseldorf II   v Sportfreunde Lotte       1-4 (1-3)
 
 
-» Matchday 8
-  Fri Sep/20
-    19.30  Wuppertaler SV          v FC Schalke 04 II         1-0 (1-0)
+▪ Matchday 8
+  Fri Sep 20
+    19:30  Wuppertaler SV          v FC Schalke 04 II         1-0 (1-0)
            Türkspor Dortmund       v SC Paderborn 07 II       [cancelled]
-  Sat Sep/21
-    14.00  MSV Duisburg            v SC Wiedenbrück           3-1 (1-1)
+  Sat Sep 21
+    14:00  MSV Duisburg            v SC Wiedenbrück           3-1 (1-1)
            Bor. Mönchengladbach II v SV Rödinghausen          1-1 (0-0)
            1. FC Köln II           v 1. FC Bocholt            4-5 (1-1)
            1. FC Düren             v KFC Uerdingen 05         [cancelled]
@@ -124,130 +124,130 @@
            Sportfreunde Lotte      v Fortuna Köln             1-1 (0-0)
 
 
-» Matchday 9
-  Fri Sep/27
-    19.30  SC Wiedenbrück          v Sportfreunde Lotte       2-4 (1-1)
-  Sat Sep/28
-    14.00  KFC Uerdingen 05        v Eintracht Hohkeppel      [cancelled]
+▪ Matchday 9
+  Fri Sep 27
+    19:30  SC Wiedenbrück          v Sportfreunde Lotte       2-4 (1-1)
+  Sat Sep 28
+    14:00  KFC Uerdingen 05        v Eintracht Hohkeppel      [cancelled]
            Fortuna Köln            v FC Gütersloh             1-1 (0-0)
            Fortuna Düsseldorf II   v Türkspor Dortmund        [cancelled]
            SC Paderborn 07 II      v Rot-Weiß Oberhausen      3-1 (1-1)
            1. FC Bocholt           v Bor. Mönchengladbach II  2-4 (2-2)
            SV Rödinghausen         v Wuppertaler SV           3-0 (1-0)
-    20.00  FC Schalke 04 II        v MSV Duisburg             1-2 (1-0)
-  Sun Sep/29
-    14.00  1. FC Düren             v 1. FC Köln II            2-2 (2-1)
+    20:00  FC Schalke 04 II        v MSV Duisburg             1-2 (1-0)
+  Sun Sep 29
+    14:00  1. FC Düren             v 1. FC Köln II            2-2 (2-1)
 
 
-» Matchday 10
-  Fri Oct/4
-    19.30  FC Gütersloh            v SC Wiedenbrück           3-1 (2-1)
-  Sat Oct/5
+▪ Matchday 10
+  Fri Oct 4
+    19:30  FC Gütersloh            v SC Wiedenbrück           3-1 (2-1)
+  Sat Oct 5
            Türkspor Dortmund       v Fortuna Köln             [cancelled]
-    14.00  MSV Duisburg            v SV Rödinghausen          2-1 (1-1)
+    14:00  MSV Duisburg            v SV Rödinghausen          2-1 (1-1)
            Wuppertaler SV          v 1. FC Bocholt            1-5 (1-2)
            Bor. Mönchengladbach II v 1. FC Düren              5-0 (2-0)
            1. FC Köln II           v KFC Uerdingen 05         [cancelled]
            Eintracht Hohkeppel     v SC Paderborn 07 II       1-1 (0-1)
            Sportfreunde Lotte      v FC Schalke 04 II         4-1 (4-0)
-  Sun Oct/6
-    14.00  Rot-Weiß Oberhausen     v Fortuna Düsseldorf II    2-1 (1-0)
+  Sun Oct 6
+    14:00  Rot-Weiß Oberhausen     v Fortuna Düsseldorf II    2-1 (1-0)
 
 
-» Matchday 11
-  Fri Oct/11
-    19.30  FC Schalke 04 II        v FC Gütersloh             1-1 (0-0)
+▪ Matchday 11
+  Fri Oct 11
+    19:30  FC Schalke 04 II        v FC Gütersloh             1-1 (0-0)
            SC Wiedenbrück          v Türkspor Dortmund        [cancelled]
-  Sat Oct/12
-    14.00  KFC Uerdingen 05        v SC Paderborn 07 II       [cancelled]
+  Sat Oct 12
+    14:00  KFC Uerdingen 05        v SC Paderborn 07 II       [cancelled]
            Fortuna Köln            v Rot-Weiß Oberhausen      3-1 (3-0)
            Fortuna Düsseldorf II   v Eintracht Hohkeppel      1-2 (0-1)
            1. FC Düren             v Wuppertaler SV           0-0
            SV Rödinghausen         v Sportfreunde Lotte       2-3 (1-0)
-  Wed Oct/30
-    19.30  1. FC Bocholt           v MSV Duisburg             2-4 (0-0)
-  Wed Dec/4
-    12.00  1. FC Köln II           v Bor. Mönchengladbach II  0-0
+  Wed Oct 30
+    19:30  1. FC Bocholt           v MSV Duisburg             2-4 (0-0)
+  Wed Dec 4
+    12:00  1. FC Köln II           v Bor. Mönchengladbach II  0-0
 
 
-» Matchday 12
-  Fri Oct/18
-    19.30  Wuppertaler SV          v 1. FC Köln II            1-2 (1-2)
-  Sat Oct/19
-    14.00  MSV Duisburg            v 1. FC Düren              1-0 (0-0)
+▪ Matchday 12
+  Fri Oct 18
+    19:30  Wuppertaler SV          v 1. FC Köln II            1-2 (1-2)
+  Sat Oct 19
+    14:00  MSV Duisburg            v 1. FC Düren              1-0 (0-0)
            Bor. Mönchengladbach II v KFC Uerdingen 05         [cancelled]
            SC Paderborn 07 II      v Fortuna Düsseldorf II    1-1 (0-0)
            Eintracht Hohkeppel     v Fortuna Köln             1-3 (1-2)
            Rot-Weiß Oberhausen     v SC Wiedenbrück           3-1 (0-1)
            FC Gütersloh            v SV Rödinghausen          2-3 (0-1)
            Sportfreunde Lotte      v 1. FC Bocholt            4-1 (3-1)
-  Fri Nov/15
-    19.30  Türkspor Dortmund       v FC Schalke 04 II         [cancelled]
+  Fri Nov 15
+    19:30  Türkspor Dortmund       v FC Schalke 04 II         [cancelled]
 
 
-» Matchday 13
-  Fri Oct/25
-    19.00  FC Schalke 04 II        v Rot-Weiß Oberhausen      1-2 (1-1)
-    19.30  Bor. Mönchengladbach II v Wuppertaler SV           4-2 (1-2)
+▪ Matchday 13
+  Fri Oct 25
+    19:00  FC Schalke 04 II        v Rot-Weiß Oberhausen      1-2 (1-1)
+    19:30  Bor. Mönchengladbach II v Wuppertaler SV           4-2 (1-2)
            1. FC Köln II           v MSV Duisburg             1-1 (0-1)
-  Sat Oct/26
-    14.00  Fortuna Köln            v SC Paderborn 07 II       1-3 (1-0)
+  Sat Oct 26
+    14:00  Fortuna Köln            v SC Paderborn 07 II       1-3 (1-0)
            1. FC Düren             v Sportfreunde Lotte       2-1 (2-1)
            1. FC Bocholt           v FC Gütersloh             0-1 (0-0)
            SV Rödinghausen         v Türkspor Dortmund        [cancelled]
            SC Wiedenbrück          v Eintracht Hohkeppel      0-3 (0-1)
-  Mon Oct/28
-    19.30  KFC Uerdingen 05        v Fortuna Düsseldorf II    [cancelled]
+  Mon Oct 28
+    19:30  KFC Uerdingen 05        v Fortuna Düsseldorf II    [cancelled]
 
 
-» Matchday 14
-  Sat Nov/2
-    14.00  Wuppertaler SV          v KFC Uerdingen 05         [cancelled]
+▪ Matchday 14
+  Sat Nov 2
+    14:00  Wuppertaler SV          v KFC Uerdingen 05         [cancelled]
            Fortuna Düsseldorf II   v Fortuna Köln             0-1 (0-0)
            Eintracht Hohkeppel     v FC Schalke 04 II         2-1 (0-0)
            Rot-Weiß Oberhausen     v SV Rödinghausen          2-2 (1-2)
            Türkspor Dortmund       v 1. FC Bocholt            [cancelled]
            FC Gütersloh            v 1. FC Düren              2-0 (1-0)
            Sportfreunde Lotte      v 1. FC Köln II            0-1 (0-1)
-  Sun Nov/3
-    14.00  MSV Duisburg            v Bor. Mönchengladbach II  3-1 (1-1)
-  Mon Nov/4
-    19.30  SC Paderborn 07 II      v SC Wiedenbrück           1-2 (0-0)
+  Sun Nov 3
+    14:00  MSV Duisburg            v Bor. Mönchengladbach II  3-1 (1-1)
+  Mon Nov 4
+    19:30  SC Paderborn 07 II      v SC Wiedenbrück           1-2 (0-0)
 
 
-» Matchday 15
-  Fri Nov/8
-    14.00  FC Schalke 04 II        v SC Paderborn 07 II       0-4 (0-2)
-  Sat Nov/9
-    14.00  KFC Uerdingen 05        v Fortuna Köln             [cancelled]
+▪ Matchday 15
+  Fri Nov 8
+    14:00  FC Schalke 04 II        v SC Paderborn 07 II       0-4 (0-2)
+  Sat Nov 9
+    14:00  KFC Uerdingen 05        v Fortuna Köln             [cancelled]
            Bor. Mönchengladbach II v Sportfreunde Lotte       1-2 (0-1)
            1. FC Köln II           v FC Gütersloh             0-1 (0-1)
            1. FC Düren             v Türkspor Dortmund        [cancelled]
            1. FC Bocholt           v Rot-Weiß Oberhausen      1-1 (0-1)
            SV Rödinghausen         v Eintracht Hohkeppel      2-0 (1-0)
            SC Wiedenbrück          v Fortuna Düsseldorf II    1-2 (0-1)
-  Sun Nov/10
-    14.00  Wuppertaler SV          v MSV Duisburg             1-2 (0-1)
+  Sun Nov 10
+    14:00  Wuppertaler SV          v MSV Duisburg             1-2 (0-1)
 
 
-» Matchday 16
-  Fri Nov/22
-    19.30  Fortuna Köln            v SC Wiedenbrück           1-3 (0-2)
-  Sat Nov/23
-    14.00  KFC Uerdingen 05        v MSV Duisburg             [cancelled]
+▪ Matchday 16
+  Fri Nov 22
+    19:30  Fortuna Köln            v SC Wiedenbrück           1-3 (0-2)
+  Sat Nov 23
+    14:00  KFC Uerdingen 05        v MSV Duisburg             [cancelled]
            Fortuna Düsseldorf II   v FC Schalke 04 II         2-1 (1-1)
            Eintracht Hohkeppel     v 1. FC Bocholt            2-5 (1-2)
            Rot-Weiß Oberhausen     v 1. FC Düren              2-0 (1-0)
            Türkspor Dortmund       v 1. FC Köln II            [cancelled]
            FC Gütersloh            v Bor. Mönchengladbach II  0-2 (0-0)
            Sportfreunde Lotte      v Wuppertaler SV           0-1 (0-0)
-  Sun Nov/24
-    18.30  SC Paderborn 07 II      v SV Rödinghausen          2-0 (1-0)
+  Sun Nov 24
+    18:30  SC Paderborn 07 II      v SV Rödinghausen          2-0 (1-0)
 
 
-» Matchday 17
-  Sat Nov/30
-    14.00  MSV Duisburg            v Sportfreunde Lotte       1-0 (1-0)
+▪ Matchday 17
+  Sat Nov 30
+    14:00  MSV Duisburg            v Sportfreunde Lotte       1-0 (1-0)
            Wuppertaler SV          v FC Gütersloh             2-0 (2-0)
            Bor. Mönchengladbach II v Türkspor Dortmund        [cancelled]
            1. FC Köln II           v Rot-Weiß Oberhausen      3-2 (0-1)
@@ -258,54 +258,54 @@
            SC Wiedenbrück          v KFC Uerdingen 05         [cancelled]
 
 
-» Matchday 18
-  Sat Dec/7
-    14.00  Sportfreunde Lotte      v KFC Uerdingen 05         [cancelled]
+▪ Matchday 18
+  Sat Dec 7
+    14:00  Sportfreunde Lotte      v KFC Uerdingen 05         [cancelled]
            1. FC Bocholt           v Fortuna Düsseldorf II    1-1 (0-0)
            1. FC Düren             v SC Paderborn 07 II       2-1 (1-1)
            1. FC Köln II           v Eintracht Hohkeppel      2-0 (0-0)
            Wuppertaler SV          v Türkspor Dortmund        [cancelled]
            MSV Duisburg            v FC Gütersloh             3-4 (2-4)
            FC Schalke 04 II        v SC Wiedenbrück           3-1 (1-0)
-    16.00  Bor. Mönchengladbach II v Rot-Weiß Oberhausen      0-1 (0-0)
-  Wed Mar/19 2025
-    19.00  SV Rödinghausen         v Fortuna Köln             1-0 (1-0)
+    16:00  Bor. Mönchengladbach II v Rot-Weiß Oberhausen      0-1 (0-0)
+  Wed Mar 19 2025
+    19:00  SV Rödinghausen         v Fortuna Köln             1-0 (1-0)
 
 
-» Matchday 19
-  Fri Jan/24
-    19.30  Rot-Weiß Oberhausen     v Wuppertaler SV           3-2 (1-1)
-  Sat Jan/25
-    14.00  Eintracht Hohkeppel     v Bor. Mönchengladbach II  4-6 (2-2)
+▪ Matchday 19
+  Fri Jan 24
+    19:30  Rot-Weiß Oberhausen     v Wuppertaler SV           3-2 (1-1)
+  Sat Jan 25
+    14:00  Eintracht Hohkeppel     v Bor. Mönchengladbach II  4-6 (2-2)
            SC Paderborn 07 II      v 1. FC Köln II            2-2 (0-0)
            Fortuna Düsseldorf II   v 1. FC Düren              1-1 (1-0)
            Fortuna Köln            v 1. FC Bocholt            1-1 (0-0)
            KFC Uerdingen 05        v FC Schalke 04 II         [cancelled]
-  Sun Jan/26
-    14.00  Türkspor Dortmund       v MSV Duisburg             [cancelled]
+  Sun Jan 26
+    14:00  Türkspor Dortmund       v MSV Duisburg             [cancelled]
            SC Wiedenbrück          v SV Rödinghausen          0-1 (0-0)
-  Wed Mar/5
-    19.00  FC Gütersloh            v Sportfreunde Lotte       1-0 (1-0)
+  Wed Mar 5
+    19:00  FC Gütersloh            v Sportfreunde Lotte       1-0 (1-0)
 
 
-» Matchday 20
-  Fri Jan/31
-    19.30  FC Gütersloh            v KFC Uerdingen 05         [cancelled]
+▪ Matchday 20
+  Fri Jan 31
+    19:30  FC Gütersloh            v KFC Uerdingen 05         [cancelled]
            MSV Duisburg            v Rot-Weiß Oberhausen      0-2 (0-2)
-  Sat Feb/1
-    13.00  1. FC Bocholt           v SC Wiedenbrück           3-3 (2-0)
-    14.00  1. FC Düren             v Fortuna Köln             0-0
+  Sat Feb 1
+    13:00  1. FC Bocholt           v SC Wiedenbrück           3-3 (2-0)
+    14:00  1. FC Düren             v Fortuna Köln             0-0
            1. FC Köln II           v Fortuna Düsseldorf II    0-2 (0-1)
            Wuppertaler SV          v Eintracht Hohkeppel      1-1 (1-1)
            Sportfreunde Lotte      v Türkspor Dortmund        [cancelled]
            SV Rödinghausen         v FC Schalke 04 II         0-0
-  Mon Feb/3
-    14.00  SC Paderborn 07 II      v Bor. Mönchengladbach II  0-1 (0-1)
+  Mon Feb 3
+    14:00  SC Paderborn 07 II      v Bor. Mönchengladbach II  0-1 (0-1)
 
 
-» Matchday 21
-  Sat Feb/8
-    14.00  Eintracht Hohkeppel     v MSV Duisburg             2-2 (0-1)
+▪ Matchday 21
+  Sat Feb 8
+    14:00  Eintracht Hohkeppel     v MSV Duisburg             2-2 (0-1)
            SC Paderborn 07 II      v Wuppertaler SV           2-0 (1-0)
            Fortuna Düsseldorf II   v Bor. Mönchengladbach II  0-1 (0-0)
            SC Wiedenbrück          v 1. FC Düren              2-1 (1-1)
@@ -313,75 +313,75 @@
            KFC Uerdingen 05        v SV Rödinghausen          [cancelled]
            Türkspor Dortmund       v FC Gütersloh             [cancelled]
            Rot-Weiß Oberhausen     v Sportfreunde Lotte       1-1 (1-0)
-  Sun Feb/9
-    14.00  Fortuna Köln            v 1. FC Köln II            3-3 (3-1)
+  Sun Feb 9
+    14:00  Fortuna Köln            v 1. FC Köln II            3-3 (3-1)
 
 
-» Matchday 22
-  Fri Feb/14
-    19.30  MSV Duisburg            v SC Paderborn 07 II       0-0
-  Sat Feb/15
-    14.00  Bor. Mönchengladbach II v Fortuna Köln             0-3 (0-0)
+▪ Matchday 22
+  Fri Feb 14
+    19:30  MSV Duisburg            v SC Paderborn 07 II       0-0
+  Sat Feb 15
+    14:00  Bor. Mönchengladbach II v Fortuna Köln             0-3 (0-0)
            Sportfreunde Lotte      v Eintracht Hohkeppel      2-0 (0-0)
            FC Gütersloh            v Rot-Weiß Oberhausen      2-1 (0-1)
            1. FC Bocholt           v SV Rödinghausen          0-2 (0-0)
            1. FC Düren             v FC Schalke 04 II         1-1 (1-1)
            1. FC Köln II           v SC Wiedenbrück           1-0 (1-0)
-    16.30  Wuppertaler SV          v Fortuna Düsseldorf II    1-1 (1-1)
-  Sat Mar/22
-    14.00  Türkspor Dortmund       v KFC Uerdingen 05         [cancelled]
+    16:30  Wuppertaler SV          v Fortuna Düsseldorf II    1-1 (1-1)
+  Sat Mar 22
+    14:00  Türkspor Dortmund       v KFC Uerdingen 05         [cancelled]
 
 
-» Matchday 23
-  Fri Feb/21
-    19.30  Fortuna Köln            v Wuppertaler SV           1-0 (0-0)
-  Sat Feb/22
-    14.00  SC Wiedenbrück          v Bor. Mönchengladbach II  0-1 (0-1)
+▪ Matchday 23
+  Fri Feb 21
+    19:30  Fortuna Köln            v Wuppertaler SV           1-0 (0-0)
+  Sat Feb 22
+    14:00  SC Wiedenbrück          v Bor. Mönchengladbach II  0-1 (0-1)
            SV Rödinghausen         v 1. FC Düren              0-0
            KFC Uerdingen 05        v 1. FC Bocholt            [cancelled]
            Rot-Weiß Oberhausen     v Türkspor Dortmund        [cancelled]
            Eintracht Hohkeppel     v FC Gütersloh             1-1 (1-0)
-    16.30  SC Paderborn 07 II      v Sportfreunde Lotte       1-3 (1-2)
-  Sun Feb/23
-    14.00  Fortuna Düsseldorf II   v MSV Duisburg             0-1 (0-1)
+    16:30  SC Paderborn 07 II      v Sportfreunde Lotte       1-3 (1-2)
+  Sun Feb 23
+    14:00  Fortuna Düsseldorf II   v MSV Duisburg             0-1 (0-1)
            FC Schalke 04 II        v 1. FC Köln II            1-0 (1-0)
 
 
-» Matchday 24
-  Fri Feb/28
-    19.30  Rot-Weiß Oberhausen     v KFC Uerdingen 05         [cancelled]
+▪ Matchday 24
+  Fri Feb 28
+    19:30  Rot-Weiß Oberhausen     v KFC Uerdingen 05         [cancelled]
            Sportfreunde Lotte      v Fortuna Düsseldorf II    3-3 (1-2)
            Bor. Mönchengladbach II v FC Schalke 04 II         0-0
-  Sat Mar/1
-    14.00  MSV Duisburg            v Fortuna Köln             2-0 (1-0)
+  Sat Mar 1
+    14:00  MSV Duisburg            v Fortuna Köln             2-0 (1-0)
            Türkspor Dortmund       v Eintracht Hohkeppel      [cancelled]
            1. FC Düren             v 1. FC Bocholt            0-3 (0-1)
            Wuppertaler SV          v SC Wiedenbrück           0-1 (0-0)
-  Sun Mar/2
-    14.00  FC Gütersloh            v SC Paderborn 07 II       3-2 (2-1)
+  Sun Mar 2
+    14:00  FC Gütersloh            v SC Paderborn 07 II       3-2 (2-1)
            1. FC Köln II           v SV Rödinghausen          1-0 (0-0)
 
 
-» Matchday 25
-  Fri Mar/7
-    19.30  SC Wiedenbrück          v MSV Duisburg             0-2 (0-1)
-  Sat Mar/8
-    14.00  KFC Uerdingen 05        v 1. FC Düren              [cancelled]
+▪ Matchday 25
+  Fri Mar 7
+    19:30  SC Wiedenbrück          v MSV Duisburg             0-2 (0-1)
+  Sat Mar 8
+    14:00  KFC Uerdingen 05        v 1. FC Düren              [cancelled]
            Eintracht Hohkeppel     v Rot-Weiß Oberhausen      3-2 (3-0)
            Fortuna Düsseldorf II   v FC Gütersloh             0-2 (0-1)
            Fortuna Köln            v Sportfreunde Lotte       1-1 (1-0)
            FC Schalke 04 II        v Wuppertaler SV           1-0 (0-0)
            SV Rödinghausen         v Bor. Mönchengladbach II  0-0
            1. FC Bocholt           v 1. FC Köln II            1-0 (1-0)
-  Sun Mar/9
-    14.00  SC Paderborn 07 II      v Türkspor Dortmund        [cancelled]
+  Sun Mar 9
+    14:00  SC Paderborn 07 II      v Türkspor Dortmund        [cancelled]
 
 
-» Matchday 26
-  Fri Mar/14
-    19.30  MSV Duisburg            v FC Schalke 04 II         4-0 (2-0)
-  Sat Mar/15
-    14.00  Eintracht Hohkeppel     v KFC Uerdingen 05         [cancelled]
+▪ Matchday 26
+  Fri Mar 14
+    19:30  MSV Duisburg            v FC Schalke 04 II         4-0 (2-0)
+  Sat Mar 15
+    14:00  Eintracht Hohkeppel     v KFC Uerdingen 05         [cancelled]
            FC Gütersloh            v Fortuna Köln             2-2 (1-2)
            Türkspor Dortmund       v Fortuna Düsseldorf II    [cancelled]
            Rot-Weiß Oberhausen     v SC Paderborn 07 II       2-0 (0-0)
@@ -391,11 +391,11 @@
            Sportfreunde Lotte      v SC Wiedenbrück           0-2 (0-0)
 
 
-» Matchday 27
-  Sat Mar/22
-    14.00  SC Paderborn 07 II      v Eintracht Hohkeppel      3-0 (0-0)
-  Sat Mar/29
-    14.00  SV Rödinghausen         v MSV Duisburg             0-1 (0-0)
+▪ Matchday 27
+  Sat Mar 22
+    14:00  SC Paderborn 07 II      v Eintracht Hohkeppel      3-0 (0-0)
+  Sat Mar 29
+    14:00  SV Rödinghausen         v MSV Duisburg             0-1 (0-0)
            1. FC Bocholt           v Wuppertaler SV           1-1 (0-0)
            1. FC Düren             v Bor. Mönchengladbach II  0-1 (0-0)
            KFC Uerdingen 05        v 1. FC Köln II            [cancelled]
@@ -405,82 +405,82 @@
            FC Schalke 04 II        v Sportfreunde Lotte       1-2 (1-1)
 
 
-» Matchday 28
-  Fri Apr/4
-    19.30  SC Paderborn 07 II      v KFC Uerdingen 05         [cancelled]
+▪ Matchday 28
+  Fri Apr 4
+    19:30  SC Paderborn 07 II      v KFC Uerdingen 05         [cancelled]
            Rot-Weiß Oberhausen     v Fortuna Köln             2-0 (1-0)
            MSV Duisburg            v 1. FC Bocholt            1-1 (0-1)
-  Sat Apr/5
+  Sat Apr 5
            Türkspor Dortmund       v SC Wiedenbrück           [cancelled]
-    14.00  Wuppertaler SV          v 1. FC Düren              4-1 (1-1)
+    14:00  Wuppertaler SV          v 1. FC Düren              4-1 (1-1)
            Sportfreunde Lotte      v SV Rödinghausen          1-1 (0-1)
            FC Gütersloh            v FC Schalke 04 II         3-2 (1-1)
            Eintracht Hohkeppel     v Fortuna Düsseldorf II    0-0
-    16.00  Bor. Mönchengladbach II v 1. FC Köln II            0-4 (0-1)
+    16:00  Bor. Mönchengladbach II v 1. FC Köln II            0-4 (0-1)
 
 
-» Matchday 29
-  Fri Apr/11
-    19.30  1. FC Köln II           v Wuppertaler SV           0-1 (0-0)
+▪ Matchday 29
+  Fri Apr 11
+    19:30  1. FC Köln II           v Wuppertaler SV           0-1 (0-0)
            1. FC Bocholt           v Sportfreunde Lotte       3-4 (1-2)
-  Sat Apr/12
+  Sat Apr 12
            FC Schalke 04 II        v Türkspor Dortmund        [cancelled]
-    14.00  1. FC Düren             v MSV Duisburg             0-6 (0-3)
+    14:00  1. FC Düren             v MSV Duisburg             0-6 (0-3)
            KFC Uerdingen 05        v Bor. Mönchengladbach II  [cancelled]
            Fortuna Köln            v Eintracht Hohkeppel      4-1 (1-1)
            SC Wiedenbrück          v Rot-Weiß Oberhausen      1-3 (1-2)
            SV Rödinghausen         v FC Gütersloh             1-4 (0-3)
-  Sun Apr/13
-    14.00  Fortuna Düsseldorf II   v SC Paderborn 07 II       3-1 (1-0)
+  Sun Apr 13
+    14:00  Fortuna Düsseldorf II   v SC Paderborn 07 II       3-1 (1-0)
 
 
-» Matchday 30
-  Sat Apr/19
+▪ Matchday 30
+  Sat Apr 19
            Türkspor Dortmund       v SV Rödinghausen          [cancelled]
-    14.00  Fortuna Düsseldorf II   v KFC Uerdingen 05         [cancelled]
+    14:00  Fortuna Düsseldorf II   v KFC Uerdingen 05         [cancelled]
            SC Paderborn 07 II      v Fortuna Köln             0-0
            Wuppertaler SV          v Bor. Mönchengladbach II  2-1 (1-0)
            Sportfreunde Lotte      v 1. FC Düren              4-1 (3-1)
            FC Gütersloh            v 1. FC Bocholt            4-3 (1-2)
            Eintracht Hohkeppel     v SC Wiedenbrück           2-4 (1-3)
-    16.00  Rot-Weiß Oberhausen     v FC Schalke 04 II         0-3 (0-2)
-  Sun Apr/20
-    14.00  MSV Duisburg            v 1. FC Köln II            3-1 (0-1)
+    16:00  Rot-Weiß Oberhausen     v FC Schalke 04 II         0-3 (0-2)
+  Sun Apr 20
+    14:00  MSV Duisburg            v 1. FC Köln II            3-1 (0-1)
 
 
-» Matchday 31
-  Fri Apr/25
-    18.30  Bor. Mönchengladbach II v MSV Duisburg             0-1 (0-1)
-    19.30  1. FC Köln II           v Sportfreunde Lotte       1-3 (1-2)
-  Sat Apr/26
+▪ Matchday 31
+  Fri Apr 25
+    18:30  Bor. Mönchengladbach II v MSV Duisburg             0-1 (0-1)
+    19:30  1. FC Köln II           v Sportfreunde Lotte       1-3 (1-2)
+  Sat Apr 26
            KFC Uerdingen 05        v Wuppertaler SV           [cancelled]
            1. FC Bocholt           v Türkspor Dortmund        [cancelled]
-    14.00  SC Wiedenbrück          v SC Paderborn 07 II       2-1 (0-0)
+    14:00  SC Wiedenbrück          v SC Paderborn 07 II       2-1 (0-0)
            SV Rödinghausen         v Rot-Weiß Oberhausen      2-1 (1-0)
            1. FC Düren             v FC Gütersloh             0-6 (0-5)
-    15.00  FC Schalke 04 II        v Eintracht Hohkeppel      5-0 (1-0)
-    16.00  Fortuna Köln            v Fortuna Düsseldorf II    0-2 (0-1)
+    15:00  FC Schalke 04 II        v Eintracht Hohkeppel      5-0 (1-0)
+    16:00  Fortuna Köln            v Fortuna Düsseldorf II    0-2 (0-1)
 
 
-» Matchday 32
-  Fri May/2
+▪ Matchday 32
+  Fri May 2
            Fortuna Köln            v KFC Uerdingen 05         [cancelled]
-    14.00  SC Paderborn 07 II      v FC Schalke 04 II         2-0 (2-0)
-  Sat May/3
+    14:00  SC Paderborn 07 II      v FC Schalke 04 II         2-0 (2-0)
+  Sat May 3
            Türkspor Dortmund       v 1. FC Düren              [cancelled]
-    14.00  MSV Duisburg            v Wuppertaler SV           3-0 (0-0)
+    14:00  MSV Duisburg            v Wuppertaler SV           3-0 (0-0)
            Sportfreunde Lotte      v Bor. Mönchengladbach II  4-1 (2-0)
            Rot-Weiß Oberhausen     v 1. FC Bocholt            1-2 (0-1)
            Eintracht Hohkeppel     v SV Rödinghausen          0-2 (0-1)
            Fortuna Düsseldorf II   v SC Wiedenbrück           0-1 (0-1)
-    16.00  FC Gütersloh            v 1. FC Köln II            2-4 (0-2)
+    16:00  FC Gütersloh            v 1. FC Köln II            2-4 (0-2)
 
 
-» Matchday 33
-  Sat May/10
+▪ Matchday 33
+  Sat May 10
            MSV Duisburg            v KFC Uerdingen 05         [cancelled]
            1. FC Köln II           v Türkspor Dortmund        [cancelled]
-    14.00  SC Wiedenbrück          v Fortuna Köln             4-2 (1-0)
+    14:00  SC Wiedenbrück          v Fortuna Köln             4-2 (1-0)
            FC Schalke 04 II        v Fortuna Düsseldorf II    3-1 (1-0)
            SV Rödinghausen         v SC Paderborn 07 II       4-2 (2-2)
            1. FC Bocholt           v Eintracht Hohkeppel      3-1 (1-0)
@@ -489,11 +489,11 @@
            Wuppertaler SV          v Sportfreunde Lotte       0-0
 
 
-» Matchday 34
-  Sat May/17
+▪ Matchday 34
+  Sat May 17
            Türkspor Dortmund       v Bor. Mönchengladbach II  [cancelled]
            KFC Uerdingen 05        v SC Wiedenbrück           [cancelled]
-    14.00  Sportfreunde Lotte      v MSV Duisburg             0-4 (0-3)
+    14:00  Sportfreunde Lotte      v MSV Duisburg             0-4 (0-3)
            FC Gütersloh            v Wuppertaler SV           7-0 (4-0)
            Rot-Weiß Oberhausen     v 1. FC Köln II            1-1 (0-0)
            Eintracht Hohkeppel     v 1. FC Düren              4-1 (1-0)

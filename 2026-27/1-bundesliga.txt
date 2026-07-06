@@ -1,0 +1,449 @@
+= Deutsche Bundesliga 2026/27
+
+# Date       Fri Aug 28 2026 - Sat May 22 2027 (267d)
+# Teams      18
+# Matches    306
+
+
+
+▪ Matchday 1
+  Fri Aug 28 2026
+    20:30  FC Bayern München       v VfB Stuttgart
+  Sat Aug 29
+    15:30  RB Leipzig              v Borussia Mönchengladbach
+           1. FSV Mainz 05         v SC Paderborn 07
+           1. FC Union Berlin      v Eintracht Frankfurt
+           SV 07 Elversberg        v Bayer 04 Leverkusen
+           Borussia Dortmund       v Hamburger SV
+           FC Augsburg             v FC Schalke 04
+           1. FC Köln              v TSG 1899 Hoffenheim
+           SC Freiburg             v SV Werder Bremen
+
+
+▪ Matchday 2
+  Sat Sep 5
+    15:30  SV Werder Bremen        v RB Leipzig
+           Eintracht Frankfurt     v FC Augsburg
+           TSG 1899 Hoffenheim     v Borussia Dortmund
+           Hamburger SV            v 1. FSV Mainz 05
+           FC Schalke 04           v FC Bayern München
+           Bayer 04 Leverkusen     v 1. FC Union Berlin
+           VfB Stuttgart           v 1. FC Köln
+           Borussia Mönchengladbach v SV 07 Elversberg
+           SC Paderborn 07         v SC Freiburg
+
+
+▪ Matchday 3
+  Sat Sep 12
+    15:30  TSG 1899 Hoffenheim     v VfB Stuttgart
+           Borussia Dortmund       v SC Paderborn 07
+           FC Augsburg             v Bayer 04 Leverkusen
+           1. FC Union Berlin      v FC Schalke 04
+           1. FC Köln              v SV Werder Bremen
+           RB Leipzig              v Hamburger SV
+           SV 07 Elversberg        v FC Bayern München
+           1. FSV Mainz 05         v Eintracht Frankfurt
+           SC Freiburg             v Borussia Mönchengladbach
+
+
+▪ Matchday 4
+  Sat Sep 19
+    15:30  SC Paderborn 07         v TSG 1899 Hoffenheim
+           FC Bayern München       v 1. FC Union Berlin
+           FC Schalke 04           v SV 07 Elversberg
+           VfB Stuttgart           v Borussia Dortmund
+           Bayer 04 Leverkusen     v RB Leipzig
+           Hamburger SV            v 1. FC Köln
+           Borussia Mönchengladbach v 1. FSV Mainz 05
+           SV Werder Bremen        v FC Augsburg
+           Eintracht Frankfurt     v SC Freiburg
+
+
+▪ Matchday 5
+  Sat Oct 10
+    15:30  1. FSV Mainz 05         v Bayer 04 Leverkusen
+           SC Paderborn 07         v VfB Stuttgart
+           1. FC Köln              v Borussia Mönchengladbach
+           RB Leipzig              v Eintracht Frankfurt
+           SC Freiburg             v FC Schalke 04
+           1. FC Union Berlin      v SV 07 Elversberg
+           TSG 1899 Hoffenheim     v Hamburger SV
+           FC Augsburg             v FC Bayern München
+           Borussia Dortmund       v SV Werder Bremen
+
+
+▪ Matchday 6
+  Sat Oct 17
+    15:30  1. FC Union Berlin      v Borussia Dortmund
+           Hamburger SV            v VfB Stuttgart
+           SV Werder Bremen        v SC Paderborn 07
+           SV 07 Elversberg        v FC Augsburg
+           FC Bayern München       v RB Leipzig
+           Borussia Mönchengladbach v TSG 1899 Hoffenheim
+           Bayer 04 Leverkusen     v SC Freiburg
+           Eintracht Frankfurt     v 1. FC Köln
+           FC Schalke 04           v 1. FSV Mainz 05
+
+
+▪ Matchday 7
+  Sat Oct 24
+    15:30  1. FSV Mainz 05         v SV Werder Bremen
+           1. FC Köln              v FC Schalke 04
+           RB Leipzig              v SV 07 Elversberg
+           VfB Stuttgart           v Borussia Mönchengladbach
+           SC Paderborn 07         v Hamburger SV
+           TSG 1899 Hoffenheim     v Bayer 04 Leverkusen
+           SC Freiburg             v FC Bayern München
+           Borussia Dortmund       v Eintracht Frankfurt
+           FC Augsburg             v 1. FC Union Berlin
+
+
+▪ Matchday 8
+  Sat Oct 31
+    15:30  Borussia Mönchengladbach v SC Paderborn 07
+           FC Schalke 04           v RB Leipzig
+           1. FC Union Berlin      v 1. FC Köln
+           FC Augsburg             v SC Freiburg
+           SV Werder Bremen        v TSG 1899 Hoffenheim
+           Eintracht Frankfurt     v Hamburger SV
+           FC Bayern München       v Borussia Dortmund
+           SV 07 Elversberg        v 1. FSV Mainz 05
+           Bayer 04 Leverkusen     v VfB Stuttgart
+
+
+▪ Matchday 9
+  Sat Nov 7
+    15:30  RB Leipzig              v FC Augsburg
+           VfB Stuttgart           v SV Werder Bremen
+           Borussia Dortmund       v SV 07 Elversberg
+           1. FSV Mainz 05         v FC Bayern München
+           Hamburger SV            v Borussia Mönchengladbach
+           SC Paderborn 07         v Eintracht Frankfurt
+           SC Freiburg             v 1. FC Union Berlin
+           1. FC Köln              v Bayer 04 Leverkusen
+           TSG 1899 Hoffenheim     v FC Schalke 04
+
+
+▪ Matchday 10
+  Sat Nov 21
+    15:30  Bayer 04 Leverkusen     v SC Paderborn 07
+           1. FC Union Berlin      v RB Leipzig
+           FC Bayern München       v 1. FC Köln
+           SV 07 Elversberg        v SC Freiburg
+           FC Schalke 04           v VfB Stuttgart
+           Borussia Mönchengladbach v Borussia Dortmund
+           SV Werder Bremen        v Hamburger SV
+           FC Augsburg             v 1. FSV Mainz 05
+           Eintracht Frankfurt     v TSG 1899 Hoffenheim
+
+
+▪ Matchday 11
+  Sat Nov 28
+    15:30  1. FC Köln              v SV 07 Elversberg
+           1. FSV Mainz 05         v 1. FC Union Berlin
+           SC Paderborn 07         v FC Schalke 04
+           SV Werder Bremen        v Borussia Mönchengladbach
+           VfB Stuttgart           v Eintracht Frankfurt
+           TSG 1899 Hoffenheim     v FC Augsburg
+           Borussia Dortmund       v Bayer 04 Leverkusen
+           SC Freiburg             v RB Leipzig
+           Hamburger SV            v FC Bayern München
+
+
+▪ Matchday 12
+  Sat Dec 5
+    15:30  1. FC Union Berlin      v Hamburger SV
+           FC Schalke 04           v Borussia Dortmund
+           Bayer 04 Leverkusen     v Borussia Mönchengladbach
+           Eintracht Frankfurt     v SV Werder Bremen
+           RB Leipzig              v 1. FSV Mainz 05
+           SV 07 Elversberg        v VfB Stuttgart
+           SC Freiburg             v TSG 1899 Hoffenheim
+           FC Bayern München       v SC Paderborn 07
+           FC Augsburg             v 1. FC Köln
+
+
+▪ Matchday 13
+  Sat Dec 12
+    15:30  SC Paderborn 07         v SV 07 Elversberg
+           SV Werder Bremen        v Bayer 04 Leverkusen
+           VfB Stuttgart           v 1. FC Union Berlin
+           Borussia Dortmund       v FC Augsburg
+           Hamburger SV            v FC Schalke 04
+           1. FSV Mainz 05         v SC Freiburg
+           1. FC Köln              v RB Leipzig
+           TSG 1899 Hoffenheim     v FC Bayern München
+           Borussia Mönchengladbach v Eintracht Frankfurt
+
+
+▪ Matchday 14
+  Sat Dec 19
+    15:30  FC Schalke 04           v Borussia Mönchengladbach
+           FC Bayern München       v SV Werder Bremen
+           SV 07 Elversberg        v Hamburger SV
+           Bayer 04 Leverkusen     v Eintracht Frankfurt
+           SC Freiburg             v VfB Stuttgart
+           RB Leipzig              v Borussia Dortmund
+           1. FSV Mainz 05         v 1. FC Köln
+           1. FC Union Berlin      v TSG 1899 Hoffenheim
+           FC Augsburg             v SC Paderborn 07
+
+
+▪ Matchday 15
+  Sat Jan 9 2027
+    13:00  VfB Stuttgart           v FC Augsburg
+           Hamburger SV            v Bayer 04 Leverkusen
+           1. FC Köln              v SC Freiburg
+           Eintracht Frankfurt     v FC Schalke 04
+           TSG 1899 Hoffenheim     v SV 07 Elversberg
+           Borussia Mönchengladbach v FC Bayern München
+           Borussia Dortmund       v 1. FSV Mainz 05
+           SV Werder Bremen        v 1. FC Union Berlin
+           SC Paderborn 07         v RB Leipzig
+
+
+▪ Matchday 16
+  Wed Jan 13
+    13:00  1. FSV Mainz 05         v TSG 1899 Hoffenheim
+           SC Freiburg             v Hamburger SV
+           FC Schalke 04           v SV Werder Bremen
+           RB Leipzig              v VfB Stuttgart
+           1. FC Union Berlin      v SC Paderborn 07
+           FC Bayern München       v Bayer 04 Leverkusen
+           FC Augsburg             v Borussia Mönchengladbach
+           SV 07 Elversberg        v Eintracht Frankfurt
+           1. FC Köln              v Borussia Dortmund
+
+
+▪ Matchday 17
+  Sat Jan 16
+    13:00  SV Werder Bremen        v SV 07 Elversberg
+           Eintracht Frankfurt     v FC Bayern München
+           SC Paderborn 07         v 1. FC Köln
+           TSG 1899 Hoffenheim     v RB Leipzig
+           Bayer 04 Leverkusen     v FC Schalke 04
+           VfB Stuttgart           v 1. FSV Mainz 05
+           Hamburger SV            v FC Augsburg
+           Borussia Mönchengladbach v 1. FC Union Berlin
+           Borussia Dortmund       v SC Freiburg
+
+
+▪ Matchday 18
+  Sat Jan 23
+    13:00  SV Werder Bremen        v SC Freiburg
+           Hamburger SV            v Borussia Dortmund
+           SC Paderborn 07         v 1. FSV Mainz 05
+           FC Schalke 04           v FC Augsburg
+           TSG 1899 Hoffenheim     v 1. FC Köln
+           VfB Stuttgart           v FC Bayern München
+           Borussia Mönchengladbach v RB Leipzig
+           Eintracht Frankfurt     v 1. FC Union Berlin
+           Bayer 04 Leverkusen     v SV 07 Elversberg
+
+
+▪ Matchday 19
+  Sat Jan 30
+    13:00  SV 07 Elversberg        v Borussia Mönchengladbach
+           FC Augsburg             v Eintracht Frankfurt
+           1. FSV Mainz 05         v Hamburger SV
+           RB Leipzig              v SV Werder Bremen
+           1. FC Köln              v VfB Stuttgart
+           1. FC Union Berlin      v Bayer 04 Leverkusen
+           SC Freiburg             v SC Paderborn 07
+           Borussia Dortmund       v TSG 1899 Hoffenheim
+           FC Bayern München       v FC Schalke 04
+
+
+▪ Matchday 20
+  Sat Feb 6
+    13:00  Eintracht Frankfurt     v 1. FSV Mainz 05
+           Borussia Mönchengladbach v SC Freiburg
+           FC Schalke 04           v 1. FC Union Berlin
+           Hamburger SV            v RB Leipzig
+           Bayer 04 Leverkusen     v FC Augsburg
+           SV Werder Bremen        v 1. FC Köln
+           VfB Stuttgart           v TSG 1899 Hoffenheim
+           FC Bayern München       v SV 07 Elversberg
+           SC Paderborn 07         v Borussia Dortmund
+
+
+▪ Matchday 21
+  Sat Feb 13
+    13:00  1. FC Köln              v Hamburger SV
+           1. FSV Mainz 05         v Borussia Mönchengladbach
+           1. FC Union Berlin      v FC Bayern München
+           SV 07 Elversberg        v FC Schalke 04
+           Borussia Dortmund       v VfB Stuttgart
+           TSG 1899 Hoffenheim     v SC Paderborn 07
+           SC Freiburg             v Eintracht Frankfurt
+           FC Augsburg             v SV Werder Bremen
+           RB Leipzig              v Bayer 04 Leverkusen
+
+
+▪ Matchday 22
+  Sat Feb 20
+    13:00  FC Schalke 04           v SC Freiburg
+           VfB Stuttgart           v SC Paderborn 07
+           Borussia Mönchengladbach v 1. FC Köln
+           SV Werder Bremen        v Borussia Dortmund
+           Hamburger SV            v TSG 1899 Hoffenheim
+           Bayer 04 Leverkusen     v 1. FSV Mainz 05
+           Eintracht Frankfurt     v RB Leipzig
+           FC Bayern München       v FC Augsburg
+           SV 07 Elversberg        v 1. FC Union Berlin
+
+
+▪ Matchday 23
+  Sat Feb 27
+    13:00  VfB Stuttgart           v Hamburger SV
+           1. FC Köln              v Eintracht Frankfurt
+           SC Freiburg             v Bayer 04 Leverkusen
+           FC Augsburg             v SV 07 Elversberg
+           1. FSV Mainz 05         v FC Schalke 04
+           TSG 1899 Hoffenheim     v Borussia Mönchengladbach
+           SC Paderborn 07         v SV Werder Bremen
+           RB Leipzig              v FC Bayern München
+           Borussia Dortmund       v 1. FC Union Berlin
+
+
+▪ Matchday 24
+  Wed Mar 3
+    13:00  Eintracht Frankfurt     v Borussia Dortmund
+           FC Schalke 04           v 1. FC Köln
+           Bayer 04 Leverkusen     v TSG 1899 Hoffenheim
+           FC Bayern München       v SC Freiburg
+           SV Werder Bremen        v 1. FSV Mainz 05
+           1. FC Union Berlin      v FC Augsburg
+           SV 07 Elversberg        v RB Leipzig
+           Borussia Mönchengladbach v VfB Stuttgart
+           Hamburger SV            v SC Paderborn 07
+
+
+▪ Matchday 25
+  Sat Mar 6
+    13:00  Borussia Dortmund       v FC Bayern München
+           SC Freiburg             v FC Augsburg
+           1. FSV Mainz 05         v SV 07 Elversberg
+           Hamburger SV            v Eintracht Frankfurt
+           VfB Stuttgart           v Bayer 04 Leverkusen
+           RB Leipzig              v FC Schalke 04
+           SC Paderborn 07         v Borussia Mönchengladbach
+           1. FC Köln              v 1. FC Union Berlin
+           TSG 1899 Hoffenheim     v SV Werder Bremen
+
+
+▪ Matchday 26
+  Sat Mar 13
+    13:00  1. FC Union Berlin      v SC Freiburg
+           SV 07 Elversberg        v Borussia Dortmund
+           Eintracht Frankfurt     v SC Paderborn 07
+           FC Augsburg             v RB Leipzig
+           Borussia Mönchengladbach v Hamburger SV
+           SV Werder Bremen        v VfB Stuttgart
+           FC Schalke 04           v TSG 1899 Hoffenheim
+           FC Bayern München       v 1. FSV Mainz 05
+           Bayer 04 Leverkusen     v 1. FC Köln
+
+
+▪ Matchday 27
+  Sat Mar 20
+    13:00  1. FC Köln              v FC Bayern München
+           TSG 1899 Hoffenheim     v Eintracht Frankfurt
+           Borussia Dortmund       v Borussia Mönchengladbach
+           1. FSV Mainz 05         v FC Augsburg
+           VfB Stuttgart           v FC Schalke 04
+           RB Leipzig              v 1. FC Union Berlin
+           SC Freiburg             v SV 07 Elversberg
+           Hamburger SV            v SV Werder Bremen
+           SC Paderborn 07         v Bayer 04 Leverkusen
+
+
+▪ Matchday 28
+  Sat Apr 3
+    14:00  RB Leipzig              v SC Freiburg
+           SV 07 Elversberg        v 1. FC Köln
+           FC Bayern München       v Hamburger SV
+           FC Augsburg             v TSG 1899 Hoffenheim
+           Borussia Mönchengladbach v SV Werder Bremen
+           Eintracht Frankfurt     v VfB Stuttgart
+           1. FC Union Berlin      v 1. FSV Mainz 05
+           Bayer 04 Leverkusen     v Borussia Dortmund
+           FC Schalke 04           v SC Paderborn 07
+
+
+▪ Matchday 29
+  Sat Apr 10
+    14:00  VfB Stuttgart           v SV 07 Elversberg
+           SC Paderborn 07         v FC Bayern München
+           TSG 1899 Hoffenheim     v SC Freiburg
+           1. FSV Mainz 05         v RB Leipzig
+           SV Werder Bremen        v Eintracht Frankfurt
+           Borussia Dortmund       v FC Schalke 04
+           Hamburger SV            v 1. FC Union Berlin
+           Borussia Mönchengladbach v Bayer 04 Leverkusen
+           1. FC Köln              v FC Augsburg
+
+
+▪ Matchday 30
+  Sat Apr 17
+    14:00  Bayer 04 Leverkusen     v SV Werder Bremen
+           Eintracht Frankfurt     v Borussia Mönchengladbach
+           1. FC Union Berlin      v VfB Stuttgart
+           FC Bayern München       v TSG 1899 Hoffenheim
+           FC Schalke 04           v Hamburger SV
+           SV 07 Elversberg        v SC Paderborn 07
+           FC Augsburg             v Borussia Dortmund
+           SC Freiburg             v 1. FSV Mainz 05
+           RB Leipzig              v 1. FC Köln
+
+
+▪ Matchday 31
+  Sat Apr 24
+    14:00  SV Werder Bremen        v FC Bayern München
+           1. FC Köln              v 1. FSV Mainz 05
+           Hamburger SV            v SV 07 Elversberg
+           Borussia Dortmund       v RB Leipzig
+           TSG 1899 Hoffenheim     v 1. FC Union Berlin
+           SC Paderborn 07         v FC Augsburg
+           VfB Stuttgart           v SC Freiburg
+           Borussia Mönchengladbach v FC Schalke 04
+           Eintracht Frankfurt     v Bayer 04 Leverkusen
+
+
+▪ Matchday 32
+  Sat May 8
+    14:00  FC Schalke 04           v Eintracht Frankfurt
+           RB Leipzig              v SC Paderborn 07
+           SC Freiburg             v 1. FC Köln
+           1. FSV Mainz 05         v Borussia Dortmund
+           FC Augsburg             v VfB Stuttgart
+           1. FC Union Berlin      v SV Werder Bremen
+           SV 07 Elversberg        v TSG 1899 Hoffenheim
+           Bayer 04 Leverkusen     v Hamburger SV
+           FC Bayern München       v Borussia Mönchengladbach
+
+
+▪ Matchday 33
+  Sat May 15
+    14:00  Eintracht Frankfurt     v SV 07 Elversberg
+           SC Paderborn 07         v 1. FC Union Berlin
+           VfB Stuttgart           v RB Leipzig
+           Borussia Dortmund       v 1. FC Köln
+           Hamburger SV            v SC Freiburg
+           Bayer 04 Leverkusen     v FC Bayern München
+           SV Werder Bremen        v FC Schalke 04
+           Borussia Mönchengladbach v FC Augsburg
+           TSG 1899 Hoffenheim     v 1. FSV Mainz 05
+
+
+▪ Matchday 34
+  Sat May 22
+    14:00  RB Leipzig              v TSG 1899 Hoffenheim
+           1. FC Union Berlin      v Borussia Mönchengladbach
+           1. FSV Mainz 05         v VfB Stuttgart
+           FC Schalke 04           v Bayer 04 Leverkusen
+           SV 07 Elversberg        v SV Werder Bremen
+           FC Bayern München       v Eintracht Frankfurt
+           FC Augsburg             v Hamburger SV
+           SC Freiburg             v Borussia Dortmund
+           1. FC Köln              v SC Paderborn 07

@@ -1,0 +1,422 @@
+= 2. Fußball-Bundesliga 2026/2027
+
+
+▪ 1. Spieltag
+Fri Aug 7 2026
+  20:30  VfL Bochum               v Hertha BSC                 0-1 (0-1)
+Sat Aug 8
+  13:00  1. FC Heidenheim 1846    v VfL Osnabrück              4-3 (3-2)
+         SV Darmstadt 98          v Holstein Kiel              2-2 (0-2)
+         Karlsruher SC            v DSC Arminia Bielefeld      2-1 (1-0)
+         1. FC Magdeburg          v Eintracht Braunschweig     1-6 (0-4)
+  20:30  VfL Wolfsburg            v 1. FC Kaiserslautern       0-0 (0-0)
+Sun Aug 9
+  13:30  FC St. Pauli             v SpVgg Greuther Fürth       1-1 (0-0)
+         1. FC Nürnberg           v Dynamo Dresden             3-0 (2-0)
+         Energie Cottbus          v Hannover 96                3-1 (1-1)
+
+▪ 2. Spieltag
+Fri Aug 14
+  18:30  Holstein Kiel            v FC St. Pauli               2-2 (0-2)
+         Eintracht Braunschweig   v VfL Bochum                 0-1 (0-1)
+Sat Aug 15
+  13:00  Hertha BSC               v 1. FC Heidenheim 1846      4-1 (3-0)
+         SpVgg Greuther Fürth     v 1. FC Nürnberg             2-4 (2-2)
+         VfL Osnabrück            v 1. FC Magdeburg            0-3 (0-2)
+  20:30  1. FC Kaiserslautern     v Karlsruher SC              0-0 (0-0)
+Sun Aug 16
+  13:30  Hannover 96              v VfL Wolfsburg              0-1 (0-0)
+         Dynamo Dresden           v SV Darmstadt 98            1-0 (1-0)
+         DSC Arminia Bielefeld    v Energie Cottbus            3-0 (2-0)
+
+▪ 3. Spieltag
+Fri Aug 28
+  18:30  VfL Bochum               v VfL Osnabrück
+         Eintracht Braunschweig   v Hertha BSC
+Sat Aug 29
+  13:00  1. FC Heidenheim 1846    v Dynamo Dresden
+         Karlsruher SC            v VfL Wolfsburg
+         Energie Cottbus          v SpVgg Greuther Fürth
+  20:30  1. FC Nürnberg           v DSC Arminia Bielefeld
+Sun Aug 30
+  13:30  FC St. Pauli             v 1. FC Kaiserslautern
+         SV Darmstadt 98          v Hannover 96
+         1. FC Magdeburg          v Holstein Kiel
+
+▪ 4. Spieltag
+Fri Sep 4
+  18:30  Hannover 96              v Karlsruher SC
+         DSC Arminia Bielefeld    v FC St. Pauli
+Sat Sep 5
+  13:00  VfL Wolfsburg            v Energie Cottbus
+         1. FC Kaiserslautern     v SV Darmstadt 98
+         Holstein Kiel            v 1. FC Nürnberg
+  20:30  Dynamo Dresden           v VfL Bochum
+Sun Sep 6
+  13:30  Hertha BSC               v 1. FC Magdeburg
+         SpVgg Greuther Fürth     v 1. FC Heidenheim 1846
+         VfL Osnabrück            v Eintracht Braunschweig
+
+▪ 5. Spieltag
+Fri Sep 11
+  18:30  SV Darmstadt 98          v DSC Arminia Bielefeld
+         1. FC Nürnberg           v Hannover 96
+Sat Sep 12
+  13:00  VfL Bochum               v SpVgg Greuther Fürth
+         1. FC Magdeburg          v 1. FC Kaiserslautern
+         Eintracht Braunschweig   v Dynamo Dresden
+  20:30  FC St. Pauli             v VfL Wolfsburg
+Sun Sep 13
+  13:30  1. FC Heidenheim 1846    v Holstein Kiel
+         Karlsruher SC            v Energie Cottbus
+         VfL Osnabrück            v Hertha BSC
+
+▪ 6. Spieltag
+Fri Sep 18
+  18:30  VfL Wolfsburg            v SV Darmstadt 98
+         SpVgg Greuther Fürth     v 1. FC Magdeburg
+Sat Sep 19
+  13:00  1. FC Kaiserslautern     v Eintracht Braunschweig
+         Karlsruher SC            v 1. FC Nürnberg
+         Holstein Kiel            v VfL Osnabrück
+  20:30  Dynamo Dresden           v Hertha BSC
+Sun Sep 20
+  13:30  Hannover 96              v VfL Bochum
+         DSC Arminia Bielefeld    v 1. FC Heidenheim 1846
+         Energie Cottbus          v FC St. Pauli
+
+▪ 7. Spieltag
+Sun Oct 11
+  13:30  FC St. Pauli             v Karlsruher SC
+         1. FC Heidenheim 1846    v 1. FC Kaiserslautern
+         SV Darmstadt 98          v Energie Cottbus
+         Hertha BSC               v SpVgg Greuther Fürth
+         1. FC Nürnberg           v VfL Wolfsburg
+         VfL Bochum               v DSC Arminia Bielefeld
+         1. FC Magdeburg          v Hannover 96
+         Eintracht Braunschweig   v Holstein Kiel
+         VfL Osnabrück            v Dynamo Dresden
+
+▪ 8. Spieltag
+Sun Oct 18
+  13:30  VfL Wolfsburg            v 1. FC Heidenheim 1846
+         Hannover 96              v FC St. Pauli
+         1. FC Kaiserslautern     v VfL Bochum
+         Karlsruher SC            v SV Darmstadt 98
+         Dynamo Dresden           v 1. FC Magdeburg
+         Holstein Kiel            v Hertha BSC
+         DSC Arminia Bielefeld    v VfL Osnabrück
+         SpVgg Greuther Fürth     v Eintracht Braunschweig
+         Energie Cottbus          v 1. FC Nürnberg
+
+▪ 9. Spieltag
+Sun Oct 25
+  13:30  1. FC Heidenheim 1846    v Energie Cottbus
+         SV Darmstadt 98          v FC St. Pauli
+         Hertha BSC               v DSC Arminia Bielefeld
+         1. FC Nürnberg           v 1. FC Kaiserslautern
+         VfL Bochum               v VfL Wolfsburg
+         Holstein Kiel            v Dynamo Dresden
+         1. FC Magdeburg          v Karlsruher SC
+         Eintracht Braunschweig   v Hannover 96
+         VfL Osnabrück            v SpVgg Greuther Fürth
+
+▪ 10. Spieltag
+Sun Nov 1
+  13:30  VfL Wolfsburg            v VfL Osnabrück
+         FC St. Pauli             v 1. FC Nürnberg
+         Hannover 96              v Dynamo Dresden
+         SV Darmstadt 98          v 1. FC Magdeburg
+         1. FC Kaiserslautern     v Hertha BSC
+         Karlsruher SC            v 1. FC Heidenheim 1846
+         DSC Arminia Bielefeld    v Eintracht Braunschweig
+         SpVgg Greuther Fürth     v Holstein Kiel
+         Energie Cottbus          v VfL Bochum
+
+▪ 11. Spieltag
+Sun Nov 8
+  13:30  1. FC Heidenheim 1846    v Hannover 96
+         Hertha BSC               v VfL Wolfsburg
+         1. FC Nürnberg           v SV Darmstadt 98
+         VfL Bochum               v Karlsruher SC
+         Dynamo Dresden           v SpVgg Greuther Fürth
+         Holstein Kiel            v DSC Arminia Bielefeld
+         1. FC Magdeburg          v FC St. Pauli
+         Eintracht Braunschweig   v Energie Cottbus
+         VfL Osnabrück            v 1. FC Kaiserslautern
+
+▪ 12. Spieltag
+Sun Nov 22
+  13:30  VfL Wolfsburg            v Holstein Kiel
+         FC St. Pauli             v VfL Bochum
+         Hannover 96              v SpVgg Greuther Fürth
+         SV Darmstadt 98          v 1. FC Heidenheim 1846
+         1. FC Kaiserslautern     v Dynamo Dresden
+         1. FC Nürnberg           v Eintracht Braunschweig
+         Karlsruher SC            v VfL Osnabrück
+         DSC Arminia Bielefeld    v 1. FC Magdeburg
+         Energie Cottbus          v Hertha BSC
+
+▪ 13. Spieltag
+Sun Nov 29
+  13:30  1. FC Heidenheim 1846    v 1. FC Nürnberg
+         Hertha BSC               v Karlsruher SC
+         VfL Bochum               v SV Darmstadt 98
+         Dynamo Dresden           v FC St. Pauli
+         Holstein Kiel            v 1. FC Kaiserslautern
+         1. FC Magdeburg          v Energie Cottbus
+         Eintracht Braunschweig   v VfL Wolfsburg
+         SpVgg Greuther Fürth     v DSC Arminia Bielefeld
+         VfL Osnabrück            v Hannover 96
+
+▪ 14. Spieltag
+Sun Dec 6
+  13:30  VfL Wolfsburg            v 1. FC Magdeburg
+         FC St. Pauli             v 1. FC Heidenheim 1846
+         Hannover 96              v Hertha BSC
+         SV Darmstadt 98          v Eintracht Braunschweig
+         1. FC Kaiserslautern     v SpVgg Greuther Fürth
+         1. FC Nürnberg           v VfL Bochum
+         Karlsruher SC            v Holstein Kiel
+         DSC Arminia Bielefeld    v Dynamo Dresden
+         Energie Cottbus          v VfL Osnabrück
+
+▪ 15. Spieltag
+Sun Dec 13
+  13:30  Hertha BSC               v SV Darmstadt 98
+         VfL Bochum               v 1. FC Heidenheim 1846
+         Dynamo Dresden           v Energie Cottbus
+         Holstein Kiel            v Hannover 96
+         DSC Arminia Bielefeld    v 1. FC Kaiserslautern
+         1. FC Magdeburg          v 1. FC Nürnberg
+         Eintracht Braunschweig   v Karlsruher SC
+         SpVgg Greuther Fürth     v VfL Wolfsburg
+         VfL Osnabrück            v FC St. Pauli
+
+▪ 16. Spieltag
+Sun Dec 20
+  13:30  VfL Wolfsburg            v DSC Arminia Bielefeld
+         FC St. Pauli             v Hertha BSC
+         1. FC Heidenheim 1846    v Eintracht Braunschweig
+         Hannover 96              v 1. FC Kaiserslautern
+         SV Darmstadt 98          v SpVgg Greuther Fürth
+         1. FC Nürnberg           v VfL Osnabrück
+         VfL Bochum               v 1. FC Magdeburg
+         Karlsruher SC            v Dynamo Dresden
+         Energie Cottbus          v Holstein Kiel
+
+▪ 17. Spieltag
+Sun Jan 17 2027
+  13:30  1. FC Kaiserslautern     v Energie Cottbus
+         Hertha BSC               v 1. FC Nürnberg
+         Dynamo Dresden           v VfL Wolfsburg
+         Holstein Kiel            v VfL Bochum
+         DSC Arminia Bielefeld    v Hannover 96
+         1. FC Magdeburg          v 1. FC Heidenheim 1846
+         Eintracht Braunschweig   v FC St. Pauli
+         SpVgg Greuther Fürth     v Karlsruher SC
+         VfL Osnabrück            v SV Darmstadt 98
+
+▪ 18. Spieltag
+Sun Jan 24
+  13:30  Hannover 96              v Energie Cottbus
+         1. FC Kaiserslautern     v VfL Wolfsburg
+         Hertha BSC               v VfL Bochum
+         Dynamo Dresden           v 1. FC Nürnberg
+         Holstein Kiel            v SV Darmstadt 98
+         DSC Arminia Bielefeld    v Karlsruher SC
+         Eintracht Braunschweig   v 1. FC Magdeburg
+         SpVgg Greuther Fürth     v FC St. Pauli
+         VfL Osnabrück            v 1. FC Heidenheim 1846
+
+▪ 19. Spieltag
+Sun Jan 31
+  13:30  VfL Wolfsburg            v Hannover 96
+         FC St. Pauli             v Holstein Kiel
+         1. FC Heidenheim 1846    v Hertha BSC
+         SV Darmstadt 98          v Dynamo Dresden
+         1. FC Nürnberg           v SpVgg Greuther Fürth
+         VfL Bochum               v Eintracht Braunschweig
+         Karlsruher SC            v 1. FC Kaiserslautern
+         1. FC Magdeburg          v VfL Osnabrück
+         Energie Cottbus          v DSC Arminia Bielefeld
+
+▪ 20. Spieltag
+Sun Feb 7
+  13:30  VfL Wolfsburg            v Karlsruher SC
+         Hannover 96              v SV Darmstadt 98
+         1. FC Kaiserslautern     v FC St. Pauli
+         Hertha BSC               v Eintracht Braunschweig
+         Dynamo Dresden           v 1. FC Heidenheim 1846
+         Holstein Kiel            v 1. FC Magdeburg
+         DSC Arminia Bielefeld    v 1. FC Nürnberg
+         SpVgg Greuther Fürth     v Energie Cottbus
+         VfL Osnabrück            v VfL Bochum
+
+▪ 21. Spieltag
+Sun Feb 14
+  13:30  FC St. Pauli             v DSC Arminia Bielefeld
+         1. FC Heidenheim 1846    v SpVgg Greuther Fürth
+         SV Darmstadt 98          v 1. FC Kaiserslautern
+         1. FC Nürnberg           v Holstein Kiel
+         VfL Bochum               v Dynamo Dresden
+         Karlsruher SC            v Hannover 96
+         1. FC Magdeburg          v Hertha BSC
+         Eintracht Braunschweig   v VfL Osnabrück
+         Energie Cottbus          v VfL Wolfsburg
+
+▪ 22. Spieltag
+Sun Feb 21
+  13:30  VfL Wolfsburg            v FC St. Pauli
+         Hannover 96              v 1. FC Nürnberg
+         1. FC Kaiserslautern     v 1. FC Magdeburg
+         Hertha BSC               v VfL Osnabrück
+         Dynamo Dresden           v Eintracht Braunschweig
+         Holstein Kiel            v 1. FC Heidenheim 1846
+         DSC Arminia Bielefeld    v SV Darmstadt 98
+         SpVgg Greuther Fürth     v VfL Bochum
+         Energie Cottbus          v Karlsruher SC
+
+▪ 23. Spieltag
+Sun Feb 28
+  13:30  FC St. Pauli             v Energie Cottbus
+         1. FC Heidenheim 1846    v DSC Arminia Bielefeld
+         SV Darmstadt 98          v VfL Wolfsburg
+         Hertha BSC               v Dynamo Dresden
+         1. FC Nürnberg           v Karlsruher SC
+         VfL Bochum               v Hannover 96
+         1. FC Magdeburg          v SpVgg Greuther Fürth
+         Eintracht Braunschweig   v 1. FC Kaiserslautern
+         VfL Osnabrück            v Holstein Kiel
+
+▪ 24. Spieltag
+Wed Mar 3
+  18:30  VfL Wolfsburg            v 1. FC Nürnberg
+         Hannover 96              v 1. FC Magdeburg
+         1. FC Kaiserslautern     v 1. FC Heidenheim 1846
+         Karlsruher SC            v FC St. Pauli
+         Dynamo Dresden           v VfL Osnabrück
+         Holstein Kiel            v Eintracht Braunschweig
+         DSC Arminia Bielefeld    v VfL Bochum
+         SpVgg Greuther Fürth     v Hertha BSC
+         Energie Cottbus          v SV Darmstadt 98
+
+▪ 25. Spieltag
+Sun Mar 7
+  13:30  FC St. Pauli             v Hannover 96
+         1. FC Heidenheim 1846    v VfL Wolfsburg
+         SV Darmstadt 98          v Karlsruher SC
+         Hertha BSC               v Holstein Kiel
+         1. FC Nürnberg           v Energie Cottbus
+         VfL Bochum               v 1. FC Kaiserslautern
+         1. FC Magdeburg          v Dynamo Dresden
+         Eintracht Braunschweig   v SpVgg Greuther Fürth
+         VfL Osnabrück            v DSC Arminia Bielefeld
+
+▪ 26. Spieltag
+Sun Mar 14
+  13:30  VfL Wolfsburg            v VfL Bochum
+         FC St. Pauli             v SV Darmstadt 98
+         Hannover 96              v Eintracht Braunschweig
+         1. FC Kaiserslautern     v 1. FC Nürnberg
+         Karlsruher SC            v 1. FC Magdeburg
+         Dynamo Dresden           v Holstein Kiel
+         DSC Arminia Bielefeld    v Hertha BSC
+         SpVgg Greuther Fürth     v VfL Osnabrück
+         Energie Cottbus          v 1. FC Heidenheim 1846
+
+▪ 27. Spieltag
+Sun Mar 21
+  13:30  1. FC Heidenheim 1846    v Karlsruher SC
+         Hertha BSC               v 1. FC Kaiserslautern
+         1. FC Nürnberg           v FC St. Pauli
+         VfL Bochum               v Energie Cottbus
+         Dynamo Dresden           v Hannover 96
+         Holstein Kiel            v SpVgg Greuther Fürth
+         1. FC Magdeburg          v SV Darmstadt 98
+         Eintracht Braunschweig   v DSC Arminia Bielefeld
+         VfL Osnabrück            v VfL Wolfsburg
+
+▪ 28. Spieltag
+Sun Apr 4
+  13:30  VfL Wolfsburg            v Hertha BSC
+         FC St. Pauli             v 1. FC Magdeburg
+         Hannover 96              v 1. FC Heidenheim 1846
+         SV Darmstadt 98          v 1. FC Nürnberg
+         1. FC Kaiserslautern     v VfL Osnabrück
+         Karlsruher SC            v VfL Bochum
+         DSC Arminia Bielefeld    v Holstein Kiel
+         SpVgg Greuther Fürth     v Dynamo Dresden
+         Energie Cottbus          v Eintracht Braunschweig
+
+▪ 29. Spieltag
+Sun Apr 11
+  13:30  1. FC Heidenheim 1846    v SV Darmstadt 98
+         Hertha BSC               v Energie Cottbus
+         VfL Bochum               v FC St. Pauli
+         Dynamo Dresden           v 1. FC Kaiserslautern
+         Holstein Kiel            v VfL Wolfsburg
+         1. FC Magdeburg          v DSC Arminia Bielefeld
+         Eintracht Braunschweig   v 1. FC Nürnberg
+         SpVgg Greuther Fürth     v Hannover 96
+         VfL Osnabrück            v Karlsruher SC
+
+▪ 30. Spieltag
+Sun Apr 18
+  13:30  VfL Wolfsburg            v Eintracht Braunschweig
+         FC St. Pauli             v Dynamo Dresden
+         Hannover 96              v VfL Osnabrück
+         SV Darmstadt 98          v VfL Bochum
+         1. FC Kaiserslautern     v Holstein Kiel
+         1. FC Nürnberg           v 1. FC Heidenheim 1846
+         Karlsruher SC            v Hertha BSC
+         DSC Arminia Bielefeld    v SpVgg Greuther Fürth
+         Energie Cottbus          v 1. FC Magdeburg
+
+▪ 31. Spieltag
+Sun Apr 25
+  13:30  1. FC Heidenheim 1846    v FC St. Pauli
+         Hertha BSC               v Hannover 96
+         VfL Bochum               v 1. FC Nürnberg
+         Dynamo Dresden           v DSC Arminia Bielefeld
+         Holstein Kiel            v Karlsruher SC
+         1. FC Magdeburg          v VfL Wolfsburg
+         Eintracht Braunschweig   v SV Darmstadt 98
+         SpVgg Greuther Fürth     v 1. FC Kaiserslautern
+         VfL Osnabrück            v Energie Cottbus
+
+▪ 32. Spieltag
+Sun May 9
+  13:30  VfL Wolfsburg            v SpVgg Greuther Fürth
+         FC St. Pauli             v VfL Osnabrück
+         1. FC Heidenheim 1846    v VfL Bochum
+         Hannover 96              v Holstein Kiel
+         SV Darmstadt 98          v Hertha BSC
+         1. FC Kaiserslautern     v DSC Arminia Bielefeld
+         1. FC Nürnberg           v 1. FC Magdeburg
+         Karlsruher SC            v Eintracht Braunschweig
+         Energie Cottbus          v Dynamo Dresden
+
+▪ 33. Spieltag
+Sun May 16
+  13:30  1. FC Kaiserslautern     v Hannover 96
+         Hertha BSC               v FC St. Pauli
+         Dynamo Dresden           v Karlsruher SC
+         Holstein Kiel            v Energie Cottbus
+         DSC Arminia Bielefeld    v VfL Wolfsburg
+         1. FC Magdeburg          v VfL Bochum
+         Eintracht Braunschweig   v 1. FC Heidenheim 1846
+         SpVgg Greuther Fürth     v SV Darmstadt 98
+         VfL Osnabrück            v 1. FC Nürnberg
+
+▪ 34. Spieltag
+Sun May 23
+  15:30  VfL Wolfsburg            v Dynamo Dresden
+         FC St. Pauli             v Eintracht Braunschweig
+         1. FC Heidenheim 1846    v 1. FC Magdeburg
+         Hannover 96              v DSC Arminia Bielefeld
+         SV Darmstadt 98          v VfL Osnabrück
+         1. FC Nürnberg           v Hertha BSC
+         VfL Bochum               v Holstein Kiel
+         Karlsruher SC            v SpVgg Greuther Fürth
+         Energie Cottbus          v 1. FC Kaiserslautern

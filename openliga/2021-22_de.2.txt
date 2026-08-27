@@ -1,0 +1,482 @@
+= 2. Fußball-Bundesliga 2021/2022
+
+
+▪ 1. Spieltag
+Fri Jul 23 2021
+  20:30  FC Schalke 04            v Hamburger SV               1-3 (1-0)  @ Veltins Arena, Gelsenkirchen,  Att: 19770
+Sat Jul 24
+  13:30  Hansa Rostock            v Karlsruher SC              1-3 (0-2)
+         SV Darmstadt 98          v Jahn Regensburg            0-2 (0-1)
+         1. FC Heidenheim 1846    v SC Paderborn 07            0-0 (0-0)
+         Dynamo Dresden           v FC Ingolstadt 04           3-0 (1-0)
+  20:30  SV Werder Bremen         v Hannover 96                1-1 (0-0)
+Sun Jul 25
+  13:30  SV Sandhausen            v Fortuna Düsseldorf         0-2 (0-0)
+         1. FC Nürnberg           v Erzgebirge Aue             0-0 (0-0)
+         FC St. Pauli             v Holstein Kiel              3-0 (1-0)
+
+▪ 2. Spieltag
+Fri Jul 30
+  18:30  SC Paderborn 07          v 1. FC Nürnberg             2-2 (1-0)
+         Karlsruher SC            v SV Darmstadt 98            3-0 (1-0)
+Sat Jul 31
+  13:30  Hannover 96              v Hansa Rostock              0-3 (0-1)
+         Jahn Regensburg          v SV Sandhausen              3-0 (1-0)
+         FC Ingolstadt 04         v 1. FC Heidenheim 1846      1-2 (0-0)
+  20:30  Fortuna Düsseldorf       v SV Werder Bremen           2-3 (0-1)
+Sun Aug 1
+  13:30  Hamburger SV             v Dynamo Dresden             1-1 (1-0)
+         Holstein Kiel            v FC Schalke 04              0-3 (0-2)
+         Erzgebirge Aue           v FC St. Pauli               0-0 (0-0)
+
+▪ 3. Spieltag
+Fri Aug 13
+  18:30  FC Schalke 04            v Erzgebirge Aue             1-1 (1-0)
+         FC St. Pauli             v Hamburger SV               3-2 (1-1)
+Sat Aug 14
+  13:30  SV Sandhausen            v Karlsruher SC              0-0 (0-0)
+         1. FC Nürnberg           v Fortuna Düsseldorf         2-0 (0-0)
+         Holstein Kiel            v Jahn Regensburg            0-3 (0-2)
+  20:30  Dynamo Dresden           v Hannover 96                2-0 (0-0)
+Sun Aug 15
+  13:30  SV Werder Bremen         v SC Paderborn 07            1-4 (0-3)
+         SV Darmstadt 98          v FC Ingolstadt 04           6-1 (4-0)
+         1. FC Heidenheim 1846    v Hansa Rostock              1-1 (0-0)
+
+▪ 4. Spieltag
+Fri Aug 20
+  18:30  Hannover 96              v 1. FC Heidenheim 1846      1-0 (0-0)
+         Fortuna Düsseldorf       v Holstein Kiel              2-2 (1-1)
+Sat Aug 21
+  13:30  SC Paderborn 07          v FC St. Pauli               3-1 (1-1)
+         Jahn Regensburg          v FC Schalke 04              4-1 (1-0)
+         Karlsruher SC            v SV Werder Bremen           0-0 (0-0)
+  20:30  Hansa Rostock            v Dynamo Dresden             1-3 (1-1)
+Sun Aug 22
+  13:30  Erzgebirge Aue           v SV Sandhausen              1-3 (0-0)
+         Hamburger SV             v SV Darmstadt 98            2-2 (2-2)
+         FC Ingolstadt 04         v 1. FC Nürnberg             0-0 (0-0)
+
+▪ 5. Spieltag
+Fri Aug 27
+  18:30  1. FC Nürnberg           v Karlsruher SC              2-1 (0-0)
+         SV Sandhausen            v FC Ingolstadt 04           0-2 (0-1)
+Sat Aug 28
+  13:30  1. FC Heidenheim 1846    v Hamburger SV               0-0 (0-0)
+         Holstein Kiel            v Erzgebirge Aue             3-0 (2-0)
+         SV Darmstadt 98          v Hannover 96                4-0 (2-0)
+  20:30  FC Schalke 04            v Fortuna Düsseldorf         3-1 (1-1)
+Sun Aug 29
+  13:30  SV Werder Bremen         v Hansa Rostock              3-0 (1-0)
+         Dynamo Dresden           v SC Paderborn 07            0-3 (0-3)
+         FC St. Pauli             v Jahn Regensburg            2-0 (0-0)
+
+▪ 6. Spieltag
+Sat Sep 11
+  13:30  Karlsruher SC            v Holstein Kiel              2-2 (1-0)
+         FC Ingolstadt 04         v SV Werder Bremen           0-3 (0-2)
+         Hannover 96              v FC St. Pauli               1-0 (1-0)
+  20:30  Hamburger SV             v SV Sandhausen              2-1 (0-0)
+Sun Sep 12
+  13:30  Erzgebirge Aue           v Fortuna Düsseldorf         0-1 (0-1)
+         1. FC Heidenheim 1846    v Dynamo Dresden             2-1 (1-0)
+         Jahn Regensburg          v 1. FC Nürnberg             2-2 (1-1)
+         Hansa Rostock            v SV Darmstadt 98            2-1 (1-0)
+         SC Paderborn 07          v FC Schalke 04              0-1 (0-0)
+
+▪ 7. Spieltag
+Fri Sep 17
+  18:30  FC Schalke 04            v Karlsruher SC              1-2 (1-1)
+         1. FC Nürnberg           v Hansa Rostock              1-0 (0-0)
+Sat Sep 18
+  13:30  Holstein Kiel            v Hannover 96                0-3 (0-3)
+         Fortuna Düsseldorf       v Jahn Regensburg            1-1 (1-1)
+         SV Sandhausen            v 1. FC Heidenheim 1846      1-3 (0-2)
+  20:30  SV Werder Bremen         v Hamburger SV               0-2 (0-2)
+Sun Sep 19
+  13:30  SV Darmstadt 98          v Dynamo Dresden             1-0 (1-0)
+         FC St. Pauli             v FC Ingolstadt 04           4-1 (1-0)
+         Erzgebirge Aue           v SC Paderborn 07            1-4 (0-3)
+
+▪ 8. Spieltag
+Fri Sep 24
+  18:30  1. FC Heidenheim 1846    v SV Darmstadt 98            2-1 (1-0)
+         Jahn Regensburg          v Erzgebirge Aue             3-2 (2-0)
+Sat Sep 25
+  13:30  Karlsruher SC            v FC St. Pauli               1-3 (0-2)
+         SC Paderborn 07          v Holstein Kiel              1-2 (1-0)
+         FC Ingolstadt 04         v Fortuna Düsseldorf         1-2 (0-0)
+  20:30  Hansa Rostock            v FC Schalke 04              0-2 (0-1)
+Sun Sep 26
+  13:30  Hamburger SV             v 1. FC Nürnberg             2-2 (1-1)
+         Hannover 96              v SV Sandhausen              1-2 (0-0)
+         Dynamo Dresden           v SV Werder Bremen           3-0 (1-0)
+
+▪ 9. Spieltag
+Fri Oct 1
+  18:30  SV Werder Bremen         v 1. FC Heidenheim 1846      3-0 (0-0)
+         Erzgebirge Aue           v Hamburger SV               1-1 (1-0)
+Sat Oct 2
+  13:30  Holstein Kiel            v Hansa Rostock              0-2 (0-2)
+         Fortuna Düsseldorf       v SC Paderborn 07            2-3 (1-1)
+         Jahn Regensburg          v Karlsruher SC              2-2 (0-1)
+  20:30  1. FC Nürnberg           v Hannover 96                0-0 (0-0)
+Sun Oct 3
+  13:30  FC Schalke 04            v FC Ingolstadt 04           3-0 (1-0)
+         FC St. Pauli             v Dynamo Dresden             3-0 (1-0)
+         SV Sandhausen            v SV Darmstadt 98            1-6 (1-2)
+
+▪ 10. Spieltag
+Fri Oct 15
+  18:30  SC Paderborn 07          v Jahn Regensburg            1-1 (0-1)
+         Hannover 96              v FC Schalke 04              0-1 (0-0)
+Sat Oct 16
+  13:30  Hamburger SV             v Fortuna Düsseldorf         1-1 (1-0)
+         Karlsruher SC            v Erzgebirge Aue             2-1 (0-0)
+         1. FC Heidenheim 1846    v FC St. Pauli               2-4 (1-0)
+         FC Ingolstadt 04         v Holstein Kiel              1-1 (0-1)
+Sun Oct 17
+  13:30  SV Darmstadt 98          v SV Werder Bremen           3-0 (1-0)
+         Dynamo Dresden           v 1. FC Nürnberg             0-1 (0-1)
+         Hansa Rostock            v SV Sandhausen              1-1 (0-1)
+
+▪ 11. Spieltag
+Fri Oct 22
+  18:30  SC Paderborn 07          v Hamburger SV               1-2 (1-1)
+         Erzgebirge Aue           v FC Ingolstadt 04           1-0 (0-0)
+Sat Oct 23
+  13:30  Holstein Kiel            v SV Darmstadt 98            1-1 (1-1)
+         Fortuna Düsseldorf       v Karlsruher SC              3-1 (1-1)
+         1. FC Nürnberg           v 1. FC Heidenheim 1846      4-0 (1-0)
+  20:30  FC Schalke 04            v Dynamo Dresden             3-0 (1-0)
+Sun Oct 24
+  13:30  FC St. Pauli             v Hansa Rostock              4-0 (2-0)
+         Jahn Regensburg          v Hannover 96                3-1 (2-0)
+         SV Sandhausen            v SV Werder Bremen           2-2 (1-1)
+
+▪ 12. Spieltag
+Fri Oct 29
+  18:30  SV Darmstadt 98          v 1. FC Nürnberg             2-0 (1-0)
+         1. FC Heidenheim 1846    v FC Schalke 04              1-0 (0-0)
+Sat Oct 30
+  13:30  SV Werder Bremen         v FC St. Pauli               1-1 (0-0)
+         Hannover 96              v Erzgebirge Aue             1-1 (1-1)
+         Dynamo Dresden           v SV Sandhausen              0-1 (0-0)
+  20:30  Hamburger SV             v Holstein Kiel              1-1 (1-1)
+Sun Oct 31
+  13:30  Karlsruher SC            v SC Paderborn 07            2-4 (0-4)
+         Hansa Rostock            v Fortuna Düsseldorf         2-1 (1-0)
+         FC Ingolstadt 04         v Jahn Regensburg            0-3 (0-1)
+
+▪ 13. Spieltag
+Fri Nov 5
+  18:30  Holstein Kiel            v Dynamo Dresden             2-1 (0-1)
+         1. FC Nürnberg           v SV Werder Bremen           1-2 (1-0)
+Sat Nov 6
+  13:30  Fortuna Düsseldorf       v Hannover 96                1-1 (1-0)
+         SC Paderborn 07          v FC Ingolstadt 04           2-1 (0-0)
+         Jahn Regensburg          v Hansa Rostock              2-3 (1-1)
+  20:30  Karlsruher SC            v Hamburger SV               1-1 (1-1)
+Sun Nov 7
+  13:30  FC Schalke 04            v SV Darmstadt 98            2-4 (1-2)
+         Erzgebirge Aue           v 1. FC Heidenheim 1846      2-0 (2-0)
+
+▪ 14. Spieltag
+Fri Nov 19
+  18:30  Hannover 96              v SC Paderborn 07            0-0 (0-0)
+         SV Sandhausen            v 1. FC Nürnberg             1-2 (0-0)
+Sat Nov 20
+  13:30  Hamburger SV             v Jahn Regensburg            4-1 (2-1)
+         SV Darmstadt 98          v FC St. Pauli               4-0 (4-0)
+         Hansa Rostock            v Erzgebirge Aue             1-2 (1-1)
+  20:30  SV Werder Bremen         v FC Schalke 04              1-1 (0-0)
+Sun Nov 21
+  13:30  1. FC Heidenheim 1846    v Holstein Kiel              2-1 (1-1)
+         Dynamo Dresden           v Fortuna Düsseldorf         1-0 (1-0)
+         FC Ingolstadt 04         v Karlsruher SC              1-1 (1-1)
+
+▪ 13. Spieltag
+Wed Nov 24
+  18:30  FC St. Pauli             v SV Sandhausen              3-1 (2-0)
+
+▪ 15. Spieltag
+Fri Nov 26
+  18:30  Fortuna Düsseldorf       v 1. FC Heidenheim 1846      0-1 (0-0)
+         Jahn Regensburg          v Dynamo Dresden             3-1 (1-1)
+Sat Nov 27
+  13:30  FC Schalke 04            v SV Sandhausen              5-2 (0-0)
+         Karlsruher SC            v Hannover 96                4-0 (3-0)
+         Erzgebirge Aue           v SV Darmstadt 98            1-2 (0-0)
+  20:30  Holstein Kiel            v SV Werder Bremen           2-1 (1-0)
+Sun Nov 28
+  13:30  Hamburger SV             v FC Ingolstadt 04           3-0 (2-0)
+         SC Paderborn 07          v Hansa Rostock              1-1 (0-1)
+         1. FC Nürnberg           v FC St. Pauli               2-3 (1-2)
+
+▪ 16. Spieltag
+Fri Dec 3
+  18:30  SV Werder Bremen         v Erzgebirge Aue             4-0 (2-0)
+         SV Darmstadt 98          v Fortuna Düsseldorf         1-3 (0-2)
+Sat Dec 4
+  13:30  1. FC Nürnberg           v Holstein Kiel              2-1 (1-0)
+         SV Sandhausen            v SC Paderborn 07            1-1 (0-1)
+         Hansa Rostock            v FC Ingolstadt 04           1-1 (0-1)
+  20:30  FC St. Pauli             v FC Schalke 04              2-1 (2-0)
+Sun Dec 5
+  13:30  1. FC Heidenheim 1846    v Jahn Regensburg            3-0 (1-0)
+         Hannover 96              v Hamburger SV               1-0 (1-0)
+         Dynamo Dresden           v Karlsruher SC              3-1 (0-0)
+
+▪ 17. Spieltag
+Fri Dec 10
+  18:30  FC Schalke 04            v 1. FC Nürnberg             4-1 (1-0)
+         Jahn Regensburg          v SV Werder Bremen           2-3 (1-1)
+Sat Dec 11
+  13:30  Holstein Kiel            v SV Sandhausen              2-2 (1-1)
+         SC Paderborn 07          v SV Darmstadt 98            0-1 (0-0)
+         FC Ingolstadt 04         v Hannover 96                1-2 (1-2)
+  20:30  Fortuna Düsseldorf       v FC St. Pauli               1-1 (0-0)
+Sun Dec 12
+  13:30  Hamburger SV             v Hansa Rostock              3-0 (2-0)
+         Karlsruher SC            v 1. FC Heidenheim 1846      3-2 (2-1)
+         Erzgebirge Aue           v Dynamo Dresden             0-1 (0-0)
+
+▪ 18. Spieltag
+Fri Dec 17
+  18:30  Holstein Kiel            v FC St. Pauli               3-0 (3-0)
+         Fortuna Düsseldorf       v SV Sandhausen              0-1 (0-1)
+Sat Dec 18
+  13:30  SC Paderborn 07          v 1. FC Heidenheim 1846      1-2 (0-0)
+         Erzgebirge Aue           v 1. FC Nürnberg             1-3 (1-2)
+         FC Ingolstadt 04         v Dynamo Dresden             3-0 (2-0)
+  20:30  Hamburger SV             v FC Schalke 04              1-1 (1-0)
+Sun Dec 19
+  13:30  Karlsruher SC            v Hansa Rostock              2-2 (0-0)
+         Hannover 96              v SV Werder Bremen           1-4 (0-0)
+         Jahn Regensburg          v SV Darmstadt 98            0-2 (0-0)
+
+▪ 19. Spieltag
+Fri Jan 14 2022
+  18:30  Dynamo Dresden           v Hamburger SV               1-1 (0-1)
+         Hansa Rostock            v Hannover 96                0-1 (0-0)
+Sat Jan 15
+  13:30  SV Werder Bremen         v Fortuna Düsseldorf         3-0 (0-0)
+         FC St. Pauli             v Erzgebirge Aue             2-2 (1-1)
+         1. FC Nürnberg           v SC Paderborn 07            1-2 (0-2)
+  20:30  SV Darmstadt 98          v Karlsruher SC              2-2 (0-1)
+Sun Jan 16
+  13:30  FC Schalke 04            v Holstein Kiel              1-1 (0-0)
+         1. FC Heidenheim 1846    v FC Ingolstadt 04           2-1 (1-0)
+         SV Sandhausen            v Jahn Regensburg            0-3 (0-2)
+
+▪ 20. Spieltag
+Fri Jan 21
+  18:30  Hamburger SV             v FC St. Pauli               2-1 (0-1)  @ Volksparkstadion, Hamburg,  Att: 2000
+         Fortuna Düsseldorf       v 1. FC Nürnberg             0-1 (0-1)  @ Merkur Spiel-Arena, Düsseldorf,  Att: 750
+Sat Jan 22
+  13:30  SC Paderborn 07          v SV Werder Bremen           3-4 (2-1)
+         Hansa Rostock            v 1. FC Heidenheim 1846      0-0 (0-0)
+         FC Ingolstadt 04         v SV Darmstadt 98            0-2 (0-1)
+  20:30  Erzgebirge Aue           v FC Schalke 04              0-5 (0-2)
+Sun Jan 23
+  13:30  Hannover 96              v Dynamo Dresden             0-0 (0-0)
+         Jahn Regensburg          v Holstein Kiel              1-2 (1-1)
+
+▪ 21. Spieltag
+Fri Feb 4
+  18:30  1. FC Heidenheim 1846    v Hannover 96                3-1 (2-1)
+         1. FC Nürnberg           v FC Ingolstadt 04           0-5 (0-3)
+Sat Feb 5
+  13:30  SV Werder Bremen         v Karlsruher SC              2-1 (0-0)
+         FC Schalke 04            v Jahn Regensburg            2-1 (0-1)
+         SV Sandhausen            v Erzgebirge Aue             2-0 (1-0)
+  20:30  FC St. Pauli             v SC Paderborn 07            2-2 (2-1)
+Sun Feb 6
+  13:30  Holstein Kiel            v Fortuna Düsseldorf         1-0 (0-0)
+         SV Darmstadt 98          v Hamburger SV               0-5 (0-3)
+         Dynamo Dresden           v Hansa Rostock              1-4 (0-4)
+
+▪ 20. Spieltag
+Tue Feb 8
+  18:30  Karlsruher SC            v SV Sandhausen              0-2 (0-1)
+
+▪ 22. Spieltag
+Fri Feb 11
+  18:30  Erzgebirge Aue           v Holstein Kiel              2-3 (0-2)
+         Hansa Rostock            v SV Werder Bremen           1-2 (0-0)
+Sat Feb 12
+  13:30  Hamburger SV             v 1. FC Heidenheim 1846      2-0 (0-0)
+         Karlsruher SC            v 1. FC Nürnberg             4-1 (1-1)
+         SC Paderborn 07          v Dynamo Dresden             0-0 (0-0)
+  20:30  Jahn Regensburg          v FC St. Pauli               2-3 (0-2)
+Sun Feb 13
+  13:30  Fortuna Düsseldorf       v FC Schalke 04              2-1 (0-1)
+         Hannover 96              v SV Darmstadt 98            2-2 (1-1)
+         FC Ingolstadt 04         v SV Sandhausen              0-0 (0-0)
+
+▪ 23. Spieltag
+Fri Feb 18
+  18:30  FC Schalke 04            v SC Paderborn 07            2-0 (1-0)
+         Dynamo Dresden           v 1. FC Heidenheim 1846      1-1 (0-0)
+Sat Feb 19
+  13:30  SV Werder Bremen         v FC Ingolstadt 04           1-1 (0-0)
+         Holstein Kiel            v Karlsruher SC              0-2 (0-1)
+         SV Sandhausen            v Hamburger SV               1-1 (1-0)
+  20:30  1. FC Nürnberg           v Jahn Regensburg            2-0 (1-0)
+Sun Feb 20
+  13:30  Fortuna Düsseldorf       v Erzgebirge Aue             3-1 (1-0)
+         SV Darmstadt 98          v Hansa Rostock              1-1 (1-0)
+         FC St. Pauli             v Hannover 96                0-3 (0-1)
+
+▪ 24. Spieltag
+Fri Feb 25
+  18:30  SC Paderborn 07          v Erzgebirge Aue             3-3 (1-0)
+         Hannover 96              v Holstein Kiel              2-0 (0-0)
+Sat Feb 26
+  13:30  Karlsruher SC            v FC Schalke 04              1-1 (1-1)
+         Hansa Rostock            v 1. FC Nürnberg             0-2 (0-1)
+         FC Ingolstadt 04         v FC St. Pauli               1-3 (1-2)
+  20:30  Dynamo Dresden           v SV Darmstadt 98            0-1 (0-0)
+Sun Feb 27
+  13:30  Hamburger SV             v SV Werder Bremen           2-3 (0-1)
+         1. FC Heidenheim 1846    v SV Sandhausen              1-1 (1-1)
+         Jahn Regensburg          v Fortuna Düsseldorf         0-0 (0-0)
+
+▪ 25. Spieltag
+Fri Mar 4
+  18:30  Holstein Kiel            v SC Paderborn 07            3-4 (1-1)
+         SV Darmstadt 98          v 1. FC Heidenheim 1846      3-2 (0-1)
+Sat Mar 5
+  13:30  FC Schalke 04            v Hansa Rostock              3-4 (2-2)
+         FC St. Pauli             v Karlsruher SC              3-1 (3-0)
+         SV Sandhausen            v Hannover 96                3-1 (2-1)
+  20:30  1. FC Nürnberg           v Hamburger SV               2-1 (1-1)
+Sun Mar 6
+  13:30  SV Werder Bremen         v Dynamo Dresden             2-1 (2-1)
+         Fortuna Düsseldorf       v FC Ingolstadt 04           3-0 (2-0)
+         Erzgebirge Aue           v Jahn Regensburg            1-0 (1-0)
+
+▪ 26. Spieltag
+Fri Mar 11
+  18:30  SV Darmstadt 98          v SV Sandhausen              1-1 (1-0)
+         Hansa Rostock            v Holstein Kiel              3-2 (1-0)
+Sat Mar 12
+  13:30  SC Paderborn 07          v Fortuna Düsseldorf         1-1 (0-1)
+         Dynamo Dresden           v FC St. Pauli               1-1 (1-1)
+  20:30  1. FC Heidenheim 1846    v SV Werder Bremen           2-1 (1-0)
+Sun Mar 13
+  13:30  Karlsruher SC            v Jahn Regensburg            1-1 (0-1)
+         Hannover 96              v 1. FC Nürnberg             0-3 (0-1)
+         FC Ingolstadt 04         v FC Schalke 04              0-3 (0-0)
+
+▪ 27. Spieltag
+Fri Mar 18
+  18:30  FC St. Pauli             v 1. FC Heidenheim 1846      1-0 (0-0)
+         Erzgebirge Aue           v Karlsruher SC              0-3 (0-0)
+Sat Mar 19
+  13:30  FC Schalke 04            v Hannover 96                2-1 (1-0)
+         Fortuna Düsseldorf       v Hamburger SV               1-1 (0-0)
+         SV Sandhausen            v Hansa Rostock              0-1 (0-0)
+  20:30  SV Werder Bremen         v SV Darmstadt 98            1-0 (0-0)
+Sun Mar 20
+  13:30  Holstein Kiel            v FC Ingolstadt 04           1-0 (1-0)
+         1. FC Nürnberg           v Dynamo Dresden             1-1 (1-1)
+         Jahn Regensburg          v SC Paderborn 07            1-0 (0-0)
+
+▪ 28. Spieltag
+Fri Apr 1
+  18:30  Dynamo Dresden           v FC Schalke 04              1-2 (0-1)
+         FC Ingolstadt 04         v Erzgebirge Aue             3-2 (2-0)
+Sat Apr 2
+  13:30  Hamburger SV             v SC Paderborn 07            1-2 (0-1)
+         SV Darmstadt 98          v Holstein Kiel              3-1 (2-0)
+         Hannover 96              v Jahn Regensburg            1-1 (1-1)
+  20:30  Hansa Rostock            v FC St. Pauli               1-0 (0-0)
+Sun Apr 3
+  13:30  SV Werder Bremen         v SV Sandhausen              1-1 (0-0)
+         Karlsruher SC            v Fortuna Düsseldorf         2-2 (0-2)
+         1. FC Heidenheim 1846    v 1. FC Nürnberg             3-1 (2-0)
+
+▪ 26. Spieltag
+Tue Apr 5
+  18:30  Hamburger SV             v Erzgebirge Aue             4-0 (2-0)
+
+▪ 29. Spieltag
+Fri Apr 8
+  18:30  Fortuna Düsseldorf       v Hansa Rostock              3-0 (1-0)
+         Jahn Regensburg          v FC Ingolstadt 04           1-1 (0-1)
+Sat Apr 9
+  13:30  FC Schalke 04            v 1. FC Heidenheim 1846      3-0 (1-0)
+         FC St. Pauli             v SV Werder Bremen           1-1 (1-0)
+         Erzgebirge Aue           v Hannover 96                1-3 (0-2)
+  20:30  1. FC Nürnberg           v SV Darmstadt 98            3-1 (1-0)
+Sun Apr 10
+  13:30  Holstein Kiel            v Hamburger SV               1-0 (1-0)
+         SC Paderborn 07          v Karlsruher SC              2-2 (1-1)
+         SV Sandhausen            v Dynamo Dresden             2-1 (1-0)
+
+▪ 30. Spieltag
+Sat Apr 16
+  13:30  Hannover 96              v Fortuna Düsseldorf         0-0 (0-0)
+         SV Sandhausen            v FC St. Pauli               1-1 (0-1)
+         Dynamo Dresden           v Holstein Kiel              0-0 (0-0)
+  20:30  Hamburger SV             v Karlsruher SC              3-0 (2-0)
+Sun Apr 17
+  13:30  SV Werder Bremen         v 1. FC Nürnberg             1-1 (0-1)
+         SV Darmstadt 98          v FC Schalke 04              2-5 (2-3)
+         1. FC Heidenheim 1846    v Erzgebirge Aue             0-2 (0-0)
+         Hansa Rostock            v Jahn Regensburg            1-1 (1-0)
+         FC Ingolstadt 04         v SC Paderborn 07            0-1 (0-0)
+
+▪ 31. Spieltag
+Fri Apr 22
+  18:30  Fortuna Düsseldorf       v Dynamo Dresden             2-2 (2-0)
+         Karlsruher SC            v FC Ingolstadt 04           2-2 (0-1)
+Sat Apr 23
+  13:30  FC Schalke 04            v SV Werder Bremen           1-4 (0-2)
+         Holstein Kiel            v 1. FC Heidenheim 1846      1-1 (0-0)
+         Jahn Regensburg          v Hamburger SV               2-4 (0-1)
+  20:30  FC St. Pauli             v SV Darmstadt 98            1-2 (0-2)
+Sun Apr 24
+  13:30  SC Paderborn 07          v Hannover 96                3-0 (2-0)
+         1. FC Nürnberg           v SV Sandhausen              2-4 (1-1)
+         Erzgebirge Aue           v Hansa Rostock              2-2 (2-1)
+
+▪ 32. Spieltag
+Fri Apr 29
+  18:30  SV Werder Bremen         v Holstein Kiel              2-3 (2-1)
+         1. FC Heidenheim 1846    v Fortuna Düsseldorf         1-3 (0-2)
+         FC St. Pauli             v 1. FC Nürnberg             1-1 (0-0)
+         Hannover 96              v Karlsruher SC              2-0 (1-0)
+         SV Sandhausen            v FC Schalke 04              1-2 (0-0)
+Sat Apr 30
+  13:30  Dynamo Dresden           v Jahn Regensburg            1-1 (0-0)
+         Hansa Rostock            v SC Paderborn 07            0-0 (0-0)
+         FC Ingolstadt 04         v Hamburger SV               0-4 (0-2)
+  20:30  SV Darmstadt 98          v Erzgebirge Aue             6-0 (4-0)
+
+▪ 33. Spieltag
+Fri May 6
+  18:30  Fortuna Düsseldorf       v SV Darmstadt 98            2-1 (2-0)
+         SC Paderborn 07          v SV Sandhausen              2-0 (1-0)
+Sat May 7
+  13:30  Hamburger SV             v Hannover 96                2-1 (2-1)
+         Jahn Regensburg          v 1. FC Heidenheim 1846      0-2 (0-0)
+         FC Ingolstadt 04         v Hansa Rostock              0-0 (0-0)
+  20:30  FC Schalke 04            v FC St. Pauli               3-2 (0-2)  @ Veltins Arena, Gelsenkirchen
+Sun May 8
+  13:30  Holstein Kiel            v 1. FC Nürnberg             3-0 (2-0)
+         Karlsruher SC            v Dynamo Dresden             2-2 (0-1)
+         Erzgebirge Aue           v SV Werder Bremen           0-3 (0-0)
+
+▪ 34. Spieltag
+Sun May 15
+  15:30  SV Werder Bremen         v Jahn Regensburg            2-0 (1-0)
+         SV Darmstadt 98          v SC Paderborn 07            3-0 (3-0)
+         1. FC Heidenheim 1846    v Karlsruher SC              2-0 (2-0)
+         FC St. Pauli             v Fortuna Düsseldorf         2-0 (0-0)
+         1. FC Nürnberg           v FC Schalke 04              1-2 (0-1)
+         Hannover 96              v FC Ingolstadt 04           3-2 (1-1)
+         SV Sandhausen            v Holstein Kiel              3-1 (3-0)
+         Dynamo Dresden           v Erzgebirge Aue             0-1 (0-0)
+         Hansa Rostock            v Hamburger SV               2-3 (1-0)

@@ -1,0 +1,475 @@
+= 2. Fußball-Bundesliga 2024/2025
+
+
+▪ 1. Spieltag
+Fri Aug 2 2024
+  20:30  1. FC Köln               v Hamburger SV               1-2 (0-2)
+Sat Aug 3
+  13:00  Karlsruher SC            v 1. FC Nürnberg             3-2 (1-2)
+         Hannover 96              v Jahn Regensburg            2-0 (2-0)
+         Hertha BSC               v SC Paderborn 07            1-2 (0-1)
+         1. FC Magdeburg          v SV 07 Elversberg           0-0 (0-0)  @ Avnet Arena, Magdeburg
+  20:30  FC Schalke 04            v Eintracht Braunschweig     5-1 (2-1)
+Sun Aug 4
+  13:30  SV Darmstadt 98          v Fortuna Düsseldorf         0-2 (0-0)
+         SpVgg Greuther Fürth     v Preußen Münster            3-1 (1-1)
+         SSV Ulm 1846             v 1. FC Kaiserslautern       1-2 (0-0)
+
+▪ 2. Spieltag
+Fri Aug 9
+  18:30  1. FC Kaiserslautern     v SpVgg Greuther Fürth       2-2 (1-2)
+         Jahn Regensburg          v SSV Ulm 1846               1-0 (1-0)
+Sat Aug 10
+  13:00  Fortuna Düsseldorf       v Karlsruher SC              0-0 (0-0)
+         SV 07 Elversberg         v 1. FC Köln                 2-2 (0-1)
+         1. FC Nürnberg           v FC Schalke 04              3-1 (0-0)
+  20:30  Hamburger SV             v Hertha BSC                 1-1 (1-0)
+Sun Aug 11
+  13:30  SC Paderborn 07          v SV Darmstadt 98            3-1 (0-1)
+         Eintracht Braunschweig   v 1. FC Magdeburg            1-3 (0-1)
+         Preußen Münster          v Hannover 96                0-0 (0-0)
+
+▪ 3. Spieltag
+Fri Aug 23
+  18:30  Karlsruher SC            v SV 07 Elversberg           3-2 (1-1)
+         Hannover 96              v Hamburger SV               1-0 (0-0)
+Sat Aug 24
+  13:00  SpVgg Greuther Fürth     v SC Paderborn 07            1-1 (0-0)
+         Hertha BSC               v Jahn Regensburg            2-0 (0-0)
+         Preußen Münster          v 1. FC Kaiserslautern       0-1 (0-0)
+  20:30  1. FC Köln               v Eintracht Braunschweig     5-0 (2-0)
+Sun Aug 25
+  13:30  SV Darmstadt 98          v 1. FC Nürnberg             1-1 (1-0)
+         1. FC Magdeburg          v FC Schalke 04              2-2 (2-1)
+         SSV Ulm 1846             v Fortuna Düsseldorf         1-2 (1-0)
+
+▪ 4. Spieltag
+Fri Aug 30
+  18:30  Fortuna Düsseldorf       v Hannover 96                1-0 (0-0)
+         Jahn Regensburg          v SpVgg Greuther Fürth       0-4 (0-1)
+Sat Aug 31
+  13:00  Hamburger SV             v Preußen Münster            4-1 (3-0)
+         SV 07 Elversberg         v SV Darmstadt 98            4-0 (2-0)
+         1. FC Nürnberg           v 1. FC Magdeburg            0-4 (0-1)
+  20:30  1. FC Kaiserslautern     v Hertha BSC                 3-4 (2-1)
+Sun Sep 1
+  13:30  SC Paderborn 07          v SSV Ulm 1846               0-0 (0-0)
+         FC Schalke 04            v 1. FC Köln                 1-3 (0-2)
+         Eintracht Braunschweig   v Karlsruher SC              1-2 (1-0)
+
+▪ 5. Spieltag
+Fri Sep 13
+  18:30  Karlsruher SC            v FC Schalke 04              2-0 (1-0)
+         Preußen Münster          v SC Paderborn 07            3-3 (1-1)
+Sat Sep 14
+  13:00  SV Darmstadt 98          v Eintracht Braunschweig     1-1 (1-0)
+         Hannover 96              v 1. FC Kaiserslautern       3-1 (1-0)
+         SSV Ulm 1846             v 1. FC Nürnberg             1-2 (0-0)
+  20:30  1. FC Köln               v 1. FC Magdeburg            1-2 (0-0)
+Sun Sep 15
+  13:30  Hamburger SV             v Jahn Regensburg            5-0 (2-0)
+         SpVgg Greuther Fürth     v SV 07 Elversberg           0-0 (0-0)
+         Hertha BSC               v Fortuna Düsseldorf         0-2 (0-1)
+
+▪ 6. Spieltag
+Fri Sep 20
+  18:30  SC Paderborn 07          v Hannover 96                2-1 (1-1)
+         FC Schalke 04            v SV Darmstadt 98            3-5 (3-1)
+Sat Sep 21
+  13:00  Fortuna Düsseldorf       v 1. FC Köln                 2-2 (1-1)
+         1. FC Nürnberg           v Hertha BSC                 0-2 (0-1)
+         Eintracht Braunschweig   v SpVgg Greuther Fürth       2-0 (1-0)
+  20:30  1. FC Kaiserslautern     v Hamburger SV               2-2 (1-0)
+Sun Sep 22
+  13:30  SV 07 Elversberg         v SSV Ulm 1846               1-3 (0-1)
+         1. FC Magdeburg          v Karlsruher SC              2-2 (1-2)
+         Jahn Regensburg          v Preußen Münster            0-3 (0-1)
+
+▪ 7. Spieltag
+Fri Sep 27
+  18:30  SpVgg Greuther Fürth     v Fortuna Düsseldorf         1-2 (1-1)
+         SSV Ulm 1846             v Eintracht Braunschweig     3-1 (2-0)
+Sat Sep 28
+  13:00  SV Darmstadt 98          v 1. FC Magdeburg            1-2 (1-1)
+         Hamburger SV             v SC Paderborn 07            2-2 (0-0)
+         Jahn Regensburg          v 1. FC Kaiserslautern       0-0 (0-0)
+  20:30  Preußen Münster          v FC Schalke 04              1-2 (0-0)
+Sun Sep 29
+  13:30  1. FC Köln               v Karlsruher SC              4-4 (4-2)
+         Hannover 96              v 1. FC Nürnberg             2-0 (0-0)
+         Hertha BSC               v SV 07 Elversberg           1-4 (0-2)
+
+▪ 8. Spieltag
+Fri Oct 4
+  18:30  Karlsruher SC            v SV Darmstadt 98            3-3 (2-1)
+         SC Paderborn 07          v Jahn Regensburg            3-0 (1-0)
+Sat Oct 5
+  13:00  1. FC Köln               v SSV Ulm 1846               2-0 (1-0)
+         SV 07 Elversberg         v 1. FC Kaiserslautern       1-0 (0-0)
+         1. FC Nürnberg           v Preußen Münster            3-2 (1-2)
+  20:30  FC Schalke 04            v Hertha BSC                 2-2 (2-1)
+Sun Oct 6
+  13:30  Fortuna Düsseldorf       v Hamburger SV               0-3 (0-0)
+         1. FC Magdeburg          v SpVgg Greuther Fürth       2-2 (2-1)
+         Eintracht Braunschweig   v Hannover 96                2-0 (1-0)
+
+▪ 9. Spieltag
+Fri Oct 18
+  18:30  SV Darmstadt 98          v 1. FC Köln                 5-1 (2-1)
+         Hertha BSC               v Eintracht Braunschweig     3-1 (0-1)
+Sat Oct 19
+  13:00  Hannover 96              v FC Schalke 04              1-0 (1-0)
+         Preußen Münster          v SV 07 Elversberg           1-1 (1-0)
+         Jahn Regensburg          v Fortuna Düsseldorf         0-3 (0-1)
+  20:30  1. FC Kaiserslautern     v SC Paderborn 07            3-0 (1-0)
+Sun Oct 20
+  13:30  Hamburger SV             v 1. FC Magdeburg            3-1 (3-0)
+         SpVgg Greuther Fürth     v 1. FC Nürnberg             0-4 (0-3)
+         SSV Ulm 1846             v Karlsruher SC              0-1 (0-0)
+
+▪ 10. Spieltag
+Fri Oct 25
+  18:30  1. FC Köln               v SC Paderborn 07            1-2 (0-0)
+         1. FC Nürnberg           v Jahn Regensburg            8-3 (3-2)
+Sat Oct 26
+  13:00  Karlsruher SC            v Hertha BSC                 1-3 (1-1)
+         FC Schalke 04            v SpVgg Greuther Fürth       3-4 (1-3)
+         SV 07 Elversberg         v Hamburger SV               4-2 (1-1)
+  20:30  Fortuna Düsseldorf       v 1. FC Kaiserslautern       3-4 (1-1)
+Sun Oct 27
+  13:30  SV Darmstadt 98          v SSV Ulm 1846               1-1 (1-1)
+         1. FC Magdeburg          v Hannover 96                0-3 (0-2)
+         Eintracht Braunschweig   v Preußen Münster            1-1 (1-1)
+
+▪ 11. Spieltag
+Fri Nov 1
+  18:30  SSV Ulm 1846             v FC Schalke 04              0-0 (0-0)
+         Preußen Münster          v Fortuna Düsseldorf         1-0 (1-0)
+Sat Nov 2
+  13:00  Hannover 96              v Karlsruher SC              2-1 (0-1)
+         SpVgg Greuther Fürth     v SV Darmstadt 98            1-5 (0-3)
+         Jahn Regensburg          v SV 07 Elversberg           1-0 (1-0)
+  20:30  Hertha BSC               v 1. FC Köln                 0-1 (0-1)
+Sun Nov 3
+  13:30  Hamburger SV             v 1. FC Nürnberg             1-1 (1-0)
+         SC Paderborn 07          v Eintracht Braunschweig     0-0 (0-0)
+         1. FC Kaiserslautern     v 1. FC Magdeburg            2-2 (1-2)
+
+▪ 12. Spieltag
+Fri Nov 8
+  18:30  1. FC Nürnberg           v 1. FC Kaiserslautern       0-0 (0-0)
+         Eintracht Braunschweig   v Hamburger SV               3-1 (1-0)
+Sat Nov 9
+  13:00  1. FC Köln               v SpVgg Greuther Fürth       1-0 (0-0)
+         SV Darmstadt 98          v Hertha BSC                 3-1 (1-1)
+         1. FC Magdeburg          v SSV Ulm 1846               0-0 (0-0)
+  20:30  Fortuna Düsseldorf       v SC Paderborn 07            1-1 (0-0)
+Sun Nov 10
+  13:30  Karlsruher SC            v Preußen Münster            1-1 (1-0)
+         FC Schalke 04            v Jahn Regensburg            2-0 (1-0)
+  18:30  SV 07 Elversberg         v Hannover 96                3-1 (2-0)
+
+▪ 13. Spieltag
+Fri Nov 22
+  18:30  SC Paderborn 07          v 1. FC Nürnberg             3-2 (1-1)
+         Preußen Münster          v 1. FC Köln                 0-1 (0-0)
+Sat Nov 23
+  13:00  Fortuna Düsseldorf       v SV 07 Elversberg           0-2 (0-1)
+         SpVgg Greuther Fürth     v Karlsruher SC              2-3 (1-0)
+         Hertha BSC               v SSV Ulm 1846               2-2 (1-1)
+  20:30  Hamburger SV             v FC Schalke 04              2-2 (2-0)
+Sun Nov 24
+  13:30  Hannover 96              v SV Darmstadt 98            1-2 (0-0)
+         1. FC Kaiserslautern     v Eintracht Braunschweig     3-2 (3-1)
+         Jahn Regensburg          v 1. FC Magdeburg            0-1 (0-1)
+
+▪ 14. Spieltag
+Fri Nov 29
+  18:30  FC Schalke 04            v 1. FC Kaiserslautern       0-3 (0-1)
+         1. FC Magdeburg          v Hertha BSC                 1-3 (0-0)
+Sat Nov 30
+  13:00  1. FC Köln               v Hannover 96                2-2 (0-1)
+         SV 07 Elversberg         v SC Paderborn 07            1-3 (1-1)
+         Eintracht Braunschweig   v Jahn Regensburg            0-0 (0-0)
+  20:30  SV Darmstadt 98          v Preußen Münster            0-0 (0-0)
+Sun Dec 1
+  13:30  Karlsruher SC            v Hamburger SV               1-3 (1-1)
+         1. FC Nürnberg           v Fortuna Düsseldorf         2-2 (1-0)
+         SSV Ulm 1846             v SpVgg Greuther Fürth       1-1 (1-1)
+
+▪ 15. Spieltag
+Fri Dec 6
+  18:30  SC Paderborn 07          v FC Schalke 04              2-4 (1-2)
+         SV 07 Elversberg         v 1. FC Nürnberg             2-1 (1-1)
+Sat Dec 7
+  13:00  Hannover 96              v SSV Ulm 1846               3-2 (0-1)
+         SpVgg Greuther Fürth     v Hertha BSC                 2-1 (1-1)
+         1. FC Kaiserslautern     v Karlsruher SC              3-1 (1-0)
+  20:30  Preußen Münster          v 1. FC Magdeburg            1-2 (1-1)
+Sun Dec 8
+  13:30  Fortuna Düsseldorf       v Eintracht Braunschweig     5-0 (3-0)
+         Hamburger SV             v SV Darmstadt 98            2-2 (2-1)
+         Jahn Regensburg          v 1. FC Köln                 0-1 (0-1)
+
+▪ 16. Spieltag
+Fri Dec 13
+  18:30  Karlsruher SC            v Jahn Regensburg            4-2 (1-1)
+         Hertha BSC               v Preußen Münster            1-2 (1-1)
+Sat Dec 14
+  13:00  FC Schalke 04            v Fortuna Düsseldorf         1-1 (0-0)
+         1. FC Magdeburg          v SC Paderborn 07            1-1 (0-0)
+         SSV Ulm 1846             v Hamburger SV               1-1 (1-0)
+  20:30  SV Darmstadt 98          v 1. FC Kaiserslautern       5-1 (2-0)
+Sun Dec 15
+  13:30  1. FC Köln               v 1. FC Nürnberg             3-1 (3-0)
+         SpVgg Greuther Fürth     v Hannover 96                1-0 (0-0)
+         Eintracht Braunschweig   v SV 07 Elversberg           0-3 (0-0)
+
+▪ 17. Spieltag
+Fri Dec 20
+  18:30  Fortuna Düsseldorf       v 1. FC Magdeburg            2-5 (2-1)
+         SV 07 Elversberg         v FC Schalke 04              1-4 (1-1)
+Sat Dec 21
+  13:00  Hamburger SV             v SpVgg Greuther Fürth       5-0 (3-0)
+         SC Paderborn 07          v Karlsruher SC              1-2 (1-2)
+         Preußen Münster          v SSV Ulm 1846               0-0 (0-0)
+  20:30  1. FC Nürnberg           v Eintracht Braunschweig     1-0 (0-0)
+Sun Dec 22
+  13:30  Hannover 96              v Hertha BSC                 0-0 (0-0)
+         1. FC Kaiserslautern     v 1. FC Köln                 0-1 (0-1)
+         Jahn Regensburg          v SV Darmstadt 98            2-1 (0-0)
+
+▪ 18. Spieltag
+Fri Jan 17 2025
+  18:30  Fortuna Düsseldorf       v SV Darmstadt 98            2-2 (1-0)
+         Jahn Regensburg          v Hannover 96                0-1 (0-1)
+Sat Jan 18
+  13:00  1. FC Kaiserslautern     v SSV Ulm 1846               2-1 (0-0)
+         Eintracht Braunschweig   v FC Schalke 04              0-0 (0-0)
+         Preußen Münster          v SpVgg Greuther Fürth       2-1 (1-1)
+  20:30  Hamburger SV             v 1. FC Köln                 1-0 (0-0)
+Sun Jan 19
+  13:30  SC Paderborn 07          v Hertha BSC                 1-2 (0-1)
+         SV 07 Elversberg         v 1. FC Magdeburg            2-5 (2-0)
+         1. FC Nürnberg           v Karlsruher SC              2-1 (1-1)
+
+▪ 19. Spieltag
+Fri Jan 24
+  18:30  SpVgg Greuther Fürth     v 1. FC Kaiserslautern       2-4 (1-1)
+         1. FC Magdeburg          v Eintracht Braunschweig     1-1 (1-0)
+Sat Jan 25
+  13:00  1. FC Köln               v SV 07 Elversberg           1-0 (0-0)
+         Karlsruher SC            v Fortuna Düsseldorf         2-3 (2-0)
+         FC Schalke 04            v 1. FC Nürnberg             3-1 (3-1)
+  20:30  Hertha BSC               v Hamburger SV               2-3 (0-1)
+Sun Jan 26
+  13:30  SV Darmstadt 98          v SC Paderborn 07            0-1 (0-1)
+         Hannover 96              v Preußen Münster            2-2 (1-1)
+         SSV Ulm 1846             v Jahn Regensburg            5-1 (3-0)
+
+▪ 20. Spieltag
+Fri Jan 31
+  17:30  1. FC Nürnberg           v SV Darmstadt 98            1-0 (0-0)
+  18:30  SV 07 Elversberg         v Karlsruher SC              2-2 (1-0)
+Sat Feb 1
+  13:00  Fortuna Düsseldorf       v SSV Ulm 1846               3-2 (2-1)
+         Eintracht Braunschweig   v 1. FC Köln                 1-2 (1-2)
+         Jahn Regensburg          v Hertha BSC                 2-0 (1-0)
+  20:30  FC Schalke 04            v 1. FC Magdeburg            2-5 (0-2)
+Sun Feb 2
+  13:30  Hamburger SV             v Hannover 96                2-2 (1-0)
+         SC Paderborn 07          v SpVgg Greuther Fürth       1-2 (0-1)
+         1. FC Kaiserslautern     v Preußen Münster            2-1 (0-0)
+
+▪ 21. Spieltag
+Fri Feb 7
+  18:30  SpVgg Greuther Fürth     v Jahn Regensburg            2-1 (2-1)
+         Preußen Münster          v Hamburger SV               1-2 (1-1)
+Sat Feb 8
+  13:00  SV Darmstadt 98          v SV 07 Elversberg           0-3 (0-2)
+         1. FC Magdeburg          v 1. FC Nürnberg             3-4 (1-3)
+         SSV Ulm 1846             v SC Paderborn 07            0-2 (0-0)
+  20:30  Hertha BSC               v 1. FC Kaiserslautern       0-1 (0-0)
+Sun Feb 9
+  13:30  1. FC Köln               v FC Schalke 04              1-0 (1-0)
+         Karlsruher SC            v Eintracht Braunschweig     0-2 (0-1)
+         Hannover 96              v Fortuna Düsseldorf         1-1 (1-1)
+
+▪ 22. Spieltag
+Fri Feb 14
+  18:30  SC Paderborn 07          v Preußen Münster            2-0 (0-0)
+         1. FC Magdeburg          v 1. FC Köln                 3-0 (0-0)
+Sat Feb 15
+  13:00  SV 07 Elversberg         v SpVgg Greuther Fürth       2-0 (2-0)
+         1. FC Kaiserslautern     v Hannover 96                0-0 (0-0)
+         Eintracht Braunschweig   v SV Darmstadt 98            1-0 (0-0)
+  20:30  Fortuna Düsseldorf       v Hertha BSC                 2-1 (0-1)
+Sun Feb 16
+  13:30  FC Schalke 04            v Karlsruher SC              2-1 (2-1)
+         1. FC Nürnberg           v SSV Ulm 1846               2-0 (0-0)
+         Jahn Regensburg          v Hamburger SV               1-1 (1-0)
+
+▪ 23. Spieltag
+Fri Feb 21
+  18:30  Hamburger SV             v 1. FC Kaiserslautern       3-0 (1-0)
+         Hertha BSC               v 1. FC Nürnberg             0-0 (0-0)
+Sat Feb 22
+  13:00  Karlsruher SC            v 1. FC Magdeburg            3-1 (1-1)
+         SSV Ulm 1846             v SV 07 Elversberg           0-0 (0-0)
+         Preußen Münster          v Jahn Regensburg            2-0 (1-0)
+  20:30  Hannover 96              v SC Paderborn 07            0-0 (0-0)
+Sun Feb 23
+  13:30  1. FC Köln               v Fortuna Düsseldorf         1-1 (0-0)
+         SV Darmstadt 98          v FC Schalke 04              2-0 (2-0)
+         SpVgg Greuther Fürth     v Eintracht Braunschweig     3-0 (1-0)
+
+▪ 24. Spieltag
+Fri Feb 28
+  18:30  Fortuna Düsseldorf       v SpVgg Greuther Fürth       1-2 (1-1)
+         FC Schalke 04            v Preußen Münster            1-0 (0-0)
+Sat Mar 1
+  13:00  1. FC Nürnberg           v Hannover 96                1-2 (1-1)
+         1. FC Kaiserslautern     v Jahn Regensburg            3-0 (0-0)
+         Eintracht Braunschweig   v SSV Ulm 1846               1-1 (0-1)
+  20:30  Karlsruher SC            v 1. FC Köln                 1-0 (0-0)
+Sun Mar 2
+  13:30  SC Paderborn 07          v Hamburger SV               2-0 (1-0)
+         SV 07 Elversberg         v Hertha BSC                 4-0 (4-0)
+         1. FC Magdeburg          v SV Darmstadt 98            4-1 (0-1)
+
+▪ 25. Spieltag
+Fri Mar 7
+  18:30  SV Darmstadt 98          v Karlsruher SC              3-0 (1-0)
+         1. FC Kaiserslautern     v SV 07 Elversberg           1-1 (1-0)
+Sat Mar 8
+  13:00  SpVgg Greuther Fürth     v 1. FC Magdeburg            1-1 (1-1)
+         Hertha BSC               v FC Schalke 04              1-2 (0-1)
+         SSV Ulm 1846             v 1. FC Köln                 0-1 (0-0)
+  20:30  Hamburger SV             v Fortuna Düsseldorf         4-1 (1-1)
+Sun Mar 9
+  13:30  Hannover 96              v Eintracht Braunschweig     1-1 (0-0)
+         Preußen Münster          v 1. FC Nürnberg             0-1 (0-0)
+         Jahn Regensburg          v SC Paderborn 07            0-0 (0-0)
+
+▪ 26. Spieltag
+Fri Mar 14
+  18:30  FC Schalke 04            v Hannover 96                1-2 (1-0)
+         1. FC Magdeburg          v Hamburger SV               0-3 (0-2)
+Sat Mar 15
+  13:00  Fortuna Düsseldorf       v Jahn Regensburg            1-0 (1-0)
+         SC Paderborn 07          v 1. FC Kaiserslautern       5-3 (3-2)
+         SV 07 Elversberg         v Preußen Münster            0-1 (0-0)
+  20:30  1. FC Köln               v SV Darmstadt 98            2-1 (1-1)
+Sun Mar 16
+  13:30  Karlsruher SC            v SSV Ulm 1846               0-0 (0-0)
+         1. FC Nürnberg           v SpVgg Greuther Fürth       3-0 (3-0)
+         Eintracht Braunschweig   v Hertha BSC                 1-5 (0-3)
+
+▪ 27. Spieltag
+Fri Mar 28
+  18:30  Hamburger SV             v SV 07 Elversberg           0-0 (0-0)
+         SSV Ulm 1846             v SV Darmstadt 98            2-1 (0-0)
+Sat Mar 29
+  13:00  Hannover 96              v 1. FC Magdeburg            0-0 (0-0)
+         SC Paderborn 07          v 1. FC Köln                 1-2 (1-1)
+         Hertha BSC               v Karlsruher SC              3-1 (1-0)
+  20:30  1. FC Kaiserslautern     v Fortuna Düsseldorf         3-1 (1-0)
+Sun Mar 30
+  13:30  SpVgg Greuther Fürth     v FC Schalke 04              3-3 (2-1)
+         Preußen Münster          v Eintracht Braunschweig     1-1 (1-1)
+         Jahn Regensburg          v 1. FC Nürnberg             2-1 (0-1)
+
+▪ 28. Spieltag
+Fri Apr 4
+  18:30  Karlsruher SC            v Hannover 96                1-0 (0-0)
+         Eintracht Braunschweig   v SC Paderborn 07            3-2 (1-1)
+Sat Apr 5
+  11:00  1. FC Nürnberg           v Hamburger SV               0-3 (0-2)
+  13:00  SV Darmstadt 98          v SpVgg Greuther Fürth       1-0 (0-0)
+         Fortuna Düsseldorf       v Preußen Münster            1-0 (1-0)
+  20:30  1. FC Köln               v Hertha BSC                 0-1 (0-0)
+Sun Apr 6
+  13:30  FC Schalke 04            v SSV Ulm 1846               2-1 (0-0)
+         SV 07 Elversberg         v Jahn Regensburg            6-0 (0-0)
+         1. FC Magdeburg          v 1. FC Kaiserslautern       2-0 (0-0)
+
+▪ 29. Spieltag
+Fri Apr 11
+  18:30  Hamburger SV             v Eintracht Braunschweig     2-4 (0-2)
+         SpVgg Greuther Fürth     v 1. FC Köln                 1-1 (1-1)
+Sat Apr 12
+  13:00  Hannover 96              v SV 07 Elversberg           1-3 (0-0)
+         Hertha BSC               v SV Darmstadt 98            1-1 (0-0)
+         SSV Ulm 1846             v 1. FC Magdeburg            1-0 (0-0)
+  20:30  1. FC Kaiserslautern     v 1. FC Nürnberg             1-2 (0-1)
+Sun Apr 13
+  13:30  SC Paderborn 07          v Fortuna Düsseldorf         1-2 (0-1)
+         Preußen Münster          v Karlsruher SC              1-1 (0-1)
+         Jahn Regensburg          v FC Schalke 04              2-0 (1-0)
+
+▪ 30. Spieltag
+Sat Apr 19
+  13:00  SV 07 Elversberg         v Fortuna Düsseldorf         1-1 (0-0)
+         1. FC Nürnberg           v SC Paderborn 07            2-3 (1-1)
+         Eintracht Braunschweig   v 1. FC Kaiserslautern       2-0 (0-0)
+  20:30  FC Schalke 04            v Hamburger SV               2-2 (1-2)
+Sun Apr 20
+  13:30  1. FC Köln               v Preußen Münster            3-1 (2-1)
+         SV Darmstadt 98          v Hannover 96                3-1 (1-0)
+         Karlsruher SC            v SpVgg Greuther Fürth       1-0 (0-0)
+         1. FC Magdeburg          v Jahn Regensburg            3-0 (1-0)
+         SSV Ulm 1846             v Hertha BSC                 2-3 (1-0)
+
+▪ 31. Spieltag
+Fri Apr 25
+  18:30  SpVgg Greuther Fürth     v SSV Ulm 1846               0-1 (0-0)
+         Hertha BSC               v 1. FC Magdeburg            1-1 (1-1)
+Sat Apr 26
+  13:00  SC Paderborn 07          v SV 07 Elversberg           1-1 (0-0)
+         Preußen Münster          v SV Darmstadt 98            1-1 (0-1)
+         Jahn Regensburg          v Eintracht Braunschweig     1-1 (1-1)
+  20:30  Fortuna Düsseldorf       v 1. FC Nürnberg             3-3 (0-2)
+Sun Apr 27
+  13:30  Hamburger SV             v Karlsruher SC              1-2 (1-2)
+         Hannover 96              v 1. FC Köln                 1-0 (0-0)
+         1. FC Kaiserslautern     v FC Schalke 04              2-1 (1-0)
+
+▪ 32. Spieltag
+Fri May 2
+  18:30  FC Schalke 04            v SC Paderborn 07            0-2 (0-1)
+         1. FC Magdeburg          v Preußen Münster            0-5 (0-3)
+Sat May 3
+  13:00  SV Darmstadt 98          v Hamburger SV               0-4 (0-1)
+         Eintracht Braunschweig   v Fortuna Düsseldorf         2-2 (1-0)
+         SSV Ulm 1846             v Hannover 96                1-2 (0-1)
+  20:30  1. FC Köln               v Jahn Regensburg            1-1 (0-0)
+Sun May 4
+  13:30  Karlsruher SC            v 1. FC Kaiserslautern       2-2 (1-1)
+         Hertha BSC               v SpVgg Greuther Fürth       1-0 (1-0)
+         1. FC Nürnberg           v SV 07 Elversberg           1-3 (1-0)
+
+▪ 33. Spieltag
+Fri May 9
+  18:30  1. FC Nürnberg           v 1. FC Köln                 1-2 (0-0)
+         Preußen Münster          v Hertha BSC                 2-0 (1-0)
+Sat May 10
+  13:00  Fortuna Düsseldorf       v FC Schalke 04              2-0 (0-0)
+         SC Paderborn 07          v 1. FC Magdeburg            2-1 (1-1)
+         SV 07 Elversberg         v Eintracht Braunschweig     3-0 (3-0)
+  20:30  Hamburger SV             v SSV Ulm 1846               6-1 (3-1)
+Sun May 11
+  13:30  Hannover 96              v SpVgg Greuther Fürth       1-1 (0-1)
+         1. FC Kaiserslautern     v SV Darmstadt 98            2-1 (2-1)
+         Jahn Regensburg          v Karlsruher SC              2-2 (1-2)
+
+▪ 34. Spieltag
+Sun May 18
+  15:30  1. FC Köln               v 1. FC Kaiserslautern       4-0 (2-0)
+         SV Darmstadt 98          v Jahn Regensburg            3-1 (0-1)
+         Karlsruher SC            v SC Paderborn 07            3-0 (0-0)
+         SpVgg Greuther Fürth     v Hamburger SV               3-2 (1-0)
+         Hertha BSC               v Hannover 96                1-1 (1-1)
+         FC Schalke 04            v SV 07 Elversberg           1-2 (0-1)
+         1. FC Magdeburg          v Fortuna Düsseldorf         4-2 (0-1)
+         Eintracht Braunschweig   v 1. FC Nürnberg             0-4 (0-4)
+         SSV Ulm 1846             v Preußen Münster            2-2 (1-0)

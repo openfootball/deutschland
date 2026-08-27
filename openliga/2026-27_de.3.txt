@@ -1,0 +1,508 @@
+= 3. Liga 2026/2027
+
+
+▪ 1. Spieltag
+Fri Aug 7 2026
+  19:00  SV Waldhof Mannheim      v Fortuna Düsseldorf         2-1 (1-0)
+Sat Aug 8
+  14:00  FC Ingolstadt 04         v Würzburger Kickers         2-2 (2-2)
+         MSV Duisburg             v SV Meppen                  3-0 (1-0)
+         SV Wehen Wiesbaden       v Preußen Münster            1-3 (1-1)
+         Viktoria Köln            v Jahn Regensburg            2-5 (0-2)
+         TSV Havelse              v VfB Stuttgart II           2-3 (1-1)
+  16:30  SG Sonnenhof Großaspach  v Fortuna Köln               1-0 (1-0)
+Sun Aug 9
+  13:30  TSG 1899 Hoffenheim II   v Hansa Rostock              2-3 (0-0)
+  16:30  1. FC Saarbrücken        v Rot-Weiss Essen            5-2 (2-2)
+  19:30  Alemannia Aachen         v SC Verl                    4-1 (0-1)
+
+▪ 2. Spieltag
+Fri Aug 14
+  19:00  Würzburger Kickers       v SV Wehen Wiesbaden         4-0 (2-0)
+Sat Aug 15
+  14:00  Fortuna Düsseldorf       v TSG 1899 Hoffenheim II     0-2 (0-1)
+         Preußen Münster          v FC Ingolstadt 04           1-1 (1-1)
+         Rot-Weiss Essen          v TSV Havelse                1-0 (0-0)
+         Fortuna Köln             v Alemannia Aachen           1-1 (0-1)
+         SV Meppen                v SG Sonnenhof Großaspach    2-0 (1-0)
+  16:30  SC Verl                  v MSV Duisburg               2-4 (1-0)
+Sun Aug 16
+  13:30  Hansa Rostock            v SV Waldhof Mannheim        3-3 (1-2)
+  16:30  Jahn Regensburg          v 1. FC Saarbrücken          0-1 (0-0)
+  19:30  VfB Stuttgart II         v Viktoria Köln              1-3 (0-1)
+
+▪ 3. Spieltag
+Fri Aug 28
+  19:00  Fortuna Düsseldorf       v VfB Stuttgart II
+Sat Aug 29
+  14:00  MSV Duisburg             v Würzburger Kickers
+         Alemannia Aachen         v SV Meppen
+         SC Verl                  v Fortuna Köln
+         SV Wehen Wiesbaden       v Rot-Weiss Essen
+         SG Sonnenhof Großaspach  v FC Ingolstadt 04
+  16:30  TSG 1899 Hoffenheim II   v Jahn Regensburg
+Sun Aug 30
+  13:30  1. FC Saarbrücken        v Hansa Rostock
+  16:30  TSV Havelse              v SV Waldhof Mannheim
+  19:30  Viktoria Köln            v Preußen Münster
+
+▪ 4. Spieltag
+Fri Sep 4
+  19:00  FC Ingolstadt 04         v Alemannia Aachen
+Sat Sep 5
+  14:00  Hansa Rostock            v SV Wehen Wiesbaden
+         Preußen Münster          v TSV Havelse
+         SV Waldhof Mannheim      v SC Verl
+         Jahn Regensburg          v MSV Duisburg
+         SV Meppen                v 1. FC Saarbrücken
+  16:30  Rot-Weiss Essen          v Viktoria Köln
+Sun Sep 6
+  13:30  Würzburger Kickers       v VfB Stuttgart II
+  16:30  SG Sonnenhof Großaspach  v TSG 1899 Hoffenheim II
+  19:30  Fortuna Köln             v Fortuna Düsseldorf
+
+▪ 5. Spieltag
+Fri Sep 11
+  19:00  Viktoria Köln            v Hansa Rostock
+Sat Sep 12
+  14:00  Fortuna Düsseldorf       v MSV Duisburg
+         Rot-Weiss Essen          v Würzburger Kickers
+         SC Verl                  v SV Meppen
+         1. FC Saarbrücken        v FC Ingolstadt 04
+         TSV Havelse              v SG Sonnenhof Großaspach
+  16:30  Alemannia Aachen         v Jahn Regensburg
+Sun Sep 13
+  13:30  VfB Stuttgart II         v Preußen Münster
+  16:30  SV Wehen Wiesbaden       v SV Waldhof Mannheim
+  19:30  TSG 1899 Hoffenheim II   v Fortuna Köln
+
+▪ 6. Spieltag
+Wed Sep 16
+  19:00  FC Ingolstadt 04         v TSG 1899 Hoffenheim II
+         Preußen Münster          v 1. FC Saarbrücken
+         MSV Duisburg             v TSV Havelse
+         Hansa Rostock            v VfB Stuttgart II
+         SV Waldhof Mannheim      v Rot-Weiss Essen
+         Jahn Regensburg          v Fortuna Düsseldorf
+         Fortuna Köln             v SV Wehen Wiesbaden
+         SV Meppen                v Viktoria Köln
+         SG Sonnenhof Großaspach  v SC Verl
+         Würzburger Kickers       v Alemannia Aachen
+
+▪ 7. Spieltag
+Fri Sep 18
+  19:00  SC Verl                  v Würzburger Kickers
+Sat Sep 19
+  14:00  Alemannia Aachen         v Fortuna Düsseldorf
+         Viktoria Köln            v FC Ingolstadt 04
+         VfB Stuttgart II         v Jahn Regensburg
+         TSG 1899 Hoffenheim II   v SV Meppen
+         TSV Havelse              v Fortuna Köln
+  16:30  1. FC Saarbrücken        v SG Sonnenhof Großaspach
+Sun Sep 20
+  13:30  Rot-Weiss Essen          v Hansa Rostock
+  16:30  SV Waldhof Mannheim      v Preußen Münster
+  19:30  SV Wehen Wiesbaden       v MSV Duisburg
+
+▪ 8. Spieltag
+Sat Oct 10
+  14:00  Preußen Münster          v Rot-Weiss Essen
+         MSV Duisburg             v TSG 1899 Hoffenheim II
+         Alemannia Aachen         v Viktoria Köln
+         FC Ingolstadt 04         v SV Wehen Wiesbaden
+         Jahn Regensburg          v TSV Havelse
+         Fortuna Köln             v 1. FC Saarbrücken
+         SV Meppen                v VfB Stuttgart II
+         SG Sonnenhof Großaspach  v SV Waldhof Mannheim
+         Würzburger Kickers       v Hansa Rostock
+         Fortuna Düsseldorf       v SC Verl
+
+▪ 9. Spieltag
+Wed Oct 14
+  19:00  Hansa Rostock            v SV Meppen
+         Preußen Münster          v Fortuna Düsseldorf
+         Rot-Weiss Essen          v Fortuna Köln
+         SC Verl                  v Jahn Regensburg
+         SV Wehen Wiesbaden       v Alemannia Aachen
+         SV Waldhof Mannheim      v FC Ingolstadt 04
+         Viktoria Köln            v SG Sonnenhof Großaspach
+         VfB Stuttgart II         v TSG 1899 Hoffenheim II
+         1. FC Saarbrücken        v MSV Duisburg
+         TSV Havelse              v Würzburger Kickers
+
+▪ 10. Spieltag
+Sat Oct 17
+  14:00  Fortuna Düsseldorf       v 1. FC Saarbrücken
+         MSV Duisburg             v Viktoria Köln
+         FC Ingolstadt 04         v Rot-Weiss Essen
+         Jahn Regensburg          v SV Wehen Wiesbaden
+         TSG 1899 Hoffenheim II   v SC Verl
+         Fortuna Köln             v VfB Stuttgart II
+         SV Meppen                v TSV Havelse
+         SG Sonnenhof Großaspach  v Preußen Münster
+         Würzburger Kickers       v SV Waldhof Mannheim
+         Alemannia Aachen         v Hansa Rostock
+
+▪ 11. Spieltag
+Sat Oct 24
+  14:00  Viktoria Köln            v SC Verl
+         Preußen Münster          v Fortuna Köln
+         Rot-Weiss Essen          v Jahn Regensburg
+         Hansa Rostock            v Fortuna Düsseldorf
+         SV Wehen Wiesbaden       v SG Sonnenhof Großaspach
+         SV Waldhof Mannheim      v TSG 1899 Hoffenheim II
+         FC Ingolstadt 04         v MSV Duisburg
+         VfB Stuttgart II         v Alemannia Aachen
+         TSV Havelse              v 1. FC Saarbrücken
+         SV Meppen                v Würzburger Kickers
+
+▪ 12. Spieltag
+Sat Oct 31
+  14:00  TSG 1899 Hoffenheim II   v Viktoria Köln
+         Fortuna Düsseldorf       v SV Meppen
+         MSV Duisburg             v VfB Stuttgart II
+         Alemannia Aachen         v Preußen Münster
+         SC Verl                  v SV Wehen Wiesbaden
+         Jahn Regensburg          v Hansa Rostock
+         1. FC Saarbrücken        v SV Waldhof Mannheim
+         TSV Havelse              v FC Ingolstadt 04
+         Fortuna Köln             v Würzburger Kickers
+         SG Sonnenhof Großaspach  v Rot-Weiss Essen
+
+▪ 13. Spieltag
+Sat Nov 7
+  14:00  Preußen Münster          v MSV Duisburg
+         Rot-Weiss Essen          v Alemannia Aachen
+         Hansa Rostock            v SG Sonnenhof Großaspach
+         SV Wehen Wiesbaden       v TSV Havelse
+         SV Waldhof Mannheim      v Fortuna Köln
+         Viktoria Köln            v 1. FC Saarbrücken
+         FC Ingolstadt 04         v Fortuna Düsseldorf
+         VfB Stuttgart II         v SC Verl
+         SV Meppen                v Jahn Regensburg
+         Würzburger Kickers       v TSG 1899 Hoffenheim II
+
+▪ 15. Spieltag
+Sat Nov 14
+  14:00  Würzburger Kickers       v Fortuna Düsseldorf
+         Preußen Münster          v SC Verl
+         Rot-Weiss Essen          v TSG 1899 Hoffenheim II
+         Hansa Rostock            v TSV Havelse
+         SV Wehen Wiesbaden       v SV Meppen
+         SV Waldhof Mannheim      v VfB Stuttgart II
+         Viktoria Köln            v Fortuna Köln
+         FC Ingolstadt 04         v Jahn Regensburg
+         1. FC Saarbrücken        v Alemannia Aachen
+         SG Sonnenhof Großaspach  v MSV Duisburg
+
+▪ 14. Spieltag
+Sat Nov 21
+  14:00  SC Verl                  v Rot-Weiss Essen
+         Fortuna Düsseldorf       v SG Sonnenhof Großaspach
+         MSV Duisburg             v Hansa Rostock
+         Alemannia Aachen         v SV Waldhof Mannheim
+         Jahn Regensburg          v Würzburger Kickers
+         VfB Stuttgart II         v FC Ingolstadt 04
+         1. FC Saarbrücken        v SV Wehen Wiesbaden
+         TSG 1899 Hoffenheim II   v Preußen Münster
+         TSV Havelse              v Viktoria Köln
+         Fortuna Köln             v SV Meppen
+
+▪ 16. Spieltag
+Sat Dec 5
+  14:00  MSV Duisburg             v SV Waldhof Mannheim
+         Alemannia Aachen         v TSV Havelse
+         SC Verl                  v FC Ingolstadt 04
+         Jahn Regensburg          v Preußen Münster
+         VfB Stuttgart II         v SG Sonnenhof Großaspach
+         TSG 1899 Hoffenheim II   v 1. FC Saarbrücken
+         Fortuna Köln             v Hansa Rostock
+         SV Meppen                v Rot-Weiss Essen
+         Würzburger Kickers       v Viktoria Köln
+         Fortuna Düsseldorf       v SV Wehen Wiesbaden
+
+▪ 17. Spieltag
+Sat Dec 12
+  14:00  Preußen Münster          v SV Meppen
+         Rot-Weiss Essen          v MSV Duisburg
+         Hansa Rostock            v SC Verl
+         SV Wehen Wiesbaden       v VfB Stuttgart II
+         SV Waldhof Mannheim      v Jahn Regensburg
+         Viktoria Köln            v Fortuna Düsseldorf
+         FC Ingolstadt 04         v Fortuna Köln
+         1. FC Saarbrücken        v Würzburger Kickers
+         TSV Havelse              v TSG 1899 Hoffenheim II
+         SG Sonnenhof Großaspach  v Alemannia Aachen
+
+▪ 18. Spieltag
+Sat Dec 19
+  14:00  TSG 1899 Hoffenheim II   v SV Wehen Wiesbaden
+         Fortuna Düsseldorf       v Rot-Weiss Essen
+         MSV Duisburg             v Alemannia Aachen
+         Hansa Rostock            v Preußen Münster
+         SC Verl                  v TSV Havelse
+         Viktoria Köln            v SV Waldhof Mannheim
+         Jahn Regensburg          v Fortuna Köln
+         VfB Stuttgart II         v 1. FC Saarbrücken
+         SV Meppen                v FC Ingolstadt 04
+         Würzburger Kickers       v SG Sonnenhof Großaspach
+
+▪ 19. Spieltag
+Sat Jan 16 2027
+  14:00  Rot-Weiss Essen          v VfB Stuttgart II
+         Alemannia Aachen         v TSG 1899 Hoffenheim II
+         SV Wehen Wiesbaden       v Viktoria Köln
+         SV Waldhof Mannheim      v SV Meppen
+         FC Ingolstadt 04         v Hansa Rostock
+         1. FC Saarbrücken        v SC Verl
+         TSV Havelse              v Fortuna Düsseldorf
+         Fortuna Köln             v MSV Duisburg
+         SG Sonnenhof Großaspach  v Jahn Regensburg
+         Preußen Münster          v Würzburger Kickers
+
+▪ 20. Spieltag
+Sat Jan 23
+  14:00  Fortuna Düsseldorf       v SV Waldhof Mannheim
+         Preußen Münster          v SV Wehen Wiesbaden
+         Rot-Weiss Essen          v 1. FC Saarbrücken
+         Hansa Rostock            v TSG 1899 Hoffenheim II
+         SC Verl                  v Alemannia Aachen
+         Jahn Regensburg          v Viktoria Köln
+         VfB Stuttgart II         v TSV Havelse
+         Fortuna Köln             v SG Sonnenhof Großaspach
+         SV Meppen                v MSV Duisburg
+         Würzburger Kickers       v FC Ingolstadt 04
+
+▪ 21. Spieltag
+Sat Jan 30
+  14:00  SV Wehen Wiesbaden       v Würzburger Kickers
+         MSV Duisburg             v SC Verl
+         Alemannia Aachen         v Fortuna Köln
+         SV Waldhof Mannheim      v Hansa Rostock
+         Viktoria Köln            v VfB Stuttgart II
+         FC Ingolstadt 04         v Preußen Münster
+         1. FC Saarbrücken        v Jahn Regensburg
+         TSG 1899 Hoffenheim II   v Fortuna Düsseldorf
+         TSV Havelse              v Rot-Weiss Essen
+         SG Sonnenhof Großaspach  v SV Meppen
+
+▪ 22. Spieltag
+Sat Feb 6
+  14:00  Jahn Regensburg          v TSG 1899 Hoffenheim II
+         Preußen Münster          v Viktoria Köln
+         Rot-Weiss Essen          v SV Wehen Wiesbaden
+         Hansa Rostock            v 1. FC Saarbrücken
+         SV Waldhof Mannheim      v TSV Havelse
+         FC Ingolstadt 04         v SG Sonnenhof Großaspach
+         VfB Stuttgart II         v Fortuna Düsseldorf
+         Fortuna Köln             v SC Verl
+         SV Meppen                v Alemannia Aachen
+         Würzburger Kickers       v MSV Duisburg
+
+▪ 23. Spieltag
+Sat Feb 13
+  14:00  TSV Havelse              v Preußen Münster
+         Fortuna Düsseldorf       v Fortuna Köln
+         MSV Duisburg             v Jahn Regensburg
+         Alemannia Aachen         v FC Ingolstadt 04
+         SC Verl                  v SV Waldhof Mannheim
+         SV Wehen Wiesbaden       v Hansa Rostock
+         Viktoria Köln            v Rot-Weiss Essen
+         VfB Stuttgart II         v Würzburger Kickers
+         1. FC Saarbrücken        v SV Meppen
+         TSG 1899 Hoffenheim II   v SG Sonnenhof Großaspach
+
+▪ 24. Spieltag
+Sat Feb 20
+  14:00  SG Sonnenhof Großaspach  v TSV Havelse
+         Preußen Münster          v VfB Stuttgart II
+         MSV Duisburg             v Fortuna Düsseldorf
+         Hansa Rostock            v Viktoria Köln
+         SV Waldhof Mannheim      v SV Wehen Wiesbaden
+         FC Ingolstadt 04         v 1. FC Saarbrücken
+         Jahn Regensburg          v Alemannia Aachen
+         Fortuna Köln             v TSG 1899 Hoffenheim II
+         SV Meppen                v SC Verl
+         Würzburger Kickers       v Rot-Weiss Essen
+
+▪ 25. Spieltag
+Sat Feb 27
+  14:00  Alemannia Aachen         v Würzburger Kickers
+         Fortuna Düsseldorf       v Jahn Regensburg
+         Rot-Weiss Essen          v SV Waldhof Mannheim
+         SC Verl                  v SG Sonnenhof Großaspach
+         SV Wehen Wiesbaden       v Fortuna Köln
+         Viktoria Köln            v SV Meppen
+         VfB Stuttgart II         v Hansa Rostock
+         1. FC Saarbrücken        v Preußen Münster
+         TSG 1899 Hoffenheim II   v FC Ingolstadt 04
+         TSV Havelse              v MSV Duisburg
+
+▪ 26. Spieltag
+Wed Mar 3
+  19:00  Würzburger Kickers       v SC Verl
+         Fortuna Düsseldorf       v Alemannia Aachen
+         Preußen Münster          v SV Waldhof Mannheim
+         MSV Duisburg             v SV Wehen Wiesbaden
+         Hansa Rostock            v Rot-Weiss Essen
+         FC Ingolstadt 04         v Viktoria Köln
+         Jahn Regensburg          v VfB Stuttgart II
+         Fortuna Köln             v TSV Havelse
+         SV Meppen                v TSG 1899 Hoffenheim II
+         SG Sonnenhof Großaspach  v 1. FC Saarbrücken
+
+▪ 27. Spieltag
+Sat Mar 6
+  14:00  Rot-Weiss Essen          v Preußen Münster
+         Hansa Rostock            v Würzburger Kickers
+         SC Verl                  v Fortuna Düsseldorf
+         SV Wehen Wiesbaden       v FC Ingolstadt 04
+         SV Waldhof Mannheim      v SG Sonnenhof Großaspach
+         Viktoria Köln            v Alemannia Aachen
+         VfB Stuttgart II         v SV Meppen
+         1. FC Saarbrücken        v Fortuna Köln
+         TSG 1899 Hoffenheim II   v MSV Duisburg
+         TSV Havelse              v Jahn Regensburg
+
+▪ 28. Spieltag
+Sat Mar 13
+  14:00  Jahn Regensburg          v SC Verl
+         Fortuna Düsseldorf       v Preußen Münster
+         MSV Duisburg             v 1. FC Saarbrücken
+         Alemannia Aachen         v SV Wehen Wiesbaden
+         FC Ingolstadt 04         v SV Waldhof Mannheim
+         TSG 1899 Hoffenheim II   v VfB Stuttgart II
+         Fortuna Köln             v Rot-Weiss Essen
+         SV Meppen                v Hansa Rostock
+         SG Sonnenhof Großaspach  v Viktoria Köln
+         Würzburger Kickers       v TSV Havelse
+
+▪ 29. Spieltag
+Wed Mar 17
+  19:00  SV Wehen Wiesbaden       v Jahn Regensburg
+         Preußen Münster          v SG Sonnenhof Großaspach
+         Rot-Weiss Essen          v FC Ingolstadt 04
+         Hansa Rostock            v Alemannia Aachen
+         SC Verl                  v TSG 1899 Hoffenheim II
+         SV Waldhof Mannheim      v Würzburger Kickers
+         Viktoria Köln            v MSV Duisburg
+         VfB Stuttgart II         v Fortuna Köln
+         1. FC Saarbrücken        v Fortuna Düsseldorf
+         TSV Havelse              v SV Meppen
+
+▪ 30. Spieltag
+Sat Mar 20
+  14:00  Fortuna Düsseldorf       v Hansa Rostock
+         MSV Duisburg             v FC Ingolstadt 04
+         Alemannia Aachen         v VfB Stuttgart II
+         SC Verl                  v Viktoria Köln
+         1. FC Saarbrücken        v TSV Havelse
+         TSG 1899 Hoffenheim II   v SV Waldhof Mannheim
+         Fortuna Köln             v Preußen Münster
+         SG Sonnenhof Großaspach  v SV Wehen Wiesbaden
+         Würzburger Kickers       v SV Meppen
+         Jahn Regensburg          v Rot-Weiss Essen
+
+▪ 31. Spieltag
+Sat Apr 3
+  14:00  FC Ingolstadt 04         v TSV Havelse
+         Preußen Münster          v Alemannia Aachen
+         Rot-Weiss Essen          v SG Sonnenhof Großaspach
+         Hansa Rostock            v Jahn Regensburg
+         SV Wehen Wiesbaden       v SC Verl
+         SV Waldhof Mannheim      v 1. FC Saarbrücken
+         Viktoria Köln            v TSG 1899 Hoffenheim II
+         VfB Stuttgart II         v MSV Duisburg
+         SV Meppen                v Fortuna Düsseldorf
+         Würzburger Kickers       v Fortuna Köln
+
+▪ 32. Spieltag
+Sat Apr 10
+  14:00  Fortuna Düsseldorf       v FC Ingolstadt 04
+         MSV Duisburg             v Preußen Münster
+         Alemannia Aachen         v Rot-Weiss Essen
+         SC Verl                  v VfB Stuttgart II
+         Jahn Regensburg          v SV Meppen
+         1. FC Saarbrücken        v Viktoria Köln
+         TSG 1899 Hoffenheim II   v Würzburger Kickers
+         TSV Havelse              v SV Wehen Wiesbaden
+         Fortuna Köln             v SV Waldhof Mannheim
+         SG Sonnenhof Großaspach  v Hansa Rostock
+
+▪ 33. Spieltag
+Sat Apr 17
+  14:00  Rot-Weiss Essen          v SC Verl
+         Preußen Münster          v TSG 1899 Hoffenheim II
+         Hansa Rostock            v MSV Duisburg
+         SV Wehen Wiesbaden       v 1. FC Saarbrücken
+         SV Waldhof Mannheim      v Alemannia Aachen
+         Viktoria Köln            v TSV Havelse
+         FC Ingolstadt 04         v VfB Stuttgart II
+         SV Meppen                v Fortuna Köln
+         SG Sonnenhof Großaspach  v Fortuna Düsseldorf
+         Würzburger Kickers       v Jahn Regensburg
+
+▪ 34. Spieltag
+Sat Apr 24
+  14:00  SC Verl                  v Preußen Münster
+         Fortuna Düsseldorf       v Würzburger Kickers
+         MSV Duisburg             v SG Sonnenhof Großaspach
+         Alemannia Aachen         v 1. FC Saarbrücken
+         Jahn Regensburg          v FC Ingolstadt 04
+         VfB Stuttgart II         v SV Waldhof Mannheim
+         TSG 1899 Hoffenheim II   v Rot-Weiss Essen
+         TSV Havelse              v Hansa Rostock
+         Fortuna Köln             v Viktoria Köln
+         SV Meppen                v SV Wehen Wiesbaden
+
+▪ 35. Spieltag
+Wed Apr 28
+  19:00  SV Wehen Wiesbaden       v Fortuna Düsseldorf
+         Preußen Münster          v Jahn Regensburg
+         Rot-Weiss Essen          v SV Meppen
+         Hansa Rostock            v Fortuna Köln
+         SV Waldhof Mannheim      v MSV Duisburg
+         Viktoria Köln            v Würzburger Kickers
+         FC Ingolstadt 04         v SC Verl
+         1. FC Saarbrücken        v TSG 1899 Hoffenheim II
+         TSV Havelse              v Alemannia Aachen
+         SG Sonnenhof Großaspach  v VfB Stuttgart II
+
+▪ 36. Spieltag
+Sat May 8
+  14:00  Fortuna Düsseldorf       v Viktoria Köln
+         MSV Duisburg             v Rot-Weiss Essen
+         Alemannia Aachen         v SG Sonnenhof Großaspach
+         SC Verl                  v Hansa Rostock
+         Jahn Regensburg          v SV Waldhof Mannheim
+         VfB Stuttgart II         v SV Wehen Wiesbaden
+         TSG 1899 Hoffenheim II   v TSV Havelse
+         Fortuna Köln             v FC Ingolstadt 04
+         Würzburger Kickers       v 1. FC Saarbrücken
+         SV Meppen                v Preußen Münster
+
+▪ 37. Spieltag
+Sat May 15
+  14:00  1. FC Saarbrücken        v VfB Stuttgart II
+         Preußen Münster          v Hansa Rostock
+         Rot-Weiss Essen          v Fortuna Düsseldorf
+         Alemannia Aachen         v MSV Duisburg
+         SV Wehen Wiesbaden       v TSG 1899 Hoffenheim II
+         SV Waldhof Mannheim      v Viktoria Köln
+         FC Ingolstadt 04         v SV Meppen
+         TSV Havelse              v SC Verl
+         Fortuna Köln             v Jahn Regensburg
+         SG Sonnenhof Großaspach  v Würzburger Kickers
+
+▪ 38. Spieltag
+Sat May 22
+  13:30  Fortuna Düsseldorf       v TSV Havelse
+         MSV Duisburg             v Fortuna Köln
+         Hansa Rostock            v FC Ingolstadt 04
+         SC Verl                  v 1. FC Saarbrücken
+         Viktoria Köln            v SV Wehen Wiesbaden
+         Jahn Regensburg          v SG Sonnenhof Großaspach
+         VfB Stuttgart II         v Rot-Weiss Essen
+         TSG 1899 Hoffenheim II   v Alemannia Aachen
+         SV Meppen                v SV Waldhof Mannheim
+         Würzburger Kickers       v Preußen Münster

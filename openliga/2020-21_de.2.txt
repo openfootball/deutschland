@@ -1,0 +1,535 @@
+= 2. Fußball-Bundesliga 2020/2021
+
+
+▪ 1. Spieltag
+Fri Sep 18 2020
+  18:30  Hamburger SV             v Fortuna Düsseldorf         2-1 (1-0)  @ Hamburg, Volksparkstadion
+         Jahn Regensburg          v 1. FC Nürnberg             1-1 (0-1)
+Sat Sep 19
+  13:00  Hannover 96              v Karlsruher SC              2-0 (1-0)
+         SV Sandhausen            v SV Darmstadt 98            3-2 (2-1)
+         Würzburger Kickers       v Erzgebirge Aue             0-3 (0-0)
+Sun Sep 20
+  13:30  1. FC Heidenheim 1846    v Eintracht Braunschweig     2-0 (1-0)
+         SpVgg Greuther Fürth     v VfL Osnabrück              1-1 (1-1)
+         Holstein Kiel            v SC Paderborn 07            1-0 (0-0)
+Mon Sep 21
+  20:30  VfL Bochum               v FC St. Pauli               2-2 (1-0)
+
+▪ 2. Spieltag
+Fri Sep 25
+  18:30  Erzgebirge Aue           v SpVgg Greuther Fürth       1-1 (1-1)  @ Erzgebirgsstadion, Aue-Bad Schlema,  Att: 1000
+         VfL Osnabrück            v Hannover 96                2-1 (0-0)  @ Bremer Brücke, Osnabrück,  Att: 1000
+Sat Sep 26
+  13:00  Fortuna Düsseldorf       v Würzburger Kickers         1-0 (0-0)  @ Merkur Spiel-Arena, Düsseldorf,  Att: 6000
+         SV Darmstadt 98          v Jahn Regensburg            0-0 (0-0)  @ Merck-Stadion am Böllenfalltor, Darmstadt,  Att: 1741
+         Eintracht Braunschweig   v Holstein Kiel              0-0 (0-0)  @ Eintracht-Stadion, Braunschweig,  Att: 3000
+Sun Sep 27
+  13:30  FC St. Pauli             v 1. FC Heidenheim 1846      4-2 (2-0)  @ Millerntor-Stadion, Hamburg,  Att: 2622
+         Karlsruher SC            v VfL Bochum                 0-1 (0-1)  @ Wildparkstadion, Karlsruhe,  Att: 1800
+         1. FC Nürnberg           v SV Sandhausen              1-0 (0-0)  @ Max-Morlock-Stadion, Nürnberg,  Att: 10000
+Mon Sep 28
+  20:30  SC Paderborn 07          v Hamburger SV               3-4 (3-2)
+
+▪ 3. Spieltag
+Fri Oct 2
+  18:30  VfL Bochum               v VfL Osnabrück              0-0 (0-0)
+         SV Sandhausen            v FC St. Pauli               1-0 (1-0)
+Sat Oct 3
+  13:00  1. FC Heidenheim 1846    v SC Paderborn 07            0-0 (0-0)
+         Hannover 96              v Eintracht Braunschweig     4-1 (0-0)  @ HDI Arena, Hannover,  Att: 10000
+         Jahn Regensburg          v Karlsruher SC              1-0 (1-0)
+Sun Oct 4
+  13:30  Hamburger SV             v Erzgebirge Aue             3-0 (1-0)  @ Volksparkstadion, Hamburg,  Att: 1000
+         Holstein Kiel            v Fortuna Düsseldorf         2-1 (1-0)
+         Würzburger Kickers       v SpVgg Greuther Fürth       2-2 (1-1)
+Mon Oct 5
+  20:30  1. FC Nürnberg           v SV Darmstadt 98            2-3 (1-0)
+
+▪ 4. Spieltag
+Sat Oct 17
+  13:00  SpVgg Greuther Fürth     v Hamburger SV               0-1 (0-1)
+         Karlsruher SC            v SV Sandhausen              3-0 (2-0)
+         Eintracht Braunschweig   v VfL Bochum                 2-1 (1-1)
+Sun Oct 18
+  13:30  Fortuna Düsseldorf       v Jahn Regensburg            2-2 (0-2)
+         SC Paderborn 07          v Hannover 96                1-0 (1-0)
+         Erzgebirge Aue           v 1. FC Heidenheim 1846      2-1 (0-0)
+         VfL Osnabrück            v SV Darmstadt 98            1-1 (0-1)
+         Würzburger Kickers       v Holstein Kiel              0-2 (0-1)
+Mon Oct 19
+  20:30  FC St. Pauli             v 1. FC Nürnberg             2-2 (1-1)
+
+▪ 5. Spieltag
+Fri Oct 23
+  18:30  Jahn Regensburg          v Eintracht Braunschweig     3-0 (1-0)
+         1. FC Nürnberg           v Karlsruher SC              1-1 (1-0)
+Sat Oct 24
+  13:00  Hamburger SV             v Würzburger Kickers         3-1 (0-1)
+         SV Darmstadt 98          v FC St. Pauli               2-2 (1-0)
+         Hannover 96              v Fortuna Düsseldorf         3-0 (0-0)  @ HDI-Arena, Hannover,  Att: 8500
+         Holstein Kiel            v SpVgg Greuther Fürth       1-3 (0-2)
+Sun Oct 25
+  13:30  1. FC Heidenheim 1846    v VfL Osnabrück              1-1 (0-0)
+         VfL Bochum               v Erzgebirge Aue             2-0 (0-0)
+         SV Sandhausen            v SC Paderborn 07            1-1 (1-1)
+
+▪ 6. Spieltag
+Fri Oct 30
+  18:30  Fortuna Düsseldorf       v 1. FC Heidenheim 1846      1-0 (1-0)
+         Hamburger SV             v FC St. Pauli               2-2 (1-1)
+Sat Oct 31
+  13:00  SC Paderborn 07          v Jahn Regensburg            3-1 (1-1)
+         Erzgebirge Aue           v Holstein Kiel              1-1 (1-1)
+         VfL Osnabrück            v SV Sandhausen              2-1 (2-0)
+         Eintracht Braunschweig   v 1. FC Nürnberg             3-2 (1-2)
+Sun Nov 1
+  13:30  SpVgg Greuther Fürth     v Hannover 96                4-1 (2-0)
+         Karlsruher SC            v SV Darmstadt 98            3-4 (2-1)
+         Würzburger Kickers       v VfL Bochum                 2-3 (2-2)
+
+▪ 7. Spieltag
+Fri Nov 6
+  18:30  1. FC Heidenheim 1846    v Würzburger Kickers         4-1 (1-0)
+         SV Sandhausen            v Eintracht Braunschweig     2-2 (2-0)
+Sat Nov 7
+  13:00  Hannover 96              v Erzgebirge Aue             0-0 (0-0)
+         VfL Bochum               v SpVgg Greuther Fürth       0-2 (0-2)
+         1. FC Nürnberg           v Fortuna Düsseldorf         1-1 (1-1)
+Sun Nov 8
+  13:30  SV Darmstadt 98          v SC Paderborn 07            0-4 (0-3)
+         Jahn Regensburg          v VfL Osnabrück              2-4 (1-2)
+         FC St. Pauli             v Karlsruher SC              0-3 (0-1)
+Mon Nov 9
+  20:30  Holstein Kiel            v Hamburger SV               1-1 (0-1)
+
+▪ 8. Spieltag
+Sat Nov 21
+  13:00  Fortuna Düsseldorf       v SV Sandhausen              1-0 (0-0)
+         SC Paderborn 07          v FC St. Pauli               2-0 (1-0)
+         Holstein Kiel            v 1. FC Heidenheim 1846      2-2 (1-0)
+         Eintracht Braunschweig   v Karlsruher SC              1-3 (1-2)
+Sun Nov 22
+  13:30  Hamburger SV             v VfL Bochum                 1-3 (0-1)
+         Erzgebirge Aue           v SV Darmstadt 98            3-0 (1-0)
+         SpVgg Greuther Fürth     v Jahn Regensburg            3-1 (1-1)
+         Würzburger Kickers       v Hannover 96                2-1 (0-1)
+Mon Nov 23
+  20:30  VfL Osnabrück            v 1. FC Nürnberg             1-4 (0-3)
+
+▪ 9. Spieltag
+Fri Nov 27
+  18:30  FC St. Pauli             v VfL Osnabrück              0-1 (0-0)
+         SV Darmstadt 98          v Eintracht Braunschweig     4-0 (0-0)
+Sat Nov 28
+  13:00  Jahn Regensburg          v Würzburger Kickers         2-0 (0-0)
+         SV Sandhausen            v Erzgebirge Aue             1-4 (0-0)
+         Karlsruher SC            v SC Paderborn 07            1-0 (0-0)
+Sun Nov 29
+  13:30  1. FC Heidenheim 1846    v Hamburger SV               3-2 (2-2)
+         1. FC Nürnberg           v SpVgg Greuther Fürth       2-3 (1-2)
+         Hannover 96              v Holstein Kiel              0-3 (0-0)
+Mon Nov 30
+  20:30  VfL Bochum               v Fortuna Düsseldorf         5-0 (1-0)
+
+▪ 10. Spieltag
+Fri Dec 4
+  18:30  Fortuna Düsseldorf       v SV Darmstadt 98            3-2 (0-0)
+         Holstein Kiel            v VfL Bochum                 3-1 (1-1)
+Sat Dec 5
+  13:00  Eintracht Braunschweig   v FC St. Pauli               2-1 (0-1)
+         Hamburger SV             v Hannover 96                0-1 (0-1)
+         VfL Osnabrück            v Karlsruher SC              1-2 (1-0)
+         SpVgg Greuther Fürth     v 1. FC Heidenheim 1846      0-1 (0-0)
+Sun Dec 6
+  13:30  Würzburger Kickers       v SV Sandhausen              2-3 (1-1)
+         Erzgebirge Aue           v Jahn Regensburg            0-2 (0-1)
+         SC Paderborn 07          v 1. FC Nürnberg             0-2 (0-1)
+
+▪ 11. Spieltag
+Fri Dec 11
+  18:30  VfL Bochum               v SC Paderborn 07            3-0 (0-0)
+         SV Sandhausen            v SpVgg Greuther Fürth       0-3 (0-2)
+Sat Dec 12
+  13:00  SV Darmstadt 98          v Hamburger SV               1-2 (0-0)
+         1. FC Heidenheim 1846    v Hannover 96                1-0 (1-0)
+         Jahn Regensburg          v Holstein Kiel              2-3 (1-2)
+Sun Dec 13
+  13:30  Karlsruher SC            v Fortuna Düsseldorf         1-2 (0-1)
+         Eintracht Braunschweig   v VfL Osnabrück              0-2 (0-1)
+         1. FC Nürnberg           v Würzburger Kickers         2-1 (1-0)
+         FC St. Pauli             v Erzgebirge Aue             2-2 (0-1)
+
+▪ 12. Spieltag
+Tue Dec 15
+  18:30  SpVgg Greuther Fürth     v SV Darmstadt 98            0-4 (0-2)
+         Hamburger SV             v SV Sandhausen              4-0 (1-0)
+         1. FC Heidenheim 1846    v Jahn Regensburg            0-0 (0-0)
+         Hannover 96              v VfL Bochum                 2-0 (1-0)
+Wed Dec 16
+  18:30  Holstein Kiel            v 1. FC Nürnberg             1-0 (0-0)
+         SC Paderborn 07          v Eintracht Braunschweig     2-2 (2-1)
+         Fortuna Düsseldorf       v VfL Osnabrück              3-0 (1-0)
+Thu Dec 17
+  20:30  Erzgebirge Aue           v Karlsruher SC              4-1 (2-0)
+
+▪ 13. Spieltag
+Fri Dec 18
+  18:30  VfL Bochum               v 1. FC Heidenheim 1846      3-0 (2-0)
+         Jahn Regensburg          v Hannover 96                0-0 (0-0)
+Sat Dec 19
+  13:00  SV Darmstadt 98          v Würzburger Kickers         2-0 (0-0)
+         Eintracht Braunschweig   v SpVgg Greuther Fürth       0-3 (0-0)
+         VfL Osnabrück            v SC Paderborn 07            0-1 (0-0)
+Sun Dec 20
+  13:30  FC St. Pauli             v Fortuna Düsseldorf         0-3 (0-1)
+         1. FC Nürnberg           v Erzgebirge Aue             1-0 (1-0)
+         SV Sandhausen            v Holstein Kiel              0-2 (0-0)
+Mon Dec 21
+  20:30  Karlsruher SC            v Hamburger SV               1-2 (1-1)
+
+▪ 14. Spieltag
+Sat Jan 2 2021
+  13:00  Würzburger Kickers       v Karlsruher SC              2-4 (1-3)
+         VfL Bochum               v SV Darmstadt 98            2-1 (0-0)
+         1. FC Heidenheim 1846    v 1. FC Nürnberg             2-0 (1-0)
+Sun Jan 3
+  13:30  SpVgg Greuther Fürth     v FC St. Pauli               2-1 (2-0)
+         Holstein Kiel            v VfL Osnabrück              1-2 (0-2)
+         Hamburger SV             v Jahn Regensburg            3-1 (2-1)
+         Hannover 96              v SV Sandhausen              4-0 (1-0)
+         Erzgebirge Aue           v Eintracht Braunschweig     3-1 (1-1)
+Mon Jan 4
+  20:30  Fortuna Düsseldorf       v SC Paderborn 07            2-1 (1-0)
+
+▪ 12. Spieltag
+Wed Jan 6
+  18:30  Würzburger Kickers       v FC St. Pauli               1-1 (1-0)
+
+▪ 15. Spieltag
+Fri Jan 8
+  18:30  Karlsruher SC            v SpVgg Greuther Fürth       3-2 (2-2)
+         SV Sandhausen            v 1. FC Heidenheim 1846      4-0 (2-0)
+Sat Jan 9
+  13:00  1. FC Nürnberg           v Hamburger SV               1-1 (1-1)
+         VfL Osnabrück            v Würzburger Kickers         2-3 (1-0)
+         FC St. Pauli             v Holstein Kiel              1-1 (0-0)
+Sun Jan 10
+  13:30  SV Darmstadt 98          v Hannover 96                1-2 (0-1)
+         SC Paderborn 07          v Erzgebirge Aue             2-1 (1-1)
+         Jahn Regensburg          v VfL Bochum                 0-2 (0-0)
+Mon Jan 11
+  20:30  Eintracht Braunschweig   v Fortuna Düsseldorf         0-0 (0-0)
+
+▪ 16. Spieltag
+Fri Jan 15
+  18:30  Würzburger Kickers       v Eintracht Braunschweig     0-0 (0-0)
+         SpVgg Greuther Fürth     v SC Paderborn 07            1-1 (1-1)
+Sat Jan 16
+  13:00  VfL Bochum               v 1. FC Nürnberg             3-1 (1-1)
+         Erzgebirge Aue           v Fortuna Düsseldorf         0-3 (0-1)
+         Hannover 96              v FC St. Pauli               2-3 (0-2)
+Sun Jan 17
+  13:30  Jahn Regensburg          v SV Sandhausen              3-1 (0-1)
+         Holstein Kiel            v Karlsruher SC              2-3 (0-2)
+         1. FC Heidenheim 1846    v SV Darmstadt 98            3-0 (0-0)
+Mon Jan 18
+  20:30  Hamburger SV             v VfL Osnabrück              5-0 (2-0)
+
+▪ 17. Spieltag
+Fri Jan 22
+  18:30  Fortuna Düsseldorf       v SpVgg Greuther Fürth       3-3 (1-2)
+         VfL Osnabrück            v Erzgebirge Aue             0-1 (0-1)
+Sat Jan 23
+  13:00  Eintracht Braunschweig   v Hamburger SV               2-4 (2-1)
+         Karlsruher SC            v 1. FC Heidenheim 1846      1-1 (1-0)
+         SC Paderborn 07          v Würzburger Kickers         1-0 (1-0)
+Sun Jan 24
+  13:30  SV Darmstadt 98          v Holstein Kiel              0-2 (0-1)
+         SV Sandhausen            v VfL Bochum                 1-1 (1-0)
+         FC St. Pauli             v Jahn Regensburg            2-0 (1-0)
+         1. FC Nürnberg           v Hannover 96                2-5 (1-2)
+
+▪ 18. Spieltag
+Tue Jan 26
+  18:30  Erzgebirge Aue           v Würzburger Kickers         2-1 (0-0)
+  20:30  Fortuna Düsseldorf       v Hamburger SV               0-0 (0-0)
+         Eintracht Braunschweig   v 1. FC Heidenheim 1846      1-0 (1-0)
+         VfL Osnabrück            v SpVgg Greuther Fürth       0-1 (0-1)
+Wed Jan 27
+  18:30  SV Darmstadt 98          v SV Sandhausen              2-1 (1-1)
+  20:30  SC Paderborn 07          v Holstein Kiel              1-1 (1-1)
+         1. FC Nürnberg           v Jahn Regensburg            0-1 (0-0)
+         Karlsruher SC            v Hannover 96                1-0 (0-0)
+Thu Jan 28
+  20:30  FC St. Pauli             v VfL Bochum                 2-3 (2-2)
+
+▪ 19. Spieltag
+Fri Jan 29
+  18:30  Würzburger Kickers       v Fortuna Düsseldorf         2-1 (1-1)
+         SpVgg Greuther Fürth     v Erzgebirge Aue             3-0 (2-0)
+Sat Jan 30
+  13:00  Hamburger SV             v SC Paderborn 07            3-1 (2-1)
+         Jahn Regensburg          v SV Darmstadt 98            1-1 (0-1)
+         Holstein Kiel            v Eintracht Braunschweig     3-1 (3-0)
+Sun Jan 31
+  13:30  1. FC Heidenheim 1846    v FC St. Pauli               3-4 (1-2)
+         VfL Bochum               v Karlsruher SC              1-2 (0-1)
+         SV Sandhausen            v 1. FC Nürnberg             2-0 (1-0)
+Mon Feb 1
+  20:30  Hannover 96              v VfL Osnabrück              1-0 (0-0)
+
+▪ 20. Spieltag
+Fri Feb 5
+  18:30  FC St. Pauli             v SV Sandhausen              2-1 (0-0)
+         Erzgebirge Aue           v Hamburger SV               3-3 (1-3)
+Sat Feb 6
+  13:00  Eintracht Braunschweig   v Hannover 96                1-2 (1-2)
+         SV Darmstadt 98          v 1. FC Nürnberg             1-2 (0-0)
+         VfL Osnabrück            v VfL Bochum                 1-2 (0-2)
+Sun Feb 7
+  13:30  Karlsruher SC            v Jahn Regensburg            0-0 (0-0)
+         SpVgg Greuther Fürth     v Würzburger Kickers         4-1 (1-1)
+Mon Feb 8
+  20:30  Fortuna Düsseldorf       v Holstein Kiel              0-2 (0-1)
+
+▪ 21. Spieltag
+Fri Feb 12
+  18:30  Hannover 96              v SC Paderborn 07            0-0 (0-0)
+         Holstein Kiel            v Würzburger Kickers         1-0 (0-0)
+Sat Feb 13
+  13:00  Hamburger SV             v SpVgg Greuther Fürth       0-0 (0-0)
+         SV Sandhausen            v Karlsruher SC              2-3 (2-0)
+         1. FC Heidenheim 1846    v Erzgebirge Aue             2-0 (1-0)
+         Jahn Regensburg          v Fortuna Düsseldorf         1-1 (1-0)
+Sun Feb 14
+  13:30  SV Darmstadt 98          v VfL Osnabrück              1-0 (1-0)
+         VfL Bochum               v Eintracht Braunschweig     2-0 (2-0)
+         1. FC Nürnberg           v FC St. Pauli               1-2 (0-1)
+
+▪ 22. Spieltag
+Fri Feb 19
+  18:30  Eintracht Braunschweig   v Jahn Regensburg            2-0 (0-0)
+         Erzgebirge Aue           v VfL Bochum                 1-0 (1-0)
+Sat Feb 20
+  13:00  SC Paderborn 07          v SV Sandhausen              2-1 (1-1)
+         FC St. Pauli             v SV Darmstadt 98            3-2 (1-0)
+         VfL Osnabrück            v 1. FC Heidenheim 1846      1-2 (0-1)
+Sun Feb 21
+  13:30  Würzburger Kickers       v Hamburger SV               3-2 (2-0)
+         Fortuna Düsseldorf       v Hannover 96                3-2 (1-1)
+         Karlsruher SC            v 1. FC Nürnberg             0-1 (0-0)
+Mon Feb 22
+  20:30  SpVgg Greuther Fürth     v Holstein Kiel              2-1 (1-1)
+
+▪ 20. Spieltag
+Tue Feb 23
+  18:30  SC Paderborn 07          v 1. FC Heidenheim 1846      2-2 (1-1)
+
+▪ 23. Spieltag
+Fri Feb 26
+  18:30  Jahn Regensburg          v SC Paderborn 07            1-0 (0-0)
+         SV Darmstadt 98          v Karlsruher SC              0-1 (0-0)
+Sat Feb 27
+  13:00  Holstein Kiel            v Erzgebirge Aue             1-0 (0-0)
+         VfL Bochum               v Würzburger Kickers         3-0 (1-0)
+         Hannover 96              v SpVgg Greuther Fürth       2-2 (1-0)
+Sun Feb 28
+  13:30  SV Sandhausen            v VfL Osnabrück              3-0 (1-0)
+         1. FC Nürnberg           v Eintracht Braunschweig     0-0 (0-0)
+         1. FC Heidenheim 1846    v Fortuna Düsseldorf         3-2 (1-0)
+Mon Mar 1
+  20:30  FC St. Pauli             v Hamburger SV               1-0 (0-0)
+
+▪ 24. Spieltag
+Fri Mar 5
+  18:30  Würzburger Kickers       v 1. FC Heidenheim 1846      1-2 (0-0)
+         SC Paderborn 07          v SV Darmstadt 98            2-3 (1-1)
+Sat Mar 6
+  13:00  Karlsruher SC            v FC St. Pauli               0-0 (0-0)
+         Erzgebirge Aue           v Hannover 96                1-1 (0-1)
+         SpVgg Greuther Fürth     v VfL Bochum                 1-2 (1-1)
+Sun Mar 7
+  13:30  Fortuna Düsseldorf       v 1. FC Nürnberg             3-1 (0-0)
+         Eintracht Braunschweig   v SV Sandhausen              1-0 (0-0)
+Mon Mar 8
+  20:30  Hamburger SV             v Holstein Kiel              1-1 (1-1)
+
+▪ 25. Spieltag
+Fri Mar 12
+  18:30  VfL Bochum               v Hamburger SV               0-2 (0-1)
+Sat Mar 13
+  13:00  SV Darmstadt 98          v Erzgebirge Aue             4-1 (2-0)
+         SV Sandhausen            v Fortuna Düsseldorf         0-0 (0-0)
+Sun Mar 14
+  13:30  1. FC Nürnberg           v VfL Osnabrück              1-1 (0-0)
+         Karlsruher SC            v Eintracht Braunschweig     0-0 (0-0)
+Mon Mar 15
+  20:30  FC St. Pauli             v SC Paderborn 07            0-2 (0-1)
+Wed Mar 17
+  18:30  Jahn Regensburg          v SpVgg Greuther Fürth       1-2 (0-1)
+
+▪ 26. Spieltag
+Fri Mar 19
+  18:30  SC Paderborn 07          v Karlsruher SC              2-2 (0-1)
+Sat Mar 20
+  13:00  Hamburger SV             v 1. FC Heidenheim 1846      2-0 (1-0)
+         Erzgebirge Aue           v SV Sandhausen              2-0 (0-0)
+         Eintracht Braunschweig   v SV Darmstadt 98            1-1 (1-1)
+Sun Mar 21
+  13:30  VfL Osnabrück            v FC St. Pauli               1-2 (0-0)
+         SpVgg Greuther Fürth     v 1. FC Nürnberg             2-2 (1-0)
+         Würzburger Kickers       v Jahn Regensburg            1-1 (1-0)
+Mon Mar 22
+  20:30  Fortuna Düsseldorf       v VfL Bochum                 0-3 (0-2)
+
+▪ 27. Spieltag
+Sat Apr 3
+  13:00  Karlsruher SC            v VfL Osnabrück              0-1 (0-0)
+         VfL Bochum               v Holstein Kiel              2-1 (1-0)
+         1. FC Heidenheim 1846    v SpVgg Greuther Fürth       0-1 (0-0)
+Sun Apr 4
+  13:30  SV Darmstadt 98          v Fortuna Düsseldorf         1-2 (1-1)
+         Hannover 96              v Hamburger SV               3-3 (0-2)
+         1. FC Nürnberg           v SC Paderborn 07            2-1 (1-1)
+         SV Sandhausen            v Würzburger Kickers         1-0 (1-0)
+         Jahn Regensburg          v Erzgebirge Aue             1-1 (1-0)
+Mon Apr 5
+  20:30  FC St. Pauli             v Eintracht Braunschweig     2-0 (2-0)
+
+▪ 25. Spieltag
+Tue Apr 6
+  18:30  1. FC Heidenheim 1846    v Holstein Kiel              1-0 (1-0)
+Thu Apr 8
+  18:30  Hannover 96              v Würzburger Kickers         1-2 (0-0)
+
+▪ 28. Spieltag
+Fri Apr 9
+  18:30  Hamburger SV             v SV Darmstadt 98            1-2 (0-0)
+Sat Apr 10
+  13:00  SC Paderborn 07          v VfL Bochum                 3-0 (2-0)
+         Erzgebirge Aue           v FC St. Pauli               1-3 (0-1)
+Sun Apr 11
+  13:30  Hannover 96              v 1. FC Heidenheim 1846      1-3 (0-1)
+         VfL Osnabrück            v Eintracht Braunschweig     0-4 (0-1)
+         Würzburger Kickers       v 1. FC Nürnberg             1-1 (0-1)
+
+▪ 24. Spieltag
+Wed Apr 14
+  18:30  VfL Osnabrück            v Jahn Regensburg            0-1 (0-1)
+
+▪ 29. Spieltag
+Fri Apr 16
+  18:30  SV Darmstadt 98          v SpVgg Greuther Fürth       2-2 (2-0)
+         Eintracht Braunschweig   v SC Paderborn 07            0-0 (0-0)
+Sat Apr 17
+  13:00  FC St. Pauli             v Würzburger Kickers         4-0 (3-0)
+Sun Apr 18
+  13:30  VfL Bochum               v Hannover 96                4-3 (2-1)
+         Jahn Regensburg          v 1. FC Heidenheim 1846      0-3 (0-2)
+         VfL Osnabrück            v Fortuna Düsseldorf         0-3 (0-1)
+
+▪ 30. Spieltag
+Tue Apr 20
+  18:30  Erzgebirge Aue           v 1. FC Nürnberg             0-1 (0-0)
+         SpVgg Greuther Fürth     v Eintracht Braunschweig     3-0 (3-0)
+         Würzburger Kickers       v SV Darmstadt 98            1-3 (1-1)
+Wed Apr 21
+  18:30  Fortuna Düsseldorf       v FC St. Pauli               2-0 (1-0)
+         SC Paderborn 07          v VfL Osnabrück              2-2 (1-1)
+         1. FC Heidenheim 1846    v VfL Bochum                 0-2 (0-1)
+         Hannover 96              v Jahn Regensburg            3-1 (2-0)
+
+▪ 29. Spieltag
+Thu Apr 22
+  20:30  SV Sandhausen            v Hamburger SV               2-1 (0-0)
+
+▪ 31. Spieltag
+Fri Apr 23
+  18:30  Karlsruher SC            v Würzburger Kickers         2-2 (2-1)
+         Eintracht Braunschweig   v Erzgebirge Aue             0-2 (0-0)
+Sat Apr 24
+  13:00  SC Paderborn 07          v Fortuna Düsseldorf         2-1 (0-0)
+         VfL Osnabrück            v Holstein Kiel              1-3 (0-3)
+         1. FC Nürnberg           v 1. FC Heidenheim 1846      3-1 (2-1)
+Sun Apr 25
+  13:30  SV Sandhausen            v Hannover 96                4-2 (1-1)
+         Jahn Regensburg          v Hamburger SV               1-1 (1-0)
+         FC St. Pauli             v SpVgg Greuther Fürth       2-1 (1-0)
+
+▪ 29. Spieltag
+Mon Apr 26
+  18:00  Karlsruher SC            v Erzgebirge Aue             0-0 (0-0)
+
+▪ 31. Spieltag
+Mon Apr 26
+  20:30  SV Darmstadt 98          v VfL Bochum                 3-1 (0-0)
+
+▪ 29. Spieltag
+Tue Apr 27
+  18:30  1. FC Nürnberg           v Holstein Kiel              1-1 (1-0)
+
+▪ 28. Spieltag
+Wed Apr 28
+  18:30  SpVgg Greuther Fürth     v SV Sandhausen              3-2 (1-1)
+
+▪ 30. Spieltag
+Thu Apr 29
+  18:30  Hamburger SV             v Karlsruher SC              1-1 (0-0)
+
+▪ 28. Spieltag
+Mon May 3
+  20:30  Fortuna Düsseldorf       v Karlsruher SC              3-2 (1-1)
+
+▪ 30. Spieltag
+Tue May 4
+  18:30  Holstein Kiel            v SV Sandhausen              2-0 (1-0)
+
+▪ 32. Spieltag
+Fri May 7
+  18:30  Hannover 96              v SV Darmstadt 98            1-2 (0-0)
+         Holstein Kiel            v FC St. Pauli               4-0 (2-0)
+Sat May 8
+  13:00  Fortuna Düsseldorf       v Eintracht Braunschweig     2-2 (1-0)
+         SpVgg Greuther Fürth     v Karlsruher SC              2-2 (1-2)
+         Würzburger Kickers       v VfL Osnabrück              1-3 (0-0)
+Sun May 9
+  13:30  1. FC Heidenheim 1846    v SV Sandhausen              2-1 (0-1)
+         Erzgebirge Aue           v SC Paderborn 07            3-8 (2-4)
+         VfL Bochum               v Jahn Regensburg            5-1 (2-1)
+
+▪ 26. Spieltag
+Mon May 10
+  18:00  Holstein Kiel            v Hannover 96                1-0 (1-0)
+
+▪ 32. Spieltag
+Mon May 10
+  20:30  Hamburger SV             v 1. FC Nürnberg             5-2 (3-1)
+
+▪ 28. Spieltag
+Thu May 13
+  15:30  Holstein Kiel            v Jahn Regensburg            3-2 (1-1)
+
+▪ 33. Spieltag
+Sun May 16
+  15:30  Fortuna Düsseldorf       v Erzgebirge Aue             3-0 (2-0)
+         SC Paderborn 07          v SpVgg Greuther Fürth       2-4 (2-2)
+         SV Darmstadt 98          v 1. FC Heidenheim 1846      5-1 (2-1)
+         SV Sandhausen            v Jahn Regensburg            2-0 (2-0)
+         VfL Osnabrück            v Hamburger SV               3-2 (1-1)
+         FC St. Pauli             v Hannover 96                1-2 (0-1)
+         Karlsruher SC            v Holstein Kiel              3-2 (0-1)
+         1. FC Nürnberg           v VfL Bochum                 1-1 (1-0)
+         Eintracht Braunschweig   v Würzburger Kickers         1-2 (0-2)
+
+▪ 34. Spieltag
+Sun May 23
+  15:30  1. FC Heidenheim 1846    v Karlsruher SC              1-2 (0-1)
+         Hamburger SV             v Eintracht Braunschweig     4-0 (3-0)
+         Hannover 96              v 1. FC Nürnberg             1-2 (1-1)
+         Erzgebirge Aue           v VfL Osnabrück              2-1 (0-1)
+         VfL Bochum               v SV Sandhausen              3-1 (1-0)
+         SpVgg Greuther Fürth     v Fortuna Düsseldorf         3-2 (0-1)
+         Holstein Kiel            v SV Darmstadt 98            2-3 (1-0)
+         Jahn Regensburg          v FC St. Pauli               3-0 (2-0)
+         Würzburger Kickers       v SC Paderborn 07            1-1 (0-1)

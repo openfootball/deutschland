@@ -1,0 +1,682 @@
+= 3. Fußball-Liga 2020/2021
+
+
+▪ 1. Spieltag
+Fri Sep 18 2020
+  17:45  1. FC Kaiserslautern     v Dynamo Dresden             0-1 (0-1)
+Sat Sep 19
+  14:00  FC Bayern München II     v Türkgücü München           2-2 (1-1)
+         VfB Lübeck               v 1. FC Saarbrücken          1-1 (1-0)
+         Hansa Rostock            v MSV Duisburg               3-1 (0-1)
+         SV Wehen Wiesbaden       v SC Verl                    0-0 (0-0)
+         SV Meppen                v TSV 1860 München           1-3 (0-1)
+         FSV Zwickau              v SpVgg Unterhaching         2-1 (1-0)
+Sun Sep 20
+  13:00  FC Ingolstadt 04         v KFC Uerdingen 05           2-1 (1-0)
+  14:00  1. FC Magdeburg          v Hallescher FC              0-2 (0-2)
+Mon Sep 21
+  19:00  SV Waldhof Mannheim      v Viktoria Köln              2-2 (2-0)
+
+▪ 2. Spieltag
+Fri Sep 25
+  19:00  SpVgg Unterhaching       v VfB Lübeck                 1-0 (1-0)
+Sat Sep 26
+  14:00  MSV Duisburg             v FSV Zwickau                1-1 (0-0)
+         Viktoria Köln            v SV Wehen Wiesbaden         0-2 (0-1)
+         1. FC Saarbrücken        v Hansa Rostock              2-0 (1-0)
+         SC Verl                  v FC Bayern München II       3-0 (2-0)
+         TSV 1860 München         v 1. FC Magdeburg            1-1 (0-0)
+         Hallescher FC            v FC Ingolstadt 04           0-2 (0-0)
+Sun Sep 27
+  13:00  Dynamo Dresden           v SV Waldhof Mannheim        1-1 (0-1)  @ Rudolf-Harbig-Stadion, Dresden
+  14:00  Türkgücü München         v 1. FC Kaiserslautern       3-0 (2-0)  @ Stadion an der Grünwalder Straße, München
+Mon Sep 28
+  19:00  KFC Uerdingen 05         v SV Meppen                  0-2 (0-1)
+
+▪ 3. Spieltag
+Fri Oct 2
+  19:00  FC Bayern München II     v Dynamo Dresden             3-0 (2-0)
+Sat Oct 3
+  14:00  SV Meppen                v SC Verl                    1-2 (0-2)
+         1. FC Magdeburg          v Viktoria Köln              0-2 (0-2)
+         FSV Zwickau              v TSV 1860 München           1-2 (1-1)
+         FC Ingolstadt 04         v SpVgg Unterhaching         0-1 (0-0)
+         SV Waldhof Mannheim      v Türkgücü München           4-4 (2-2)
+         VfB Lübeck               v MSV Duisburg               1-1 (0-0)
+Sun Oct 4
+  13:00  Hansa Rostock            v KFC Uerdingen 05           0-0 (0-0)
+  14:00  1. FC Saarbrücken        v Hallescher FC              4-0 (2-0)
+Mon Oct 5
+  19:00  SV Wehen Wiesbaden       v 1. FC Kaiserslautern       2-2 (2-0)
+
+▪ 4. Spieltag
+Sat Oct 10
+  14:00  1. FC Kaiserslautern     v SV Waldhof Mannheim        1-1 (0-1)
+         TSV 1860 München         v VfB Lübeck                 4-1 (2-1)
+         KFC Uerdingen 05         v FC Bayern München II       1-1 (0-0)
+         SC Verl                  v Hansa Rostock              2-3 (1-3)
+         Türkgücü München         v SV Wehen Wiesbaden         0-0 (0-0)
+         Dynamo Dresden           v 1. FC Magdeburg            1-0 (0-0)
+Sun Oct 11
+  13:00  SpVgg Unterhaching       v SV Meppen                  2-1 (1-1)
+  14:00  Viktoria Köln            v FC Ingolstadt 04           2-0 (1-0)
+Mon Oct 12
+  19:00  Hallescher FC            v FSV Zwickau                0-2 (0-1)
+
+▪ 5. Spieltag
+Fri Oct 16
+  19:00  1. FC Magdeburg          v Türkgücü München           2-0 (1-0)
+Sat Oct 17
+  14:00  FC Bayern München II     v 1. FC Kaiserslautern       0-0 (0-0)
+         FC Ingolstadt 04         v SC Verl                    2-1 (1-1)
+         Hansa Rostock            v TSV 1860 München           1-1 (0-1)
+         VfB Lübeck               v Dynamo Dresden             0-1 (0-0)
+         SV Wehen Wiesbaden       v SV Waldhof Mannheim        0-1 (0-1)
+         FSV Zwickau              v KFC Uerdingen 05           1-2 (1-2)
+Sun Oct 18
+  13:00  1. FC Saarbrücken        v SpVgg Unterhaching         2-1 (0-0)
+  14:00  SV Meppen                v Viktoria Köln              0-1 (0-0)
+
+▪ 6. Spieltag
+Tue Oct 20
+  19:00  SC Verl                  v 1. FC Magdeburg            3-1 (1-0)
+         Türkgücü München         v VfB Lübeck                 4-3 (2-1)
+         Dynamo Dresden           v FSV Zwickau                1-2 (1-2)
+         SV Waldhof Mannheim      v Hansa Rostock              1-2 (1-1)
+         KFC Uerdingen 05         v SV Wehen Wiesbaden         0-4 (0-3)
+Wed Oct 21
+  19:00  1. FC Kaiserslautern     v FC Ingolstadt 04           1-1 (1-0)
+         Viktoria Köln            v FC Bayern München II       3-2 (0-0)
+         Hallescher FC            v SV Meppen                  4-1 (2-1)
+         TSV 1860 München         v 1. FC Saarbrücken          1-2 (0-2)
+         SpVgg Unterhaching       v MSV Duisburg               0-1 (0-1)
+
+▪ 7. Spieltag
+Sat Oct 24
+  14:00  SV Meppen                v 1. FC Kaiserslautern       3-2 (1-1)
+         FC Ingolstadt 04         v Dynamo Dresden             1-0 (0-0)
+         Hansa Rostock            v Viktoria Köln              5-1 (2-0)
+         VfB Lübeck               v Hallescher FC              2-3 (1-0)
+         1. FC Magdeburg          v SV Wehen Wiesbaden         1-2 (0-0)
+         MSV Duisburg             v KFC Uerdingen 05           0-2 (0-0)
+Sun Oct 25
+  13:00  1. FC Saarbrücken        v SC Verl                    1-2 (0-1)
+  14:00  FC Bayern München II     v SV Waldhof Mannheim        2-0 (1-0)
+Mon Oct 26
+  19:00  SpVgg Unterhaching       v TSV 1860 München           0-2 (0-1)
+
+▪ 8. Spieltag
+Fri Oct 30
+  19:00  Viktoria Köln            v VfB Lübeck                 0-2 (0-2)
+Sat Oct 31
+  14:00  Dynamo Dresden           v SV Meppen                  3-0 (1-0)
+         SV Waldhof Mannheim      v 1. FC Magdeburg            5-2 (2-2)
+         KFC Uerdingen 05         v 1. FC Saarbrücken          1-0 (0-0)
+         TSV 1860 München         v MSV Duisburg               0-2 (0-0)
+Sun Nov 1
+  13:00  SV Wehen Wiesbaden       v FC Bayern München II       2-4 (2-2)
+  14:00  Türkgücü München         v FC Ingolstadt 04           1-1 (1-1)
+Mon Nov 2
+  19:00  1. FC Kaiserslautern     v Hansa Rostock              0-0 (0-0)
+
+▪ 4. Spieltag
+Wed Nov 4
+  19:00  MSV Duisburg             v 1. FC Saarbrücken          2-3 (0-1)
+
+▪ 7. Spieltag
+Wed Nov 4
+  19:00  FSV Zwickau              v Türkgücü München           0-1 (0-0)
+
+▪ 9. Spieltag
+Fri Nov 6
+  19:00  FC Ingolstadt 04         v SV Wehen Wiesbaden         4-1 (3-1)
+Sat Nov 7
+  14:00  1. FC Magdeburg          v FC Bayern München II       2-1 (0-0)
+         FSV Zwickau              v 1. FC Kaiserslautern       1-2 (0-0)
+         1. FC Saarbrücken        v Dynamo Dresden             2-1 (1-1)
+         TSV 1860 München         v Hallescher FC              6-1 (2-0)
+Sun Nov 8
+  14:00  VfB Lübeck               v KFC Uerdingen 05           1-0 (0-0)
+Mon Nov 9
+  19:00  MSV Duisburg             v Viktoria Köln              1-3 (1-1)
+
+▪ 10. Spieltag
+Fri Nov 13
+  19:00  Viktoria Köln            v 1. FC Saarbrücken          0-2 (0-1)
+Sat Nov 14
+  14:00  SV Wehen Wiesbaden       v FSV Zwickau                3-1 (2-1)
+         1. FC Kaiserslautern     v 1. FC Magdeburg            1-1 (0-0)
+         KFC Uerdingen 05         v SpVgg Unterhaching         3-1 (0-0)
+         Hallescher FC            v Hansa Rostock              1-1 (1-0)
+         Türkgücü München         v MSV Duisburg               2-1 (0-0)
+         SV Waldhof Mannheim      v FC Ingolstadt 04           4-1 (2-0)
+Sun Nov 15
+  14:00  Dynamo Dresden           v TSV 1860 München           2-1 (1-1)
+Mon Nov 16
+  19:00  SC Verl                  v VfB Lübeck                 1-2 (0-0)
+
+▪ 5. Spieltag
+Tue Nov 17
+  19:00  MSV Duisburg             v Hallescher FC              0-0 (0-0)
+
+▪ 11. Spieltag
+Fri Nov 20
+  19:00  MSV Duisburg             v SC Verl                    0-4 (0-1)
+Sat Nov 21
+  14:00  TSV 1860 München         v KFC Uerdingen 05           0-0 (0-0)
+         Hallescher FC            v 1. FC Kaiserslautern       1-1 (0-1)
+         1. FC Saarbrücken        v SV Wehen Wiesbaden         3-3 (2-2)
+         Hansa Rostock            v Dynamo Dresden             1-3 (1-3)
+         FSV Zwickau              v SV Waldhof Mannheim        0-0 (0-0)
+Sun Nov 22
+  13:00  VfB Lübeck               v FC Bayern München II       3-0 (0-0)
+  14:00  SpVgg Unterhaching       v Viktoria Köln              2-2 (1-2)
+  15:00  FC Ingolstadt 04         v 1. FC Magdeburg            1-0 (0-0)
+
+▪ 12. Spieltag
+Tue Nov 24
+  19:00  SV Wehen Wiesbaden       v SV Meppen                  1-0 (0-0)
+         KFC Uerdingen 05         v Hallescher FC              0-1 (0-0)
+         SC Verl                  v TSV 1860 München           1-1 (1-1)
+         SV Waldhof Mannheim      v MSV Duisburg               2-2 (1-1)
+         1. FC Magdeburg          v Hansa Rostock              1-1 (1-0)
+Wed Nov 25
+  19:00  FC Bayern München II     v FC Ingolstadt 04           1-3 (1-1)
+         1. FC Kaiserslautern     v VfB Lübeck                 1-0 (0-0)
+         Dynamo Dresden           v SpVgg Unterhaching         2-0 (2-0)
+         Viktoria Köln            v FSV Zwickau                1-1 (0-0)
+         Türkgücü München         v 1. FC Saarbrücken          1-1 (1-0)
+
+▪ 13. Spieltag
+Fri Nov 27
+  19:00  KFC Uerdingen 05         v SC Verl                    1-2 (0-0)
+Sat Nov 28
+  14:00  Hansa Rostock            v FC Bayern München II       2-0 (0-0)
+         Hallescher FC            v Viktoria Köln              2-0 (0-0)
+         FSV Zwickau              v 1. FC Magdeburg            0-1 (0-0)
+         SpVgg Unterhaching       v SV Wehen Wiesbaden         2-1 (1-1)
+         TSV 1860 München         v Türkgücü München           2-2 (1-1)
+Sun Nov 29
+  13:00  MSV Duisburg             v Dynamo Dresden             0-3 (0-1)
+  14:00  1. FC Saarbrücken        v 1. FC Kaiserslautern       1-1 (0-0)
+Mon Nov 30
+  19:00  SV Meppen                v FC Ingolstadt 04           2-0 (2-0)
+
+▪ 9. Spieltag
+Wed Dec 2
+  19:00  Hansa Rostock            v Türkgücü München           2-0 (2-0)
+
+▪ 8. Spieltag
+Wed Dec 2
+  19:00  Hallescher FC            v SpVgg Unterhaching         2-0 (1-0)
+
+▪ 14. Spieltag
+Fri Dec 4
+  19:00  1. FC Magdeburg          v SV Meppen                  0-0 (0-0)
+Sat Dec 5
+  14:00  FC Ingolstadt 04         v VfB Lübeck                 1-1 (0-0)
+         Dynamo Dresden           v KFC Uerdingen 05           0-0 (0-0)
+         SV Waldhof Mannheim      v 1. FC Saarbrücken          4-1 (1-1)
+         Viktoria Köln            v TSV 1860 München           2-1 (1-1)
+         1. FC Kaiserslautern     v MSV Duisburg               2-2 (0-1)
+Sun Dec 6
+  13:00  SV Wehen Wiesbaden       v Hansa Rostock              2-1 (1-0)
+  14:00  SC Verl                  v Hallescher FC              4-2 (2-1)
+
+▪ 9. Spieltag
+Tue Dec 8
+  19:00  SV Meppen                v SV Waldhof Mannheim        2-0 (2-0)
+
+▪ 15. Spieltag
+Fri Dec 11
+  19:00  SpVgg Unterhaching       v 1. FC Kaiserslautern       2-0 (0-0)
+Sat Dec 12
+  14:00  KFC Uerdingen 05         v Türkgücü München           1-0 (1-0)
+         MSV Duisburg             v SV Wehen Wiesbaden         4-1 (1-0)
+         TSV 1860 München         v SV Waldhof Mannheim        5-0 (3-0)
+         Hallescher FC            v Dynamo Dresden             1-3 (1-2)
+         SC Verl                  v Viktoria Köln              1-1 (1-1)
+         VfB Lübeck               v 1. FC Magdeburg            1-1 (1-1)
+Sun Dec 13
+  13:00  1. FC Saarbrücken        v FC Bayern München II       1-2 (1-2)
+  14:00  Hansa Rostock            v SV Meppen                  0-2 (0-1)
+
+▪ 16. Spieltag
+Tue Dec 15
+  19:00  Dynamo Dresden           v SC Verl                    4-1 (1-0)
+         Türkgücü München         v Hallescher FC              0-3 (0-2)
+         SV Wehen Wiesbaden       v VfB Lübeck                 4-2 (1-2)
+         SV Waldhof Mannheim      v SpVgg Unterhaching         1-4 (1-3)
+         1. FC Kaiserslautern     v TSV 1860 München           0-3 (0-2)
+Wed Dec 16
+  19:00  FC Bayern München II     v MSV Duisburg               1-1 (1-0)
+         Viktoria Köln            v KFC Uerdingen 05           0-2 (0-1)
+         FC Ingolstadt 04         v Hansa Rostock              1-0 (1-0)
+         SV Meppen                v FSV Zwickau                1-2 (0-0)
+
+▪ 17. Spieltag
+Fri Dec 18
+  19:00  TSV 1860 München         v SV Wehen Wiesbaden         2-2 (0-1)
+Sat Dec 19
+  14:00  Viktoria Köln            v Dynamo Dresden             2-4 (1-0)
+         SpVgg Unterhaching       v FC Bayern München II       1-1 (1-1)
+         1. FC Saarbrücken        v FC Ingolstadt 04           3-3 (2-3)
+         VfB Lübeck               v SV Meppen                  0-2 (0-1)
+         KFC Uerdingen 05         v 1. FC Kaiserslautern       0-2 (0-2)
+Sun Dec 20
+  13:00  SC Verl                  v Türkgücü München           0-1 (0-0)
+  14:00  FSV Zwickau              v Hansa Rostock              0-2 (0-1)
+
+▪ 11. Spieltag
+Wed Dec 23
+  17:00  SV Meppen                v Türkgücü München           1-4 (1-2)
+
+▪ 18. Spieltag
+Fri Jan 8 2021
+  19:00  SV Waldhof Mannheim      v SC Verl                    2-2 (2-0)
+Sat Jan 9
+  14:00  SV Wehen Wiesbaden       v Hallescher FC              1-1 (0-1)
+         FC Bayern München II     v TSV 1860 München           0-2 (0-1)
+         SV Meppen                v 1. FC Saarbrücken          1-0 (1-0)
+         1. FC Magdeburg          v KFC Uerdingen 05           1-1 (1-0)
+         Hansa Rostock            v SpVgg Unterhaching         1-0 (0-0)
+         1. FC Kaiserslautern     v Viktoria Köln              0-0 (0-0)
+Sun Jan 10
+  13:00  FC Ingolstadt 04         v MSV Duisburg               2-1 (2-1)
+  14:00  FSV Zwickau              v VfB Lübeck                 2-1 (0-1)
+Mon Jan 11
+  19:00  Türkgücü München         v Dynamo Dresden             1-0 (0-0)
+
+▪ 16. Spieltag
+Tue Jan 12
+  19:00  1. FC Magdeburg          v 1. FC Saarbrücken          1-2 (1-1)
+
+▪ 10. Spieltag
+Tue Jan 12
+  19:00  FC Bayern München II     v SV Meppen                  2-0 (0-0)
+
+▪ 9. Spieltag
+Tue Jan 12
+  19:00  SpVgg Unterhaching       v SC Verl                    3-4 (1-1)
+
+▪ 15. Spieltag
+Wed Jan 13
+  19:00  FSV Zwickau              v FC Ingolstadt 04           0-2 (0-1)
+
+▪ 13. Spieltag
+Wed Jan 13
+  19:00  VfB Lübeck               v SV Waldhof Mannheim        0-1 (0-1)
+
+▪ 19. Spieltag
+Fri Jan 15
+  19:00  Viktoria Köln            v Türkgücü München           0-2 (0-0)
+Sat Jan 16
+  14:00  SpVgg Unterhaching       v 1. FC Magdeburg            0-2 (0-1)
+         SC Verl                  v 1. FC Kaiserslautern       1-1 (0-0)
+         Hallescher FC            v FC Bayern München II       0-4 (0-2)
+Sun Jan 17
+  13:00  KFC Uerdingen 05         v SV Waldhof Mannheim        1-1 (0-1)
+  14:00  MSV Duisburg             v SV Meppen                  1-0 (1-0)
+Mon Jan 18
+  19:00  TSV 1860 München         v FC Ingolstadt 04           1-0 (0-0)
+
+▪ 14. Spieltag
+Tue Jan 19
+  19:00  Türkgücü München         v SpVgg Unterhaching         0-0 (0-0)
+
+▪ 8. Spieltag
+Tue Jan 19
+  19:00  SC Verl                  v FSV Zwickau                1-1 (1-0)
+
+▪ 17. Spieltag
+Wed Jan 20
+  19:00  Hallescher FC            v SV Waldhof Mannheim        0-0 (0-0)
+         MSV Duisburg             v 1. FC Magdeburg            1-2 (1-0)
+
+▪ 20. Spieltag
+Fri Jan 22
+  19:00  Türkgücü München         v FC Bayern München II       0-0 (0-0)
+Sat Jan 23
+  14:00  MSV Duisburg             v Hansa Rostock              1-2 (1-2)
+         SpVgg Unterhaching       v FSV Zwickau                1-2 (1-1)
+         Hallescher FC            v 1. FC Magdeburg            1-0 (0-0)
+         Dynamo Dresden           v 1. FC Kaiserslautern       4-3 (2-1)
+         Viktoria Köln            v SV Waldhof Mannheim        1-2 (1-0)
+         SC Verl                  v SV Wehen Wiesbaden         2-2 (1-0)
+Sun Jan 24
+  13:00  TSV 1860 München         v SV Meppen                  1-1 (0-0)
+  14:00  1. FC Saarbrücken        v VfB Lübeck                 0-0 (0-0)
+
+▪ 21. Spieltag
+Tue Jan 26
+  19:00  FSV Zwickau              v MSV Duisburg               3-1 (3-0)
+         SV Wehen Wiesbaden       v Viktoria Köln              2-2 (0-1)
+         SV Waldhof Mannheim      v Dynamo Dresden             1-0 (0-0)
+         1. FC Kaiserslautern     v Türkgücü München           0-0 (0-0)
+Wed Jan 27
+  19:00  FC Ingolstadt 04         v Hallescher FC              1-1 (1-0)
+         Hansa Rostock            v 1. FC Saarbrücken          4-2 (1-1)
+         1. FC Magdeburg          v TSV 1860 München           0-3 (0-1)
+         VfB Lübeck               v SpVgg Unterhaching         1-0 (1-0)
+
+▪ 22. Spieltag
+Sat Jan 30
+  14:00  1. FC Kaiserslautern     v SV Wehen Wiesbaden         0-1 (0-0)
+         SC Verl                  v SV Meppen                  3-1 (0-0)
+         Türkgücü München         v SV Waldhof Mannheim        0-2 (0-1)
+         SpVgg Unterhaching       v FC Ingolstadt 04           0-1 (0-1)
+Sun Jan 31
+  13:00  MSV Duisburg             v VfB Lübeck                 3-1 (2-0)
+  14:00  TSV 1860 München         v FSV Zwickau                0-1 (0-0)
+Mon Feb 1
+  19:00  Hallescher FC            v 1. FC Saarbrücken          1-1 (0-1)
+
+▪ 23. Spieltag
+Fri Feb 5
+  19:00  Hansa Rostock            v SC Verl                    3-2 (0-2)
+Sat Feb 6
+  14:00  SV Waldhof Mannheim      v 1. FC Kaiserslautern       0-2 (0-2)
+         SV Meppen                v SpVgg Unterhaching         3-2 (2-2)
+         FC Ingolstadt 04         v Viktoria Köln              2-1 (0-1)
+         FSV Zwickau              v Hallescher FC              2-2 (2-1)
+         1. FC Magdeburg          v Dynamo Dresden             0-1 (0-0)
+Sun Feb 7
+  13:00  FC Bayern München II     v KFC Uerdingen 05           0-1 (0-1)
+  14:00  SV Wehen Wiesbaden       v Türkgücü München           3-1 (1-0)
+
+▪ 14. Spieltag
+Wed Feb 10
+  19:00  FC Bayern München II     v FSV Zwickau                3-2 (2-1)
+
+▪ 24. Spieltag
+Sat Feb 13
+  14:00  1. FC Kaiserslautern     v FC Bayern München II       1-1 (0-0)
+         TSV 1860 München         v Hansa Rostock              0-0 (0-0)
+         SV Waldhof Mannheim      v SV Wehen Wiesbaden         0-1 (0-0)
+Sun Feb 14
+  13:00  SpVgg Unterhaching       v 1. FC Saarbrücken          0-1 (0-1)
+  14:00  Dynamo Dresden           v VfB Lübeck                 3-1 (2-0)
+Mon Feb 15
+  19:00  Türkgücü München         v 1. FC Magdeburg            2-1 (2-1)
+
+▪ 25. Spieltag
+Fri Feb 19
+  19:00  SV Meppen                v Hallescher FC              2-1 (1-1)
+Sat Feb 20
+  14:00  VfB Lübeck               v Türkgücü München           0-2 (0-1)
+         FC Ingolstadt 04         v 1. FC Kaiserslautern       1-0 (0-0)
+         MSV Duisburg             v SpVgg Unterhaching         2-1 (1-1)
+         Hansa Rostock            v SV Waldhof Mannheim        1-0 (1-0)
+         1. FC Saarbrücken        v TSV 1860 München           2-1 (1-0)
+         FSV Zwickau              v Dynamo Dresden             0-2 (0-2)
+Sun Feb 21
+  13:00  FC Bayern München II     v Viktoria Köln              0-1 (0-1)
+  14:00  1. FC Magdeburg          v SC Verl                    0-4 (0-3)
+Mon Feb 22
+  19:00  SV Wehen Wiesbaden       v KFC Uerdingen 05           3-1 (3-1)
+
+▪ 22. Spieltag
+Wed Feb 24
+  19:00  Dynamo Dresden           v FC Bayern München II       1-1 (1-0)
+
+▪ 26. Spieltag
+Fri Feb 26
+  19:00  TSV 1860 München         v SpVgg Unterhaching         3-1 (1-0)
+Sat Feb 27
+  14:00  Viktoria Köln            v Hansa Rostock              1-2 (1-1)
+         Dynamo Dresden           v FC Ingolstadt 04           4-0 (2-0)
+         1. FC Kaiserslautern     v SV Meppen                  2-2 (1-1)
+         Hallescher FC            v VfB Lübeck                 2-1 (1-0)
+         SC Verl                  v 1. FC Saarbrücken          1-3 (0-2)
+         SV Wehen Wiesbaden       v 1. FC Magdeburg            1-0 (1-0)
+Sun Feb 28
+  13:00  Türkgücü München         v FSV Zwickau                1-1 (0-0)
+  14:00  KFC Uerdingen 05         v MSV Duisburg               1-2 (1-2)
+Mon Mar 1
+  19:00  SV Waldhof Mannheim      v FC Bayern München II       2-2 (2-1)
+
+▪ 22. Spieltag
+Tue Mar 2
+  17:00  Viktoria Köln            v 1. FC Magdeburg            2-4 (1-2)
+
+▪ 23. Spieltag
+Wed Mar 3
+  17:00  1. FC Saarbrücken        v MSV Duisburg               4-1 (1-0)
+
+▪ 20. Spieltag
+Wed Mar 3
+  17:00  KFC Uerdingen 05         v FC Ingolstadt 04           0-3 (0-1)
+
+▪ 19. Spieltag
+Wed Mar 3
+  17:00  VfB Lübeck               v Hansa Rostock              1-0 (0-0)
+
+▪ 27. Spieltag
+Fri Mar 5
+  19:00  FSV Zwickau              v SC Verl                    3-0 (2-0)
+Sat Mar 6
+  14:00  1. FC Magdeburg          v SV Waldhof Mannheim        1-1 (0-1)
+         Hansa Rostock            v 1. FC Kaiserslautern       2-1 (0-1)
+         SV Meppen                v Dynamo Dresden             0-4 (0-2)
+         1. FC Saarbrücken        v KFC Uerdingen 05           2-2 (1-1)
+         VfB Lübeck               v Viktoria Köln              1-2 (0-0)
+         MSV Duisburg             v TSV 1860 München           1-0 (0-0)
+Sun Mar 7
+  13:00  SpVgg Unterhaching       v Hallescher FC              3-0 (1-0)
+  14:00  FC Bayern München II     v SV Wehen Wiesbaden         2-0 (1-0)
+Mon Mar 8
+  19:00  FC Ingolstadt 04         v Türkgücü München           2-1 (2-1)
+
+▪ 24. Spieltag
+Tue Mar 9
+  19:00  Viktoria Köln            v SV Meppen                  1-0 (0-0)
+
+▪ 22. Spieltag
+Tue Mar 9
+  19:00  KFC Uerdingen 05         v Hansa Rostock              0-1 (0-0)
+
+▪ 21. Spieltag
+Wed Mar 10
+  19:00  FC Bayern München II     v SC Verl                    1-2 (0-0)
+
+▪ 19. Spieltag
+Wed Mar 10
+  19:00  1. FC Saarbrücken        v FSV Zwickau                1-2 (0-0)
+
+▪ 28. Spieltag
+Fri Mar 12
+  19:00  KFC Uerdingen 05         v VfB Lübeck                 1-1 (1-0)
+Sat Mar 13
+  14:00  Viktoria Köln            v MSV Duisburg               3-1 (2-1)
+         Hallescher FC            v TSV 1860 München           0-4 (0-3)
+         Dynamo Dresden           v 1. FC Saarbrücken          1-1 (0-0)
+         FC Bayern München II     v 1. FC Magdeburg            0-2 (0-1)
+         SV Wehen Wiesbaden       v FC Ingolstadt 04           1-2 (1-2)
+Sun Mar 14
+  13:00  SC Verl                  v SpVgg Unterhaching         2-1 (2-1)
+  14:00  SV Waldhof Mannheim      v SV Meppen                  0-1 (0-1)
+Mon Mar 15
+  14:00  Türkgücü München         v Hansa Rostock              0-3 (0-1)
+
+▪ 24. Spieltag
+Tue Mar 16
+  19:00  Hallescher FC            v MSV Duisburg               1-1 (1-0)
+Wed Mar 17
+  19:00  SC Verl                  v FC Ingolstadt 04           1-1 (0-0)
+
+▪ 23. Spieltag
+Wed Mar 17
+  19:00  VfB Lübeck               v TSV 1860 München           0-0 (0-0)
+
+▪ 21. Spieltag
+Wed Mar 17
+  19:00  SV Meppen                v KFC Uerdingen 05           0-4 (0-2)
+
+▪ 19. Spieltag
+Wed Mar 17
+  19:00  Dynamo Dresden           v SV Wehen Wiesbaden         1-0 (1-0)
+
+▪ 29. Spieltag
+Fri Mar 19
+  19:00  1. FC Saarbrücken        v Viktoria Köln              2-3 (0-0)
+Sat Mar 20
+  14:00  FC Ingolstadt 04         v SV Waldhof Mannheim        1-0 (1-0)
+         Hansa Rostock            v Hallescher FC              1-0 (1-0)
+         SpVgg Unterhaching       v KFC Uerdingen 05           2-3 (0-2)
+         MSV Duisburg             v Türkgücü München           3-2 (0-2)
+         1. FC Magdeburg          v 1. FC Kaiserslautern       1-0 (0-0)
+         VfB Lübeck               v SC Verl                    2-2 (1-2)
+Sun Mar 21
+  13:00  SV Meppen                v FC Bayern München II       2-1 (1-0)
+  14:00  FSV Zwickau              v SV Wehen Wiesbaden         2-1 (0-1)
+Mon Mar 22
+  19:00  TSV 1860 München         v Dynamo Dresden             1-0 (0-0)
+
+▪ 24. Spieltag
+Sat Mar 27
+  14:00  KFC Uerdingen 05         v FSV Zwickau                1-1 (1-1)
+
+▪ 30. Spieltag
+Sat Apr 3
+  14:00  SV Waldhof Mannheim      v FSV Zwickau                1-0 (0-0)
+         1. FC Kaiserslautern     v Hallescher FC              3-1 (1-0)
+         KFC Uerdingen 05         v TSV 1860 München           1-3 (0-3)
+         1. FC Magdeburg          v FC Ingolstadt 04           2-0 (1-0)
+         FC Bayern München II     v VfB Lübeck                 2-3 (1-1)
+         SC Verl                  v MSV Duisburg               1-2 (0-1)
+         SV Wehen Wiesbaden       v 1. FC Saarbrücken          2-2 (0-0)
+Sun Apr 4
+  13:00  Türkgücü München         v SV Meppen                  2-0 (2-0)
+  14:00  Dynamo Dresden           v Hansa Rostock              0-0 (0-0)
+Mon Apr 5
+  19:00  Viktoria Köln            v SpVgg Unterhaching         1-1 (0-1)
+
+▪ 28. Spieltag
+Wed Apr 7
+  19:00  1. FC Kaiserslautern     v FSV Zwickau                2-2 (0-0)
+
+▪ 31. Spieltag
+Fri Apr 9
+  19:00  Hallescher FC            v KFC Uerdingen 05           2-1 (0-0)
+Sat Apr 10
+  14:00  MSV Duisburg             v SV Waldhof Mannheim        1-1 (1-1)
+         Hansa Rostock            v 1. FC Magdeburg            0-2 (0-1)
+         VfB Lübeck               v 1. FC Kaiserslautern       1-1 (1-0)
+         TSV 1860 München         v SC Verl                    3-2 (2-1)
+         1. FC Saarbrücken        v Türkgücü München           2-1 (2-0)
+         FC Ingolstadt 04         v FC Bayern München II       2-2 (0-0)
+Sun Apr 11
+  13:00  FSV Zwickau              v Viktoria Köln              1-2 (0-0)
+  14:00  SpVgg Unterhaching       v Dynamo Dresden             2-0 (1-0)
+Mon Apr 12
+  19:00  SV Meppen                v SV Wehen Wiesbaden         0-3 (0-1)
+
+▪ 32. Spieltag
+Fri Apr 16
+  19:00  FC Bayern München II     v Hansa Rostock              0-1 (0-1)
+Sat Apr 17
+  14:00  1. FC Magdeburg          v FSV Zwickau                0-0 (0-0)
+         Viktoria Köln            v Hallescher FC              2-0 (1-0)
+         SC Verl                  v KFC Uerdingen 05           3-0 (2-0)
+         Türkgücü München         v TSV 1860 München           0-2 (0-0)
+         1. FC Kaiserslautern     v 1. FC Saarbrücken          2-1 (2-1)
+Sun Apr 18
+  13:00  FC Ingolstadt 04         v SV Meppen                  0-0 (0-0)
+  14:00  SV Waldhof Mannheim      v VfB Lübeck                 3-2 (3-1)
+  15:00  SV Wehen Wiesbaden       v SpVgg Unterhaching         1-0 (0-0)
+
+▪ 33. Spieltag
+Tue Apr 20
+  19:00  TSV 1860 München         v Viktoria Köln              1-1 (1-0)
+         Hallescher FC            v SC Verl                    1-1 (1-0)
+         FSV Zwickau              v FC Bayern München II       1-1 (0-1)
+         MSV Duisburg             v 1. FC Kaiserslautern       2-2 (0-1)
+Wed Apr 21
+  19:00  Hansa Rostock            v SV Wehen Wiesbaden         1-1 (0-0)
+         SV Meppen                v 1. FC Magdeburg            1-2 (0-0)
+         SpVgg Unterhaching       v Türkgücü München           0-2 (0-1)
+         1. FC Saarbrücken        v SV Waldhof Mannheim        5-0 (2-0)
+         VfB Lübeck               v FC Ingolstadt 04           1-1 (0-0)
+
+▪ 34. Spieltag
+Fri Apr 23
+  19:00  Viktoria Köln            v SC Verl                    2-2 (1-0)
+Sat Apr 24
+  14:00  Dynamo Dresden           v Hallescher FC              0-3 (0-1)
+         FC Ingolstadt 04         v FSV Zwickau                3-2 (1-1)
+         SV Meppen                v Hansa Rostock              2-3 (0-2)
+         1. FC Kaiserslautern     v SpVgg Unterhaching         3-2 (2-1)
+         Türkgücü München         v KFC Uerdingen 05           0-2 (0-0)
+         SV Waldhof Mannheim      v TSV 1860 München           0-2 (0-1)
+Sun Apr 25
+  13:00  1. FC Magdeburg          v VfB Lübeck                 1-0 (0-0)
+  14:00  SV Wehen Wiesbaden       v MSV Duisburg               0-3 (0-0)
+Mon Apr 26
+  19:00  FC Bayern München II     v 1. FC Saarbrücken          0-4 (0-2)
+
+▪ 32. Spieltag
+Wed Apr 28
+  19:00  Dynamo Dresden           v MSV Duisburg               1-0 (0-0)
+
+▪ 33. Spieltag
+Sat May 1
+  14:00  KFC Uerdingen 05         v Dynamo Dresden             0-2 (0-1)
+
+▪ 35. Spieltag
+Tue May 4
+  19:00  Hansa Rostock            v FC Ingolstadt 04           1-1 (0-0)
+         TSV 1860 München         v 1. FC Kaiserslautern       3-0 (1-0)
+         Hallescher FC            v Türkgücü München           4-1 (1-1)
+         SC Verl                  v Dynamo Dresden             0-0 (0-0)
+         VfB Lübeck               v SV Wehen Wiesbaden         0-3 (0-2)
+Wed May 5
+  19:00  KFC Uerdingen 05         v Viktoria Köln              1-1 (1-0)
+         MSV Duisburg             v FC Bayern München II       2-2 (1-1)
+         SpVgg Unterhaching       v SV Waldhof Mannheim        0-2 (0-1)
+         FSV Zwickau              v SV Meppen                  0-0 (0-0)
+         1. FC Saarbrücken        v 1. FC Magdeburg            0-3 (0-0)
+
+▪ 36. Spieltag
+Fri May 7
+  19:00  Türkgücü München         v SC Verl                    1-2 (1-0)
+Sat May 8
+  14:00  SV Wehen Wiesbaden       v TSV 1860 München           1-1 (1-0)
+         Dynamo Dresden           v Viktoria Köln              2-0 (2-0)
+         1. FC Kaiserslautern     v KFC Uerdingen 05           4-1 (3-1)
+         1. FC Magdeburg          v MSV Duisburg               3-2 (2-0)
+         FC Ingolstadt 04         v 1. FC Saarbrücken          0-0 (0-0)
+         Hansa Rostock            v FSV Zwickau                0-0 (0-0)
+Sun May 9
+  13:00  SV Meppen                v VfB Lübeck                 0-2 (0-0)
+  14:00  FC Bayern München II     v SpVgg Unterhaching         1-2 (0-1)
+Mon May 10
+  19:00  SV Waldhof Mannheim      v Hallescher FC              3-2 (3-2)
+
+▪ 37. Spieltag
+Fri May 14
+  19:00  1. FC Saarbrücken        v SV Meppen                  2-0 (1-0)
+Sat May 15
+  13:30  MSV Duisburg             v FC Ingolstadt 04           1-5 (1-0)
+  14:00  KFC Uerdingen 05         v 1. FC Magdeburg            1-0 (0-0)
+         SpVgg Unterhaching       v Hansa Rostock              0-1 (0-1)
+         Viktoria Köln            v 1. FC Kaiserslautern       3-3 (3-1)
+         SC Verl                  v SV Waldhof Mannheim        0-1 (0-0)
+Sun May 16
+  13:00  Hallescher FC            v SV Wehen Wiesbaden         4-0 (2-0)
+  14:00  Dynamo Dresden           v Türkgücü München           4-0 (2-0)
+         TSV 1860 München         v FC Bayern München II       2-2 (1-1)
+Mon May 17
+  19:00  VfB Lübeck               v FSV Zwickau                1-2 (1-1)
+
+▪ 38. Spieltag
+Sat May 22
+  13:30  SV Wehen Wiesbaden       v Dynamo Dresden             0-1 (0-1)  @ Brita Arena, Wiesbaden
+         FC Bayern München II     v Hallescher FC              0-1 (0-1)
+         FC Ingolstadt 04         v TSV 1860 München           3-1 (2-0)
+         Hansa Rostock            v VfB Lübeck                 1-1 (1-1)
+         SV Waldhof Mannheim      v KFC Uerdingen 05           1-1 (0-0)
+         SV Meppen                v MSV Duisburg               2-1 (1-0)
+         1. FC Kaiserslautern     v SC Verl                    1-1 (0-0)
+         1. FC Magdeburg          v SpVgg Unterhaching         1-1 (0-0)
+         FSV Zwickau              v 1. FC Saarbrücken          2-0 (1-0)
+         Türkgücü München         v Viktoria Köln              1-1 (0-0)

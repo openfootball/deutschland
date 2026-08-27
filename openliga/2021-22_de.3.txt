@@ -1,0 +1,621 @@
+= 3. Fußball-Bundesliga 2021/2022
+
+
+▪ 1. Spieltag
+Sat Jul 24 2021
+  14:00  SV Waldhof Mannheim      v 1. FC Magdeburg            0-2 (0-2)
+         TSV Havelse              v 1. FC Saarbrücken          0-1 (0-1)
+         1. FC Kaiserslautern     v Eintracht Braunschweig     0-0 (0-0)
+         Hallescher FC            v SV Meppen                  3-1 (3-1)
+         FSV Zwickau              v Borussia Dortmund II       1-2 (1-1)
+         TSV 1860 München         v Würzburger Kickers         1-0 (1-0)
+Sun Jul 25
+  13:00  FC Viktoria 1889 Berlin  v Viktoria Köln              2-1 (2-1)
+  14:00  SC Verl                  v Türkgücü München           0-0 (0-0)
+Mon Jul 26
+  19:00  SC Freiburg II           v SV Wehen Wiesbaden         0-0 (0-0)
+
+▪ 2. Spieltag
+Sat Jul 31
+  14:00  Viktoria Köln            v FSV Zwickau                1-1 (0-0)
+         SV Meppen                v 1. FC Kaiserslautern       1-0 (1-0)
+         1. FC Magdeburg          v SC Freiburg II             0-0 (0-0)
+         SV Wehen Wiesbaden       v TSV 1860 München           0-0 (0-0)
+         1. FC Saarbrücken        v VfL Osnabrück              1-2 (1-2)
+         Borussia Dortmund II     v SV Waldhof Mannheim        1-1 (1-0)
+Sun Aug 1
+  13:00  Türkgücü München         v Hallescher FC
+  14:00  Eintracht Braunschweig   v FC Viktoria 1889 Berlin    0-4 (0-2)
+Mon Aug 2
+  19:00  Würzburger Kickers       v SC Verl                    0-1 (0-0)
+Sun Aug 8
+  13:00  MSV Duisburg             v TSV Havelse                3-0 (0-0)
+
+▪ 3. Spieltag
+Fri Aug 13
+  19:00  SC Freiburg II           v Borussia Dortmund II       2-5 (2-3)
+Sat Aug 14
+  14:00  TSV 1860 München         v Türkgücü München           1-1 (0-0)
+         VfL Osnabrück            v SV Wehen Wiesbaden         0-1 (0-0)
+         TSV Havelse              v 1. FC Magdeburg            1-3 (0-1)
+         1. FC Saarbrücken        v MSV Duisburg               2-0 (2-0)
+         FSV Zwickau              v SV Meppen                  1-1 (1-0)
+         SC Verl                  v Viktoria Köln              3-1 (2-1)
+Sun Aug 15
+  13:00  FC Viktoria 1889 Berlin  v 1. FC Kaiserslautern       4-0 (2-0)
+  14:00  SV Waldhof Mannheim      v Würzburger Kickers         1-1 (0-1)
+Mon Aug 16
+  19:00  Hallescher FC            v Eintracht Braunschweig     0-2 (0-1)
+
+▪ 1. Spieltag
+Wed Aug 18
+  19:00  VfL Osnabrück            v MSV Duisburg               0-1 (0-1)
+
+▪ 4. Spieltag
+Fri Aug 20
+  19:00  FC Viktoria 1889 Berlin  v Hallescher FC              0-1 (0-1)
+Sat Aug 21
+  14:00  Borussia Dortmund II     v 1. FC Saarbrücken          0-0 (0-0)
+         Eintracht Braunschweig   v FSV Zwickau                2-0 (1-0)
+         1. FC Magdeburg          v MSV Duisburg               2-1 (2-0)
+         1. FC Kaiserslautern     v TSV 1860 München           3-0 (2-0)
+         Viktoria Köln            v SV Waldhof Mannheim        2-3 (0-3)
+         SV Meppen                v SC Verl                    2-0 (1-0)
+Sun Aug 22
+  13:00  Würzburger Kickers       v VfL Osnabrück              1-1 (0-0)
+  14:00  SV Wehen Wiesbaden       v TSV Havelse                2-1 (0-0)
+  15:00  Türkgücü München         v SC Freiburg II             3-0 (0-0)
+
+▪ 5. Spieltag
+Tue Aug 24
+  19:00  TSV 1860 München         v Viktoria Köln              3-0 (1-0)
+         SV Waldhof Mannheim      v SV Meppen                  5-0 (2-0)
+         Hallescher FC            v 1. FC Kaiserslautern       1-0 (1-0)
+         FSV Zwickau              v FC Viktoria 1889 Berlin    1-1 (1-0)
+         SC Verl                  v Eintracht Braunschweig     0-3 (0-0)
+Wed Aug 25
+  19:00  VfL Osnabrück            v Borussia Dortmund II       2-1 (1-0)
+         MSV Duisburg             v SV Wehen Wiesbaden         0-2 (0-0)
+         TSV Havelse              v Türkgücü München           0-3 (0-2)
+         1. FC Saarbrücken        v 1. FC Magdeburg            2-1 (0-1)
+         SC Freiburg II           v Würzburger Kickers         1-0 (0-0)
+
+▪ 6. Spieltag
+Fri Aug 27
+  19:00  Hallescher FC            v SC Verl                    4-4 (2-3)
+Sat Aug 28
+  14:00  SV Wehen Wiesbaden       v 1. FC Magdeburg            2-4 (0-2)
+         FC Viktoria 1889 Berlin  v SV Waldhof Mannheim        0-0 (1-0)
+         1. FC Kaiserslautern     v FSV Zwickau                1-1 (1-0)
+         Türkgücü München         v VfL Osnabrück              0-3 (0-2)
+         Eintracht Braunschweig   v TSV 1860 München           1-1 (0-0)
+         Viktoria Köln            v SC Freiburg II             3-1 (1-1)
+Sun Aug 29
+  13:00  Borussia Dortmund II     v MSV Duisburg               4-1 (1-1)
+  14:00  Würzburger Kickers       v 1. FC Saarbrücken          1-1 (1-0)
+Mon Aug 30
+  19:00  SV Meppen                v TSV Havelse                1-0 (0-0)
+
+▪ 7. Spieltag
+Fri Sep 3
+  19:00  1. FC Saarbrücken        v SV Wehen Wiesbaden         3-4 (0-4)
+Sat Sep 4
+  14:00  MSV Duisburg             v Würzburger Kickers         2-0 (2-0)
+         TSV 1860 München         v SV Meppen                  1-1 (1-1)
+         SV Waldhof Mannheim      v Türkgücü München           3-0 (0-0)
+         SC Verl                  v FC Viktoria 1889 Berlin    3-3 (1-1)
+  18:00  1. FC Magdeburg          v 1. FC Kaiserslautern       1-0 (1-0)
+Sun Sep 5
+  14:00  TSV Havelse              v Borussia Dortmund II       0-1 (0-0)
+Mon Sep 6
+  19:00  VfL Osnabrück            v Viktoria Köln              3-0 (0-0)
+
+▪ 8. Spieltag
+Fri Sep 10
+  19:00  SV Meppen                v SC Freiburg II             0-1 (0-0)
+Sat Sep 11
+  14:00  Würzburger Kickers       v TSV Havelse                0-0 (0-0)
+         1. FC Kaiserslautern     v SV Waldhof Mannheim        0-0 (0-0)
+         Borussia Dortmund II     v 1. FC Magdeburg            0-2 (0-0)
+         FC Viktoria 1889 Berlin  v SV Wehen Wiesbaden         0-0 (0-0)
+         FSV Zwickau              v SC Verl                    1-3 (0-0)
+         Viktoria Köln            v 1. FC Saarbrücken          0-0 (0-0)
+Sun Sep 12
+  13:00  Hallescher FC            v TSV 1860 München           1-1 (0-0)
+  14:00  Eintracht Braunschweig   v VfL Osnabrück              2-2 (0-0)
+Mon Sep 13
+  19:00  Türkgücü München         v MSV Duisburg               1-0 (0-0)
+
+▪ 7. Spieltag
+Wed Sep 15
+  19:00  FSV Zwickau              v Hallescher FC              2-2 (1-0)
+
+▪ 9. Spieltag
+Fri Sep 17
+  19:00  TSV Havelse              v Viktoria Köln              1-0 (1-0)
+Sat Sep 18
+  14:00  VfL Osnabrück            v SV Meppen                  1-0 (1-0)
+         TSV 1860 München         v FSV Zwickau                0-2 (0-1)
+         SV Waldhof Mannheim      v Hallescher FC              2-1 (2-1)
+         1. FC Magdeburg          v Würzburger Kickers         1-2 (0-1)
+         1. FC Saarbrücken        v Türkgücü München           3-1 (2-1)
+         MSV Duisburg             v Eintracht Braunschweig     3-2 (2-0)
+Sun Sep 19
+  13:00  SC Freiburg II           v FC Viktoria 1889 Berlin    2-0 (1-0)
+  14:00  SC Verl                  v 1. FC Kaiserslautern       0-2 (0-1)
+Mon Sep 20
+  19:00  SV Wehen Wiesbaden       v Borussia Dortmund II       0-1 (0-1)
+
+▪ 7. Spieltag
+Wed Sep 22
+  19:00  SC Freiburg II           v Eintracht Braunschweig     0-1 (0-1)
+
+▪ 10. Spieltag
+Fri Sep 24
+  19:00  Hallescher FC            v 1. FC Magdeburg            3-2 (1-1)
+Sat Sep 25
+  14:00  Würzburger Kickers       v SV Wehen Wiesbaden         0-4 (0-0)
+         1. FC Kaiserslautern     v VfL Osnabrück              2-0 (2-0)
+         Viktoria Köln            v MSV Duisburg               4-2 (2-0)
+         SV Meppen                v 1. FC Saarbrücken          2-2 (1-2)
+         SC Verl                  v TSV 1860 München           1-1 (0-1)
+         Eintracht Braunschweig   v SV Waldhof Mannheim        0-0 (0-0)
+Sun Sep 26
+  13:00  Türkgücü München         v Borussia Dortmund II       2-1 (1-0)
+  14:00  FSV Zwickau              v SC Freiburg II             0-0 (0-0)
+Mon Sep 27
+  19:00  FC Viktoria 1889 Berlin  v TSV Havelse                3-4 (2-1)
+
+▪ 11. Spieltag
+Fri Oct 1
+  19:00  1. FC Saarbrücken        v Eintracht Braunschweig     2-2 (1-0)
+Sat Oct 2
+  14:00  TSV 1860 München         v FC Viktoria 1889 Berlin    1-1 (0-0)
+         TSV Havelse              v 1. FC Kaiserslautern       0-6 (0-4)
+         SC Freiburg II           v Hallescher FC              1-1 (0-1)
+         VfL Osnabrück            v FSV Zwickau                0-1 (0-0)
+         MSV Duisburg             v SV Meppen                  0-1 (0-1)
+         SV Wehen Wiesbaden       v Viktoria Köln              1-1 (1-0)
+Sun Oct 3
+  13:00  Borussia Dortmund II     v Würzburger Kickers         2-0 (2-0)
+  14:00  SV Waldhof Mannheim      v SC Verl                    2-1 (2-0)
+Mon Oct 4
+  19:00  1. FC Magdeburg          v Türkgücü München           4-0 (1-0)
+
+▪ 12. Spieltag
+Fri Oct 15
+  19:00  FC Viktoria 1889 Berlin  v VfL Osnabrück              1-2 (1-2)
+Sat Oct 16
+  14:00  Eintracht Braunschweig   v Borussia Dortmund II       4-2 (2-1)
+         1. FC Kaiserslautern     v SC Freiburg II             3-0 (1-0)
+         FSV Zwickau              v MSV Duisburg               3-2 (1-1)
+         Hallescher FC            v 1. FC Saarbrücken          2-3 (2-1)
+         SV Meppen                v 1. FC Magdeburg            2-3 (1-2)
+Sun Oct 17
+  13:00  Türkgücü München         v SV Wehen Wiesbaden         1-0 (0-0)
+  14:00  Viktoria Köln            v Würzburger Kickers         1-1 (1-1)
+Mon Oct 18
+  19:00  SC Verl                  v TSV Havelse                5-3 (3-1)
+
+▪ 13. Spieltag
+Fri Oct 22
+  19:00  VfL Osnabrück            v Hallescher FC              0-0 (0-0)
+Sat Oct 23
+  14:00  1. FC Magdeburg          v FC Viktoria 1889 Berlin    1-0 (1-0)
+         SV Wehen Wiesbaden       v SV Meppen                  3-4 (1-2)
+         SV Waldhof Mannheim      v FSV Zwickau                1-1 (0-0)
+         1. FC Saarbrücken        v TSV 1860 München           1-1 (0-0)
+         SC Freiburg II           v SC Verl                    3-2 (3-1)
+         Würzburger Kickers       v Türkgücü München           2-1 (0-0)
+Sun Oct 24
+  13:00  Borussia Dortmund II     v Viktoria Köln              0-1 (0-1)
+  14:00  TSV Havelse              v Eintracht Braunschweig     0-4 (0-1)
+Mon Oct 25
+  14:00  MSV Duisburg             v 1. FC Kaiserslautern       1-1 (0-1)
+
+▪ 14. Spieltag
+Fri Oct 29
+  19:00  Viktoria Köln            v 1. FC Magdeburg            1-0 (1-0)
+Sat Oct 30
+  14:00  SV Waldhof Mannheim      v 1. FC Saarbrücken          1-0 (0-0)
+         FSV Zwickau              v TSV Havelse                2-0 (0-0)
+         TSV 1860 München         v SC Freiburg II             6-0 (2-0)
+         Hallescher FC            v MSV Duisburg               2-1 (0-0)
+         Eintracht Braunschweig   v SV Wehen Wiesbaden         1-2 (0-2)
+         FC Viktoria 1889 Berlin  v Borussia Dortmund II       2-1 (1-1)
+Sun Oct 31
+  13:00  SV Meppen                v Türkgücü München           1-0 (0-0)
+  14:00  1. FC Kaiserslautern     v Würzburger Kickers         0-2 (0-2)
+Mon Nov 1
+  19:00  SC Verl                  v VfL Osnabrück              1-2 (1-0)
+
+▪ 15. Spieltag
+Sat Nov 6
+  14:00  SC Freiburg II           v SV Waldhof Mannheim        2-1 (1-0)
+         VfL Osnabrück            v TSV 1860 München           3-1 (1-1)
+         MSV Duisburg             v FC Viktoria 1889 Berlin    1-0 (0-0)
+         TSV Havelse              v Hallescher FC              2-1 (2-1)
+         1. FC Saarbrücken        v 1. FC Kaiserslautern       0-2 (0-1)
+         Türkgücü München         v Viktoria Köln              1-2 (0-2)
+         SV Wehen Wiesbaden       v FSV Zwickau                2-2 (1-1)
+         1. FC Magdeburg          v SC Verl                    2-0 (1-0)
+         Borussia Dortmund II     v SV Meppen                  0-1 (0-0)
+
+▪ 16. Spieltag
+Sat Nov 20
+  14:00  FC Viktoria 1889 Berlin  v Würzburger Kickers         1-1 (0-1)
+         TSV 1860 München         v MSV Duisburg               3-2 (1-1)
+         SV Waldhof Mannheim      v VfL Osnabrück              3-3 (2-1)
+         SV Meppen                v Viktoria Köln              4-0 (1-0)
+         Hallescher FC            v Borussia Dortmund II       1-2 (0-1)
+         SC Verl                  v 1. FC Saarbrücken          2-4 (0-1)
+         SC Freiburg II           v TSV Havelse                0-0 (0-0)
+         Eintracht Braunschweig   v Türkgücü München           2-0 (1-0)
+         1. FC Kaiserslautern     v SV Wehen Wiesbaden         1-0 (0-0)
+
+▪ 17. Spieltag
+Fri Nov 26
+  19:00  MSV Duisburg             v SV Waldhof Mannheim        1-3 (1-2)
+Sat Nov 27
+  14:00  Würzburger Kickers       v SV Meppen                  1-3 (0-0)
+         TSV Havelse              v TSV 1860 München           2-3 (0-2)  @ Grünwalder Stadion, München
+         Borussia Dortmund II     v 1. FC Kaiserslautern       0-0 (0-0)
+         1. FC Saarbrücken        v FC Viktoria 1889 Berlin    2-0 (0-0)
+         SV Wehen Wiesbaden       v SC Verl                    0-0 (0-0)
+         1. FC Magdeburg          v Eintracht Braunschweig     2-0 (0-0)
+Sun Nov 28
+  13:00  VfL Osnabrück            v SC Freiburg II             0-1 (0-0)
+  14:00  Viktoria Köln            v Hallescher FC              2-0 (2-0)
+Mon Nov 29
+  19:00  Türkgücü München         v FSV Zwickau                2-2 (1-1)
+
+▪ 12. Spieltag
+Tue Nov 30
+  19:00  TSV 1860 München         v SV Waldhof Mannheim        1-3 (0-0)  @ Grünwalder Stadion, München,  Att: 3200
+
+▪ 15. Spieltag
+Tue Nov 30
+  19:00  Würzburger Kickers       v Eintracht Braunschweig     0-2 (0-0)
+
+▪ 18. Spieltag
+Fri Dec 3
+  19:00  FSV Zwickau              v 1. FC Saarbrücken          1-2 (1-0)
+Sat Dec 4
+  14:00  FC Viktoria 1889 Berlin  v Türkgücü München           0-0 (0-0)
+         1. FC Kaiserslautern     v Viktoria Köln              4-0 (2-0)
+         Hallescher FC            v Würzburger Kickers         0-0 (0-0)
+         SC Verl                  v Borussia Dortmund II       0-3 (0-0)
+         Eintracht Braunschweig   v SV Meppen                  5-0 (2-0)
+         TSV 1860 München         v 1. FC Magdeburg            2-5 (0-5)
+Sun Dec 5
+  13:00  SC Freiburg II           v MSV Duisburg               1-0 (0-0)
+  14:00  VfL Osnabrück            v TSV Havelse                0-0 (0-0)
+Mon Dec 6
+  19:00  SV Waldhof Mannheim      v SV Wehen Wiesbaden         1-1 (0-1)
+
+▪ 19. Spieltag
+Fri Dec 10
+  19:00  Türkgücü München         v 1. FC Kaiserslautern       1-2 (0-2)
+Sat Dec 11
+  14:00  MSV Duisburg             v SC Verl                    2-2 (1-1)
+         TSV Havelse              v SV Waldhof Mannheim        1-1 (0-1)
+         Borussia Dortmund II     v TSV 1860 München           0-2 (0-1)  @ Stadion Rote Erde, Dortmund
+         1. FC Magdeburg          v VfL Osnabrück              2-1 (1-1)
+         1. FC Saarbrücken        v SC Freiburg II             1-0 (1-0)
+         Viktoria Köln            v Eintracht Braunschweig     1-2 (1-0)
+Sun Dec 12
+  13:00  SV Meppen                v FC Viktoria 1889 Berlin    3-0 (2-0)
+  14:00  Würzburger Kickers       v FSV Zwickau                2-2 (1-0)
+Mon Dec 13
+  19:00  SV Wehen Wiesbaden       v Hallescher FC              2-1 (0-0)
+
+▪ 16. Spieltag
+Wed Dec 15
+  19:00  FSV Zwickau              v 1. FC Magdeburg            1-1 (0-1)
+
+▪ 20. Spieltag
+Fri Dec 17
+  19:00  Viktoria Köln            v FC Viktoria 1889 Berlin    1-4 (1-2)
+Sat Dec 18
+  14:00  Eintracht Braunschweig   v 1. FC Kaiserslautern       1-1 (0-0)
+         Borussia Dortmund II     v FSV Zwickau                3-1 (2-0)
+         SV Meppen                v Hallescher FC              4-1 (1-0)
+         1. FC Saarbrücken        v TSV Havelse                2-2 (1-0)
+         Türkgücü München         v SC Verl                    2-2 (0-0)
+         SV Wehen Wiesbaden       v SC Freiburg II             2-0 (2-0)
+Sun Dec 19
+  13:00  1. FC Magdeburg          v SV Waldhof Mannheim        3-0 (2-0)
+Mon Dec 20
+  19:00  Würzburger Kickers       v TSV 1860 München           0-3 (0-2)  @ Flyeralarm Arena, Würzburg
+
+▪ 21. Spieltag
+Fri Jan 14 2022
+  19:00  TSV Havelse              v MSV Duisburg               0-1 (0-0)
+Sat Jan 15
+  14:00  1. FC Kaiserslautern     v SV Meppen                  4-0 (2-0)
+         SC Freiburg II           v 1. FC Magdeburg            2-3 (1-1)
+         VfL Osnabrück            v 1. FC Saarbrücken          2-1 (1-0)
+         TSV 1860 München         v SV Wehen Wiesbaden         3-2 (0-0)
+Sun Jan 16
+  13:00  SC Verl                  v Würzburger Kickers         2-0 (0-0)
+Mon Jan 17
+  19:00  SV Waldhof Mannheim      v Borussia Dortmund II       1-3 (1-0)
+
+▪ 22. Spieltag
+Fri Jan 21
+  19:00  Borussia Dortmund II     v SC Freiburg II             1-1 (0-0)
+Sat Jan 22
+  14:00  Eintracht Braunschweig   v Hallescher FC              1-0 (0-0)
+         SV Wehen Wiesbaden       v VfL Osnabrück              0-0 (0-0)
+         Türkgücü München         v TSV 1860 München           2-1 (0-0)
+         Würzburger Kickers       v SV Waldhof Mannheim        1-2 (0-0)
+         1. FC Kaiserslautern     v FC Viktoria 1889 Berlin    2-0 (0-0)
+         Viktoria Köln            v SC Verl                    5-2 (0-0)
+Sun Jan 23
+  13:00  SV Meppen                v FSV Zwickau                1-3 (1-1)
+  14:00  MSV Duisburg             v 1. FC Saarbrücken          3-4 (0-0)
+  15:00  1. FC Magdeburg          v TSV Havelse                1-1 (1-0)
+
+▪ 23. Spieltag
+Tue Jan 25
+  19:00  TSV 1860 München         v 1. FC Kaiserslautern       2-1 (1-1)  @ Grünwalder Stadion, München
+         SC Freiburg II           v Türkgücü München           4-2 (1-0)
+         VfL Osnabrück            v Würzburger Kickers         2-0 (1-0)
+         SV Waldhof Mannheim      v Viktoria Köln              0-1 (0-0)
+         Hallescher FC            v FC Viktoria 1889 Berlin    4-1 (0-0)
+Wed Jan 26
+  19:00  MSV Duisburg             v 1. FC Magdeburg            0-5 (0-3)
+         TSV Havelse              v SV Wehen Wiesbaden         0-1 (0-1)
+         1. FC Saarbrücken        v Borussia Dortmund II       2-0 (0-0)
+         FSV Zwickau              v Eintracht Braunschweig     1-0 (1-0)
+         SC Verl                  v SV Meppen                  0-1 (0-0)
+
+▪ 24. Spieltag
+Fri Jan 28
+  19:00  Würzburger Kickers       v SC Freiburg II             1-1 (0-0)
+Sat Jan 29
+  14:00  Türkgücü München         v TSV Havelse                0-1 (0-0)
+         FC Viktoria 1889 Berlin  v FSV Zwickau                0-0 (0-0)
+         1. FC Kaiserslautern     v Hallescher FC              1-0 (0-0)
+         1. FC Magdeburg          v 1. FC Saarbrücken          2-1 (0-0)
+         SV Wehen Wiesbaden       v MSV Duisburg               0-1 (0-0)
+         Borussia Dortmund II     v VfL Osnabrück              2-2 (0-0)
+Sun Jan 30
+  13:00  Viktoria Köln            v TSV 1860 München           0-1 (0-0)
+  14:00  SV Meppen                v SV Waldhof Mannheim        1-1 (0-0)
+Mon Jan 31
+  19:00  Eintracht Braunschweig   v SC Verl                    1-1 (0-0)
+
+▪ 20. Spieltag
+Wed Feb 2
+  19:00  MSV Duisburg             v VfL Osnabrück              3-6 (1-2)
+
+▪ 25. Spieltag
+Fri Feb 4
+  19:00  SC Freiburg II           v Viktoria Köln              1-1 (0-0)
+Sat Feb 5
+  14:00  VfL Osnabrück            v Türkgücü München           1-1 (0-0)
+         SV Waldhof Mannheim      v FC Viktoria 1889 Berlin    3-2 (0-0)
+         TSV Havelse              v SV Meppen                  3-0 (0-0)
+         1. FC Magdeburg          v SV Wehen Wiesbaden         3-1 (0-0)
+         SC Verl                  v Hallescher FC              0-0 (0-0)
+         FSV Zwickau              v 1. FC Kaiserslautern       0-2 (0-0)
+Sun Feb 6
+  13:00  TSV 1860 München         v Eintracht Braunschweig     2-2 (2-0)
+  14:00  MSV Duisburg             v Borussia Dortmund II       1-3 (0-0)
+Mon Feb 7
+  19:00  1. FC Saarbrücken        v Würzburger Kickers         2-1 (0-1)
+
+▪ 21. Spieltag
+Tue Feb 8
+  19:00  Hallescher FC            v Türkgücü München           1-0 (0-0)
+         FSV Zwickau              v Viktoria Köln              1-0 (0-0)
+
+▪ 26. Spieltag
+Fri Feb 11
+  19:00  Hallescher FC            v FSV Zwickau                2-0 (0-0)
+Sat Feb 12
+  14:00  1. FC Kaiserslautern     v 1. FC Magdeburg            2-2 (0-0)
+         Würzburger Kickers       v MSV Duisburg               1-2 (0-0)
+         SV Meppen                v TSV 1860 München           1-1 (0-0)
+         Türkgücü München         v SV Waldhof Mannheim        0-0 (0-0)
+         Eintracht Braunschweig   v SC Freiburg II             1-1 (0-0)
+         Borussia Dortmund II     v TSV Havelse                1-0 (0-0)
+Sun Feb 13
+  14:00  SV Wehen Wiesbaden       v 1. FC Saarbrücken          1-0 (0-0)
+         FC Viktoria 1889 Berlin  v SC Verl                    1-1 (0-0)
+Mon Feb 14
+  19:00  Viktoria Köln            v VfL Osnabrück              1-1 (0-0)
+
+▪ 21. Spieltag
+Wed Feb 16
+  19:00  FC Viktoria 1889 Berlin  v Eintracht Braunschweig     0-6 (0-0)
+
+▪ 27. Spieltag
+Sat Feb 19
+  14:00  1. FC Saarbrücken        v Viktoria Köln              0-1 (0-0)
+         MSV Duisburg             v Türkgücü München           2-0 (0-0)
+         1. FC Magdeburg          v Borussia Dortmund II       2-0 (0-0)
+         SC Freiburg II           v SV Meppen                  2-0 (0-0)
+         SV Wehen Wiesbaden       v FC Viktoria 1889 Berlin    2-0 (0-0)
+Sun Feb 20
+  14:00  SV Waldhof Mannheim      v 1. FC Kaiserslautern       0-0 (0-0)
+         TSV Havelse              v Würzburger Kickers         1-3 (0-0)
+Mon Feb 21
+  19:00  TSV 1860 München         v Hallescher FC              0-2 (0-0)
+
+▪ 28. Spieltag
+Fri Feb 25
+  19:00  Viktoria Köln            v TSV Havelse                0-0 (0-0)
+Sat Feb 26
+  14:00  SV Meppen                v VfL Osnabrück              0-1 (0-0)
+         Würzburger Kickers       v 1. FC Magdeburg            2-4 (0-0)
+         Eintracht Braunschweig   v MSV Duisburg               2-1 (0-0)
+         Hallescher FC            v SV Waldhof Mannheim        1-2 (0-0)
+         FSV Zwickau              v TSV 1860 München           1-3 (1-0)
+         1. FC Kaiserslautern     v SC Verl                    2-1 (0-0)
+Sun Feb 27
+  14:00  FC Viktoria 1889 Berlin  v SC Freiburg II             0-2 (0-0)
+         Borussia Dortmund II     v SV Wehen Wiesbaden         2-3 (0-0)
+Mon Feb 28
+  19:00  Türkgücü München         v 1. FC Saarbrücken          1-5 (0-0)
+
+▪ 29. Spieltag
+Fri Mar 4
+  19:00  TSV 1860 München         v SC Verl                    2-0 (0-0)
+Sat Mar 5
+  14:00  SC Freiburg II           v FSV Zwickau                1-0 (0-0)
+         SV Wehen Wiesbaden       v Würzburger Kickers         0-1 (0-0)
+         VfL Osnabrück            v 1. FC Kaiserslautern       0-1 (0-0)
+         Borussia Dortmund II     v Türkgücü München           0-1 (0-0)
+         MSV Duisburg             v Viktoria Köln              2-0 (0-0)
+         1. FC Magdeburg          v Hallescher FC              1-1 (0-0)
+Sun Mar 6
+  14:00  SV Waldhof Mannheim      v Eintracht Braunschweig     0-3 (0-0)
+         1. FC Saarbrücken        v SV Meppen                  1-0 (0-0)
+Mon Mar 7
+  19:00  TSV Havelse              v FC Viktoria 1889 Berlin    1-1 (0-0)
+
+▪ 30. Spieltag
+Fri Mar 11
+  19:00  FC Viktoria 1889 Berlin  v TSV 1860 München           0-2 (0-0)
+Sat Mar 12
+  14:00  Eintracht Braunschweig   v 1. FC Saarbrücken          0-2 (0-0)
+         1. FC Kaiserslautern     v TSV Havelse                3-0 (0-0)
+         Hallescher FC            v SC Freiburg II             1-0 (0-0)
+         Türkgücü München         v 1. FC Magdeburg            2-1 (0-0)
+         SC Verl                  v SV Waldhof Mannheim        1-3 (0-0)
+         Viktoria Köln            v SV Wehen Wiesbaden         2-1 (0-0)
+Sun Mar 13
+  13:00  FSV Zwickau              v VfL Osnabrück              1-3 (0-0)
+  14:00  Würzburger Kickers       v Borussia Dortmund II       3-1 (0-0)
+Mon Mar 14
+  19:00  SV Meppen                v MSV Duisburg               1-2 (0-0)
+
+▪ 31. Spieltag
+Fri Mar 18
+  19:00  Würzburger Kickers       v Viktoria Köln              0-1 (0-1)
+Sat Mar 19
+  14:00  Borussia Dortmund II     v Eintracht Braunschweig     0-1 (0-1)
+         1. FC Magdeburg          v SV Meppen                  0-0 (0-0)
+         1. FC Saarbrücken        v Hallescher FC              2-1 (2-0)
+         SC Freiburg II           v 1. FC Kaiserslautern       0-0 (0-0)
+         SV Wehen Wiesbaden       v Türkgücü München           1-0 (1-0)
+         TSV Havelse              v SC Verl                    1-3 (0-2)
+Sun Mar 20
+  13:00  MSV Duisburg             v FSV Zwickau                0-1 (0-1)
+  14:00  SV Waldhof Mannheim      v TSV 1860 München           3-0 (1-0)
+Mon Mar 21
+  19:00  VfL Osnabrück            v FC Viktoria 1889 Berlin    3-1 (1-0)
+
+▪ 27. Spieltag
+Sat Mar 26
+  14:00  VfL Osnabrück            v Eintracht Braunschweig     1-1 (0-0)
+Tue Mar 29
+  19:00  SC Verl                  v FSV Zwickau                0-0 (0-0)
+
+▪ 32. Spieltag
+Fri Apr 1
+  19:00  SV Meppen                v SV Wehen Wiesbaden         0-4 (0-2)
+Sat Apr 2
+  14:00  TSV 1860 München         v 1. FC Saarbrücken          1-1 (0-0)
+         1. FC Kaiserslautern     v MSV Duisburg               5-1 (1-0)
+         Hallescher FC            v VfL Osnabrück              3-3 (0-2)
+         SC Verl                  v SC Freiburg II             3-1 (2-1)
+         Eintracht Braunschweig   v TSV Havelse                3-2 (1-1)
+         Viktoria Köln            v Borussia Dortmund II       0-2 (0-1)
+Sun Apr 3
+  13:00  FSV Zwickau              v SV Waldhof Mannheim        1-1 (0-1)
+  14:00  Türkgücü München         v Würzburger Kickers         0-0 (0-0)
+Mon Apr 4
+  19:00  FC Viktoria 1889 Berlin  v 1. FC Magdeburg            2-1 (1-0)
+
+▪ 33. Spieltag
+Fri Apr 8
+  19:00  Würzburger Kickers       v 1. FC Kaiserslautern       1-2 (0-1)
+Sat Apr 9
+  14:00  Borussia Dortmund II     v FC Viktoria 1889 Berlin    0-1 (0-0)
+         MSV Duisburg             v Hallescher FC              2-1 (1-1)
+         1. FC Magdeburg          v Viktoria Köln              4-2 (3-1)
+         1. FC Saarbrücken        v SV Waldhof Mannheim        0-0 (0-0)
+         Türkgücü München         v SV Meppen
+         SV Wehen Wiesbaden       v Eintracht Braunschweig     0-1 (0-1)
+Sun Apr 10
+  13:00  SC Freiburg II           v TSV 1860 München           1-2 (1-2)
+  14:00  TSV Havelse              v FSV Zwickau                0-3 (0-1)
+Mon Apr 11
+  19:00  VfL Osnabrück            v SC Verl                    3-2 (1-1)
+
+▪ 34. Spieltag
+Sat Apr 16
+  14:00  FC Viktoria 1889 Berlin  v MSV Duisburg               0-1 (0-0)
+         Eintracht Braunschweig   v Würzburger Kickers         0-1 (0-0)
+         TSV 1860 München         v VfL Osnabrück              2-3 (1-2)
+         Viktoria Köln            v Türkgücü München
+         SV Meppen                v Borussia Dortmund II       1-1 (1-0)
+         Hallescher FC            v TSV Havelse                1-1 (1-1)
+         FSV Zwickau              v SV Wehen Wiesbaden         2-1 (1-1)
+Sun Apr 17
+  13:00  SC Verl                  v 1. FC Magdeburg            4-5 (1-2)
+  14:00  1. FC Kaiserslautern     v 1. FC Saarbrücken          3-1 (1-0)
+Mon Apr 18
+  19:00  SV Waldhof Mannheim      v SC Freiburg II             0-1 (0-1)
+
+▪ 35. Spieltag
+Fri Apr 22
+  19:00  SV Wehen Wiesbaden       v 1. FC Kaiserslautern       2-1 (1-1)
+Sat Apr 23
+  14:00  Würzburger Kickers       v FC Viktoria 1889 Berlin    3-0 (0-0)
+         VfL Osnabrück            v SV Waldhof Mannheim        1-2 (1-1)
+         TSV Havelse              v SC Freiburg II             1-0 (1-0)
+         Borussia Dortmund II     v Hallescher FC              0-0 (0-0)
+         1. FC Saarbrücken        v SC Verl                    1-2 (1-1)
+         Türkgücü München         v Eintracht Braunschweig
+Sun Apr 24
+  13:00  MSV Duisburg             v TSV 1860 München           0-6 (0-3)
+  14:00  1. FC Magdeburg          v FSV Zwickau                3-0 (2-0)
+Mon Apr 25
+  19:00  Viktoria Köln            v SV Meppen                  1-1 (0-1)
+
+▪ 36. Spieltag
+Fri Apr 29
+  19:00  FC Viktoria 1889 Berlin  v 1. FC Saarbrücken          2-1 (1-1)
+         Eintracht Braunschweig   v 1. FC Magdeburg            2-1 (0-0)
+Sat Apr 30
+  14:00  TSV 1860 München         v TSV Havelse                3-0 (0-0)
+         SV Meppen                v Würzburger Kickers         2-4 (2-1)
+         Hallescher FC            v Viktoria Köln              1-1 (1-1)
+         FSV Zwickau              v Türkgücü München
+         SC Freiburg II           v VfL Osnabrück              4-1 (1-1)
+         1. FC Kaiserslautern     v Borussia Dortmund II       1-3 (0-1)
+         SC Verl                  v SV Wehen Wiesbaden         3-0 (2-0)
+Mon May 2
+  19:00  SV Waldhof Mannheim      v MSV Duisburg               3-1 (3-0)
+
+▪ 37. Spieltag
+Fri May 6
+  19:00  Borussia Dortmund II     v SC Verl                    1-2 (1-0)  @ Stadion Rote Erde, Dortmund,  Att: 3076
+Sat May 7
+  14:00  SV Wehen Wiesbaden       v SV Waldhof Mannheim        1-1 (1-1)  @ Brita-Arena, Wiesbaden
+         SV Meppen                v Eintracht Braunschweig     3-2 (2-1)  @ Hansch-Arena, Meppen
+         TSV Havelse              v VfL Osnabrück              0-1 (0-0)  @ HDI-Arena, Hannover
+         Türkgücü München         v FC Viktoria 1889 Berlin
+         1. FC Magdeburg          v TSV 1860 München           4-0 (0-0)  @ MDCC-Arena, Magdeburg
+         MSV Duisburg             v SC Freiburg II             1-0 (1-0)  @ Schauinsland-Reisen-Arena, Duisburg
+         1. FC Saarbrücken        v FSV Zwickau                1-1 (1-0)  @ Ludwigspark Stadion, Saarbrücken
+Sun May 8
+  13:00  Würzburger Kickers       v Hallescher FC              1-2 (0-1)
+  14:00  Viktoria Köln            v 1. FC Kaiserslautern       2-0 (2-0)
+
+▪ 38. Spieltag
+Sat May 14
+  13:30  SC Freiburg II           v 1. FC Saarbrücken          1-1 (1-0)
+         SC Verl                  v MSV Duisburg               1-1 (0-1)
+         FSV Zwickau              v Würzburger Kickers         7-0 (1-0)
+         Hallescher FC            v SV Wehen Wiesbaden         1-1 (1-1)
+         1. FC Kaiserslautern     v Türkgücü München           0-0 (0-0)
+         SV Waldhof Mannheim      v TSV Havelse                7-0 (0-0)
+         TSV 1860 München         v Borussia Dortmund II       6-3 (2-2)
+         Eintracht Braunschweig   v Viktoria Köln              0-1 (0-0)
+         FC Viktoria 1889 Berlin  v SV Meppen                  0-0 (0-0)
+         VfL Osnabrück            v 1. FC Magdeburg            0-0 (1-1)

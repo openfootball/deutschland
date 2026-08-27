@@ -1,0 +1,473 @@
+= 1. Fußball-Bundesliga 2022/2023
+
+
+▪ 1. Spieltag
+Fri Aug 5 2022
+  20:30  Eintracht Frankfurt      v FC Bayern München          1-6 (0-5)  @ Commerzbank Arena, Frankfurt
+Sat Aug 6
+  15:30  FC Augsburg              v SC Freiburg                0-4 (0-0)  @ WWK Arena, Augsburg
+         VfL Bochum               v 1. FSV Mainz 05            1-2 (1-1)
+         Borussia Mönchengladbach v TSG Hoffenheim             3-1 (1-1)
+         1. FC Union Berlin       v Hertha BSC                 3-1 (1-0)  @ Alte Försterei, Berlin
+         VfL Wolfsburg            v SV Werder Bremen           2-2 (1-2)
+  18:30  Borussia Dortmund        v Bayer 04 Leverkusen        1-0 (1-0)
+Sun Aug 7
+  15:30  VfB Stuttgart            v RB Leipzig                 1-1 (1-1)
+  17:30  1. FC Köln               v FC Schalke 04              3-1 (0-0)
+
+▪ 2. Spieltag
+Fri Aug 12
+  20:30  SC Freiburg              v Borussia Dortmund          1-3 (1-0)
+Sat Aug 13
+  15:30  Bayer 04 Leverkusen      v FC Augsburg                1-2 (1-1)
+         Hertha BSC               v Eintracht Frankfurt        1-1 (1-0)
+         TSG Hoffenheim           v VfL Bochum                 3-2 (2-2)
+         RB Leipzig               v 1. FC Köln                 2-2 (1-1)
+         SV Werder Bremen         v VfB Stuttgart              2-2 (1-1)
+  18:30  FC Schalke 04            v Borussia Mönchengladbach   2-2 (1-0)
+Sun Aug 14
+  15:30  1. FSV Mainz 05          v 1. FC Union Berlin         0-0 (0-0)
+  17:30  FC Bayern München        v VfL Wolfsburg              2-0 (2-0)
+
+▪ 3. Spieltag
+Fri Aug 19
+  20:30  Borussia Mönchengladbach v Hertha BSC                 1-0 (1-0)
+Sat Aug 20
+  15:30  FC Augsburg              v 1. FSV Mainz 05            1-2 (1-1)
+         Bayer 04 Leverkusen      v TSG Hoffenheim             0-3 (0-2)
+         Borussia Dortmund        v SV Werder Bremen           2-3 (1-0)
+         VfB Stuttgart            v SC Freiburg                0-1 (0-1)
+         VfL Wolfsburg            v FC Schalke 04              0-0 (0-0)
+  18:30  1. FC Union Berlin       v RB Leipzig                 2-1 (2-0)
+Sun Aug 21
+  15:30  Eintracht Frankfurt      v 1. FC Köln                 1-1 (0-0)
+  17:30  VfL Bochum               v FC Bayern München          0-7 (0-4)
+
+▪ 4. Spieltag
+Fri Aug 26
+  20:30  SC Freiburg              v VfL Bochum                 1-0 (0-0)
+Sat Aug 27
+  15:30  Hertha BSC               v Borussia Dortmund          0-1 (0-1)
+         TSG Hoffenheim           v FC Augsburg                1-0 (1-0)
+         1. FSV Mainz 05          v Bayer 04 Leverkusen        0-3 (0-3)
+         RB Leipzig               v VfL Wolfsburg              2-0 (1-0)
+         FC Schalke 04            v 1. FC Union Berlin         1-6 (1-3)
+  18:30  FC Bayern München        v Borussia Mönchengladbach   1-1 (0-1)
+Sun Aug 28
+  15:30  1. FC Köln               v VfB Stuttgart              0-0 (0-0)
+  17:30  SV Werder Bremen         v Eintracht Frankfurt        3-4 (2-3)
+
+▪ 5. Spieltag
+Fri Sep 2
+  20:30  Borussia Dortmund        v TSG Hoffenheim             1-0 (1-0)
+Sat Sep 3
+  15:30  Bayer 04 Leverkusen      v SC Freiburg                2-3 (1-0)
+         VfL Bochum               v SV Werder Bremen           0-2 (0-0)
+         VfB Stuttgart            v FC Schalke 04              1-1 (1-1)
+         1. FC Union Berlin       v FC Bayern München          1-1 (1-1)
+         VfL Wolfsburg            v 1. FC Köln                 2-4 (1-3)
+  18:30  Eintracht Frankfurt      v RB Leipzig                 4-0 (2-0)
+Sun Sep 4
+  15:30  FC Augsburg              v Hertha BSC                 0-2 (0-0)
+  17:30  Borussia Mönchengladbach v 1. FSV Mainz 05            0-1 (0-0)
+
+▪ 6. Spieltag
+Fri Sep 9
+  20:30  SV Werder Bremen         v FC Augsburg                0-1 (0-0)
+Sat Sep 10
+  15:30  FC Bayern München        v VfB Stuttgart              2-2 (1-0)
+         Eintracht Frankfurt      v VfL Wolfsburg              0-1 (0-0)
+         Hertha BSC               v Bayer 04 Leverkusen        2-2 (0-0)
+         TSG Hoffenheim           v 1. FSV Mainz 05            4-1 (0-0)
+         RB Leipzig               v Borussia Dortmund          3-0 (2-0)
+  18:30  FC Schalke 04            v VfL Bochum                 3-1 (1-0)
+Sun Sep 11
+  15:30  1. FC Köln               v 1. FC Union Berlin         0-1 (0-1)
+  17:30  SC Freiburg              v Borussia Mönchengladbach   0-0 (0-0)
+
+▪ 7. Spieltag
+Fri Sep 16
+  20:30  1. FSV Mainz 05          v Hertha BSC                 1-1 (0-1)
+Sat Sep 17
+  15:30  FC Augsburg              v FC Bayern München          1-0 (0-0)
+         Bayer 04 Leverkusen      v SV Werder Bremen           1-1 (0-0)
+         Borussia Dortmund        v FC Schalke 04              1-0 (0-0)
+         VfB Stuttgart            v Eintracht Frankfurt        1-3 (0-1)
+  18:30  Borussia Mönchengladbach v RB Leipzig                 3-0 (2-0)
+Sun Sep 18
+  15:30  1. FC Union Berlin       v VfL Wolfsburg              2-0 (0-0)
+  17:30  VfL Bochum               v 1. FC Köln                 1-1 (1-0)
+  19:30  TSG Hoffenheim           v SC Freiburg                0-0 (0-0)
+
+▪ 8. Spieltag
+Fri Sep 30
+  20:30  FC Bayern München        v Bayer 04 Leverkusen        4-0 (3-0)
+Sat Oct 1
+  15:30  Eintracht Frankfurt      v 1. FC Union Berlin         2-0 (2-0)
+         SC Freiburg              v 1. FSV Mainz 05            2-1 (2-0)
+         1. FC Köln               v Borussia Dortmund          3-2 (0-1)
+         RB Leipzig               v VfL Bochum                 4-0 (2-0)
+         VfL Wolfsburg            v VfB Stuttgart              3-2 (2-2)
+  18:30  SV Werder Bremen         v Borussia Mönchengladbach   5-1 (4-0)
+Sun Oct 2
+  15:30  Hertha BSC               v TSG Hoffenheim             1-1 (1-1)
+  17:30  FC Schalke 04            v FC Augsburg                2-3 (1-2)
+
+▪ 9. Spieltag
+Fri Oct 7
+  20:30  TSG Hoffenheim           v SV Werder Bremen           1-2 (1-1)
+Sat Oct 8
+  15:30  FC Augsburg              v VfL Wolfsburg              1-1 (0-1)
+         Bayer 04 Leverkusen      v FC Schalke 04              4-0 (2-0)
+         VfL Bochum               v Eintracht Frankfurt        3-0 (0-0)
+         1. FSV Mainz 05          v RB Leipzig                 1-1 (1-0)
+  18:30  Borussia Dortmund        v FC Bayern München          2-2 (0-1)
+Sun Oct 9
+  15:30  Borussia Mönchengladbach v 1. FC Köln                 5-2 (2-1)
+  17:30  Hertha BSC               v SC Freiburg                2-2 (1-1)
+  19:30  VfB Stuttgart            v 1. FC Union Berlin         0-1 (0-0)
+
+▪ 10. Spieltag
+Fri Oct 14
+  20:30  FC Schalke 04            v TSG Hoffenheim             0-3 (0-2)
+Sat Oct 15
+  15:30  Eintracht Frankfurt      v Bayer 04 Leverkusen        5-1 (1-0)
+         VfB Stuttgart            v VfL Bochum                 4-1 (2-1)
+         SV Werder Bremen         v 1. FSV Mainz 05            0-2 (0-1)
+         VfL Wolfsburg            v Borussia Mönchengladbach   2-2 (1-1)
+  18:30  RB Leipzig               v Hertha BSC                 3-2 (3-0)
+Sun Oct 16
+  15:30  1. FC Köln               v FC Augsburg                3-2 (0-1)
+  17:30  1. FC Union Berlin       v Borussia Dortmund          2-0 (2-0)
+  19:30  FC Bayern München        v SC Freiburg                5-0 (2-0)
+
+▪ 11. Spieltag
+Fri Oct 21
+  20:30  1. FSV Mainz 05          v 1. FC Köln                 5-0 (3-0)
+Sat Oct 22
+  15:30  FC Augsburg              v RB Leipzig                 3-3 (1-0)
+         Bayer 04 Leverkusen      v VfL Wolfsburg              2-2 (1-1)
+         Borussia Dortmund        v VfB Stuttgart              5-0 (3-0)
+         SC Freiburg              v SV Werder Bremen           2-0 (0-0)
+         TSG Hoffenheim           v FC Bayern München          0-2 (0-2)
+  18:30  Borussia Mönchengladbach v Eintracht Frankfurt        1-3 (0-3)
+Sun Oct 23
+  15:30  VfL Bochum               v 1. FC Union Berlin         2-1 (1-0)
+  17:30  Hertha BSC               v FC Schalke 04              2-1 (0-0)
+
+▪ 12. Spieltag
+Fri Oct 28
+  20:30  SV Werder Bremen         v Hertha BSC                 1-0 (0-0)
+Sat Oct 29
+  15:30  FC Bayern München        v 1. FSV Mainz 05            6-2 (3-1)
+         RB Leipzig               v Bayer 04 Leverkusen        2-0 (1-0)
+         VfB Stuttgart            v FC Augsburg                2-1 (1-1)
+         VfL Wolfsburg            v VfL Bochum                 4-0 (2-0)
+  18:30  Eintracht Frankfurt      v Borussia Dortmund          1-2 (1-1)
+Sun Oct 30
+  15:30  1. FC Union Berlin       v Borussia Mönchengladbach   2-1 (0-1)
+  17:30  FC Schalke 04            v SC Freiburg                0-2 (0-1)
+  19:30  1. FC Köln               v TSG Hoffenheim             1-1 (1-1)
+
+▪ 13. Spieltag
+Fri Nov 4
+  20:30  Borussia Mönchengladbach v VfB Stuttgart              3-1 (2-1)
+Sat Nov 5
+  15:30  FC Augsburg              v Eintracht Frankfurt        1-2 (1-1)
+         Borussia Dortmund        v VfL Bochum                 3-0 (3-0)
+         Hertha BSC               v FC Bayern München          2-3 (2-3)
+         TSG Hoffenheim           v RB Leipzig                 1-3 (0-1)
+         1. FSV Mainz 05          v VfL Wolfsburg              0-3 (0-1)
+  18:30  SV Werder Bremen         v FC Schalke 04              2-1 (1-0)
+Sun Nov 6
+  15:30  Bayer 04 Leverkusen      v 1. FC Union Berlin         5-0 (0-0)
+  17:30  SC Freiburg              v 1. FC Köln                 2-0 (0-0)
+
+▪ 14. Spieltag
+Tue Nov 8
+  18:30  VfL Wolfsburg            v Borussia Dortmund          2-0 (1-0)
+  20:30  FC Bayern München        v SV Werder Bremen           6-1 (4-1)
+         VfL Bochum               v Borussia Mönchengladbach   2-1 (2-0)
+         VfB Stuttgart            v Hertha BSC                 2-1 (1-1)
+Wed Nov 9
+  18:30  1. FC Köln               v Bayer 04 Leverkusen        1-2 (1-0)
+  20:30  Eintracht Frankfurt      v TSG Hoffenheim             4-2 (3-1)
+         RB Leipzig               v SC Freiburg                3-1 (0-0)
+         FC Schalke 04            v 1. FSV Mainz 05            1-0 (1-0)
+         1. FC Union Berlin       v FC Augsburg                2-2 (2-2)
+
+▪ 15. Spieltag
+Fri Nov 11
+  20:30  Borussia Mönchengladbach v Borussia Dortmund          4-2 (3-2)
+Sat Nov 12
+  15:30  FC Augsburg              v VfL Bochum                 0-1 (0-0)
+         Bayer 04 Leverkusen      v VfB Stuttgart              2-0 (1-0)
+         Hertha BSC               v 1. FC Köln                 2-0 (1-0)
+         TSG Hoffenheim           v VfL Wolfsburg              1-2 (1-1)
+         SV Werder Bremen         v RB Leipzig                 1-2 (0-1)
+  18:30  FC Schalke 04            v FC Bayern München          0-2 (0-1)
+Sun Nov 13
+  15:30  1. FSV Mainz 05          v Eintracht Frankfurt        1-1 (1-0)
+  17:30  SC Freiburg              v 1. FC Union Berlin         4-1 (4-0)
+
+▪ 16. Spieltag
+Fri Jan 20 2023
+  20:30  RB Leipzig               v FC Bayern München          1-1 (0-1)
+Sat Jan 21
+  15:30  VfL Bochum               v Hertha BSC                 3-1 (2-0)
+         Eintracht Frankfurt      v FC Schalke 04              3-0 (1-0)
+         VfB Stuttgart            v 1. FSV Mainz 05            1-1 (1-1)
+         1. FC Union Berlin       v TSG Hoffenheim             3-1 (0-1)
+         VfL Wolfsburg            v SC Freiburg                6-0 (3-0)
+  18:30  1. FC Köln               v SV Werder Bremen           7-1 (5-1)
+Sun Jan 22
+  15:30  Borussia Dortmund        v FC Augsburg                4-3 (2-2)
+  17:30  Borussia Mönchengladbach v Bayer 04 Leverkusen        2-3 (0-2)
+
+▪ 17. Spieltag
+Tue Jan 24
+  18:30  FC Schalke 04            v RB Leipzig                 1-6 (0-4)
+  20:30  FC Bayern München        v 1. FC Köln                 1-1 (0-1)
+         Hertha BSC               v VfL Wolfsburg              0-5 (0-3)
+         TSG Hoffenheim           v VfB Stuttgart              2-2 (1-1)
+Wed Jan 25
+  18:30  1. FSV Mainz 05          v Borussia Dortmund          1-2 (1-1)
+  20:30  FC Augsburg              v Borussia Mönchengladbach   1-0 (0-0)
+         Bayer 04 Leverkusen      v VfL Bochum                 2-0 (1-0)
+         SC Freiburg              v Eintracht Frankfurt        1-1 (0-1)
+         SV Werder Bremen         v 1. FC Union Berlin         1-2 (1-1)
+
+▪ 18. Spieltag
+Fri Jan 27
+  20:30  RB Leipzig               v VfB Stuttgart              2-1 (1-0)
+Sat Jan 28
+  15:30  SC Freiburg              v FC Augsburg                3-1 (2-1)
+         Hertha BSC               v 1. FC Union Berlin         0-2 (0-1)
+         TSG Hoffenheim           v Borussia Mönchengladbach   1-4 (0-2)
+         1. FSV Mainz 05          v VfL Bochum                 5-2 (3-0)
+         SV Werder Bremen         v VfL Wolfsburg              2-1 (1-0)
+  18:30  FC Bayern München        v Eintracht Frankfurt        1-1 (1-0)
+Sun Jan 29
+  15:30  FC Schalke 04            v 1. FC Köln                 0-0 (0-0)
+  17:30  Bayer 04 Leverkusen      v Borussia Dortmund          0-2 (0-1)
+
+▪ 19. Spieltag
+Fri Feb 3
+  20:30  FC Augsburg              v Bayer 04 Leverkusen        1-0 (0-0)
+Sat Feb 4
+  15:30  VfL Bochum               v TSG Hoffenheim             5-2 (3-0)
+         Borussia Dortmund        v SC Freiburg                5-1 (1-1)
+         Eintracht Frankfurt      v Hertha BSC                 3-0 (2-0)
+         1. FC Köln               v RB Leipzig                 0-0 (0-0)
+         1. FC Union Berlin       v 1. FSV Mainz 05            2-1 (1-0)
+  18:30  Borussia Mönchengladbach v FC Schalke 04              0-0 (0-0)
+Sun Feb 5
+  15:30  VfB Stuttgart            v SV Werder Bremen           0-2 (0-0)
+  17:30  VfL Wolfsburg            v FC Bayern München          2-4 (1-3)
+
+▪ 20. Spieltag
+Fri Feb 10
+  20:30  FC Schalke 04            v VfL Wolfsburg              0-0 (0-0)
+Sat Feb 11
+  15:30  FC Bayern München        v VfL Bochum                 3-0 (1-0)
+         SC Freiburg              v VfB Stuttgart              2-1 (0-1)
+         TSG Hoffenheim           v Bayer 04 Leverkusen        1-3 (0-1)
+         1. FSV Mainz 05          v FC Augsburg                3-1 (2-1)
+         SV Werder Bremen         v Borussia Dortmund          0-2 (0-0)
+  18:30  RB Leipzig               v 1. FC Union Berlin         1-2 (1-0)
+Sun Feb 12
+  15:30  Hertha BSC               v Borussia Mönchengladbach   4-1 (1-1)
+  17:30  1. FC Köln               v Eintracht Frankfurt        3-0 (0-0)
+
+▪ 21. Spieltag
+Fri Feb 17
+  20:30  FC Augsburg              v TSG Hoffenheim             1-0 (0-0)
+Sat Feb 18
+  15:30  VfL Bochum               v SC Freiburg                0-2 (0-1)
+         Borussia Mönchengladbach v FC Bayern München          3-2 (1-1)
+         VfB Stuttgart            v 1. FC Köln                 3-0 (1-0)
+         VfL Wolfsburg            v RB Leipzig                 0-3 (0-1)
+  18:30  Eintracht Frankfurt      v SV Werder Bremen           2-0 (1-0)
+Sun Feb 19
+  15:30  1. FC Union Berlin       v FC Schalke 04              0-0 (0-0)
+  17:30  Borussia Dortmund        v Hertha BSC                 4-1 (2-0)
+  19:30  Bayer 04 Leverkusen      v 1. FSV Mainz 05            2-3 (1-2)
+
+▪ 22. Spieltag
+Fri Feb 24
+  20:30  1. FSV Mainz 05          v Borussia Mönchengladbach   4-0 (1-0)
+Sat Feb 25
+  15:30  Hertha BSC               v FC Augsburg                2-0 (0-0)
+         TSG Hoffenheim           v Borussia Dortmund          0-1 (0-1)
+         1. FC Köln               v VfL Wolfsburg              0-2 (0-1)
+         RB Leipzig               v Eintracht Frankfurt        2-1 (2-0)
+         SV Werder Bremen         v VfL Bochum                 3-0 (2-0)
+  18:30  FC Schalke 04            v VfB Stuttgart              2-1 (2-0)
+Sun Feb 26
+  15:30  SC Freiburg              v Bayer 04 Leverkusen        1-1 (1-0)
+  17:30  FC Bayern München        v 1. FC Union Berlin         3-0 (3-0)
+
+▪ 23. Spieltag
+Fri Mar 3
+  20:30  Borussia Dortmund        v RB Leipzig                 2-1 (2-0)
+Sat Mar 4
+  15:30  FC Augsburg              v SV Werder Bremen           2-1 (1-1)
+         VfL Bochum               v FC Schalke 04              0-2 (0-1)
+         Borussia Mönchengladbach v SC Freiburg                0-0 (0-0)
+         1. FSV Mainz 05          v TSG Hoffenheim             1-0 (1-0)
+         1. FC Union Berlin       v 1. FC Köln                 0-0 (0-0)
+  18:30  VfB Stuttgart            v FC Bayern München          1-2 (0-1)
+Sun Mar 5
+  15:30  Bayer 04 Leverkusen      v Hertha BSC                 4-1 (2-0)
+  17:30  VfL Wolfsburg            v Eintracht Frankfurt        2-2 (2-2)
+
+▪ 24. Spieltag
+Fri Mar 10
+  20:30  1. FC Köln               v VfL Bochum                 0-2 (0-1)  @ RheinEnergieStadion, Köln,  Att: 50000
+Sat Mar 11
+  15:30  FC Bayern München        v FC Augsburg                5-3 (4-1)  @ Allianz Arena, München,  Att: 75000
+         Eintracht Frankfurt      v VfB Stuttgart              1-1 (0-0)  @ Commerzbank-Arena, Frankfurt,  Att: 50000
+         Hertha BSC               v 1. FSV Mainz 05            1-1 (1-0)  @ Olympiastadion, Berlin,  Att: 41689
+         RB Leipzig               v Borussia Mönchengladbach   3-0 (0-0)  @ Red Bull Arena, Leipzig,  Att: 46687
+  18:30  FC Schalke 04            v Borussia Dortmund          2-2 (0-1)  @ Veltins Arena, Gelsenkirchen,  Att: 61571
+Sun Mar 12
+  15:30  SC Freiburg              v TSG Hoffenheim             2-1 (1-0)  @ Schwarzwald-Stadion, Freiburg,  Att: 33500
+  17:30  SV Werder Bremen         v Bayer 04 Leverkusen        2-3 (1-1)  @ Weserstadion, Bremen,  Att: 41000
+  19:30  VfL Wolfsburg            v 1. FC Union Berlin         1-1 (0-0)  @ Volkswagen Arena, Wolfsburg,  Att: 23554
+
+▪ 25. Spieltag
+Fri Mar 17
+  20:30  Borussia Mönchengladbach v SV Werder Bremen           2-2 (0-0)  @ Borussia Park, Mönchengladbach,  Att: 54042
+Sat Mar 18
+  15:30  FC Augsburg              v FC Schalke 04              1-1 (0-0)  @ WWK Arena, Augsburg,  Att: 30660
+         VfL Bochum               v RB Leipzig                 1-0 (0-0)  @ rewirpowerSTADION, Bochum,  Att: 24400
+         TSG Hoffenheim           v Hertha BSC                 3-1 (2-0)  @ WIRSOL Rhein-Neckar-Arena, Sinsheim,  Att: 25027
+         VfB Stuttgart            v VfL Wolfsburg              0-1 (0-0)  @ Mercedes-Benz Arena, Stuttgart,  Att: 44900
+  18:30  Borussia Dortmund        v 1. FC Köln                 6-1 (4-1)  @ Signal Iduna Park, Dortmund,  Att: 81365
+Sun Mar 19
+  15:30  1. FC Union Berlin       v Eintracht Frankfurt        2-0 (0-0)  @ Alte Försterei, Berlin,  Att: 22012
+  17:30  Bayer 04 Leverkusen      v FC Bayern München          2-1 (0-1)  @ BayArena, Leverkusen,  Att: 30210
+  19:30  1. FSV Mainz 05          v SC Freiburg                1-1 (0-0)  @ Opel-Arena, Mainz,  Att: 26800
+
+▪ 26. Spieltag
+Fri Mar 31
+  20:30  Eintracht Frankfurt      v VfL Bochum                 1-1 (1-1)  @ Commerzbank-Arena, Frankfurt,  Att: 50000
+Sat Apr 1
+  15:30  SC Freiburg              v Hertha BSC                 1-1 (0-0)  @ MAGE SOLAR Stadion, Freiburg,  Att: 34700
+         RB Leipzig               v 1. FSV Mainz 05            0-3 (0-1)  @ Red Bull Arena, Leipzig,  Att: 45597
+         FC Schalke 04            v Bayer 04 Leverkusen        0-3 (0-0)  @ Veltins Arena, Gelsenkirchen,  Att: 62271
+         1. FC Union Berlin       v VfB Stuttgart              3-0 (0-0)  @ Alte Försterei, Berlin,  Att: 22012
+         VfL Wolfsburg            v FC Augsburg                2-2 (0-1)  @ Volkswagen Arena, Wolfsburg,  Att: 22107
+  18:30  FC Bayern München        v Borussia Dortmund          4-2 (3-0)  @ Allianz Arena, München,  Att: 75000
+Sun Apr 2
+  15:30  1. FC Köln               v Borussia Mönchengladbach   0-0 (0-0)  @ RheinEnergieStadion, Köln,  Att: 50000
+  17:30  SV Werder Bremen         v TSG Hoffenheim             1-2 (0-0)  @ Weserstadion, Bremen,  Att: 41000
+
+▪ 27. Spieltag
+Sat Apr 8
+  15:30  FC Augsburg              v 1. FC Köln                 1-3 (1-2)  @ WWK Arena, Augsburg,  Att: 30660
+         Bayer 04 Leverkusen      v Eintracht Frankfurt        3-1 (2-0)  @ BayArena, Leverkusen,  Att: 30210
+         Borussia Dortmund        v 1. FC Union Berlin         2-1 (1-0)  @ Signal Iduna Park, Dortmund,  Att: 81365
+         SC Freiburg              v FC Bayern München          0-1 (0-0)  @ MAGE SOLAR Stadion, Freiburg,  Att: 34700
+         1. FSV Mainz 05          v SV Werder Bremen           2-2 (0-0)  @ Opel-Arena, Mainz,  Att: 33305
+  18:30  Hertha BSC               v RB Leipzig                 0-1 (0-1)  @ Olympiastadion, Berlin,  Att: 50679
+Sun Apr 9
+  15:30  Borussia Mönchengladbach v VfL Wolfsburg              2-0 (1-0)  @ Borussia Park, Mönchengladbach,  Att: 51127
+  17:30  VfL Bochum               v VfB Stuttgart              2-3 (0-1)  @ rewirpowerSTADION, Bochum,  Att: 26000
+  19:30  TSG Hoffenheim           v FC Schalke 04              2-0 (1-0)  @ WIRSOL Rhein-Neckar-Arena, Sinsheim,  Att: 30150
+
+▪ 28. Spieltag
+Fri Apr 14
+  20:30  FC Schalke 04            v Hertha BSC                 5-2 (2-1)
+Sat Apr 15
+  15:30  FC Bayern München        v TSG Hoffenheim             1-1 (1-0)
+         1. FC Köln               v 1. FSV Mainz 05            1-1 (0-1)
+         RB Leipzig               v FC Augsburg                3-2 (3-1)
+         VfB Stuttgart            v Borussia Dortmund          3-3 (0-2)
+  18:30  Eintracht Frankfurt      v Borussia Mönchengladbach   1-1 (0-1)
+Sun Apr 16
+  15:30  SV Werder Bremen         v SC Freiburg                1-2 (0-0)
+  17:30  1. FC Union Berlin       v VfL Bochum                 1-1 (1-0)
+  19:30  VfL Wolfsburg            v Bayer 04 Leverkusen        0-0 (0-0)
+
+▪ 29. Spieltag
+Fri Apr 21
+  20:30  FC Augsburg              v VfB Stuttgart              1-1 (1-0)
+Sat Apr 22
+  15:30  VfL Bochum               v VfL Wolfsburg              1-5 (0-3)
+         Hertha BSC               v SV Werder Bremen           2-4 (0-2)
+         TSG Hoffenheim           v 1. FC Köln                 1-3 (0-2)
+         1. FSV Mainz 05          v FC Bayern München          3-1 (0-1)
+  18:30  Borussia Dortmund        v Eintracht Frankfurt        4-0 (3-0)
+Sun Apr 23
+  15:30  SC Freiburg              v FC Schalke 04              4-0 (2-0)
+  17:30  Bayer 04 Leverkusen      v RB Leipzig                 2-0 (1-0)
+  19:30  Borussia Mönchengladbach v 1. FC Union Berlin         0-1 (0-0)
+
+▪ 30. Spieltag
+Fri Apr 28
+  20:30  VfL Bochum               v Borussia Dortmund          1-1 (1-1)
+Sat Apr 29
+  15:30  Eintracht Frankfurt      v FC Augsburg                1-1 (1-0)
+         1. FC Köln               v SC Freiburg                0-1 (0-0)
+         RB Leipzig               v TSG Hoffenheim             1-0 (1-0)
+         VfB Stuttgart            v Borussia Mönchengladbach   2-1 (1-0)
+         1. FC Union Berlin       v Bayer 04 Leverkusen        0-0 (0-0)
+  18:30  FC Schalke 04            v SV Werder Bremen           2-1 (0-1)
+Sun Apr 30
+  15:30  FC Bayern München        v Hertha BSC                 2-0 (0-0)
+  17:30  VfL Wolfsburg            v 1. FSV Mainz 05            3-0 (3-0)
+
+▪ 31. Spieltag
+Fri May 5
+  20:30  Bayer 04 Leverkusen      v 1. FC Köln                 1-2 (1-2)
+         1. FSV Mainz 05          v FC Schalke 04              2-3 (0-1)
+Sat May 6
+  15:30  FC Augsburg              v 1. FC Union Berlin         1-0 (0-0)
+         Borussia Mönchengladbach v VfL Bochum                 2-0 (1-0)
+         SC Freiburg              v RB Leipzig                 0-1 (0-0)
+         Hertha BSC               v VfB Stuttgart              2-1 (2-1)
+         TSG Hoffenheim           v Eintracht Frankfurt        3-1 (3-0)
+  18:30  SV Werder Bremen         v FC Bayern München          1-2 (0-0)
+Sun May 7
+  17:30  Borussia Dortmund        v VfL Wolfsburg              6-0 (3-0)
+
+▪ 32. Spieltag
+Fri May 12
+  20:30  1. FC Köln               v Hertha BSC                 5-2 (3-2)
+Sat May 13
+  15:30  FC Bayern München        v FC Schalke 04              6-0 (2-0)
+         VfL Bochum               v FC Augsburg                3-2 (1-1)
+         Eintracht Frankfurt      v 1. FSV Mainz 05            3-0 (2-0)
+         1. FC Union Berlin       v SC Freiburg                4-2 (3-0)
+         VfL Wolfsburg            v TSG Hoffenheim             2-1 (1-0)
+  18:30  Borussia Dortmund        v Borussia Mönchengladbach   5-2 (4-0)
+Sun May 14
+  15:30  VfB Stuttgart            v Bayer 04 Leverkusen        1-1 (0-0)
+  17:30  RB Leipzig               v SV Werder Bremen           2-1 (0-0)
+
+▪ 33. Spieltag
+Fri May 19
+  20:30  SC Freiburg              v VfL Wolfsburg              2-0 (0-0)
+Sat May 20
+  15:30  Hertha BSC               v VfL Bochum                 1-1 (0-0)
+         TSG Hoffenheim           v 1. FC Union Berlin         4-2 (2-1)
+         FC Schalke 04            v Eintracht Frankfurt        2-2 (1-1)
+         SV Werder Bremen         v 1. FC Köln                 1-1 (0-1)
+  18:30  FC Bayern München        v RB Leipzig                 1-3 (1-0)
+Sun May 21
+  15:30  1. FSV Mainz 05          v VfB Stuttgart              1-4 (1-1)
+  17:30  FC Augsburg              v Borussia Dortmund          0-3 (0-0)
+  19:30  Bayer 04 Leverkusen      v Borussia Mönchengladbach   2-2 (2-0)
+
+▪ 34. Spieltag
+Sat May 27
+  15:30  VfL Bochum               v Bayer 04 Leverkusen        3-0 (2-0)
+         Borussia Dortmund        v 1. FSV Mainz 05            2-2 (0-2)
+         Borussia Mönchengladbach v FC Augsburg                2-0 (2-0)
+         Eintracht Frankfurt      v SC Freiburg                2-1 (0-1)
+         1. FC Köln               v FC Bayern München          1-2 (0-1)
+         RB Leipzig               v FC Schalke 04              4-2 (2-1)
+         VfB Stuttgart            v TSG Hoffenheim             1-1 (0-0)
+         1. FC Union Berlin       v SV Werder Bremen           1-0 (0-0)
+         VfL Wolfsburg            v Hertha BSC                 1-2 (1-0)

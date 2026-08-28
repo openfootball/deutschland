@@ -1,3 +1,7 @@
+###
+#  converted from openligadb.de json to Football.TXT
+#    for source, see https://api.openligadb.de/getmatchdata/dfb/2025
+
 = DFB Pokal 2025/2026
 
 
@@ -11,8 +15,8 @@ Sat Aug 16
   13:00  FK Pirmasens             v Hamburger SV               1-2 (0-0)
          BFC Dynamo               v VfL Bochum                 1-3 (0-0)
   15:30  SV Hemelingen            v VfL Wolfsburg              0-9 (0-3)
-         FV Illertissen           v 1. FC Nürnberg             3-3 a.e.t. (3-3, 2-0), 9-8 pen.
-         Eintracht Norderstedt    v FC St. Pauli               0-0 a.e.t. (0-0, 0-0), 2-3 pen.
+         FV Illertissen           v 1. FC Nürnberg             3-3 aet (3-3, 2-0), 9-8 pen
+         Eintracht Norderstedt    v FC St. Pauli               0-0 aet (0-0, 0-0), 2-3 pen
          SV Sandhausen            v RB Leipzig                 2-4 (2-2)
          Hansa Rostock            v TSG Hoffenheim             0-4 (0-1)
          Bahlinger SC             v 1. FC Heidenheim 1846      0-5 (0-2)
@@ -33,11 +37,11 @@ Sun Aug 17
          FC 08 Homburg            v Holstein Kiel              0-2 (0-1)
 Mon Aug 18
   18:00  Dynamo Dresden           v 1. FSV Mainz 05            0-1 (0-1)
-         Preußen Münster          v Hertha BSC                 0-0 a.e.t. (0-0, 0-0), 3-5 pen.
+         Preußen Münster          v Hertha BSC                 0-0 aet (0-0, 0-0), 3-5 pen
          1. FC Schweinfurt 05     v Fortuna Düsseldorf         2-4 (1-0)
   20:45  Rot-Weiss Essen          v Borussia Dortmund          0-1 (0-0)
 Tue Aug 26
-  20:45  Eintracht Braunschweig   v VfB Stuttgart              4-4 a.e.t. (3-4, 1-1), 11-12 pen.
+  20:45  Eintracht Braunschweig   v VfB Stuttgart              4-4 aet (3-4, 1-1), 11-12 pen
 Wed Aug 27
   20:45  SV Wehen Wiesbaden       v FC Bayern München          2-3 (0-1)
 
@@ -45,16 +49,16 @@ Wed Aug 27
 Tue Oct 28
   18:30  1. FC Heidenheim 1846    v Hamburger SV               0-1 (0-0)
          Hertha BSC               v SV 07 Elversberg           3-0 (1-0)
-         Eintracht Frankfurt      v Borussia Dortmund          1-1 a.e.t. (1-1, 1-0), 3-5 pen.
+         Eintracht Frankfurt      v Borussia Dortmund          1-1 aet (1-1, 1-0), 3-5 pen
          VfL Wolfsburg            v Holstein Kiel              0-1 (0-1)
   20:45  Energie Cottbus          v RB Leipzig                 1-4 (0-3)
          Borussia Mönchengladbach v Karlsruher SC              3-1 (1-0)
          FC Augsburg              v VfL Bochum                 0-1 (0-1)
-         FC St. Pauli             v TSG Hoffenheim             2-2 a.e.t. (1-1, 1-0), 10-9 pen.
+         FC St. Pauli             v TSG Hoffenheim             2-2 aet (1-1, 1-0), 10-9 pen
 Wed Oct 29
   18:00  FV Illertissen           v 1. FC Magdeburg            0-3 (0-2)
          SpVgg Greuther Fürth     v 1. FC Kaiserslautern       0-1 (0-1)
-         SC Paderborn 07          v Bayer 04 Leverkusen        2-4 a.e.t. (2-2, 0-0)
+         SC Paderborn 07          v Bayer 04 Leverkusen        2-4 aet (2-2, 0-0)
          1. FSV Mainz 05          v VfB Stuttgart              0-2 (0-1)
   20:45  1. FC Union Berlin       v DSC Arminia Bielefeld      2-1 (1-1)
          SV Darmstadt 98          v FC Schalke 04              4-0 (2-0)
@@ -70,7 +74,7 @@ Tue Dec 2
 Wed Dec 3
   18:00  VfL Bochum               v VfB Stuttgart              0-2 (0-1)
          SC Freiburg              v SV Darmstadt 98            2-0 (1-0)
-  20:45  Hamburger SV             v Holstein Kiel              1-1 a.e.t. (1-1, 0-0), 3-5 pen.
+  20:45  Hamburger SV             v Holstein Kiel              1-1 aet (1-1, 0-0), 3-5 pen
          1. FC Union Berlin       v FC Bayern München          2-3 (1-3)
 
 ▪ Viertelfinale
@@ -79,7 +83,7 @@ Tue Feb 3 2026
 Wed Feb 4
   20:45  Holstein Kiel            v VfB Stuttgart              0-3 (0-0)
 Tue Feb 10
-  20:45  Hertha BSC               v SC Freiburg                1-1 a.e.t. (0-1), 5-6 pen.
+  20:45  Hertha BSC               v SC Freiburg                1-1 aet (0-1), 5-6 pen
 Wed Feb 11
   20:45  FC Bayern München        v RB Leipzig                 2-0 (0-0)
 
@@ -87,7 +91,7 @@ Wed Feb 11
 Wed Apr 22
   20:45  Bayer 04 Leverkusen      v FC Bayern München          0-2 (0-1)
 Thu Apr 23
-  20:45  VfB Stuttgart            v SC Freiburg                2-1 a.e.t. (1-1, 0-1)
+  20:45  VfB Stuttgart            v SC Freiburg                2-1 aet (1-1, 0-1)
 
 ▪ Endspiel
 Sat May 23

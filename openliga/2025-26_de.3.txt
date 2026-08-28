@@ -1,3 +1,7 @@
+###
+#  converted from openligadb.de json to Football.TXT
+#    for source, see https://api.openligadb.de/getmatchdata/bl3/2025
+
 = 3. Liga 2025/2026
 
 

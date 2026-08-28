@@ -1,3 +1,7 @@
+###
+#  converted from openligadb.de json to Football.TXT
+#    for source, see https://api.openligadb.de/getmatchdata/bl3/2020
+
 = 3. Fußball-Liga 2020/2021
 
 

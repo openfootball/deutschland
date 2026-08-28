@@ -1,3 +1,7 @@
+###
+#  converted from openligadb.de json to Football.TXT
+#    for source, see https://api.openligadb.de/getmatchdata/bl3/2024
+
 = 3. Fußball-Bundesliga 2024/2025
 
 

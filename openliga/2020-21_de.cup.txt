@@ -37,63 +37,184 @@ Sun Sep 13
          SV Wehen Wiesbaden       v 1. FC Heidenheim 1846      1-0 (0-0)
 Mon Sep 14
   18:30  Dynamo Dresden           v Hamburger SV               4-1 (2-0)
+            (1-0  N.N. 3'
+             2-0  N.N. 16'
+             3-0  N.N. 53'
+             3-1  N.N. 89'
+             4-1  N.N. 95' (p))
          Würzburger Kickers       v Hannover 96                2-3 (0-1)
+            (0-1  N.N. 23'
+             0-2  N.N. 59'
+             0-3  N.N. 78'
+             1-3  N.N. 90'
+             2-3  N.N. 95' (p))
          Rot-Weiss Essen          v DSC Arminia Bielefeld      1-0 (1-0)
+            (1-0  N.N. 32')
   20:45  MSV Duisburg             v Borussia Dortmund          0-5 (0-3)
+            (0-1  Jadon Sancho 14' (p)
+             0-2  Jude Bellingham 30'
+             0-3  Thorgan Hazard 39'
+             0-4  Giovanni Reyna 50'
+             0-5  Marco Reus 58')
 Thu Oct 15
   20:45  1. FC Düren              v FC Bayern München          0-3 (0-2)
+            (0-1  Choupo-Moting 24'
+             0-2  T. Müller 36' (p)
+             0-3  Choupo-Moting 75')
 Tue Nov 3
   16:30  1. FC Schweinfurt 05     v FC Schalke 04              1-4 (1-2)
+            (1-0  Thomann 37'
+             1-1  Ibisevic 39'
+             1-2  Schöpf 44'
+             1-3  Schöpf 81'
+             1-4  Raman 86')
 
 ▪ 2. Runde
 Tue Dec 22
   18:30  FC Augsburg              v RB Leipzig                 0-3 (0-1)
+            (0-1  W. Orban 11'
+             0-2  Yussuf Poulsen 75'
+             0-3  Angelino 82')
          1. FC Köln               v VfL Osnabrück              1-0 (1-0)
+            (1-0  A. Modeste 46')
          TSG Hoffenheim           v SpVgg Greuther Fürth       2-2 aet (2-2, 1-1), 8-9 pen
+            (1-0  A. Kramaric 13'
+             1-1  S. Ernst 21'
+             1-2  M. Meyerhöfer 46'
+             2-2  K. Akpoguma 49')
          SSV Ulm 1846             v FC Schalke 04              1-3 (0-1)
+            (0-1  S. Serdar 27'
+             0-2  B. Raman 51'
+             0-3  B. Raman 63'
+             1-3  J. Reichert 82')
   20:00  Eintracht Braunschweig   v Borussia Dortmund          0-2 (0-1)
+            (0-1  M. Hummels 12'
+             0-2  J. Sancho 92')
   20:45  1. FC Union Berlin       v SC Paderborn 07            2-3 (1-3)
+            (0-1  S. Michel 3'
+             1-1  G. Prömel 6'
+             1-2  D. Srbeny 31'
+             1-3  S. Michel 36'
+             2-3  U. Hünemeier 57' (og))
          SV 07 Elversberg         v Borussia Mönchengladbach   0-5 (0-3)
+            (0-1  H. Wolf 5'
+             0-2  L. Benes 21'
+             0-3  L. Stindl 35'
+             0-4  I. Traore 69'
+             0-5  J. Villalba 83' (p))
          Dynamo Dresden           v SV Darmstadt 98            0-3 (0-1)
+            (0-1  F. Schnellhardt 25'
+             0-2  Paik Seung-Ho 60'
+             0-3  S. Dursun 72')
 Wed Dec 23
   18:30  VfL Wolfsburg            v SV Sandhausen              4-0 (3-0)
+            (1-0  Y. Gerhardt 28' (og)
+             2-0  R. Steffen 30'
+             3-0  Joao Victor 41'
+             4-0  W. Weghorst 91')
          Rot-Weiss Essen          v Fortuna Düsseldorf         3-2 (2-1)
+            (1-0  S. Engelmann 15'
+             1-1  R. Hennings 36'
+             2-1  M. Kehl-Gomez 39'
+             3-1  O. Kefkir 70'
+             3-2  R. Hennings 87' (p))
   20:45  VfB Stuttgart            v SC Freiburg                1-0 (1-0)
+            (1-0  S. Kalajdzic 15')
          Hannover 96              v SV Werder Bremen           0-3 (0-2)
+            (0-1  T. Gebre Selassi 30'
+             0-2  J. Sargent 32'
+             0-3  J. Mbom 60')
          1. FSV Mainz 05          v VfL Bochum                 2-2 aet (2-2, 1-0), 2-5 pen
+            (1-0  J. Boetius 7'
+             2-0  D. Latza 55'
+             2-1  G. Holtmann 66'
+             2-2  R. Tesche 94')
          SV Wehen Wiesbaden       v Jahn Regensburg            0-0 aet (0-0, 0-0), 2-4 pen
 Tue Jan 12 2021
   20:45  Bayer 04 Leverkusen      v Eintracht Frankfurt        4-1 (1-1)
+            (0-1  A. Younes 6'
+             1-1  L. Alario 27' (p)
+             2-1  E. Tapsoba 49'
+             3-1  M. Diaby 67'
+             4-1  M. Diaby 87')
 Wed Jan 13
   20:45  Holstein Kiel            v FC Bayern München          2-2 aet (2-2, 1-1), 8-7 pen
+            (0-1  S. Gnabry 14'
+             1-1  F. Bartels 37'
+             1-2  L. Sane 48'
+             2-2  H. Wahl 95')
 
 ▪ Achtelfinale
 Tue Feb 2
   18:30  Rot-Weiss Essen          v Bayer 04 Leverkusen        2-1 aet (0-0, 0-0)
+            (0-1  L. Bailey 105'
+             1-1  O. Kefkir 108'
+             2-1  S. Engelmann 117')
          Holstein Kiel            v SV Darmstadt 98            1-1 aet (1-1, 0-0), 8-7 pen
+            (1-0  J. Serra 58'
+             1-1  S. Dursun 86')
   20:45  SV Werder Bremen         v SpVgg Greuther Fürth       2-0 (1-0)
+            (1-0  K. Möhwald 12'
+             2-0  F. Agu 73')
          Borussia Dortmund        v SC Paderborn 07            3-2 aet (2-2, 2-0)
+            (1-0  E. Can 6'
+             2-0  J. Sancho 16'
+             2-1  J. Justvan 79'
+             2-2  P. Owusu 90+7' (p)
+             3-2  E. Haaland 95')
 Wed Feb 3
   18:30  VfL Wolfsburg            v FC Schalke 04              1-0 (1-0)
+            (1-0  W. Weghorst 40')
          RB Leipzig               v VfL Bochum                 4-0 (2-0)
+            (1-0  A. Haidara 11'
+             2-0  M. Sabitzer 45+1' (p)
+             3-0  Yussuf Poulsen 66'
+             4-0  Yussuf Poulsen 75')
   20:45  Jahn Regensburg          v 1. FC Köln                 2-2 aet (2-2, 2-2), 6-5 pen
+            (0-1  I. Jakobs 4'
+             0-2  E. Dennis 22'
+             1-2  S. Kennedy 35'
+             2-2  J. George 43')
          VfB Stuttgart            v Borussia Mönchengladbach   1-2 (1-1)
+            (1-0  S. Wamangituka 2'
+             1-1  M. Thuram 45+2'
+             1-2  A. Plea 52')
 
 ▪ Viertelfinale
 Tue Mar 2
   20:45  Borussia Mönchengladbach v Borussia Dortmund          0-1 (0-0)
+            (0-1  J. Sancho 66')
 Wed Mar 3
   18:30  Rot-Weiss Essen          v Holstein Kiel              0-3 (0-2)
+            (0-1  A. Mühling 26' (p)
+             0-2  J. Serra 28'
+             0-3  J. Mees 90')
   20:45  RB Leipzig               v VfL Wolfsburg              2-0 (0-0)
+            (1-0  Yussuf Poulsen 63'
+             2-0  Hee-Chan Hwang 88')
 Wed Apr 7
   18:30  Jahn Regensburg          v SV Werder Bremen           0-1 (0-0)
+            (0-1  Y. Osako 52')
 
 ▪ Halbfinale
 Fri Apr 30
   20:30  SV Werder Bremen         v RB Leipzig                 1-2 aet (0-0, 0-0)
+            (0-1  H.-C. Wang 93'
+             1-1  L. Bittencourt 105+1'
+             1-2  E. Forsberg 120+1')
 Sat May 1
   20:30  Borussia Dortmund        v Holstein Kiel              5-0 (5-0)
+            (1-0  G. Reyna 16'
+             2-0  G. Reyna 22'
+             3-0  M. Reus 26'
+             4-0  T. Hazard 32'
+             5-0  J. Bellingham 42')
 
 ▪ Endspiel
 Thu May 13
   20:45  RB Leipzig               v Borussia Dortmund          1-4 (0-3)  @ Olympiastadion, Berlin
+            (0-1  J. Sancho 5'
+             0-2  E. Haaland 28'
+             0-3  J. Sancho 46'
+             1-3  D. Olmo 71'
+             1-4  E. Haaland 87')

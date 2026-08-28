@@ -8,91 +8,329 @@
 ▪ 1. Runde
 Fri Jul 29 2022
   18:00  1. FC Kaan-Marienborn    v 1. FC Nürnberg             0-2 (0-1)
+            (0-1  J. Geis 45+0'
+             0-2  E. Valentini 84')
          TSG Neustrelitz          v Karlsruher SC              0-8 (0-3)
+            (0-1  F. Schleusener 12'
+             0-2  F. Schleusener 14'
+             0-3  F. Schleusener 41'
+             0-4  J. Gondorf 67'
+             0-5  M. Batmaz 72'
+             0-6  D. Gordon 73'
+             0-7  Simone Rapp 82'
+             0-8  Simone Rapp 87')
          Dynamo Dresden           v VfB Stuttgart              0-1 (0-1)
+            (0-1  D. Churlinov 33')
   20:45  TSV 1860 München         v Borussia Dortmund          0-3 (0-3)
+            (0-1  D. Malen 8'
+             0-2  J. Bellingham 31'
+             0-3  K. Adeyemi 35')
 Sat Jul 30
   13:00  FC Viktoria 1889 Berlin  v VfL Bochum                 0-3 (0-2)
+            (0-1  S. Zoller 19'
+             0-2  T. Asano 22'
+             0-3  P. Hofmann 65')
          SV Straelen              v FC St. Pauli               3-4 (2-2)
+            (1-0  J. Vicario 19'
+             1-1  E. Smith 25'
+             1-2  J. Medic 40'
+             2-2  A. Nshimirimana 42'
+             2-3  D. Otto 63'
+             3-3  J. Vicario 80'
+             3-4  E. Smith 90+1')
   15:30  Jahn Regensburg          v 1. FC Köln                 2-2 aet (2-2, 2-1), 6-5 pen
+            (1-0  A. Albers 18'
+             2-0  P. Owusu 27'
+             2-1  M. Uth 28'
+             2-2  D. Ljubicic 63')
          VfB Lübeck               v Hansa Rostock              1-0 (0-0)
+            (1-0  T. Gözüsirin 74')
          SV 07 Elversberg         v Bayer 04 Leverkusen        4-3 (3-2)
+            (1-0  Rochelt 3'
+             1-1  A. Hlozek 5'
+             2-1  Koffi 17' (p)
+             2-2  Aranguiz 30'
+             3-2  Schnellbacher 37'
+             4-2  K. Conrad 74'
+             4-3  P. Schick 89')
          Einheit Wernigerode      v SC Paderborn 07            0-10 (0-3)
+            (0-1  J. Justvan 8'
+             0-2  R. Leipertz 10'
+             0-3  M. Pieringer 40'
+             0-4  J. Justvan 47'
+             0-5  D. Srbeny 49'
+             0-6  M. Pieringer 51'
+             0-7  M. Pieringer 53'
+             0-8  R. Leipertz 58'
+             0-9  Tachie 66'
+             0-10  M. Pieringer 90')
          FV Illertissen           v 1. FC Heidenheim 1846      0-2 (0-0)
+            (0-1  P. Mainka 57'
+             0-2  A. Beck 80')
          SpVgg Oberfranken Bayreuth v Hamburger SV               1-3 aet (1-1, 1-0)
+            (1-0  L. Hemmerich 16'
+             1-1  R. Königsdörffer 83'
+             1-2  S. Schonlau 97'
+             1-3  R. Königsdörffer 111')
   18:00  Kickers Offenbach        v Fortuna Düsseldorf         1-4 (0-1)
+            (0-1  A. Hoffmann 34'
+             0-2  K. Peterson 54'
+             1-2  J. Lemmer 57'
+             1-3  D. Ginczek 71'
+             1-4  D. Ginczek 80')
          FC Carl Zeiss Jena       v VfL Wolfsburg              0-1 (0-0)
+            (0-1  O. Marmoush 90+2')
          Stuttgarter Kickers      v SpVgg Greuther Fürth       2-0 (1-0)
+            (1-0  D. Zagaria 9'
+             2-0  D. Braig 88')
 Sun Jul 31
   13:00  Schwarz-Weiß Rehden      v SV Sandhausen              0-4 (0-3)
+            (0-1  J. Bachmann 23'
+             0-2  A. Kutucu 32'
+             0-3  J. Bachmann 45'
+             0-4  D. Kinsombi 51')
          Bremer SV                v FC Schalke 04              0-5 (0-4)
+            (0-1  R. Zalazar 2'
+             0-2  D. Drexler 12'
+             0-3  D. Drexler 33'
+             0-4  S. Kmiec 39' (og)
+             0-5  M. Kaminski 83')
   15:30  FV Engers 07             v DSC Arminia Bielefeld      1-7 (0-2)
+            (0-1  J. Serra 9'
+             0-2  F. Klos 24'
+             0-3  F. Klos 50'
+             1-3  J. Kap 54'
+             1-4  M. Okugawa 57'
+             1-5  J. Serra 71'
+             1-6  B. Lasme 86'
+             1-7  R. Hack 90+1')
          TSV Schott Mainz         v Hannover 96                0-3 (0-2)
+            (0-1  D. Ahlbach 37' (og)
+             0-2  M. Beier 42'
+             0-3  J. Haas 51' (og))
          SV Rödinghausen          v TSG Hoffenheim             0-2 aet (0-0, 0-0)
+            (0-1  O. Kabak 115'
+             0-2  G. Prömel 118')
          1. FC Kaiserslautern     v SC Freiburg                1-2 aet (1-1, 1-0)
+            (1-0  M. Ritter 33'
+             1-1  R. Sallai 83'
+             1-2  R. Doan 111')
          SV Oberachern            v Borussia Mönchengladbach   1-9 (0-6)
+            (0-1  M. Thuram 3'
+             0-2  M. Thuram 22'
+             0-3  M. Thuram 36'
+             0-4  J. Hofmann 38'
+             0-5  R. Bensebaini 45'
+             0-6  J. Hofmann 45+0'
+             0-7  L. Stindl 47'
+             0-8  J. Scally 59'
+             1-8  N. Huber 61'
+             1-9  F. Neuhaus 78')
          Blau-Weiß Lohne          v FC Augsburg                0-4 (0-0)
+            (0-1  A. Maier 52'
+             0-2  Jensen 69'
+             0-3  F. Niederlechner 81'
+             0-4  M. Malone 89')
   18:00  Eintracht Braunschweig   v Hertha BSC                 4-4 aet (2-2, 0-2), 10-9 pen
+            (0-1  D. Selke 10'
+             0-2  M. Maolida 42'
+             1-2  Behrendt 63' (p)
+             2-2  Lauberbach 66'
+             3-2  Pherai 91'
+             3-3  L. Tousart 103'
+             3-4  D. Lukebakio 106'
+             4-4  B. Henning 118')
          SV Waldhof Mannheim      v Holstein Kiel              0-0 aet (0-0, 0-0), 5-3 pen
          Erzgebirge Aue           v 1. FSV Mainz 05            0-3 (0-1)
+            (0-1  D. Kohr 41'
+             0-2  D. Burgzorg 71'
+             0-3  M. Ingvartsen 79' (p))
 Mon Aug 1
   18:00  Chemnitzer FC            v 1. FC Union Berlin         1-2 aet (1-1, 0-0)
+            (1-0  T. Müller 62'
+             1-1  Jordan Siebatcheu 64'
+             1-2  K. Behrens 114')
          FC Ingolstadt 04         v SV Darmstadt 98            0-3 (0-2)
+            (0-1  P. Tietz 15'
+             0-2  T. Kempe 42' (p)
+             0-3  M. Warming 84')
          Energie Cottbus          v SV Werder Bremen           1-2 (0-1)  @ Stadion der Freundschaft, Cottbus
+            (0-1  R. Schmid 43'
+             0-2  M. Weiser 73'
+             1-2  T. Heike 79')
   20:45  1. FC Magdeburg          v Eintracht Frankfurt        0-4 (0-2)  @ MDCC-Arena, Magdeburg
+            (0-1  D. Kamada 4'
+             0-2  J. Lindstrøm 32'
+             0-3  D. Kamada 59'
+             0-4  L. Alario 90')
 Tue Aug 30
   20:45  Teutonia Ottensen        v RB Leipzig                 0-8 (0-4)
+            (0-1  T. Werner 19'
+             0-2  T. Werner 21'
+             0-3  A. Silva 40'
+             0-4  T. Werner 42'
+             0-5  A. Silva 53'
+             0-6  E. Forsberg 56'
+             0-7  C. Nkunku 77'
+             0-8  D. Olmo 90')
 Wed Aug 31
   20:45  Viktoria Köln            v FC Bayern München          0-5 (0-2)
+            (0-1  R. Gravenberch 35'
+             0-2  M. Tel 45+0'
+             0-3  S. Mane 53'
+             0-4  J. Musiala 67'
+             0-5  L. Goretzka 82')
 
 ▪ 2. Runde
 Tue Oct 18
   18:00  VfB Lübeck               v 1. FSV Mainz 05            0-3 (0-2)
+            (0-1  Alexander Hack 17'
+             0-2  M. Ingvartsen 44'
+             0-3  Aymen Barkok 89')
          Stuttgarter Kickers      v Eintracht Frankfurt        0-2 (0-2)
+            (0-1  R. Kolo Muani 12'
+             0-2  H. Smolcic 18')
          SV Waldhof Mannheim      v 1. FC Nürnberg             0-1 (0-0)
+            (0-1  Gohlke 63' (og))
          RB Leipzig               v Hamburger SV               4-0 (2-0)
+            (1-0  Yussuf Poulsen 34'
+             2-0  Yussuf Poulsen 36'
+             3-0  Simakan 69'
+             4-0  Henrichs 82')
   20:45  SV 07 Elversberg         v VfL Bochum                 0-1 (0-0)
+            (0-1  A. Losilla 86')
          Eintracht Braunschweig   v VfL Wolfsburg              1-2 (1-1)
+            (0-1  M. Svanberg 8'
+             1-1  M. Multhaup 40'
+             1-2  J. Kaminski 65')
          TSG Hoffenheim           v FC Schalke 04              5-1 (3-0)
+            (1-0  M. Dabbur 5'
+             2-0  Angelino 16'
+             3-0  M. Dabbur 43'
+             4-0  O. Kabak 51'
+             5-0  P. Kaderabek 63'
+             5-1  D. Drexler 70')
          SV Darmstadt 98          v Borussia Mönchengladbach   2-1 (1-0)
+            (1-0  P. Tietz 23'
+             1-1  L. Netz 48'
+             2-1  A. Seydel 79')
 Wed Oct 19
   18:00  Hannover 96              v Borussia Dortmund          0-2 (0-1)
+            (0-1  B. Arrey-Mbi 11' (og)
+             0-2  J. Bellingham 70' (p))
          SC Freiburg              v FC St. Pauli               2-1 aet (1-1, 0-1)
+            (0-1  L. Daschner 43'
+             1-1  M. Ginter 90+3'
+             2-1  M. Gregoritsch 119')
          SV Sandhausen            v Karlsruher SC              2-2 aet (2-2, 2-0), 10-9 pen
+            (1-0  S. Ambrosius 8' (og)
+             2-0  A. Zhirov 44'
+             2-1  M. Wanitzek 58' (p)
+             2-2  T. Breithaupt 72')
          SC Paderborn 07          v SV Werder Bremen           2-2 aet (2-2, 2-0), 7-6 pen
+            (1-0  Felix Platte 22'
+             2-0  S. Conteh 43'
+             2-1  L. Bittencourt 66'
+             2-2  M. Weiser 84')
   20:45  FC Augsburg              v FC Bayern München          2-5 (1-1)
+            (1-0  Pedersen 9'
+             1-1  Choupo-Moting 27'
+             1-2  J. Kimmich 53'
+             1-3  Choupo-Moting 59'
+             2-3  D. Upamecano 65' (og)
+             2-4  J. Musiala 74'
+             2-5  Alphonso Davies 90+1')
          VfB Stuttgart            v DSC Arminia Bielefeld      6-0 (4-0)
+            (1-0  Stenzel 20'
+             2-0  W. Endo 24'
+             3-0  L. Pfeiffer 29'
+             4-0  Silas Wamangituka 40'
+             5-0  L. Pfeiffer 52'
+             6-0  S. Guirassy 67')
          1. FC Union Berlin       v 1. FC Heidenheim 1846      2-0 (1-0)
+            (1-0  T. Puchacz 7'
+             2-0  S. Michel 52')
          Jahn Regensburg          v Fortuna Düsseldorf         0-3 (0-3)
+            (0-1  K. Peterson 5'
+             0-2  D. Kownacki 16'
+             0-3  E. Iyoha 45+0')
 
 ▪ Achtelfinale
 Tue Jan 31 2023
   18:00  SC Paderborn 07          v VfB Stuttgart              1-2 (1-0)
+            (1-0  K. Mavropanos 3' (og)
+             1-1  G. Dias 86'
+             1-2  S. Guirassy 95')
   20:45  1. FC Union Berlin       v VfL Wolfsburg              2-1 (1-1)
+            (0-1  L. Waldschmidt 5'
+             1-1  R. Knoche 12'
+             2-1  K. Behrens 79')
 Wed Feb 1
   18:00  RB Leipzig               v TSG Hoffenheim             3-1 (2-0)
+            (1-0  E. Forsberg 8'
+             2-0  K. Laimer 41'
+             2-1  K. Dollberg 77'
+             3-1  T. Werner 84')
   20:45  1. FSV Mainz 05          v FC Bayern München          0-4 (0-3)
+            (0-1  Choupo-Moting 17'
+             0-2  J. Musiala 30'
+             0-3  L. Sane 44'
+             0-4  A. Davies 83')
 Tue Feb 7
   18:00  SV Sandhausen            v SC Freiburg                0-2 (0-0)
+            (0-1  Al Ghaddioui 87' (og)
+             0-2  N. Petersen 95')
   20:45  Eintracht Frankfurt      v SV Darmstadt 98            4-2 (2-2)
+            (1-0  R. Kolo Muani 6'
+             1-1  M. Honsak 29'
+             1-2  M. Honsak 31'
+             2-2  R. Borré 44'
+             3-2  D. Kamada 62'
+             4-2  R. Kolo Muani 90')
 Wed Feb 8
   18:00  1. FC Nürnberg           v Fortuna Düsseldorf         1-1 aet (1-1, 0-1), 6-4 pen
+            (0-1  D. Kownacki 33'
+             1-1  T. Duman 93')
   20:45  VfL Bochum               v Borussia Dortmund          1-2 (0-1)
+            (0-1  E. Can 46'
+             1-1  K. Stöger 64' (p)
+             1-2  M. Reus 70')
 
 ▪ Viertelfinale
 Tue Apr 4
   18:00  Eintracht Frankfurt      v 1. FC Union Berlin         2-0 (2-0)
+            (1-0  R. Kolo Muani 11'
+             2-0  R. Kolo Muani 13')
   20:45  FC Bayern München        v SC Freiburg                1-2 (1-1)
+            (1-0  D. Upamecano 19'
+             1-1  Höfler 27'
+             1-2  L. Höler 95' (p))
 Wed Apr 5
   18:30  1. FC Nürnberg           v VfB Stuttgart              0-1 (0-0)
+            (0-1  E. Millot 83')
   20:45  RB Leipzig               v Borussia Dortmund          2-0 (1-0)
+            (1-0  T. Werner 22'
+             2-0  Kampl 90+8')
 
 ▪ Halbfinale
 Tue May 2
   20:45  SC Freiburg              v RB Leipzig                 1-5 (0-4)  @ Freiburg
+            (0-1  D. Olmo 13'
+             0-2  Henrichs 14'
+             0-3  D. Szoboszlai 37'
+             0-4  C. Nkunku 45+1'
+             1-4  Gregoritsch 75'
+             1-5  D. Szoboszlai 90+8' (p))
 Wed May 3
   20:45  VfB Stuttgart            v Eintracht Frankfurt        2-3 (1-0)  @ Mercedes-Benz Arena, Stuttgart
+            (1-0  T. Tomas 19'
+             1-1  E. Ndicka 51'
+             1-2  D. Kamada 55'
+             1-3  Kolo Muani 77' (p)
+             2-3  E. Millot 83')
 
 ▪ Endspiel
 Sat Jun 3
   20:00  RB Leipzig               v Eintracht Frankfurt        2-0 (0-0)  @ Olympiastadion, Berlin
+            (1-0  C. Nkunku 71'
+             2-0  D. Szoboszlai 85')

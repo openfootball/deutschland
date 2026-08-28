@@ -8,156 +8,421 @@
 ▪ 1. Spieltag
 Fri Sep 18 2020
   17:45  1. FC Kaiserslautern     v Dynamo Dresden             0-1 (0-1)
+            (0-1  Sebastian Mai 18')
 Sat Sep 19
   14:00  FC Bayern München II     v Türkgücü München           2-2 (1-1)
+            (0-1  Sararer 10'
+             1-1  Adrian Fein 23'
+             2-1  Kern 72'
+             2-2  Holz 81')
          VfB Lübeck               v 1. FC Saarbrücken          1-1 (1-0)
+            (1-0  Hobsch 13'
+             1-1  Jänicke 76')
          Hansa Rostock            v MSV Duisburg               3-1 (0-1)
+            (0-1  Scepanik 32'
+             1-1  Löhmannsröben 56'
+             2-1  Breier 65'
+             3-1  Breier 75')
          SV Wehen Wiesbaden       v SC Verl                    0-0 (0-0)
          SV Meppen                v TSV 1860 München           1-3 (0-1)
+            (0-1  Lex 3'
+             1-1  Bozic 54'
+             1-2  Moll 59'
+             1-3  Mölders 90+0')
          FSV Zwickau              v SpVgg Unterhaching         2-1 (1-0)
+            (1-0  Drinkuth 37'
+             1-1  Stroh-Engel 67' (p)
+             2-1  Starke 88')
 Sun Sep 20
   13:00  FC Ingolstadt 04         v KFC Uerdingen 05           2-1 (1-0)
+            (1-0  Beister 25'
+             2-0  Elva 61'
+             2-1  Kiprit 68')
   14:00  1. FC Magdeburg          v Hallescher FC              0-2 (0-2)
+            (0-1  Jürgen Gjasula 22' (og)
+             0-2  Derstroff 43')
 Mon Sep 21
   19:00  SV Waldhof Mannheim      v Viktoria Köln              2-2 (2-0)
+            (1-0  Ferati 7'
+             2-0  Costly 20'
+             2-1  Christiansen 51' (og)
+             2-2  Wunderlich 78')
 
 ▪ 2. Spieltag
 Fri Sep 25
   19:00  SpVgg Unterhaching       v VfB Lübeck                 1-0 (1-0)
+            (1-0  Greger 24' (p))
 Sat Sep 26
   14:00  MSV Duisburg             v FSV Zwickau                1-1 (0-0)
+            (0-1  König 67'
+             1-1  L.-J. Mickels 74')
          Viktoria Köln            v SV Wehen Wiesbaden         0-2 (0-1)
+            (0-1  Wurtz 40'
+             0-2  Wurtz 63')
          1. FC Saarbrücken        v Hansa Rostock              2-0 (1-0)
+            (1-0  Jacob 5' (p)
+             2-0  Shipnoski 83')
          SC Verl                  v FC Bayern München II       3-0 (2-0)
+            (1-0  Yildrim 17'
+             2-0  Janjic 40' (p)
+             3-0  Janjic 64')
          TSV 1860 München         v 1. FC Magdeburg            1-1 (0-0)
+            (0-1  Obermair 56'
+             1-1  Eric Tallig 76')
          Hallescher FC            v FC Ingolstadt 04           0-2 (0-0)
+            (0-1  Gaus 55'
+             0-2  Stefan Kutschke 67')
 Sun Sep 27
   13:00  Dynamo Dresden           v SV Waldhof Mannheim        1-1 (0-1)  @ Rudolf-Harbig-Stadion, Dresden
+            (0-1  Christiansen 42'
+             1-1  Christoph Daferner 87')
   14:00  Türkgücü München         v 1. FC Kaiserslautern       3-0 (2-0)  @ Stadion an der Grünwalder Straße, München
+            (1-0  Sliskovic 7'
+             2-0  Sliskovic 39'
+             3-0  Boere 55' (p))
 Mon Sep 28
   19:00  KFC Uerdingen 05         v SV Meppen                  0-2 (0-1)
+            (0-1  Piossek 22'
+             0-2  Rama 59')
 
 ▪ 3. Spieltag
 Fri Oct 2
   19:00  FC Bayern München II     v Dynamo Dresden             3-0 (2-0)
+            (1-0  Arp 22'
+             2-0  Dajaku 29'
+             3-0  Nicolas Kühn 90')
 Sat Oct 3
   14:00  SV Meppen                v SC Verl                    1-2 (0-2)
+            (0-1  Aygün Yildirim 6'
+             0-2  Lang 44'
+             1-2  El-Helwe 84')
          1. FC Magdeburg          v Viktoria Köln              0-2 (0-2)
+            (0-1  Rossmann 12'
+             0-2  Cueto 17')
          FSV Zwickau              v TSV 1860 München           1-2 (1-1)
+            (0-1  Mölders 1'
+             1-1  König 9'
+             1-2  Dressel 62')
          FC Ingolstadt 04         v SpVgg Unterhaching         0-1 (0-0)
+            (0-1  Stierlin 67')
          SV Waldhof Mannheim      v Türkgücü München           4-4 (2-2)
+            (0-1  Sliskovic 13'
+             1-1  Just 27'
+             1-2  Sararer 42'
+             2-2  Martinovic 45' (p)
+             2-3  Sliskovic 59'
+             2-4  Sorge 67'
+             3-4  Boyamba 71'
+             4-4  Boyamba 83')
          VfB Lübeck               v MSV Duisburg               1-1 (0-0)
+            (1-0  Deichmann 61'
+             1-1  Grupe 74' (og))
 Sun Oct 4
   13:00  Hansa Rostock            v KFC Uerdingen 05           0-0 (0-0)
   14:00  1. FC Saarbrücken        v Hallescher FC              4-0 (2-0)
+            (1-0  Deville 2'
+             2-0  Shipnoski 44'
+             3-0  Deville 60'
+             4-0  Mendler 71')
 Mon Oct 5
   19:00  SV Wehen Wiesbaden       v 1. FC Kaiserslautern       2-2 (2-0)
+            (1-0  Chato 8'
+             2-0  Tietz 34'
+             2-1  Bachmann 79'
+             2-2  Ciftci 94')
 
 ▪ 4. Spieltag
 Sat Oct 10
   14:00  1. FC Kaiserslautern     v SV Waldhof Mannheim        1-1 (0-1)
+            (0-1  Boyamba 7'
+             1-1  M. Ritter 77')
          TSV 1860 München         v VfB Lübeck                 4-1 (2-1)
+            (0-1  Hobsch 7'
+             1-1  Willsch 29'
+             2-1  Mölders 36'
+             3-1  Neudecker 62'
+             4-1  Lex 66')
          KFC Uerdingen 05         v FC Bayern München II       1-1 (0-0)
+            (0-1  Dajaku 53'
+             1-1  Kiprit 58')
          SC Verl                  v Hansa Rostock              2-3 (1-3)
+            (0-1  Bahn 31' (p)
+             0-2  Neidhart 35'
+             1-2  Aygün Yildirim 37'
+             1-3  Litka 43'
+             2-3  M Kurt 54')
          Türkgücü München         v SV Wehen Wiesbaden         0-0 (0-0)
          Dynamo Dresden           v 1. FC Magdeburg            1-0 (0-0)
+            (1-0  Y. Stark 54')
 Sun Oct 11
   13:00  SpVgg Unterhaching       v SV Meppen                  2-1 (1-1)
+            (0-1  Hilal El-Helwe 14'
+             1-1  Patrick Hasenhüttl 19'
+             2-1  Anspach 72')
   14:00  Viktoria Köln            v FC Ingolstadt 04           2-0 (1-0)
+            (1-0  Bunjaku 10'
+             2-0  Cueto 90')
 Mon Oct 12
   19:00  Hallescher FC            v FSV Zwickau                0-2 (0-1)
+            (0-1  Wolfram 39'
+             0-2  König 57')
 
 ▪ 5. Spieltag
 Fri Oct 16
   19:00  1. FC Magdeburg          v Türkgücü München           2-0 (1-0)
+            (1-0  A. Müller 31'
+             2-0  Brünker 81')
 Sat Oct 17
   14:00  FC Bayern München II     v 1. FC Kaiserslautern       0-0 (0-0)
          FC Ingolstadt 04         v SC Verl                    2-1 (1-1)
+            (1-0  Gaus 19'
+             1-1  Philipp Sander 34'
+             2-1  Yussuf Poulsen 47')
          Hansa Rostock            v TSV 1860 München           1-1 (0-1)
+            (0-1  Erdmann 42'
+             1-1  Bahn 50')
          VfB Lübeck               v Dynamo Dresden             0-1 (0-0)
+            (0-1  Hosiner 68')
          SV Wehen Wiesbaden       v SV Waldhof Mannheim        0-1 (0-1)
+            (0-1  Boyamba 2')
          FSV Zwickau              v KFC Uerdingen 05           1-2 (1-2)
+            (1-0  Velkov 16' (og)
+             1-1  Pusch 30'
+             1-2  Kiprit 41')
 Sun Oct 18
   13:00  1. FC Saarbrücken        v SpVgg Unterhaching         2-1 (0-0)
+            (0-1  Schröter 60'
+             1-1  Mendler 79'
+             2-1  Jacob 90+0')
   14:00  SV Meppen                v Viktoria Köln              0-1 (0-0)
+            (0-1  Bunjaku 52')
 
 ▪ 6. Spieltag
 Tue Oct 20
   19:00  SC Verl                  v 1. FC Magdeburg            3-1 (1-0)
+            (1-0  Janjic 7'
+             2-0  Janjic 51'
+             3-0  Berkan Taz 53'
+             3-1  A. Müller 65')
          Türkgücü München         v VfB Lübeck                 4-3 (2-1)
+            (1-0  Boere 10' (p)
+             1-1  Sorge 26' (og)
+             2-1  Erhardt 28'
+             3-1  Sliskovic 50'
+             3-2  Velagic 54'
+             3-3  M. Röser 56'
+             4-3  Gabriele 67' (p))
          Dynamo Dresden           v FSV Zwickau                1-2 (1-2)
+            (1-0  Hosiner 2'
+             1-1  Schikora 4'
+             1-2  Jensen 30')
          SV Waldhof Mannheim      v Hansa Rostock              1-2 (1-1)
+            (0-1  Litka 42'
+             1-1  Martinovic 44'
+             1-2  John Verhoek 48')
          KFC Uerdingen 05         v SV Wehen Wiesbaden         0-4 (0-3)
+            (0-1  Wurtz 12'
+             0-2  Wurtz 30'
+             0-3  Malone 36'
+             0-4  G. Korte 63')
 Wed Oct 21
   19:00  1. FC Kaiserslautern     v FC Ingolstadt 04           1-1 (1-0)
+            (1-0  Pourie 10'
+             1-1  Bilbija 76')
          Viktoria Köln            v FC Bayern München II       3-2 (0-0)
+            (1-0  Mike Wunderlich 1'
+             2-0  Thiele 14'
+             3-0  Cueto 27'
+             3-1  Nicolas Kühn 42'
+             3-2  Arp 61')
          Hallescher FC            v SV Meppen                  4-1 (2-1)
+            (1-0  Dehl 11'
+             1-1  Tankulic 13'
+             2-1  Vollert 25'
+             3-1  Derstroff 50'
+             4-1  Boyd 80')
          TSV 1860 München         v 1. FC Saarbrücken          1-2 (0-2)
+            (0-1  Jacob 14'
+             0-2  Breitenbach 40'
+             1-2  Moll 51')
          SpVgg Unterhaching       v MSV Duisburg               0-1 (0-1)
+            (0-1  Ademi 36')
 
 ▪ 7. Spieltag
 Sat Oct 24
   14:00  SV Meppen                v 1. FC Kaiserslautern       3-2 (1-1)
+            (1-0  Steffen Puttkammer 25'
+             1-1  Zuck 27'
+             2-1  Guder 49'
+             2-2  Pourie 66'
+             3-2  Lukas Krüger 86')
          FC Ingolstadt 04         v Dynamo Dresden             1-0 (0-0)
+            (1-0  Stefan Kutschke 5' (p))
          Hansa Rostock            v Viktoria Köln              5-1 (2-0)
+            (1-0  Bahn 24'
+             2-0  John Verhoek 25'
+             3-0  Julian Riedel 48'
+             4-0  John Verhoek 50'
+             5-0  Vollmann 69'
+             5-1  Wunderlich 81' (p))
          VfB Lübeck               v Hallescher FC              2-3 (1-0)
+            (1-0  M. Röser 11'
+             1-1  Boyd 62'
+             1-2  Dehl 65'
+             2-2  S. Benyamina 82'
+             2-3  Guttau 90')
          1. FC Magdeburg          v SV Wehen Wiesbaden         1-2 (0-0)
+            (1-0  Burger 50'
+             1-1  Chato 63'
+             1-2  Malone 74')
          MSV Duisburg             v KFC Uerdingen 05           0-2 (0-0)
+            (0-1  Marcussen 48'
+             0-2  Kiprit 71')
 Sun Oct 25
   13:00  1. FC Saarbrücken        v SC Verl                    1-2 (0-1)
+            (0-1  Yildrim 36'
+             1-1  Barylla 61'
+             1-2  Janjic 84')
   14:00  FC Bayern München II     v SV Waldhof Mannheim        2-0 (1-0)
+            (1-0  Nicolas Kühn 45'
+             2-0  Vita 74')
 Mon Oct 26
   19:00  SpVgg Unterhaching       v TSV 1860 München           0-2 (0-1)
+            (0-1  Dressel 13'
+             0-2  Mölders 84')
 
 ▪ 8. Spieltag
 Fri Oct 30
   19:00  Viktoria Köln            v VfB Lübeck                 0-2 (0-2)
+            (0-1  Grupe 6'
+             0-2  Okungbowa 39')
 Sat Oct 31
   14:00  Dynamo Dresden           v SV Meppen                  3-0 (1-0)
+            (1-0  Hosiner 45+0'
+             2-0  R. Königsdörffer 59'
+             3-0  Julius Kade 90')
          SV Waldhof Mannheim      v 1. FC Magdeburg            5-2 (2-2)
+            (1-0  Verlaat 11'
+             1-1  Obermair 25'
+             2-1  Martinovic 27'
+             2-2  Marcel Seegert 40'
+             3-2  Boyamba 72'
+             4-2  Gillian Jurcher 87'
+             5-2  Hofrath 90+0')
          KFC Uerdingen 05         v 1. FC Saarbrücken          1-0 (0-0)
+            (1-0  Kinsombi 90')
          TSV 1860 München         v MSV Duisburg               0-2 (0-0)
+            (0-1  Fleckstein 62'
+             0-2  Scepanik 90')
 Sun Nov 1
   13:00  SV Wehen Wiesbaden       v FC Bayern München II       2-4 (2-2)
+            (1-0  G. Korte 9'
+             1-1  Kern 33'
+             2-1  Medic 39'
+             2-2  Dajaku 43'
+             2-3  Kern 49' (p)
+             2-4  Vita 82')
   14:00  Türkgücü München         v FC Ingolstadt 04           1-1 (1-1)
+            (0-1  Keller 14'
+             1-1  Sliskovic 34')
 Mon Nov 2
   19:00  1. FC Kaiserslautern     v Hansa Rostock              0-0 (0-0)
 
 ▪ 4. Spieltag
 Wed Nov 4
   19:00  MSV Duisburg             v 1. FC Saarbrücken          2-3 (0-1)
+            (0-1  Shipnoski 38'
+             0-2  Sverko 66'
+             1-2  Budimbu 76'
+             2-2  Vermeij 78'
+             2-3  Jänicke 90+0')
 
 ▪ 7. Spieltag
 Wed Nov 4
   19:00  FSV Zwickau              v Türkgücü München           0-1 (0-0)
+            (0-1  Sararer 70')
 
 ▪ 9. Spieltag
 Fri Nov 6
   19:00  FC Ingolstadt 04         v SV Wehen Wiesbaden         4-1 (3-1)
+            (1-0  Stefan Kutschke 13'
+             2-0  Gaus 17'
+             2-1  Tietz 23'
+             3-1  Stendera 32'
+             4-1  Yussuf Poulsen 74')
 Sat Nov 7
   14:00  1. FC Magdeburg          v FC Bayern München II       2-1 (0-0)
+            (1-0  Franzke 49'
+             2-0  Obermair 60'
+             2-1  Kern 80' (p))
          FSV Zwickau              v 1. FC Kaiserslautern       1-2 (0-0)
+            (0-1  Pourie 57' (p)
+             1-1  Schikora 77'
+             1-2  Zuck 86')
          1. FC Saarbrücken        v Dynamo Dresden             2-1 (1-1)
+            (0-1  Christoph Daferner 16'
+             1-1  Shipnoski 45'
+             2-1  Jacob 90')
          TSV 1860 München         v Hallescher FC              6-1 (2-0)
+            (1-0  Dressel 41'
+             2-0  Dressel 45+0'
+             3-0  Dressel 56'
+             4-0  Mölders 58'
+             4-1  Boyd 63'
+             5-1  Dressel 71'
+             6-1  Eric Tallig 79')
 Sun Nov 8
   14:00  VfB Lübeck               v KFC Uerdingen 05           1-0 (0-0)
+            (1-0  Zehir 56')
 Mon Nov 9
   19:00  MSV Duisburg             v Viktoria Köln              1-3 (1-1)
+            (1-0  Stoppelkamp 22'
+             1-1  Thiele 34'
+             1-2  Bunjaku 52' (p)
+             1-3  Risse 77')
 
 ▪ 10. Spieltag
 Fri Nov 13
   19:00  Viktoria Köln            v 1. FC Saarbrücken          0-2 (0-1)
+            (0-1  Gottschling 24' (og)
+             0-2  Shipnoski 47')
 Sat Nov 14
   14:00  SV Wehen Wiesbaden       v FSV Zwickau                3-1 (2-1)
+            (1-0  G. Korte 6'
+             2-0  Chato 14'
+             2-1  Willms 16'
+             3-1  Tietz 83' (p))
          1. FC Kaiserslautern     v 1. FC Magdeburg            1-1 (0-0)
+            (1-0  Pourie 48'
+             1-1  A. Müller 55')
          KFC Uerdingen 05         v SpVgg Unterhaching         3-1 (0-0)
+            (1-0  Mörschel 52'
+             2-0  Mörschel 76'
+             2-1  Patrick Hasenhüttl 80'
+             3-1  Grimaldi 90')
          Hallescher FC            v Hansa Rostock              1-1 (1-0)
+            (1-0  Boyd 25'
+             1-1  Vollmann 51')
          Türkgücü München         v MSV Duisburg               2-1 (0-0)
+            (1-0  Sliskovic 48'
+             2-0  Sliskovic 66'
+             2-1  Vermeij 89')
          SV Waldhof Mannheim      v FC Ingolstadt 04           4-1 (2-0)
+            (1-0  Garcia 24'
+             2-0  Costly 35'
+             3-0  Martinovic 63'
+             3-1  Stefan Kutschke 78'
+             4-1  Boyamba 89')
 Sun Nov 15
   14:00  Dynamo Dresden           v TSV 1860 München           2-1 (1-1)
+            (0-1  Steinhart 27'
+             1-1  Yannick Stark 32'
+             2-1  R. Königsdörffer 70')
 Mon Nov 16
   19:00  SC Verl                  v VfB Lübeck                 1-2 (0-0)
+            (0-1  Steinwender 59'
+             1-1  Yildrim 66'
+             1-2  Deichmann 91')
 
 ▪ 5. Spieltag
 Tue Nov 17
@@ -166,163 +431,395 @@ Tue Nov 17
 ▪ 11. Spieltag
 Fri Nov 20
   19:00  MSV Duisburg             v SC Verl                    0-4 (0-1)
+            (0-1  Rabihic 15'
+             0-2  Janjic 59'
+             0-3  Aygün Yildirim 76'
+             0-4  Rabihic 80')
 Sat Nov 21
   14:00  TSV 1860 München         v KFC Uerdingen 05           0-0 (0-0)
          Hallescher FC            v 1. FC Kaiserslautern       1-1 (0-1)
+            (0-1  Redondo 12'
+             1-1  Papadopoulos 53')
          1. FC Saarbrücken        v SV Wehen Wiesbaden         3-3 (2-2)
+            (1-0  Jacob 13'
+             1-1  Malone 16'
+             2-1  Shipnoski 24'
+             2-2  Malone 26'
+             2-3  Malone 54'
+             3-3  Jacob 73')
          Hansa Rostock            v Dynamo Dresden             1-3 (1-3)
+            (0-1  Christoph Daferner 15'
+             0-2  Marco Hartmann 30'
+             0-3  R. Königsdörffer 40'
+             1-3  Breier 43')
          FSV Zwickau              v SV Waldhof Mannheim        0-0 (0-0)
 Sun Nov 22
   13:00  VfB Lübeck               v FC Bayern München II       3-0 (0-0)
+            (1-0  Deichmann 46'
+             2-0  Steinwender 73'
+             3-0  Zehir 78')
   14:00  SpVgg Unterhaching       v Viktoria Köln              2-2 (1-2)
+            (0-1  Grauschopf 15' (og)
+             0-2  Wunderlich 22'
+             1-2  Patrick Hasenhüttl 27'
+             2-2  Anspach 60')
   15:00  FC Ingolstadt 04         v 1. FC Magdeburg            1-0 (0-0)
+            (1-0  Burger 86' (og))
 
 ▪ 12. Spieltag
 Tue Nov 24
   19:00  SV Wehen Wiesbaden       v SV Meppen                  1-0 (0-0)
+            (1-0  G. Korte 71')
          KFC Uerdingen 05         v Hallescher FC              0-1 (0-0)
+            (0-0  Korte 71'
+             0-1  Michael Eberwein 58')
          SC Verl                  v TSV 1860 München           1-1 (1-1)
+            (0-1  Lex 20'
+             1-1  Lannert 39')
          SV Waldhof Mannheim      v MSV Duisburg               2-2 (1-1)
+            (1-0  Ferati 3'
+             1-1  Ghindovean 11'
+             1-2  Stoppelkamp 47'
+             2-2  Ferati 60')
          1. FC Magdeburg          v Hansa Rostock              1-1 (1-0)
+            (1-0  Beck 31'
+             1-1  John Verhoek 53')
 Wed Nov 25
   19:00  FC Bayern München II     v FC Ingolstadt 04           1-3 (1-1)
+            (1-0  Kern 3'
+             1-1  Elva 31'
+             1-2  Eckert Ayensa 72'
+             1-3  Beister 90')
          1. FC Kaiserslautern     v VfB Lübeck                 1-0 (0-0)
+            (1-0  M. Ritter 88')
          Dynamo Dresden           v SpVgg Unterhaching         2-0 (2-0)
+            (1-0  Mar. Hartmann 26'
+             2-0  Hosiner 42')
          Viktoria Köln            v FSV Zwickau                1-1 (0-0)
+            (1-0  Thiele 87' (p)
+             1-1  Schröter 90' (p))
          Türkgücü München         v 1. FC Saarbrücken          1-1 (1-0)
+            (1-0  Bouziane 9'
+             1-1  Mendler 61')
 
 ▪ 13. Spieltag
 Fri Nov 27
   19:00  KFC Uerdingen 05         v SC Verl                    1-2 (0-0)
+            (1-0  van Ooijen 47'
+             1-1  Taz 67'
+             1-2  Janjic 87')
 Sat Nov 28
   14:00  Hansa Rostock            v FC Bayern München II       2-0 (0-0)
+            (1-0  Julian Riedel 60'
+             2-0  Farrona Pulido 66')
          Hallescher FC            v Viktoria Köln              2-0 (0-0)
+            (1-0  Boyd 69'
+             2-0  Boyd 82')
          FSV Zwickau              v 1. FC Magdeburg            0-1 (0-0)
+            (0-1  A. Müller 72')
          SpVgg Unterhaching       v SV Wehen Wiesbaden         2-1 (1-1)
+            (0-1  Malone 2'
+             1-1  Stroh-Engel 20'
+             2-1  Luca Marseiler 54')
          TSV 1860 München         v Türkgücü München           2-2 (1-1)
+            (1-0  Greilinger 22'
+             1-1  Sliskovic 25'
+             2-1  Mölders 49'
+             2-2  Sliskovic 70')
 Sun Nov 29
   13:00  MSV Duisburg             v Dynamo Dresden             0-3 (0-1)
+            (0-1  Hosiner 25'
+             0-2  Weihrauch 53'
+             0-3  Christoph Daferner 54')
   14:00  1. FC Saarbrücken        v 1. FC Kaiserslautern       1-1 (0-0)
+            (0-1  Redondo 59'
+             1-1  Deville 88')
 Mon Nov 30
   19:00  SV Meppen                v FC Ingolstadt 04           2-0 (2-0)
+            (1-0  Tankulic 4'
+             2-0  Rama 23')
 
 ▪ 9. Spieltag
 Wed Dec 2
   19:00  Hansa Rostock            v Türkgücü München           2-0 (2-0)
+            (1-0  Bahn 7' (p)
+             2-0  Berzel 28' (og))
 
 ▪ 8. Spieltag
 Wed Dec 2
   19:00  Hallescher FC            v SpVgg Unterhaching         2-0 (1-0)
+            (1-0  Boyd 34'
+             2-0  Boyd 53')
 
 ▪ 14. Spieltag
 Fri Dec 4
   19:00  1. FC Magdeburg          v SV Meppen                  0-0 (0-0)
 Sat Dec 5
   14:00  FC Ingolstadt 04         v VfB Lübeck                 1-1 (0-0)
+            (1-0  Stefan Kutschke 72'
+             1-1  Steinwender 78')
          Dynamo Dresden           v KFC Uerdingen 05           0-0 (0-0)
          SV Waldhof Mannheim      v 1. FC Saarbrücken          4-1 (1-1)
+            (0-1  Mendler 15'
+             1-1  Martinovic 24'
+             2-1  Boyamba 49'
+             3-1  Martinovic 59'
+             4-1  Costly 84')
          Viktoria Köln            v TSV 1860 München           2-1 (1-1)
+            (0-1  Neudecker 16'
+             1-1  Koronkiewicz 40'
+             2-1  Risse 88')
          1. FC Kaiserslautern     v MSV Duisburg               2-2 (0-1)
+            (0-1  Karweina 14'
+             0-2  Engin 64'
+             1-2  Pourie 89'
+             2-2  Pourie 90')
 Sun Dec 6
   13:00  SV Wehen Wiesbaden       v Hansa Rostock              2-1 (1-0)
+            (1-0  Hollerbach 34'
+             2-0  Hollerbach 49'
+             2-1  John Verhoek 69')
   14:00  SC Verl                  v Hallescher FC              4-2 (2-1)
+            (1-0  Pernot 3'
+             2-0  Stöckner 6'
+             2-1  Boyd 44'
+             3-1  Rabihic 60'
+             4-1  Janjic 64'
+             4-2  Vocur 83')
 
 ▪ 9. Spieltag
 Tue Dec 8
   19:00  SV Meppen                v SV Waldhof Mannheim        2-0 (2-0)
+            (1-0  Amin 22'
+             2-0  Bünning 45+0')
 
 ▪ 15. Spieltag
 Fri Dec 11
   19:00  SpVgg Unterhaching       v 1. FC Kaiserslautern       2-0 (0-0)
+            (1-0  Patrick Hasenhüttl 50'
+             2-0  Greger 74')
 Sat Dec 12
   14:00  KFC Uerdingen 05         v Türkgücü München           1-0 (1-0)
+            (1-0  Mörschel 26')
          MSV Duisburg             v SV Wehen Wiesbaden         4-1 (1-0)
+            (1-0  Vermeij 19'
+             2-0  Vermeij 47'
+             3-0  Vermeij 74'
+             4-0  Ademi 77'
+             4-1  Guthörl 84')
          TSV 1860 München         v SV Waldhof Mannheim        5-0 (3-0)
+            (1-0  Mölders 3'
+             2-0  Mölders 24'
+             3-0  Mölders 27'
+             4-0  Belkahia 54'
+             5-0  Steinhart 71')
          Hallescher FC            v Dynamo Dresden             1-3 (1-2)
+            (1-0  Derstroff 7'
+             1-1  Y. Stark 26'
+             1-2  Becker 45'
+             1-3  Weihrauch 94')
          SC Verl                  v Viktoria Köln              1-1 (1-1)
+            (0-1  Cueto 3'
+             1-1  Koronkiewicz 36' (og))
          VfB Lübeck               v 1. FC Magdeburg            1-1 (1-1)
+            (1-0  Boland 22'
+             1-1  Obermair 26')
 Sun Dec 13
   13:00  1. FC Saarbrücken        v FC Bayern München II       1-2 (1-2)
+            (0-1  Kern 14'
+             1-1  Jänicke 26'
+             1-2  Jastremski 43')
   14:00  Hansa Rostock            v SV Meppen                  0-2 (0-1)
+            (0-1  Valdet Rama 36'
+             0-2  Amin 90+0' (p))
 
 ▪ 16. Spieltag
 Tue Dec 15
   19:00  Dynamo Dresden           v SC Verl                    4-1 (1-0)
+            (1-0  Julius Kade 43'
+             1-1  Janjic 56'
+             2-1  Weihrauch 68'
+             3-1  R. Königsdörffer 75'
+             4-1  Julius Kade 79')
          Türkgücü München         v Hallescher FC              0-3 (0-2)
+            (0-1  Derstroff 12'
+             0-2  Michael Eberwein 14'
+             0-3  Derstroff 61')
          SV Wehen Wiesbaden       v VfB Lübeck                 4-2 (1-2)
+            (0-1  Zehir 23'
+             0-2  M. Röser 39'
+             1-2  Kempe 45+1'
+             2-2  Prokop 68'
+             3-2  Tietz 71'
+             4-2  Medic 89')
          SV Waldhof Mannheim      v SpVgg Unterhaching         1-4 (1-3)
+            (0-1  Heinrich 13'
+             0-2  Grauschopf 22'
+             1-2  García 27'
+             1-3  Anspach 41'
+             1-4  Luca Marseiler 58')
          1. FC Kaiserslautern     v TSV 1860 München           0-3 (0-2)
+            (0-1  Neudecker 6'
+             0-2  Mölders 36'
+             0-3  Mölders 80')
 Wed Dec 16
   19:00  FC Bayern München II     v MSV Duisburg               1-1 (1-0)
+            (1-0  Kern 39'
+             1-1  Vermeij 65')
          Viktoria Köln            v KFC Uerdingen 05           0-2 (0-1)
+            (0-1  Lukimya 26'
+             0-2  Wagner 51')
          FC Ingolstadt 04         v Hansa Rostock              1-0 (1-0)
+            (1-0  Merlin Röhl 37')
          SV Meppen                v FSV Zwickau                1-2 (0-0)
+            (0-1  Schröter 51'
+             0-2  Schröter 68'
+             1-2  Al-Hazaimeh 90+0')
 
 ▪ 17. Spieltag
 Fri Dec 18
   19:00  TSV 1860 München         v SV Wehen Wiesbaden         2-2 (0-1)
+            (0-1  Gürleyen 17'
+             0-2  Prokop 52'
+             1-2  Mölders 74'
+             2-2  Knöferl 83')
 Sat Dec 19
   14:00  Viktoria Köln            v Dynamo Dresden             2-4 (1-0)
+            (1-0  Cueto 3' (p)
+             1-1  Christoph Daferner 59'
+             2-1  Cueto 65'
+             2-2  Hosiner 72' (p)
+             2-3  Sohm 78'
+             2-4  Sohm 89')
          SpVgg Unterhaching       v FC Bayern München II       1-1 (1-1)
+            (1-0  Luca Marseiler 2'
+             1-1  Arp 45+0')
          1. FC Saarbrücken        v FC Ingolstadt 04           3-3 (2-3)
+            (0-1  Eckert Ayensa 3'
+             1-1  Shipnoski 6' (p)
+             1-2  Eckert Ayensa 12'
+             1-3  Krauße 19'
+             2-3  Shipnoski 27'
+             3-3  Shipnoski 73' (p))
          VfB Lübeck               v SV Meppen                  0-2 (0-1)
+            (0-1  Piossek 11'
+             0-2  Tankulic 77')
          KFC Uerdingen 05         v 1. FC Kaiserslautern       0-2 (0-2)
+            (0-1  Philipp Hercher 30'
+             0-2  M. Ritter 34')
 Sun Dec 20
   13:00  SC Verl                  v Türkgücü München           0-1 (0-0)
+            (0-1  Sararer 62')
   14:00  FSV Zwickau              v Hansa Rostock              0-2 (0-1)
+            (0-1  Omladic 16'
+             0-2  Schikora 50' (og))
 
 ▪ 11. Spieltag
 Wed Dec 23
   17:00  SV Meppen                v Türkgücü München           1-4 (1-2)
+            (0-1  Sliskovic 15'
+             1-1  Bünning 41'
+             1-2  Kircicek 43'
+             1-3  Sorge 69'
+             1-4  Gorzel 90+0')
 
 ▪ 18. Spieltag
 Fri Jan 8 2021
   19:00  SV Waldhof Mannheim      v SC Verl                    2-2 (2-0)
+            (1-0  Saghiri 25'
+             2-0  Ferati 42'
+             2-1  Rabihic 69'
+             2-2  Yildrim 73')
 Sat Jan 9
   14:00  SV Wehen Wiesbaden       v Hallescher FC              1-1 (0-1)
+            (0-1  Derstroff 45'
+             1-1  Malone 89')
          FC Bayern München II     v TSV 1860 München           0-2 (0-1)
+            (0-1  Kern 44' (og)
+             0-2  Biankadi 90+0')
          SV Meppen                v 1. FC Saarbrücken          1-0 (1-0)
+            (1-0  Bünning 32')
          1. FC Magdeburg          v KFC Uerdingen 05           1-1 (1-0)
+            (1-0  Sören Bertram 42'
+             1-1  T. Müller 54' (og))
          Hansa Rostock            v SpVgg Unterhaching         1-0 (0-0)
+            (1-0  John Verhoek 55')
          1. FC Kaiserslautern     v Viktoria Köln              0-0 (0-0)
 Sun Jan 10
   13:00  FC Ingolstadt 04         v MSV Duisburg               2-1 (2-1)
+            (0-1  Engin 4'
+             1-1  Eckert Ayensa 16'
+             2-1  Keller 28')
   14:00  FSV Zwickau              v VfB Lübeck                 2-1 (0-1)
+            (0-1  Deichmann 35'
+             1-1  König 64'
+             2-1  Starke 84')
 Mon Jan 11
   19:00  Türkgücü München         v Dynamo Dresden             1-0 (0-0)
+            (0-0  N.N.
+             1-0  Sararer 32')
 
 ▪ 16. Spieltag
 Tue Jan 12
   19:00  1. FC Magdeburg          v 1. FC Saarbrücken          1-2 (1-1)
+            (0-1  Jacob 4' (p)
+             1-1  Sané 45' (p)
+             1-2  Jacob 57')
 
 ▪ 10. Spieltag
 Tue Jan 12
   19:00  FC Bayern München II     v SV Meppen                  2-0 (0-0)
+            (1-0  Nicolas Kühn 68'
+             2-0  Christopher Gavin Scott 74')
 
 ▪ 9. Spieltag
 Tue Jan 12
   19:00  SpVgg Unterhaching       v SC Verl                    3-4 (1-1)
+            (1-0  Jürgensen 41' (og)
+             1-1  Ritzka 45'
+             2-1  Patrick Hasenhüttl 59'
+             3-1  Heinrich 75'
+             3-2  Rabihic 86'
+             3-3  Schwabl 88' (og)
+             3-4  Taz 90')
 
 ▪ 15. Spieltag
 Wed Jan 13
   19:00  FSV Zwickau              v FC Ingolstadt 04           0-2 (0-1)
+            (0-1  Eckert Ayensa 37'
+             0-2  Kaya 60')
 
 ▪ 13. Spieltag
 Wed Jan 13
   19:00  VfB Lübeck               v SV Waldhof Mannheim        0-1 (0-1)
+            (0-1  Martinovic 25')
 
 ▪ 19. Spieltag
 Fri Jan 15
   19:00  Viktoria Köln            v Türkgücü München           0-2 (0-0)
+            (0-1  Sararer 47'
+             0-2  Sliskovic 90')
 Sat Jan 16
   14:00  SpVgg Unterhaching       v 1. FC Magdeburg            0-2 (0-1)
+            (0-1  Sane 29'
+             0-2  Bertram 85')
          SC Verl                  v 1. FC Kaiserslautern       1-1 (0-0)
+            (0-1  Pourie 62'
+             1-1  Taz 81')
          Hallescher FC            v FC Bayern München II       0-4 (0-2)
+            (0-1  Jastremski 9'
+             0-2  Zaiser 41'
+             0-3  Zaiser 51'
+             0-4  Jastremski 72')
 Sun Jan 17
   13:00  KFC Uerdingen 05         v SV Waldhof Mannheim        1-1 (0-1)
+            (0-1  Gouaida 40'
+             1-1  Mörschel 62')
   14:00  MSV Duisburg             v SV Meppen                  1-0 (1-0)
+            (1-0  Kamavuaka 22')
 Mon Jan 18
   19:00  TSV 1860 München         v FC Ingolstadt 04           1-0 (0-0)
+            (1-0  Sascha Mölders 75')
 
 ▪ 14. Spieltag
 Tue Jan 19
@@ -331,182 +828,424 @@ Tue Jan 19
 ▪ 8. Spieltag
 Tue Jan 19
   19:00  SC Verl                  v FSV Zwickau                1-1 (1-0)
+            (1-0  Schwermann 2'
+             1-1  König 49')
 
 ▪ 17. Spieltag
 Wed Jan 20
   19:00  Hallescher FC            v SV Waldhof Mannheim        0-0 (0-0)
          MSV Duisburg             v 1. FC Magdeburg            1-2 (1-0)
+            (1-0  Engin 22'
+             1-1  Nico Granatowski 55'
+             1-2  Leon Bell Bell 76')
 
 ▪ 20. Spieltag
 Fri Jan 22
   19:00  Türkgücü München         v FC Bayern München II       0-0 (0-0)
 Sat Jan 23
   14:00  MSV Duisburg             v Hansa Rostock              1-2 (1-2)
+            (0-1  Farrona Pulido 5'
+             0-2  Farrona Pulido 29'
+             1-2  Arne Sicker 34')
          SpVgg Unterhaching       v FSV Zwickau                1-2 (1-1)
+            (0-1  Willms 4'
+             1-1  Hufnagel 40'
+             1-2  Schröter 63')
          Hallescher FC            v 1. FC Magdeburg            1-0 (0-0)
+            (1-0  Boyd 90')
          Dynamo Dresden           v 1. FC Kaiserslautern       4-3 (2-1)
+            (0-1  Redondo 13'
+             1-1  Christoph Daferner 32'
+             2-1  Hosiner 45'
+             2-2  Pourie 46'
+             2-3  Redondo 58'
+             3-3  R. Königsdörffer 74'
+             4-3  Hosiner 82')
          Viktoria Köln            v SV Waldhof Mannheim        1-2 (1-0)
+            (1-0  Koronkiewicz 45+0'
+             1-1  Garcia 48'
+             1-2  Donkor 70')
          SC Verl                  v SV Wehen Wiesbaden         2-2 (1-0)
+            (1-0  Aygün Yildirim 20'
+             1-1  Medic 59'
+             2-1  Schikowski 64'
+             2-2  Tietz 77')
 Sun Jan 24
   13:00  TSV 1860 München         v SV Meppen                  1-1 (0-0)
+            (1-0  Belkahia 62'
+             1-1  Bozic 76')
   14:00  1. FC Saarbrücken        v VfB Lübeck                 0-0 (0-0)
 
 ▪ 21. Spieltag
 Tue Jan 26
   19:00  FSV Zwickau              v MSV Duisburg               3-1 (3-0)
+            (1-0  Nkansah 4'
+             2-0  Schröter 35'
+             3-0  Schröter 41'
+             3-1  Hettwer 56')
          SV Wehen Wiesbaden       v Viktoria Köln              2-2 (0-1)
+            (0-1  Lorch 21'
+             1-1  Tietz 64'
+             1-2  Cueto 81'
+             2-2  Malone 88')
          SV Waldhof Mannheim      v Dynamo Dresden             1-0 (0-0)
+            (1-0  Garcia 90+0' (p))
          1. FC Kaiserslautern     v Türkgücü München           0-0 (0-0)
 Wed Jan 27
   19:00  FC Ingolstadt 04         v Hallescher FC              1-1 (1-0)
+            (1-0  Stefan Kutschke 43' (p)
+             1-1  Boyd 51' (p))
          Hansa Rostock            v 1. FC Saarbrücken          4-2 (1-1)
+            (0-1  Shipnoski 8'
+             1-1  John Verhoek 14' (og)
+             2-1  Rother 56'
+             3-1  Neidhart 86'
+             3-2  Froese 90'
+             4-2  Neidhart 90+0')
          1. FC Magdeburg          v TSV 1860 München           0-3 (0-1)
+            (0-1  Lex 9'
+             0-2  Salger 56'
+             0-3  Steinhart 61')
          VfB Lübeck               v SpVgg Unterhaching         1-0 (1-0)
+            (1-0  Deichmann 32' (p))
 
 ▪ 22. Spieltag
 Sat Jan 30
   14:00  1. FC Kaiserslautern     v SV Wehen Wiesbaden         0-1 (0-0)
+            (0-1  Kevin Lankford 69')
          SC Verl                  v SV Meppen                  3-1 (0-0)
+            (1-0  Janjic 48'
+             1-1  Guder 50'
+             2-1  Bünning 58' (og)
+             3-1  Janjic 61')
          Türkgücü München         v SV Waldhof Mannheim        0-2 (0-1)
+            (0-1  Costly 20'
+             0-2  Martinovic 45')
          SpVgg Unterhaching       v FC Ingolstadt 04           0-1 (0-1)
+            (0-1  Caiuby 11')
 Sun Jan 31
   13:00  MSV Duisburg             v VfB Lübeck                 3-1 (2-0)
+            (1-0  Arne Sicker 26'
+             2-0  D. Schmidt 45+0'
+             3-0  Federico Palacios 74'
+             3-1  Okungbowa 83')
   14:00  TSV 1860 München         v FSV Zwickau                0-1 (0-0)
+            (0-1  Schröter 65')
 Mon Feb 1
   19:00  Hallescher FC            v 1. FC Saarbrücken          1-1 (0-1)
+            (0-1  Julian Günther-Schmidt 44'
+             1-1  Nietfeld 73')
 
 ▪ 23. Spieltag
 Fri Feb 5
   19:00  Hansa Rostock            v SC Verl                    3-2 (0-2)
+            (0-1  Janjic 4'
+             0-2  Schikowski 38'
+             1-2  John Verhoek 55'
+             2-2  Omladic 59'
+             3-2  Philip Türpitz 90+0')
 Sat Feb 6
   14:00  SV Waldhof Mannheim      v 1. FC Kaiserslautern       0-2 (0-2)
+            (0-1  Zuck 14'
+             0-2  Kleinsorge 20')
          SV Meppen                v SpVgg Unterhaching         3-2 (2-2)
+            (0-1  Luca Marseiler 10'
+             1-1  Hemlein 17'
+             2-1  Jesgarzewski 21'
+             2-2  Stroh-Engel 35'
+             3-2  Guder 63')
          FC Ingolstadt 04         v Viktoria Köln              2-1 (0-1)
+            (0-1  Thiele 11'
+             1-1  Buntic 90+3'
+             2-1  Elva 90+4')
          FSV Zwickau              v Hallescher FC              2-2 (2-1)
+            (0-1  Braydon Manu 10'
+             1-1  König 20'
+             2-1  Manfred Starke 28'
+             2-2  Boyd 52' (p))
          1. FC Magdeburg          v Dynamo Dresden             0-1 (0-0)
+            (0-1  Mörschel 74')
 Sun Feb 7
   13:00  FC Bayern München II     v KFC Uerdingen 05           0-1 (0-1)
+            (0-1  Feigenspan 23')
   14:00  SV Wehen Wiesbaden       v Türkgücü München           3-1 (1-0)
+            (1-0  Tietz 45+0'
+             1-1  Sararer 82' (p)
+             2-1  Kuhn 87'
+             3-1  Nilsson 90')
 
 ▪ 14. Spieltag
 Wed Feb 10
   19:00  FC Bayern München II     v FSV Zwickau                3-2 (2-1)
+            (1-0  Jastremski 12'
+             2-0  Frick 14' (og)
+             2-1  Schikora 45'
+             2-2  Schröter 59'
+             3-2  Nkansah 73' (og))
 
 ▪ 24. Spieltag
 Sat Feb 13
   14:00  1. FC Kaiserslautern     v FC Bayern München II       1-1 (0-0)
+            (0-1  Oberlin 67'
+             1-1  Hanslik 73')
          TSV 1860 München         v Hansa Rostock              0-0 (0-0)
          SV Waldhof Mannheim      v SV Wehen Wiesbaden         0-1 (0-0)
+            (0-1  Nilsson 89')
 Sun Feb 14
   13:00  SpVgg Unterhaching       v 1. FC Saarbrücken          0-1 (0-1)
+            (0-1  Julian Günther-Schmidt 29')
   14:00  Dynamo Dresden           v VfB Lübeck                 3-1 (2-0)
+            (1-0  Dafener 11'
+             2-0  Paul Will 24'
+             3-0  Kreuzer 60'
+             3-1  Zehir 62' (p))
 Mon Feb 15
   19:00  Türkgücü München         v 1. FC Magdeburg            2-1 (2-1)
+            (1-0  Röser 6'
+             2-0  Röser 12'
+             2-1  Gjasula 15')
 
 ▪ 25. Spieltag
 Fri Feb 19
   19:00  SV Meppen                v Hallescher FC              2-1 (1-1)
+            (1-0  Amin 10'
+             1-1  Michael Eberwein 43'
+             2-1  Boere 71')
 Sat Feb 20
   14:00  VfB Lübeck               v Türkgücü München           0-2 (0-1)
+            (0-1  Sararer 9'
+             0-2  Niemann 90')
          FC Ingolstadt 04         v 1. FC Kaiserslautern       1-0 (0-0)
+            (1-0  Butler 85')
          MSV Duisburg             v SpVgg Unterhaching         2-1 (1-1)
+            (1-0  Bouhaddouz 9'
+             1-1  Anspach 19'
+             2-1  Krempicki 79')
          Hansa Rostock            v SV Waldhof Mannheim        1-0 (1-0)
+            (1-0  Neidhart 22')
          1. FC Saarbrücken        v TSV 1860 München           2-1 (1-0)
+            (1-0  Shipnoski 32'
+             2-0  Julian Günther-Schmidt 64'
+             2-1  Mölders 67')
          FSV Zwickau              v Dynamo Dresden             0-2 (0-2)
+            (0-1  Pascal Sohm 38'
+             0-2  Christoph Daferner 45' (p))
 Sun Feb 21
   13:00  FC Bayern München II     v Viktoria Köln              0-1 (0-1)
+            (0-1  Cueto 18')
   14:00  1. FC Magdeburg          v SC Verl                    0-4 (0-3)
+            (0-1  Janjic 4'
+             0-2  Yildrim 16'
+             0-3  Yildrim 42'
+             0-4  Philipp Sander 79')
 Mon Feb 22
   19:00  SV Wehen Wiesbaden       v KFC Uerdingen 05           3-1 (3-1)
+            (0-1  Wagner 10'
+             1-1  Medic 20'
+             2-1  Malone 32'
+             3-1  Malone 38')
 
 ▪ 22. Spieltag
 Wed Feb 24
   19:00  Dynamo Dresden           v FC Bayern München II       1-1 (1-0)
+            (1-0  Christoph Daferner 8'
+             1-1  Maximilian Welzmüller 68')
 
 ▪ 26. Spieltag
 Fri Feb 26
   19:00  TSV 1860 München         v SpVgg Unterhaching         3-1 (1-0)
+            (1-0  Erdmann 35'
+             1-1  R. Müller 56'
+             2-1  Mölders 66'
+             3-1  Lex 80')
 Sat Feb 27
   14:00  Viktoria Köln            v Hansa Rostock              1-2 (1-1)
+            (1-0  Risse 6'
+             1-1  Rother 13'
+             1-2  Breier 72')
          Dynamo Dresden           v FC Ingolstadt 04           4-0 (2-0)
+            (1-0  Mörschel 39'
+             2-0  R. Königsdörffer 45'
+             3-0  Stendera 49' (og)
+             4-0  Luka Stor 90')
          1. FC Kaiserslautern     v SV Meppen                  2-2 (1-1)
+            (0-1  Hemlein 29'
+             1-1  M. Ritter 38'
+             1-2  Boere 47' (p)
+             2-2  Huth 59')
          Hallescher FC            v VfB Lübeck                 2-1 (1-0)
+            (1-0  Boyd 44'
+             2-0  Derstroff 50'
+             2-1  Ramaj 71')
          SC Verl                  v 1. FC Saarbrücken          1-3 (0-2)
+            (0-1  Gouras 11'
+             0-2  Köhler 19' (og)
+             0-3  Gouras 55'
+             1-3  Eilers 88')
          SV Wehen Wiesbaden       v 1. FC Magdeburg            1-0 (1-0)
+            (1-0  Medic 80')
 Sun Feb 28
   13:00  Türkgücü München         v FSV Zwickau                1-1 (0-0)
+            (0-1  Manfred Starke 88'
+             1-1  Sararer 90+0')
   14:00  KFC Uerdingen 05         v MSV Duisburg               1-2 (1-2)
+            (1-0  Lukimya 6'
+             1-1  Stoppelkamp 38'
+             1-2  Federico Palacios 44')
 Mon Mar 1
   19:00  SV Waldhof Mannheim      v FC Bayern München II       2-2 (2-1)
+            (1-0  Donkor 9'
+             1-1  Feldhahn 16'
+             2-1  Donkor 33'
+             2-2  Christopher Gavin Scott 47')
 
 ▪ 22. Spieltag
 Tue Mar 2
   17:00  Viktoria Köln            v 1. FC Magdeburg            2-4 (1-2)
+            (1-0  Klefisch 19'
+             1-1  A. Müller 37'
+             1-2  Brünker 39'
+             1-3  Obermair 53'
+             1-4  Baris Atik 79'
+             2-4  Wunderlich 83')
 
 ▪ 23. Spieltag
 Wed Mar 3
   17:00  1. FC Saarbrücken        v MSV Duisburg               4-1 (1-0)
+            (1-0  Julian Günther-Schmidt 45'
+             1-1  Moritz Stoppelkamp 52'
+             2-1  Froese 59'
+             3-1  Gouras 67'
+             4-1  Gouras 71')
 
 ▪ 20. Spieltag
 Wed Mar 3
   17:00  KFC Uerdingen 05         v FC Ingolstadt 04           0-3 (0-1)
+            (0-1  Stefan Kutschke 43'
+             0-2  Stefan Kutschke 51'
+             0-3  Caiuby 87')
 
 ▪ 19. Spieltag
 Wed Mar 3
   17:00  VfB Lübeck               v Hansa Rostock              1-0 (0-0)
+            (1-0  Benyamina 48')
 
 ▪ 27. Spieltag
 Fri Mar 5
   19:00  FSV Zwickau              v SC Verl                    3-0 (2-0)
+            (1-0  Miatke 1'
+             2-0  König 26'
+             3-0  Drinkuth 64')
 Sat Mar 6
   14:00  1. FC Magdeburg          v SV Waldhof Mannheim        1-1 (0-1)
+            (0-1  Donkor 21'
+             1-1  Jakubiak 64')
          Hansa Rostock            v 1. FC Kaiserslautern       2-1 (0-1)
+            (0-1  Zuck 25'
+             1-1  Omladic 46'
+             2-1  Roßbach 90')
          SV Meppen                v Dynamo Dresden             0-4 (0-2)
+            (0-1  Christoph Daferner 3'
+             0-2  Mörschel 25'
+             0-3  Hosiner 54' (p)
+             0-4  Mörschel 72')
          1. FC Saarbrücken        v KFC Uerdingen 05           2-2 (1-1)
+            (1-0  Gouras 12'
+             1-1  Albutat 35'
+             2-1  Gouras 57'
+             2-2  van Ooijen 74')
          VfB Lübeck               v Viktoria Köln              1-2 (0-0)
+            (0-1  Cueto 46'
+             0-2  Wunderlich 74'
+             1-2  Akono 78')
          MSV Duisburg             v TSV 1860 München           1-0 (0-0)
+            (1-0  Stoppelkamp 52')
 Sun Mar 7
   13:00  SpVgg Unterhaching       v Hallescher FC              3-0 (1-0)
+            (1-0  Anspach 12'
+             2-0  Stroh-Engel 76' (p)
+             3-0  Heinrich 85')
   14:00  FC Bayern München II     v SV Wehen Wiesbaden         2-0 (1-0)
+            (1-0  Boss 25' (og)
+             2-0  Zaiser 90+0')
 Mon Mar 8
   19:00  FC Ingolstadt 04         v Türkgücü München           2-1 (2-1)
+            (1-0  Schröck 14'
+             1-1  Maxime Awoudja 18'
+             2-1  Stefan Kutschke 31')
 
 ▪ 24. Spieltag
 Tue Mar 9
   19:00  Viktoria Köln            v SV Meppen                  1-0 (0-0)
+            (1-0  Mike Wunderlich 78')
 
 ▪ 22. Spieltag
 Tue Mar 9
   19:00  KFC Uerdingen 05         v Hansa Rostock              0-1 (0-0)
+            (0-1  Breier 67')
 
 ▪ 21. Spieltag
 Wed Mar 10
   19:00  FC Bayern München II     v SC Verl                    1-2 (0-0)
+            (1-0  Kern 47'
+             1-1  Corboz 69'
+             1-2  Aygün Yildirim 90+1')
 
 ▪ 19. Spieltag
 Wed Mar 10
   19:00  1. FC Saarbrücken        v FSV Zwickau                1-2 (0-0)
+            (0-1  Schröter 51' (p)
+             0-2  König 79'
+             1-2  Uaferro 85')
 
 ▪ 28. Spieltag
 Fri Mar 12
   19:00  KFC Uerdingen 05         v VfB Lübeck                 1-1 (1-0)
+            (1-0  Grimaldi 7'
+             1-1  Malone 59')
 Sat Mar 13
   14:00  Viktoria Köln            v MSV Duisburg               3-1 (2-1)
+            (1-0  Cueto 23'
+             2-0  Thiele 35'
+             2-1  Tomic 41'
+             3-1  Wunderlich 81')
          Hallescher FC            v TSV 1860 München           0-4 (0-3)
+            (0-1  Staude 1'
+             0-2  Biankadi 36'
+             0-3  Dressel 45+0'
+             0-4  Mölders 64')
          Dynamo Dresden           v 1. FC Saarbrücken          1-1 (0-0)
+            (0-1  Zeitz 58'
+             1-1  Sohm 62')
          FC Bayern München II     v 1. FC Magdeburg            0-2 (0-1)
+            (0-1  Baris Atik 45'
+             0-2  Gjasula 90')
          SV Wehen Wiesbaden       v FC Ingolstadt 04           1-2 (1-2)
+            (1-0  Malone 9'
+             1-1  Stefan Kutschke 12'
+             1-2  Stefan Kutschke 44' (p))
 Sun Mar 14
   13:00  SC Verl                  v SpVgg Unterhaching         2-1 (2-1)
+            (0-1  Stroh-Engel 12' (p)
+             1-1  Janjic 38' (p)
+             2-1  Aygün Yildirim 40')
   14:00  SV Waldhof Mannheim      v SV Meppen                  0-1 (0-1)
+            (0-1  Osee 19')
 Mon Mar 15
   14:00  Türkgücü München         v Hansa Rostock              0-3 (0-1)
+            (0-1  Farrona Pulido 45'
+             0-2  Bahn 59'
+             0-3  Omladic 90')
 
 ▪ 24. Spieltag
 Tue Mar 16
   19:00  Hallescher FC            v MSV Duisburg               1-1 (1-0)
+            (1-0  Shcherbakovski 33'
+             1-1  Bouhaddouz 52')
 Wed Mar 17
   19:00  SC Verl                  v FC Ingolstadt 04           1-1 (0-0)
+            (0-1  Bilbija 48'
+             1-1  Yildrim 76')
 
 ▪ 23. Spieltag
 Wed Mar 17
@@ -515,172 +1254,451 @@ Wed Mar 17
 ▪ 21. Spieltag
 Wed Mar 17
   19:00  SV Meppen                v KFC Uerdingen 05           0-4 (0-2)
+            (0-1  Grimaldi 35'
+             0-2  Lukimya 44'
+             0-3  Kiprit 77'
+             0-4  Kiprit 84')
 
 ▪ 19. Spieltag
 Wed Mar 17
   19:00  Dynamo Dresden           v SV Wehen Wiesbaden         1-0 (1-0)
+            (1-0  Sohm 11')
 
 ▪ 29. Spieltag
 Fri Mar 19
   19:00  1. FC Saarbrücken        v Viktoria Köln              2-3 (0-0)
+            (1-0  Jacob 6'
+             1-1  Cueto 64'
+             1-2  Wunderlich 71'
+             2-2  Vunguidica 82'
+             2-3  Thiele 90+0')
 Sat Mar 20
   14:00  FC Ingolstadt 04         v SV Waldhof Mannheim        1-0 (1-0)
+            (1-0  Elva 41')
          Hansa Rostock            v Hallescher FC              1-0 (1-0)
+            (1-0  John Verhoek 7')
          SpVgg Unterhaching       v KFC Uerdingen 05           2-3 (0-2)
+            (0-1  Grimaldi 6'
+             0-2  Lukimya 30'
+             1-2  Grauschopf 60'
+             2-2  Hain 62'
+             2-3  Kiprit 64')
          MSV Duisburg             v Türkgücü München           3-2 (0-2)
+            (0-1  L. Röser 9'
+             0-2  Maxime Awoudja 41'
+             1-2  Bouhaddouz 47'
+             2-2  Stoppelkamp 66' (p)
+             3-2  Ademi 89')
          1. FC Magdeburg          v 1. FC Kaiserslautern       1-0 (0-0)
+            (1-0  Baris Atik 56')
          VfB Lübeck               v SC Verl                    2-2 (1-2)
+            (0-1  Grupe 24' (og)
+             1-1  Akono 30'
+             1-2  Eilers 36'
+             2-2  Deichmann 80')
 Sun Mar 21
   13:00  SV Meppen                v FC Bayern München II       2-1 (1-0)
+            (1-0  Steffen Puttkammer 45+2'
+             1-1  Arp 58'
+             2-1  Steffen Puttkammer 72')
   14:00  FSV Zwickau              v SV Wehen Wiesbaden         2-1 (0-1)
+            (0-1  Hollerbach 45+2'
+             1-1  Schikora 53'
+             2-1  Schröter 86')
 Mon Mar 22
   19:00  TSV 1860 München         v Dynamo Dresden             1-0 (0-0)
+            (1-0  Philipp Steinhart 86')
 
 ▪ 24. Spieltag
 Sat Mar 27
   14:00  KFC Uerdingen 05         v FSV Zwickau                1-1 (1-1)
+            (0-1  König 1'
+             1-1  Grimaldi 27')
 
 ▪ 30. Spieltag
 Sat Apr 3
   14:00  SV Waldhof Mannheim      v FSV Zwickau                1-0 (0-0)
+            (1-0  Boyamba 56')
          1. FC Kaiserslautern     v Hallescher FC              3-1 (1-0)
+            (1-0  Pourie 28'
+             1-1  Boyd 63'
+             2-1  K. Kraus 81'
+             3-1  Philipp Hercher 90')
          KFC Uerdingen 05         v TSV 1860 München           1-3 (0-3)
+            (0-1  Belkahia 3'
+             0-2  Mölders 35'
+             0-3  Mölders 38'
+             1-3  Marcussen 51')
          1. FC Magdeburg          v FC Ingolstadt 04           2-0 (1-0)
+            (1-0  Baris Atik 12'
+             2-0  Brünker 50')
          FC Bayern München II     v VfB Lübeck                 2-3 (1-1)
+            (1-0  A. Stiller 42'
+             1-1  Ramaj 43'
+             2-1  Rhein 53'
+             2-2  Zehir 57' (p)
+             2-3  Deichmann 84')
          SC Verl                  v MSV Duisburg               1-2 (0-1)
+            (0-1  Stoppelkamp 27'
+             1-1  Eilers 55'
+             1-2  Stoppelkamp 79')
          SV Wehen Wiesbaden       v 1. FC Saarbrücken          2-2 (0-0)
+            (0-1  Julian Günther-Schmidt 56'
+             0-2  Julian Günther-Schmidt 64'
+             1-2  Tietz 84'
+             2-2  Tietz 90')
 Sun Apr 4
   13:00  Türkgücü München         v SV Meppen                  2-0 (2-0)
+            (1-0  Sararer 22'
+             2-0  Niemann 36')
   14:00  Dynamo Dresden           v Hansa Rostock              0-0 (0-0)
 Mon Apr 5
   19:00  Viktoria Köln            v SpVgg Unterhaching         1-1 (0-1)
+            (0-1  Anspach 40'
+             1-1  Schultz 86')
 
 ▪ 28. Spieltag
 Wed Apr 7
   19:00  1. FC Kaiserslautern     v FSV Zwickau                2-2 (0-0)
+            (0-1  Starke 60'
+             1-1  Philipp Hercher 64'
+             2-1  Nkansah 71' (og)
+             2-2  Stanic 90+0')
 
 ▪ 31. Spieltag
 Fri Apr 9
   19:00  Hallescher FC            v KFC Uerdingen 05           2-1 (0-0)
+            (0-1  Feigenspan 61'
+             1-1  Vucur 89'
+             2-1  Boyd 90+0')
 Sat Apr 10
   14:00  MSV Duisburg             v SV Waldhof Mannheim        1-1 (1-1)
+            (0-1  Martinovic 21'
+             1-1  Stoppelkamp 24')
          Hansa Rostock            v 1. FC Magdeburg            0-2 (0-1)
+            (0-1  Baris Atik 25'
+             0-2  Sören Bertram 90' (p))
          VfB Lübeck               v 1. FC Kaiserslautern       1-1 (1-0)
+            (1-0  Akono 31'
+             1-1  Hanslik 54')
          TSV 1860 München         v SC Verl                    3-2 (2-1)
+            (0-1  Eilers 2'
+             1-1  Mölders 15'
+             2-1  Mölders 19'
+             2-2  Aygün Yildirim 57'
+             3-2  Neudecker 65')
          1. FC Saarbrücken        v Türkgücü München           2-1 (2-0)
+            (1-0  Zeitz 2'
+             2-0  Shipnoski 14' (p)
+             2-1  L. Röser 67')
          FC Ingolstadt 04         v FC Bayern München II       2-2 (0-0)
+            (1-0  Elva 75'
+             1-1  Singh 86'
+             2-1  Kaya 90'
+             2-2  James Lawrence 90')
 Sun Apr 11
   13:00  FSV Zwickau              v Viktoria Köln              1-2 (0-0)
+            (0-1  Fritz 61'
+             0-2  Schultz 69'
+             1-2  Lars Lokotsch 90+3')
   14:00  SpVgg Unterhaching       v Dynamo Dresden             2-0 (1-0)
+            (1-0  Stephan Hain 40'
+             2-0  Greger 57' (p))
 Mon Apr 12
   19:00  SV Meppen                v SV Wehen Wiesbaden         0-3 (0-1)
+            (0-1  Tietz 13'
+             0-2  Tietz 48'
+             0-3  G. Korte 72')
 
 ▪ 32. Spieltag
 Fri Apr 16
   19:00  FC Bayern München II     v Hansa Rostock              0-1 (0-1)
+            (0-1  John Verhoek 45')
 Sat Apr 17
   14:00  1. FC Magdeburg          v FSV Zwickau                0-0 (0-0)
          Viktoria Köln            v Hallescher FC              2-0 (1-0)
+            (1-0  Wunderlich 32'
+             2-0  Handle 58')
          SC Verl                  v KFC Uerdingen 05           3-0 (2-0)
+            (1-0  Corboz 19'
+             2-0  Korb 38'
+             3-0  Ritzka 77')
          Türkgücü München         v TSV 1860 München           0-2 (0-0)
+            (0-1  Neudecker 59'
+             0-2  Belkahia 83')
          1. FC Kaiserslautern     v 1. FC Saarbrücken          2-1 (2-1)
+            (1-0  Hanslik 11'
+             1-1  Zeitz 22'
+             2-1  Hanslik 24')
 Sun Apr 18
   13:00  FC Ingolstadt 04         v SV Meppen                  0-0 (0-0)
   14:00  SV Waldhof Mannheim      v VfB Lübeck                 3-2 (3-1)
+            (0-1  Zehir 6'
+             1-1  Dominik Martinovic 18'
+             2-1  Dennis Jastrzembski 20'
+             3-1  Dominik Martinovic 44'
+             3-2  Malone 83')
   15:00  SV Wehen Wiesbaden       v SpVgg Unterhaching         1-0 (0-0)
+            (1-0  Kempe 3')
 
 ▪ 33. Spieltag
 Tue Apr 20
   19:00  TSV 1860 München         v Viktoria Köln              1-1 (1-0)
+            (1-0  Mölders 38'
+             1-1  Klingenburg 64')
          Hallescher FC            v SC Verl                    1-1 (1-0)
+            (1-0  Braydon Manu 16'
+             1-1  Stöckner 72')
          FSV Zwickau              v FC Bayern München II       1-1 (0-1)
+            (0-1  Singh 35'
+             1-1  Nkansah 90+0')
          MSV Duisburg             v 1. FC Kaiserslautern       2-2 (0-1)
+            (0-1  Hanslik 11'
+             1-1  Götze 65' (og)
+             1-2  Senger 79'
+             2-2  Kamavuaka 90+0')
 Wed Apr 21
   19:00  Hansa Rostock            v SV Wehen Wiesbaden         1-1 (0-0)
+            (1-0  Bahn 51'
+             1-1  Carstens 90')
          SV Meppen                v 1. FC Magdeburg            1-2 (0-0)
+            (0-1  Bertram 50'
+             1-1  Tankulic 74'
+             1-2  Baris Atik 74')
          SpVgg Unterhaching       v Türkgücü München           0-2 (0-1)
+            (0-1  Barry 2'
+             0-2  Kircicek 89')
          1. FC Saarbrücken        v SV Waldhof Mannheim        5-0 (2-0)
+            (1-0  Golley 14'
+             2-0  Shipnoski 42'
+             3-0  Golley 68'
+             4-0  Deville 71'
+             5-0  Deville 85')
          VfB Lübeck               v FC Ingolstadt 04           1-1 (0-0)
+            (1-0  Hertner 64'
+             1-1  Schröck 74')
 
 ▪ 34. Spieltag
 Fri Apr 23
   19:00  Viktoria Köln            v SC Verl                    2-2 (1-0)
+            (1-0  Schultz 8'
+             1-1  Langesberg 51'
+             2-1  Wunderlich 56'
+             2-2  Rabihic 86')
 Sat Apr 24
   14:00  Dynamo Dresden           v Hallescher FC              0-3 (0-1)
+            (0-1  Papadopoulos 27'
+             0-2  Michael Eberwein 62'
+             0-3  Braydon Manu 78')
          FC Ingolstadt 04         v FSV Zwickau                3-2 (1-1)
+            (1-0  Yussuf Poulsen 5'
+             1-1  König 12'
+             2-1  Bilbija 47'
+             2-2  Hauptmann 57'
+             3-2  Eckert Ayensa 75')
          SV Meppen                v Hansa Rostock              2-3 (0-2)
+            (0-1  John Verhoek 27'
+             0-2  Breier 44'
+             1-2  Ballmert 60'
+             2-2  Hemlein 67'
+             2-3  Philip Türpitz 90')
          1. FC Kaiserslautern     v SpVgg Unterhaching         3-2 (2-1)
+            (1-0  Philipp Hercher 33'
+             1-1  Heinrich 35'
+             2-1  Hlousek 36'
+             2-2  Hain 77'
+             3-2  Pourie 83')
          Türkgücü München         v KFC Uerdingen 05           0-2 (0-0)
+            (0-1  Marcussen 51'
+             0-2  Pusch 68')
          SV Waldhof Mannheim      v TSV 1860 München           0-2 (0-1)
+            (0-1  Neudecker 2'
+             0-2  Dressel 90')
 Sun Apr 25
   13:00  1. FC Magdeburg          v VfB Lübeck                 1-0 (0-0)
+            (1-0  Leon Bell Bell 82')
   14:00  SV Wehen Wiesbaden       v MSV Duisburg               0-3 (0-0)
+            (0-1  Bouhaddouz 46'
+             0-2  Kamavuaka 66'
+             0-3  Stoppelkamp 72')
 Mon Apr 26
   19:00  FC Bayern München II     v 1. FC Saarbrücken          0-4 (0-2)
+            (0-1  Gouras 11'
+             0-2  Shipnoski 20'
+             0-3  Shipnoski 70'
+             0-4  Jacob 90+1')
 
 ▪ 32. Spieltag
 Wed Apr 28
   19:00  Dynamo Dresden           v MSV Duisburg               1-0 (0-0)
+            (1-0  Christoph Daferner 77')
 
 ▪ 33. Spieltag
 Sat May 1
   14:00  KFC Uerdingen 05         v Dynamo Dresden             0-2 (0-1)
+            (0-0  Panagiotis Vlachodimos 45'
+             0-1  Vlachodimos 45'
+             0-2  Mörschel 74')
 
 ▪ 35. Spieltag
 Tue May 4
   19:00  Hansa Rostock            v FC Ingolstadt 04           1-1 (0-0)
+            (0-1  Eckert Ayensa 57'
+             1-1  John Verhoek 69')
          TSV 1860 München         v 1. FC Kaiserslautern       3-0 (1-0)
+            (1-0  Neudecker 37'
+             2-0  Steinhart 52' (p)
+             3-0  Steinhart 69')
          Hallescher FC            v Türkgücü München           4-1 (1-1)
+            (1-0  Papadopoulos 8'
+             1-1  Sliskovic 31'
+             2-1  Vucur 60'
+             3-1  Michael Eberwein 65'
+             4-1  Boyd 82')
          SC Verl                  v Dynamo Dresden             0-0 (0-0)
          VfB Lübeck               v SV Wehen Wiesbaden         0-3 (0-2)
+            (0-1  Nilsson 15'
+             0-2  Kevin Lankford 43'
+             0-3  Malone 67')
 Wed May 5
   19:00  KFC Uerdingen 05         v Viktoria Köln              1-1 (1-0)
+            (1-0  Kiprit 35'
+             1-1  Thiele 55')
          MSV Duisburg             v FC Bayern München II       2-2 (1-1)
+            (0-1  A. Sieb 14'
+             1-1  Aziz Bouhaddouz 15'
+             2-1  Justin Che 61'
+             2-2  Arp 74' (p))
          SpVgg Unterhaching       v SV Waldhof Mannheim        0-2 (0-1)
+            (0-1  García 24'
+             0-2  García 59')
          FSV Zwickau              v SV Meppen                  0-0 (0-0)
          1. FC Saarbrücken        v 1. FC Magdeburg            0-3 (0-0)
+            (0-1  Brünker 59'
+             0-2  Conteh 84'
+             0-3  Conteh 85')
 
 ▪ 36. Spieltag
 Fri May 7
   19:00  Türkgücü München         v SC Verl                    1-2 (1-0)
+            (1-0  Sijaric 3'
+             1-1  Jürgensen 69'
+             1-2  Eilers 82')
 Sat May 8
   14:00  SV Wehen Wiesbaden       v TSV 1860 München           1-1 (1-0)
+            (1-0  Johannes Wurtz 29'
+             1-1  Steinhart 80')
          Dynamo Dresden           v Viktoria Köln              2-0 (2-0)
+            (1-0  Mörschel 11'
+             2-0  Hosiner 31' (p))
          1. FC Kaiserslautern     v KFC Uerdingen 05           4-1 (3-1)
+            (0-1  Kiprit 6'
+             1-1  Philipp Hercher 14'
+             2-1  Götze 26'
+             3-1  Marvin Pourie 39'
+             4-1  Zuck 83')
          1. FC Magdeburg          v MSV Duisburg               3-2 (2-0)
+            (1-0  Brünker 8'
+             2-0  Ernst 13'
+             2-1  Tomic 47'
+             3-1  Baris Atik 57'
+             3-2  Vermeij 84')
          FC Ingolstadt 04         v 1. FC Saarbrücken          0-0 (0-0)
          Hansa Rostock            v FSV Zwickau                0-0 (0-0)
 Sun May 9
   13:00  SV Meppen                v VfB Lübeck                 0-2 (0-0)
+            (0-1  Deters 55'
+             0-2  Röser 84' (p))
   14:00  FC Bayern München II     v SpVgg Unterhaching         1-2 (0-1)
+            (0-1  Stierlin 8'
+             0-2  Anspach 51'
+             1-2  Motika 72')
 Mon May 10
   19:00  SV Waldhof Mannheim      v Hallescher FC              3-2 (3-2)
+            (1-0  Dominik Martinovic 17'
+             2-0  Stefano Russo 22'
+             3-0  Dominik Martinovic 25'
+             3-1  Jannes Vollert 35'
+             3-2  Laurenz Dehl 39')
 
 ▪ 37. Spieltag
 Fri May 14
   19:00  1. FC Saarbrücken        v SV Meppen                  2-0 (1-0)
+            (1-0  Jänicke 14'
+             2-0  Golley 62')
 Sat May 15
   13:30  MSV Duisburg             v FC Ingolstadt 04           1-5 (1-0)
+            (1-0  Sauer 10'
+             1-1  Stefan Kutschke 47' (p)
+             1-2  Bilbija 54'
+             1-3  Gaus 55'
+             1-4  Eckert Ayensa 65'
+             1-5  Bilbija 76')
   14:00  KFC Uerdingen 05         v 1. FC Magdeburg            1-0 (0-0)
+            (1-0  Marcussen 76')
          SpVgg Unterhaching       v Hansa Rostock              0-1 (0-1)
+            (0-1  Philip Türpitz 25')
          Viktoria Köln            v 1. FC Kaiserslautern       3-3 (3-1)
+            (0-1  Hanslik 14'
+             1-1  Thiele 18'
+             2-1  Thiele 19'
+             3-1  Klefisch 32'
+             3-2  Huth 71'
+             3-3  Hanslik 88')
          SC Verl                  v SV Waldhof Mannheim        0-1 (0-0)
+            (0-1  Boyamba 66')
 Sun May 16
   13:00  Hallescher FC            v SV Wehen Wiesbaden         4-0 (2-0)
+            (1-0  Michael Eberwein 21'
+             2-0  Julian Derstroff 22'
+             3-0  Terrence Boyd 60'
+             4-0  Terrence Boyd 64')
   14:00  Dynamo Dresden           v Türkgücü München           4-0 (2-0)
+            (1-0  Christoph Daferner 15'
+             2-0  R. Königsdörffer 27'
+             3-0  Heinz Mörschel 62'
+             4-0  Panagiotis Vlachodimos 90')
          TSV 1860 München         v FC Bayern München II       2-2 (1-1)
+            (0-1  A. Sieb 13'
+             1-1  Sascha Mölders 41' (p)
+             1-2  Sarpreet Singh 49'
+             2-2  Phillipp Steinhart 68' (p))
 Mon May 17
   19:00  VfB Lübeck               v FSV Zwickau                1-2 (1-1)
+            (0-1  Lars Lokotsch 4'
+             1-1  Deichmann 37'
+             1-2  Drinkuth 76')
 
 ▪ 38. Spieltag
 Sat May 22
   13:30  SV Wehen Wiesbaden       v Dynamo Dresden             0-1 (0-1)  @ Brita Arena, Wiesbaden
+            (0-1  Sohm 21')
          FC Bayern München II     v Hallescher FC              0-1 (0-1)
+            (0-1  N.N. 2')
          FC Ingolstadt 04         v TSV 1860 München           3-1 (2-0)
+            (1-0  Stefan Kutschke 9'
+             2-0  Stendera 44'
+             2-1  Erdmann 81'
+             3-1  Gaus 90+0' (p))
          Hansa Rostock            v VfB Lübeck                 1-1 (1-1)
+            (0-1  Benyamina 26'
+             1-1  Bahn 41' (p))
          SV Waldhof Mannheim      v KFC Uerdingen 05           1-1 (0-0)
+            (0-1  Feigenspan 62'
+             1-1  Costly 85')
          SV Meppen                v MSV Duisburg               2-1 (1-0)
+            (1-0  Tankulic 35'
+             2-0  Tankulic 52'
+             2-1  Federico Palacios 74')
          1. FC Kaiserslautern     v SC Verl                    1-1 (0-0)
+            (0-1  Rabihic 64'
+             1-1  Redondo 71')
          1. FC Magdeburg          v SpVgg Unterhaching         1-1 (0-0)
+            (1-0  Beck 50'
+             1-1  Heinrich 61')
          FSV Zwickau              v 1. FC Saarbrücken          2-0 (1-0)
+            (1-0  Jensen 24'
+             2-0  Lars Lokotsch 76')
          Türkgücü München         v Viktoria Köln              1-1 (0-0)
+            (1-0  Jakob 54'
+             1-1  Risse 63')

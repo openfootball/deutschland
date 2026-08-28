@@ -23,105 +23,310 @@ Sun Aug 3
 ▪ 2. Spieltag
 Fri Aug 8
   19:00  1. FC Schweinfurt 05     v Energie Cottbus            0-2 (0-0)
+            (0-1  T. Campulka 90+5'
+             0-2  C. Moustfa 90+8')
 Sat Aug 9
   14:00  1. FC Saarbrücken        v Viktoria Köln              2-1 (2-0)
+            (1-0  K. Brünker 7'
+             2-0  K. Brünker 39'
+             2-1  D. Otto 90+3')
          SSV Ulm 1846             v Erzgebirge Aue             1-0 (1-0)
+            (1-0  M. Scholze 44')
          TSV Havelse              v Rot-Weiss Essen            1-1 (0-0)
+            (0-1  T. Kraulich 89'
+             1-1  L. Paldino 90+6')
          Alemannia Aachen         v TSG 1899 Hoffenheim II     2-4 (1-2)
+            (0-1  K. Frees 5'
+             0-2  P. Hennrich 13'
+             1-2  L. Scepanik 43'
+             1-3  D. Zeitler 56'
+             2-3  G. Gaudino 63' (p)
+             2-4  T. Poller 90')
          TSV 1860 München         v VfL Osnabrück              3-1 (2-0)
+            (1-0  K. Volland 10'
+             2-0  F. Niederlechner 41'
+             3-0  S. Haugen 52'
+             3-1  P. Kammerbauer 75')
   16:30  SC Verl                  v SV Wehen Wiesbaden         2-2 (1-2)
+            (0-1  L. Schleimer 1'
+             0-2  M. Flotho 18'
+             1-2  Y. Otto 34'
+             2-2  B. Taz 75')
 Sun Aug 10
   13:30  Jahn Regensburg          v MSV Duisburg               0-4 (0-2)
+            (0-1  Patrick Sussek 9'
+             0-2  J.-S. Symalla 24'
+             0-3  T. Töpken 63'
+             0-4  Patrick Sussek 67')
   16:30  Hansa Rostock            v SV Waldhof Mannheim        1-0 (0-0)  @ Ostseestadion, Rostock
+            (1-0  M. Schuster 78')
   19:30  VfB Stuttgart II         v FC Ingolstadt 04           2-1 (2-0)
+            (1-0  M. Sankoh 27'
+             2-0  E. Korkut 30'
+             2-1  M. Borchers 47')
 
 ▪ 3. Spieltag
 Fri Aug 22
   19:00  SV Wehen Wiesbaden       v Rot-Weiss Essen            3-4 (1-0)
+            (1-0  J. Gillekens 24'
+             1-1  J. Ríos-Alonso 55'
+             1-2  K. Mizuta 63'
+             1-3  A. Arslan 70' (p)
+             2-3  F. Kaya 74' (p)
+             3-3  N. Agrafiotis 87'
+             3-4  T. Müsel 90+4')
 Sat Aug 23
   14:00  VfB Stuttgart II         v SC Verl                    1-1 (1-1)
+            (0-1  A. Besio 2'
+             1-1  M. Sankoh 5')
          VfL Osnabrück            v 1. FC Saarbrücken          2-0 (0-0)
+            (1-0  B. Jacobsen 78'
+             2-0  F. Christensen 84')
          Jahn Regensburg          v 1. FC Schweinfurt 05       3-0 (1-0)
          Alemannia Aachen         v TSV 1860 München           0-2 (0-0)
          TSG 1899 Hoffenheim II   v Energie Cottbus            4-1 (3-0)
   16:30  MSV Duisburg             v SSV Ulm 1846               2-1 (1-0)
+            (1-0  A. Hahn 23'
+             1-1  E. Löder 75'
+             2-1  T. Töpken 90+3')
 Sun Aug 24
   13:30  FC Ingolstadt 04         v Hansa Rostock              1-1 (0-0)
+            (1-0  D. Kaygin 57'
+             1-1  N. Neidhart 59')
   16:30  Erzgebirge Aue           v TSV Havelse                2-1 (0-1)
+            (0-1  J. Posselt 5'
+             1-1  L. Simnica 66'
+             2-1  E. Uhlmann 83')
   19:30  SV Waldhof Mannheim      v Viktoria Köln              2-0 (2-0)
+            (1-0  A. Diakhaby 29'
+             2-0  K. Okpala 43')
 
 ▪ 4. Spieltag
 Fri Aug 29
   19:00  Viktoria Köln            v Jahn Regensburg            1-0 (1-0)
+            (1-0  T. Kloss 40')
 Sat Aug 30
   14:00  1. FC Saarbrücken        v Erzgebirge Aue             4-1 (2-0)
+            (1-0  K. Brünker 33'
+             2-0  F. Pick 35'
+             2-1  M. Schmid 77'
+             3-1  F. Pick 85'
+             4-1  R. Elongo-Yombo 89')
          Energie Cottbus          v FC Ingolstadt 04           1-1 (1-0)
+            (1-0  T. Cigerci 35'
+             1-1  F. Carlsen 61')
          TSV Havelse              v VfL Osnabrück              0-2 (0-1)
+            (0-1  R. Meißner 32'
+             0-2  B. Jacobsen 61')
          TSV 1860 München         v VfB Stuttgart II           1-1 (0-1)
+            (0-1  M. Catovic 25'
+             1-1  S. Haugen 90+7')
          SC Verl                  v MSV Duisburg               2-3 (1-0)
+            (1-0  B. Taz 20'
+             2-0  T. Gayret 77'
+             2-1  J. Symalla 81'
+             2-2  T. Töpken 84'
+             2-3  C. Noß 90+2')
   16:30  Hansa Rostock            v TSG 1899 Hoffenheim II     0-1 (0-1)  @ Ostseestadion, Rostock
+            (0-1  A. Amaimouni-Echghouyab 13')
 Sun Aug 31
   13:30  SSV Ulm 1846             v SV Waldhof Mannheim        1-2 (1-2)
+            (0-1  F. Lohkemper 2'
+             1-1  E. Löder 17'
+             1-2  Kennedy Okpala 32')
   16:30  1. FC Schweinfurt 05     v SV Wehen Wiesbaden         0-1 (0-0)
   19:30  Rot-Weiss Essen          v Alemannia Aachen           2-3 (0-2)
 
 ▪ 5. Spieltag
 Fri Sep 12
   19:00  Jahn Regensburg          v Rot-Weiss Essen            1-3 (0-1)
+            (0-1  T. Moustier 35'
+             1-1  N. Eichinger 70'
+             1-2  K. Mizuta 75'
+             1-3  K. Owusu 90+7')
 Sat Sep 13
   14:00  FC Ingolstadt 04         v 1. FC Schweinfurt 05       2-3 (2-1)
+            (0-1  M. Ponath 3' (og)
+             1-1  Y. Sturm 35'
+             2-1  Y. Deichmann 38'
+             2-2  M. Wintzheimer 54'
+             2-3  Kristian Böhnlein 87')
          VfB Stuttgart II         v 1. FC Saarbrücken          1-3 (1-2)
+            (0-1  E. Krahn 4'
+             1-1  N. Darvich 10'
+             1-2  F. Pick 13'
+             1-3  C. Rizzuto 90+0')
          Erzgebirge Aue           v Viktoria Köln              0-3 (0-2)
+            (0-1  L. Münst 20'
+             0-2  T. Kloss 44'
+             0-3  B. Zank 86')
          MSV Duisburg             v SV Wehen Wiesbaden         3-1 (2-0)
+            (1-0  C. Viet 29'
+             2-0  C. Coskun 30'
+             2-1  Agrafiotis 49'
+             3-1  C. Noß 71')
          TSG 1899 Hoffenheim II   v SC Verl                    2-4 (1-1)
+            (1-0  A. Amaimouni-Echghouyab 15'
+             1-1  Y. Lührs 44'
+             2-1  P. Hennrich 55'
+             2-2  J. Arweiler 79'
+             2-3  O. Mhamdi 81'
+             2-4  D. Steczyk 90+0')
   16:30  Alemannia Aachen         v SSV Ulm 1846               1-3 (0-2)
+            (0-1  Dominik Martinovic 42'
+             0-2  A. Becker 45+0'
+             0-3  Dajaku 49'
+             1-3  G. Gaudino 72')
 Sun Sep 14
   13:30  VfL Osnabrück            v Hansa Rostock              0-0 (0-0)
   16:30  SV Waldhof Mannheim      v Energie Cottbus            0-3 (0-2)
+            (0-1  Axel Borgmann 7'
+             0-2  J. Boziaris 44'
+             0-3  J. Butler 75')
   19:30  TSV 1860 München         v TSV Havelse                3-2 (2-0)
+            (1-0  K. Volland 39'
+             2-0  S. Haugen 45'
+             2-1  F. Niederlechner 58' (og)
+             2-2  J. Posselt 89'
+             3-2  P. Hobsch 90+0')
 
 ▪ 6. Spieltag
 Tue Sep 16
   19:00  1. FC Saarbrücken        v SSV Ulm 1846               3-1 (1-0)
+            (1-0  F. Pick 5'
+             1-1  Marcel Seegert 55'
+             2-1  F. Pick 68'
+             3-1  Patrick Schmidt 87')
          Viktoria Köln            v TSG 1899 Hoffenheim II     2-1 (1-0)
+            (1-0  T. Kloss 29'
+             1-1  A. Amaimouni-Echghouyab 70'
+             2-1  L. Lobinger 90+0' (p))
          SV Wehen Wiesbaden       v Jahn Regensburg            2-0 (0-0)
+            (1-0  T. Gözüsirin 70'
+             2-0  M. Flotho 84')
          SC Verl                  v Alemannia Aachen           2-1 (0-0)
+            (1-0  B. Taz 60'
+             1-1  L. Gindorf 70'
+             2-1  Julian Stark 89')
          1. FC Schweinfurt 05     v MSV Duisburg               0-3 (0-1)
+            (0-1  Rasim Bulic 15'
+             0-2  T. Fleckstein 61'
+             0-3  C. Coskun 74')
 Wed Sep 17
   19:00  SV Waldhof Mannheim      v VfB Stuttgart II           0-1 (0-0)
+            (0-1  J.Lüers 90+4')
          Energie Cottbus          v Erzgebirge Aue             2-1 (1-1)
+            (1-0  M. Hannemann 2'
+             1-1  Guttau 15'
+             2-1  T. Cigerci 67' (p))
          Hansa Rostock            v TSV 1860 München           2-1 (2-0)  @ Ostseestadion, Rostock
+            (1-0  Benno Dietze 31'
+             2-0  Maximilian Krauß 34'
+             2-1  Sean Dulic 89')
          TSV Havelse              v FC Ingolstadt 04           2-6 (2-2)
+            (1-0  B.L. Kolgeci 15' (p)
+             2-0  J.Berger 19'
+             2-1  M. Besuschkow 39'
+             2-2  F. Carlsen 45'
+             2-3  M.Costly 53'
+             2-4  Y. Sturm 63'
+             2-5  M.Costly 82'
+             2-6  Y. Sturm 87')
          Rot-Weiss Essen          v VfL Osnabrück              1-1 (0-0)
+            (0-1  L.Kehl 66' (p)
+             1-1  T. Moustier 68')
 
 ▪ 7. Spieltag
 Fri Sep 19
   19:00  1. FC Saarbrücken        v 1. FC Schweinfurt 05       2-1 (2-0)
+            (1-0  K. Brünker 22'
+             2-0  K. Brünker 30'
+             2-1  L. Bausenwein 52')
 Sat Sep 20
   14:00  FC Ingolstadt 04         v SV Wehen Wiesbaden         0-0 (0-0)
          VfB Stuttgart II         v Viktoria Köln              2-1 (1-0)
+            (1-0  N. Sessa 23' (p)
+             2-0  J. Majchrzak 52'
+             2-1  D. Otto 79')
          VfL Osnabrück            v Erzgebirge Aue             3-1 (0-0)
+            (1-0  B. Jacobsen 49'
+             2-0  L.Kehl 63' (p)
+             2-1  M. Clausen 71'
+             3-1  I. Badjie 90+0')
          Alemannia Aachen         v SV Waldhof Mannheim        3-2 (1-0)
+            (1-0  N. Castelle 39'
+             1-1  K. Okpala 52'
+             1-2  Masca 56'
+             2-2  E. Elekwa 83'
+             3-2  L. Gindorf 90+0')
          Rot-Weiss Essen          v Hansa Rostock              3-0 (3-0)
+            (1-0  R. Safi 5'
+             2-0  A. Arslan 22' (p)
+             3-0  L. Brumme 30')
   16:30  TSV 1860 München         v TSG 1899 Hoffenheim II     1-5 (0-2)
+            (0-1  A. Amaimouni-Echghouyab 39'
+             0-2  A. Amaimouni-Echghouyab 45+0'
+             0-3  P. Hennrich 56'
+             0-4  P. Hennrich 69'
+             1-4  D. Philipp 71'
+             1-5  B. Opoku 80')
 Sun Sep 21
   13:30  TSV Havelse              v MSV Duisburg               1-1 (0-0)
+            (0-1  C. Noß 90'
+             1-1  J. Posselt 90+7')
   16:30  SC Verl                  v Energie Cottbus            2-1 (0-0)
+            (0-1  E. Engelhardt 58'
+             1-1  C. Onuoha 79'
+             2-1  C. Onuoha 81')
   19:30  SSV Ulm 1846             v Jahn Regensburg            2-1 (0-1)
+            (0-1  B. Bauer 4'
+             1-1  E. Löder 50'
+             2-1  A. Becker 62')
 
 ▪ 8. Spieltag
 Fri Sep 26
   19:00  Energie Cottbus          v VfB Stuttgart II           5-0 (2-0)
+            (1-0  E. Engelhardt 5'
+             2-0  H. Rorig 40'
+             3-0  E. Engelhardt 54'
+             4-0  Tim Campulka 67'
+             5-0  M. Hannemann 90+0')
 Sat Sep 27
   14:00  Erzgebirge Aue           v TSV 1860 München           2-0 (1-0)
+            (1-0  M. Stefaniak 20'
+             2-0  E. Uhlmann 82')
          Hansa Rostock            v TSV Havelse                1-1 (0-1)  @ Ostseestadion, Rostock
+            (0-1  E. Aytun 5'
+             1-1  K. Fatkic 47')
          SV Wehen Wiesbaden       v 1. FC Saarbrücken          1-1 (1-0)
+            (1-0  L. Schleimer 27'
+             1-1  F. Pick 66' (p))
          MSV Duisburg             v FC Ingolstadt 04           2-1 (0-0)
+            (0-1  D. Sekulovic 72'
+             1-1  P. Sussek 77'
+             2-1  S. Meuer 84')
          1. FC Schweinfurt 05     v Alemannia Aachen           1-5 (1-1)
+            (1-0  J. Tranziska 22'
+             1-1  L. Scepanik 32'
+             1-2  M. Schroers 48'
+             1-3  M. Schroers 64'
+             1-4  M. Schroers 66'
+             1-5  L. Gindorf 82')
   16:30  SV Waldhof Mannheim      v Rot-Weiss Essen            6-1 (2-0)
+            (1-0  F. Lohkemper 11'
+             2-0  J. Ríos-Alonso 22' (og)
+             3-0  N. Shipnoski 76'
+             4-0  N. Shipnoski 80'
+             4-1  M. Janssen 85'
+             5-1  N. Shipnoski 89' (p)
+             6-1  T. Boyd 90+0')
 Sun Sep 28
   13:30  Jahn Regensburg          v SC Verl                    2-0 (0-0)
+            (1-0  Robin Ziegele 81'
+             2-0  F. Beckhoff 90+0')
   16:30  TSG 1899 Hoffenheim II   v SSV Ulm 1846               1-1 (1-1)
+            (1-0  D. Zeitler 17'
+             1-1  Dennis Chessa 28')
   19:30  Viktoria Köln            v VfL Osnabrück              0-0 (0-0)
 
 ▪ 9. Spieltag
@@ -129,153 +334,478 @@ Tue Sep 30
   19:00  1. FC Saarbrücken        v MSV Duisburg               0-0 (0-0)
          VfB Stuttgart II         v SV Wehen Wiesbaden         0-0 (0-0)
          Hansa Rostock            v Energie Cottbus            1-3 (1-1)  @ Ostseestadion, Rostock
+            (0-1  M. Hannemann 36'
+             1-1  R. Naderi 42'
+             1-2  E. Engelhardt 71'
+             1-3  C. Moustfa 90+0')
          TSV Havelse              v SV Waldhof Mannheim        2-3 (0-1)
+            (0-1  Masca 11'
+             0-2  F. Lohkemper 58'
+             1-2  J. Posselt 60'
+             2-2  Semi Belkahia 73'
+             2-3  N. Shipnoski 74')
          Alemannia Aachen         v Erzgebirge Aue             0-1 (0-1)
+            (0-1  P. Fallmann 34')
 Wed Oct 1
   19:00  SSV Ulm 1846             v 1. FC Schweinfurt 05       5-1 (2-1)
+            (1-0  Dennis Chessa 14'
+             1-1  Joshua Endres 17'
+             2-1  N. Kölle 20'
+             3-1  E. Löder 72'
+             4-1  N. Kölle 77'
+             5-1  L. Röser 84')
          VfL Osnabrück            v Jahn Regensburg            2-0 (1-0)
+            (1-0  Fridolin Wagner 27'
+             2-0  P. Kammerbauer 64')
          Rot-Weiss Essen          v TSG 1899 Hoffenheim II     3-1 (2-0)
+            (1-0  J. Mause 18'
+             2-0  J. Mause 30'
+             3-0  K. Mizuta 59'
+             3-1  V. Lässig 85')
          TSV 1860 München         v Viktoria Köln              2-2 (1-2)
+            (0-1  L. Lobinger 4'
+             0-2  D. Otto 8'
+             1-2  M. Christiansen 41'
+             2-2  P. Hobsch 52')
          SC Verl                  v FC Ingolstadt 04           2-2 (1-0)
+            (1-0  D. Steczyk 11'
+             1-1  F. Christensen 66'
+             2-1  J. Arweiler 88'
+             2-2  S. Lorenz 90+0')
 
 ▪ 10. Spieltag
 Fri Oct 3
   19:00  MSV Duisburg             v Hansa Rostock              2-2 (1-1)
+            (1-0  P. Sussek 32'
+             1-1  C. Harenbrock 45+0'
+             2-1  T. Fleckstein 71'
+             2-2  C. Harenbrock 76')
 Sat Oct 4
   14:00  SV Waldhof Mannheim      v VfL Osnabrück              1-4 (1-0)
+            (1-0  F. Lohkemper 14'
+             1-1  R. Meißner 49'
+             1-2  R. Meißner 58'
+             1-3  F. Christensen 64'
+             1-4  I. Badjie 87')
          FC Ingolstadt 04         v SSV Ulm 1846               4-1 (1-1)
+            (1-0  M. Costly 22'
+             1-1  Dajaku 32' (p)
+             2-1  S. Lorenz 50'
+             3-1  M.Costly 87'
+             4-1  D. Sekulovic 90+0')
          Viktoria Köln            v TSV Havelse                4-1 (2-0)
+            (1-0  S. Kozuki 14'
+             2-0  D. Otto 40'
+             3-0  L. Münst 51'
+             3-1  J. Rufidis 79'
+             4-1  L. Lobinger 88')
          Jahn Regensburg          v 1. FC Saarbrücken          1-1 (0-1)
+            (0-1  K. Brünker 18'
+             1-1  Adrian Fein 90+0')
          1. FC Schweinfurt 05     v SC Verl                    1-2 (1-0)
+            (1-0  J. Tranziska 38'
+             1-1  C. Onuoha 78'
+             1-2  Julian Stark 88')
   16:30  Energie Cottbus          v Alemannia Aachen           3-2 (1-2)
+            (0-1  L. Gindorf 14' (p)
+             1-1  Tolcay Cigerci 22'
+             1-2  M. Schroers 25'
+             2-2  E. Engelhardt 68'
+             3-2  Tolcay Cigerci 72' (p))
 Sun Oct 5
   13:30  Erzgebirge Aue           v Rot-Weiss Essen            2-2 (0-0)
+            (1-0  Julian Guttau 16'
+             1-1  T. Kraulich 40'
+             2-1  Julian Guttau 42'
+             2-2  M. Obuz 66')
   16:30  SV Wehen Wiesbaden       v TSV 1860 München           1-0 (0-0)
+            (1-0  M. Flotho 87')
   19:30  TSG 1899 Hoffenheim II   v VfB Stuttgart II           1-3 (1-1)
+            (0-1  D. Zagadou 19'
+             1-1  L. Duric 36' (p)
+             1-2  J. Majchrzak 49'
+             1-3  M. Sankoh 67' (p))
 
 ▪ 11. Spieltag
 Fri Oct 17
   19:00  Erzgebirge Aue           v SV Waldhof Mannheim        0-2 (0-1)
+            (0-1  Niklas Hoffmann 20'
+             0-2  A. Ferati 67')
 Sat Oct 18
   14:00  1. FC Saarbrücken        v SC Verl                    2-4 (1-2)
+            (0-1  J. Arweiler 7'
+             1-1  Kasim Rabihic 15'
+             1-2  J. Arweiler 21'
+             1-3  B. Taz 54'
+             2-3  K. Caliskaner 58'
+             2-4  T. Gayret 77')
          VfB Stuttgart II         v 1. FC Schweinfurt 05       3-0 (1-0)
+            (1-0  J. Diehl 7'
+             2-0  N. Sessa 56' (p)
+             3-0  M. Ouro-Tagba 73' (p))
          VfL Osnabrück            v TSG 1899 Hoffenheim II     0-4 (0-1)
+            (0-1  A. Amaimouni-Echghouyab 5'
+             0-2  D. Zeitler 76'
+             0-3  Ben Opoku Labes 81'
+             0-4  P. Hennrich 85')
          Hansa Rostock            v SV Wehen Wiesbaden         3-0 (1-0)  @ Ostseestadion, Rostock
+            (1-0  R. Naderi 12'
+             2-0  J. Mejdr 56'
+             3-0  J. Lewald 65' (og))
          Alemannia Aachen         v FC Ingolstadt 04           0-1 (0-0)
+            (0-1  D. Kaygin 90+0')
   16:30  Rot-Weiss Essen          v Viktoria Köln              1-0 (0-0)
+            (1-0  A. Arslan 40')
 Sun Oct 19
   13:30  SSV Ulm 1846             v Energie Cottbus            1-2 (0-0)
+            (0-1  Tolcay Cigerci 67' (p)
+             1-1  M. Scholze 84'
+             1-2  E. Engelhardt 90+0')
   16:30  TSV 1860 München         v MSV Duisburg               3-1 (1-1)
+            (1-0  S. Haugen 41'
+             1-1  J. Bitter 43'
+             2-1  S. Haugen 78'
+             3-1  T. Jacobsen 90+0')
   19:30  TSV Havelse              v Jahn Regensburg            1-2 (1-1)
+            (1-0  J. Posselt 16'
+             1-1  N. Eichinger 29'
+             1-2  N. Oliveira 66')
 
 ▪ 12. Spieltag
 Fri Oct 24
   19:00  SV Wehen Wiesbaden       v Alemannia Aachen           1-2 (0-2)
 Sat Oct 25
   14:00  SV Waldhof Mannheim      v TSV 1860 München           3-1 (1-1)
+            (0-1  M. Christiansen 10'
+             1-1  S. Abifade 24'
+             2-1  K. Okpala 60'
+             3-1  K. Okpala 66')
          FC Ingolstadt 04         v 1. FC Saarbrücken          2-1 (1-0)
+            (1-0  D. Kaygin 24'
+             1-1  K. Brünker 55'
+             2-1  Y. Sturm 86')
          Energie Cottbus          v TSV Havelse                4-3 (2-1)
+            (1-0  J. Boziaris 24'
+             2-0  E. Engelhardt 34'
+             2-1  R. Müller 39'
+             3-1  J. Boziaris 60'
+             3-2  L. Paldino 71'
+             4-2  Tolcay Cigerci 90+0'
+             4-3  L. Paldino 90+0')
          Jahn Regensburg          v VfB Stuttgart II           3-2 (0-2)
+            (0-1  M. Ouro-Tagba 31'
+             0-2  N. Darvich 44' (p)
+             1-2  Eric Hottmann 51'
+             2-2  N. Oliveira 57'
+             3-2  Eric Hottmann 90+0')
          SC Verl                  v SSV Ulm 1846               5-0 (2-0)
+            (1-0  B. Taz 14'
+             2-0  A. Besio 35'
+             3-0  T. Gayret 61'
+             4-0  D. Waidner 73'
+             5-0  Y. Otto 76')
   16:30  1. FC Schweinfurt 05     v VfL Osnabrück              1-2 (0-1)
+            (0-1  D. Kopacz 40'
+             0-2  R. Meißner 77'
+             1-2  N. Grimbs 87')
 Sun Oct 26
   13:30  TSG 1899 Hoffenheim II   v Erzgebirge Aue             1-1 (1-0)
+            (1-0  U. Tohumcu 2'
+             1-1  T. Zobel 58')
   16:30  Viktoria Köln            v Hansa Rostock              2-4 (1-2)
+            (0-1  R. Naderi 20'
+             0-2  R. Naderi 24'
+             1-2  L. Lobinger 36' (p)
+             1-3  K. Fatkic 50' (p)
+             1-4  K. Fatkic 55'
+             2-4  L. Lobinger 90+0' (p))
   19:30  MSV Duisburg             v Rot-Weiss Essen            1-1 (1-1)
+            (1-0  F. Krüger 23'
+             1-1  R. Safi 25')
 
 ▪ 13. Spieltag
 Fri Oct 31
   19:00  Viktoria Köln            v FC Ingolstadt 04           3-1 (0-1)
+            (0-1  Yannick Deichmann 16'
+             1-1  D. Otto 54'
+             2-1  L. Lobinger 69'
+             3-1  L. Lobinger 78')
 Sat Nov 1
   14:00  SSV Ulm 1846             v VfB Stuttgart II           1-3 (1-1)
+            (1-0  A. Becker 19'
+             1-1  N. Darvich 29'
+             1-2  M. Ouro-Tagba 46'
+             1-3  M. Ouro-Tagba 54')
          Erzgebirge Aue           v Jahn Regensburg            4-3 (1-1)
+            (1-0  E. Majetschak 45+0'
+             1-1  Eric Hottmann 45+0'
+             2-1  Julian Guttau 54'
+             2-2  S. Stolze 60'
+             2-3  B. Bauer 68'
+             3-3  J. Fabisch 86'
+             4-3  Erik Weinhauer 96')
          VfL Osnabrück            v MSV Duisburg               0-0 (0-0)
          TSV Havelse              v SV Wehen Wiesbaden         0-2 (0-1)
+            (0-1  F. Kaya 45+0'
+             0-2  N. Agrafiotis 90+0')
          TSV 1860 München         v Energie Cottbus            3-0 (2-0)
+            (1-0  T. Jacobsen 39'
+             2-0  T. Jacobsen 45+0'
+             3-0  King Manu 83' (og))
   16:30  Hansa Rostock            v SC Verl                    2-2 (1-1)  @ Ostseestadion, Rostock
+            (1-0  F. Carstens 5'
+             1-1  J. Arweiler 26'
+             1-2  M. Ens 78'
+             2-2  C. Kinsombi 90+0')
 Sun Nov 2
   13:30  TSG 1899 Hoffenheim II   v SV Waldhof Mannheim        2-0 (0-0)
+            (1-0  A. Llugiqi 84'
+             2-0  A. Amaimouni-Echghouyab 90+0')
   16:30  Rot-Weiss Essen          v 1. FC Schweinfurt 05       2-1 (1-1)
+            (1-0  T. Müsel 36'
+             1-1  J. Geis 44' (p)
+             2-1  M. Janssen 70')
   19:30  Alemannia Aachen         v 1. FC Saarbrücken          2-0 (2-0)
+            (1-0  L. Gindorf 2'
+             2-0  L. Gindorf 39')
 
 ▪ 14. Spieltag
 Fri Nov 7
   19:00  MSV Duisburg             v SV Waldhof Mannheim        2-1 (1-0)
+            (1-0  C. Noß 20'
+             2-0  J. Bitter 69'
+             2-1  T. Boyd 85')
 Sat Nov 8
   14:00  FC Ingolstadt 04         v Rot-Weiss Essen            1-2 (0-0)
+            (0-1  Jaka Cuber Potocnik 51'
+             0-2  K. Mizuta 77'
+             1-2  D. Kaygin 82')
          SSV Ulm 1846             v Hansa Rostock              0-5 (0-4)
+            (0-1  K. Fatkic 13' (p)
+             0-2  A. Voglsammer 17'
+             0-3  R. Naderi 28'
+             0-4  R. Naderi 44'
+             0-5  E. Holten 81')
          Energie Cottbus          v VfL Osnabrück              0-1 (0-0)
+            (0-1  I. Badjie 74')
          SC Verl                  v Erzgebirge Aue             1-1 (1-0)
+            (1-0  A. Besio 27'
+             1-1  J. Arweiler 72' (og))
          1. FC Schweinfurt 05     v TSG 1899 Hoffenheim II     2-1 (2-1)
+            (1-0  Kristian Böhnlein 28'
+             2-0  Joshua Endres 44'
+             2-1  P. Hennrich 45+0')
   16:30  1. FC Saarbrücken        v TSV Havelse                1-1 (1-0)
+            (1-0  Dominic Baumann 5'
+             1-1  L. Sommer 68')
 Sun Nov 9
   13:30  VfB Stuttgart II         v Alemannia Aachen           1-3 (1-2)
+            (0-1  L. Gindorf 21' (p)
+             0-2  M. Schroers 24'
+             1-2  N. Sessa 27'
+             1-3  L. Gindorf 90+0')
   16:30  Jahn Regensburg          v TSV 1860 München           4-0 (1-0)
+            (1-0  L. Hermes 32'
+             2-0  L. Wurm 75'
+             3-0  N. Eichinger 81' (p)
+             4-0  P. Müller 86')
   19:30  SV Wehen Wiesbaden       v Viktoria Köln              0-1 (0-0)
+            (0-1  D. Otto 83')
 
 ▪ 15. Spieltag
 Fri Nov 21
   19:00  TSG 1899 Hoffenheim II   v MSV Duisburg               4-1 (4-0)
+            (1-0  P. Hennrich 6'
+             2-0  D. Mokwa 36'
+             3-0  A. Amaimouni-Echghouyab 42'
+             4-0  D. Mokwa 45'
+             4-1  C. Noß 72')
 Sat Nov 22
   14:00  SV Waldhof Mannheim      v SV Wehen Wiesbaden         1-0 (0-0)
+            (1-0  T. Boyd 71')
          Viktoria Köln            v SC Verl                    1-5 (0-2)
+            (0-1  A. Besio 7'
+             0-2  B. Taz 45+0'
+             0-3  T. Gayret 49'
+             0-4  N. Kijewski 61'
+             0-5  Julian Stark 64'
+             1-5  F. Ronstadt 90')
          Hansa Rostock            v 1. FC Schweinfurt 05       2-0 (0-0)  @ Ostseestadion, Rostock
+            (1-0  M. Schuster 78'
+             2-0  E. Holten 90+0')
          TSV Havelse              v SSV Ulm 1846               2-1 (1-0)
+            (1-0  E. Aytun 23'
+             2-0  A. Ilic 57'
+             2-1  M. Brandt 88')
          Alemannia Aachen         v Jahn Regensburg            0-2 (0-1)
+            (0-1  B. Bauer 22'
+             0-2  Eric Hottmann 55')
   16:30  VfL Osnabrück            v FC Ingolstadt 04           1-0 (0-0)
+            (1-0  I. Badije 89')
 Sun Nov 23
   13:30  TSV 1860 München         v 1. FC Saarbrücken          2-0 (1-0)
+            (1-0  P. Hobsch 13'
+             2-0  T. Jacobsen 90+0')
   16:30  Erzgebirge Aue           v VfB Stuttgart II           0-0 (0-0)
   19:30  Rot-Weiss Essen          v Energie Cottbus            2-3 (0-1)
+            (0-1  T. Cigerci 13' (p)
+             0-2  J. Butler 51'
+             1-2  Jannik Mause 61'
+             1-3  E. Engelhardt 69'
+             2-3  T. Moustier 88')
 
 ▪ 16. Spieltag
 Fri Nov 28
   19:00  SV Wehen Wiesbaden       v Erzgebirge Aue             3-1 (0-1)
+            (0-1  J. Günther-Schmidt 19'
+             1-1  J. Janitzek 53'
+             2-1  D. Bogicevic 75'
+             3-1  N. Agrafiotis 90+5')
 Sat Nov 29
   14:00  1. FC Saarbrücken        v Rot-Weiss Essen            2-3 (0-0)
+            (1-0  P. Schmidt 47'
+             1-1  T. Müsel 57'
+             2-1  F. Pick 62'
+             2-2  A. Arslan (p)
+             2-3  F. Bouebari 89')
          FC Ingolstadt 04         v TSG 1899 Hoffenheim II     3-2 (1-1)
+            (0-1  V. Lässig 1'
+             1-1  M. Costly 20'
+             1-2  Y. Hör 49'
+             2-2  M. Costly 62' (p)
+             3-2  F. Carlsen 76')
          SSV Ulm 1846             v TSV 1860 München           0-1 (0-1)
+            (0-1  S. Haugen 1')
          Energie Cottbus          v Viktoria Köln              3-2 (0-1)
+            (0-1  L. Lobinger 24' (p)
+             1-1  T. Cigerci 59' (p)
+             1-2  T. Kloss 61'
+             2-2  E. Engelhardt 71'
+             3-2  A. Lucoqui 90')
          MSV Duisburg             v Alemannia Aachen           3-1 (3-0)
+            (1-0  C. Noß 7'
+             2-0  S. Meuer 33'
+             3-0  C. Coskun 41'
+             3-1  F. Ademi 80')
   16:30  1. FC Schweinfurt 05     v SV Waldhof Mannheim        2-3 (0-1)
+            (0-1  T. Boyd 4'
+             1-1  Ekin Çelebi 52'
+             1-2  K. Okpala 53'
+             2-2  Pius Krätschmer 76'
+             2-3  T. Boyd 83')
 Sun Nov 30
   13:30  Jahn Regensburg          v Hansa Rostock              0-3 (0-0)
+            (0-1  A. Voglsammer 32'
+             0-2  E. Holten 71'
+             0-3  C. Kinsombi 89')
   16:30  SC Verl                  v VfL Osnabrück              4-1 (2-0)
+            (1-0  A. Besio 15'
+             2-0  O. Mhamdi 19'
+             2-1  D. Kopacz 56'
+             3-1  J. Arweiler 63'
+             4-1  J. Arweiler 66')
   19:30  VfB Stuttgart II         v TSV Havelse                2-1 (1-0)
+            (1-0  N. Sessa 36'
+             2-0  M. Ouro-Tagba 49'
+             2-1  J. Posselt 70')
 
 ▪ 17. Spieltag
 Fri Dec 5
   19:00  Rot-Weiss Essen          v VfB Stuttgart II           1-1 (0-0)
+            (0-1  M. Sankoh 81'
+             1-1  M. Janssen 89')
 Sat Dec 6
   14:00  Viktoria Köln            v SSV Ulm 1846               0-1 (0-0)
+            (0-1  Marcel Seegert 55')
          Energie Cottbus          v MSV Duisburg               3-2 (1-0)
+            (1-0  E. Engelhardt 11'
+             2-0  Merveille Biankadi 47'
+             2-1  S. Straudi 80' (og)
+             2-2  M. Dittgen 89'
+             3-2  T. Cigerci 90+5')
          TSV Havelse              v SC Verl                    2-2 (0-1)
+            (0-1  M. Ens 18'
+             0-2  F. Otto 62'
+             1-2  M. Ilic 77'
+             2-2  D. Minz 90+3')
          VfL Osnabrück            v SV Wehen Wiesbaden         0-1 (0-0)
+            (0-1  F. Kaya 33')
          TSG 1899 Hoffenheim II   v Jahn Regensburg            1-0 (0-0)
+            (1-0  L. Duric 73' (p))
   16:30  TSV 1860 München         v 1. FC Schweinfurt 05       3-1 (1-1)
+            (1-0  N. Doktorczyk 33' (og)
+             1-1  J. Tranziska 45+2'
+             2-1  T. Meißner 57' (og)
+             3-1  Marvin Rittmüller 69')
 Sun Dec 7
   13:30  SV Waldhof Mannheim      v 1. FC Saarbrücken          2-1 (0-0)
+            (1-0  K. Okpala 12' (p)
+             1-1  Aboubakar Kamara 22'
+             2-1  T. Boyd 34')
   16:30  Hansa Rostock            v Alemannia Aachen           2-2 (1-1)  @ Ostseestadion, Rostock
+            (0-1  M. Loune 34'
+             1-1  K. Fatkic 45+0' (p)
+             2-1  A. Gürleyen 90+5'
+             2-2  F. Ademi 90+10')
   19:30  Erzgebirge Aue           v FC Ingolstadt 04           2-2 (0-1)
+            (0-1  F. Carlsen 31'
+             1-1  M. Stefaniak 48'
+             2-1  J. Fabisch 79'
+             2-2  J. Scholz 90+1')
 
 ▪ 18. Spieltag
 Fri Dec 12
   19:00  SSV Ulm 1846             v VfL Osnabrück              3-5 (1-2)
+            (0-1  T. Lesueur 2'
+             0-2  N. Wiemann 16'
+             1-2  Dennis Chessa 34'
+             2-2  P. Besong 48'
+             2-3  L.Kehl 56'
+             2-4  L.Kehl 58'
+             2-5  R. Meißner 74'
+             3-5  E. Löder 87')
 Sat Dec 13
   14:00  1. FC Saarbrücken        v TSG 1899 Hoffenheim II     2-2 (2-2)
+            (1-0  F. Pick 13'
+             1-1  V. Lässig
+             1-2  D. Mokwa 16'
+             2-2  F. Pick 23')
          FC Ingolstadt 04         v TSV 1860 München           1-2 (1-1)
+            (1-0  D. Kaygin 20'
+             1-1  S. Haugen 42'
+             1-2  P. Hobsch 59')
          VfB Stuttgart II         v Hansa Rostock              0-1 (0-0)
+            (0-1  R. Naderi 53')
          MSV Duisburg             v Erzgebirge Aue             0-0 (0-0)
          Alemannia Aachen         v Viktoria Köln              0-3 (0-1)
+            (0-1  D. Otto 12'
+             0-2  T. Kloss 60'
+             0-3  B. Zank 86')
   16:30  SC Verl                  v Rot-Weiss Essen            0-0 (0-0)
 Sun Dec 14
   13:30  SV Wehen Wiesbaden       v Energie Cottbus            3-1 (1-0)
+            (1-0  J. Gillekens 22'
+             1-1  H. Rorig 63'
+             2-1  F. Hübner 71'
+             3-1  T. Gözüsirin 90+4')
   16:30  Jahn Regensburg          v SV Waldhof Mannheim        3-0 (2-0)
+            (1-0  Saller 44'
+             2-0  F. Strauss 55'
+             3-0  C. Kühlwetter 69')
   19:30  1. FC Schweinfurt 05     v TSV Havelse                2-3 (0-0)
+            (1-0  J. Tranziska 16'
+             1-1  R. Müller 17'
+             1-2  R. Müller 34'
+             2-2  Joshua Endres 53'
+             2-3  Semi Belkahia 77')
 
 ▪ 19. Spieltag
 Fri Dec 19
   19:00  Energie Cottbus          v Jahn Regensburg            2-2 (2-0)
+            (1-0  E. Engelhardt 23'
+             2-0  E. Engelhardt 41'
+             2-1  Christian Kuhlwetter 62'
+             2-2  Christian Kuhlwetter 78')
 Sat Dec 20
   14:00  SV Waldhof Mannheim      v FC Ingolstadt 04           2-2 (0-0)
          Erzgebirge Aue           v 1. FC Schweinfurt 05       4-0 (0-0)
@@ -283,8 +813,12 @@ Sat Dec 20
          Hansa Rostock            v 1. FC Saarbrücken          1-1 (0-0)  @ Ostseestadion, Rostock
          Rot-Weiss Essen          v SSV Ulm 1846               3-2 (0-0)
   16:30  TSV 1860 München         v SC Verl                    0-2 (0-1)
+            (0-1  O. Mhamdi 12'
+             0-2  A. Besio 76')
 Sun Dec 21
   13:30  TSV Havelse              v Alemannia Aachen           1-1 (0-0)
+            (1-0  M. Ilic 86'
+             1-1  K. Wriedt 87')
   16:30  TSG 1899 Hoffenheim II   v SV Wehen Wiesbaden         3-1 (0-0)
   19:30  Viktoria Köln            v MSV Duisburg               0-0 (0-0)
 
@@ -302,6 +836,10 @@ Sun Jan 18
   13:30  VfB Stuttgart II         v MSV Duisburg               0-4 (0-0)
   16:30  1. FC Schweinfurt 05     v Viktoria Köln              2-0 (1-0)
   19:30  TSV Havelse              v TSG 1899 Hoffenheim II     4-0 (1-0)
+            (1-0  J.Berger 5' (p)
+             2-0  Düker 51'
+             3-0  Boujellab 67'
+             4-0  C. Schepp 88' (p))
 
 ▪ 21. Spieltag
 Fri Jan 23
@@ -325,13 +863,29 @@ Sat Jan 31
   14:00  1. FC Saarbrücken        v VfL Osnabrück              0-1 (0-0)
          Viktoria Köln            v SV Waldhof Mannheim        1-3 (0-0)
          Energie Cottbus          v TSG 1899 Hoffenheim II     3-1 (2-1)
+            (0-0  N.N. 0'
+             0-1  N.N. 4'
+             1-1  M. Hannemann 15'
+             2-1  E. Engelhardt 44'
+             3-1  E. Engelhardt 84')
          Hansa Rostock            v FC Ingolstadt 04           0-3 (0-0)  @ Ostseestadion, Rostock
          TSV 1860 München         v Alemannia Aachen           2-2 (1-1)
+            (0-1  L. Gindorf 18' (p)
+             1-1  N.N. 22'
+             2-1  T. Jacobsen 54' (p)
+             2-2  M. Schroers 61')
   16:30  1. FC Schweinfurt 05     v Jahn Regensburg            0-1 (0-1)
 Sun Feb 1
   13:30  SSV Ulm 1846             v MSV Duisburg               1-0 (1-0)
+            (1-0  Abu-Bekir El-Zein 27')
   16:30  SC Verl                  v VfB Stuttgart II           4-0 (0-0)
+            (1-0  Wörner 56'
+             2-0  J. Arweiler 59'
+             3-0  T. Gayret 61'
+             4-0  Berkan Taz 68' (p))
   19:30  Rot-Weiss Essen          v SV Wehen Wiesbaden         1-1 (1-0)
+            (1-0  M. Janssen 34'
+             1-1  F. Kaya)
 
 ▪ 23. Spieltag
 Fri Feb 6
@@ -361,6 +915,10 @@ Sat Feb 14
 Sun Feb 15
   13:30  Energie Cottbus          v SV Waldhof Mannheim        1-1 (1-0)
   16:30  SSV Ulm 1846             v Alemannia Aachen           1-3 (0-1)
+            (0-1  L. Gindorf 22'
+             0-2  M. Loune 58'
+             0-3  F. Ademi 75'
+             1-3  Elias Löder 83')
   19:30  1. FC Schweinfurt 05     v FC Ingolstadt 04           1-1 (0-0)
 
 ▪ 25. Spieltag
@@ -368,11 +926,32 @@ Fri Feb 20
   19:00  VfB Stuttgart II         v SV Waldhof Mannheim        3-1 (3-0)
 Sat Feb 21
   14:00  FC Ingolstadt 04         v TSV Havelse                3-2 (0-1)
+            (0-1  Boujellab 11'
+             1-1  D. Kaygin 48'
+             2-1  Besuschkow 58'
+             3-1  M. Costly 85'
+             3-2  E. Aytun 90+4')
          VfL Osnabrück            v Rot-Weiss Essen            3-0 (1-0)
+            (1-0  I. Badjie 44'
+             2-0  J. Müller 70'
+             3-0  Pröger 90+2')
          Jahn Regensburg          v SV Wehen Wiesbaden         2-1 (1-0)
+            (1-0  N. Eichinger 28'
+             2-0  N.N.
+             2-1  M. Flotho 86')
          MSV Duisburg             v 1. FC Schweinfurt 05       3-1 (3-0)
+            (1-0  C. Noß 4'
+             2-0  Aljaž Casar 21'
+             3-0  C. Coskun 39'
+             3-1  Osawe 77')
          Alemannia Aachen         v SC Verl                    3-1 (2-1)
+            (1-0  L. Gindorf 13'
+             2-0  M. Loune 19'
+             2-1  A. Besio 38'
+             3-1  M. Loune 65')
   16:30  SSV Ulm 1846             v 1. FC Saarbrücken          1-1 (0-0)
+            (0-1  Sontheimer 57'
+             1-1  Mamba 86')
 Sun Feb 22
   13:30  TSV 1860 München         v Hansa Rostock              1-0 (0-0)
   16:30  Erzgebirge Aue           v Energie Cottbus            1-2 (1-1)
@@ -450,7 +1029,13 @@ Sat Mar 21
 Sun Mar 22
   13:30  TSG 1899 Hoffenheim II   v VfL Osnabrück              0-1 (0-0)
   16:30  MSV Duisburg             v TSV 1860 München           2-1 (0-0)
+            (1-0  J. Bitter 60'
+             1-1  T. Jacobsen 69' (p)
+             2-1  T. Töpken 90')
   19:30  Viktoria Köln            v Rot-Weiss Essen            1-2 (0-2)
+            (0-1  D. Abiama 10'
+             0-2  L. Brumme 12'
+             1-2  T. Kloss 51')
 
 ▪ 31. Spieltag
 Sat Apr 4
@@ -470,6 +1055,9 @@ Sun Apr 5
 Tue Apr 7
   19:00  SV Waldhof Mannheim      v TSG 1899 Hoffenheim II     1-1 (0-1)
          Energie Cottbus          v TSV 1860 München           3-0 (2-0)
+            (1-0  E. Engelhardt 29'
+             2-0  E. Engelhardt 33'
+             3-0  E. Engelhardt 66')
          Jahn Regensburg          v Erzgebirge Aue             1-0 (1-0)
          MSV Duisburg             v VfL Osnabrück              1-0 (1-0)
          1. FC Schweinfurt 05     v Rot-Weiss Essen            1-3 (0-2)
@@ -505,6 +1093,9 @@ Sat Apr 18
          SC Verl                  v Viktoria Köln              2-0 (0-0)
          1. FC Schweinfurt 05     v Hansa Rostock              0-0 (0-0)
   16:30  SSV Ulm 1846             v TSV Havelse                2-1 (0-0)
+            (1-0  N.N. 63'
+             1-1  N.N. 80'
+             2-1  N.N. 90+0')
 Sun Apr 19
   13:30  Energie Cottbus          v Rot-Weiss Essen            5-3 (1-2)
   16:30  VfB Stuttgart II         v Erzgebirge Aue             2-2 (2-0)
@@ -536,6 +1127,9 @@ Sat May 2
          SSV Ulm 1846             v Viktoria Köln              0-2 (0-0)
 Sun May 3
   13:30  MSV Duisburg             v Energie Cottbus            2-1 (1-0)
+            (1-0  T. Töpken 32'
+             2-0  D. Kother 56'
+             2-1  N.N.)
   16:30  SV Wehen Wiesbaden       v VfL Osnabrück              2-3 (1-0)
   19:30  FC Ingolstadt 04         v Erzgebirge Aue             3-5 (3-1)
 

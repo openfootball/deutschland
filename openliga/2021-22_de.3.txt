@@ -8,13 +8,27 @@
 ▪ 1. Spieltag
 Sat Jul 24 2021
   14:00  SV Waldhof Mannheim      v 1. FC Magdeburg            0-2 (0-2)
+            (0-1  L. Schuler 6'
+             0-2  Baris Atik 9')
          TSV Havelse              v 1. FC Saarbrücken          0-1 (0-1)
+            (0-1  Gouras 19')
          1. FC Kaiserslautern     v Eintracht Braunschweig     0-0 (0-0)
          Hallescher FC            v SV Meppen                  3-1 (3-1)
+            (0-1  Tanculic 18'
+             1-1  Herzog 27'
+             2-1  Boyd 39'
+             3-1  Nietfeld 44')
          FSV Zwickau              v Borussia Dortmund II       1-2 (1-1)
+            (1-0  König 3'
+             1-1  Pherai 12'
+             1-2  Raschl 58')
          TSV 1860 München         v Würzburger Kickers         1-0 (1-0)
+            (1-0  Bär 12')
 Sun Jul 25
   13:00  FC Viktoria 1889 Berlin  v Viktoria Köln              2-1 (2-1)
+            (0-1  Youssef Amyn 45+33' (og)
+             1-1  Yannis Becker 36'
+             2-1  Falcao 38')
   14:00  SC Verl                  v Türkgücü München           0-0 (0-0)
 Mon Jul 26
   19:00  SC Freiburg II           v SV Wehen Wiesbaden         0-0 (0-0)
@@ -22,18 +36,34 @@ Mon Jul 26
 ▪ 2. Spieltag
 Sat Jul 31
   14:00  Viktoria Köln            v FSV Zwickau                1-1 (0-0)
+            (1-0  Handle 72'
+             1-1  Hauptmann 85')
          SV Meppen                v 1. FC Kaiserslautern       1-0 (1-0)
+            (1-0  Dombrowka 45+0')
          1. FC Magdeburg          v SC Freiburg II             0-0 (0-0)
          SV Wehen Wiesbaden       v TSV 1860 München           0-0 (0-0)
          1. FC Saarbrücken        v VfL Osnabrück              1-2 (1-2)
+            (0-1  Erdmann 6' (og)
+             1-1  Julian Günther-Schmidt 13'
+             1-2  Simakala 43')
          Borussia Dortmund II     v SV Waldhof Mannheim        1-1 (1-0)
+            (1-0  M. Pasalic 16'
+             1-1  Boyamba 61')
 Sun Aug 1
   13:00  Türkgücü München         v Hallescher FC
   14:00  Eintracht Braunschweig   v FC Viktoria 1889 Berlin    0-4 (0-2)
+            (0-1  Tolcay Cigerci 5'
+             0-2  Tolcay Cigerci 31'
+             0-3  Lucas Falcao 64'
+             0-4  Pinckert 68')
 Mon Aug 2
   19:00  Würzburger Kickers       v SC Verl                    0-1 (0-0)
+            (0-1  L. Petkov 72')
 Sun Aug 8
   13:00  MSV Duisburg             v TSV Havelse                3-0 (0-0)
+            (1-0  Orhan Ademi 26'
+             2-0  Moritz Stoppelkamp 66' (p)
+             3-0  Kolja Pusch 68')
 
 ▪ 3. Spieltag
 Fri Aug 13
@@ -54,6 +84,7 @@ Mon Aug 16
 ▪ 1. Spieltag
 Wed Aug 18
   19:00  VfL Osnabrück            v MSV Duisburg               0-1 (0-1)
+            (0-1  Moritz Stoppelkamp 40')
 
 ▪ 4. Spieltag
 Fri Aug 20
@@ -185,6 +216,10 @@ Sun Oct 3
   14:00  SV Waldhof Mannheim      v SC Verl                    2-1 (2-0)
 Mon Oct 4
   19:00  1. FC Magdeburg          v Türkgücü München           4-0 (1-0)
+            (1-0  Bittroff 30'
+             2-0  Baris Atik 55'
+             3-0  Kath 56'
+             4-0  Ceka 82')
 
 ▪ 12. Spieltag
 Fri Oct 15
@@ -260,22 +295,40 @@ Sat Nov 20
 ▪ 17. Spieltag
 Fri Nov 26
   19:00  MSV Duisburg             v SV Waldhof Mannheim        1-3 (1-2)
+            (0-1  Marc Schnatterer 5'
+             0-2  Marcel Costly 19'
+             1-2  Aziz Bouhaddouz 26'
+             1-3  Dominik Martinovic 81')
 Sat Nov 27
   14:00  Würzburger Kickers       v SV Meppen                  1-3 (0-0)
+            (1-0  Kraulich 24' (p)
+             1-3  N.N.)
          TSV Havelse              v TSV 1860 München           2-3 (0-2)  @ Grünwalder Stadion, München
+            (0-1  Tobias Folster 8' (og)
+             0-2  Marcel Bär 32'
+             1-2  Yannik Jaeschke 51'
+             1-3  Merveille Biankadi 55'
+             2-3  Yannik Jaeschke 85')
          Borussia Dortmund II     v 1. FC Kaiserslautern       0-0 (0-0)
          1. FC Saarbrücken        v FC Viktoria 1889 Berlin    2-0 (0-0)
          SV Wehen Wiesbaden       v SC Verl                    0-0 (0-0)
          1. FC Magdeburg          v Eintracht Braunschweig     2-0 (0-0)
 Sun Nov 28
   13:00  VfL Osnabrück            v SC Freiburg II             0-1 (0-0)
+            (0-1  Vincent Vermeij 33')
   14:00  Viktoria Köln            v Hallescher FC              2-0 (2-0)
+            (1-0  Luca Marseiler 2'
+             2-0  Luca Marseiler 20')
 Mon Nov 29
   19:00  Türkgücü München         v FSV Zwickau                2-2 (1-1)
 
 ▪ 12. Spieltag
 Tue Nov 30
   19:00  TSV 1860 München         v SV Waldhof Mannheim        1-3 (0-0)  @ Grünwalder Stadion, München,  Att: 3200
+            (0-1  Marc Schnatterer 13'
+             0-2  Dominik Martinovic 20'
+             1-2  Richard Neudecker 66'
+             1-3  Dominik Martinovic 90+4')
 
 ▪ 15. Spieltag
 Tue Nov 30
@@ -284,9 +337,16 @@ Tue Nov 30
 ▪ 18. Spieltag
 Fri Dec 3
   19:00  FSV Zwickau              v 1. FC Saarbrücken          1-2 (1-0)
+            (1-0  Julian Günther-Schmidt
+             1-1  Nkansah
+             1-2  Jacob (p))
 Sat Dec 4
   14:00  FC Viktoria 1889 Berlin  v Türkgücü München           0-0 (0-0)
          1. FC Kaiserslautern     v Viktoria Köln              4-0 (2-0)
+            (1-0  Hanslik 4'
+             2-0  Philipp Hercher 20'
+             3-0  Hanslik 48'
+             4-0  Jean Zimmer 87')
          Hallescher FC            v Würzburger Kickers         0-0 (0-0)
          SC Verl                  v Borussia Dortmund II       0-3 (0-0)
          Eintracht Braunschweig   v SV Meppen                  5-0 (2-0)
@@ -300,10 +360,15 @@ Mon Dec 6
 ▪ 19. Spieltag
 Fri Dec 10
   19:00  Türkgücü München         v 1. FC Kaiserslautern       1-2 (0-2)
+            (0-1  Hanslik
+             0-2  Ciftci
+             1-2  N.N.)
 Sat Dec 11
   14:00  MSV Duisburg             v SC Verl                    2-2 (1-1)
          TSV Havelse              v SV Waldhof Mannheim        1-1 (0-1)
          Borussia Dortmund II     v TSV 1860 München           0-2 (0-1)  @ Stadion Rote Erde, Dortmund
+            (0-1  Stefan Lex 25'
+             0-2  Marcel Bär 49')
          1. FC Magdeburg          v VfL Osnabrück              2-1 (1-1)
          1. FC Saarbrücken        v SC Freiburg II             1-0 (1-0)
          Viktoria Köln            v Eintracht Braunschweig     1-2 (1-0)
@@ -331,15 +396,27 @@ Sun Dec 19
   13:00  1. FC Magdeburg          v SV Waldhof Mannheim        3-0 (2-0)
 Mon Dec 20
   19:00  Würzburger Kickers       v TSV 1860 München           0-3 (0-2)  @ Flyeralarm Arena, Würzburg
+            (0-1  Marcel Bär 32'
+             0-2  Stefan Lex 37'
+             0-3  Marcel Bär 70')
 
 ▪ 21. Spieltag
 Fri Jan 14 2022
   19:00  TSV Havelse              v MSV Duisburg               0-1 (0-0)
 Sat Jan 15
   14:00  1. FC Kaiserslautern     v SV Meppen                  4-0 (2-0)
+            (1-0  Tomiak 7'
+             2-0  Zuck 8'
+             3-0  Zuck 50'
+             4-0  Mike Wunderlich 61')
          SC Freiburg II           v 1. FC Magdeburg            2-3 (1-1)
          VfL Osnabrück            v 1. FC Saarbrücken          2-1 (1-0)
          TSV 1860 München         v SV Wehen Wiesbaden         3-2 (0-0)
+            (0-1  Florian Carstens 11'
+             0-2  Dominik Prokop 23'
+             1-2  Semi Belkahia 36'
+             2-2  Stephan Salger 50'
+             3-2  Richard Neudecker 69')
 Sun Jan 16
   13:00  SC Verl                  v Würzburger Kickers         2-0 (0-0)
 Mon Jan 17
@@ -363,6 +440,9 @@ Sun Jan 23
 ▪ 23. Spieltag
 Tue Jan 25
   19:00  TSV 1860 München         v 1. FC Kaiserslautern       2-1 (1-1)  @ Grünwalder Stadion, München
+            (0-1  Mike Wunderlich 2'
+             1-1  Marcel Bär 26'
+             2-1  Kevin Goden 85')
          SC Freiburg II           v Türkgücü München           4-2 (1-0)
          VfL Osnabrück            v Würzburger Kickers         2-0 (1-0)
          SV Waldhof Mannheim      v Viktoria Köln              0-1 (0-0)
@@ -406,6 +486,10 @@ Sat Feb 5
          FSV Zwickau              v 1. FC Kaiserslautern       0-2 (0-0)
 Sun Feb 6
   13:00  TSV 1860 München         v Eintracht Braunschweig     2-2 (2-0)
+            (1-0  Marcel Bär 3'
+             2-0  Phillipp Steinhart 34'
+             2-1  Lauberbach 55'
+             2-2  Marx 77')
   14:00  MSV Duisburg             v Borussia Dortmund II       1-3 (0-0)
 Mon Feb 7
   19:00  1. FC Saarbrücken        v Würzburger Kickers         2-1 (0-1)
@@ -457,6 +541,10 @@ Sat Feb 26
          Eintracht Braunschweig   v MSV Duisburg               2-1 (0-0)
          Hallescher FC            v SV Waldhof Mannheim        1-2 (0-0)
          FSV Zwickau              v TSV 1860 München           1-3 (1-0)
+            (1-0  Dominic Baumann 35'
+             1-1  Merveille Biankadi 68'
+             1-2  Marcel Bär 72'
+             1-3  Kevin Goden 90+1')
          1. FC Kaiserslautern     v SC Verl                    2-1 (0-0)
 Sun Feb 27
   14:00  FC Viktoria 1889 Berlin  v SC Freiburg II             0-2 (0-0)
@@ -499,6 +587,7 @@ Mon Mar 14
 ▪ 31. Spieltag
 Fri Mar 18
   19:00  Würzburger Kickers       v Viktoria Köln              0-1 (0-1)
+            (0-1  Moritz Fritz 7')
 Sat Mar 19
   14:00  Borussia Dortmund II     v Eintracht Braunschweig     0-1 (0-1)
          1. FC Magdeburg          v SV Meppen                  0-0 (0-0)
@@ -599,27 +688,93 @@ Mon May 2
 ▪ 37. Spieltag
 Fri May 6
   19:00  Borussia Dortmund II     v SC Verl                    1-2 (1-0)  @ Stadion Rote Erde, Dortmund,  Att: 3076
+            (1-0  Tachie 39'
+             1-1  Rabihic 56'
+             1-2  Petkov 63')
 Sat May 7
   14:00  SV Wehen Wiesbaden       v SV Waldhof Mannheim        1-1 (1-1)  @ Brita-Arena, Wiesbaden
+            (0-1  Schnatterer 28'
+             1-1  Wurtz 39')
          SV Meppen                v Eintracht Braunschweig     3-2 (2-1)  @ Hansch-Arena, Meppen
+            (1-0  Leugers 2'
+             2-0  Sukuta-Pasu 16'
+             2-1  Lauberbach 34'
+             2-2  Marx 68'
+             3-2  Guder 87')
          TSV Havelse              v VfL Osnabrück              0-1 (0-0)  @ HDI-Arena, Hannover
+            (0-1  Gugganig 82')
          Türkgücü München         v FC Viktoria 1889 Berlin
          1. FC Magdeburg          v TSV 1860 München           4-0 (0-0)  @ MDCC-Arena, Magdeburg
+            (1-0  Condé 51'
+             2-0  Tatsuya Ito 76'
+             3-0  Baris Atik 91'
+             4-0  Kwarteng 94')
          MSV Duisburg             v SC Freiburg II             1-0 (1-0)  @ Schauinsland-Reisen-Arena, Duisburg
+            (1-0  Stoppelkamp 5')
          1. FC Saarbrücken        v FSV Zwickau                1-1 (1-0)  @ Ludwigspark Stadion, Saarbrücken
+            (1-0  Boeder 21'
+             1-1  Gomez J. 79')
 Sun May 8
   13:00  Würzburger Kickers       v Hallescher FC              1-2 (0-1)
+            (0-1  Sternberg 42'
+             1-1  Kurzweg 74'
+             1-2  Huth 78')
   14:00  Viktoria Köln            v 1. FC Kaiserslautern       2-0 (2-0)
+            (1-0  Fritz 26'
+             2-0  Philipp 37')
 
 ▪ 38. Spieltag
 Sat May 14
   13:30  SC Freiburg II           v 1. FC Saarbrücken          1-1 (1-0)
+            (1-0  Flum 19'
+             1-1  Jacob 79')
          SC Verl                  v MSV Duisburg               1-1 (0-1)
+            (0-1  Moritz Stoppelkamp 33'
+             1-1  Berlinski 50')
          FSV Zwickau              v Würzburger Kickers         7-0 (1-0)
+            (1-0  Baumann 22'
+             2-0  Baumann 49'
+             3-0  Rheinthaler 63'
+             4-0  König 80'
+             5-0  Schneider 83'
+             6-0  Hauptmann 86'
+             7-0  Starke 90')
          Hallescher FC            v SV Wehen Wiesbaden         1-1 (1-1)
+            (1-0  Zimmerscheid 11'
+             1-1  Jacobsen 34')
          1. FC Kaiserslautern     v Türkgücü München           0-0 (0-0)
          SV Waldhof Mannheim      v TSV Havelse                7-0 (0-0)
+            (1-0  Schnatterer 3'
+             2-0  Verlaat 21'
+             3-0  A. Rossipal 45'
+             4-0  D. Kother 57'
+             5-0  P. Sohm 61'
+             6-0  Wagner 78'
+             7-0  D. Kother 83')
          TSV 1860 München         v Borussia Dortmund II       6-3 (2-2)
+            (1-0  Lex 18'
+             2-0  Bär 21'
+             2-1  Papadopoulos 23'
+             2-2  Njinmah 45'
+             3-2  Merveille Biankadi 54'
+             4-2  Bär 59'
+             5-2  Deichmann 75'
+             5-3  Bah-Traore 78'
+             6-3  D. Dressel 84')
          Eintracht Braunschweig   v Viktoria Köln              0-1 (0-0)
+            (0-1  N.N. 62')
          FC Viktoria 1889 Berlin  v SV Meppen                  0-0 (0-0)
+            (0-1  N.N. 48'
+             0-2  N.N. 53'
+             1-2  N.N. 65'
+             1-3  N.N. 69'
+             2-3  N.N. 85'
+             3-3  N.N. 90'
+             3-4  N.N. 91')
          VfL Osnabrück            v 1. FC Magdeburg            0-0 (1-1)
+            (1-0  Klaas 5'
+             1-1  N.N. 7'
+             1-2  N.N. 49'
+             1-3  N.N. 57'
+             1-4  N.N. 62'
+             1-5  N.N. 74')

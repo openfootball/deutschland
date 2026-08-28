@@ -8,106 +8,269 @@
 ▪ 1. Spieltag
 Fri Aug 4 2023
   19:00  Hallescher FC            v Rot-Weiss Essen            2-1 (2-0)
+            (1-0  Dominic Baumann 2'
+             2-0  Tom Baumgart 39'
+             2-1  Isaiah Young 69')
 Sat Aug 5
   14:00  Viktoria Köln            v SC Verl                    3-1 (1-0)
          VfB Lübeck               v SV Sandhausen              0-0 (0-0)
          TSV 1860 München         v SV Waldhof Mannheim        2-0 (1-0)
+            (1-0  Jan-Christoph Bartels 12' (og)
+             2-0  Fynn Lakenmacher 55')
          Preußen Münster          v Borussia Dortmund II       0-0 (0-0)
          Jahn Regensburg          v SpVgg Unterhaching         1-1 (1-1)
+            (1-0  Christian Viet 20'
+             1-1  Aaron Keller 24')
   16:15  Dynamo Dresden           v DSC Arminia Bielefeld      3-1 (0-0)
+            (1-0  Semi Belkahia 14' (og)
+             2-0  Stefan Kutschke 36' (p)
+             2-1  Merveille Biankadi 45+4'
+             3-1  Niklas Hauptmann 65')
 Sun Aug 6
   13:30  SSV Ulm 1846             v 1. FC Saarbrücken          1-1 (1-1)
+            (0-1  Kai Brünker 2'
+             1-1  Johannes Reichert 41')
   16:30  SC Freiburg II           v MSV Duisburg               1-1 (0-1)
+            (0-1  Marvin Senger 28'
+             1-1  Philip Fahrner 46')
   19:30  Erzgebirge Aue           v FC Ingolstadt 04           1-0 (0-0)
+            (1-0  Maximilian Thiel 90')
 
 ▪ 2. Spieltag
 Fri Aug 18
   19:00  SV Sandhausen            v Dynamo Dresden             1-0 (1-0)
+            (1-0  A. El-Zein 18')
 Sat Aug 19
   14:00  1. FC Saarbrücken        v Viktoria Köln              1-2 (1-1)
+            (1-0  Kai Brünker 18'
+             1-1  Marco Schultz 31'
+             1-2  Luca Marseiler 52')
          FC Ingolstadt 04         v Hallescher FC              4-0 (1-0)
+            (1-0  Julian Kügel 15'
+             2-0  Carlo Costly 55'
+             3-0  N.N. 66'
+             4-0  Carlo Costly 87')
          MSV Duisburg             v TSV 1860 München           0-3 (0-1)
+            (0-1  Manfred Starke 32'
+             0-2  J. Zwarts 54'
+             0-3  J. Zwarts 86')
          DSC Arminia Bielefeld    v Preußen Münster            4-0 (2-0)
          SpVgg Unterhaching       v SSV Ulm 1846               3-2 (1-2)
   16:30  SV Waldhof Mannheim      v VfB Lübeck                 2-2 (2-0)
 Sun Aug 20
   13:30  Borussia Dortmund II     v SC Freiburg II             1-0 (1-0)
   16:30  SC Verl                  v Jahn Regensburg            1-2 (0-1)
+            (0-1  B. Saller 12'
+             1-1  Lars Lokotsch 62'
+             1-2  Faber 86')
   19:30  Rot-Weiss Essen          v Erzgebirge Aue             1-1 (1-1)
+            (0-1  Sean Seitz 17'
+             1-1  Torben Müsel 29')
 
 ▪ 3. Spieltag
 Tue Aug 22
   10:00  Hallescher FC            v MSV Duisburg               1-1 (1-0)
+            (1-0  Dominic Baumann 10'
+             1-1  Sebastian Mai 51')
   19:00  TSV 1860 München         v VfB Lübeck                 1-2 (1-2)
+            (1-0  Julian Guttau 11'
+             1-1  Fabian Greilinger 25' (og)
+             1-2  Tarik Gözüsirin 31')
          Preußen Münster          v FC Ingolstadt 04           3-1 (0-1)
+            (0-1  Jannik Mause 17'
+             1-1  Malik Batmaz 61'
+             2-1  Malik Batmaz 88'
+             3-1  Andrew Wooten 90+4')
          SSV Ulm 1846             v DSC Arminia Bielefeld      1-0 (1-0)
+            (1-0  Philipp Maier 43')
          Dynamo Dresden           v SV Waldhof Mannheim        2-1 (2-0)
+            (1-0  Stefan Kutschke 23'
+             2-0  Niklas Hauptmann 29'
+             2-1  Pascal Sohm 84')
 Wed Aug 23
   19:00  Jahn Regensburg          v Borussia Dortmund II       0-0 (0-0)
          Viktoria Köln            v Rot-Weiss Essen            0-0 (0-0)
          1. FC Saarbrücken        v SC Verl                    4-3 (1-2)
+            (1-0  Kasim Rabihic 4' (p)
+             1-1  Torge Paetow 34'
+             1-2  Lars Lokotsch 36'
+             1-3  Oliver Batista Meier 54'
+             2-3  Patrick Schmidt 60'
+             3-3  Kai Brünker 76'
+             4-3  Dominik Becker 90+1')
          SC Freiburg II           v SpVgg Unterhaching         0-0 (0-0)
          Erzgebirge Aue           v SV Sandhausen              2-1 (1-1)
+            (1-0  Sean Seitz 4'
+             1-1  David Otto 8'
+             2-1  Joshua Schwirten 86')
 
 ▪ 4. Spieltag
 Fri Aug 25
   19:00  MSV Duisburg             v SSV Ulm 1846               1-1 (1-1)
+            (1-0  Sebastian Mai 24'
+             1-1  Allgeier 34')
 Sat Aug 26
   14:00  SC Verl                  v SC Freiburg II             3-2 (3-2)
+            (0-1  Bräuning 17'
+             1-1  Lars Lokotsch 29'
+             1-2  Bräuning 32'
+             2-2  Benger 36'
+             3-2  Batista Meier 45+0')
          FC Ingolstadt 04         v 1. FC Saarbrücken          2-2 (1-1)
+            (1-0  B. Kanuric 28'
+             1-1  Pat. Schmidt 29'
+             1-2  Pat. Schmidt 56'
+             2-2  Jannik Mause 60')
          VfB Lübeck               v Erzgebirge Aue             1-1 (0-0)
+            (1-0  Akono 53'
+             1-1  Stefaniak 73' (p))
          Borussia Dortmund II     v Dynamo Dresden             0-2 (0-1)
+            (0-1  Stefan Kutschke 6'
+             0-2  Borowski 77' (p))
          SpVgg Unterhaching       v Viktoria Köln              2-1 (1-0)
+            (1-0  Skarlatidis 15'
+             2-0  Moritz Fritz 53' (og)
+             2-1  Handle 81')
          SV Sandhausen            v TSV 1860 München           3-0 (2-0)
+            (1-0  Lion Schuster 4'
+             2-0  Ehrlich 45' (og)
+             3-0  Scholze 87')
 Sun Aug 27
   13:30  DSC Arminia Bielefeld    v Jahn Regensburg            1-1 (1-1)
+            (1-0  Ballas 12'
+             1-1  Gohlke 20')
   16:30  SV Waldhof Mannheim      v Hallescher FC              3-2 (3-1)
+            (0-1  Lofolomo 4'
+             1-1  Gouras 6'
+             2-1  Jans 9'
+             3-1  Bahn 13' (p)
+             3-2  Tom Baumgart 69')
   19:30  Rot-Weiss Essen          v Preußen Münster            1-0 (1-0)
+            (1-0  Eisfeld 90+0')
 
 ▪ 5. Spieltag
 Fri Sep 1
   19:00  1. FC Saarbrücken        v Borussia Dortmund II       2-0 (1-0)
+            (1-0  Rabihic 37'
+             2-0  Brückner 58')
 Sat Sep 2
   14:00  SSV Ulm 1846             v VfB Lübeck                 3-0 (0-0)
+            (1-0  Chessa 70'
+             2-0  Scienza 75'
+             3-0  Chessa 90+0')
          Preußen Münster          v SV Waldhof Mannheim        1-3 (0-1)
+            (0-1  Fridolin Wagner 45+0'
+             0-2  Sohm 54'
+             1-2  Grodowski 57' (p)
+             1-3  Charles-Jesaja Herrmann 76')
          SC Verl                  v SpVgg Unterhaching         0-0 (0-0)
          SC Freiburg II           v Rot-Weiss Essen            0-2 (0-0)
+            (0-1  Harenbrock 51'
+             0-2  Obuz 90+0')
          Dynamo Dresden           v FC Ingolstadt 04           2-0 (0-0)
+            (1-0  Vlachodimos 62'
+             2-0  Schäffler 90')
          TSV 1860 München         v Erzgebirge Aue             1-2 (0-0)
+            (1-0  J. Zwarts 53'
+             1-1  Bär 85'
+             1-2  Thiel 87')
 Sun Sep 3
   13:30  Hallescher FC            v SV Sandhausen              4-1 (1-1)
+            (0-1  T. Maciejewski 23'
+             1-1  Gayret 40'
+             2-1  Tunay Deniz 46'
+             3-1  Tunay Deniz 64'
+             4-1  Dominic Baumann 76')
   15:30  Jahn Regensburg          v MSV Duisburg               2-1 (1-1)
+            (0-0  Stierlin 45'
+             1-0  Kother 30'
+             1-1  Stierlin 33'
+             2-1  Ganaus 76')
   19:30  Viktoria Köln            v DSC Arminia Bielefeld      1-1 (0-0)
+            (1-0  Koronkiewicz 58'
+             1-1  Sarenren-Bazee 84')
 
 ▪ 6. Spieltag
 Fri Sep 15
   19:00  MSV Duisburg             v SC Verl                    2-3 (2-1)
+            (1-0  Bitter 9'
+             2-0  Sebastian Mai 13'
+             2-1  Lars Lokotsch 45'
+             2-2  Corboz 56'
+             2-3  Corboz 90')
 Sat Sep 16
   14:00  DSC Arminia Bielefeld    v SC Freiburg II             0-2 (0-1)
+            (0-1  Bichsel 10'
+             0-2  Aron Johansson 61')
          Rot-Weiss Essen          v Jahn Regensburg            0-0 (0-0)
          VfB Lübeck               v Dynamo Dresden             0-1 (0-0)
+            (0-1  J. Lemmer 51')
          Borussia Dortmund II     v Viktoria Köln              2-1 (1-1)
+            (1-0  Hettwer 6'
+             1-1  Koronkiewicz 14' (p)
+             2-1  Pohlmann 51' (p))
          SV Sandhausen            v Preußen Münster            0-2 (0-1)
+            (0-1  Koulis 41'
+             0-2  Bouchama 90')
   16:30  FC Ingolstadt 04         v TSV 1860 München           2-1 (0-1)
+            (0-1  Guttau 23'
+             1-1  Jannik Mause 58'
+             2-1  Kopacz 77')
 Sun Sep 17
   13:30  Erzgebirge Aue           v Hallescher FC              3-1 (0-1)
+            (0-1  Dominic Baumann 25'
+             1-1  Meuer 62'
+             2-1  Joshua Schwirten 79'
+             3-1  Marcel Bär 90')
   16:30  SV Waldhof Mannheim      v SSV Ulm 1846               0-2 (0-1)
+            (0-1  L. Röser 36'
+             0-2  Rühle 90')
   19:30  SpVgg Unterhaching       v 1. FC Saarbrücken          0-0 (0-0)
 
 ▪ 7. Spieltag
 Fri Sep 22
   19:00  SpVgg Unterhaching       v DSC Arminia Bielefeld      1-2 (0-1)
+            (0-1  K. Mizuta 28'
+             1-1  Stiefler 67'
+             1-2  Putaro 89')
 Sat Sep 23
   14:00  SC Verl                  v Borussia Dortmund II       2-3 (1-1)
+            (0-1  Hettwer 15'
+             1-1  Wolfram 23'
+             2-1  Batista Meier 63'
+             2-2  P. Göbel 74'
+             2-3  Butler 90')
          Preußen Münster          v VfB Lübeck                 1-1 (0-0)
+            (1-0  Wegkamp 79'
+             1-1  M. Akoto 84')
          1. FC Saarbrücken        v SV Waldhof Mannheim        1-1 (0-0)
+            (0-1  Herrmann 74'
+             1-1  Brückner 88')
          Jahn Regensburg          v SV Sandhausen              1-2 (0-1)
+            (0-1  D. Otto 18'
+             0-2  Hennings 89'
+             1-2  Viet 90')
          Viktoria Köln            v MSV Duisburg               2-0 (0-0)
+            (1-0  Luca Marseiler 52'
+             2-0  B. Henning 87')
   16:30  Hallescher FC            v TSV 1860 München           0-2 (0-1)
+            (0-1  Schröter 23'
+             0-2  Guttau 66')
 Sun Sep 24
   13:30  SSV Ulm 1846             v Rot-Weiss Essen            2-1 (1-0)
+            (1-0  Chessna 19'
+             2-0  Chessna 80'
+             2-1  Vinko Sapina 86')
   16:30  SC Freiburg II           v FC Ingolstadt 04           1-4 (0-1)
+            (0-1  Jannik Mause 17'
+             0-2  Jannik Mause 61'
+             0-3  Yannick Deichmann 64'
+             0-4  B. Kanuric 67'
+             1-4  Johannsson 69')
   19:30  Dynamo Dresden           v Erzgebirge Aue             2-1 (1-0)
+            (1-0  Vukancic 9' (og)
+             2-0  Dennis Borkowski 84'
+             2-1  M. Bär 90')
 
 ▪ 9. Spieltag
 Wed Sep 27
@@ -116,23 +279,53 @@ Wed Sep 27
 ▪ 8. Spieltag
 Fri Sep 29
   19:00  DSC Arminia Bielefeld    v 1. FC Saarbrücken          2-6 (1-1)
+            (1-0  Fabian Klos 41'
+             1-1  Richard Neudecker 43'
+             1-2  Luca Kerber 51'
+             1-3  Kai Brünker 68'
+             1-4  Marcel Gaus 80'
+             2-4  Aygün Yildirim 81'
+             2-5  Simon Stehle 89'
+             2-6  Lukas Boeder 90+3')
 Sat Sep 30
   14:00  MSV Duisburg             v Preußen Münster            0-0 (0-0)
          TSV 1860 München         v SC Verl                    1-0 (1-0)
+            (1-0  Torge Paetow 40' (og))
          SV Waldhof Mannheim      v SC Freiburg II             3-1 (1-1)
+            (1-0  Fridolin Wagner 33'
+             1-1  Hamadi Al Ghaddioui 36'
+             2-1  N.N. 78'
+             3-1  N.N. 92')
          SV Sandhausen            v Viktoria Köln              3-3 (0-2)
+            (0-1  Stefano Russo 32'
+             0-2  Luca Marseiler 35'
+             1-2  David Otto 46'
+             1-3  Luca Marseiler 61'
+             2-3  Franck Evina 87' (p)
+             3-3  Richard Meier 90+5')
          FC Ingolstadt 04         v SSV Ulm 1846               4-0 (2-0)
+            (1-0  Benjamin Kanuric 5'
+             2-0  David Kopacz 45+1'
+             3-0  Jannik Mause 55'
+             4-0  Julian Kügel 79')
   16:30  VfB Lübeck               v Hallescher FC              2-2 (2-0)
+            (1-0  Mirko Boland 20'
+             2-0  Pascal Breier 30'
+             2-1  Tunay Deniz 82'
+             2-2  Dominic Baumann 90' (p))
 Sun Oct 1
   13:30  Rot-Weiss Essen          v Dynamo Dresden             3-1 (1-0)
   16:30  Borussia Dortmund II     v SpVgg Unterhaching         2-2 (2-1)
   19:30  Erzgebirge Aue           v Jahn Regensburg            0-1 (0-0)
+            (0-1  Robin Ziegele 75')
 
 ▪ 9. Spieltag
 Tue Oct 3
   19:00  SSV Ulm 1846             v TSV 1860 München           1-0 (1-0)
          SC Verl                  v DSC Arminia Bielefeld      3-1 (2-0)
          1. FC Saarbrücken        v VfB Lübeck                 1-1 (0-1)
+            (0-1  N.N.
+             1-1  N.N. 99')
          SC Freiburg II           v SV Sandhausen              0-2 (0-1)
          Viktoria Köln            v FC Ingolstadt 04           1-0 (1-0)
 Wed Oct 4
@@ -144,6 +337,9 @@ Wed Oct 4
 ▪ 10. Spieltag
 Fri Oct 6
   19:00  SV Sandhausen            v SSV Ulm 1846               1-2 (1-0)
+            (1-0  David Otto 12'
+             1-1  Dennis Chessa 67'
+             1-2  Rühle 90')
 Sat Oct 7
   14:00  MSV Duisburg             v SpVgg Unterhaching         1-0 (0-0)
          TSV 1860 München         v Dynamo Dresden             0-0 (0-0)
@@ -159,11 +355,25 @@ Sun Oct 8
 ▪ 11. Spieltag
 Fri Oct 13
   19:00  Borussia Dortmund II     v Rot-Weiss Essen            1-2 (0-1)
+            (0-1  M. Lotka 39' (og)
+             1-1  F. Michel 57' (p)
+             1-2  Torben Müsel 58')
 Sat Oct 14
   14:00  SpVgg Unterhaching       v SV Sandhausen              0-0 (0-0)
          SC Verl                  v FC Ingolstadt 04           2-2 (2-1)
+            (1-0  L. Lokotsch 2'
+             2-0  M. Stöcker 20'
+             2-1  B. Kanuric 23'
+             2-2  Jannik Mause 75')
          Jahn Regensburg          v VfB Lübeck                 2-1 (2-0)
+            (1-0  D. Kother 41'
+             2-0  O. Schönfelder 45'
+             2-1  R. Velasco 46')
          Viktoria Köln            v Erzgebirge Aue             2-2 (0-0)
+            (1-0  Luca Marseiler 46'
+             1-1  Stefaniak 70'
+             1-2  T. Danhof 75'
+             2-2  Becker 90+3')
   16:30  DSC Arminia Bielefeld    v SV Waldhof Mannheim        3-1 (0-1)
 Sun Oct 15
   13:30  SSV Ulm 1846             v Dynamo Dresden             2-3 (2-2)
@@ -196,6 +406,7 @@ Sat Oct 28
   16:30  Jahn Regensburg          v Preußen Münster            2-1 (0-0)
 Sun Oct 29
   13:30  1. FC Saarbrücken        v Dynamo Dresden             1-0 (1-0)
+            (1-0  Brünker 40')
   16:30  SC Verl                  v VfB Lübeck                 4-0 (1-0)
   19:30  SC Freiburg II           v Erzgebirge Aue             0-1 (0-1)
 
@@ -217,36 +428,97 @@ Sun Nov 5
 ▪ 15. Spieltag
 Fri Nov 10
   19:00  Viktoria Köln            v Dynamo Dresden             1-5 (0-3)
+            (0-1  Stefan Kutschke 17' (p)
+             0-2  N. Hauptmann 32'
+             0-3  Stefan Kutschke 45+5'
+             1-3  D. Bogicevic 55'
+             1-4  R. Meißner 82'
+             1-5  Stefan Kutschke 85')
 Sat Nov 11
   14:00  MSV Duisburg             v FC Ingolstadt 04           1-2 (0-0)
+            (0-1  D. Kopacz 57'
+             0-2  S. Lorenz 70'
+             1-2  A. Esswein 80' (p))
          DSC Arminia Bielefeld    v SV Sandhausen              1-1 (1-0)
+            (1-0  F. Klos 13'
+             1-1  R. Hennings 54')
          SpVgg Unterhaching       v Erzgebirge Aue             0-0 (0-0)
          SC Verl                  v Hallescher FC              3-2 (3-2)
+            (0-1  D. Baumann 4'
+             1-1  N. Sessa 18'
+             2-1  T. Paetow 26'
+             3-1  O. Batista Meier 42'
+             3-2  E. Lofolomo 45+1')
          1. FC Saarbrücken        v TSV 1860 München           2-3 (2-2)
+            (0-1  M. Schröter 4'
+             0-2  M. Schröter 16'
+             1-2  M. Zeitz 39'
+             2-2  A. Naifi 41'
+             2-3  N. Lang 83')
   16:30  Borussia Dortmund II     v VfB Lübeck                 1-1 (0-0)
+            (1-0  R. Elongo-Yombo 63'
+             1-1  R. Reddemann 66')
 Sun Nov 12
   13:30  SC Freiburg II           v Preußen Münster            2-2 (0-0)
+            (1-0  Gabriel Pellegrino 69'
+             1-1  Grodowski 72'
+             2-1  Philip Fahrner 83'
+             2-2  Andrew Wooten 90+0')
   16:30  Rot-Weiss Essen          v SV Waldhof Mannheim        2-0 (0-0)
+            (1-0  Harenbrock 68'
+             2-0  Obuz 74')
   19:30  Jahn Regensburg          v SSV Ulm 1846               2-0 (1-0)
+            (1-0  B. Saller 16'
+             2-0  Eric Hottmann 88')
 
 ▪ 16. Spieltag
 Fri Nov 24
   19:00  SV Waldhof Mannheim      v SC Verl                    1-2 (1-0)
+            (1-0  Kennedy Okpala 12' (og)
+             1-1  Batista Meier 49'
+             1-2  Lars Lokotsch 63')
 Sat Nov 25
   14:00  TSV 1860 München         v SpVgg Unterhaching         0-1 (0-1)
+            (0-1  Mathias Fetsch 21')
          Erzgebirge Aue           v Borussia Dortmund II       2-0 (2-0)
+            (1-0  Marcel Bär 14'
+             2-0  Marcel Bär 45+0')
          SV Sandhausen            v MSV Duisburg               2-0 (2-0)
+            (1-0  David Otto 34'
+             2-0  Sebastian Mai 43' (og))
          Hallescher FC            v 1. FC Saarbrücken          0-2 (0-2)
+            (0-1  Kai Brünker 19'
+             0-2  Boné Uaferro 41')
          FC Ingolstadt 04         v Rot-Weiss Essen            2-1 (2-1)
+            (1-0  Jannik Mause 17'
+             2-0  David Kopacz 21'
+             2-1  Harenbrock 30')
   16:30  SSV Ulm 1846             v SC Freiburg II             2-1 (1-1)
+            (1-0  Dennis Chessa 22'
+             1-1  Julian Stark 45+0'
+             2-1  Scienza 49')
 Sun Nov 26
   13:30  VfB Lübeck               v DSC Arminia Bielefeld      2-2 (0-0)
+            (0-1  Biankadi 56'
+             0-2  Leon Schneider 62'
+             1-2  Mats Facklam 63'
+             2-2  Mats Facklam 90+0')
   16:30  Dynamo Dresden           v Jahn Regensburg            0-1 (0-0)
+            (0-1  F. Ballas 90+0')
   19:30  Preußen Münster          v Viktoria Köln              3-3 (2-2)
+            (0-1  David Kubatta 23'
+             0-2  Luca Marseiler 32'
+             1-2  Luca Bazzoli 43'
+             2-2  Malik Batmaz 45'
+             3-2  Malik Batmaz 47'
+             3-3  Luca Marseiler 52')
 
 ▪ 11. Spieltag
 Tue Nov 28
   19:00  SC Freiburg II           v Hallescher FC              1-2 (1-1)
+            (0-1  Tunay Deniz 18'
+             1-1  M. Breunig 34'
+             1-2  D. Baumann 53' (p))
 Wed Nov 29
   19:00  1. FC Saarbrücken        v MSV Duisburg               0-0 (0-0)
 
@@ -468,30 +740,91 @@ Sun Mar 17
 ▪ 31. Spieltag
 Sat Mar 30
   14:00  SpVgg Unterhaching       v FC Ingolstadt 04           0-3 (0-0)
+            (0-1  P. Testroet 56'
+             0-2  S. Grønning 84'
+             0-3  M. Dittgen 90+0')
          Preußen Münster          v Dynamo Dresden             1-0 (0-0)
+            (1-0  M. Batmaz 52')
          Jahn Regensburg          v Hallescher FC              2-0 (1-0)
+            (1-0  C. Viet 28'
+             2-0  D. Kother 50')
          SSV Ulm 1846             v Erzgebirge Aue             2-2 (1-0)
+            (1-0  M. Brandt 40'
+             1-1  T. Danhof 50'
+             1-2  M. Bär 88'
+             2-2  T. Kastanaras 90+0')
          Borussia Dortmund II     v SV Waldhof Mannheim        1-2 (0-0)
+            (0-1  J. Rieckmann 74'
+             1-1  O. Pohlmann 90+0' (p)
+             1-2  J. Rieckmann 90+0')
   16:30  SC Freiburg II           v TSV 1860 München           1-0 (0-0)
+            (1-0  L. Marino 71')
 Sun Mar 31
   13:30  Viktoria Köln            v VfB Lübeck                 1-0 (0-0)
+            (1-0  S. El Mala 66')
   16:30  SC Verl                  v SV Sandhausen              4-4 (1-2)
+            (0-1  P. Greil 27'
+             1-1  Y. Otto 34'
+             1-2  P. Greil 39'
+             2-2  T. Baack 61'
+             3-2  M. Wolfram 69'
+             3-3  R. Meier 79'
+             3-4  S. Stolze 85'
+             4-4  B. Taz 88' (p))
   19:30  DSC Arminia Bielefeld    v MSV Duisburg               2-0 (2-0)
+            (1-0  L. Schneider 27'
+             2-0  F. Klos 43')
 
 ▪ 32. Spieltag
 Fri Apr 5
   19:00  FC Ingolstadt 04         v DSC Arminia Bielefeld      1-1 (0-1)
+            (0-1  L. Oppie 39'
+             1-1  S. Grønning 90+0')
 Sat Apr 6
   14:00  VfB Lübeck               v SC Verl                    0-0 (0-0)
          SV Sandhausen            v Borussia Dortmund II       3-2 (1-0)
+            (1-0  P. Greil 15'
+             1-1  R. Elongo-Yombo 71'
+             1-2  O. Pohlmann 76' (p)
+             2-2  M. Pink 86'
+             3-2  R. Meier 90+0')
          Erzgebirge Aue           v SC Freiburg II             2-1 (0-0)
+            (1-0  K. Jakob 63'
+             1-1  J. Manzambi 82'
+             2-1  M. Stefaniak 85')
          TSV 1860 München         v Viktoria Köln              3-1 (2-0)
+            (1-0  J. Zwarts 16'
+             2-0  F. Engelhardt 35' (og)
+             2-1  J. Lorch 50'
+             3-1  J. Verlaat 71')
          Preußen Münster          v Jahn Regensburg            1-3 (0-3)
+            (0-1  N. Ganaus 3'
+             0-2  C. Viet 15'
+             0-3  D. Kother 26'
+             1-3  S. Oubeyapwa 81')
   16:30  SV Waldhof Mannheim      v SpVgg Unterhaching         6-1 (0-1)
+            (0-1  A. Keller 45+0'
+             1-1  S. Abifade 51'
+             2-1  M. Kobylanski 61'
+             3-1  B. Bahn 65'
+             4-1  T. Boyd 71'
+             5-1  K. Arase 74'
+             6-1  P. Sohm 85')
 Sun Apr 7
   13:30  Dynamo Dresden           v 1. FC Saarbrücken          1-3 (0-1)
+            (0-1  T. Civeja 30'
+             0-2  S. Stehle 50'
+             0-3  S. Stehle 60'
+             1-3  M. Schäffler 67')
   16:30  Rot-Weiss Essen          v MSV Duisburg               4-1 (1-1)
+            (0-1  A. Esswein 37'
+             1-1  V. Šapina 45+0'
+             2-1  L. Brumme 57'
+             3-1  M. Doumbouya 72' (p)
+             4-1  L. Brumme 90+0')
   19:30  Hallescher FC            v SSV Ulm 1846               0-2 (0-1)
+            (0-1  L. Scienza 45+0' (p)
+             0-2  Stoll 70')
 
 ▪ 25. Spieltag
 Wed Apr 10
@@ -500,32 +833,87 @@ Wed Apr 10
 ▪ 33. Spieltag
 Fri Apr 12
   19:00  MSV Duisburg             v SV Waldhof Mannheim        1-1 (1-0)
+            (1-0  T. Boyd 32' (og)
+             1-1  T. Fleckstein 69' (og))
 Sat Apr 13
   14:00  SSV Ulm 1846             v Preußen Münster            2-0 (1-0)
+            (1-0  F. Higl 10'
+             2-0  L. Stoll 83')
          SC Verl                  v Erzgebirge Aue             3-1 (1-0)
+            (1-0  N. Nadj 6'
+             2-0  L. Lokotsch 49'
+             3-0  M. Schikora 54' (og)
+             3-1  S. Nkansah 76')
          Borussia Dortmund II     v FC Ingolstadt 04           1-1 (1-0)
+            (1-0  J. Hettwer 41'
+             1-1  D. Kopacz 64')
          SpVgg Unterhaching       v VfB Lübeck                 4-1 (3-0)
+            (1-0  A. Keller 32'
+             2-0  M. Fetsch 35'
+             3-0  A. Keller 43'
+             4-0  G. Adu 72'
+             4-1  J. Schneider 74')
          Viktoria Köln            v Hallescher FC              4-2 (0-0)
+            (0-1  M. Skenderovic 48'
+             0-2  T. Deniz 52'
+             1-2  J. Lorch 56'
+             2-2  L. Marseiler 75' (p)
+             3-2  T. Anselm 77'
+             4-2  T. Anselm 82')
   16:30  1. FC Saarbrücken        v SV Sandhausen              4-1 (0-1)
+            (0-1  P. Greil 43'
+             1-1  M. Gaus 68'
+             2-1  L. Kerber 74'
+             3-1  K. Brünker 81'
+             4-1  L. Kerber 84')
 Sun Apr 14
   13:30  Jahn Regensburg          v TSV 1860 München           1-1 (0-0)
+            (0-1  M. Schröter 53'
+             1-1  E. Huth 81')
   16:30  DSC Arminia Bielefeld    v Rot-Weiss Essen            1-1 (1-0)
+            (1-0  L. Putaro 33'
+             1-1  C. Harenbrock 61')
   19:30  SC Freiburg II           v Dynamo Dresden             1-1 (1-1)
+            (0-1  T. Zimmerschmied 28'
+             1-1  Y. Sturm 41')
 
 ▪ 34. Spieltag
 Fri Apr 19
   19:00  SV Sandhausen            v DSC Arminia Bielefeld      1-2 (0-0)
+            (1-0  L. Zander 55'
+             1-1  L. Putaro 73' (p)
+             1-2  T. Knipping 86' (og))
 Sat Apr 20
   14:00  Erzgebirge Aue           v SpVgg Unterhaching         2-1 (1-0)
+            (1-0  M. Stefaniak 40'
+             2-0  S. Meuer 46'
+             2-1  S. Nkansah 69' (og))
          TSV 1860 München         v 1. FC Saarbrücken          1-1 (0-1)
+            (0-1  K. Brünker 9'
+             1-1  T. Kloss 84')
          Dynamo Dresden           v Viktoria Köln              0-2 (0-0)
+            (0-1  S. Handle 67'
+             0-2  A. Becker 80')
          VfB Lübeck               v Borussia Dortmund II       0-5 (0-3)
+            (0-1  R. Elongo-Yombo 10'
+             0-2  R. Elongo-Yombo 21'
+             0-3  F. Pfanne 33'
+             0-4  P. Besong 76'
+             0-5  B. Pudel 84')
          Hallescher FC            v SC Verl                    1-0 (1-0)
+            (1-0  T. Deniz 30')
   16:30  FC Ingolstadt 04         v MSV Duisburg               2-0 (1-0)
+            (1-0  J. Mause 7'
+             2-0  R. Malone 76')
 Sun Apr 21
   13:30  SV Waldhof Mannheim      v Rot-Weiss Essen            0-2 (0-1)
+            (0-1  Müsel 42'
+             0-2  Vonic 90')
   16:30  Preußen Münster          v SC Freiburg II             2-0 (1-0)
+            (1-0  Grodowski 6'
+             2-0  M. Batmaz 76')
   19:30  SSV Ulm 1846             v Jahn Regensburg            1-0 (0-0)
+            (1-0  F. Higl 70')
 
 ▪ 31. Spieltag
 Wed Apr 24
@@ -536,26 +924,77 @@ Fri Apr 26
   19:00  DSC Arminia Bielefeld    v VfB Lübeck                 0-0 (0-0)  @ SchücoArena, Bielefeld
 Sat Apr 27
   14:00  MSV Duisburg             v SV Sandhausen              3-1 (2-0)  @ Schauinsland-Reisen-Arena, Duisburg
+            (1-0  A. Esswein 23' (p)
+             2-0  Girth 32'
+             2-1  T. Maciejewski 73'
+             3-1  Bitter 82')
          Jahn Regensburg          v Dynamo Dresden             1-1 (0-0)  @ Jahnstadion, Regensburg
+            (0-1  Stefan Kutschke 54'
+             1-1  C. Viet 89' (p))
          1. FC Saarbrücken        v Hallescher FC              0-1 (0-0)  @ Ludwigsparkstadion, Saarbrücken
+            (0-1  Crosthwaite 79')
          Borussia Dortmund II     v Erzgebirge Aue             2-2 (1-1)  @ Rote Erde, Dortmund
+            (1-0  P. Besong 13'
+             1-1  Pepic 37'
+             2-1  Papadopoulos 90'
+             2-2  Majetschak 94')
          Viktoria Köln            v Preußen Münster            3-5 (2-1)  @ Sportpark Höhenberg, Köln
+            (1-0  Handle 3'
+             2-0  L. Marseiler 24'
+             2-1  Koulis 45'
+             3-1  L. Marseiler 48'
+             3-2  M. Lorenz 60'
+             3-3  A. Hahn 69'
+             3-4  Koulis 85'
+             3-5  ter Horst 89')
          SC Verl                  v SV Waldhof Mannheim        1-1 (0-1)  @ Stadion an der Poststraße, Verl
+            (0-1  Kobylanski 5'
+             1-1  Mikic 77')
 Sun Apr 28
   13:30  Rot-Weiss Essen          v FC Ingolstadt 04           4-0 (3-0)  @ Hafenstrasse, Essen
+            (1-0  Plechaty 9'
+             2-0  Harenbrock 41'
+             3-0  Vonic 45'
+             4-0  Kaiser 59')
   16:30  SC Freiburg II           v SSV Ulm 1846               1-2 (0-0)  @ Dreisamstadion, Freiburg
+            (0-1  Philipp Maier 51'
+             1-1  M. Breunig 55'
+             1-2  Tom Gaal 82')
   19:30  SpVgg Unterhaching       v TSV 1860 München           2-0 (1-0)  @ Alpenbauer Sportpark, Unterhaching
+            (1-0  Stiefler 31'
+             2-0  Hobsch 54')
 
 ▪ 36. Spieltag
 Fri May 3
   19:00  VfB Lübeck               v MSV Duisburg               5-3 (1-1)  @ Stadion Lohmühle, Lübeck
+            (0-1  Girth 18'
+             1-1  Beleme 45'
+             1-2  Girth 48'
+             1-3  Castaneda 56'
+             2-3  F. Drinkuth 68'
+             3-3  Beleme 73'
+             4-3  Lehnfeld 77'
+             5-3  Gözüsirin 90')
 Sat May 4
   14:00  SC Freiburg II           v Jahn Regensburg            3-1 (1-0)  @ Dreisamstadion, Freiburg
+            (1-0  Lungwitz 37'
+             1-1  Viet 59'
+             2-1  Manzambi 77'
+             3-1  Marino 88')
          SSV Ulm 1846             v Viktoria Köln              2-0 (0-0)  @ Donaustadion, Ulm
+            (1-0  Scienza 59'
+             2-0  Brandt 64')
          Dynamo Dresden           v SC Verl                    0-1 (0-1)  @ Rudolf-Harbig-Stadion, Dresden
+            (0-1  Lokotsch 21')
          Erzgebirge Aue           v DSC Arminia Bielefeld      1-0 (0-0)  @ Erzgebirgsstadion, Aue
+            (1-0  Schikora 76')
          TSV 1860 München         v Borussia Dortmund II       1-2 (1-1)  @ Stadion an der Grünwalder Straße, München
+            (0-1  Pohlmann 4'
+             1-1  Ouro-Tagba 28'
+             1-2  Pohlmann 50')
          SV Sandhausen            v Rot-Weiss Essen            2-0 (0-0)  @ Hardtwaldstadion, Sandhausen
+            (1-0  D. Otto 61'
+             2-0  Maciejewski 70')
 Sun May 5
   13:30  Preußen Münster          v 1. FC Saarbrücken          4-1 (3-0)  @ Preußenstadion, Münster
   16:30  Hallescher FC            v SpVgg Unterhaching         0-1 (0-1)  @ Leuna Chemie Stadion, Halle

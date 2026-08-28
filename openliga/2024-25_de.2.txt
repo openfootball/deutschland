@@ -8,12 +8,23 @@
 ▪ 1. Spieltag
 Fri Aug 2 2024
   20:30  1. FC Köln               v Hamburger SV               1-2 (0-2)
+            (0-1  R. Königsdörffer 6'
+             0-2  R. Königsdörffer 35'
+             1-2  L. Maina 78')
 Sat Aug 3
   13:00  Karlsruher SC            v 1. FC Nürnberg             3-2 (1-2)
          Hannover 96              v Jahn Regensburg            2-0 (2-0)
+            (1-0  N. Tresoldi 11'
+             2-0  J. Dehm 23')
          Hertha BSC               v SC Paderborn 07            1-2 (0-1)
          1. FC Magdeburg          v SV 07 Elversberg           0-0 (0-0)  @ Avnet Arena, Magdeburg
   20:30  FC Schalke 04            v Eintracht Braunschweig     5-1 (2-1)
+            (1-0  T. Mohr 9'
+             2-0  Sylla 25'
+             2-1  K. Ehlers 33'
+             3-1  Karaman 73'
+             4-1  Sylla 82'
+             5-1  Karaman 83')
 Sun Aug 4
   13:30  SV Darmstadt 98          v Fortuna Düsseldorf         0-2 (0-0)
          SpVgg Greuther Fürth     v Preußen Münster            3-1 (1-1)
@@ -28,6 +39,8 @@ Sat Aug 10
          SV 07 Elversberg         v 1. FC Köln                 2-2 (0-1)
          1. FC Nürnberg           v FC Schalke 04              3-1 (0-0)
   20:30  Hamburger SV             v Hertha BSC                 1-1 (1-0)
+            (1-0  R. Königsdörffer 11'
+             1-1  J. Kenny 86')
 Sun Aug 11
   13:30  SC Paderborn 07          v SV Darmstadt 98            3-1 (0-1)
          Eintracht Braunschweig   v 1. FC Magdeburg            1-3 (0-1)
@@ -50,12 +63,37 @@ Sun Aug 25
 ▪ 4. Spieltag
 Fri Aug 30
   18:30  Fortuna Düsseldorf       v Hannover 96                1-0 (0-0)
+            (1-0  D. Schmidt 59')
          Jahn Regensburg          v SpVgg Greuther Fürth       0-4 (0-1)
+            (0-1  M. Meyerhöfer 4'
+             0-2  Futkeu 49'
+             0-3  Branimir Hrgota 77'
+             0-4  J. Green 88')
 Sat Aug 31
   13:00  Hamburger SV             v Preußen Münster            4-1 (3-0)
+            (1-0  R. Glatzel 6'
+             2-0  D. Elfadli 26'
+             3-0  R. Glatzel 46'
+             3-1  T. Paetow 58'
+             4-1  M. Heyer 64')
          SV 07 Elversberg         v SV Darmstadt 98            4-0 (2-0)
+            (1-0  Schnellbacher 5'
+             2-0  F. Asllani 20'
+             3-0  F. Asllani 59'
+             4-0  F. Gerezgiher 90')
          1. FC Nürnberg           v 1. FC Magdeburg            0-4 (0-1)
+            (0-1  X. Amaechi 24'
+             0-2  Livan Burcu 65'
+             0-3  Alexander Nollenberger 84'
+             0-4  P. Hercher 92')
   20:30  1. FC Kaiserslautern     v Hertha BSC                 3-4 (2-1)
+            (0-1  N.N. 28'
+             1-1  N.N. 32'
+             2-1  N.N. 45'
+             2-2  N.N. 51'
+             2-3  N.N. 64'
+             3-3  N.N. 68'
+             3-4  N.N. 79')
 Sun Sep 1
   13:30  SC Paderborn 07          v SSV Ulm 1846               0-0 (0-0)
          FC Schalke 04            v 1. FC Köln                 1-3 (0-2)
@@ -64,21 +102,59 @@ Sun Sep 1
 ▪ 5. Spieltag
 Fri Sep 13
   18:30  Karlsruher SC            v FC Schalke 04              2-0 (1-0)
+            (1-0  B. Zivzivadze 45'
+             2-0  B. Zivzivadze 73')
          Preußen Münster          v SC Paderborn 07            3-3 (1-1)
+            (1-0  J. Mees 19'
+             1-1  F. Bilbija 37'
+             1-2  R. Obermair 47'
+             2-2  H. Fridjonsson 78'
+             2-3  I. Ansah 85'
+             3-3  J. Mees 90')
 Sat Sep 14
   13:00  SV Darmstadt 98          v Eintracht Braunschweig     1-1 (1-0)
+            (1-0  Sergio Lopez 29'
+             1-1  L. Szabó 86')
          Hannover 96              v 1. FC Kaiserslautern       3-1 (1-0)
+            (1-0  H. Lee 7'
+             1-1  R. Ache 56'
+             2-1  Christiansen 73'
+             3-1  Monju Momuluh 90')
          SSV Ulm 1846             v 1. FC Nürnberg             1-2 (0-0)
+            (1-0  Semir Telalovic 51'
+             1-1  Stefanos Tzimas 64'
+             1-2  T. Duman 90' (p))
   20:30  1. FC Köln               v 1. FC Magdeburg            1-2 (0-0)
+            (1-0  Downs 49'
+             1-1  F. Michel 69'
+             1-2  J. Hugonet 83')
 Sun Sep 15
   13:30  Hamburger SV             v Jahn Regensburg            5-0 (2-0)
+            (1-0  R. Königsdörffer 1'
+             2-0  R. Glatzel 14'
+             3-0  J. Dompé 75'
+             4-0  D. Selke 89'
+             5-0  J. Dompé 90+0')
          SpVgg Greuther Fürth     v SV 07 Elversberg           0-0 (0-0)
          Hertha BSC               v Fortuna Düsseldorf         0-2 (0-1)
+            (0-1  D. Kownacki 13'
+             0-2  J. Niemiec 67')
 
 ▪ 6. Spieltag
 Fri Sep 20
   18:30  SC Paderborn 07          v Hannover 96                2-1 (1-1)
+            (1-0  Koen Kostons 9'
+             1-1  Pelle Boevink 19' (og)
+             2-1  I. Ansah 77')
          FC Schalke 04            v SV Darmstadt 98            3-5 (3-1)
+            (1-0  T. Mohr 14'
+             2-0  Sylla 24'
+             3-0  R. Schallenberg 38'
+             3-1  Fraser Hornby 45+0' (p)
+             3-2  Isaac Lidberg 56'
+             3-3  Isaac Lidberg 76'
+             3-4  Isaac Lidberg 87'
+             3-5  Sergio Lopez 90+0')
 Sat Sep 21
   13:00  Fortuna Düsseldorf       v 1. FC Köln                 2-2 (1-1)
          1. FC Nürnberg           v Hertha BSC                 0-2 (0-1)
@@ -86,20 +162,56 @@ Sat Sep 21
   20:30  1. FC Kaiserslautern     v Hamburger SV               2-2 (1-0)
 Sun Sep 22
   13:30  SV 07 Elversberg         v SSV Ulm 1846               1-3 (0-1)
+            (0-1  J. Reichert 28' (p)
+             0-2  F. Higl 60'
+             1-2  Schnellbacher 62'
+             1-3  P. Strompf 77')
          1. FC Magdeburg          v Karlsruher SC              2-2 (1-2)
+            (1-0  X. Amaechi 5'
+             1-1  L. Jensen 24'
+             1-2  M. Wanitzek 30'
+             2-2  P. Hercher 78')
          Jahn Regensburg          v Preußen Münster            0-3 (0-1)
+            (0-1  Grodowski 29'
+             0-2  H. Makridis 61'
+             0-3  H. Fridjonsson 71')
 
 ▪ 7. Spieltag
 Fri Sep 27
   18:30  SpVgg Greuther Fürth     v Fortuna Düsseldorf         1-2 (1-1)
+            (0-1  Haag 43'
+             1-1  D.Srebeny 45'
+             1-2  I. Johannesson 90+1')
          SSV Ulm 1846             v Eintracht Braunschweig     3-1 (2-0)
+            (1-0  R. Rösch 14'
+             2-0  M. Krattenmacher 39'
+             2-1  L. Szabó 76'
+             3-1  F. Higl 84')
 Sat Sep 28
   13:00  SV Darmstadt 98          v 1. FC Magdeburg            1-2 (1-1)
+            (1-0  Isaac Lidberg 11'
+             1-1  Livan Burcu 22'
+             1-2  C. Krempicki 48')
          Hamburger SV             v SC Paderborn 07            2-2 (0-0)
+            (0-1  F. Bilbija 46'
+             1-1  R. Glatzel 54'
+             1-2  F. Bilbija 61'
+             2-2  D. Selke 67')
          Jahn Regensburg          v 1. FC Kaiserslautern       0-0 (0-0)
   20:30  Preußen Münster          v FC Schalke 04              1-2 (0-0)
+            (1-0  C. Makridis 53'
+             1-1  Sylla 67'
+             1-2  Sylla 74')
 Sun Sep 29
   13:30  1. FC Köln               v Karlsruher SC              4-4 (4-2)
+            (1-0  L. Waldschmidt 3'
+             2-0  Downs 7'
+             3-0  Downs 15'
+             3-1  M. Wanitzek 19'
+             3-2  M. Wanitzek 27'
+             4-2  T. Lemperle 45+2'
+             4-3  L. Jensen 52'
+             4-4  L. Jensen 55')
          Hannover 96              v 1. FC Nürnberg             2-0 (0-0)
          Hertha BSC               v SV 07 Elversberg           1-4 (0-2)
 
@@ -126,6 +238,9 @@ Sat Oct 19
          Preußen Münster          v SV 07 Elversberg           1-1 (1-0)
          Jahn Regensburg          v Fortuna Düsseldorf         0-3 (0-1)
   20:30  1. FC Kaiserslautern     v SC Paderborn 07            3-0 (1-0)
+            (1-0  Ragnar Ache 30'
+             2-0  Luca Sirch 87'
+             3-0  M. Ritter 90')
 Sun Oct 20
   13:30  Hamburger SV             v 1. FC Magdeburg            3-1 (3-0)
          SpVgg Greuther Fürth     v 1. FC Nürnberg             0-4 (0-3)
@@ -142,8 +257,15 @@ Sat Oct 26
   20:30  Fortuna Düsseldorf       v 1. FC Kaiserslautern       3-4 (1-1)
 Sun Oct 27
   13:30  SV Darmstadt 98          v SSV Ulm 1846               1-1 (1-1)
+            (1-0  Fraser Hornby 16'
+             1-1  Aaron Keller 18')
          1. FC Magdeburg          v Hannover 96                0-3 (0-2)
+            (0-1  Andreas Voglsammer 13'
+             0-2  Andreas Voglsammer 23'
+             0-3  Havard Nielsen 75')
          Eintracht Braunschweig   v Preußen Münster            1-1 (1-1)
+            (1-0  R. Philippe 15'
+             1-1  J. Hendrix 16')
 
 ▪ 11. Spieltag
 Fri Nov 1
@@ -154,6 +276,7 @@ Sat Nov 2
          SpVgg Greuther Fürth     v SV Darmstadt 98            1-5 (0-3)
          Jahn Regensburg          v SV 07 Elversberg           1-0 (1-0)
   20:30  Hertha BSC               v 1. FC Köln                 0-1 (0-1)
+            (0-1  T. Lemperle 31')
 Sun Nov 3
   13:30  Hamburger SV             v 1. FC Nürnberg             1-1 (1-0)
          SC Paderborn 07          v Eintracht Braunschweig     0-0 (0-0)
@@ -165,6 +288,7 @@ Fri Nov 8
          Eintracht Braunschweig   v Hamburger SV               3-1 (1-0)
 Sat Nov 9
   13:00  1. FC Köln               v SpVgg Greuther Fürth       1-0 (0-0)
+            (1-0  N.N. 90+4')
          SV Darmstadt 98          v Hertha BSC                 3-1 (1-1)
          1. FC Magdeburg          v SSV Ulm 1846               0-0 (0-0)
   20:30  Fortuna Düsseldorf       v SC Paderborn 07            1-1 (0-0)
@@ -184,6 +308,9 @@ Sat Nov 23
   20:30  Hamburger SV             v FC Schalke 04              2-2 (2-0)
 Sun Nov 24
   13:30  Hannover 96              v SV Darmstadt 98            1-2 (0-0)
+            (0-1  Philipp Förster 62'
+             1-1  H. Lee 68'
+             1-2  F. Nürnberger 72')
          1. FC Kaiserslautern     v Eintracht Braunschweig     3-2 (3-1)
          Jahn Regensburg          v 1. FC Magdeburg            0-1 (0-1)
 
@@ -212,7 +339,16 @@ Sat Dec 7
   20:30  Preußen Münster          v 1. FC Magdeburg            1-2 (1-1)
 Sun Dec 8
   13:30  Fortuna Düsseldorf       v Eintracht Braunschweig     5-0 (3-0)
+            (1-0  D. Kownacki 5'
+             2-0  Ísak Bergmann Jóhannesson 9'
+             3-0  N.N.
+             4-0  N.N.
+             5-0  N.N.)
          Hamburger SV             v SV Darmstadt 98            2-2 (2-1)
+            (1-0  R. Königsdörffer 10'
+             1-1  N.N.
+             2-1  N.N.
+             2-2  N.N.)
          Jahn Regensburg          v 1. FC Köln                 0-1 (0-1)
 
 ▪ 16. Spieltag
@@ -260,16 +396,51 @@ Sun Jan 19
 ▪ 19. Spieltag
 Fri Jan 24
   18:30  SpVgg Greuther Fürth     v 1. FC Kaiserslautern       2-4 (1-1)
+            (1-0  Philipp Müller 6'
+             1-1  M. Ritter 28'
+             1-2  Daisuke Yokota 52'
+             2-2  Branimir Hrgota 68'
+             2-3  Filip Kaloc 73'
+             2-4  Ragnar Ache 90+4')
          1. FC Magdeburg          v Eintracht Braunschweig     1-1 (1-0)
+            (1-0  Baris Atik 5'
+             1-1  Lino Tempelmann 69')
 Sat Jan 25
   13:00  1. FC Köln               v SV 07 Elversberg           1-0 (0-0)
+            (1-0  D. Ljubicic 81')
          Karlsruher SC            v Fortuna Düsseldorf         2-3 (2-0)
+            (1-0  M. Kaufmann 8'
+             2-0  R. Heußer 22'
+             2-1  D. Pejcinovic 47'
+             2-2  D. Kownacki 81'
+             2-3  D. Kownacki 93')
          FC Schalke 04            v 1. FC Nürnberg             3-1 (3-1)
+            (1-0  K. Karaman 7'
+             2-0  Sylla 15'
+             2-1  Stefanos Tzimas 17'
+             3-1  Sylla 45')
   20:30  Hertha BSC               v Hamburger SV               2-3 (0-1)
+            (0-1  D. Selke 23'
+             0-2  R. Königsdörffer 61'
+             1-2  Cuisance 72'
+             2-2  M. Winkler 80'
+             2-3  E. Sahiti 84')
 Sun Jan 26
   13:30  SV Darmstadt 98          v SC Paderborn 07            0-1 (0-1)
+            (0-1  Felix Platte 37')
          Hannover 96              v Preußen Münster            2-2 (1-1)
+            (0-1  Joshua Mees 21'
+             1-1  Nicolò Tresoldi 34'
+             2-1  Enzo Leopold 64'
+             2-2  Florian Pick 71')
          SSV Ulm 1846             v Jahn Regensburg            5-1 (3-0)
+            (0-0  Semir Telalovic 34'
+             1-0  Semir Telalovic 24'
+             2-0  Semir Telalovic 34'
+             3-0  Semir Telalovic 46'
+             4-0  Oliver Batista Meier 55'
+             5-0  Semir Telalovic 79'
+             5-1  Noah Ganaus 90+2')
 
 ▪ 20. Spieltag
 Fri Jan 31
@@ -277,37 +448,99 @@ Fri Jan 31
   18:30  SV 07 Elversberg         v Karlsruher SC              2-2 (1-0)
 Sat Feb 1
   13:00  Fortuna Düsseldorf       v SSV Ulm 1846               3-2 (2-1)
+            (1-0  I. Johannesson 9'
+             1-1  Aaron Keller 13'
+             2-1  D. Kownacki 15'
+             2-2  Batista Meier 52'
+             3-2  D. Kownacki 60' (p))
          Eintracht Braunschweig   v 1. FC Köln                 1-2 (1-2)
+            (1-0  Bicakcic 1'
+             1-1  E. Martel 13'
+             1-2  Downs 30')
          Jahn Regensburg          v Hertha BSC                 2-0 (1-0)
+            (1-0  C. Kühlwetter 45' (p)
+             2-0  Huth 90+2')
   20:30  FC Schalke 04            v 1. FC Magdeburg            2-5 (0-2)
+            (0-1  M. Kaars 29'
+             0-2  M. Kaars 45+2'
+             0-3  M. Kaars 56'
+             0-4  P. Hercher 65'
+             1-4  A. Gantenbein 69'
+             1-5  M. Kaars 74'
+             2-5  Bachmann 90+3')
 Sun Feb 2
   13:30  Hamburger SV             v Hannover 96                2-2 (1-0)
+            (1-0  Silvan Hefti 15'
+             1-1  N. Tresoldi 52'
+             1-2  R. Matondo 79'
+             2-2  J. Dompé 84')
          SC Paderborn 07          v SpVgg Greuther Fürth       1-2 (0-1)
+            (0-1  B. Hrgota 21'
+             0-2  N. Loosli 50'
+             1-2  A. Grimaldi 63')
          1. FC Kaiserslautern     v Preußen Münster            2-1 (0-0)
+            (1-0  M. Ritter 51'
+             1-1  D. Kinsombi 79'
+             2-1  Luca Sirch 90+2')
 
 ▪ 21. Spieltag
 Fri Feb 7
   18:30  SpVgg Greuther Fürth     v Jahn Regensburg            2-1 (2-1)
+            (0-1  Adamyan 6'
+             1-1  J. Consbruch 31'
+             2-1  D. Srbeny 37')
          Preußen Münster          v Hamburger SV               1-2 (1-1)
+            (1-0  L. Frenkert 24'
+             1-1  D. Selke 45+4'
+             1-2  D. Selke 90+4' (p))
 Sat Feb 8
   13:00  SV Darmstadt 98          v SV 07 Elversberg           0-3 (0-2)
+            (0-1  R. Fellhauer 12'
+             0-2  M. Neubauer 42'
+             0-3  F. Asllani 64')
          1. FC Magdeburg          v 1. FC Nürnberg             3-4 (1-3)
+            (0-1  O. Karafiat 5'
+             1-1  M. Mathisen 27'
+             1-2  Knoche 30' (p)
+             1-3  J. Hugonet 33' (og)
+             2-3  M. Kaars 72'
+             3-3  J. Hugonet 78'
+             3-4  J. Justvan 90+4')
          SSV Ulm 1846             v SC Paderborn 07            0-2 (0-0)
+            (0-1  M. Mehlem 81'
+             0-2  Grimaldi 90+7')
   20:30  Hertha BSC               v 1. FC Kaiserslautern       0-1 (0-0)
+            (0-1  Luca Sirch 57')
 Sun Feb 9
   13:30  1. FC Köln               v FC Schalke 04              1-0 (1-0)
+            (1-0  Downs 43')
          Karlsruher SC            v Eintracht Braunschweig     0-2 (0-1)
+            (0-1  L. Szabó 36' (p)
+             0-2  L. Tempelmann 74')
          Hannover 96              v Fortuna Düsseldorf         1-1 (1-1)
+            (0-1  M. van Brederode 27'
+             1-1  J. Rochelt 35')
 
 ▪ 22. Spieltag
 Fri Feb 14
   18:30  SC Paderborn 07          v Preußen Münster            2-0 (0-0)
+            (1-0  M. Mehlem 81'
+             2-0  I. Ansah 84')
          1. FC Magdeburg          v 1. FC Köln                 3-0 (0-0)
+            (1-0  D. Heber 73'
+             2-0  M. El Hankouri 79'
+             3-0  S. Loric 90+2')
 Sat Feb 15
   13:00  SV 07 Elversberg         v SpVgg Greuther Fürth       2-0 (2-0)
+            (1-0  F. Asllani 6'
+             2-0  C. Sickinger 45+1')
          1. FC Kaiserslautern     v Hannover 96                0-0 (0-0)
          Eintracht Braunschweig   v SV Darmstadt 98            1-0 (0-0)
+            (1-0  L. Tempelmann 60')
   20:30  Fortuna Düsseldorf       v Hertha BSC                 2-1 (0-1)
+            (0-1  F. Reese 13'
+             1-1  D. Pejcinovic 55'
+             2-1  D. Pejcinovic 58')
 Sun Feb 16
   13:30  FC Schalke 04            v Karlsruher SC              2-1 (2-1)
          1. FC Nürnberg           v SSV Ulm 1846               2-0 (0-0)
@@ -316,58 +549,147 @@ Sun Feb 16
 ▪ 23. Spieltag
 Fri Feb 21
   18:30  Hamburger SV             v 1. FC Kaiserslautern       3-0 (1-0)
+            (1-0  D. Selke 42'
+             2-0  D. Selke 65'
+             3-0  F. Baldé 78')
          Hertha BSC               v 1. FC Nürnberg             0-0 (0-0)
 Sat Feb 22
   13:00  Karlsruher SC            v 1. FC Magdeburg            3-1 (1-1)
+            (0-1  B. Atik 30'
+             1-1  N. Rapp 45+3'
+             2-1  C. Kobald 48'
+             3-1  M. Wanitzek 69')
          SSV Ulm 1846             v SV 07 Elversberg           0-0 (0-0)
          Preußen Münster          v Jahn Regensburg            2-0 (1-0)
+            (1-0  H. Fridjonsson 42'
+             2-0  Scherder 69')
   20:30  Hannover 96              v SC Paderborn 07            0-0 (0-0)
+            (1-0  M. Halstenberg 4'
+             1-1  A. Grimaldi 90')
 Sun Feb 23
   13:30  1. FC Köln               v Fortuna Düsseldorf         1-1 (0-0)
+            (1-0  F. Kainz 67'
+             1-1  I. Johannesson 90' (p))
          SV Darmstadt 98          v FC Schalke 04              2-0 (2-0)
+            (1-0  Isaac Lidberg 3'
+             2-0  Isaac Lidberg 5')
          SpVgg Greuther Fürth     v Eintracht Braunschweig     3-0 (1-0)
+            (1-0  Futkeu 10'
+             2-0  J. Green 88'
+             3-0  J. Consbruch 90+8')
 
 ▪ 24. Spieltag
 Fri Feb 28
   18:30  Fortuna Düsseldorf       v SpVgg Greuther Fürth       1-2 (1-1)
+            (1-0  I. Johannesson 8'
+             1-1  B. Hrgota 9'
+             1-2  J. Green 75' (p))
          FC Schalke 04            v Preußen Münster            1-0 (0-0)
+            (1-0  P. Ba 86')
 Sat Mar 1
   13:00  1. FC Nürnberg           v Hannover 96                1-2 (1-1)
+            (1-0  Stefanos Tzimas 36'
+             1-1  E. Leopold 42'
+             1-2  Knight 57')
          1. FC Kaiserslautern     v Jahn Regensburg            3-0 (0-0)
+            (1-0  R. Ache 47'
+             2-0  M. Ritter 51'
+             3-0  R. Ache 70')
          Eintracht Braunschweig   v SSV Ulm 1846               1-1 (0-1)
+            (0-1  L. Röser 11'
+             1-1  S. Polter 85')
   20:30  Karlsruher SC            v 1. FC Köln                 1-0 (0-0)
+            (1-0  T. Hübers 52' (og))
 Sun Mar 2
   13:30  SC Paderborn 07          v Hamburger SV               2-0 (1-0)
+            (1-0  F. Bilbija 15'
+             2-0  A. Grimaldi 84')
          SV 07 Elversberg         v Hertha BSC                 4-0 (4-0)
+            (1-0  M. Damar 11'
+             2-0  R. Fellhauer 29'
+             3-0  Tom Zimmerschied 37'
+             4-0  Sahin 45+4' (p))
          1. FC Magdeburg          v SV Darmstadt 98            4-1 (0-1)
+            (0-1  Fraser Hornby 29'
+             1-1  X. Amaechi 56'
+             2-1  Livan Burcu 73'
+             3-1  A. El-Zein 78'
+             4-1  M. Kaars 81')
 
 ▪ 25. Spieltag
 Fri Mar 7
   18:30  SV Darmstadt 98          v Karlsruher SC              3-0 (1-0)
+            (1-0  Isaac Lidberg 10'
+             2-0  K. Corredor 73'
+             3-0  M. Papela 79')
          1. FC Kaiserslautern     v SV 07 Elversberg           1-1 (1-0)
+            (1-0  R. Ache 41'
+             1-1  M. Damar 75')
 Sat Mar 8
   13:00  SpVgg Greuther Fürth     v 1. FC Magdeburg            1-1 (1-1)
+            (1-0  Futkeu 17'
+             1-1  Baris Atik 20')
          Hertha BSC               v FC Schalke 04              1-2 (0-1)
+            (0-1  T. Kalas 27'
+             1-1  Fabian Reese 51'
+             1-2  K. Karaman 55' (p))
          SSV Ulm 1846             v 1. FC Köln                 0-1 (0-0)
+            (0-1  L. Waldschmidt 86')
   20:30  Hamburger SV             v Fortuna Düsseldorf         4-1 (1-1)
+            (1-0  M. Muheim 7'
+             1-1  D. Kownacki 18'
+             2-1  D. Selke 40'
+             3-1  A. Karabec 66'
+             4-1  O. Stange 90+4')
 Sun Mar 9
   13:30  Hannover 96              v Eintracht Braunschweig     1-1 (0-0)
+            (0-1  L. Tempelmann 77'
+             1-1  Knight 90+3')
          Preußen Münster          v 1. FC Nürnberg             0-1 (0-0)
+            (0-1  L. Schleimer 82')
          Jahn Regensburg          v SC Paderborn 07            0-0 (0-0)
 
 ▪ 26. Spieltag
 Fri Mar 14
   18:30  FC Schalke 04            v Hannover 96                1-2 (1-0)
+            (1-0  Christopher Antwi-Adjei 27'
+             1-1  Jannik Rochelt 87'
+             1-2  Havard Nielsen 88')
          1. FC Magdeburg          v Hamburger SV               0-3 (0-2)
+            (0-1  R. Königsdörffer 9'
+             0-2  M. Mathisen 15' (og)
+             0-3  R. Königsdörffer 53')
 Sat Mar 15
   13:00  Fortuna Düsseldorf       v Jahn Regensburg            1-0 (1-0)
+            (1-0  Matthias Zimmermann 41')
          SC Paderborn 07          v 1. FC Kaiserslautern       5-3 (3-2)
+            (1-0  Aaron Zehnter 2'
+             2-0  R. Obermair 8'
+             3-0  Filip Bilbija 20'
+             3-1  D. Hanslik 45+1' (p)
+             3-2  Ragnar Ache 45+8'
+             3-3  Ragnar Ache 61'
+             4-3  Adriano Grimaldi 73'
+             5-3  Aaron Zehnter 90+5')
          SV 07 Elversberg         v Preußen Münster            0-1 (0-0)
+            (0-1  Simon Scherder 71')
   20:30  1. FC Köln               v SV Darmstadt 98            2-1 (1-1)
+            (1-0  J. Thielmann 1'
+             1-1  Fraser Hornby 25' (p)
+             2-1  L. Waldschmidt 80' (p))
 Sun Mar 16
   13:30  Karlsruher SC            v SSV Ulm 1846               0-0 (0-0)
          1. FC Nürnberg           v SpVgg Greuther Fürth       3-0 (3-0)
+            (1-0  J. Justvan 4'
+             2-0  J. Justvan 39'
+             3-0  Stefanos Tzimas 45+4')
          Eintracht Braunschweig   v Hertha BSC                 1-5 (0-3)
+            (0-1  Fabian Reese 8'
+             0-2  D. Scherhant 42'
+             0-3  Jannis Nikolaou 44'
+             0-4  Fabian Reese 69'
+             1-4  Lino Tempelmann 90+1'
+             1-5  M. Winkler 90+3')
 
 ▪ 27. Spieltag
 Fri Mar 28
@@ -436,6 +758,7 @@ Sat Apr 26
 Sun Apr 27
   13:30  Hamburger SV             v Karlsruher SC              1-2 (1-2)
          Hannover 96              v 1. FC Köln                 1-0 (0-0)
+            (1-0  L. Gindorf 57')
          1. FC Kaiserslautern     v FC Schalke 04              2-1 (1-0)
 
 ▪ 32. Spieltag
@@ -447,6 +770,8 @@ Sat May 3
          Eintracht Braunschweig   v Fortuna Düsseldorf         2-2 (1-0)
          SSV Ulm 1846             v Hannover 96                1-2 (0-1)
   20:30  1. FC Köln               v Jahn Regensburg            1-1 (0-0)
+            (1-0  T. Lemperle 59'
+             1-1  N. Ganaus 75')
 Sun May 4
   13:30  Karlsruher SC            v 1. FC Kaiserslautern       2-2 (1-1)
          Hertha BSC               v SpVgg Greuther Fürth       1-0 (1-0)
@@ -455,16 +780,38 @@ Sun May 4
 ▪ 33. Spieltag
 Fri May 9
   18:30  1. FC Nürnberg           v 1. FC Köln                 1-2 (0-0)
+            (1-0  Janis Antiste 46'
+             1-1  F. Kainz 67'
+             1-2  F. Kainz 90')
          Preußen Münster          v Hertha BSC                 2-0 (1-0)
+            (1-0  J. Hendrix 30'
+             2-0  J. Hendrix 70')
 Sat May 10
   13:00  Fortuna Düsseldorf       v FC Schalke 04              2-0 (0-0)
+            (1-0  D. Kownacki 57'
+             2-0  M. van Brederode 78')
          SC Paderborn 07          v 1. FC Magdeburg            2-1 (1-1)
+            (0-1  M. Kaars 15'
+             1-1  Calvin Brackelmann 41'
+             2-1  Felix Götze 61')
          SV 07 Elversberg         v Eintracht Braunschweig     3-0 (3-0)
+            (1-0  F. Asllani 11'
+             2-0  M. Damar 18'
+             3-0  M. Damar 21')
   20:30  Hamburger SV             v SSV Ulm 1846               6-1 (3-1)
 Sun May 11
   13:30  Hannover 96              v SpVgg Greuther Fürth       1-1 (0-1)
+            (0-1  Noel Futkeu 33'
+             1-1  P. Neumann 87')
          1. FC Kaiserslautern     v SV Darmstadt 98            2-1 (2-1)
+            (0-1  Luca Marseiler 3'
+             1-1  M. Ritter 15' (p)
+             2-1  Ragnar Ache 45+7')
          Jahn Regensburg          v Karlsruher SC              2-2 (1-2)
+            (0-1  Marvin Wanitzek 4'
+             1-1  Rasim Bulic 17'
+             1-2  Dženis Burnic 31'
+             2-2  Eric Hottmann 66')
 
 ▪ 34. Spieltag
 Sun May 18

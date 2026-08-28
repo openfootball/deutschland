@@ -8,338 +8,953 @@
 ▪ 1. Spieltag
 Fri Jul 15 2022
   20:30  1. FC Kaiserslautern     v Hannover 96                2-1 (1-0)
+            (1-0  M. Wunderlich 11'
+             1-1  H. Nielsen 80'
+             2-1  K. Kraus 92')
 Sat Jul 16
   13:00  SpVgg Greuther Fürth     v Holstein Kiel              2-2 (0-1)
+            (0-1  T. Becker 29'
+             1-1  J. Green 48'
+             2-1  T. Tillmann 76'
+             2-2  A. Mühling 80' (p))
          FC St. Pauli             v 1. FC Nürnberg             3-2 (3-0)  @ Millerntor-Stadion, Hamburg
+            (1-0  J. Irvine 24'
+             2-0  L. Paqarada 37' (p)
+             3-0  L. Daschner 39'
+             3-1  K. Duah 46'
+             3-2  E. Valentini 93')
          SV Sandhausen            v DSC Arminia Bielefeld      2-1 (1-0)
+            (1-0  D. Kinsombi 11'
+             1-1  M. Okugawa 59'
+             2-1  D. Kinsombi 63')
          Jahn Regensburg          v SV Darmstadt 98            2-0 (1-0)
+            (1-0  J. Mees 1'
+             2-0  A. Albers 67')
   20:30  1. FC Magdeburg          v Fortuna Düsseldorf         1-2 (0-1)
+            (0-1  R. Hennings 43'
+             0-2  F. Klaus 46'
+             1-2  C. Krempicki 50')
 Sun Jul 17
   13:30  SC Paderborn 07          v Karlsruher SC              5-0 (0-0)
+            (1-0  F. Muslija 56' (p)
+             2-0  R. Leipertz 65'
+             3-0  J. Justvan 68'
+             4-0  F. Platte 73'
+             5-0  S. Conteh 75')
          Hansa Rostock            v 1. FC Heidenheim 1846      0-1 (0-0)  @ Ostseestadion, Rostock
+            (0-1  S. Schimmer 50')
          Eintracht Braunschweig   v Hamburger SV               0-2 (0-0)
+            (0-1  R. Glatzel 67'
+             0-2  R. Glatzel 76')
 
 ▪ 2. Spieltag
 Fri Jul 22
   18:30  SV Darmstadt 98          v SV Sandhausen              2-1 (1-1)
+            (1-0  B. Manu 9'
+             1-1  Aleksandr Zhirov 24'
+             2-1  M. Mehlem 55')
          Fortuna Düsseldorf       v SC Paderborn 07            2-1 (1-1)
+            (1-0  D. Kownacki 2'
+             1-1  Felix Platte 21'
+             2-1  Rouwen Hennings 30')
 Sat Jul 23
   13:00  1. FC Heidenheim 1846    v Eintracht Braunschweig     3-0 (1-0)
+            (1-0  P. Strompf 10' (og)
+             2-0  T. Kleindienst 61'
+             3-0  K. Sessa 90')
          1. FC Nürnberg           v SpVgg Greuther Fürth       2-0 (1-0)
+            (1-0  C. Daferner 15'
+             2-0  M. Wintzheimer 82')
          Holstein Kiel            v 1. FC Kaiserslautern       2-2 (0-1)
+            (0-1  D. Hanslik 32'
+             1-1  F. Reese 51'
+             2-1  F. Reese 57'
+             2-2  T. Boyd 62')
   20:30  Hannover 96              v FC St. Pauli               2-2 (1-1)
+            (0-1  J. Eggestein 4'
+             1-1  S. Kerk 33' (p)
+             2-1  D. Köhn 71'
+             2-2  J. Irvine 90+5')
 Sun Jul 24
   13:30  DSC Arminia Bielefeld    v Jahn Regensburg            0-3 (0-1)
+            (0-1  B. Gimber 45+0'
+             0-2  M. Thalhammer 56'
+             0-3  M. Gouras 90+0')
          Hamburger SV             v Hansa Rostock              0-1 (0-0)
+            (0-1  K. Schumacher 90+0')
          Karlsruher SC            v 1. FC Magdeburg            2-3 (0-3)
+            (0-1  A. Müller 7'
+             0-2  Baris Atik 32'
+             0-3  M. Kwarteng 34'
+             1-3  M. Wanitzek 63'
+             2-3  M. Kaufmann 65')
 
 ▪ 3. Spieltag
 Fri Aug 5
   18:30  SpVgg Greuther Fürth     v Karlsruher SC              1-1 (0-0)
+            (1-0  R. Ache 57'
+             1-1  M. Wanitzek 66' (p))
          SV Sandhausen            v Fortuna Düsseldorf         1-0 (0-0)
+            (1-0  J. Bachmann 46')
 Sat Aug 6
   13:00  Hamburger SV             v 1. FC Heidenheim 1846      1-0 (1-0)
+            (1-0  R. Glatzel 42')
          SC Paderborn 07          v Hannover 96                4-2 (1-2)
+            (0-1  H. Nielsen 12'
+             1-1  L. Krajnc 28' (og)
+             1-2  C. Teuchert 37'
+             2-2  M. Pieringer 52'
+             3-2  R. Schallenberg 60'
+             4-2  F. Platte 89')
          Jahn Regensburg          v 1. FC Nürnberg             0-0 (0-0)
   20:30  Hansa Rostock            v DSC Arminia Bielefeld      2-1 (1-0)  @ Ostseestadion, Rostock
+            (1-0  K. Pröger 25'
+             1-1  J. Serra 48'
+             2-1  D. Roßbach 85')
 Sun Aug 7
   13:30  1. FC Magdeburg          v Holstein Kiel              1-2 (1-1)
+            (0-1  M. Komenda 18'
+             1-1  J. Ceka 43'
+             1-2  B. Pichler 59')
          Eintracht Braunschweig   v SV Darmstadt 98            0-1 (0-0)
+            (0-1  O. Vilhelmsson 86')
          1. FC Kaiserslautern     v FC St. Pauli               2-1 (1-0)
+            (1-0  T. Boyd 9'
+             2-0  K. Redondo 86'
+             2-1  J. Medic 88')
 
 ▪ 4. Spieltag
 Fri Aug 12
   18:30  1. FC Nürnberg           v 1. FC Heidenheim 1846      0-3 (0-1)
+            (0-1  D. Thomalla 44'
+             0-2  A. Beck 49'
+             0-3  J. Beste 80')
          1. FC Kaiserslautern     v SC Paderborn 07            0-1 (0-0)
+            (0-1  F. Platte 82')
 Sat Aug 13
   13:00  DSC Arminia Bielefeld    v Hamburger SV               0-2 (0-1)
+            (0-1  R. Königsdörffer 28'
+             0-2  L. Benes 74')
          Holstein Kiel            v Eintracht Braunschweig     3-0 (1-0)
+            (1-0  S. Skrzybski 12'
+             2-0  S. Skrzybski 73'
+             3-0  B. Pichler 84')
          Karlsruher SC            v SV Sandhausen              3-2 (1-1)
+            (0-1  D. Kinsombi 10'
+             1-1  M. Batmaz 32'
+             1-2  A. Kutucu 61'
+             2-2  S. Rapp 84'
+             3-2  L. Cueto 87')
   20:30  SV Darmstadt 98          v Hansa Rostock              4-0 (2-0)
+            (1-0  P. Tietz 3'
+             2-0  M. Mehlem 18'
+             3-0  P. Tietz 54'
+             4-0  T. Kempe 74' (p))
 Sun Aug 14
   13:30  FC St. Pauli             v 1. FC Magdeburg            3-0 (2-0)
+            (1-0  J. Eggestein 3'
+             2-0  J. Eggestein 14'
+             3-0  M. Hartel 77')
          Fortuna Düsseldorf       v SpVgg Greuther Fürth       2-2 (0-1)
+            (0-1  B. Hrgota 43'
+             1-1  A. Hoffmann 65'
+             2-1  D. Kownacki 72'
+             2-2  B. Hrgota 78')
          Hannover 96              v Jahn Regensburg            1-0 (0-0)
+            (1-0  S. Breitkreuz 83' (og))
 
 ▪ 5. Spieltag
 Fri Aug 19
   18:30  Hamburger SV             v SV Darmstadt 98            1-2 (0-2)
+            (0-1  P. Pfeiffer 4'
+             0-2  P. Tietz 7'
+             1-2  R. Königsdörffer 87')
          1. FC Magdeburg          v Hannover 96                0-4 (0-2)
+            (0-1  M. Beier 14'
+             0-2  L. Krajnc 44'
+             0-3  S. Muroya 56'
+             0-4  C. Teuchert 90+0')
 Sat Aug 20
   13:00  SC Paderborn 07          v Holstein Kiel              7-2 (5-2)
+            (1-0  F. Muslija 7' (p)
+             1-1  J. Korb 10'
+             2-1  J. Justvan 13'
+             3-1  R. Obermair 25'
+             4-1  F. Platte 29'
+             5-1  F. Platte 38'
+             5-2  S. Skrzybski 45'
+             6-2  M. Pieringer 52'
+             7-2  D. Srbeny 80')
          SV Sandhausen            v 1. FC Nürnberg             1-2 (1-0)
+            (1-0  B. Ajdini 33'
+             1-1  C. Daferner 49'
+             1-2  K. Duah 90+0')
          Jahn Regensburg          v Karlsruher SC              0-6 (0-3)
+            (0-1  M. Franke 8'
+             0-2  P. Nebel 14'
+             0-3  J. Gondorf 43'
+             0-4  F. Schleusener 48'
+             0-5  F. Schleusener 66'
+             0-6  T. Breithaupt 78')
   20:30  Eintracht Braunschweig   v Fortuna Düsseldorf         2-2 (0-0)
+            (1-0  R. Krauße 56'
+             1-1  N. Gavory 61'
+             2-1  A. Donkor 70'
+             2-2  M. Sobottka 71')
 Sun Aug 21
   13:30  SpVgg Greuther Fürth     v 1. FC Kaiserslautern       1-3 (1-0)
+            (1-0  T. Raschl 13'
+             1-1  P. Hercher 46'
+             1-2  I. Wunderlich 54'
+             1-3  K. Redondo 79')
          1. FC Heidenheim 1846    v DSC Arminia Bielefeld      1-1 (1-1)
+            (1-0  T. Kleindienst 3'
+             1-1  Hack A. 10')
          Hansa Rostock            v FC St. Pauli               2-0 (2-0)  @ Ostseestadion, Rostock
+            (1-0  K. Pröger 4'
+             2-0  J. Verhoek 17')
 
 ▪ 6. Spieltag
 Fri Aug 26
   18:30  DSC Arminia Bielefeld    v Eintracht Braunschweig     4-1 (3-0)
+            (1-0  B. Lasme 30'
+             2-0  O. Hüsing 36'
+             3-0  R. Hack 39'
+             3-1  I. Pherai 58'
+             4-1  M. Okugawa 69')
          Fortuna Düsseldorf       v Jahn Regensburg            4-0 (0-0)
+            (1-0  D. Ginczek 59'
+             2-0  D. Kownacki 65' (p)
+             3-0  F. Klaus 78'
+             4-0  S. Appelkamp 85')
 Sat Aug 27
   13:00  SV Darmstadt 98          v 1. FC Heidenheim 1846      2-2 (1-0)
+            (1-0  B. Manu 36'
+             1-1  P. Mainka 70'
+             2-1  F. Ronstadt 76'
+             2-2  T. Kleindienst 82')
          FC St. Pauli             v SC Paderborn 07            2-2 (0-1)
+            (0-1  M. Pieringer 44'
+             1-1  E. Amenyido 84'
+             1-2  S. Conteh 90+0'
+             2-2  D. Nemeth 90+0')
          Karlsruher SC            v Hansa Rostock              2-0 (2-0)
+            (1-0  P. Heise 21'
+             2-0  M. Batmaz 40')
   20:30  1. FC Nürnberg           v Hamburger SV               0-2 (0-1)
+            (0-1  M. Vuskovic 37'
+             0-2  R. Glatzel 90+0')
 Sun Aug 28
   13:30  Holstein Kiel            v SV Sandhausen              1-0 (0-0)
+            (1-0  S. Skrzybski 72')
          Hannover 96              v SpVgg Greuther Fürth       2-1 (0-0)
+            (1-0  M. Beier 52'
+             1-1  A. Pululu 81'
+             2-1  H. Nielsen 86')
          1. FC Kaiserslautern     v 1. FC Magdeburg            4-4 (2-3)
+            (1-0  T. Boyd 7'
+             1-1  M. Kwarteng 13'
+             1-2  M. El Hankouri 17'
+             1-3  M. Kwarteng 22'
+             2-3  B. Tomiak 40'
+             3-3  P. Hercher 47'
+             4-3  M. Wunderlich 66' (p)
+             4-4  B. Tomiak 80' (og))
 
 ▪ 7. Spieltag
 Fri Sep 2
   18:30  1. FC Heidenheim 1846    v Fortuna Düsseldorf         2-1 (1-0)
+            (1-0  M. Zimmermann 23' (og)
+             1-1  D. Kownacki 59'
+             2-1  T. Kleindienst 87')
          Eintracht Braunschweig   v 1. FC Nürnberg             4-2 (2-2)
+            (0-1  J. Castrop 10'
+             1-1  F. Kaufmann 13'
+             1-2  K. Duah 29'
+             2-2  A. Ujah 44'
+             3-2  I. Pherai 59'
+             4-2  F. Kaufmann 61')
 Sat Sep 3
   13:00  SpVgg Greuther Fürth     v FC St. Pauli               2-2 (0-1)
+            (0-1  M. Hartel 19'
+             1-1  B. Hrgota 48'
+             2-1  J. Irvine 52' (og)
+             2-2  C. Metcalfe 85')
          SC Paderborn 07          v 1. FC Magdeburg            1-0 (0-0)
+            (1-0  M. Pieringer 79')
          Jahn Regensburg          v Holstein Kiel              0-0 (0-0)
   20:30  Hamburger SV             v Karlsruher SC              1-0 (1-0)
+            (1-0  L. Reis 43')
 Sun Sep 4
   13:30  SV Darmstadt 98          v DSC Arminia Bielefeld      1-1 (1-0)
+            (1-0  B. Manu 8'
+             1-1  R. Hack 94')
          Hansa Rostock            v Hannover 96                0-1 (0-1)  @ Ostseestadion, Rostock
+            (0-1  M. Beier 41' (p))
          SV Sandhausen            v 1. FC Kaiserslautern       0-0 (0-0)
 
 ▪ 8. Spieltag
 Fri Sep 9
   18:30  1. FC Nürnberg           v DSC Arminia Bielefeld      1-0 (0-0)
+            (1-0  L. Tempelmann 90')
          Holstein Kiel            v Hamburger SV               2-3 (0-1)
+            (0-1  R. Glatzel 39'
+             0-2  M. Heyer 69'
+             0-3  L. Reis 85'
+             1-3  M. Heyer 90+0' (og)
+             2-3  F. Bartels 90+0')
 Sat Sep 10
   13:00  SC Paderborn 07          v Jahn Regensburg            3-0 (1-0)
+            (1-0  M. Hoffmeier 21'
+             2-0  R. Leipertz 69'
+             3-0  M. Pieringer 86')
          Hannover 96              v Eintracht Braunschweig     1-1 (0-0)
+            (0-1  A. Ujah 69'
+             1-1  H. Nielsen 77')
          Karlsruher SC            v 1. FC Heidenheim 1846      0-0 (0-0)
   20:30  Fortuna Düsseldorf       v Hansa Rostock              3-1 (2-0)
+            (1-0  D. Kownacki 10'
+             2-0  M. Sobottka 27'
+             2-1  L. Fröde 61'
+             3-1  E. Iyoha 77')
 Sun Sep 11
   13:30  FC St. Pauli             v SV Sandhausen              1-1 (1-0)
+            (1-0  J. Irvine 38'
+             1-1  D. Kinsombi 71')
          1. FC Magdeburg          v SpVgg Greuther Fürth       2-1 (1-1)
+            (1-0  C. Piccini 38'
+             1-1  D. Michalski 42'
+             2-1  M. Kwarteng 86')
          1. FC Kaiserslautern     v SV Darmstadt 98            3-3 (0-1)
+            (0-1  T. Kempe 45+0'
+             0-2  P. Tietz 49'
+             1-2  M. Wunderlich 74'
+             2-2  M. Wunderlich 77'
+             3-2  K. Redondo 87'
+             3-3  A. Seydel 90+0')
 
 ▪ 9. Spieltag
 Fri Sep 16
   18:30  SV Sandhausen            v Hannover 96                2-3 (0-1)
+            (0-1  C. Teuchert 14'
+             1-1  D. Kinsombi 56' (p)
+             1-2  H. Nielsen 65'
+             1-3  S. Muroya 71'
+             2-3  B. Ajdini 73')
          Eintracht Braunschweig   v Karlsruher SC              2-1 (1-0)
+            (1-0  A. Ujah 44'
+             1-1  M. Wanitzek 54'
+             2-1  I. Pherai 72')
 Sat Sep 17
   13:00  DSC Arminia Bielefeld    v Holstein Kiel              4-2 (2-0)
+            (1-0  R. Hack 4'
+             2-0  J. Serra 36'
+             3-0  M. Okugawa 48'
+             3-1  A. Mühling 59'
+             3-2  F. Bartels 68'
+             4-2  B. Lasme 85')
          SV Darmstadt 98          v 1. FC Nürnberg             2-0 (2-0)
+            (1-0  T. Kempe 8'
+             2-0  P. Tietz 27')
          Hansa Rostock            v 1. FC Magdeburg            3-1 (2-0)  @ Ostseestadion, Rostock
+            (1-0  K. Pröger 30'
+             2-0  K. Pröger 41'
+             3-0  L. Fröde 65'
+             3-1  B. Atik 90+0')
   20:30  Hamburger SV             v Fortuna Düsseldorf         2-0 (1-0)
+            (1-0  R. Glatzel 21'
+             2-0  B. Jatta 90+0')
 Sun Sep 18
   13:30  SpVgg Greuther Fürth     v SC Paderborn 07            2-1 (1-0)
+            (1-0  D. Michalski 42'
+             1-1  D. Srbeny 49'
+             2-1  B. Hrgota 73')
          1. FC Heidenheim 1846    v 1. FC Kaiserslautern       2-2 (2-1)
+            (1-0  J. Beste 17'
+             1-1  T. Boyd 20'
+             2-1  M. Busch 44'
+             2-2  T. Boyd 60')
          Jahn Regensburg          v FC St. Pauli               2-0 (2-0)
+            (1-0  A. Albers 8' (p)
+             2-0  A. Albers 41')
 
 ▪ 10. Spieltag
 Fri Sep 30
   18:30  SC Paderborn 07          v SV Darmstadt 98            1-2 (1-2)
+            (1-0  R. Leipertz 4'
+             1-1  B. Manu 10'
+             1-2  J. Müller 24')
          Hannover 96              v Hamburger SV               1-2 (1-1)
+            (1-0  S. Muroya 4'
+             1-1  J. Börner 15' (og)
+             1-2  R. Königsdörffer 90+2')
 Sat Oct 1
   13:00  SpVgg Greuther Fürth     v SV Sandhausen              1-1 (0-1)
+            (0-1  A. Esswein 12'
+             1-1  J. Green 48')
          Holstein Kiel            v Hansa Rostock              1-1 (1-0)
+            (1-0  F. Reese 28' (p)
+             1-1  L. Hinterseer 88')
          Fortuna Düsseldorf       v DSC Arminia Bielefeld      4-1 (1-1)
+            (1-0  S. Appelkamp 21'
+             1-1  R. Hack 34' (p)
+             2-1  A. Tanaka 47'
+             3-1  S. Appelkamp 66'
+             4-1  T. Oberdorf 76')
   20:30  FC St. Pauli             v 1. FC Heidenheim 1846      0-0 (0-0)
 Sun Oct 2
   13:30  Karlsruher SC            v 1. FC Nürnberg             3-0 (1-0)
+            (1-0  F. Schleusener 45'
+             2-0  P. Heise 78'
+             3-0  M. Wanitzek 82')
          1. FC Magdeburg          v Jahn Regensburg            1-0 (0-0)
+            (1-0  L. Schuler 68')
          1. FC Kaiserslautern     v Eintracht Braunschweig     1-1 (0-0)
+            (0-1  L. Lauberbach 52'
+             1-1  B. Tomiak 55')
 
 ▪ 11. Spieltag
 Fri Oct 7
   18:30  DSC Arminia Bielefeld    v Karlsruher SC              1-2 (0-1)
+            (0-1  F. Schleusener 43'
+             1-1  J. Serra 52'
+             1-2  M. Wanitzek 54')
          Jahn Regensburg          v SpVgg Greuther Fürth       2-2 (1-1)
+            (0-1  D. Michalski 34'
+             1-1  K. Caliskaner 42'
+             2-1  K. Caliskaner 62'
+             2-2  S. Asta 74')
 Sat Oct 8
   13:00  SV Darmstadt 98          v Fortuna Düsseldorf         1-0 (0-0)
+            (1-0  P. Pfeiffer 73')
          Hansa Rostock            v SC Paderborn 07            0-3 (0-1)  @ Ostseestadion, Rostock
+            (0-1  R. Schallenberg 19'
+             0-2  R. Leipertz 80'
+             0-3  M. Pieringer 88')
          Eintracht Braunschweig   v FC St. Pauli               2-1 (0-0)
+            (0-1  M. Saliakas 68'
+             1-1  I. Pherai 77'
+             2-1  I. Pherai 90+4')
   20:30  Hamburger SV             v 1. FC Kaiserslautern       1-1 (1-0)
+            (1-0  R. Glatzel 24'
+             1-1  L. Lobinger 82')
 Sun Oct 9
   13:30  1. FC Heidenheim 1846    v Hannover 96                2-1 (1-0)
+            (1-0  D. Thomalla 32'
+             2-0  T. Kleindienst 61'
+             2-1  C. Teuchert 90+0')
          1. FC Nürnberg           v Holstein Kiel              2-3 (1-0)
+            (1-0  L. Tempelmann 39'
+             1-1  S. Skrzybski 62'
+             1-2  F. Reese 65'
+             1-3  S. Skrzybski 79'
+             2-3  C. Daferner 90+0')
          SV Sandhausen            v 1. FC Magdeburg            1-0 (0-0)
+            (1-0  C. Kinsombi 74')
 
 ▪ 12. Spieltag
 Fri Oct 14
   18:30  SpVgg Greuther Fürth     v Hansa Rostock              2-2 (1-0)
+            (1-0  B. Hrgota 20'
+             1-1  L. Fröde 57'
+             2-1  R. Ache 60'
+             2-2  R. Malone 90+0')
          FC St. Pauli             v Hamburger SV               3-0 (0-0)
+            (1-0  E. Smith 61'
+             2-0  M. Hartel 74'
+             3-0  D. Otto 89')
 Sat Oct 15
   13:00  Fortuna Düsseldorf       v 1. FC Nürnberg             0-1 (0-0)
+            (0-1  K. Duha 47')
          Karlsruher SC            v SV Darmstadt 98            1-2 (0-0)
+            (1-0  F. Schleusener 19'
+             1-1  P. Pfeiffer 49'
+             1-2  P. Tietz 88')
          1. FC Magdeburg          v Eintracht Braunschweig     0-2 (0-0)
+            (0-1  A. Condé 51' (og)
+             0-2  B. Henning 90+0')
   20:30  Hannover 96              v DSC Arminia Bielefeld      2-0 (1-0)
+            (1-0  C. Teuchert 4'
+             2-0  H. Nielsen 86')
 Sun Oct 16
   13:30  SC Paderborn 07          v SV Sandhausen              3-0 (1-0)
+            (1-0  M. Pieringer 10'
+             2-0  R. Leipertz 47'
+             3-0  J. Heuer 54')
          Holstein Kiel            v 1. FC Heidenheim 1846      3-1 (1-1)
+            (0-1  D. Thomalla 31'
+             1-1  S. Skrzybski 45'
+             2-1  S. Skrzybski 51'
+             3-1  K. Okyere Wriedt 66')
          1. FC Kaiserslautern     v Jahn Regensburg            0-3 (0-1)
+            (0-1  Nielsen 8'
+             0-2  Nielsen 57'
+             0-3  Owusu 85')
 
 ▪ 13. Spieltag
 Fri Oct 21
   18:30  SV Darmstadt 98          v Holstein Kiel              1-1 (0-1)
+            (0-1  S. Skrzybski 37'
+             1-1  M. Bader 72')
          Hansa Rostock            v 1. FC Kaiserslautern       0-2 (0-0)  @ Ostseestadion, Rostock
+            (0-1  T. Boyd 67'
+             0-2  T. Boyd 82')
 Sat Oct 22
   13:00  1. FC Nürnberg           v Hannover 96                0-0 (0-0)
          Jahn Regensburg          v SV Sandhausen              2-1 (1-1)
+            (1-0  A. Zhirov 1' (og)
+             1-1  A. Esswein 12'
+             2-1  A. Albers 70')
          Eintracht Braunschweig   v SC Paderborn 07            0-0 (0-0)
   20:30  DSC Arminia Bielefeld    v FC St. Pauli               2-0 (0-0)
+            (1-0  J. Serra 76'
+             2-0  J. Serra 84')
 Sun Oct 23
   13:30  Hamburger SV             v 1. FC Magdeburg            2-3 (0-1)
+            (0-1  M. El Hankouri 11'
+             0-2  B. Atik 51'
+             1-2  R. Königsdörffer 58'
+             1-3  J. Rieckmann 88'
+             2-3  T. Sanne 90+0')
          1. FC Heidenheim 1846    v SpVgg Greuther Fürth       3-1 (2-0)
+            (1-0  P. Mainka 9'
+             2-0  T. Kleindienst 33'
+             2-1  B. Hrgota 52'
+             3-1  J. Beste 56')
          Karlsruher SC            v Fortuna Düsseldorf         0-2 (0-2)
+            (0-1  K. Peterson 8'
+             0-2  K. Peterson 22')
 
 ▪ 14. Spieltag
 Fri Oct 28
   18:30  SpVgg Greuther Fürth     v DSC Arminia Bielefeld      1-0 (1-0)
+            (1-0  A. Sieb 30')
          1. FC Magdeburg          v 1. FC Heidenheim 1846      1-1 (0-1)
+            (0-1  Thomalla 23'
+             1-1  Tatsuya Ito 90+0')
 Sat Oct 29
   13:00  Holstein Kiel            v Fortuna Düsseldorf         1-2 (0-1)
+            (0-1  S. Appelkamp 42'
+             1-1  S. Skrzybski 70'
+             1-2  D. Kownacki 82' (p))
          Jahn Regensburg          v Hansa Rostock              0-3 (0-2)
+            (0-1  K. Pröger 7'
+             0-2  K. Pröger 26'
+             0-3  J. Elvedi 64' (og))
          1. FC Kaiserslautern     v 1. FC Nürnberg             0-0 (0-0)
   20:30  FC St. Pauli             v SV Darmstadt 98            1-1 (0-0)
+            (0-1  F. Ronstadt 60'
+             1-1  L. Daschner 69')
 Sun Oct 30
   13:30  SC Paderborn 07          v Hamburger SV               2-3 (1-2)
+            (1-0  R. Leipertz 3'
+             1-1  R. Glatzel 23'
+             1-2  J. Dompé 45+0'
+             2-2  R. Leipertz 51'
+             2-3  L. Bénes 69')
          Hannover 96              v Karlsruher SC              1-0 (0-0)
+            (1-0  H. Weydandt 56')
          SV Sandhausen            v Eintracht Braunschweig     2-2 (0-0)
+            (0-1  A. Ujah 52'
+             1-1  J. Bachmann 65'
+             1-2  A. Donkor 74'
+             2-2  D. Kinsombi 80')
 
 ▪ 15. Spieltag
 Fri Nov 4
   18:30  SV Darmstadt 98          v Hannover 96                1-0 (0-0)
+            (1-0  M. Mehlem 62')
          Hansa Rostock            v SV Sandhausen              0-1 (0-1)  @ Ostseestadion, Rostock
+            (0-1  C. Kinsombi 45')
 Sat Nov 5
   13:00  1. FC Heidenheim 1846    v SC Paderborn 07            3-0 (1-0)
+            (1-0  J. Beste 35'
+             2-0  D. Thomalla 76'
+             3-0  J. Beste 90' (og))
          Fortuna Düsseldorf       v FC St. Pauli               1-0 (1-0)
+            (1-0  R. Hennings 22')
          Karlsruher SC            v Holstein Kiel              1-4 (0-2)
+            (0-1  T. Breithaupt 15'
+             0-2  K. Okyere Wriedt 30'
+             0-3  F. Reese 67'
+             1-3  S. Rapp 72'
+             1-4  K. Okyere Wriedt 90' (og))
   20:30  DSC Arminia Bielefeld    v 1. FC Kaiserslautern       2-3 (0-0)
+            (0-1  Philipp Klement 54'
+             0-2  Aaron Opoku 57'
+             1-2  R. Hack 60'
+             2-2  R. Hack 73' (p)
+             2-3  D. Hanslik 88')
 Sun Nov 6
   13:30  Hamburger SV             v Jahn Regensburg            3-1 (1-1)
+            (0-1  K. Caliskaner 7'
+             1-1  M. Vuškovic 12'
+             2-1  R. Königsdörffer 79'
+             3-1  R. Glatzel 90')
          1. FC Nürnberg           v 1. FC Magdeburg            1-2 (0-0)
+            (0-1  C. Piccini 58'
+             1-1  D. Reimann 65'
+             1-2  C. Piccini 76')
          Eintracht Braunschweig   v SpVgg Greuther Fürth       0-1 (0-1)
+            (0-1  A. Sieb 41')
 
 ▪ 16. Spieltag
 Tue Nov 8
   18:30  FC St. Pauli             v Holstein Kiel              0-0 (0-0)
          SC Paderborn 07          v DSC Arminia Bielefeld      0-2 (0-2)
+            (0-1  J. Serra 40'
+             0-2  S. Vasiliadis 45+0')
          Hannover 96              v Fortuna Düsseldorf         2-0 (2-0)
+            (1-0  H. Nielsen 34'
+             2-0  C. Teuchert 43')
          1. FC Kaiserslautern     v Karlsruher SC              2-0 (1-0)
+            (1-0  T. Boyd 34'
+             2-0  K. Redondo 82')
 Wed Nov 9
   18:30  SpVgg Greuther Fürth     v Hamburger SV               1-0 (1-0)
+            (1-0  A. Sieb 8')
          Hansa Rostock            v 1. FC Nürnberg             1-1 (0-1)  @ Ostseestadion, Rostock
+            (0-1  F. Nürnberger 5'
+             1-1  N. Fröling 90+0')
          SV Sandhausen            v 1. FC Heidenheim 1846      3-4 (0-2)
+            (0-1  T. Siersleben 31'
+             0-2  T. Kleindienst 40'
+             0-3  C. Kühlwetter 48'
+             1-3  M. Papela 50'
+             1-4  K. Sessa 73'
+             2-4  C. Kinsombi 76'
+             3-4  A. Esswein 80')
          Jahn Regensburg          v Eintracht Braunschweig     1-1 (1-1)
+            (1-0  C. Makridis 11'
+             1-1  L. Lauberbach 15')
 Thu Nov 10
   20:30  1. FC Magdeburg          v SV Darmstadt 98            0-1 (0-0)
+            (0-1  P. Pfeiffer 78')
 
 ▪ 17. Spieltag
 Fri Nov 11
   18:30  Holstein Kiel            v Hannover 96                1-1 (1-1)
+            (1-0  F. Bartels 9'
+             1-1  C. Teuchert 16')
          Fortuna Düsseldorf       v 1. FC Kaiserslautern       1-2 (1-0)
+            (1-0  M. Karbownik 14'
+             1-1  K. Kraus 50'
+             1-2  P. Klement 90+6' (p))
 Sat Nov 12
   13:00  Hamburger SV             v SV Sandhausen              4-2 (1-0)
+            (1-0  R. Glatzel 27'
+             1-1  C. Soukou 49'
+             2-1  L. Reis 56'
+             2-2  C. Kinsombi 68'
+             3-2  A. Zhirov 74' (og)
+             4-2  R. Glatzel 80')
          1. FC Heidenheim 1846    v Jahn Regensburg            5-4 (3-2)
+            (0-1  P. Owusu 14'
+             1-1  T. Kleindienst 21'
+             2-1  A. Beck 36'
+             3-1  T. Kleindienst 39'
+             3-2  C. Makridis 45'
+             3-3  N. Shipnoski 55'
+             4-3  D. Thomalla 76'
+             4-4  A. Yildirim 90+0'
+             5-4  S. Schimmer 90+0')
          Karlsruher SC            v FC St. Pauli               4-4 (3-3)
+            (1-0  F. Schleusener 12'
+             2-0  M. Wanitzek 16'
+             2-1  J. Eggestein 28'
+             3-1  F. Schleusener 31'
+             3-2  J. Eggestein 35'
+             3-3  E. Smith 43'
+             4-3  M. Kaufmann 50'
+             4-4  L. Daschner 61')
   20:30  Eintracht Braunschweig   v Hansa Rostock              0-1 (0-0)
+            (0-1  S. Ingelsson 60')
 Sun Nov 13
   13:30  DSC Arminia Bielefeld    v 1. FC Magdeburg            3-1 (1-0)
+            (1-0  J. Consbruch 30'
+             2-0  C. Gebauer 65'
+             3-0  R. Hack 72'
+             3-1  T. Ito 73')
          SV Darmstadt 98          v SpVgg Greuther Fürth       1-1 (1-1)
+            (1-0  E. Karic 2'
+             1-1  D. Michalski 42')
          1. FC Nürnberg           v SC Paderborn 07            2-1 (1-0)
+            (1-0  K. Duah 36'
+             2-0  K. Duah 55'
+             2-1  N.N.)
 
 ▪ 18. Spieltag
 Fri Jan 27 2023
   18:30  Fortuna Düsseldorf       v 1. FC Magdeburg            3-2 (2-1)
+            (0-1  Kwarteng 6'
+             1-1  Kownacki 9'
+             2-1  Kownacki 34'
+             2-2  Kwarteng 59'
+             3-2  S. Appelkamp 84')
          Karlsruher SC            v SC Paderborn 07            0-1 (0-0)
+            (0-1  Leipertz 90+0')
 Sat Jan 28
   13:00  SV Darmstadt 98          v Jahn Regensburg            2-0 (2-0)
+            (1-0  B. Manu 18'
+             2-0  F. Holland 29')
          1. FC Heidenheim 1846    v Hansa Rostock              2-0 (0-0)
+            (1-0  T. Kleindienst 80'
+             2-0  F. Pick 88')
          Holstein Kiel            v SpVgg Greuther Fürth       2-1 (0-1)
+            (0-1  D. Abiama 30'
+             1-1  H. Wahl 46'
+             2-1  S. Lorenz 84')
   20:30  Hannover 96              v 1. FC Kaiserslautern       1-3 (1-0)
+            (1-0  D. Köhn 17'
+             1-1  J. Niehues 49'
+             1-2  T. Breithaupt 66'
+             1-3  P. Hercher 90+0')
 Sun Jan 29
   13:30  DSC Arminia Bielefeld    v SV Sandhausen              1-2 (1-2)
+            (0-1  C. Kinsombi 13'
+             0-2  A. Esswein 33'
+             1-2  A. Andrade 45+0')
          Hamburger SV             v Eintracht Braunschweig     4-2 (2-1)
+            (1-0  R. Glatzel 3'
+             2-0  M. Heyer 17'
+             2-1  F. Kaufmann 30'
+             3-1  R. Glatzel 49'
+             3-2  D. Wiebe 81'
+             4-2  L. Reis 90+0')
          1. FC Nürnberg           v FC St. Pauli               0-1 (0-1)
+            (0-1  J. Medic 33')
 
 ▪ 19. Spieltag
 Fri Feb 3
   18:30  SC Paderborn 07          v Fortuna Düsseldorf         4-1 (1-0)
+            (1-0  M. Pieringer 37'
+             1-1  Hennings 59' (p)
+             2-1  J. Heuer 62'
+             3-1  Muslija 68' (p)
+             4-1  Leipertz 81')
          SV Sandhausen            v SV Darmstadt 98            0-4 (0-2)
+            (0-1  Honsak 7'
+             0-2  Honsak 25'
+             0-3  O. Vilhelmsson 55'
+             0-4  E. Karic 89')
 Sat Feb 4
   13:00  Jahn Regensburg          v DSC Arminia Bielefeld      1-3 (1-1)
+            (1-0  J. Elvedi 2'
+             1-1  S. Vasiliadis 14'
+             1-2  F. Klos 85'
+             1-3  F. Klos 90+0')
          Eintracht Braunschweig   v 1. FC Heidenheim 1846      2-0 (0-0)
+            (1-0  M. Wintzheimer 72'
+             2-0  L. Lauberbach 90')
          1. FC Kaiserslautern     v Holstein Kiel              2-1 (1-1)
+            (1-0  D. Hanslik 6'
+             1-1  F. Porath 30'
+             2-1  T. Boyd 71')
   20:30  SpVgg Greuther Fürth     v 1. FC Nürnberg             1-0 (0-0)
+            (1-0  R. Ache 90+0')
 Sun Feb 5
   13:30  FC St. Pauli             v Hannover 96                2-0 (2-0)
+            (1-0  L. Daschner 17'
+             2-0  C. Metcalfe 30')
          Hansa Rostock            v Hamburger SV               0-2 (0-1)  @ Ostseestadion, Rostock
+            (0-1  L. Reis 40'
+             0-2  A. Németh 90')
          1. FC Magdeburg          v Karlsruher SC              1-1 (0-1)
+            (0-1  S. Jung 3'
+             1-1  D. Elfadli 90+0')
 
 ▪ 20. Spieltag
 Fri Feb 10
   18:30  DSC Arminia Bielefeld    v Hansa Rostock              0-1 (0-1)
+            (0-1  L. Fröde 51')
          Karlsruher SC            v SpVgg Greuther Fürth       2-1 (1-1)
+            (0-1  T. Breithaupt 21' (og)
+             1-1  M. Wanitzek 36' (p)
+             2-1  M. Kaufmann 73')
 Sat Feb 11
   13:00  1. FC Nürnberg           v Jahn Regensburg            1-0 (0-0)
+            (1-0  E. Valentini 56')
          Holstein Kiel            v 1. FC Magdeburg            2-3 (1-1)
+            (1-0  P. Erras 34'
+             1-1  D. Elfadli 45'
+             2-1  J. Arp 54'
+             2-2  H. Bockhorn 70'
+             2-3  M. Kwarteng 86')
          Hannover 96              v SC Paderborn 07            3-4 (2-2)
+            (1-0  C. Teuchert 2'
+             2-0  C. Teuchert 4'
+             2-1  R. Leipertz 6'
+             2-2  F. Muslija 26' (p)
+             2-3  R. Leipertz 55'
+             2-4  S. Conteh 71'
+             3-4  M. Beier 83')
   20:30  1. FC Heidenheim 1846    v Hamburger SV               3-3 (3-0)  @ Voith-Arena, Heidenheim,  Att: 15000
+            (1-0  J. Beste 27'
+             2-0  J. Schöppner 30'
+             3-0  T. Kleindienst 41'
+             3-1  A. Németh 72'
+             3-2  R. Glatzel 79'
+             3-3  B. Jatta 88')
 Sun Feb 12
   13:30  SV Darmstadt 98          v Eintracht Braunschweig     2-1 (0-0)
+            (0-1  M. Wintzheimer 52' (p)
+             1-1  M. Honsak 82'
+             2-1  P. Tietz 90+0')
          FC St. Pauli             v 1. FC Kaiserslautern       1-0 (0-0)  @ Millerntor-Stadion, Hamburg,  Att: 29456
+            (1-0  C. Metcalfe 72')
          Fortuna Düsseldorf       v SV Sandhausen              2-0 (0-0)
+            (1-0  T. Oberdorf 85'
+             2-0  R. Hennings 86')
 
 ▪ 21. Spieltag
 Fri Feb 17
   18:30  SC Paderborn 07          v 1. FC Kaiserslautern       1-0 (0-0)  @ Home Deluxe Arena, Paderborn,  Att: 14701
+            (1-0  J. Heuer 78')
          Eintracht Braunschweig   v Holstein Kiel              2-3 (0-2)  @ Eintracht-Stadion, Braunschweig,  Att: 18747
+            (0-1  F. Reese 14'
+             0-2  H. Fridjonsson 22'
+             0-3  T. Becker 48'
+             1-3  M. Multhaup 57'
+             2-3  D. Wiebe 69')
 Sat Feb 18
   13:00  SpVgg Greuther Fürth     v Fortuna Düsseldorf         2-1 (1-0)  @ Sportpark Ronhof, Fürth
+            (1-0  R. Ache 28'
+             2-0  R. Ache 57'
+             2-1  K. Peterson 67')
          Jahn Regensburg          v Hannover 96                1-1 (1-0)  @ Jahnstadion, Regensburg
+            (1-0  S. Singh 16'
+             1-1  C. Teuchert 88')
          1. FC Magdeburg          v FC St. Pauli               1-2 (0-0)  @ MDCC-Arena, Magdeburg
+            (1-0  B. Atik 39'
+             1-1  J. Irvine 74'
+             1-2  J. Medic 88')
   20:30  Hansa Rostock            v SV Darmstadt 98            0-1 (0-0)  @ Ostseestadion, Rostock,  Att: 25200
+            (0-1  P. Tietz 78')
 Sun Feb 19
   13:30  Hamburger SV             v DSC Arminia Bielefeld      2-1 (1-0)
+            (1-0  L. Reis 26'
+             1-1  B. Oczipka 51'
+             2-1  B. Jatta 57')
          1. FC Heidenheim 1846    v 1. FC Nürnberg             5-0 (2-0)
+            (1-0  T. Kleindienst 18'
+             2-0  T. Kleindienst 23'
+             3-0  T. Kleindienst 38'
+             4-0  T. Kleindienst 81'
+             5-0  M. Busch 86')
          SV Sandhausen            v Karlsruher SC              0-3 (0-0)
+            (0-1  J. Gondorf 8'
+             0-2  M. Kaufmann 52'
+             0-3  F. Schleusener 73')
 
 ▪ 22. Spieltag
 Fri Feb 24
   18:30  Fortuna Düsseldorf       v Eintracht Braunschweig     3-1 (2-0)
+            (1-0  D. Kownacki 1'
+             2-0  C. Klarer 25'
+             2-1  F. Kastenmeier 62' (og)
+             3-1  J. Niemiec 85')
          Karlsruher SC            v Jahn Regensburg            1-0 (1-0)
+            (1-0  M. Kaufmann 24')
 Sat Feb 25
   13:00  1. FC Nürnberg           v SV Sandhausen              1-0 (0-0)
+            (1-0  K. Duah 86' (p))
          Holstein Kiel            v SC Paderborn 07            1-1 (0-1)
+            (0-1  M. Rohr 31'
+             1-1  F. Reese 66' (p))
          1. FC Kaiserslautern     v SpVgg Greuther Fürth       3-1 (1-0)
+            (1-0  T. Boyd 23'
+             1-1  B. Hrgota 62'
+             2-1  P. Hercher 66'
+             3-1  K. Kraus 69')
   20:30  SV Darmstadt 98          v Hamburger SV               1-1 (0-1)
+            (0-1  R. Königsdörffer 4'
+             1-1  Nikola Stojiljkovic 81')
 Sun Feb 26
   13:30  DSC Arminia Bielefeld    v 1. FC Heidenheim 1846      0-1 (0-0)
+            (0-1  S. Schimmer 70')
          FC St. Pauli             v Hansa Rostock              1-0 (1-0)  @ Millerntor-Stadion, Hamburg,  Att: 29205
+            (1-0  J. Irvine 26')
          Hannover 96              v 1. FC Magdeburg            1-2 (0-0)
+            (0-1  B. Atik 48'
+             0-2  L. Castaignos 61'
+             1-2  L. Schaub 69')
 
 ▪ 23. Spieltag
 Fri Mar 3
   18:30  SC Paderborn 07          v FC St. Pauli               1-2 (0-2)
+            (0-1  L. Daschner 15'
+             0-2  L. Daschner 42'
+             1-2  K. Mets 51' (og))
          1. FC Magdeburg          v 1. FC Kaiserslautern       2-0 (1-0)
+            (1-0  M. Kwarteng 41'
+             2-0  T. Ito 65')
 Sat Mar 4
   13:00  Hamburger SV             v 1. FC Nürnberg             3-0 (1-0)
+            (1-0  J. Dompé 19'
+             2-0  L. Reis 52'
+             3-0  R. Königsdörffer 90+0')
          SV Sandhausen            v Holstein Kiel              1-1 (0-0)
+            (0-1  H. Wahl 47'
+             1-1  F. Evina 90+0')
          Jahn Regensburg          v Fortuna Düsseldorf         0-1 (0-0)
+            (0-1  D. Kownacki 86')
   20:30  1. FC Heidenheim 1846    v SV Darmstadt 98            1-0 (0-0)
+            (1-0  J. Beste 88')
 Sun Mar 5
   13:30  SpVgg Greuther Fürth     v Hannover 96                1-1 (0-0)
+            (0-1  H. Weydandt 54'
+             1-1  B. Hrgota 57' (p))
          Hansa Rostock            v Karlsruher SC              0-2 (0-2)  @ Ostseestadion, Rostock
+            (0-1  M. Wanitzek 16' (p)
+             0-2  P. Nebel 25')
          Eintracht Braunschweig   v DSC Arminia Bielefeld      3-3 (2-3)
+            (0-1  J. Consbruch 6'
+             0-2  B. Lasme 11'
+             0-3  G. Ramos 20'
+             1-3  I. Pherai 22'
+             2-3  I. Pherai 34'
+             3-3  A. Ujah 72')
 
 ▪ 24. Spieltag
 Fri Mar 10
   18:30  1. FC Nürnberg           v Eintracht Braunschweig     2-0 (0-0)  @ Grundig Stadion, Nürnberg
+            (1-0  F. Hübner 69'
+             2-0  J. Gyamerah 81')
          1. FC Kaiserslautern     v SV Sandhausen              2-2 (1-1)  @ Fritz-Walter-Stadion, Kaiserslautern
+            (0-1  A. Kutucu 8'
+             1-1  B. Tomiak 35'
+             2-1  K. Kraus 76'
+             2-2  F. Evina 80')
 Sat Mar 11
   13:00  DSC Arminia Bielefeld    v SV Darmstadt 98            3-1 (0-0)  @ SchücoArena, Bielefeld
+            (0-1  M. Honsak 54'
+             1-1  M. Prietl 72'
+             2-1  B. Kanuric 90+0'
+             3-1  F. Klos 90+0')
          FC St. Pauli             v SpVgg Greuther Fürth       2-1 (1-1)  @ Millerntor-Stadion, Hamburg
+            (0-0  R. Ache 6'
+             0-1  R. Ache 6'
+             1-1  M. Saliakas 13'
+             2-1  O. Afolayan 55')
          1. FC Magdeburg          v SC Paderborn 07            0-0 (0-0)  @ MDCC-Arena, Magdeburg
   20:30  Fortuna Düsseldorf       v 1. FC Heidenheim 1846      1-1 (1-1)  @ ESPRIT Arena, Düsseldorf
+            (0-1  T. Kleindienst 20'
+             1-1  Iyoha 27')
 Sun Mar 12
   13:30  Holstein Kiel            v Jahn Regensburg            1-2 (1-1)  @ Holstein-Stadion, Kiel
+            (0-1  K. Caliskaner 45'
+             1-1  S. Skrzybski 45+0'
+             1-2  P. Owusu 87')
          Hannover 96              v Hansa Rostock              1-1 (0-1)  @ HDI Arena, Hannover
+            (0-1  D. Dressel 44'
+             1-1  M. Besuschkow 61')
          Karlsruher SC            v Hamburger SV               4-2 (3-0)  @ Wildparkstadion, Karlsruhe
+            (1-0  P. Nebel 11'
+             2-0  L. Jensen 17'
+             3-0  F. Schleusener 32'
+             3-1  R. Glatzel 50'
+             3-2  R. Glatzel 80'
+             4-2  F. Schleusener 89')
 
 ▪ 25. Spieltag
 Fri Mar 17
@@ -347,133 +962,409 @@ Fri Mar 17
          1. FC Heidenheim 1846    v Karlsruher SC              5-2 (2-2)  @ Voith-Arena, Heidenheim
 Sat Mar 18
   13:00  SpVgg Greuther Fürth     v 1. FC Magdeburg            3-0 (0-0)  @ Trolli Arena, Fürth
+            (1-0  J. Green 64'
+             2-0  D. Heber 69' (og)
+             3-0  L. Petkov 75')
          Hamburger SV             v Holstein Kiel              0-0 (0-0)  @ Volksparkstadion, Hamburg
          Jahn Regensburg          v SC Paderborn 07            1-0 (0-0)  @ Jahnstadion, Regensburg
+            (1-0  P. Owusu 49' (p))
   20:30  SV Darmstadt 98          v 1. FC Kaiserslautern       2-0 (2-0)  @ Merck-Stadion am Böllenfalltor, Darmstadt
+            (1-0  F. Stojilkovic 36'
+             2-0  F. Stojilkovic 43')
 Sun Mar 19
   13:30  Hansa Rostock            v Fortuna Düsseldorf         2-5 (0-3)  @ Ostseestadion, Rostock
+            (0-1  D. Kownacki 12'
+             0-2  R. Hennings 20'
+             0-3  M. Zimmermann 41'
+             0-4  M. Zimmermann 48'
+             1-4  K. Pröger 56'
+             2-4  K. Schumacher 79'
+             2-5  C. Klarer 82')
          SV Sandhausen            v FC St. Pauli               0-5 (0-4)  @ Hardtwaldstadion, Sandhausen
+            (0-1  M. Saliakas 19'
+             0-2  L. Daschner 24'
+             0-3  O. Afolayan 25'
+             0-4  J. Irvine 45+0'
+             0-5  J. Irvine 88')
          Eintracht Braunschweig   v Hannover 96                1-0 (0-0)  @ Eintracht-Stadion, Braunschweig
+            (1-0  J. Nikolaou 90+0')
 
 ▪ 26. Spieltag
 Fri Mar 31
   18:30  1. FC Nürnberg           v SV Darmstadt 98            0-1 (0-1)  @ Max-Morlock-Stadion, Nürnberg
+            (0-1  C. Schindler 31' (og))
          Fortuna Düsseldorf       v Hamburger SV               2-2 (2-1)  @ Merkur Spielarena, Düsseldorf
+            (0-1  L. Benes 5'
+             1-1  D. Kownacki 21'
+             2-1  F. Klaus 28'
+             2-2  C. Klarer 45+30')
 Sat Apr 1
   13:00  FC St. Pauli             v Jahn Regensburg            1-0 (1-0)  @ Millerntor-Stadion, Hamburg
+            (1-0  P. Owusu 23' (og))
          Hannover 96              v SV Sandhausen              3-1 (1-1)
+            (0-1  C. Kinsombi 14'
+             1-1  M. Beier 45+0'
+             2-1  D. Köhn 61'
+             3-1  L. Schaub 88')
   13:30  Karlsruher SC            v Eintracht Braunschweig     1-1 (0-1)  @ Wildparkstadion, Karlsruhe
+            (0-1  L. Lauberbach 4'
+             1-1  L. Jensen 69')
   18:30  1. FC Kaiserslautern     v 1. FC Heidenheim 1846      2-2 (0-0)  @ Fritz-Walter-Stadion, Kaiserslautern
+            (0-1  T. Kleindienst 53'
+             0-2  F. Pick 75'
+             1-2  N. de Preville 90+0'
+             2-2  P. Hercher 90+0')
 Sun Apr 2
   13:30  SC Paderborn 07          v SpVgg Greuther Fürth       3-2 (1-0)  @ Home Deluxe Arena, Paderborn
+            (1-0  R. Schallenberg 13'
+             2-0  F. Musiala 61'
+             3-0  S. Conteh 76'
+             3-1  D. Abiama 82'
+             3-2  B. Hrgota 87')
          Holstein Kiel            v DSC Arminia Bielefeld      2-3 (1-2)  @ Holstein-Stadion, Kiel
+            (0-1  F. Jäkel 11'
+             0-2  R. Hack 29'
+             1-2  S. Skrzybski 32'
+             1-3  M. Okugawa 55'
+             2-3  H. Fridjonsson 67')
          1. FC Magdeburg          v Hansa Rostock              3-0 (1-0)  @ MDCC-Arena, Magdeburg
+            (1-0  A. Condé 29'
+             2-0  J. Ceka 60'
+             3-0  J. Ceka 70')
 
 ▪ 27. Spieltag
 Sat Apr 8
   13:00  Hamburger SV             v Hannover 96                6-1 (2-0)
+            (1-0  S. Kittel 34'
+             2-0  L. Benes 41'
+             2-1  D. Köhn 52'
+             3-1  L. Benes 61' (p)
+             4-1  R. Glatzel 65'
+             5-1  R. Königsdörffer 76'
+             6-1  L. Reis 87')
          1. FC Nürnberg           v Karlsruher SC              1-1 (0-1)
+            (0-1  M. Kaufmann 26'
+             1-1  K. Duah 90+0')
          Eintracht Braunschweig   v 1. FC Kaiserslautern       1-0 (0-0)
+            (1-0  A. Ujah 76')
   20:30  1. FC Heidenheim 1846    v FC St. Pauli               0-1 (0-1)
+            (0-1  M. Hartel 41')
 Sun Apr 9
   13:30  DSC Arminia Bielefeld    v Fortuna Düsseldorf         2-2 (1-0)
+            (1-0  F. Klos 20'
+             1-1  E. Iyoha 48'
+             1-2  F. Klaus 60'
+             2-2  B. Lasme 84')
          SV Darmstadt 98          v SC Paderborn 07            2-1 (1-1)
+            (1-0  M. Bader 35'
+             1-1  F. Muslija 44' (p)
+             2-1  B. Manu 59')
          Hansa Rostock            v Holstein Kiel              2-3 (1-2)  @ Ostseestadion, Rostock
+            (1-0  R. van Drongelen 12'
+             1-1  F. Reese 44'
+             1-2  P. Sander 45' (og)
+             1-3  L. Holtby 47'
+             2-3  L. Hinterseer 53')
          SV Sandhausen            v SpVgg Greuther Fürth       0-2 (0-0)
+            (0-1  B. Hrgota 9'
+             0-2  R. Ache 27')
          Jahn Regensburg          v 1. FC Magdeburg            2-2 (0-1)
+            (0-1  B. Atik 10'
+             1-1  S. Gnaka 52' (og)
+             1-2  D. Elfadli 80'
+             2-2  K. Caliskaner 90')
 
 ▪ 28. Spieltag
 Fri Apr 14
   18:30  SpVgg Greuther Fürth     v Jahn Regensburg            2-1 (0-0)
+            (0-1  Owusu 48'
+             1-1  Green 66' (p)
+             2-1  Abiama 77')
          Hannover 96              v 1. FC Heidenheim 1846      0-3 (0-3)
+            (0-1  J. Beste 30'
+             0-2  T. Kleindienst 35'
+             0-3  D. Thomalla 45+4')
 Sat Apr 15
   13:00  SC Paderborn 07          v Hansa Rostock              3-0 (0-0)
+            (1-0  M. Rohr 48'
+             2-0  F. Muslija 78'
+             3-0  F. Platte 87')
          Holstein Kiel            v 1. FC Nürnberg             2-1 (2-0)
+            (1-0  S. Skrzybski 19'
+             2-0  F. Reese 39'
+             2-1  F. Lohkemper 65')
          1. FC Magdeburg          v SV Sandhausen              1-2 (0-1)
+            (0-1  D. Dumic 25'
+             0-2  D. Dumic 66'
+             1-2  C. Piccini 89')
   20:30  1. FC Kaiserslautern     v Hamburger SV               2-0 (0-0)
+            (1-0  T. Boyd 71'
+             2-0  A. Opoku 85')
 Sun Apr 16
   13:30  FC St. Pauli             v Eintracht Braunschweig     1-2 (0-2)
+            (0-1  M. Multhaup 1'
+             0-2  M. Wintzheimer 25'
+             1-2  J. Medic 85')
          Fortuna Düsseldorf       v SV Darmstadt 98            1-0 (0-0)
+            (1-0  E. Iyoha 51')
          Karlsruher SC            v DSC Arminia Bielefeld      4-2 (0-1)
+            (0-1  R. Hack 9'
+             1-1  S. Rapp 63'
+             2-1  M. Wanitzek 70'
+             3-1  M. Kaufmann 75'
+             3-2  B. Lasme 80'
+             4-2  M. Wanitzek 83')
 
 ▪ 29. Spieltag
 Fri Apr 21
   18:30  Hamburger SV             v FC St. Pauli               4-3 (1-1)
+            (0-1  M. Saliakas 36'
+             1-1  J. David 44'
+             2-1  B. Jatta 48'
+             3-1  M. Heyer 52'
+             3-2  E. Saad 71'
+             4-2  J. Medic 78' (og)
+             4-3  J. Irvine 79')
          SV Darmstadt 98          v Karlsruher SC              2-1 (1-1)
+            (0-1  F. Schleusener 11'
+             1-1  B. Manu 26'
+             2-1  P. Tietz 51')
 Sat Apr 22
   13:00  DSC Arminia Bielefeld    v Hannover 96                1-3 (1-2)
+            (0-1  C. Teuchert 14'
+             1-1  F. Klos 22'
+             1-2  C. Teuchert 42' (p)
+             1-3  L. Schaub 55')
          1. FC Nürnberg           v Fortuna Düsseldorf         2-0 (1-0)
+            (1-0  N. Brown 10'
+             2-0  K. Duah 90+0')
          Hansa Rostock            v SpVgg Greuther Fürth       2-0 (0-0)  @ Ostseestadion, Rostock
+            (1-0  N. Fröling 50'
+             2-0  D. Dressel 66')
   20:30  Eintracht Braunschweig   v 1. FC Magdeburg            1-2 (0-1)
+            (0-1  M. Kwarteng 22'
+             0-2  T. Ito 62'
+             1-2  A. Ujah 69')
 Sun Apr 23
   13:30  1. FC Heidenheim 1846    v Holstein Kiel              3-0 (1-0)
+            (1-0  P. Mainka
+             2-0  T. Kleindienst 68'
+             3-0  J. Beste 75' (p))
          SV Sandhausen            v SC Paderborn 07            2-2 (1-2)
+            (0-1  F. Muslija 19'
+             0-2  M. Rohr 27'
+             1-2  K. Ademi 31'
+             2-2  F. Evina 48')
          Jahn Regensburg          v 1. FC Kaiserslautern       0-0 (0-0)
 
 ▪ 30. Spieltag
 Fri Apr 28
   18:30  SpVgg Greuther Fürth     v 1. FC Heidenheim 1846      0-2 (0-1)
+            (0-1  T. Kleindienst 7'
+             0-2  J. Beste 51')
          SC Paderborn 07          v Eintracht Braunschweig     5-1 (2-0)
+            (1-0  J. Justvan 28'
+             2-0  R. Obermair 45+0'
+             3-0  S. Conteh 51'
+             3-1  A. Ujah 53'
+             4-1  D. Srbeny 90'
+             5-1  D. Srbeny 90+0')
 Sat Apr 29
   13:00  FC St. Pauli             v DSC Arminia Bielefeld      2-1 (0-0)
+            (1-0  M. Hartel 53'
+             2-0  L. Daschner 70'
+             2-1  J. Consbruch 73')
          1. FC Magdeburg          v Hamburger SV               3-2 (1-1)
+            (1-0  M. Kwarteng 32'
+             1-1  S. Kittel 42'
+             2-1  B. Atik 74'
+             3-1  T. Ito 86'
+             3-2  L. Reis 90+0')
          1. FC Kaiserslautern     v Hansa Rostock              0-1 (0-1)
+            (0-1  K. Pröger 42')
   20:30  Hannover 96              v 1. FC Nürnberg             3-0 (1-0)
+            (1-0  J. Börner 43'
+             2-0  D. Köhn 49'
+             3-0  M. Beier 70')
 Sun Apr 30
   13:30  Holstein Kiel            v SV Darmstadt 98            0-3 (0-2)
+            (0-1  J. Müller 6'
+             0-2  S. Lorenz 22' (og)
+             0-3  P. Tietz 52')
          Fortuna Düsseldorf       v Karlsruher SC              3-2 (1-1)
+            (0-1  M. Kaufmann 28'
+             1-1  K. Peterson 33'
+             1-2  P. Heise 66'
+             2-2  M. Zimmermann 72'
+             3-2  J. de Wijs 90+0')
          SV Sandhausen            v Jahn Regensburg            2-1 (1-0)
+            (1-0  M. Papela 16'
+             2-0  D. Dumic 52'
+             2-1  P. Owusu 64')
 
 ▪ 31. Spieltag
 Fri May 5
   18:30  DSC Arminia Bielefeld    v SpVgg Greuther Fürth       1-1 (1-1)
+            (1-0  B. Lasme 17'
+             1-1  B. Hrgota 26')
          Hamburger SV             v SC Paderborn 07            2-2 (1-1)
+            (1-0  R. Glatzel 39'
+             1-1  J. Justvan 43'
+             2-1  S. Kittel 49'
+             2-2  F. Musiala 73')
 Sat May 6
   13:00  Fortuna Düsseldorf       v Holstein Kiel              3-0 (3-0)
+            (1-0  S. Appelkamp 15'
+             2-0  A. Hoffmann 19'
+             3-0  D. Ginczek 24' (p))
          Karlsruher SC            v Hannover 96                2-1 (2-1)
+            (1-0  J. Börner 4' (og)
+             2-0  F. Schleusener 12'
+             2-1  L. Schaub 43')
          Hansa Rostock            v Jahn Regensburg            2-0 (1-0)  @ Ostseestadion, Rostock
+            (1-0  K. Pröger 34'
+             2-0  J. Verhoek 79')
   20:30  SV Darmstadt 98          v FC St. Pauli               0-3 (0-1)
+            (0-1  A. Dzwigala 45'
+             0-2  E. Saad 57'
+             0-3  D. Otto 84')
 Sun May 7
   13:30  1. FC Heidenheim 1846    v 1. FC Magdeburg            0-0 (0-0)
          1. FC Nürnberg           v 1. FC Kaiserslautern       3-3 (2-1)
+            (1-0  Mats Møller Dæhli 4'
+             2-0  J. Castrop 35'
+             2-1  Terrence Boyd 40'
+             3-1  Kwadwo Duah 50'
+             3-2  J. Niehues 88'
+             3-3  Philipp Klement 90')
          Eintracht Braunschweig   v SV Sandhausen              2-1 (0-0)
+            (1-0  S. Decarli 82'
+             1-1  A. Zhirov 88'
+             2-1  A. Donkor 89')
 
 ▪ 32. Spieltag
 Fri May 12
   18:30  SV Sandhausen            v Hansa Rostock              1-2 (0-2)
+            (0-1  N. Fröling 17'
+             0-2  K. Pröger 37'
+             1-2  J. Bachmann 54')
          1. FC Magdeburg          v 1. FC Nürnberg             2-2 (1-0)
+            (1-0  J. Horn 34' (og)
+             1-1  F. Lohkemper 54'
+             2-1  J. Ceka 68'
+             2-2  F. Lohkemper 81')
 Sat May 13
   13:00  SpVgg Greuther Fürth     v Eintracht Braunschweig     2-2 (1-1)
+            (0-1  A. Ujah 10'
+             1-1  J. Green 23'
+             1-2  I. Pherai 47'
+             2-2  J. Green 54')
          Holstein Kiel            v Karlsruher SC              2-1 (1-0)
+            (1-0  S. Skrzybski 17'
+             2-0  F. Porath 69'
+             2-1  L. Jensen 74')
          1. FC Kaiserslautern     v DSC Arminia Bielefeld      1-2 (0-1)
+            (0-1  J. Consbruch 15'
+             1-1  L. Lobinger 88'
+             1-2  J. Serra 90')
   20:30  FC St. Pauli             v Fortuna Düsseldorf         0-0 (0-0)
 Sun May 14
   13:30  SC Paderborn 07          v 1. FC Heidenheim 1846      3-2 (1-2)
+            (1-0  Kai Klefisch 26'
+             1-1  T. Kleindienst 30'
+             1-2  Denis Thomalla 37'
+             2-2  M. Pieringer 50'
+             3-2  Florent Muslija 52')
          Hannover 96              v SV Darmstadt 98            2-1 (2-1)
+            (1-0  Havard Nielsen 10'
+             2-0  Cedric Teuchert 31'
+             2-1  Phillip Tietz 43')
          Jahn Regensburg          v Hamburger SV               1-5 (0-4)
+            (0-1  R. Glatzel 4'
+             0-2  Sonny Kittel 17'
+             0-3  Miro Muheim 29'
+             0-4  Sonny Kittel 45'
+             1-4  Kaan Caliskaner 55'
+             1-5  Filip Bilbija 81')
 
 ▪ 33. Spieltag
 Fri May 19
   18:30  SV Darmstadt 98          v 1. FC Magdeburg            1-0 (1-0)
+            (1-0  P. Tietz 38')
          Holstein Kiel            v FC St. Pauli               3-4 (1-1)
+            (1-0  S. Skrzybski 28'
+             1-1  O. Afolayan 39'
+             1-2  H. Wahl 53' (og)
+             1-3  L. Daschner 61'
+             1-4  L. Paqarada 74'
+             2-4  M. Komenda 78'
+             3-4  F. Reese 90+0')
 Sat May 20
   13:00  DSC Arminia Bielefeld    v SC Paderborn 07            2-2 (0-0)
+            (1-0  B. Lasme 8'
+             1-1  M. Pieringer 24'
+             2-1  S. Vasiliadis 36'
+             2-2  S. Conteh 58')
          1. FC Heidenheim 1846    v SV Sandhausen              1-0 (0-0)
+            (1-0  J. Beste 68')
          Eintracht Braunschweig   v Jahn Regensburg            1-2 (0-0)
+            (1-0  I. Pherai 2'
+             1-1  C. Makridis 21'
+             1-2  P. Owusu 49')
   20:30  Hamburger SV             v SpVgg Greuther Fürth       2-1 (1-0)
+            (1-0  M. Muheim 27'
+             2-0  L. Benes 69'
+             2-1  L. Petkov 84')
 Sun May 21
   13:30  1. FC Nürnberg           v Hansa Rostock              0-0 (0-0)
          Fortuna Düsseldorf       v Hannover 96                3-3 (1-2)
+            (0-1  C. Teuchert 12'
+             0-2  L. Schaub 21'
+             1-2  F. Klaus 30'
+             2-2  F. Klaus 52'
+             3-2  D. Ginczek 77'
+             3-3  M. Beier 89')
          Karlsruher SC            v 1. FC Kaiserslautern       2-0 (0-0)
+            (1-0  B. Zivzivadze 70'
+             2-0  P. Nebel 90+0')
 
 ▪ 34. Spieltag
 Sun May 28
   15:30  SpVgg Greuther Fürth     v SV Darmstadt 98            4-0 (0-0)
+            (1-0  T. Raschl 50'
+             2-0  S. Asta 58'
+             3-0  A. Sieb 71'
+             4-0  J. Green 78')
          FC St. Pauli             v Karlsruher SC              1-1 (0-1)
+            (0-1  F. Schleusener 45+0'
+             1-1  L. Paqarada 58')
          SC Paderborn 07          v 1. FC Nürnberg             0-1 (0-1)
+            (0-1  L. Schleimer 20')
          Hannover 96              v Holstein Kiel              1-5 (0-3)
+            (0-1  F. Reese 21'
+             0-2  T. Becker 23'
+             0-3  B. Pichler 45'
+             0-4  F. Bartels 59'
+             0-5  F. Bartels 62'
+             1-5  P. Neumann 72')
          Hansa Rostock            v Eintracht Braunschweig     2-1 (0-0)  @ Ostseestadion, Rostock
+            (1-0  L. Fröde 58'
+             1-1  I. Pherai 69'
+             2-1  P. Breier 90+0')
          SV Sandhausen            v Hamburger SV               0-1 (0-1)
+            (0-1  J. Dompé 3')
          Jahn Regensburg          v 1. FC Heidenheim 1846      2-3 (0-0)
+            (1-0  P. Owusu 51'
+             2-0  P. Owusu 57'
+             2-1  S. Schimmer 58'
+             2-2  J. Beste 90+0' (p)
+             2-3  T. Kleindienst 90+0')
          1. FC Magdeburg          v DSC Arminia Bielefeld      4-0 (2-0)
+            (1-0  A. Condé 38'
+             2-0  B. Atik 45'
+             3-0  A. Condé 51'
+             4-0  J. Ceka 67')
          1. FC Kaiserslautern     v Fortuna Düsseldorf         0-3 (0-1)
+            (0-1  D. Kownacki 17'
+             0-2  D. Kownacki 76'
+             0-3  D. Ginczek 89')

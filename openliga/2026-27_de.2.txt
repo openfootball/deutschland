@@ -8,30 +8,85 @@
 ▪ 1. Spieltag
 Fri Aug 7 2026
   20:30  VfL Bochum               v Hertha BSC                 0-1 (0-1)
+            (0-1  Sebastian Grönning 39')
 Sat Aug 8
   13:00  1. FC Heidenheim 1846    v VfL Osnabrück              4-3 (3-2)
+            (1-0  B. Zivzivadze 10'
+             1-1  N. Wiemann 23'
+             2-1  M. Costly 29'
+             2-2  D. Kopacz 34'
+             3-2  J. Schöppner 45+2'
+             4-2  M. Pieringer 89'
+             4-3  R. Meißner 90+2' (p))
          SV Darmstadt 98          v Holstein Kiel              2-2 (0-2)
+            (0-1  G. Balzi 8'
+             0-2  Phil Harres 42'
+             1-2  Ho-jae Lee 76'
+             2-2  A. Vukotic 86')
          Karlsruher SC            v DSC Arminia Bielefeld      2-1 (1-0)
+            (1-0  M. Broschinski 35'
+             2-0  M. Broschinski 78'
+             2-1  M. Mehlem 80')
          1. FC Magdeburg          v Eintracht Braunschweig     1-6 (0-4)
+            (0-1  A. Opoku 15'
+             0-2  J. Urbich 21'
+             0-3  J. Urbich 26'
+             0-4  Mehmet Can Aydin 44' (p)
+             1-4  M. Zukowski 49'
+             1-5  Samuele Di Benedetto 50'
+             1-6  F. Flick 61')
   20:30  VfL Wolfsburg            v 1. FC Kaiserslautern       0-0 (0-0)
 Sun Aug 9
   13:30  FC St. Pauli             v SpVgg Greuther Fürth       1-1 (0-0)
+            (1-0  M. Mathisen 46'
+             1-1  F. Klaus 52')
          1. FC Nürnberg           v Dynamo Dresden             3-0 (2-0)
+            (1-0  Mohamed Alì Zoma 9'
+             2-0  Mohamed Alì Zoma 45+3'
+             3-0  Mohamed Alì Zoma 75' (p))
          Energie Cottbus          v Hannover 96                3-1 (1-1)
+            (1-0  Tolcay Cigerci 14'
+             1-1  M. Neubauer 28'
+             2-1  Tolcay Cigerci 71' (p)
+             3-1  J. Butler 76')
 
 ▪ 2. Spieltag
 Fri Aug 14
   18:30  Holstein Kiel            v FC St. Pauli               2-2 (0-2)
+            (0-1  M. Kaars 32'
+             0-2  T. Hara 45+3'
+             1-2  P. Harres 56'
+             2-2  J. Therkelsen 88')
          Eintracht Braunschweig   v VfL Bochum                 0-1 (0-1)
+            (0-1  P. Hoffmann 18')
 Sat Aug 15
   13:00  Hertha BSC               v 1. FC Heidenheim 1846      4-1 (3-0)
+            (1-0  S. Grønning 2'
+             2-0  M. Winkler 26'
+             3-0  D. Zeefuik 35'
+             3-1  J. Schöppner 49'
+             4-1  O. Adewumi 90')
          SpVgg Greuther Fürth     v 1. FC Nürnberg             2-4 (2-2)
+            (1-0  F. Klaus 22' (p)
+             1-1  P. Scobel 26'
+             2-1  F. Klaus 41'
+             2-2  J. Justvan 45+3'
+             2-3  J. Justvan 54'
+             2-4  P. Scobel 74')
          VfL Osnabrück            v 1. FC Magdeburg            0-3 (0-2)
+            (0-1  A. Nollenberg 24'
+             0-2  A. Nollenberg 35'
+             0-3  E. Iyoha 69')
   20:30  1. FC Kaiserslautern     v Karlsruher SC              0-0 (0-0)
 Sun Aug 16
   13:30  Hannover 96              v VfL Wolfsburg              0-1 (0-0)
+            (0-1  F. Reese 87' (p))
          Dynamo Dresden           v SV Darmstadt 98            1-0 (1-0)
+            (1-0  J. Sterner 12')
          DSC Arminia Bielefeld    v Energie Cottbus            3-0 (2-0)
+            (1-0  Joel Grodowski 26'
+             2-0  Joel Grodowski 37'
+             3-0  Joel Grodowski 76')
 
 ▪ 3. Spieltag
 Fri Aug 28

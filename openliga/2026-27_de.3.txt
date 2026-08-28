@@ -8,32 +8,106 @@
 ▪ 1. Spieltag
 Fri Aug 7 2026
   19:00  SV Waldhof Mannheim      v Fortuna Düsseldorf         2-1 (1-0)
+            (1-0  Sébastien Thill 18'
+             2-0  Tobias Ulbricht 48'
+             2-1  Schleusener 56')
 Sat Aug 8
   14:00  FC Ingolstadt 04         v Würzburger Kickers         2-2 (2-2)
+            (1-0  Lokotsch 16'
+             1-1  Tarsis Bonga 21'
+             2-1  D. Sekulovic 43'
+             2-2  Liam Omore 45+3')
          MSV Duisburg             v SV Meppen                  3-0 (1-0)
+            (1-0  L. Lobinger 8'
+             2-0  Schlicke 64'
+             3-0  Conor Noss 84')
          SV Wehen Wiesbaden       v Preußen Münster            1-3 (1-1)
+            (0-1  Montell Ndikom 27'
+             1-1  M. Flotho 37' (p)
+             1-2  Montell Ndikom 77' (p)
+             1-3  M. Schulz 90+0')
          Viktoria Köln            v Jahn Regensburg            2-5 (0-2)
+            (0-1  Hermes 28'
+             0-2  Hermes 38'
+             1-2  N. Castelle 53'
+             1-3  Adrian Fein 58'
+             1-4  D. Philipp 66'
+             1-5  Adrian Fein 74' (p)
+             2-5  Noah Maboulou 82')
          TSV Havelse              v VfB Stuttgart II           2-3 (1-1)
+            (1-0  Tauer 1'
+             1-1  Alexander Groiß 42'
+             2-1  Jesse Tugbenyo 49'
+             2-2  Tim van der Leij 70'
+             2-3  J. Malanga 78')
   16:30  SG Sonnenhof Großaspach  v Fortuna Köln               1-0 (1-0)
+            (1-0  Loris Maier 33')
 Sun Aug 9
   13:30  TSG 1899 Hoffenheim II   v Hansa Rostock              2-3 (0-0)
+            (0-1  A. Voglsammer 13'
+             1-1  Yasin Zor 22'
+             1-2  A. Voglsammer 33'
+             2-2  Dedic 44'
+             2-3  Bernie Lennemann 51')
   16:30  1. FC Saarbrücken        v Rot-Weiss Essen            5-2 (2-2)
+            (0-1  Ben Hüning 10'
+             0-2  S. Telalovic 30'
+             1-2  Mladen Cvjetinovic 33'
+             2-2  C. Kühlwetter 45'
+             3-2  K. Brünker 74'
+             4-2  S. Voet 89'
+             5-2  K. Owusu 90+6')
   19:30  Alemannia Aachen         v SC Verl                    4-1 (0-1)
+            (0-1  F. Vogler 22'
+             1-1  F. Ademi 52'
+             2-1  M. Schroers 60'
+             3-1  L. Scepanik 82'
+             4-1  D. Starodid 88')
 
 ▪ 2. Spieltag
 Fri Aug 14
   19:00  Würzburger Kickers       v SV Wehen Wiesbaden         4-0 (2-0)
+            (1-0  Ivan Franjic 17'
+             2-0  T. Kraus 38'
+             3-0  Xaver Kiefersauer 77'
+             4-0  Ivan Franjic 84')
 Sat Aug 15
   14:00  Fortuna Düsseldorf       v TSG 1899 Hoffenheim II     0-2 (0-1)
+            (0-1  T. Poller 3'
+             0-2  J. Dedic 52')
          Preußen Münster          v FC Ingolstadt 04           1-1 (1-1)
+            (1-0  R. Johansson 23'
+             1-1  E. Gül 28')
          Rot-Weiss Essen          v TSV Havelse                1-0 (0-0)
+            (1-0  S. Telalovic 65' (p))
          Fortuna Köln             v Alemannia Aachen           1-1 (0-1)
+            (0-1  M. Loune 12' (p)
+             1-1  R. Aigbekaen 61')
          SV Meppen                v SG Sonnenhof Großaspach    2-0 (1-0)
+            (1-0  Stefan Rankic 7'
+             2-0  L. Prasse 59')
   16:30  SC Verl                  v MSV Duisburg               2-4 (1-0)
+            (1-0  Tim Heike 8'
+             2-0  A. Leipold 46'
+             2-1  F. Krüger 61'
+             2-2  F. Krüger 62'
+             2-3  L. Lobinger 69' (p)
+             2-4  Patrick Sussek 72')
 Sun Aug 16
   13:30  Hansa Rostock            v SV Waldhof Mannheim        3-3 (1-2)
+            (0-1  Julian Ulbricht 7'
+             0-2  J. Rieckmann 29'
+             1-2  Andreas Voglsammer 45+1'
+             1-3  L. Bierschenk 50'
+             2-3  Bernie Lennemann 55'
+             3-3  F. Carstens 76')
   16:30  Jahn Regensburg          v 1. FC Saarbrücken          0-1 (0-0)
+            (0-1  K. Brünker 90+5')
   19:30  VfB Stuttgart II         v Viktoria Köln              1-3 (0-1)
+            (0-1  Maximilian Herwerth 45+1' (og)
+             1-1  Oliver Rölke 50'
+             1-2  Alexander Prokopenko 53'
+             1-3  D. Otto 61')
 
 ▪ 3. Spieltag
 Fri Aug 28

@@ -8,6 +8,7 @@
 ▪ 1. Spieltag
 Fri Aug 2 2024
   19:00  TSV 1860 München         v 1. FC Saarbrücken          0-1 (0-0)
+            (0-1  Patrick Schmidt 71')
 Sat Aug 3
   14:00  Rot-Weiss Essen          v Alemannia Aachen           1-2 (1-1)
          SV Sandhausen            v VfL Osnabrück              1-0 (0-0)
@@ -23,6 +24,12 @@ Sun Aug 4
 ▪ 2. Spieltag
 Fri Aug 9
   19:00  Dynamo Dresden           v Energie Cottbus            4-2 (2-2)
+            (0-1  Phil Halbauer 7'
+             0-2  Tolcay Cigerci 11'
+             1-2  Stefan Kutschke 27' (p)
+             2-2  Toni Menzel 31'
+             3-2  R. Meißner 78'
+             4-2  Philip Heise 91')
 Sat Aug 10
   14:00  SpVgg Unterhaching       v FC Ingolstadt 04           2-1 (1-1)
          SV Wehen Wiesbaden       v Hansa Rostock              1-0 (1-0)
@@ -70,6 +77,8 @@ Fri Sep 13
   19:00  SV Sandhausen            v Borussia Dortmund II       3-1 (1-0)
 Sat Sep 14
   14:00  Hansa Rostock            v SV Waldhof Mannheim        1-1 (0-0)  @ Ostseestadion, Rostock,  Att: 22500
+            (0-1  Terrence Boyd 64'
+             1-1  Damian Roßbach 86')
          VfB Stuttgart II         v FC Ingolstadt 04           3-2 (3-1)
          Rot-Weiss Essen          v SV Wehen Wiesbaden         0-3 (0-1)
          TSV 1860 München         v Dynamo Dresden             2-3 (1-1)
@@ -89,7 +98,10 @@ Sat Sep 21
          Energie Cottbus          v VfB Stuttgart II           4-0 (2-0)
          SV Wehen Wiesbaden       v SV Sandhausen              1-3 (1-0)
          Dynamo Dresden           v Hansa Rostock              1-1 (1-0)
+            (1-0  C. Daferner 9'
+             1-1  Naderi 74')
   16:30  DSC Arminia Bielefeld    v TSV 1860 München           0-1 (0-0)
+            (0-1  Jacobsen 88')
 Sun Sep 22
   13:30  Hannover II              v 1. FC Saarbrücken          1-3 (0-2)
   16:30  Viktoria Köln            v SC Verl                    2-1 (0-1)
@@ -151,6 +163,12 @@ Sat Oct 19
   16:30  VfB Stuttgart II         v 1. FC Saarbrücken          2-3 (2-1)
 Sun Oct 20
   13:30  Dynamo Dresden           v Rot-Weiss Essen            3-3 (0-1)
+            (0-1  M. Wintzheimer 37'
+             1-1  Hauptmann 47'
+             1-2  J. Eitschberger 48'
+             2-2  J. Sterner 78'
+             2-3  K. Meisel 80'
+             3-3  Stefan Kutschke 96')
   16:30  DSC Arminia Bielefeld    v VfL Osnabrück              3-1 (0-0)
   19:30  SpVgg Unterhaching       v TSV 1860 München           2-2 (0-1)
 
@@ -287,6 +305,7 @@ Sun Dec 22
   13:30  SV Waldhof Mannheim      v DSC Arminia Bielefeld      1-1 (0-0)
   16:30  SC Verl                  v VfL Osnabrück              1-1 (1-0)
   19:30  Hansa Rostock            v Hannover II                1-0 (0-0)  @ Ostseestadion, Rostock,  Att: 29000
+            (1-0  C. Kinsombi 90')
 
 ▪ 20. Spieltag
 Fri Jan 17 2025
@@ -294,6 +313,9 @@ Fri Jan 17 2025
 Sat Jan 18
   14:00  1. FC Saarbrücken        v TSV 1860 München           4-0 (0-0)
          VfB Stuttgart II         v Hansa Rostock              0-3 (0-0)
+            (0-1  Sigurd Haugen 27'
+             0-2  Sigurd Haugen 60'
+             0-3  C. Kinsombi 88')
          VfL Osnabrück            v SV Sandhausen              3-2 (0-0)
          SpVgg Unterhaching       v Borussia Dortmund II       1-2 (0-0)
          DSC Arminia Bielefeld    v Energie Cottbus            0-2 (0-0)
@@ -309,6 +331,11 @@ Fri Jan 24
 Sat Jan 25
   14:00  Erzgebirge Aue           v VfL Osnabrück              0-0 (0-0)
          Hansa Rostock            v SV Wehen Wiesbaden         1-4 (0-0)  @ Ostseestadion, Rostock,  Att: 22653
+            (0-1  N.N. 52'
+             0-2  N.N. 61'
+             0-3  N.N. 73'
+             1-3  C. Kinsombi 79'
+             1-4  Agrafiotis 89')
          TSV 1860 München         v VfB Stuttgart II           1-1 (0-0)
          Energie Cottbus          v Dynamo Dresden             1-1 (0-0)
          SC Verl                  v Alemannia Aachen           2-1 (0-0)
@@ -326,6 +353,8 @@ Sat Feb 1
          FC Ingolstadt 04         v 1. FC Saarbrücken          1-0 (1-0)
          SV Wehen Wiesbaden       v VfB Stuttgart II           2-0 (2-0)
          Borussia Dortmund II     v Hansa Rostock              0-2 (0-0)
+            (0-1  C. Kinsombi 66'
+             0-2  N. Fröling 89')
          Dynamo Dresden           v Erzgebirge Aue             2-1 (1-1)
   16:30  Viktoria Köln            v TSV 1860 München           1-2 (1-0)
 Sun Feb 2
@@ -368,6 +397,7 @@ Fri Feb 21
   19:00  TSV 1860 München         v DSC Arminia Bielefeld      0-3 (0-1)
 Sat Feb 22
   14:00  Hansa Rostock            v Dynamo Dresden             1-0 (1-0)  @ Ostseestadion, Rostock,  Att: 26000
+            (1-0  N. Fröling 11')
          Erzgebirge Aue           v SpVgg Unterhaching         1-0 (1-0)
          Alemannia Aachen         v Borussia Dortmund II       2-2 (1-0)
          Rot-Weiss Essen          v FC Ingolstadt 04           2-0 (1-0)
@@ -400,7 +430,10 @@ Sat Mar 8
          VfB Stuttgart II         v Hannover II                2-1 (1-1)
          SV Sandhausen            v SpVgg Unterhaching         2-2 (0-1)
          Hansa Rostock            v FC Ingolstadt 04           2-0 (2-0)  @ Ostseestadion, Rostock,  Att: 24091
+            (1-0  Adrien Lebeau 29'
+             2-0  Sigurd Haugen 42')
          Alemannia Aachen         v Dynamo Dresden             0-1 (0-1)
+            (0-1  Niklas Hauptmann 45')
   16:30  SC Verl                  v DSC Arminia Bielefeld      2-1 (2-0)
 Sun Mar 9
   13:30  TSV 1860 München         v Borussia Dortmund II       1-0 (1-0)

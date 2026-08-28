@@ -8,394 +8,1153 @@
 ▪ 1. Spieltag
 Fri Sep 18 2020
   20:30  FC Bayern München        v FC Schalke 04              8-0 (3-0)  @ Allianz Arena, München
+            (1-0  S. Gnabry 4'
+             2-0  Goretzka 19'
+             3-0  Robert Lewandowski 31' (p)
+             4-0  S. Gnabry 47'
+             5-0  S. Gnabry 59'
+             6-0  T. Müller 69'
+             7-0  Sanê 71'
+             8-0  Musiala 81')
 Sat Sep 19
   15:30  Eintracht Frankfurt      v DSC Arminia Bielefeld      1-1 (0-0)  @ Commerzbank-Arema, Frankfurt
+            (0-1  Soukou 51'
+             1-1  Silva 63')
          1. FC Köln               v TSG Hoffenheim             2-3 (1-2)  @ Rhein Energie Stadion, Köln
+            (0-1  A. Kramaric 4'
+             1-1  Andersson 22'
+             1-2  A. Kramaric 45' (p)
+             2-2  Drexler 86'
+             2-3  A. Kramaric 90+2')
          VfB Stuttgart            v SC Freiburg                2-3 (0-2)  @ Mercedes-Benz Arena, Stuttgart
+            (0-1  Petersen 8'
+             0-2  Sallai 26'
+             0-3  V. Grifo 48'
+             1-3  Kalajdzic 71'
+             2-3  Wamangituka 81')
          1. FC Union Berlin       v FC Augsburg                1-3 (0-1)  @ alter Försterei, Berlin
+            (0-1  Vargas 41'
+             1-1  M. Bülter 75'
+             1-2  Gregoritsch 82'
+             1-3  Hahn 89')
          SV Werder Bremen         v Hertha BSC                 1-4 (0-1)  @ Weserstadion, Bremen
+            (0-1  Pekarik 42'
+             0-2  Lukebakio 45'
+             0-3  Cunha 63'
+             1-3  Davie Selke 69'
+             1-4  Cordoba 90')
   18:30  Borussia Dortmund        v Borussia Mönchengladbach   3-0 (1-0)  @ Signal-Iduna-Park, Dortmund
+            (1-0  Reyna 35'
+             2-0  Haaland 54' (p)
+             3-0  Haaland 77')
 Sun Sep 20
   15:30  RB Leipzig               v 1. FSV Mainz 05            3-1 (2-0)  @ Red Bull Arena, Leipzig
+            (1-0  Forsberg 17' (p)
+             2-0  Yussuf Poulsen 21'
+             2-1  Mateta 48'
+             3-1  Haidara 51')
   18:00  VfL Wolfsburg            v Bayer 04 Leverkusen        0-0 (0-0)  @ Volkswagen Arena, Wolfsburg
 
 ▪ 2. Spieltag
 Fri Sep 25
   20:30  Hertha BSC               v Eintracht Frankfurt        1-3 (0-2)  @ Olympiastadion, Berlin,  Att: 4000
+            (0-1  Andre Silva 30' (p)
+             0-2  Bas Dost 37'
+             0-3  Sebastian Rode 71'
+             1-3  Hinteregger 77' (og))
 Sat Sep 26
   15:30  DSC Arminia Bielefeld    v 1. FC Köln                 1-0 (0-0)  @ Schüco Arena, Bielefeld
+            (1-0  Edmundsson 78')
          FC Augsburg              v Borussia Dortmund          2-0 (1-0)  @ WWK Arena, Augsburg,  Att: 6000
+            (1-0  Uduokhai 39'
+             2-0  Caligiuri 53')
          Bayer 04 Leverkusen      v RB Leipzig                 1-1 (1-1)  @ BayArena, Leverkusen
+            (0-1  Emil Forsberg 14'
+             1-1  Demirbay 20')
          Borussia Mönchengladbach v 1. FC Union Berlin         1-1 (0-0)  @ Borussia Park, Mönchengladbach
+            (1-0  Marcus Thuram 56'
+             1-1  Schlotterbeck 80')
          1. FSV Mainz 05          v VfB Stuttgart              1-4 (1-1)  @ Coface-Arena, Mainz
+            (1-0  R. Quaison 12'
+             1-1  Wamangituka 45'
+             1-2  Daniel Didavi 61'
+             1-3  Klimowicz 80'
+             1-4  Kalajdzic 86')
   18:30  FC Schalke 04            v SV Werder Bremen           1-3 (0-2)  @ Veltins Arena, Gelsenkirchen
+            (0-1  N. Füllkrug 22'
+             0-2  N. Füllkrug 38'
+             0-3  N. Füllkrug 59' (p)
+             1-3  Mark Uth 90+3')
 Sun Sep 27
   15:30  TSG Hoffenheim           v FC Bayern München          4-1 (2-1)  @ Rhein-Neckar-Arena, Hoffenheim,  Att: 6000
+            (1-0  Bicakcic 16'
+             2-0  Dabbur 24'
+             2-1  J. Kimmich 36'
+             3-1  A. Kramaric 77'
+             4-1  A. Kramaric 90+2' (p))
   18:00  SC Freiburg              v VfL Wolfsburg              1-1 (1-1)  @ Schwarzwald-Stadion, Freiburg
+            (1-0  Nils Petersen 11'
+             1-1  Brekalo 42')
 
 ▪ 3. Spieltag
 Fri Oct 2
   20:30  1. FC Union Berlin       v 1. FSV Mainz 05            4-0 (1-0)  @ Alte Försterei, Berlin,  Att: 4500
+            (1-0  Max Kruse 13'
+             2-0  Marcus Ingvartsen 49'
+             3-0  M. Friedrich 63'
+             4-0  Joel Pohjanpalo 64')
 Sat Oct 3
   15:30  Borussia Dortmund        v SC Freiburg                4-0 (1-0)  @ Signal-Iduna-Park, Dortmund,  Att: 11500
+            (1-0  Haaland 31'
+             2-0  Can 47'
+             3-0  Haaland 66'
+             4-0  Passlack 92')
          Eintracht Frankfurt      v TSG Hoffenheim             2-1 (0-1)
+            (0-1  A. Kramaric 18'
+             1-1  Kamada 54'
+             2-1  Dost 71')
          1. FC Köln               v Borussia Mönchengladbach   1-3 (0-2)
+            (0-1  A.Plea 14'
+             0-2  Lainer 16'
+             0-3  Stindl 56'
+             1-3  Rexhbecaj 84')
          VfB Stuttgart            v Bayer 04 Leverkusen        1-1 (0-1)
+            (0-1  P. Schick 7'
+             1-1  Kalajdzic 76')
          SV Werder Bremen         v DSC Arminia Bielefeld      1-0 (1-0)
+            (1-0  Bittencourt 27')
   18:30  RB Leipzig               v FC Schalke 04              4-0 (3-0)  @ Red Bull Arena, Leipzig,  Att: 8500
+            (1-0  Bozdogan 31' (og)
+             2-0  Angelino 35'
+             3-0  Orban 45'
+             4-0  Halstenberg 80' (p))
 Sun Oct 4
   15:30  VfL Wolfsburg            v FC Augsburg                0-0 (0-0)
   18:00  FC Bayern München        v Hertha BSC                 4-3 (1-0)  @ Allianz Arena, München
+            (1-0  Robert Lewandowski 40'
+             2-0  Robert Lewandowski 51'
+             2-1  Jhon Cordoba 60'
+             2-2  M. Cunha 71'
+             3-2  Robert Lewandowski 85'
+             3-3  Jessic Ngankam 88'
+             4-3  Robert Lewandowski 90+3' (p))
 
 ▪ 4. Spieltag
 Sat Oct 17
   15:30  FC Augsburg              v RB Leipzig                 0-2 (0-1)
+            (0-1  Angelino 45'
+             0-2  Yussuf Poulsen 66')
          SC Freiburg              v SV Werder Bremen           1-1 (1-1)
+            (1-0  Lienhart 15'
+             1-1  N. Füllkrug 25' (p))
          Hertha BSC               v VfB Stuttgart              0-2 (0-1)
+            (0-1  Kempf 9'
+             0-2  Castro 68')
          TSG Hoffenheim           v Borussia Dortmund          0-1 (0-0)  @ PreZero Arena, Sinsheim,  Att: 6300
+            (0-1  Reus 76')
          1. FSV Mainz 05          v Bayer 04 Leverkusen        0-1 (0-1)
+            (0-1  Alario 30')
   18:30  DSC Arminia Bielefeld    v FC Bayern München          1-4 (0-3)
+            (0-1  Thomas Müller 8'
+             0-2  Robert Lewandowski 26'
+             0-3  Robert Lewandowski 45+1'
+             0-4  Thomas Müller 51'
+             1-4  Ritsu Doan 59')
   20:30  Borussia Mönchengladbach v VfL Wolfsburg              1-1 (0-0)
+            (1-0  Jonas Hofmann 74' (p)
+             1-1  Weghorst 85')
 Sun Oct 18
   15:30  1. FC Köln               v Eintracht Frankfurt        1-1 (0-1)
+            (0-1  Silva 45' (p)
+             1-1  Duda 52')
   18:00  FC Schalke 04            v 1. FC Union Berlin         1-1 (0-0)
+            (0-1  Friedrich 56'
+             1-1  Paciencia 69')
 
 ▪ 5. Spieltag
 Fri Oct 23
   20:30  VfB Stuttgart            v 1. FC Köln                 1-1 (1-1)
+            (1-0  Mangala 1'
+             1-1  Andersson 23' (p))
 Sat Oct 24
   15:30  FC Bayern München        v Eintracht Frankfurt        5-0 (2-0)
+            (1-0  Robert Lewandowski 10'
+             2-0  Robert Lewandowski 26'
+             3-0  Robert Lewandowski 61'
+             4-0  Leroy Sané 72'
+             5-0  Musiala 91')
          1. FSV Mainz 05          v Borussia Mönchengladbach   2-3 (2-1)
+            (0-1  Stindl 15'
+             1-1  Mateta 23'
+             2-1  Mateta 36'
+             2-2  Hofmann 76' (p)
+             2-3  M. Ginter 83')
          RB Leipzig               v Hertha BSC                 2-1 (1-1)
+            (0-1  Cordoba 8'
+             1-1  Upamecano 11'
+             2-1  Sabitzer 77' (p))
          1. FC Union Berlin       v SC Freiburg                1-1 (1-1)
+            (0-1  V. Grifo 34'
+             1-1  Andrich 36')
   18:30  Borussia Dortmund        v FC Schalke 04              3-0 (0-0)  @ Signal-Iduna-Park, Dortmund,  Att: 300
+            (1-0  Akanji 55'
+             2-0  Haaland 61'
+             3-0  Hummels 78')
 Sun Oct 25
   15:30  VfL Wolfsburg            v DSC Arminia Bielefeld      2-1 (2-0)  @ Volkswagen Arena, Wolfsburg,  Att: 4500
+            (1-0  Wout Weghorst 19'
+             2-0  Maximilian Arnold 20'
+             2-1  Sven Schipplock 80')
   18:00  SV Werder Bremen         v TSG Hoffenheim             1-1 (1-1)
+            (1-0  Maximilian Eggestein 5'
+             1-1  Dennis Geiger 22')
 Mon Oct 26
   20:30  Bayer 04 Leverkusen      v FC Augsburg                3-1 (1-0)  @ BayArena, Leverkusen
+            (1-0  Lucas Alario 16' (p)
+             1-1  Daniel Caligiuri 52'
+             2-1  Lucas Alario 74'
+             3-1  Moussa Diaby 90+4')
 
 ▪ 6. Spieltag
 Fri Oct 30
   20:30  FC Schalke 04            v VfB Stuttgart              1-1 (1-0)
+            (1-0  Malick Thiaw 30'
+             1-1  Gonzalez 56' (p))
 Sat Oct 31
   15:30  DSC Arminia Bielefeld    v Borussia Dortmund          0-2 (0-0)
+            (0-1  Hummels 53'
+             0-2  Hummels 71')
          FC Augsburg              v 1. FSV Mainz 05            3-1 (1-0)
+            (1-0  Vargas 40'
+             1-1  Onisiwo 64'
+             2-1  Hahn 80'
+             3-1  Hahn 91')
          Eintracht Frankfurt      v SV Werder Bremen           1-1 (0-0)
+            (0-0  Kamada 34'
+             0-1  Sargent 51'
+             1-1  Silva 65')
          1. FC Köln               v FC Bayern München          1-2 (0-2)
+            (0-1  T. Müller 13' (p)
+             0-2  S. Gnabry 45'
+             1-2  Drexler 80')
   18:30  Borussia Mönchengladbach v RB Leipzig                 1-0 (0-0)
+            (1-0  Hannes Wolf 60')
 Sun Nov 1
   15:30  SC Freiburg              v Bayer 04 Leverkusen        2-4 (1-2)
+            (1-0  L. Höler 3'
+             1-1  Alario 29'
+             1-2  Alario 42'
+             1-3  Amiri 64'
+             2-3  Petersen 72'
+             2-4  Jonathan Tah 76')
   18:00  Hertha BSC               v VfL Wolfsburg              1-1 (1-1)
+            (1-0  Cunha 6'
+             1-1  Baku 20')
 Mon Nov 2
   20:30  TSG Hoffenheim           v 1. FC Union Berlin         1-3 (0-0)
+            (0-1  Kruse 60' (p)
+             1-1  Dabbur 80'
+             1-2  Pohjanpalo 85'
+             1-3  Teuchert 94')
 
 ▪ 7. Spieltag
 Fri Nov 6
   20:30  SV Werder Bremen         v 1. FC Köln                 1-1 (0-0)
+            (0-1  Moisander 67' (og)
+             1-1  Bittencourt 82' (p))
 Sat Nov 7
   15:30  FC Augsburg              v Hertha BSC                 0-3 (0-1)
+            (0-1  Cunha 44' (p)
+             0-2  Lukebakio 52'
+             0-3  Piatek 86')
          1. FSV Mainz 05          v FC Schalke 04              2-2 (2-1)
+            (1-0  Brosinski 6' (p)
+             1-1  Uth 36'
+             2-1  Mateta 45'
+             2-2  St. Juste 82' (og))
          RB Leipzig               v SC Freiburg                3-0 (1-0)
+            (1-0  Konate 26'
+             2-0  Sabitzer 69' (p)
+             3-0  Angelino 89')
          VfB Stuttgart            v Eintracht Frankfurt        2-2 (2-0)
+            (1-0  Gonzalez 17' (p)
+             2-0  Castro 37'
+             2-1  Silva 61'
+             2-2  Abraham 75')
          1. FC Union Berlin       v DSC Arminia Bielefeld      5-0 (3-0)
+            (1-0  Endo 5'
+             2-0  Andrich 13'
+             3-0  Becker 45'
+             4-0  Kruse 52' (p)
+             5-0  Teuchert 89')
   18:30  Borussia Dortmund        v FC Bayern München          2-3 (1-1)
+            (1-0  Marco Reus 45'
+             1-1  Alaba 45'
+             1-2  Robert Lewandowski 48'
+             1-3  Leroy Sané 80'
+             2-3  Erling Haarland 83')
 Sun Nov 8
   15:30  VfL Wolfsburg            v TSG Hoffenheim             2-1 (2-0)
+            (1-0  Brekalo 5'
+             2-0  Weghorst 26'
+             2-1  Adamyan 87')
   18:00  Bayer 04 Leverkusen      v Borussia Mönchengladbach   4-3 (2-2)
+            (0-1  Stindl 18' (p)
+             1-1  Alario 27'
+             1-2  Stindl 30'
+             2-2  Alario 41'
+             3-2  Bailey 68'
+             4-2  Baumgartlinger 68'
+             4-3  Lazaro 94')
 
 ▪ 8. Spieltag
 Sat Nov 21
   15:30  DSC Arminia Bielefeld    v Bayer 04 Leverkusen        1-2 (0-1)
+            (0-1  Bailey 27'
+             1-1  Hradecky 47' (og)
+             1-2  Dragovic 88')
          FC Bayern München        v SV Werder Bremen           1-1 (0-1)
+            (0-1  M. Eggestein 45'
+             1-1  Coman 62')
          Borussia Mönchengladbach v FC Augsburg                1-1 (1-0)
+            (1-0  Neuhaus 5'
+             1-1  Caligiuri 88')
          TSG Hoffenheim           v VfB Stuttgart              3-3 (1-2)
+            (1-0  C. Baumgartner 16'
+             1-1  Gonzalez 18'
+             1-2  Wamangituka 28'
+             2-2  Sessegnon 48'
+             3-2  A. Kramaric 71' (p)
+             3-3  Kempf 93')
          FC Schalke 04            v VfL Wolfsburg              0-2 (0-2)
+            (0-1  Weghorst 3'
+             0-2  Schlager 24')
   18:30  Eintracht Frankfurt      v RB Leipzig                 1-1 (1-0)
+            (1-0  Aymen Barkok 44'
+             1-1  Yussuf Poulsen 57')
   20:30  Hertha BSC               v Borussia Dortmund          2-5 (1-0)
+            (1-0  Cunha 34'
+             1-1  Erling Haarland 47'
+             1-2  Erling Haarland 49'
+             1-3  Erling Haarland 62'
+             1-4  R. Guerreiro 70'
+             2-4  Cunha 79' (p)
+             2-5  Erling Haarland 79')
 Sun Nov 22
   15:30  SC Freiburg              v 1. FSV Mainz 05            1-3 (0-3)
+            (0-1  Mateta 2'
+             0-2  Mateta 34'
+             0-3  Mateta 40'
+             1-3  Petersen 63')
   18:00  1. FC Köln               v 1. FC Union Berlin         1-2 (1-1)
+            (0-1  Awoniyi 27'
+             1-1  Skhiri 36'
+             1-2  Kruse 72')
 
 ▪ 9. Spieltag
 Fri Nov 27
   20:30  VfL Wolfsburg            v SV Werder Bremen           5-3 (3-2)  @ Volkswagen Arena, Wolfsburg
+            (0-1  Leonardo Bittencourt 13'
+             1-1  Baku 22'
+             2-1  Brooks 25'
+             2-2  Möhwald 35'
+             3-2  Wout Weghorst 37'
+             3-3  Brooks 47' (og)
+             4-3  Wout Weghorst 76'
+             5-3  Bialek 90+5')
 Sat Nov 28
   15:30  FC Augsburg              v SC Freiburg                1-1 (0-0)
+            (0-1  V. Grifo 64'
+             1-1  Vargas 80')
          Borussia Dortmund        v 1. FC Köln                 1-2 (0-1)
+            (0-1  Skhiri 9'
+             0-2  Skhiri 60'
+             1-2  Thorgan Hazard 74')
          RB Leipzig               v DSC Arminia Bielefeld      2-1 (1-0)
+            (1-0  Angelino 29'
+             2-0  Nkunku 47'
+             2-1  Klos 75')
          VfB Stuttgart            v FC Bayern München          1-3 (1-2)
+            (0-0  Förster 39'
+             1-0  T. Coulibaly 20'
+             1-1  Coman 38'
+             1-2  Robert Lewandowski 45'
+             1-3  Costa 88')
          1. FC Union Berlin       v Eintracht Frankfurt        3-3 (2-2)
+            (1-0  Andrich 2'
+             2-0  Kruse 6' (p)
+             2-1  Silva 27'
+             2-2  Silva 37'
+             2-3  Dost 79'
+             3-3  Kruse 82')
   18:30  Borussia Mönchengladbach v FC Schalke 04              4-1 (2-1)  @ Borussia Park, Mönchengladbach
+            (1-0  Neuhaus 15'
+             1-1  Raman 20'
+             2-1  Wendt 36'
+             3-1  Thuram 52'
+             4-1  Hannes Wolf 80')
 Sun Nov 29
   15:30  Bayer 04 Leverkusen      v Hertha BSC                 0-0 (0-0)  @ BayArena, Leverkusen
   18:00  1. FSV Mainz 05          v TSG Hoffenheim             1-1 (1-0)  @ Mainz
+            (1-0  Quaison 33'
+             1-1  Bebou 62')
 
 ▪ 10. Spieltag
 Fri Dec 4
   20:30  Hertha BSC               v 1. FC Union Berlin         3-1 (0-1)  @ Olympiastadion, Berlin
+            (0-1  Awoniyi 20'
+             1-1  Peter Pekarík 51'
+             2-1  Piatek 74'
+             3-1  Piatek 77')
 Sat Dec 5
   15:30  DSC Arminia Bielefeld    v 1. FSV Mainz 05            2-1 (2-0)  @ SchücoArena, Bielefeld
+            (1-0  Prietl 21'
+             2-0  Doan 31'
+             2-1  Stöger 82')
          Eintracht Frankfurt      v Borussia Dortmund          1-1 (1-0)  @ Deutsche Bank Park, Frankfurt
+            (1-0  Kamada 9'
+             1-1  Reyna 56')
          SC Freiburg              v Borussia Mönchengladbach   2-2 (1-1)  @ Schwarzwald-Stadion, Freiburg
+            (0-1  Breel Embolo 23'
+             1-1  Lienhart 32'
+             2-1  V. Grifo 49' (p)
+             2-2  Plea 50')
          1. FC Köln               v VfL Wolfsburg              2-2 (2-1)  @ Rhein-Energie-Stadion, Köln
+            (1-0  Thielmann 18'
+             1-1  Arnold 29'
+             2-1  Duda 43'
+             2-2  Weghorst 47')
   18:30  FC Bayern München        v RB Leipzig                 3-3 (2-2)  @ Allianz Arena, München
+            (0-1  Nkunku 19'
+             1-1  Musiala 30'
+             2-1  T. Müller 35'
+             2-2  Kluivert 36'
+             2-3  Forsberg 48'
+             3-3  T. Müller 75')
 Sun Dec 6
   15:30  SV Werder Bremen         v VfB Stuttgart              1-2 (0-1)  @ Weserstadion, Bremen
+            (0-1  Silas Wamangituka 30' (p)
+             0-2  Silas Wamangituka 90+2'
+             1-2  Davie Selke 90+3')
   18:00  FC Schalke 04            v Bayer 04 Leverkusen        0-3 (0-1)  @ Veltins Arena, Gelsenkirchen
+            (0-1  Malick Thiaw 10' (og)
+             0-2  Julian Baumgartlinger 67'
+             0-3  P. Schick 78')
 Mon Dec 7
   20:30  TSG Hoffenheim           v FC Augsburg                3-1 (1-1)  @ Rhein-Neckar-Arena, Sinsheim
+            (1-0  Florian Grillitsch 17'
+             1-1  Daniel Caligiuri 31'
+             2-1  Florian Grillitsch 46'
+             3-1  Bebou 50')
 
 ▪ 11. Spieltag
 Fri Dec 11
   20:30  VfL Wolfsburg            v Eintracht Frankfurt        2-1 (0-0)  @ Volkswagenarena, Wolfsburg
+            (0-1  Bas Dost 63' (p)
+             1-1  Wout Weghorst 76' (p)
+             2-1  Wout Weghorst 88')
 Sat Dec 12
   15:30  Borussia Dortmund        v VfB Stuttgart              1-5 (1-1)  @ Signal Iduna Park, Dortmund
+            (0-1  Silas Wamangituka 26' (p)
+             1-1  Giovanni Reyna 39'
+             1-2  Silas Wamangituka 52'
+             1-3  Philipp Förster 60'
+             1-4  T. Coulibaly 63'
+             1-5  N. Gonzalez 91')
          Borussia Mönchengladbach v Hertha BSC                 1-1 (0-0)  @ Borussia-Park, Mönchengladbach
+            (0-1  M. Guendouzi 47'
+             1-1  Breel Embolo 70')
          SC Freiburg              v DSC Arminia Bielefeld      2-0 (0-0)  @ Schwarzwald-Stadion, Freiburg
+            (1-0  V. Grifo 79' (p)
+             2-0  W. Jeong 92')
          1. FSV Mainz 05          v 1. FC Köln                 0-1 (0-0)  @ Opel-Arena, Mainz
+            (0-1  Elvis Rexhbecaj 55')
          RB Leipzig               v SV Werder Bremen           2-0 (2-0)  @ Red Bull Arena, Leipzig
+            (1-0  Marcel Sabitzer 26' (p)
+             2-0  Daniel Olmo 41')
   18:30  1. FC Union Berlin       v FC Bayern München          1-1 (1-0)  @ Zur alten Försterei, Berlin
+            (1-0  G. Prömel 4'
+             1-1  Robert Lewandowski 67')
 Sun Dec 13
   15:30  FC Augsburg              v FC Schalke 04              2-2 (1-0)  @ WWK-Arena, Augsburg
+            (1-0  Serdar 32' (og)
+             1-1  Benito Raman 52'
+             1-2  Boujellab 64'
+             2-2  Marco Richter 93')
   18:00  Bayer 04 Leverkusen      v TSG Hoffenheim             4-1 (2-0)  @ BayArena, Leverkusen
+            (1-0  Leon Bailey 4'
+             2-0  Leon Bailey 27'
+             2-1  C. Baumgartner 50'
+             3-1  Florian Wirtz 55'
+             4-1  Lucas Alario 90+1' (p))
 
 ▪ 12. Spieltag
 Tue Dec 15
   18:30  Eintracht Frankfurt      v Borussia Mönchengladbach   3-3 (3-1)  @ Commerzbank Arena, Frankfurt
+            (0-1  Lars Stindl 14'
+             1-1  Andre Silva 22' (p)
+             2-1  Andre Silva 25'
+             3-1  Aymen Barkok 33'
+             3-2  Lars Stindl 90' (p)
+             3-3  Lars Stindl 90+5')
   20:30  Hertha BSC               v 1. FSV Mainz 05            0-0 (0-0)  @ Olympiastadion, Berlin
          VfB Stuttgart            v 1. FC Union Berlin         2-2 (0-1)  @ Mercedes Benz Arena, Stuttgart
+            (0-1  M. Friedrich 4'
+             0-2  Awoniyi 77'
+             1-2  Kalajdzic 85'
+             2-2  Kalajdzic 90+3')
          SV Werder Bremen         v Borussia Dortmund          1-2 (1-1)  @ Weserstadion, Bremen
+            (0-1  R. Guerreiro 12'
+             1-1  Möhwald 29'
+             1-2  Marco Reus 79')
 Wed Dec 16
   18:30  FC Schalke 04            v SC Freiburg                0-2 (0-0)  @ Veltins Arena, Gelsenkirchen
+            (0-1  R. Sallai 50'
+             0-2  R. Sallai 68')
   20:30  DSC Arminia Bielefeld    v FC Augsburg                0-1 (0-0)  @ Schüco Arena, Bielefeld
+            (0-1  Jeffrey Gouweleeuw 85')
          FC Bayern München        v VfL Wolfsburg              2-1 (1-1)  @ Allianz Arena, München
+            (0-1  Maximilian Philipp 6'
+             1-1  Robert Lewandowski 45+1'
+             2-1  Robert Lewandowski 50')
          TSG Hoffenheim           v RB Leipzig                 0-1 (0-0)  @ PreZero Arena, Sinsheim
+            (0-1  Yussuf Poulsen 60')
          1. FC Köln               v Bayer 04 Leverkusen        0-4 (0-2)  @ Rhein Energie Stadion, Köln
+            (0-1  Mitchell Weiser 8'
+             0-2  Moussa Diaby 10'
+             0-3  P. Schick 54'
+             0-4  Florian Wirtz 59')
 
 ▪ 13. Spieltag
 Fri Dec 18
   20:30  1. FC Union Berlin       v Borussia Dortmund          2-1 (0-0)  @ Zur alten Försterei, Berlin
+            (1-0  Awoniyi 57'
+             1-1  Youssoufa Moukoko 60'
+             2-1  M. Friedrich 78')
 Sat Dec 19
   15:30  FC Augsburg              v Eintracht Frankfurt        0-2 (0-0)
+            (0-1  R. Framberger 53' (og)
+             0-2  S. Ilsanker 87')
          Borussia Mönchengladbach v TSG Hoffenheim             1-2 (1-0)
+            (1-0  L. Stindl 34' (p)
+             1-1  A. Kramaric 75'
+             1-2  R. Sessegnon 86')
          1. FSV Mainz 05          v SV Werder Bremen           0-1 (0-0)
+            (0-1  A. Dinkci 90')
          RB Leipzig               v 1. FC Köln                 0-0 (0-0)
          FC Schalke 04            v DSC Arminia Bielefeld      0-1 (0-0)
+            (0-1  F. Klos 53')
   18:30  Bayer 04 Leverkusen      v FC Bayern München          1-2 (1-1)
+            (1-0  P. Schick 14'
+             1-1  Robert Lewandowski 43'
+             1-2  Robert Lewandowski 90+3')
 Sun Dec 20
   15:30  SC Freiburg              v Hertha BSC                 4-1 (1-0)
+            (1-0  V. Grifo 7'
+             1-1  D. Lukebakio 52'
+             2-1  E. Demirovic 59'
+             3-1  M. Gulde 67'
+             4-1  N. Petersen 94' (p))
   18:00  VfL Wolfsburg            v VfB Stuttgart              1-0 (0-0)
+            (1-0  J. Brekalo 50')
 
 ▪ 14. Spieltag
 Sat Jan 2 2021
   15:30  DSC Arminia Bielefeld    v Borussia Mönchengladbach   0-1 (0-0)
+            (0-1  Breel Embolo 58')
          Eintracht Frankfurt      v Bayer 04 Leverkusen        2-1 (1-1)
+            (0-1  N. Amiri 10'
+             1-1  A. Younes 22'
+             2-1  E. Tapsoba 54' (og))
          TSG Hoffenheim           v SC Freiburg                1-3 (0-3)
+            (0-1  B. Santamaria 7'
+             0-2  V. Grifo 34' (p)
+             0-3  K. Adams 42' (og)
+             1-3  I. Bebou 59')
          1. FC Köln               v FC Augsburg                0-1 (0-0)
+            (0-1  Iago 77')
          SV Werder Bremen         v 1. FC Union Berlin         0-2 (0-2)
+            (0-1  S. Becker 12'
+             0-2  T. Awoniyi 28')
   18:30  Hertha BSC               v FC Schalke 04              3-0 (1-0)
+            (1-0  M. Guendouzi 36'
+             2-0  J. Cordoba 53'
+             3-0  K. Piatek 80')
   20:30  VfB Stuttgart            v RB Leipzig                 0-1 (0-0)
+            (0-1  D. Olmo 67')
 Sun Jan 3
   15:30  Borussia Dortmund        v VfL Wolfsburg              2-0 (0-0)
+            (1-0  M. Akanji 66'
+             2-0  J. Sancho 91')
   18:00  FC Bayern München        v 1. FSV Mainz 05            5-2 (0-2)
+            (0-1  J. Burkardt 32'
+             0-2  Hack A. 44'
+             1-2  J. Kimmich 50'
+             2-2  L. Sane 56'
+             3-2  N. Süle 70'
+             4-2  Robert Lewandowski 76' (p)
+             5-2  Robert Lewandowski 82')
 
 ▪ 15. Spieltag
 Fri Jan 8
   20:30  Borussia Mönchengladbach v FC Bayern München          3-2 (2-2)
+            (0-1  Robert Lewandowski 20' (p)
+             0-2  Leon Goretzka 26'
+             1-2  Jonas Hofmann 35'
+             2-2  Jonas Hofmann 45'
+             3-2  Florian Neuhaus 49')
 Sat Jan 9
   15:30  Bayer 04 Leverkusen      v SV Werder Bremen           1-1 (0-0)
+            (0-1  Toprak 52'
+             1-1  P. Schick 70')
          SC Freiburg              v 1. FC Köln                 5-0 (2-0)
+            (1-0  Ermedin Demirovic 18'
+             2-0  Höfler 39'
+             3-0  R. Sallai 59'
+             4-0  Lienhart 69'
+             5-0  L. Höler 79')
          1. FSV Mainz 05          v Eintracht Frankfurt        0-2 (0-1)
+            (0-1  Andre Silva 23' (p)
+             0-2  Andre Silva 71' (p))
          FC Schalke 04            v TSG Hoffenheim             4-0 (1-0)
+            (1-0  Hoppe 42'
+             2-0  Hoppe 57'
+             3-0  Hoppe 63'
+             4-0  Harit 80')
          1. FC Union Berlin       v VfL Wolfsburg              2-2 (1-1)
+            (0-1  Renato Steffen 10'
+             1-1  S. Becker 29'
+             2-1  Robert Andrich 53'
+             2-2  Wout Weghorst 65' (p))
   18:30  RB Leipzig               v Borussia Dortmund          1-3 (0-0)
+            (0-1  J. Sancho 55'
+             0-2  E. Haaland 72'
+             0-3  E. Haaland 84'
+             1-3  A.Sorloth 90')
 Sun Jan 10
   15:30  FC Augsburg              v VfB Stuttgart              1-4 (0-2)
+            (0-1  N. Gonzalez 10' (p)
+             0-2  S. Wamangituka 29'
+             1-2  M. Ritter 46'
+             1-3  G. Castro 61'
+             1-4  D. Didavi 87')
   18:00  DSC Arminia Bielefeld    v Hertha BSC                 1-0 (0-0)
+            (1-0  Reinhold Yabo 64')
 
 ▪ 16. Spieltag
 Fri Jan 15
   20:30  1. FC Union Berlin       v Bayer 04 Leverkusen        1-0 (0-0)
+            (1-0  Cedric Teuchert 88')
 Sat Jan 16
   15:30  Borussia Dortmund        v 1. FSV Mainz 05            1-1 (0-0)
+            (0-0  Erling Haarland 2'
+             0-1  L. Öztunali 57'
+             1-1  T. Meunier 73')
          TSG Hoffenheim           v DSC Arminia Bielefeld      0-0 (0-0)
          1. FC Köln               v Hertha BSC                 0-0 (0-0)
          SV Werder Bremen         v FC Augsburg                2-0 (0-0)
+            (1-0  T. Gebre Selassi 84'
+             2-0  F. Agu 87')
          VfL Wolfsburg            v RB Leipzig                 2-2 (2-1)
+            (0-1  N. Mukiele 5'
+             1-1  W. Weghorst 22'
+             2-1  R. Steffen 35'
+             2-2  W. Orban 54')
   18:30  VfB Stuttgart            v Borussia Mönchengladbach   2-2 (0-1)
+            (0-1  L. Stindl 35' (p)
+             1-1  N. Gonzalez 58'
+             1-2  D. Zakaria 61'
+             2-2  S. Wamangituka 96' (p))
 Sun Jan 17
   15:30  FC Bayern München        v SC Freiburg                2-1 (1-0)
+            (1-0  Robert Lewandowski 7'
+             1-1  N. Petersen 62'
+             2-1  T. Müller 74')
   18:00  Eintracht Frankfurt      v FC Schalke 04              3-1 (1-1)
+            (1-0  A. Silva 28'
+             1-1  M. Hoppe 29'
+             2-1  L. Jovic 72'
+             3-1  L. Jovic 90+2')
 
 ▪ 17. Spieltag
 Tue Jan 19
   18:30  Borussia Mönchengladbach v SV Werder Bremen           1-0 (0-0)
+            (1-0  N. Elvedi 66')
   20:30  Bayer 04 Leverkusen      v Borussia Dortmund          2-1 (1-0)
+            (1-0  M. Diaby 14'
+             1-1  J. Brandt 67'
+             2-1  F. Wirtz 80')
          Hertha BSC               v TSG Hoffenheim             0-3 (0-1)
+            (0-1  S. Rudy 33'
+             0-2  A. Kramaric 68'
+             0-3  A. Kramaric 88')
          1. FSV Mainz 05          v VfL Wolfsburg              0-2 (0-0)
+            (0-1  B. Bialek 65'
+             0-2  W. Weghorst 79')
 Wed Jan 20
   18:30  FC Schalke 04            v 1. FC Köln                 1-2 (0-1)
+            (0-1  R. Czichos 32'
+             1-1  M. Hoppe 57'
+             1-2  J. Thielmann 93')
   20:30  DSC Arminia Bielefeld    v VfB Stuttgart              3-0 (1-0)
+            (1-0  F. Klos 27'
+             2-0  M. Kempf 47' (og)
+             3-0  R. Doan 86')
          FC Augsburg              v FC Bayern München          0-1 (0-1)
+            (0-1  Robert Lewandowski 13')
          SC Freiburg              v Eintracht Frankfurt        2-2 (1-1)
+            (0-1  A. Younes 6'
+             1-1  R. Sallai 32'
+             2-1  N. Petersen 63'
+             2-2  K. Schlotterbeck 75' (og))
          RB Leipzig               v 1. FC Union Berlin         1-0 (0-0)
+            (1-0  E. Forsberg 70')
 
 ▪ 18. Spieltag
 Fri Jan 22
   20:30  Borussia Mönchengladbach v Borussia Dortmund          4-2 (2-2)
+            (1-0  N. Elvedi 11'
+             1-1  E. Haaland 22'
+             1-2  E. Haaland 28'
+             2-2  N. Elvedi 33'
+             3-2  R. Bensebaini 50'
+             4-2  Marcus Thuram 77')
 Sat Jan 23
   15:30  DSC Arminia Bielefeld    v Eintracht Frankfurt        1-5 (1-3)
+            (0-1  A. Silva 25'
+             0-2  F. Kostic 27'
+             0-3  A. Silva 33'
+             1-3  S. Cordova 36'
+             1-4  J. Nilsson 51' (og)
+             1-5  L. Jovic 75')
          FC Augsburg              v 1. FC Union Berlin         2-1 (1-1)
+            (1-0  F. Niederlechner 17'
+             1-1  M. Ingvartsen 25'
+             2-1  F. Niederlechner 47')
          Bayer 04 Leverkusen      v VfL Wolfsburg              0-1 (0-1)
+            (0-1  R. Baku 35')
          SC Freiburg              v VfB Stuttgart              2-1 (2-1)
+            (0-1  S. Wamangituka 7'
+             1-1  E. Demirovic 14'
+             2-1  J. Woo-Yeong 38')
          1. FSV Mainz 05          v RB Leipzig                 3-2 (2-2)
+            (0-1  T. Adams 15'
+             1-1  M. Niakhate 24'
+             1-2  M. Halstenberg 30'
+             2-2  M. Niakhate 35'
+             3-2  L. Barreiro 50')
   18:30  Hertha BSC               v SV Werder Bremen           1-4 (1-2)
+            (0-1  D. Selke 10' (p)
+             0-2  Ö. Toprak 31'
+             1-2  J. Cordoba 45'
+             1-3  L. Bittencourt 57'
+             1-4  J. Sargent 77')
 Sun Jan 24
   15:30  FC Schalke 04            v FC Bayern München          0-4 (0-1)
+            (0-1  T. Müller 33'
+             0-2  Robert Lewandowski 54'
+             0-3  T. Müller 88'
+             0-4  D. Alaba 90')
   18:00  TSG Hoffenheim           v 1. FC Köln                 3-0 (2-0)
+            (1-0  A. Kramaric 7' (p)
+             2-0  C. Baumgartner 28'
+             3-0  A. Kramaric 79' (p))
 
 ▪ 19. Spieltag
 Fri Jan 29
   20:30  VfB Stuttgart            v 1. FSV Mainz 05            2-0 (0-0)
+            (1-0  S. Kalajdzic 55'
+             2-0  S. Wamangituka 72')
 Sat Jan 30
   15:30  FC Bayern München        v TSG Hoffenheim             4-1 (2-1)
+            (1-0  J. Boateng 32'
+             2-0  T. Müller 43'
+             2-1  A. Kramaric 44'
+             3-1  Robert Lewandowski 57'
+             4-1  S. Gnabry 63')
          Borussia Dortmund        v FC Augsburg                3-1 (1-1)
+            (0-1  A. Hahn 10'
+             1-1  T. Delaney 26'
+             2-1  J. Sancho 63'
+             3-1  F. Uduokhai 75' (og))
          Eintracht Frankfurt      v Hertha BSC                 3-1 (0-0)
+            (0-1  K. Piatek 66'
+             1-1  A. Silva 67'
+             2-1  M. Hinteregger 85'
+             3-1  A. Silva 95' (p))
          1. FC Union Berlin       v Borussia Mönchengladbach   1-1 (1-0)
+            (1-0  R. Knoche 31'
+             1-1  A.Plea 59')
          SV Werder Bremen         v FC Schalke 04              1-1 (0-1)
+            (0-1  O. Mascarell 38'
+             1-1  K. Möhwald 77')
   18:30  RB Leipzig               v Bayer 04 Leverkusen        1-0 (0-0)
+            (1-0  C. Nkunku 51')
 Sun Jan 31
   15:30  1. FC Köln               v DSC Arminia Bielefeld      3-1 (2-0)
+            (1-0  M. Wolf 10'
+             2-0  M. Wolf 28'
+             3-0  E. Rexhbiecaj 63'
+             3-1  S. Cordova 74')
   18:00  VfL Wolfsburg            v SC Freiburg                3-0 (2-0)
+            (1-0  John Brooks Jr. 21'
+             2-0  W. Weghorst 39'
+             3-0  Y. Gerhardt 86')
 
 ▪ 20. Spieltag
 Fri Feb 5
   20:00  Hertha BSC               v FC Bayern München          0-1 (0-1)
+            (0-1  K. Coman 21')
 Sat Feb 6
   15:30  FC Augsburg              v VfL Wolfsburg              0-2 (0-1)
+            (0-1  W. Weghorst 38'
+             0-2  R. Baku 59')
          Bayer 04 Leverkusen      v VfB Stuttgart              5-2 (2-0)
+            (1-0  K. Demirbay 18'
+             2-0  K. Demirbay 31'
+             2-1  S. Kalajdzic 50'
+             3-1  L. Bailey 56'
+             4-1  F. Wirtz 68'
+             4-2  S. Kalajdzic 77'
+             5-2  D. Gray 84')
          SC Freiburg              v Borussia Dortmund          2-1 (0-0)
+            (1-0  W. Jeong 49'
+             2-0  J. Schmid 52'
+             2-1  Y. Moukoko 76')
          1. FSV Mainz 05          v 1. FC Union Berlin         1-0 (1-0)
+            (1-0  M. Niakhate 22' (p))
          FC Schalke 04            v RB Leipzig                 0-3 (0-1)
+            (0-1  N. Mukiele 45+3'
+             0-2  M. Sabitzer 73'
+             0-3  W. Orban 87')
   18:30  Borussia Mönchengladbach v 1. FC Köln                 1-2 (1-1)
+            (0-1  E. Rexhbiecaj 3'
+             1-1  Florian Neuhaus 16'
+             1-2  E. Rexhbiecaj 55')
 Sun Feb 7
   15:30  TSG Hoffenheim           v Eintracht Frankfurt        1-3 (0-1)
+            (0-1  F. Kostic 15'
+             1-1  I. Bebou 47'
+             1-2  E. N'Dicka 62'
+             1-3  A. Silva 64')
 
 ▪ 21. Spieltag
 Fri Feb 12
   20:30  RB Leipzig               v FC Augsburg                2-1 (2-0)
+            (1-0  D. Olmo 38' (p)
+             2-0  C. Nkunku 43'
+             2-1  Daniel Caligiuri 76' (p))
 Sat Feb 13
   15:30  Bayer 04 Leverkusen      v 1. FSV Mainz 05            2-2 (1-0)
+            (1-0  L. Alario 14'
+             2-0  P. Schick 84'
+             2-1  R. Glatzel 89'
+             2-2  K. Stöger 92')
          Borussia Dortmund        v TSG Hoffenheim             2-2 (1-1)
+            (1-0  J. Sancho 24'
+             1-1  M. Dabbur 31'
+             1-2  I. Bebou 51'
+             2-2  E. Haaland 81')
          VfB Stuttgart            v Hertha BSC                 1-1 (1-0)
+            (1-0  S. Kalajdzic 48'
+             1-1  L. Netz 82')
          SV Werder Bremen         v SC Freiburg                0-0 (0-0)
   18:30  1. FC Union Berlin       v FC Schalke 04              0-0 (0-0)
 Sun Feb 14
   15:30  Eintracht Frankfurt      v 1. FC Köln                 2-0 (0-0)
+            (1-0  A. Silva 57'
+             2-0  E. N'Dicka 79')
   18:00  VfL Wolfsburg            v Borussia Mönchengladbach   0-0 (0-0)
 Mon Feb 15
   20:30  FC Bayern München        v DSC Arminia Bielefeld      3-3 (0-2)
+            (0-1  Michel Vlap 10'
+             0-2  Amos Pieper 37'
+             1-2  Robert Lewandowski 48'
+             1-3  C.Gebauer 50'
+             2-3  Tolisso 58'
+             3-3  A. Davies 69')
 
 ▪ 22. Spieltag
 Fri Feb 19
   20:30  DSC Arminia Bielefeld    v VfL Wolfsburg              0-3 (0-1)
+            (0-1  Renato Steffen 29'
+             0-2  Renato Steffen 47'
+             0-3  Maximilian Arnold 55')
 Sat Feb 20
   15:30  Borussia Mönchengladbach v 1. FSV Mainz 05            1-2 (1-1)
+            (0-1  K. Onisiwo 10'
+             1-1  L. Stindl 26'
+             1-2  K. Stöger 86')
          Eintracht Frankfurt      v FC Bayern München          2-1 (2-0)
+            (1-0  D. Kamada 12'
+             2-0  A. Younes 31'
+             2-1  Robert Lewandowski 53')
          SC Freiburg              v 1. FC Union Berlin         0-1 (0-0)
+            (0-1  G. Prömel 64')
          1. FC Köln               v VfB Stuttgart              0-1 (0-0)
+            (0-1  S. Kalajdzic 49')
   18:30  FC Schalke 04            v Borussia Dortmund          0-4 (0-2)
+            (0-1  J. Sancho 42'
+             0-2  E. Haaland 45'
+             0-3  R. Guerreiro 60'
+             0-4  E. Haaland 79')
 Sun Feb 21
   13:30  FC Augsburg              v Bayer 04 Leverkusen        1-1 (1-0)
+            (1-0  Florian Niederlechner 5'
+             1-1  E. Tapsoba 90+5')
   15:30  Hertha BSC               v RB Leipzig                 0-3 (0-1)
+            (0-1  M. Sabitzer 28'
+             0-2  N. Mukiele 71'
+             0-3  W. Orban 83')
   18:00  TSG Hoffenheim           v SV Werder Bremen           4-0 (2-0)
+            (1-0  I. Bebou 28'
+             2-0  C. Baumgartner 44'
+             3-0  M. Dabbur 49'
+             4-0  Georginio Rutter 90')
 
 ▪ 23. Spieltag
 Fri Feb 26
   20:30  SV Werder Bremen         v Eintracht Frankfurt        2-1 (0-1)
+            (0-1  Andre Silva 9'
+             1-1  T. Gebre Selassi 48'
+             2-1  J. Sargent 62')
 Sat Feb 27
   15:30  FC Bayern München        v 1. FC Köln                 5-1 (2-0)
+            (1-0  Choupo-Moting 18'
+             2-0  Robert Lewandowski 33'
+             2-1  E. Skhiri 49'
+             3-1  Robert Lewandowski 65'
+             4-1  S. Gnabry 82'
+             5-1  S. Gnabry 86')
          Borussia Dortmund        v DSC Arminia Bielefeld      3-0 (0-0)
+            (1-0  M. Dahoud 48'
+             2-0  J. Sancho 58' (p)
+             3-0  Reinier 81')
          VfB Stuttgart            v FC Schalke 04              5-1 (3-1)
+            (1-0  W. Endo 10'
+             2-0  W. Endo 26'
+             3-0  S. Kalajdzic 34'
+             3-1  S. Kolasinac 40'
+             4-1  P. Klement 88'
+             5-1  D. Didavi 92')
          VfL Wolfsburg            v Hertha BSC                 2-0 (1-0)
+            (1-0  L. Klünter 37' (og)
+             2-0  M. Lacroix 89')
   18:30  RB Leipzig               v Borussia Mönchengladbach   3-2 (0-2)
+            (0-1  Jonas Hofmann 6' (p)
+             0-2  M. Thuram 19'
+             1-2  C. Nkunku 57'
+             2-2  Yussuf Poulsen 66'
+             3-2  A.Sorloth 90+3')
 Sun Feb 28
   13:30  1. FC Union Berlin       v TSG Hoffenheim             1-1 (1-1)
+            (1-0  M. Kruse 9' (p)
+             1-1  N. Schlotterbeck 29' (og))
   15:30  1. FSV Mainz 05          v FC Augsburg                0-1 (0-1)
+            (0-1  A. Hahn 25')
   18:00  Bayer 04 Leverkusen      v SC Freiburg                1-2 (0-0)
+            (0-1  E. Demirovic 50'
+             0-2  L. Höler 61'
+             1-2  L. Bailey 70')
 
 ▪ 24. Spieltag
 Fri Mar 5
   20:30  FC Schalke 04            v 1. FSV Mainz 05            0-0 (0-0)
 Sat Mar 6
   15:30  Borussia Mönchengladbach v Bayer 04 Leverkusen        0-1 (0-0)
+            (0-1  P. Schick 77')
          Eintracht Frankfurt      v VfB Stuttgart              1-1 (0-0)
+            (0-1  S. Kalajdzic 68'
+             1-1  F. Kostic 69')
          SC Freiburg              v RB Leipzig                 0-3 (0-1)
+            (0-1  C. Nkunku 41'
+             0-2  A. Sorloth 64'
+             0-3  Emil Forsberg 79')
          Hertha BSC               v FC Augsburg                2-1 (0-1)
+            (0-1  L. Benes 2'
+             1-1  K. Piatek 62'
+             2-1  D. Lukebakio 87' (p))
          TSG Hoffenheim           v VfL Wolfsburg              2-1 (2-1)
+            (1-0  C. Baumgartner 8'
+             1-1  W. Weghorst 23'
+             2-1  A. Kramaric 41')
   18:30  FC Bayern München        v Borussia Dortmund          4-2 (2-2)
+            (0-1  E. Haaland 2'
+             0-2  E. Haaland 9'
+             1-2  Robert Lewandowski 27'
+             2-2  Robert Lewandowski 44' (p)
+             3-2  L. Goretzka 88'
+             4-2  Robert Lewandowski 91')
 Sun Mar 7
   15:30  1. FC Köln               v SV Werder Bremen           1-1 (0-0)
+            (0-1  J. Sargent 66'
+             1-1  J. Hector 83')
   18:00  DSC Arminia Bielefeld    v 1. FC Union Berlin         0-0 (0-0)
 
 ▪ 20. Spieltag
 Wed Mar 10
   18:30  DSC Arminia Bielefeld    v SV Werder Bremen           0-2 (0-0)  @ Schüco Arena, Bielefeld
+            (0-1  J. Sargent 47'
+             0-2  K. Möhwald 75')
 
 ▪ 25. Spieltag
 Fri Mar 12
   20:30  FC Augsburg              v Borussia Mönchengladbach   3-1 (0-0)
+            (1-0  R. Vargas 52'
+             1-1  F. Neuhaus 68'
+             2-1  M. Ritter 76'
+             3-1  A. Hahn 89')
 Sat Mar 13
   15:30  1. FSV Mainz 05          v SC Freiburg                1-0 (0-0)
+            (1-0  R. Quaison 84')
          1. FC Union Berlin       v 1. FC Köln                 2-1 (0-1)
+            (0-1  O. Duda 45' (p)
+             1-1  M. Kruse 48' (p)
+             2-1  C. Trimmel 67')
          SV Werder Bremen         v FC Bayern München          1-3 (0-2)
+            (0-1  L. Goretzka 23'
+             0-2  S. Gnabry 35'
+             0-3  Robert Lewandowski 67'
+             1-3  N. Füllkrug 86')
          VfL Wolfsburg            v FC Schalke 04              5-0 (1-0)
+            (1-0  S. Mustafi 32' (og)
+             2-0  W. Weghorst 51'
+             3-0  R. Baku 58'
+             4-0  J. Brekalo 64'
+             5-0  M. Philipp 79')
   18:30  Borussia Dortmund        v Hertha BSC                 2-0 (0-0)
+            (1-0  J. Brandt 54'
+             2-0  Y. Moukoko 91')
 Sun Mar 14
   13:30  Bayer 04 Leverkusen      v DSC Arminia Bielefeld      1-2 (0-1)
+            (0-1  Ritsu Doan 18'
+             0-2  Masaya Okugawa 57'
+             1-2  P. Schick 85')
   15:30  RB Leipzig               v Eintracht Frankfurt        1-1 (0-0)
+            (1-0  E. Forsberg 46'
+             1-1  D. Kamada 61')
   18:00  VfB Stuttgart            v TSG Hoffenheim             2-0 (1-0)
+            (1-0  K. Nuhu 15' (og)
+             2-0  S. Kalajdzic 64')
 
 ▪ 26. Spieltag
 Fri Mar 19
   20:30  DSC Arminia Bielefeld    v RB Leipzig                 0-1 (0-0)
+            (0-1  M. Sabitzer 46')
 Sat Mar 20
   15:30  FC Bayern München        v VfB Stuttgart              4-0 (4-0)
+            (1-0  Robert Lewandowski 17'
+             2-0  S. Gnabry 22'
+             3-0  Robert Lewandowski 23'
+             4-0  Robert Lewandowski 39')
          Eintracht Frankfurt      v 1. FC Union Berlin         5-2 (4-2)
+            (1-0  A. Silva 2'
+             1-1  M. Kruse 7'
+             2-1  R. Andrich 35' (og)
+             3-1  F. Kostic 39'
+             4-1  F. Kostic 41'
+             4-2  M. Kruse 45+3'
+             5-2  T. Chandler 90+3')
          1. FC Köln               v Borussia Dortmund          2-2 (1-1)
+            (0-1  E. Haaland 3'
+             1-1  O. Duda 35' (p)
+             2-1  I. Jakobs 65'
+             2-2  E. Haaland 91')
          SV Werder Bremen         v VfL Wolfsburg              1-2 (1-2)
+            (0-1  J. Sargent 8' (og)
+             0-2  W. Weghorst 42'
+             1-2  K. Möhwald 45')
   18:30  FC Schalke 04            v Borussia Mönchengladbach   0-3 (0-1)
+            (0-1  Lars Stindl 15'
+             0-2  S. Lainer 63'
+             0-3  F. Rönnow 72' (og))
 Sun Mar 21
   13:30  TSG Hoffenheim           v 1. FSV Mainz 05            1-2 (1-2)
+            (0-1  R. Glatzel 1'
+             1-1  I. Bebou 39'
+             1-2  D. Kohr 41')
   15:30  Hertha BSC               v Bayer 04 Leverkusen        3-0 (3-0)
+            (1-0  D. Zeefuik 4'
+             2-0  M. Cunha 26'
+             3-0  J. Cordoba 33')
   18:00  SC Freiburg              v FC Augsburg                2-0 (0-0)
+            (1-0  R. Sallai 51'
+             2-0  P. Lienhart 82')
 
 ▪ 27. Spieltag
 Sat Apr 3
   15:30  FC Augsburg              v TSG Hoffenheim             2-1 (2-0)
+            (1-0  R. Vargas 8'
+             2-0  A. Hahn 23'
+             2-1  R. Skov 86')
          Bayer 04 Leverkusen      v FC Schalke 04              2-1 (1-0)
+            (1-0  L. Alario 26'
+             2-0  P. Schick 72'
+             2-1  K. Huntelaar 81')
          Borussia Dortmund        v Eintracht Frankfurt        1-2 (1-1)
+            (0-1  N. Schulz 11' (og)
+             1-1  M. Hummels 45'
+             1-2  A. Silva 87')
          1. FSV Mainz 05          v DSC Arminia Bielefeld      1-1 (0-0)
+            (1-0  D. Brosinski 56' (p)
+             1-1  A. Voglsammer 76')
          VfL Wolfsburg            v 1. FC Köln                 1-0 (0-0)
+            (1-0  J. Brekalo 69')
   18:30  RB Leipzig               v FC Bayern München          0-1 (0-1)
+            (0-1  L. Goretzka 38')
   20:30  Borussia Mönchengladbach v SC Freiburg                2-1 (0-1)
+            (0-1  R. Sallai 10'
+             1-1  M. Thuram 53'
+             2-1  M. Thuram 60')
 Sun Apr 4
   15:30  VfB Stuttgart            v SV Werder Bremen           1-0 (0-0)
+            (1-0  L. Augustinsson 81' (og))
   18:00  1. FC Union Berlin       v Hertha BSC                 1-1 (1-1)
+            (1-0  R. Andrich 10'
+             1-1  D. Lukebakio 35' (p))
 
 ▪ 28. Spieltag
 Fri Apr 9
   20:30  DSC Arminia Bielefeld    v SC Freiburg                1-0 (0-0)
+            (1-0  B. Santamaria 68' (og))
 Sat Apr 10
   15:30  FC Bayern München        v 1. FC Union Berlin         1-1 (0-0)
+            (1-0  J. Musiala 68'
+             1-1  M. Ingvartsen 85')
          Eintracht Frankfurt      v VfL Wolfsburg              4-3 (2-1)
+            (0-1  R. Baku 6'
+             1-1  D. Kamada 8'
+             2-1  L. Jovic 27'
+             2-2  W. Weghorst 46'
+             3-2  A. Silva 54'
+             4-2  E. Durm 61'
+             4-3  Tuta 85' (og))
          Hertha BSC               v Borussia Mönchengladbach   2-2 (1-2)
+            (1-0  S. Ascacibar 23'
+             1-1  A. Plea 27'
+             1-2  L. Stindl 38' (p)
+             2-2  J. Cordoba 49')
          SV Werder Bremen         v RB Leipzig                 1-4 (0-3)
+            (0-1  D. Olmo 23'
+             0-2  A. Sorloth 32'
+             0-3  A. Sorloth 41'
+             1-3  M. Rashica 61' (p)
+             1-4  M. Sabitzer 63')
   18:30  VfB Stuttgart            v Borussia Dortmund          2-3 (1-0)
+            (1-0  S. Kalajdzic 17'
+             1-1  J. Bellingham 47'
+             1-2  M. Reus 52'
+             2-2  D. Didavi 78'
+             2-3  A. Knauff 80')
 Sun Apr 11
   15:30  FC Schalke 04            v FC Augsburg                1-0 (1-0)
+            (1-0  S. Serdar 4')
   18:00  1. FC Köln               v 1. FSV Mainz 05            2-3 (1-1)
+            (0-1  J. Boetius 11'
+             1-1  O. Duda 43' (p)
+             2-1  E. Skhiri 61'
+             2-2  K. Onisiwo 65'
+             2-3  L. Barreiro 90+1')
 Mon Apr 12
   20:30  TSG Hoffenheim           v Bayer 04 Leverkusen        0-0 (0-0)
 
@@ -405,85 +1164,256 @@ Fri Apr 16
 Sat Apr 17
   15:30  FC Augsburg              v DSC Arminia Bielefeld      0-0 (0-0)
          Borussia Mönchengladbach v Eintracht Frankfurt        4-0 (1-0)
+            (1-0  M. Ginter 10'
+             2-0  J. Hofmann 60'
+             3-0  R. Bensebaini 67'
+             4-0  H. Wolf 95')
          SC Freiburg              v FC Schalke 04              4-0 (2-0)
+            (1-0  L. Höler 7'
+             2-0  R. Sallai 22' (p)
+             3-0  C. Günter 50'
+             4-0  C. Günter 74')
          1. FC Union Berlin       v VfB Stuttgart              2-1 (2-0)
+            (1-0  G. Prömel 20'
+             2-0  P. Musa 43'
+             2-1  P. Förster 49')
          VfL Wolfsburg            v FC Bayern München          2-3 (1-3)
+            (0-1  J. Musiala 15'
+             0-2  Choupo-Moting 24'
+             1-2  W. Weghorst 35'
+             1-3  J. Musiala 37'
+             2-3  M. Philipp 54')
   18:30  Bayer 04 Leverkusen      v 1. FC Köln                 3-0 (1-0)
+            (1-0  L. Bailey 5'
+             2-0  M. Diaby 51'
+             3-0  L. Bailey 76')
 Sun Apr 18
   15:30  Borussia Dortmund        v SV Werder Bremen           4-1 (3-1)
+            (0-1  M. Rashica 14'
+             1-1  G. Reyna 29'
+             2-1  E. Haaland 34' (p)
+             3-1  E. Haaland 38'
+             4-1  M. Hummels 87')
 
 ▪ 30. Spieltag
 Tue Apr 20
   18:30  1. FC Köln               v RB Leipzig                 2-1 (0-0)
+            (1-0  J. Hector 46'
+             1-1  A. Haidara 59'
+             2-1  J. Hector 60')
   20:30  DSC Arminia Bielefeld    v FC Schalke 04              1-0 (0-0)
+            (1-0  F. Klos 50')
          FC Bayern München        v Bayer 04 Leverkusen        2-0 (2-0)
+            (1-0  Choupo-Moting 7'
+             2-0  J. Kimmich 13')
          Eintracht Frankfurt      v FC Augsburg                2-0 (1-0)
+            (1-0  M. Hinteregger 37'
+             2-0  A. Silva 58')
 Wed Apr 21
   20:30  Borussia Dortmund        v 1. FC Union Berlin         2-0 (1-0)
+            (1-0  M. Reus 27'
+             2-0  R. Guerreiro 88')
          TSG Hoffenheim           v Borussia Mönchengladbach   3-2 (0-2)
+            (0-1  A. Plea 25'
+             0-2  V. Lazaro 47'
+             1-2  A. Kramaric 48'
+             2-2  I. Bebou 60'
+             3-2  A. Kramaric 65')
          VfB Stuttgart            v VfL Wolfsburg              1-3 (0-2)
+            (0-1  X. Schlager 13'
+             0-2  W. Weghorst 29'
+             0-3  Y. Gerhardt 65'
+             1-3  G. Castro 90+2')
          SV Werder Bremen         v 1. FSV Mainz 05            0-1 (0-1)
+            (0-1  A. Szalai 16')
 
 ▪ 31. Spieltag
 Fri Apr 23
   20:30  FC Augsburg              v 1. FC Köln                 2-3 (0-3)
+            (0-1  O. Duda 8'
+             0-2  F. Kainz 23'
+             0-3  O. Duda 33'
+             1-3  R. Gumny 54'
+             2-3  R. Vargas 62')
 Sat Apr 24
   15:30  SC Freiburg              v TSG Hoffenheim             1-1 (0-1)
+            (0-1  A. Kramaric 40'
+             1-1  V. Grifo 81' (p))
          1. FSV Mainz 05          v FC Bayern München          2-1 (2-0)
+            (2-0  R. Quaison 37'
+             2-1  Robert Lewandowski 90+5')
          1. FC Union Berlin       v SV Werder Bremen           3-1 (0-0)
+            (1-0  J. Pohjanpalo 50'
+             2-0  J. Pohjanpalo 53'
+             3-0  J. Pohjanpalo 67'
+             3-1  Gebre Selassie 82')
          VfL Wolfsburg            v Borussia Dortmund          0-2 (0-1)
+            (0-1  E. Haaland 12'
+             0-2  E. Haaland 68')
   18:30  Bayer 04 Leverkusen      v Eintracht Frankfurt        3-1 (0-0)
+            (1-0  L. Bailey 70'
+             2-0  L. Alario 80'
+             2-1  A. Silva 90+1'
+             3-1  K. Demirbay 90+2')
 Sun Apr 25
   15:30  RB Leipzig               v VfB Stuttgart              2-0 (0-0)
+            (1-0  A. Haidara 46'
+             2-0  E. Forsberg 67' (p))
   18:00  Borussia Mönchengladbach v DSC Arminia Bielefeld      5-0 (3-0)
+            (1-0  Breel Embolo 6'
+             2-0  M. Thuram 15'
+             3-0  R. Bensebaini 18' (p)
+             4-0  Breel Embolo 69'
+             5-0  A. Plea 84')
 
 ▪ 29. Spieltag
 Mon May 3
   18:00  1. FSV Mainz 05          v Hertha BSC                 1-1 (1-1)
+            (0-1  L. Tousart 36'
+             1-1  P. Mwene 40')
 
 ▪ 30. Spieltag
 Thu May 6
   18:30  Hertha BSC               v SC Freiburg                3-0 (2-0)
+            (1-0  Krzysztof Piatek 13'
+             2-0  Peter Pekarík 22'
+             3-0  N. Radonjic 85')
 
 ▪ 32. Spieltag
 Fri May 7
   20:30  VfB Stuttgart            v FC Augsburg                2-1 (1-0)
+            (1-0  Philipp Förster 11'
+             1-1  F. Niederlechner 59'
+             2-1  S. Kalajdzic 74')
 Sat May 8
   15:30  Borussia Dortmund        v RB Leipzig                 3-2 (1-0)  @ Signal-Iduna Park, Dortmund
+            (1-0  M. Reus 7'
+             2-0  J. Sancho 51'
+             2-1  L. Klostermann 63'
+             2-2  D. Olmo 77'
+             3-2  J. Sancho 87')
          TSG Hoffenheim           v FC Schalke 04              4-2 (0-2)
+            (0-1  M. Uth 12'
+             0-2  S. Mustafi 42'
+             1-2  A. Kramaric 47'
+             2-2  K. Akpoguma 52'
+             3-2  C. Baumgartner 60'
+             4-2  I. Bebou 64')
          SV Werder Bremen         v Bayer 04 Leverkusen        0-0 (0-0)
          VfL Wolfsburg            v 1. FC Union Berlin         3-0 (1-0)
+            (1-0  J. Brekalo 12'
+             2-0  J. Brekalo 63'
+             3-0  J. Brekalo 90')
   18:30  FC Bayern München        v Borussia Mönchengladbach   6-0 (4-0)
+            (1-0  Robert Lewandowski 2'
+             2-0  T. Müller 23'
+             3-0  Robert Lewandowski 34'
+             4-0  K. Coman 44'
+             5-0  Robert Lewandowski 66' (p)
+             6-0  L. Sane 86')
 Sun May 9
   13:30  1. FC Köln               v SC Freiburg                1-4 (0-2)
+            (0-1  N. Petersen 18'
+             0-2  E. Demirovic 20'
+             1-2  S. Andersson 49'
+             1-3  V. Grifo 93'
+             1-4  J. Schmid 96')
   15:30  Eintracht Frankfurt      v 1. FSV Mainz 05            1-1 (0-1)
+            (0-1  K. Onisiwo 11'
+             1-1  A. Hrustic 86')
   18:00  Hertha BSC               v DSC Arminia Bielefeld      0-0 (0-0)
 
 ▪ 31. Spieltag
 Wed May 12
   18:00  FC Schalke 04            v Hertha BSC                 1-2 (1-1)
+            (1-0  A. Harit 6'
+             1-1  D. Boyata 19'
+             1-2  J. Ngankam 73')
 
 ▪ 33. Spieltag
 Sat May 15
   15:30  DSC Arminia Bielefeld    v TSG Hoffenheim             1-1 (1-1)
+            (0-1  A. Kramaric 5'
+             1-1  A. Voglsammer 23')
          FC Augsburg              v SV Werder Bremen           2-0 (0-0)
+            (1-0  R. Khedira 57'
+             2-0  D. Caligiuri 90' (p))
          Bayer 04 Leverkusen      v 1. FC Union Berlin         1-1 (1-0)
+            (1-0  F. Wirtz 27'
+             1-1  J. Pohjanpalo 72')
          Borussia Mönchengladbach v VfB Stuttgart              1-2 (1-0)
+            (1-0  L. Stindl 45'
+             1-1  W. Endo 72'
+             1-2  S. Kalajdzic 78')
          SC Freiburg              v FC Bayern München          2-2 (1-1)
+            (0-1  Robert Lewandowski 26' (p)
+             1-1  M. Gulde 29'
+             1-2  L. Sane 53'
+             2-2  C. Günter 81')
          Hertha BSC               v 1. FC Köln                 0-0 (0-0)
          FC Schalke 04            v Eintracht Frankfurt        4-3 (1-1)
+            (1-0  K. Huntelaar 15'
+             1-1  A. Silva 29'
+             1-2  E. N'Dicka 51'
+             2-2  B. Idrizi 52'
+             3-2  F. Flick 60'
+             4-2  M. Hoppe 64'
+             4-3  A. Silva 72')
 Sun May 16
   18:00  1. FSV Mainz 05          v Borussia Dortmund          1-3 (0-2)
+            (0-1  R. Guerreiro 23'
+             0-2  M. Reus 42'
+             0-3  J. Brandt 80'
+             1-3  R. Quaison 91' (p))
   20:30  RB Leipzig               v VfL Wolfsburg              2-2 (0-2)
+            (0-1  M. Philipp 12'
+             0-2  M. Philipp 45+2'
+             1-2  J. Kluivert 51'
+             2-2  M. Sabitzer 78' (p))
 
 ▪ 34. Spieltag
 Sat May 22
   15:30  FC Bayern München        v FC Augsburg                5-2 (4-0)  @ Allianz-Arena, München
+            (1-0  J. Gouweleeuw 9' (og)
+             2-0  S. Gnabry 23'
+             3-0  J. Kimmich 33'
+             4-0  K. Coman 43'
+             4-1  A. Hahn 67'
+             4-2  F. Niederlechner 71'
+             5-2  Robert Lewandowski 91')
          Borussia Dortmund        v Bayer 04 Leverkusen        3-1 (1-0)  @ Signal Iduna Park, Dortmund
+            (1-0  E. Haaland 5'
+             2-0  M. Reus 51'
+             3-0  E. Haaland 84'
+             3-1  L. Bender 90' (p))
          Eintracht Frankfurt      v SC Freiburg                3-1 (0-0)  @ Deutsche Bank Park, Frankfurt
+            (1-0  A. Silva 62' (p)
+             1-1  W. Jeong 77'
+             2-1  A. Toure 87'
+             3-1  R. Ache 93')
          TSG Hoffenheim           v Hertha BSC                 2-1 (0-1)  @ PreZero Arena, Sinsheim
+            (0-1  V. Darida 43'
+             1-1  S. Adamyan 49'
+             2-1  A. Kramaric 91')
          1. FC Köln               v FC Schalke 04              1-0 (0-0)  @ RheinEnergieStadion, Köln
+            (1-0  S. Bornauw 86')
          VfB Stuttgart            v DSC Arminia Bielefeld      0-2 (0-0)  @ Mercedes-Benz Arena, Stuttgart
+            (0-1  F. Klos 66' (p)
+             0-2  R. Doan 72')
          1. FC Union Berlin       v RB Leipzig                 2-1 (0-0)  @ An der Alten Försterei, Berlin,  Att: 2000
+            (0-1  J. Kluivert 55'
+             1-1  M. Friedrich 68'
+             2-1  M. Kruse 92')
          SV Werder Bremen         v Borussia Mönchengladbach   2-4 (0-1)  @ Weserstadion, Bremen
+            (0-1  L. Stindl 3'
+             0-2  M. Thuram 52'
+             0-3  R. Bensebaini 58'
+             0-4  F. Neuhaus 67'
+             1-4  M. Rashica 82'
+             2-4  N. Füllkrug 83')
          VfL Wolfsburg            v 1. FSV Mainz 05            2-3 (0-1)  @ Volkswagen Arena, Wolfsburg
+            (0-1  J. Boetius 44'
+             1-1  M. Philipp 47'
+             1-2  R. Quaison 54'
+             2-2  J. Victor 66'
+             2-3  S. Bell 77')

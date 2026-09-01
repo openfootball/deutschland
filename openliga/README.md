@@ -2,7 +2,12 @@
 
 (auto-)converted from openligadb.de json to Football.TXT samples
 
-for example, see <https://api.openligadb.de/getmatchdata/bl1/2026> => [2006-27_de.1.txt](2006-27_de.1.txt), and many more
+for example, see 
+
+- <https://api.openligadb.de/getmatchdata/bl1/2026> => [2026-27_de.1.txt](2026-27_de.1.txt)
+- <https://api.openligadb.de/getmatchdata/dfb/2026> => [2026-27_de.cup.txt](2026-27_de.cup.txt)
+
+and many more
 
 
 

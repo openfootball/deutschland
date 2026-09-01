@@ -4,8 +4,8 @@
 
 for example, see 
 
-- <https://api.openligadb.de/getmatchdata/bl1/2026> => [2026-27_de.1.txt](2026-27_de.1.txt)
-- <https://api.openligadb.de/getmatchdata/dfb/2026> => [2026-27_de.cup.txt](2026-27_de.cup.txt)
+- <https://api.openligadb.de/getmatchdata/bl1/2026> => [2026-27_de.1.txt](2026-27_de.1.txt) & online @ [openliga_2026-27_de.1](https://openfootball.github.io/deutschland/openliga_2026-27_de.1.html)
+- <https://api.openligadb.de/getmatchdata/dfb/2026> => [2026-27_de.cup.txt](2026-27_de.cup.txt) & online @ [openliga_2026-27_de.cup](https://openfootball.github.io/deutschland/openliga_2026-27_de.cup.html)
 
 and many more
 

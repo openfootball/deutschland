@@ -4,20 +4,54 @@
 
 = 1. Fußball-Bundesliga 2026/2027
 
-
 ▪ 1. Spieltag
 Fri Aug 28 2026
-  20:30  FC Bayern München        v VfB Stuttgart
+  20:30  FC Bayern München        v VfB Stuttgart              5-1 (1-0)
+            (1-0  D. Upamecano 21'
+             1-1  J. Vagnoman 52'
+             2-1  M. Olise 55'
+             3-1  J. Vagnoman 57' (og)
+             4-1  Aleksandar Pavlovic 82'
+             5-1  Luis Díaz 90+2')
 Sat Aug 29
-  15:30  RB Leipzig               v Borussia Mönchengladbach
-         1. FSV Mainz 05          v SC Paderborn 07
-         1. FC Union Berlin       v Eintracht Frankfurt
-         1. FC Köln               v TSG Hoffenheim
-         SV 07 Elversberg         v Bayer 04 Leverkusen
-  18:30  Borussia Dortmund        v Hamburger SV
+  15:30  RB Leipzig               v Borussia Mönchengladbach   3-0 (1-0)
+            (1-0  R. Baku 26'
+             2-0  A. Nusa 49'
+             3-0  R. Reitz 66')
+         1. FSV Mainz 05          v SC Paderborn 07            0-0 (0-0)
+         1. FC Union Berlin       v Eintracht Frankfurt        3-3 (1-2)
+            (1-0  Emmanuel Latte Lath 3'
+             1-1  Younes Ebnoutalib 10'
+             1-2  Younes Ebnoutalib 11'
+             1-3  Younes Ebnoutalib 67'
+             2-3  L. Querfeld 79'
+             3-3  T. Skarke 90+2')
+         1. FC Köln               v TSG Hoffenheim             3-2 (0-1)
+            (0-1  A. Daghim 27'
+             1-1  S. El Mala 51'
+             1-2  O. Kabak 67'
+             2-2  Thijs Dallinga 72'
+             3-2  Thijs Dallinga 82')
+         SV 07 Elversberg         v Bayer 04 Leverkusen        3-2 (2-0)
+            (1-0  L. Petkov 8'
+             2-0  Cole Campbell 9'
+             3-0  David Mokwa Ntusu 46'
+             3-1  P. Schick 77'
+             3-2  C. Kofane 90+1')
+  18:30  Borussia Dortmund        v Hamburger SV               2-0 (2-0)
+            (1-0  S. Guirassy 9'
+             2-0  Giannis Konstantelias 45+1')
 Sun Aug 30
-  15:30  SC Freiburg              v SV Werder Bremen
-  17:30  FC Augsburg              v FC Schalke 04
+  15:30  SC Freiburg              v SV Werder Bremen           4-1 (2-0)
+            (1-0  Y. Suzuki 29'
+             2-0  I. Matanovic 45'
+             3-0  Y. Suzuki 48'
+             4-0  Y. Suzuki 55'
+             4-1  D. Stalmach 76')
+  17:30  FC Augsburg              v FC Schalke 04              3-0 (1-0)
+            (1-0  M. Gregoritsch 18'
+             2-0  A. Kade 79'
+             3-0  Rodrigo Ribeiro 90+2')
 
 ▪ 2. Spieltag
 Fri Sep 4

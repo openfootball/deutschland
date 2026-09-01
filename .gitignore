@@ -6,6 +6,12 @@ sport.db
 
 
 ####
+#  ignore local (web) cache
+
+cache/
+
+
+####
 #  all generated json output and in pages publish/deploy directory
 _site/
 *.json

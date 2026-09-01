@@ -4,7 +4,6 @@
 
 = 3. Liga 2026/2027
 
-
 ▪ 1. Spieltag
 Fri Aug 7 2026
   19:00  SV Waldhof Mannheim      v Fortuna Düsseldorf         2-1 (1-0)
@@ -111,18 +110,52 @@ Sun Aug 16
 
 ▪ 3. Spieltag
 Fri Aug 28
-  19:00  Fortuna Düsseldorf       v VfB Stuttgart II
+  19:00  Fortuna Düsseldorf       v VfB Stuttgart II           1-0 (0-0)
+            (1-0  A. Müller 59')
 Sat Aug 29
-  14:00  MSV Duisburg             v Würzburger Kickers
-         Alemannia Aachen         v SV Meppen
-         SC Verl                  v Fortuna Köln
-         SV Wehen Wiesbaden       v Rot-Weiss Essen
-         SG Sonnenhof Großaspach  v FC Ingolstadt 04
-  16:30  TSG 1899 Hoffenheim II   v Jahn Regensburg
+  14:00  MSV Duisburg             v Würzburger Kickers         3-0 (2-0)
+            (1-0  L. Lobinger 9'
+             2-0  L. Lobinger 15'
+             3-0  C. Viet 71')
+         Alemannia Aachen         v SV Meppen                  0-3 (0-3)
+            (0-1  T. Deters 9'
+             0-2  Cyrill Akono 11'
+             0-3  N. Nadj 43')
+         SC Verl                  v Fortuna Köln               1-2 (0-0)
+            (0-1  R. Aigbekaen 62'
+             0-2  T. Bornemann 89'
+             1-2  A. Farouk 90')
+         SV Wehen Wiesbaden       v Rot-Weiss Essen            0-0 (0-0)
+         SG Sonnenhof Großaspach  v FC Ingolstadt 04           0-2 (0-1)
+            (0-1  O. Ugondu 4'
+             0-2  A. Nuraj 55' (og))
+  16:30  TSG 1899 Hoffenheim II   v Jahn Regensburg            5-1 (2-0)
+            (1-0  Yasin Zor 18'
+             2-0  T. Poller 26'
+             2-1  L. Hermes 60'
+             3-1  Yasin Zor 62'
+             4-1  K. Gjasula 69'
+             5-1  B. Makanda 83')
 Sun Aug 30
-  13:30  1. FC Saarbrücken        v Hansa Rostock
-  16:30  TSV Havelse              v SV Waldhof Mannheim
-  19:30  Viktoria Köln            v Preußen Münster
+  13:30  1. FC Saarbrücken        v Hansa Rostock              2-4 (0-1)
+            (0-1  Dajaku 32'
+             1-1  L. Seung-Joon 47'
+             1-2  F. Carstens 55'
+             1-3  K. Fatkic 60' (p)
+             1-4  L. Wallner 73'
+             2-4  F. Pick 77')
+  16:30  TSV Havelse              v SV Waldhof Mannheim        3-2 (1-2)
+            (0-1  Gonçalo Gregório 21'
+             0-2  V. Thill 23'
+             1-2  A. Guiddir 25'
+             2-2  K. Wriedt 57'
+             3-2  O. Keumo 84' (og))
+  19:30  Viktoria Köln            v Preußen Münster            4-1 (3-1)
+            (1-0  N. Castelle 6'
+             2-0  D. Otto 12'
+             2-1  F. Higl 20'
+             3-1  D. Otto 43'
+             4-1  Noah Maboulou 89')
 
 ▪ 4. Spieltag
 Fri Sep 4

@@ -55,17 +55,53 @@ Sun Aug 30
 
 ▪ 2. Spieltag
 Fri Sep 4
-  20:30  VfB Stuttgart            v 1. FC Köln
+  20:30  VfB Stuttgart            v 1. FC Köln                 4-1 (1-0)
+            (1-0  B. El Khannouss 39'
+             2-0  G. Prömel 60'
+             3-0  E. Demirovic 76'
+             3-1  R. Hendriks 81' (og)
+             4-1  J. Vagnoman 90+1')
 Sat Sep 5
-  15:30  TSG Hoffenheim           v Borussia Dortmund
-         Bayer 04 Leverkusen      v 1. FC Union Berlin
-         Borussia Mönchengladbach v SV 07 Elversberg
-         SV Werder Bremen         v RB Leipzig
-         SC Paderborn 07          v SC Freiburg
-  18:30  FC Schalke 04            v FC Bayern München
+  15:30  TSG Hoffenheim           v Borussia Dortmund          2-3 (1-0)
+            (1-0  L. Avdullahu 45'
+             2-0  T. Lemperle 54'
+             2-1  S. Guirassy 61'
+             2-2  Fabio Silva 66'
+             2-3  A. Hajdari 87' (og))
+         Bayer 04 Leverkusen      v 1. FC Union Berlin         4-0 (2-0)
+            (1-0  E. Fernández 1'
+             2-0  Facundo Medina 28'
+             3-0  P. Schick 48'
+             4-0  Ibrahim Maza 66')
+         Borussia Mönchengladbach v SV 07 Elversberg           3-4 (2-1)
+            (1-0  H. Bolin 12'
+             1-1  D. Mokwa 29'
+             2-1  H. Bolin 44'
+             3-1  J. Scally 56'
+             3-2  M. Krattenmacher 66'
+             3-3  F. Keidel 80'
+             3-4  M. Krattenmacher 90+2')
+         SV Werder Bremen         v RB Leipzig                 3-1 (1-0)
+            (1-0  E. Dinkçi 4'
+             2-0  N. Füllkrug 68'
+             3-0  M. Grüll 80'
+             3-1  R. Baku 90+5')
+         SC Paderborn 07          v SC Freiburg                0-1 (0-1)
+            (0-1  M. Eggestein 26')
+  18:30  FC Schalke 04            v FC Bayern München          0-0 (0-0)
 Sun Sep 6
-  15:30  Hamburger SV             v 1. FSV Mainz 05
-  17:30  Eintracht Frankfurt      v FC Augsburg
+  15:30  Hamburger SV             v 1. FSV Mainz 05            0-5 (0-2)
+            (0-1  S. Becker 20'
+             0-2  P. Mwene 41'
+             0-3  P. Tietz 48'
+             0-4  P. Tietz 83'
+             0-5  R. Königsdörffer 90+2')
+  17:30  Eintracht Frankfurt      v FC Augsburg                1-4 (1-0)
+            (1-0  J. Burkardt 6'
+             1-1  Elias Baum 46' (og)
+             1-2  R. Fellhauer 47'
+             1-3  Alexis Claude-Maurice 65'
+             1-4  F. Rieder 89')
 
 ▪ 3. Spieltag
 Fri Sep 11

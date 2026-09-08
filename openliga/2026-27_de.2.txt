@@ -145,17 +145,51 @@ Sun Aug 30
 
 ▪ 4. Spieltag
 Fri Sep 4
-  18:30  Hannover 96              v Karlsruher SC
-         DSC Arminia Bielefeld    v FC St. Pauli
+  18:30  Hannover 96              v Karlsruher SC              2-2 (2-1)
+            (1-0  L. Gindorf 26'
+             1-1  Shio Fukuda 29'
+             2-1  Marcel Hartel 38'
+             2-2  R. Pedrosa 86')
+         DSC Arminia Bielefeld    v FC St. Pauli               2-2 (1-1)
+            (1-0  Jannik Rochelt 13'
+             1-1  Taichi Hara 20'
+             2-1  Joel Grodowski 51'
+             2-2  A. Ceesay 65')
 Sat Sep 5
-  13:00  VfL Wolfsburg            v Energie Cottbus
-         1. FC Kaiserslautern     v SV Darmstadt 98
-         Holstein Kiel            v 1. FC Nürnberg
-  20:30  Dynamo Dresden           v VfL Bochum
+  13:00  VfL Wolfsburg            v Energie Cottbus            4-4 (3-1)
+            (1-0  R. Glatzel 4' (p)
+             2-0  Vinicius Souza 25'
+             3-0  R. Glatzel 34'
+             3-1  Luca Erlein 45+4'
+             3-2  King Manu 49'
+             3-3  Tolcay Cigerci 67' (p)
+             4-3  M. Svanberg 79'
+             4-4  Dmytro Bogdanov 90+1')
+         1. FC Kaiserslautern     v SV Darmstadt 98            3-0 (1-0)
+            (1-0  Mário Sauer 43'
+             2-0  Thierry Tazemeta 64'
+             3-0  M. Berisha 90+5')
+         Holstein Kiel            v 1. FC Nürnberg             2-2 (1-1)
+            (0-1  Adam Markhiyev 41'
+             1-1  Phil Harres 45+1'
+             2-1  Adrián Kaprálik 50'
+             2-2  P. Scobel 56')
+  20:30  Dynamo Dresden           v VfL Bochum                 1-2 (1-2)
+            (0-1  Koji Miyoshi 4'
+             0-2  Koji Miyoshi 25'
+             1-2  Ben Bobzien 41')
 Sun Sep 6
-  13:30  Hertha BSC               v 1. FC Magdeburg
-         SpVgg Greuther Fürth     v 1. FC Heidenheim 1846
-         VfL Osnabrück            v Eintracht Braunschweig
+  13:30  Hertha BSC               v 1. FC Magdeburg            2-1 (1-1)
+            (1-0  J. Brekalo 10'
+             1-1  F. Michel 31'
+             2-1  Oluwaseun Victor Adewumi 47')
+         SpVgg Greuther Fürth     v 1. FC Heidenheim 1846      0-1 (0-1)
+            (0-1  B. Zivzivadze 12')
+         VfL Osnabrück            v Eintracht Braunschweig     3-1 (0-0)
+            (1-0  D. Kyereh 52'
+             2-0  B. Jacobsen 76'
+             3-0  R. Meißner 80'
+             3-1  Y. Sturm 88')
 
 ▪ 5. Spieltag
 Fri Sep 11

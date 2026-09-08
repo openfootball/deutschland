@@ -85,7 +85,7 @@ Sat Aug 22
             (0-1  Phil Harres 34'
              0-2  G. Balzi 90+4')
 Sun Aug 23
-  13:00  SSV Jeddeloh II          v 1. FC Heidenheim 1846      5-2 (3-1)
+  13:00  SSV Jeddeloh             v 1. FC Heidenheim 1846      5-2 (3-1)
             (0-1  Wagner 12'
              1-1  Krasniqi 13'
              2-1  J. Schöppner 27' (og)
@@ -178,6 +178,35 @@ Mon Aug 24
              2-4  Junior Adamu 106'
              2-5  Edin Dzeko 117')
 Tue Sep 1
-  20:45  Hamburg Eimsbütteler BC  v Borussia Dortmund
+  20:45  Hamburg Eimsbütteler BC  v Borussia Dortmund          0-5 (0-4)
+            (0-1  Janek Wrede 33' (og)
+             0-2  Daniel Svensson 36'
+             0-3  Samuele Inácio 41'
+             0-4  Samuele Inácio 45+2'
+             0-5  Fabio Silva 59')
 Wed Sep 2
-  20:45  VfL Osnabrück            v FC Bayern München
+  20:45  VfL Osnabrück            v FC Bayern München          1-4 (1-2)
+            (1-0  R. Meißner 5'
+             1-1  H. Kane 18'
+             1-2  T. Bischof 24'
+             1-3  M. Olise 73'
+             1-4  H. Kane 85' (p))
+
+▪ 2. Runde
+Tue Oct 27
+  15:30  SG Sonnenhof Großaspach  v FC Augsburg
+         SSV Jeddeloh             v Hertha BSC
+         Rot-Weiss Essen          v RB Leipzig
+         1. FC Köln               v 1. FC Union Berlin
+         Dynamo Dresden           v FC Schalke 04
+         Borussia Dortmund        v SV Werder Bremen
+         VfL Bochum               v 1. FSV Mainz 05
+         Hamburger SV             v Eintracht Frankfurt
+         Borussia Mönchengladbach v Karlsruher SC
+         Holstein Kiel            v TSG Hoffenheim
+         Bayer 04 Leverkusen      v 1. FC Nürnberg
+         Hannover 96              v 1. FC Kaiserslautern
+         SC Paderborn 07          v VfB Stuttgart
+         SC Freiburg              v VfL Wolfsburg
+         SV 07 Elversberg         v SV Darmstadt 98
+         FC Bayern München        v 1. FC Magdeburg

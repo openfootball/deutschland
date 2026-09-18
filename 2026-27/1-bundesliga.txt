@@ -38,17 +38,17 @@
 
 ▪ Matchday 3
   Fri Sep 11
-    20:30  1. FC Union Berlin      v FC Schalke 04
+    20:30  1. FC Union Berlin      v FC Schalke 04            1-3 (0-1)
   Sat Sep 12
-    15:30  TSG 1899 Hoffenheim     v VfB Stuttgart
-           Borussia Dortmund       v SC Paderborn 07
-           FC Augsburg             v Bayer 04 Leverkusen
-           1. FSV Mainz 05         v Eintracht Frankfurt
-           SC Freiburg             v Borussia Mönchengladbach
-    18:30  1. FC Köln              v SV Werder Bremen
+    15:30  TSG 1899 Hoffenheim     v VfB Stuttgart            2-1 (1-0)
+           Borussia Dortmund       v SC Paderborn 07          3-0 (1-0)
+           FC Augsburg             v Bayer 04 Leverkusen      2-2 (0-1)
+           1. FSV Mainz 05         v Eintracht Frankfurt      1-3 (0-2)
+           SC Freiburg             v Borussia Mönchengladbach  5-0 (2-0)
+    18:30  1. FC Köln              v SV Werder Bremen         1-1 (1-0)
   Sun Sep 13
-    15:30  RB Leipzig              v Hamburger SV
-    17:30  SV 07 Elversberg        v FC Bayern München
+    15:30  RB Leipzig              v Hamburger SV             5-0 (2-0)
+    17:30  SV 07 Elversberg        v FC Bayern München        1-2 (0-1)
 
 
 ▪ Matchday 4
@@ -67,94 +67,108 @@
 
 
 ▪ Matchday 5
+  Fri Oct 9
+    20:30  Borussia Dortmund       v SV Werder Bremen
   Sat Oct 10
-           1. FSV Mainz 05         v Bayer 04 Leverkusen
+    15:30  1. FSV Mainz 05         v Bayer 04 Leverkusen
            SC Paderborn 07         v VfB Stuttgart
-           1. FC Köln              v Borussia Mönchengladbach
-           RB Leipzig              v Eintracht Frankfurt
-           SC Freiburg             v FC Schalke 04
            1. FC Union Berlin      v SV 07 Elversberg
            TSG 1899 Hoffenheim     v Hamburger SV
            FC Augsburg             v FC Bayern München
-           Borussia Dortmund       v SV Werder Bremen
+    18:30  RB Leipzig              v Eintracht Frankfurt
+  Sun Oct 11
+    15:30  1. FC Köln              v Borussia Mönchengladbach
+    17:30  SC Freiburg             v FC Schalke 04
 
 
 ▪ Matchday 6
+  Fri Oct 16
+    20:30  Eintracht Frankfurt     v 1. FC Köln
   Sat Oct 17
-           1. FC Union Berlin      v Borussia Dortmund
+    15:30  1. FC Union Berlin      v Borussia Dortmund
            Hamburger SV            v VfB Stuttgart
            SV Werder Bremen        v SC Paderborn 07
            SV 07 Elversberg        v FC Augsburg
-           FC Bayern München       v RB Leipzig
-           Borussia Mönchengladbach v TSG 1899 Hoffenheim
-           Bayer 04 Leverkusen     v SC Freiburg
-           Eintracht Frankfurt     v 1. FC Köln
            FC Schalke 04           v 1. FSV Mainz 05
+    18:30  FC Bayern München       v RB Leipzig
+  Sun Oct 18
+    15:30  Bayer 04 Leverkusen     v SC Freiburg
+    17:30  Borussia Mönchengladbach v TSG 1899 Hoffenheim
 
 
 ▪ Matchday 7
+  Fri Oct 23
+    20:30  VfB Stuttgart           v Borussia Mönchengladbach
   Sat Oct 24
-           1. FSV Mainz 05         v SV Werder Bremen
+    15:30  1. FSV Mainz 05         v SV Werder Bremen
            1. FC Köln              v FC Schalke 04
            RB Leipzig              v SV 07 Elversberg
-           VfB Stuttgart           v Borussia Mönchengladbach
            SC Paderborn 07         v Hamburger SV
-           TSG 1899 Hoffenheim     v Bayer 04 Leverkusen
-           SC Freiburg             v FC Bayern München
-           Borussia Dortmund       v Eintracht Frankfurt
            FC Augsburg             v 1. FC Union Berlin
+    18:30  Borussia Dortmund       v Eintracht Frankfurt
+  Sun Oct 25
+    15:30  TSG 1899 Hoffenheim     v Bayer 04 Leverkusen
+    17:30  SC Freiburg             v FC Bayern München
 
 
 ▪ Matchday 8
+  Fri Oct 30
+    20:30  SV 07 Elversberg        v 1. FSV Mainz 05
   Sat Oct 31
-           Borussia Mönchengladbach v SC Paderborn 07
+    15:30  Borussia Mönchengladbach v SC Paderborn 07
            FC Schalke 04           v RB Leipzig
-           1. FC Union Berlin      v 1. FC Köln
            FC Augsburg             v SC Freiburg
            SV Werder Bremen        v TSG 1899 Hoffenheim
-           Eintracht Frankfurt     v Hamburger SV
-           FC Bayern München       v Borussia Dortmund
-           SV 07 Elversberg        v 1. FSV Mainz 05
            Bayer 04 Leverkusen     v VfB Stuttgart
+    18:30  FC Bayern München       v Borussia Dortmund
+  Sun Nov 1
+    15:30  1. FC Union Berlin      v 1. FC Köln
+    17:30  Eintracht Frankfurt     v Hamburger SV
 
 
 ▪ Matchday 9
+  Fri Nov 6
+    20:30  Hamburger SV            v Borussia Mönchengladbach
   Sat Nov 7
-           RB Leipzig              v FC Augsburg
-           VfB Stuttgart           v SV Werder Bremen
+    15:30  RB Leipzig              v FC Augsburg
            Borussia Dortmund       v SV 07 Elversberg
            1. FSV Mainz 05         v FC Bayern München
-           Hamburger SV            v Borussia Mönchengladbach
            SC Paderborn 07         v Eintracht Frankfurt
-           SC Freiburg             v 1. FC Union Berlin
-           1. FC Köln              v Bayer 04 Leverkusen
-           TSG 1899 Hoffenheim     v FC Schalke 04
+    18:30  VfB Stuttgart           v SV Werder Bremen
+  Sun Nov 8
+    15:30  1. FC Köln              v Bayer 04 Leverkusen
+    17:30  SC Freiburg             v 1. FC Union Berlin
+    19:30  TSG 1899 Hoffenheim     v FC Schalke 04
 
 
 ▪ Matchday 10
+  Fri Nov 20
+    20:30  FC Bayern München       v 1. FC Köln
   Sat Nov 21
-           Bayer 04 Leverkusen     v SC Paderborn 07
+    15:30  Bayer 04 Leverkusen     v SC Paderborn 07
            1. FC Union Berlin      v RB Leipzig
-           FC Bayern München       v 1. FC Köln
            SV 07 Elversberg        v SC Freiburg
-           FC Schalke 04           v VfB Stuttgart
            Borussia Mönchengladbach v Borussia Dortmund
-           SV Werder Bremen        v Hamburger SV
-           FC Augsburg             v 1. FSV Mainz 05
            Eintracht Frankfurt     v TSG 1899 Hoffenheim
+    18:30  FC Schalke 04           v VfB Stuttgart
+  Sun Nov 22
+    15:30  FC Augsburg             v 1. FSV Mainz 05
+    17:30  SV Werder Bremen        v Hamburger SV
 
 
 ▪ Matchday 11
+  Fri Nov 27
+    20:30  SV Werder Bremen        v Borussia Mönchengladbach
   Sat Nov 28
-           1. FC Köln              v SV 07 Elversberg
+    15:30  1. FC Köln              v SV 07 Elversberg
            1. FSV Mainz 05         v 1. FC Union Berlin
            SC Paderborn 07         v FC Schalke 04
-           SV Werder Bremen        v Borussia Mönchengladbach
-           VfB Stuttgart           v Eintracht Frankfurt
-           TSG 1899 Hoffenheim     v FC Augsburg
-           Borussia Dortmund       v Bayer 04 Leverkusen
-           SC Freiburg             v RB Leipzig
            Hamburger SV            v FC Bayern München
+    18:30  VfB Stuttgart           v Eintracht Frankfurt
+  Sun Nov 29
+    15:30  SC Freiburg             v RB Leipzig
+    17:30  TSG 1899 Hoffenheim     v FC Augsburg
+    19:30  Borussia Dortmund       v Bayer 04 Leverkusen
 
 
 ▪ Matchday 12
